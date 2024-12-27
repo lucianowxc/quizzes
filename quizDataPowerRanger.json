@@ -1,0 +1,82 @@
+{
+    "title": "Qual Power Ranger Melhor Te Representa?",
+    "questions": [
+        {
+            "question": "Qual é a sua cor favorita?",
+            "answers": [
+                { "text": "Vermelho", "points": { "red": 1 } },
+                { "text": "Azul", "points": { "blue": 1 } },
+                { "text": "Amarelo", "points": { "yellow": 1 } },
+                { "text": "Preto", "points": { "black": 1 } },
+                { "text": "Rosa", "points": { "pink": 1 } }
+            ]
+        },
+        {
+            "question": "Qual dessas qualidades melhor descreve você?",
+            "answers": [
+                { "text": "Corajoso e líder nato", "points": { "red": 1 } },
+                { "text": "Inteligente e estratégico", "points": { "blue": 1 } },
+                { "text": "Alegre e otimista", "points": { "yellow": 1 } },
+                { "text": "Forte e determinado", "points": { "black": 1 } },
+                { "text": "Gentil e compassivo", "points": { "pink": 1 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu passatempo favorito?",
+            "answers": [
+                { "text": "Praticar esportes", "points": { "red": 1 } },
+                { "text": "Resolver quebra-cabeças", "points": { "blue": 1 } },
+                { "text": "Sair com amigos", "points": { "yellow": 1 } },
+                { "text": "Treinar artes marciais", "points": { "black": 1 } },
+                { "text": "Ajudar os outros", "points": { "pink": 1 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu animal favorito?",
+            "answers": [
+                { "text": "Tiranossauro Rex", "points": { "red": 1 } },
+                { "text": "Tricerátopo", "points": { "blue": 1 } },
+                { "text": "Tigre Dente-de-Sabre", "points": { "yellow": 1 } },
+                { "text": "Mastodonte", "points": { "black": 1 } },
+                { "text": "Pterodáctilo", "points": { "pink": 1 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior objetivo na vida?",
+            "answers": [
+                { "text": "Ser um líder inspirador", "points": { "red": 1 } },
+                { "text": "Descobrir novas tecnologias", "points": { "blue": 1 } },
+                { "text": "Espalhar felicidade", "points": { "yellow": 1 } },
+                { "text": "Superar desafios", "points": { "black": 1 } },
+                { "text": "Fazer a diferença na vida das pessoas", "points": { "pink": 1 } }
+            ]
+        }
+    ],
+    "descriptions": {
+        "red": {
+            "emoji": "🔴",
+            "subtitle": "O Líder Corajoso",
+            "text": "Você é o líder nato do grupo, sempre pronto para enfrentar qualquer desafio de frente. Sua coragem e determinação inspiram todos ao seu redor. Assim como o Tiranossauro Rex, você é forte e imponente, liderando com confiança e bravura."
+        },
+        "blue": {
+            "emoji": "🔵",
+            "subtitle": "O Estrategista Inteligente",
+            "text": "Inteligente e estratégico, você é o cérebro do grupo. Sua habilidade de resolver problemas complexos e pensar rapidamente faz de você um membro indispensável da equipe. Como o Tricerátopo, você é resiliente e sempre encontra uma maneira de superar os obstáculos."
+        },
+        "yellow": {
+            "emoji": "🟡",
+            "subtitle": "O Otimista Alegre",
+            "text": "Alegre e otimista, você traz luz e energia positiva para o grupo. Sua atitude contagiante motiva todos ao seu redor a darem o seu melhor. Assim como o Tigre Dente-de-Sabre, você é ágil e sempre pronto para agir com rapidez e precisão."
+        },
+        "black": {
+            "emoji": "⚫",
+            "subtitle": "O Guerreiro Determinado",
+            "text": "Forte e determinado, você é o pilar de força do grupo. Sua perseverança e capacidade de enfrentar adversidades fazem de você um verdadeiro guerreiro. Como o Mastodonte, você é robusto e sempre pronto para proteger seus amigos."
+        },
+        "pink": {
+            "emoji": "🌸",
+            "subtitle": "O Coração Compassivo",
+            "text": "Gentil e compassivo, você é o coração do grupo. Sua empatia e desejo de ajudar os outros fazem de você uma pessoa querida por todos. Assim como o Pterodáctilo, você é gracioso e sempre encontra maneiras de elevar o espírito de quem está ao seu redor."
+        }
+    }
+}

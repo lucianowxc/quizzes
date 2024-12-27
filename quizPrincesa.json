@@ -1,0 +1,91 @@
+{
+    "title": "Qual princesa da Disney você seria?",
+    "questions": [
+        {
+            "question": "Qual é a sua atividade favorita em um dia livre?",
+            "answers": [
+                { "text": "Explorar a natureza", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Ler um bom livro", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Passar tempo com amigos e família", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Aprender algo novo", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua maior qualidade?",
+            "answers": [
+                { "text": "Coragem", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Inteligência", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Gentileza", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Determinação", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior sonho?",
+            "answers": [
+                { "text": "Viajar pelo mundo", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Ter uma grande biblioteca", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Construir uma família feliz", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Ser um líder inspirador", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior medo?",
+            "answers": [
+                { "text": "Perder a liberdade", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Não ser compreendido", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Ficar sozinho", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Fracassar", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        }
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "Moana",
+            "emoji": "👑",
+            "subtitle": "Você é a Princesa Aventureira!",
+            "text": "Você é corajosa e ama explorar novos lugares. A sua curiosidade e espírito livre te levam a viver grandes aventuras."
+        },
+        "resultado2": {
+            "title": "Belle",
+            "emoji": "📚",
+            "subtitle": "Você é a Princesa Intelectual!",
+            "text": "Você valoriza o conhecimento e adora aprender coisas novas. Sua inteligência e sabedoria são suas maiores forças."
+        },
+        "resultado3": {
+            "title": "Cinderela",
+            "emoji": "❤️",
+            "subtitle": "Você é a Princesa Amável!",
+            "text": "Você é gentil e sempre coloca os outros em primeiro lugar. Sua bondade e empatia fazem de você uma pessoa muito querida."
+        },
+        "resultado4": {
+            "title": "Mulan",
+            "emoji": "💪",
+            "subtitle": "Você é a Princesa Determinada!",
+            "text": "Você é determinada e nunca desiste dos seus sonhos. Sua força de vontade e perseverança te levam a alcançar grandes conquistas."
+        },
+        "resultado5": {
+            "title": "Ariel",
+            "emoji": "🌊",
+            "subtitle": "Você é a Princesa Curiosa!",
+            "text": "Você tem uma sede insaciável por conhecimento e novas experiências. Sua curiosidade te leva a descobrir mundos novos e fascinantes."
+        },
+        "resultado6": {
+            "title": "Rapunzel",
+            "emoji": "🌸",
+            "subtitle": "Você é a Princesa Criativa!",
+            "text": "Você é cheia de ideias e adora criar coisas novas. Sua criatividade e imaginação são suas maiores forças."
+        },
+        "resultado7": {
+            "title": "Tiana",
+            "emoji": "🍴",
+            "subtitle": "Você é a Princesa Trabalhadora!",
+            "text": "Você é determinada e trabalha duro para alcançar seus objetivos. Sua dedicação e ética de trabalho são inspiradoras."
+        },
+        "resultado8": {
+            "title": "Elsa",
+            "emoji": "❄️",
+            "subtitle": "Você é a Princesa Independente!",
+            "text": "Você valoriza sua independência e tem uma forte vontade. Sua capacidade de se manter firme em suas convicções é admirável!."
+        }
+    }
+}

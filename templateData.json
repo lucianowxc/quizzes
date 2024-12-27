@@ -1,0 +1,75 @@
+{
+    "title": "Título do Quiz",
+    "questions": [
+        {
+            "question": "Pergunta 1",
+            "answers": [
+                { "text": "Resposta 1", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Resposta 2", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Resposta 3", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Resposta 4", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Pergunta 2",
+            "answers": [
+                { "text": "Resposta 1", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Resposta 2", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Resposta 3", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Resposta 4", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        }
+        // Adicione mais perguntas conforme necessário
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "Nome do Resultado 1",
+            "emoji": "🔴",
+            "subtitle": "Subtítulo do Resultado 1",
+            "text": "Descrição do Resultado 1"
+        },
+        "resultado2": {
+            "title": "Nome do Resultado 2",
+            "emoji": "🔵",
+            "subtitle": "Subtítulo do Resultado 2",
+            "text": "Descrição do Resultado 2"
+        },
+        "resultado3": {
+            "title": "Nome do Resultado 3",
+            "emoji": "🟢",
+            "subtitle": "Subtítulo do Resultado 3",
+            "text": "Descrição do Resultado 3"
+        },
+        "resultado4": {
+            "title": "Nome do Resultado 4",
+            "emoji": "🟡",
+            "subtitle": "Subtítulo do Resultado 4",
+            "text": "Descrição do Resultado 4"
+        },
+        "resultado5": {
+            "title": "Nome do Resultado 5",
+            "emoji": "🟠",
+            "subtitle": "Subtítulo do Resultado 5",
+            "text": "Descrição do Resultado 5"
+        },
+        "resultado6": {
+            "title": "Nome do Resultado 6",
+            "emoji": "🟣",
+            "subtitle": "Subtítulo do Resultado 6",
+            "text": "Descrição do Resultado 6"
+        },
+        "resultado7": {
+            "title": "Nome do Resultado 7",
+            "emoji": "⚪",
+            "subtitle": "Subtítulo do Resultado 7",
+            "text": "Descrição do Resultado 7"
+        },
+        "resultado8": {
+            "title": "Nome do Resultado 8",
+            "emoji": "⚫",
+            "subtitle": "Subtítulo do Resultado 8",
+            "text": "Descrição do Resultado 8"
+        }
+        // Adicione mais resultados conforme necessário
+    }
+}

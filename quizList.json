@@ -1,0 +1,7 @@
+{
+    "quizzes": [
+        { "name": "Qual Pokémon Inicial Mais Combina com Você?", "file": "quizDataPkmn.json" },
+        { "name": "Qual Power Ranger Melhor Te Representa?", "file": "quizDataPowerRanger.json" },
+        { "name": "Qual Princesa Disney Te Representa?", "file": "quizPrincesa.json" }
+    ]
+}

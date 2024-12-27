@@ -1,0 +1,121 @@
+{
+    "title": "Qual Pokémon Inicial Mais Combina com Você?",
+    "questions": [
+        {
+            "question": "Como você prefere passar seu tempo livre?",
+            "answers": [
+                { "text": "Explorando a natureza e aprendendo sobre plantas", "points": { "bulbasaur": 0.7, "charmander": 0.3 } },
+                { "text": "Praticando esportes e atividades físicas intensas", "points": { "charmander": 0.8, "pikachu": 0.2 } },
+                { "text": "Relaxando perto de um lago ou piscina", "points": { "squirtle": 0.9, "bulbasaur": 0.1 } },
+                { "text": "Brincando e se divertindo com amigos", "points": { "pikachu": 0.6, "squirtle": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua abordagem para resolver problemas?",
+            "answers": [
+                { "text": "Enfrentar de frente com coragem e determinação", "points": { "charmander": 0.9, "bulbasaur": 0.1 } },
+                { "text": "Pensar calmamente e encontrar uma solução lógica", "points": { "squirtle": 0.8, "charmander": 0.2 } },
+                { "text": "Pedir ajuda e trabalhar em equipe", "points": { "bulbasaur": 0.7, "pikachu": 0.3 } },
+                { "text": "Ser criativo e encontrar uma solução divertida", "points": { "pikachu": 0.8, "squirtle": 0.2 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu tipo de comida favorito?",
+            "answers": [
+                { "text": "Comidas picantes e quentes", "points": { "charmander": 0.8, "pikachu": 0.2 } },
+                { "text": "Pratos leves e saudáveis", "points": { "bulbasaur": 0.7, "squirtle": 0.3 } },
+                { "text": "Frutos do mar e peixes", "points": { "squirtle": 0.9, "bulbasaur": 0.1 } },
+                { "text": "Doces e sobremesas", "points": { "pikachu": 0.6, "charmander": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua estação do ano favorita?",
+            "answers": [
+                { "text": "Verão", "points": { "charmander": 0.8, "pikachu": 0.2 } },
+                { "text": "Primavera", "points": { "bulbasaur": 0.7, "squirtle": 0.3 } },
+                { "text": "Outono", "points": { "squirtle": 0.6, "bulbasaur": 0.4 } },
+                { "text": "Inverno", "points": { "pikachu": 0.5, "charmander": 0.5 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu hobby favorito?",
+            "answers": [
+                { "text": "Jardinagem e cuidar de plantas", "points": { "bulbasaur": 0.9, "squirtle": 0.1 } },
+                { "text": "Cozinhar e experimentar novas receitas", "points": { "charmander": 0.7, "pikachu": 0.3 } },
+                { "text": "Nadar e atividades aquáticas", "points": { "squirtle": 0.8, "bulbasaur": 0.2 } },
+                { "text": "Jogos e atividades recreativas", "points": { "pikachu": 0.6, "charmander": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu tipo de filme favorito?",
+            "answers": [
+                { "text": "Ação e aventura", "points": { "charmander": 0.8, "pikachu": 0.2 } },
+                { "text": "Documentários e educativos", "points": { "bulbasaur": 0.7, "squirtle": 0.3 } },
+                { "text": "Comédia e diversão", "points": { "pikachu": 0.9, "charmander": 0.1 } },
+                { "text": "Drama e histórias emocionantes", "points": { "squirtle": 0.6, "bulbasaur": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu animal de estimação ideal?",
+            "answers": [
+                { "text": "Um cachorro enérgico", "points": { "pikachu": 0.8, "charmander": 0.2 } },
+                { "text": "Um gato tranquilo", "points": { "bulbasaur": 0.7, "squirtle": 0.3 } },
+                { "text": "Um peixe colorido", "points": { "squirtle": 0.9, "bulbasaur": 0.1 } },
+                { "text": "Um pássaro alegre", "points": { "charmander": 0.6, "pikachu": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua atividade favorita ao ar livre?",
+            "answers": [
+                { "text": "Caminhadas e trilhas", "points": { "bulbasaur": 0.8, "charmander": 0.2 } },
+                { "text": "Esportes aquáticos", "points": { "squirtle": 0.9, "pikachu": 0.1 } },
+                { "text": "Jogos e brincadeiras", "points": { "pikachu": 0.7, "bulbasaur": 0.3 } },
+                { "text": "Acampamentos e fogueiras", "points": { "charmander": 0.6, "squirtle": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua maior qualidade?",
+            "answers": [
+                { "text": "Coragem", "points": { "charmander": 0.9, "pikachu": 0.1 } },
+                { "text": "Inteligência", "points": { "squirtle": 0.8, "bulbasaur": 0.2 } },
+                { "text": "Amizade", "points": { "bulbasaur": 0.7, "pikachu": 0.3 } },
+                { "text": "Energia", "points": { "pikachu": 0.8, "charmander": 0.2 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior desafio?",
+            "answers": [
+                { "text": "Controlar a impulsividade", "points": { "charmander": 0.8, "pikachu": 0.2 } },
+                { "text": "Manter a calma sob pressão", "points": { "squirtle": 0.9, "charmander": 0.1 } },
+                { "text": "Ser mais extrovertido", "points": { "bulbasaur": 0.7, "squirtle": 0.3 } },
+                { "text": "Focar em uma tarefa por vez", "points": { "pikachu": 0.6, "bulbasaur": 0.4 } }
+            ]
+        }
+    ],
+    "descriptions": {
+        "charmander": {
+            "emoji": "🔥",
+            "title": "Charmander",
+            "subtitle": "O Corajoso e Determinado",
+            "text": "Você é como Charmander, sempre pronto para enfrentar desafios com coragem e determinação. Sua paixão e energia são contagiantes, inspirando todos ao seu redor."
+        },
+        "squirtle": {
+            "emoji": "💧",
+            "title": "Squirtle",
+            "subtitle": "O Calmo e Estratégico",
+            "text": "Você é como Squirtle, calmo e estratégico. Sua habilidade de manter a calma em situações difíceis e pensar de forma lógica faz de você um amigo confiável e um excelente solucionador de problemas."
+        },
+        "bulbasaur": {
+            "emoji": "🌿",
+            "title": "Bulbasaur",
+            "subtitle": "O Paciente e Amigável",
+            "text": "Você é como Bulbasaur, paciente e amigável. Sua natureza gentil e disposição para ajudar os outros fazem de você um amigo valioso e confiável."
+        },
+        "pikachu": {
+            "emoji": "⚡",
+            "title": "Pikachu",
+            "subtitle": "O Energético e Divertido",
+            "text": "Você é como Pikachu, cheio de energia e sempre pronto para se divertir. Sua personalidade vibrante e entusiasmo pela vida fazem de você o centro das atenções em qualquer grupo."
+        }
+    }
+}
