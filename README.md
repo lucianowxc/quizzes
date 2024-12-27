@@ -1,2 +1,2 @@
-# quizzes.github.io
-testando e hosteando quizzes de personalidade
+# quizzes
+Projeto feito no copilot de criação de ferramenta pra quiz
