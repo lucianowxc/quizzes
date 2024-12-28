@@ -25,7 +25,7 @@ function populateQuizPosts(quizzes) {
         post.className = 'quiz-post';
         post.innerHTML = `
             <h3>${quiz.name}</h3>
-            <p>Descubra qual ${quiz.name.toLowerCase()} você é!</p>
+            <p>${quiz.description}</p>
             <button onclick="loadQuizFromPost('${quiz.file}')">Começar Quiz</button>
         `;
         quizPostsContainer.appendChild(post);
