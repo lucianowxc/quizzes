@@ -86,6 +86,16 @@ input[type="file"], select {
     box-sizing: border-box;
 }
 
+select {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
 .return-button {
     margin-top: 20px;
     padding: 10px 20px;

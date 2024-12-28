@@ -1,0 +1,139 @@
+{
+    "title": "Com qual ditado popular brasileiro você mais se identifica?",
+    "questions": [
+        {
+            "question": "Qual dessas características melhor descreve você?",
+            "answers": [
+                { "text": "Persistente", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Paciente", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.1, "resultado10": 0.9 } },
+                { "text": "Otimista", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Prudente", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.1, "resultado10": 0.9 } }
+            ]
+        },
+        {
+            "question": "Como você lida com desafios?",
+            "answers": [
+                { "text": "Enfrento de cabeça erguida", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Analiso antes de agir", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.1, "resultado10": 0.9 } },
+                { "text": "Procuro ajuda", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Evito ao máximo", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.1, "resultado10": 0.9 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua atitude em relação ao futuro?",
+            "answers": [
+                { "text": "Planejo tudo", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Deixo acontecer", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.1, "resultado10": 0.9 } },
+                { "text": "Confio no destino", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Sou cauteloso", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.1, "resultado10": 0.9 } }
+            ]
+        },
+        {
+            "question": "Como você reage a críticas?",
+            "answers": [
+                { "text": "Aceito e melhoro", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Fico chateado", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.1, "resultado10": 0.9 } },
+                { "text": "Ignoro", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Rebato", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.1, "resultado10": 0.9 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua abordagem para resolver problemas?",
+            "answers": [
+                { "text": "Enfrento diretamente", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Procuro ajuda", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.1, "resultado10": 0.9 } },
+                { "text": "Analiso todas as opções", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Evito ao máximo", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.1, "resultado10": 0.9 } }
+            ]
+        },
+        {
+            "question": "Como você se sente em relação a mudanças?",
+            "answers": [
+                { "text": "Abraço as mudanças", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Resisto às mudanças", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.1, "resultado10": 0.9 } },
+                { "text": "Adapto-me facilmente", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Evito mudanças", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.1, "resultado10": 0.9 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua filosofia de vida?",
+            "answers": [
+                { "text": "Viva e deixe viver", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Carpe Diem", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.1, "resultado10": 0.9 } },
+                { "text": "Tudo tem seu tempo", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Prevenir é melhor que remediar", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.1, "resultado10": 0.9 } }
+            ]
+        },
+        {
+            "question": "Como você define sucesso?",
+            "answers": [
+                { "text": "Realização pessoal", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Reconhecimento", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.1, "resultado10": 0.9 } },
+                { "text": "Felicidade", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.9, "resultado10": 0.1 } },
+                { "text": "Segurança", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.1, "resultado10": 0.9 } }
+            ]
+        }
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "Água mole em pedra dura, tanto bate até que fura",
+            "emoji": "💧",
+            "subtitle": "Persistência é a chave",
+            "text": "Você acredita que com esforço e persistência, qualquer obstáculo pode ser superado."
+        },
+        "resultado2": {
+            "title": "Devagar se vai ao longe",
+            "emoji": "🐢",
+            "subtitle": "Paciência é uma virtude",
+            "text": "Você sabe que a paciência e a constância são essenciais para alcançar grandes objetivos."
+        },
+        "resultado3": {
+            "title": "Quem espera sempre alcança",
+            "emoji": "⏳",
+            "subtitle": "Otimismo é fundamental",
+            "text": "Você tem uma visão positiva da vida e acredita que tudo acontece no seu devido tempo."
+        },
+        "resultado4": {
+            "title": "Mais vale prevenir do que remediar",
+            "emoji": "⚠️",
+            "subtitle": "Prudência acima de tudo",
+            "text": "Você prefere tomar precauções e evitar problemas antes que eles aconteçam."
+        },
+        "resultado5": {
+            "title": "A pressa é inimiga da perfeição",
+            "emoji": "⏱️",
+            "subtitle": "Calma e precisão",
+            "text": "Você acredita que fazer as coisas com calma e precisão é melhor do que apressar e cometer erros."
+        },
+        "resultado6": {
+            "title": "Quem não arrisca, não petisca",
+            "emoji": "🎲",
+            "subtitle": "Coragem para arriscar",
+            "text": "Você acredita que é necessário correr riscos para alcançar grandes recompensas."
+        },
+        "resultado7": {
+            "title": "Antes tarde do que nunca",
+            "emoji": "⌛",
+            "subtitle": "Nunca é tarde demais",
+            "text": "Você acredita que nunca é tarde demais para fazer algo importante."
+        },
+        "resultado8": {
+            "title": "O seguro morreu de velho",
+            "emoji": "🛡️",
+            "subtitle": "Segurança em primeiro lugar",
+            "text": "Você prefere ser cauteloso e evitar riscos desnecessários."
+        },
+        "resultado9": {
+            "title": "A união faz a força",
+            "emoji": "🤝",
+            "subtitle": "Trabalho em equipe",
+            "text": "Você acredita que a colaboração e o trabalho em equipe são essenciais para alcançar grandes objetivos."
+        },
+        "resultado10": {
+            "title": "Cada macaco no seu galho",
+            "emoji": "🐒",
+            "subtitle": "Respeito às diferenças",
+            "text": "Você acredita que cada pessoa tem seu próprio papel e deve ser respeitada por isso."
+        }
+    }
+}
