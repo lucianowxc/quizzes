@@ -55,26 +55,31 @@
     "descriptions": {
         "red": {
             "emoji": "🔴",
+            "title": "Vermelho",
             "subtitle": "O Líder Corajoso",
             "text": "Você é o líder nato do grupo, sempre pronto para enfrentar qualquer desafio de frente. Sua coragem e determinação inspiram todos ao seu redor. Assim como o Tiranossauro Rex, você é forte e imponente, liderando com confiança e bravura."
         },
         "blue": {
             "emoji": "🔵",
+            "title": "Azul",
             "subtitle": "O Estrategista Inteligente",
             "text": "Inteligente e estratégico, você é o cérebro do grupo. Sua habilidade de resolver problemas complexos e pensar rapidamente faz de você um membro indispensável da equipe. Como o Tricerátopo, você é resiliente e sempre encontra uma maneira de superar os obstáculos."
         },
         "yellow": {
             "emoji": "🟡",
+            "title": "Amarelo",
             "subtitle": "O Otimista Alegre",
             "text": "Alegre e otimista, você traz luz e energia positiva para o grupo. Sua atitude contagiante motiva todos ao seu redor a darem o seu melhor. Assim como o Tigre Dente-de-Sabre, você é ágil e sempre pronto para agir com rapidez e precisão."
         },
         "black": {
             "emoji": "⚫",
+            "title": "Preto",
             "subtitle": "O Guerreiro Determinado",
             "text": "Forte e determinado, você é o pilar de força do grupo. Sua perseverança e capacidade de enfrentar adversidades fazem de você um verdadeiro guerreiro. Como o Mastodonte, você é robusto e sempre pronto para proteger seus amigos."
         },
         "pink": {
             "emoji": "🌸",
+            "title": "Rosa",
             "subtitle": "O Coração Compassivo",
             "text": "Gentil e compassivo, você é o coração do grupo. Sua empatia e desejo de ajudar os outros fazem de você uma pessoa querida por todos. Assim como o Pterodáctilo, você é gracioso e sempre encontra maneiras de elevar o espírito de quem está ao seu redor."
         }

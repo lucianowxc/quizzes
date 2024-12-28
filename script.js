@@ -2,32 +2,42 @@ let quizData;
 let currentQuestionIndex = 0;
 let scores = {};
 
-function loadQuizList() {
-    fetch('quizList.json')
-        .then(response => response.json())
-        .then(data => {
-            const quizSelect = document.getElementById('quiz-select');
-            data.quizzes.forEach(quiz => {
-                const option = document.createElement('option');
-                option.value = quiz.file;
-                option.textContent = quiz.name;
-                quizSelect.appendChild(option);
-            });
-        })
-        .catch(error => console.error('Erro ao carregar a lista de quizzes:', error));
+document.addEventListener('DOMContentLoaded', () => {
+    loadQuizList();
+    document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
+});
+
+async function loadQuizList() {
+    try {
+        const response = await fetch('quizList.json');
+        const data = await response.json();
+        populateQuizList(data.quizzes);
+    } catch (error) {
+        console.error('Erro ao carregar a lista de quizzes:', error);
+    }
 }
 
-function loadSelectedQuiz() {
+function populateQuizList(quizzes) {
+    const quizSelect = document.getElementById('quiz-select');
+    quizzes.forEach(quiz => {
+        const option = document.createElement('option');
+        option.value = quiz.file;
+        option.textContent = quiz.name;
+        quizSelect.appendChild(option);
+    });
+}
+
+async function loadSelectedQuiz() {
     const quizSelect = document.getElementById('quiz-select');
     const selectedQuiz = quizSelect.value;
     if (selectedQuiz) {
-        fetch(selectedQuiz)
-            .then(response => response.json())
-            .then(data => {
-                quizData = data;
-                initializeQuiz();
-            })
-            .catch(error => console.error('Erro ao carregar o quiz selecionado:', error));
+        try {
+            const response = await fetch(selectedQuiz);
+            quizData = await response.json();
+            initializeQuiz();
+        } catch (error) {
+            console.error('Erro ao carregar o quiz selecionado:', error);
+        }
     } else {
         alert('Por favor, selecione um quiz.');
     }
@@ -94,6 +104,7 @@ function showResult() {
         <h3>${subtitle}</h3>
         <p>${text}</p>
         <button onclick="restartQuiz()">Recomeçar</button>
+        <button class="return-button" onclick="returnToQuizSelection()">Voltar à Seleção de Quiz</button>
     `;
 }
 
@@ -103,7 +114,16 @@ function restartQuiz() {
     showQuestion();
 }
 
-document.addEventListener('DOMContentLoaded', () => {
-    loadQuizList();
+function returnToQuizSelection() {
     document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
-});
+    document.getElementById('quiz').innerHTML = `
+        <select id="quiz-select" aria-label="Selecione um quiz">
+            <option value="">Selecione um quiz</option>
+            <!-- Opções serão adicionadas dinamicamente -->
+        </select>
+        <button onclick="loadSelectedQuiz()" id="load-quiz-btn">Carregar Quiz</button>
+        <input type="file" id="file-input" accept=".json" aria-label="Carregar quiz do arquivo">
+        <button onclick="loadUploadedQuiz()" id="load-file-quiz-btn">Carregar Quiz do Arquivo</button>
+    `;
+    loadQuizList();
+}

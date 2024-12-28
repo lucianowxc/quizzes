@@ -1,0 +1,118 @@
+{
+    "title": "Qual personagem de Naruto você seria?",
+    "questions": [
+        {
+            "question": "Qual é a sua principal qualidade?",
+            "answers": [
+                { "text": "Coragem", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Inteligência", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Lealdade", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Determinação", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior medo?",
+            "answers": [
+                { "text": "Fracasso", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Solidão", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Perder alguém querido", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Ser esquecido", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu passatempo favorito?",
+            "answers": [
+                { "text": "Treinar", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Ler", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Passar tempo com amigos", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Meditar", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior objetivo?",
+            "answers": [
+                { "text": "Ser o mais forte", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Adquirir conhecimento", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Proteger os outros", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Encontrar paz interior", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Como você lida com os desafios?",
+            "answers": [
+                { "text": "Enfrento de frente", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Penso em uma estratégia", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Peço ajuda aos amigos", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Medito e reflito", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua maior fraqueza?",
+            "answers": [
+                { "text": "Impulsividade", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Overthinking", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Dependência dos outros", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Dificuldade em se expressar", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior sonho?",
+            "answers": [
+                { "text": "Ser reconhecido", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Ser sábio", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Proteger os entes queridos", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Encontrar a paz", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        }
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "Naruto Uzumaki",
+            "emoji": "🟠",
+            "subtitle": "O Ninja Determinado",
+            "text": "Você é corajoso, determinado e nunca desiste dos seus sonhos. Assim como Naruto, você valoriza a amizade e a lealdade acima de tudo."
+        },
+        "resultado2": {
+            "title": "Sasuke Uchiha",
+            "emoji": "🔵",
+            "subtitle": "O Ninja Solitário",
+            "text": "Você é inteligente, estratégico e muitas vezes prefere trabalhar sozinho. Assim como Sasuke, você busca poder e conhecimento."
+        },
+        "resultado3": {
+            "title": "Sakura Haruno",
+            "emoji": "🌸",
+            "subtitle": "A Ninja Dedicada",
+            "text": "Você é leal, trabalhadora e sempre busca melhorar. Assim como Sakura, você valoriza a força interior e a determinação."
+        },
+        "resultado4": {
+            "title": "Kakashi Hatake",
+            "emoji": "⚡",
+            "subtitle": "O Ninja Misterioso",
+            "text": "Você é sábio, experiente e muitas vezes enigmático. Assim como Kakashi, você valoriza o conhecimento e a estratégia."
+        },
+        "resultado5": {
+            "title": "Hinata Hyuga",
+            "emoji": "💜",
+            "subtitle": "A Ninja Gentil",
+            "text": "Você é gentil, compassivo e sempre pensa nos outros. Assim como Hinata, você valoriza a bondade e a empatia."
+        },
+        "resultado6": {
+            "title": "Shikamaru Nara",
+            "emoji": "🧠",
+            "subtitle": "O Ninja Estrategista",
+            "text": "Você é inteligente, estratégico e sempre pensa antes de agir. Assim como Shikamaru, você valoriza a lógica e a razão."
+        },
+        "resultado7": {
+            "title": "Rock Lee",
+            "emoji": "🥋",
+            "subtitle": "O Ninja Trabalhador",
+            "text": "Você é determinado, trabalhador e nunca desiste. Assim como Rock Lee, você valoriza o esforço e a perseverança."
+        },
+        "resultado8": {
+            "title": "Gaara",
+            "emoji": "🌪️",
+            "subtitle": "O Ninja Solitário",
+            "text": "Você é forte, independente e muitas vezes solitário. Assim como Gaara, você valoriza a força interior e a resiliência."
+        }
+    }
+}

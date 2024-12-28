@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Quiz de Personalidade">
+    <meta name="keywords" content="quiz, personalidade, diversão">
     <title>Quiz de Personalidade</title>
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -12,13 +14,13 @@
             <h1 id="quiz-title">Escolha seu Quiz</h1>
         </div>
         <div id="quiz">
-            <select id="quiz-select">
+            <select id="quiz-select" aria-label="Selecione um quiz">
                 <option value="">Selecione um quiz</option>
                 <!-- Opções serão adicionadas dinamicamente -->
             </select>
-            <button onclick="loadSelectedQuiz()">Carregar Quiz</button>
-            <input type="file" id="file-input" accept=".json">
-            <button onclick="loadUploadedQuiz()">Carregar Quiz do Arquivo</button>
+            <button onclick="loadSelectedQuiz()" id="load-quiz-btn">Carregar Quiz</button>
+            <input type="file" id="file-input" accept=".json" aria-label="Carregar quiz do arquivo">
+            <button onclick="loadUploadedQuiz()" id="load-file-quiz-btn">Carregar Quiz do Arquivo</button>
         </div>
     </div>
     <script src="script.js"></script>
