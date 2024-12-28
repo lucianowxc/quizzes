@@ -6,6 +6,6 @@
         { "name": "Qual personagem de Naruto você seria?", "file": "quizzes/quizNaruto.json" },
         { "name": "Com qual ditado popular brasileiro você mais se identifica?", "file": "quizzes/quizDitados.json" },
         { "name": "Qual estado brasileiro você seria?", "file": "quizzes/quizEstados.json" },
-        { "title": "De acordo com as suas escolhas de filmes, vamos escolher qual escolha de moda combina contigo", "path": "quizzes/quizRoupas.json" }
+        { "name": "De acordo com as suas escolhas de filmes, vamos escolher qual escolha de moda combina contigo", "file": "quizzes/quizRoupas.json" }
     ]
 }
