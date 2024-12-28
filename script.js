@@ -5,6 +5,7 @@ let scores = {};
 document.addEventListener('DOMContentLoaded', () => {
     loadQuizList();
     document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
+    document.getElementById('quiz-select').addEventListener('change', handleQuizSelectionChange);
 });
 
 async function loadQuizList() {
@@ -19,6 +20,7 @@ async function loadQuizList() {
 
 function populateQuizList(quizzes) {
     const quizSelect = document.getElementById('quiz-select');
+    quizSelect.innerHTML = '<option value="">Selecione um quiz</option>'; // Reset options
     quizzes.forEach(quiz => {
         const option = document.createElement('option');
         option.value = quiz.file;
@@ -61,6 +63,7 @@ function loadUploadedQuiz() {
 function initializeQuiz() {
     document.getElementById('quiz-title').textContent = quizData.title;
     scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
+    currentQuestionIndex = 0; // Reset question index
     showQuestion();
 }
 
@@ -75,6 +78,7 @@ function showQuestion() {
     quizData.questions[currentQuestionIndex].answers.forEach(answer => {
         const button = document.createElement('button');
         button.textContent = answer.text;
+        button.className = 'option-button';
         button.onclick = () => selectAnswer(answer.points);
         questionContainer.appendChild(button);
     });
@@ -126,4 +130,11 @@ function returnToQuizSelection() {
         <button onclick="loadUploadedQuiz()" id="load-file-quiz-btn">Carregar Quiz do Arquivo</button>
     `;
     loadQuizList();
+    document.getElementById('quiz-select').addEventListener('change', handleQuizSelectionChange); // Re-add event listener
+}
+
+function handleQuizSelectionChange() {
+    const quizSelect = document.getElementById('quiz-select');
+    const loadQuizBtn = document.getElementById('load-quiz-btn');
+    loadQuizBtn.disabled = !quizSelect.value;
 }
