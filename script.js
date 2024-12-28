@@ -5,43 +5,51 @@ let scores = {};
 document.addEventListener('DOMContentLoaded', () => {
     loadQuizList();
     document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
-    document.getElementById('quiz-select').addEventListener('change', handleQuizSelectionChange);
 });
 
 async function loadQuizList() {
     try {
         const response = await fetch('quizList.json');
         const data = await response.json();
-        populateQuizList(data.quizzes);
+        populateQuizPosts(data.quizzes);
     } catch (error) {
         console.error('Erro ao carregar a lista de quizzes:', error);
     }
 }
 
-function populateQuizList(quizzes) {
-    const quizSelect = document.getElementById('quiz-select');
-    quizSelect.innerHTML = '<option value="">Selecione um quiz</option>'; // Reset options
+function populateQuizPosts(quizzes) {
+    const quizPostsContainer = document.getElementById('quiz-posts');
+    quizPostsContainer.innerHTML = ''; // Reset posts
     quizzes.forEach(quiz => {
-        const option = document.createElement('option');
-        option.value = quiz.file;
-        option.textContent = quiz.name;
-        quizSelect.appendChild(option);
+        const post = document.createElement('div');
+        post.className = 'quiz-post';
+        post.innerHTML = `
+            <h3>${quiz.name}</h3>
+            <p>Descubra qual ${quiz.name.toLowerCase()} você é!</p>
+            <button onclick="loadQuizFromPost('${quiz.file}')">Começar Quiz</button>
+        `;
+        quizPostsContainer.appendChild(post);
     });
+
+    // Add the upload quiz post
+    const uploadPost = document.createElement('div');
+    uploadPost.className = 'quiz-post';
+    uploadPost.innerHTML = `
+        <h3>Carregar Quiz do Arquivo</h3>
+        <p>Faça upload de um arquivo JSON para carregar um quiz personalizado.</p>
+        <input type="file" id="file-input" accept=".json" aria-label="Carregar quiz do arquivo">
+        <button onclick="loadUploadedQuiz()">Carregar Quiz do Arquivo</button>
+    `;
+    quizPostsContainer.appendChild(uploadPost);
 }
 
-async function loadSelectedQuiz() {
-    const quizSelect = document.getElementById('quiz-select');
-    const selectedQuiz = quizSelect.value;
-    if (selectedQuiz) {
-        try {
-            const response = await fetch(selectedQuiz);
-            quizData = await response.json();
-            initializeQuiz();
-        } catch (error) {
-            console.error('Erro ao carregar o quiz selecionado:', error);
-        }
-    } else {
-        alert('Por favor, selecione um quiz.');
+async function loadQuizFromPost(file) {
+    try {
+        const response = await fetch(file);
+        quizData = await response.json();
+        initializeQuiz();
+    } catch (error) {
+        console.error('Erro ao carregar o quiz selecionado:', error);
     }
 }
 
@@ -65,6 +73,7 @@ function initializeQuiz() {
     scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
     currentQuestionIndex = 0; // Reset question index
     showQuestion();
+    document.getElementById('quiz-posts').classList.add('hidden'); // Hide quiz posts
 }
 
 function showQuestion() {
@@ -120,21 +129,7 @@ function restartQuiz() {
 
 function returnToQuizSelection() {
     document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
-    document.getElementById('quiz').innerHTML = `
-        <select id="quiz-select" aria-label="Selecione um quiz">
-            <option value="">Selecione um quiz</option>
-            <!-- Opções serão adicionadas dinamicamente -->
-        </select>
-        <button onclick="loadSelectedQuiz()" id="load-quiz-btn">Carregar Quiz</button>
-        <input type="file" id="file-input" accept=".json" aria-label="Carregar quiz do arquivo">
-        <button onclick="loadUploadedQuiz()" id="load-file-quiz-btn">Carregar Quiz do Arquivo</button>
-    `;
+    document.getElementById('quiz').innerHTML = '';
     loadQuizList();
-    document.getElementById('quiz-select').addEventListener('change', handleQuizSelectionChange); // Re-add event listener
-}
-
-function handleQuizSelectionChange() {
-    const quizSelect = document.getElementById('quiz-select');
-    const loadQuizBtn = document.getElementById('load-quiz-btn');
-    loadQuizBtn.disabled = !quizSelect.value;
+    document.getElementById('quiz-posts').classList.remove('hidden'); // Show quiz posts
 }

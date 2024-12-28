@@ -11,19 +11,32 @@
     --input-border-color: #ccc;
     --input-background-color: white;
     --input-font-color: #333;
-    --option-background:rgb(151, 35, 0); /* Updated option background color */
-    --option-hover-background:rgb(247, 136, 102); /* Updated option hover background color */
+    --option-background: #FFCCBC; /* Updated option background color */
+    --option-hover-background: #FFAB91; /* Updated option hover background color */
     --option-border-color: #D32F2F; /* Updated option border color */
 }
 
 body {
     font-family: 'Arial', sans-serif;
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
-    height: 100vh;
     margin: 0;
     background-color: var(--background-color);
+}
+
+header {
+    background-color: var(--header-background);
+    color: var(--header-font-color);
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
 }
 
 .quiz-container {
@@ -34,19 +47,7 @@ body {
     width: 100%;
     max-width: 600px;
     text-align: center;
-}
-
-.quiz-header {
-    background-color: var(--header-background);
-    color: var(--header-font-color);
-    padding: 20px;
-    border-radius: 10px 10px 0 0;
-    margin: -20px -20px 20px -20px;
-}
-
-h1 {
-    font-size: 24px;
-    color: var(--header-font-color);
+    margin-top: 20px;
 }
 
 h2 {
@@ -145,6 +146,43 @@ select {
 
 .return-button:hover {
     background-color: var(--button-hover-background);
+}
+
+.quiz-posts {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.quiz-post {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 300px;
+    text-align: center;
+    transition: transform 0.3s;
+}
+
+.quiz-post:hover {
+    transform: translateY(-5px);
+}
+
+.quiz-post h3 {
+    font-size: 18px;
+    color: var(--font-color);
+}
+
+.quiz-post p {
+    font-size: 14px;
+    color: #666;
+}
+
+.hidden {
+    display: none;
 }
 
 @media (max-width: 600px) {

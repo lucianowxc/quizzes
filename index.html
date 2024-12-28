@@ -14,13 +14,16 @@
             <h1 id="quiz-title">Escolha seu Quiz</h1>
         </div>
         <div id="quiz">
-            <select id="quiz-select" aria-label="Selecione um quiz" onchange="handleQuizSelectionChange()">
-                <option value="">Selecione um quiz</option>
-                <!-- Opções serão adicionadas dinamicamente -->
-            </select>
-            <button onclick="loadSelectedQuiz()" id="load-quiz-btn">Carregar Quiz</button>
+            <!-- Quiz content will be added dynamically -->
+        </div>
+    </div>
+    <div class="quiz-posts" id="quiz-posts">
+        <!-- Quiz posts will be added dynamically -->
+        <div class="quiz-post">
+            <h3>Carregar Quiz do Arquivo</h3>
+            <p>Faça upload de um arquivo JSON para carregar um quiz personalizado.</p>
             <input type="file" id="file-input" accept=".json" aria-label="Carregar quiz do arquivo">
-            <button onclick="loadUploadedQuiz()" id="load-file-quiz-btn">Carregar Quiz do Arquivo</button>
+            <button onclick="loadUploadedQuiz()">Carregar Quiz do Arquivo</button>
         </div>
     </div>
     <script src="script.js"></script>
