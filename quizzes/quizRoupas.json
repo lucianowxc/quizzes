@@ -1,0 +1,96 @@
+{
+  "title": "De acordo com as suas escolhas de filmes, vamos escolher qual escolha de moda combina contigo",
+  "description": "Escolha filmes e descubra qual estilo de moda combina com você!",
+  "questions": [
+    {
+      "question": "Escolha um filme para assistir em um dia chuvoso:",
+      "answers": [
+        { "text": "Cantando na Chuva", "points": { "resultado1": 1, "resultado2": 0, "resultado3": 0, "resultado4": 0, "resultado5": 0, "resultado6": 0, "resultado7": 0, "resultado8": 0 } },
+        { "text": "O Diário de Bridget Jones", "points": { "resultado1": 0, "resultado2": 1, "resultado3": 0, "resultado4": 0, "resultado5": 0, "resultado6": 0, "resultado7": 0, "resultado8": 0 } },
+        { "text": "Blade Runner", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 1, "resultado4": 0, "resultado5": 0, "resultado6": 0, "resultado7": 0, "resultado8": 0 } }
+      ]
+    },
+    {
+      "question": "Escolha um filme para assistir em uma noite de sexta-feira:",
+      "answers": [
+        { "text": "Clube da Luta", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 0, "resultado4": 1, "resultado5": 0, "resultado6": 0, "resultado7": 0, "resultado8": 0 } },
+        { "text": "O Diabo Veste Prada", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 0, "resultado4": 0, "resultado5": 1, "resultado6": 0, "resultado7": 0, "resultado8": 0 } },
+        { "text": "Pulp Fiction", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 0, "resultado4": 0, "resultado5": 0, "resultado6": 1, "resultado7": 0, "resultado8": 0 } }
+      ]
+    },
+    {
+      "question": "Escolha um filme para assistir em um domingo preguiçoso:",
+      "answers": [
+        { "text": "O Grande Lebowski", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 0, "resultado4": 0, "resultado5": 0, "resultado6": 0, "resultado7": 1, "resultado8": 0 } },
+        { "text": "Harry Potter", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 0, "resultado4": 0, "resultado5": 0, "resultado6": 0, "resultado7": 0, "resultado8": 1 } },
+        { "text": "Forrest Gump", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 0, "resultado4": 0, "resultado5": 0, "resultado6": 0, "resultado7": 0, "resultado8": 0 } }
+      ]
+    },
+    {
+      "question": "Escolha um filme para assistir com amigos:",
+      "answers": [
+        { "text": "Superbad", "points": { "resultado1": 1, "resultado2": 0, "resultado3": 0, "resultado4": 0, "resultado5": 0, "resultado6": 0, "resultado7": 0, "resultado8": 0 } },
+        { "text": "Vingadores: Ultimato", "points": { "resultado1": 0, "resultado2": 1, "resultado3": 0, "resultado4": 0, "resultado5": 0, "resultado6": 0, "resultado7": 0, "resultado8": 0 } },
+        { "text": "O Senhor dos Anéis", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 1, "resultado4": 0, "resultado5": 0, "resultado6": 0, "resultado7": 0, "resultado8": 0 } }
+      ]
+    },
+    {
+      "question": "Escolha um filme para assistir em uma viagem longa:",
+      "answers": [
+        { "text": "Interestelar", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 0, "resultado4": 1, "resultado5": 0, "resultado6": 0, "resultado7": 0, "resultado8": 0 } },
+        { "text": "Mad Max: Estrada da Fúria", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 0, "resultado4": 0, "resultado5": 1, "resultado6": 0, "resultado7": 0, "resultado8": 0 } },
+        { "text": "A Origem", "points": { "resultado1": 0, "resultado2": 0, "resultado3": 0, "resultado4": 0, "resultado5": 0, "resultado6": 1, "resultado7": 0, "resultado8": 0 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "resultado1": {
+      "title": "Guarda-chuva Fashionista",
+      "emoji": "☔",
+      "subtitle": "Guarda-chuva como acessório.",
+      "text": "Parabéns! Você é o tipo de pessoa que usaria um guarda-chuva como acessório de moda."
+    },
+    "resultado2": {
+      "title": "Pijama de Ursinhos",
+      "emoji": "🐻",
+      "subtitle": "Pijama de flanela.",
+      "text": "Você definitivamente precisa de um pijama de flanela com estampa de ursinhos."
+    },
+    "resultado3": {
+      "title": "Estilo Blade Runner",
+      "emoji": "🕶️",
+      "subtitle": "Jaquetas de couro e óculos.",
+      "text": "Jaquetas de couro e óculos escuros à noite? Totalmente seu estilo."
+    },
+    "resultado4": {
+      "title": "Hematomas Fashion",
+      "emoji": "🥊",
+      "subtitle": "Hematomas como moda.",
+      "text": "Você é do tipo que acha que hematomas são acessórios de moda."
+    },
+    "resultado5": {
+      "title": "Coleção de Sapatos",
+      "emoji": "👠",
+      "subtitle": "Sapatos de Miranda Priestly.",
+      "text": "Você provavelmente tem uma coleção de sapatos que faria a Miranda Priestly orgulhosa."
+    },
+    "resultado6": {
+      "title": "Vintage e Ternos Pretos",
+      "emoji": "🕴️",
+      "subtitle": "Roupas vintage.",
+      "text": "Seu guarda-roupa deve ter uma boa quantidade de roupas vintage e ternos pretos."
+    },
+    "resultado7": {
+      "title": "Roupão de Banho",
+      "emoji": "🛁",
+      "subtitle": "Uniforme de domingo.",
+      "text": "Roupão de banho e chinelos são o seu uniforme oficial de domingo."
+    },
+    "resultado8": {
+      "title": "Cachecol da Grifinória",
+      "emoji": "🧣",
+      "subtitle": "Cachecol da Grifinória.",
+      "text": "Você provavelmente tem um cachecol da Grifinória, não é?"
+    }
+  }
+}
