@@ -215,3 +215,44 @@ select {
         font-size: 14px;
     }
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 5px 10px;
+    font-size: 10px;
+    color: #666;
+    background-color: #f0f0f0;
+    border-top: 1px solid #ccc;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+footer p {
+    display: none;
+    margin: 0;
+}
+
+footer button {
+    background: none;
+    border: none;
+    color: #666;
+    cursor: pointer;
+    font-size: 10px;
+    padding: 0;
+    margin-left: 5px;
+}
+
+footer button:focus {
+    outline: none;
+}
+
+footer.show-text p {
+    display: block;
+}
+
+footer.show-text button {
+    display: none;
+}
