@@ -133,7 +133,3 @@ function returnToQuizSelection() {
     loadQuizList();
     document.getElementById('quiz-posts').classList.remove('hidden'); // Show quiz posts
 }
-
-function toggleFooterText() {
-    document.querySelector('footer').classList.toggle('show-text');
-}
