@@ -119,17 +119,20 @@ select {
 }
 
 .option-button {
-    background-color: var(--option-background);
-    border: 1px solid var(--option-border-color);
+    width: 200px; /* Tamanho fixo */
+    height: 50px; /* Tamanho fixo */
+    background-color: #333; /* Cor de fundo mais escura */
+    color: #fff; /* Cor do texto branco */
+    border: none;
     border-radius: 5px;
-    padding: 10px;
     margin: 10px 0;
     cursor: pointer;
+    font-size: 16px;
     transition: background-color 0.3s;
 }
 
 .option-button:hover {
-    background-color: var(--option-hover-background);
+    background-color: #555; /* Cor de fundo ao passar o mouse */
 }
 
 .return-button {
