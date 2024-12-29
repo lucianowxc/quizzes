@@ -70,15 +70,15 @@ button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
-    background-color: var(--button-background);
-    color: var(--button-font-color);
+    background-color: #444; /* Cor de fundo mais escura */
+    color: #fff; /* Cor do texto branco */
     border: none;
     border-radius: 5px;
     transition: background-color 0.3s;
 }
 
 button:hover {
-    background-color: var(--button-hover-background);
+    background-color: #666; /* Cor de fundo ao passar o mouse */
 }
 
 button:focus {
@@ -119,9 +119,9 @@ select {
 }
 
 .option-button {
-    width: 200px; /* Tamanho fixo */
-    height: 50px; /* Tamanho fixo */
-    background-color: #333; /* Cor de fundo mais escura */
+    min-width: 200px; /* Largura mínima */
+    padding: 10px 20px; /* Ajuste de padding para textos maiores */
+    background-color: #444; /* Cor de fundo mais escura */
     color: #fff; /* Cor do texto branco */
     border: none;
     border-radius: 5px;
@@ -129,10 +129,11 @@ select {
     cursor: pointer;
     font-size: 16px;
     transition: background-color 0.3s;
+    text-align: center; /* Centraliza o texto */
 }
 
 .option-button:hover {
-    background-color: #555; /* Cor de fundo ao passar o mouse */
+    background-color: #666; /* Cor de fundo ao passar o mouse */
 }
 
 .return-button {
