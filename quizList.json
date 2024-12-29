@@ -34,6 +34,11 @@
             "name": "De acordo com as suas escolhas de filmes, vamos escolher qual escolha de moda combina contigo", 
             "file": "quizzes/quizRoupas.json",
             "description": "Descubra qual estilo de moda combina com você baseado nas suas escolhas de filmes!"
+        },
+        { 
+            "name": "Qual personagem da Turma da Mônica você é?", 
+            "file": "quizzes/quizTurmaMonica.json",
+            "description": "Descubra qual personagem da Turma da Mônica mais se parece com você!"
         }
     ]
 }

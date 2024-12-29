@@ -1,0 +1,196 @@
+{
+
+    "title": "Qual personagem da Turma da Mônica você é?",
+    "questions": [
+        {
+            "question": "1. Qual é a sua atividade favorita?",
+            "answers": [
+                { "text": "Ler gibis 📚", "points": { "Cebolinha": 0.2, "Mônica": 0.5, "Cascão": 0.1, "Magali": 0.3, "Bidu": 0.6, "Astronauta": 0.4, "Tina": 0.7, "Franjinha": 0.3, "Titi": 0.5, "Chico Bento": 0.4, "Rosinha": 0.3, "Zé Lelé": 0.4, "Anjinho": 0.6, "Louco": 0.2, "Nimbus": 0.5, "Horácio": 0.7, "Papa-Capim": 0.6, "Penadinho": 0.4 } },
+                { "text": "Jogar futebol ⚽", "points": { "Cebolinha": 0.8, "Mônica": 0.2, "Cascão": 0.6, "Magali": 0.4, "Bidu": 0.1, "Astronauta": 0.3, "Tina": 0.5, "Franjinha": 0.4, "Titi": 0.7, "Chico Bento": 0.3, "Rosinha": 0.5, "Zé Lelé": 0.6, "Anjinho": 0.4, "Louco": 0.3, "Nimbus": 0.2, "Horácio": 0.4, "Papa-Capim": 0.5, "Penadinho": 0.6 } },
+                { "text": "Comer lanche 🍔", "points": { "Cebolinha": 0.3, "Mônica": 0.6, "Cascão": 0.2, "Magali": 0.8, "Bidu": 0.4, "Astronauta": 0.1, "Tina": 0.5, "Franjinha": 0.5, "Titi": 0.6, "Chico Bento": 0.4, "Rosinha": 0.3, "Zé Lelé": 0.7, "Anjinho": 0.3, "Louco": 0.5, "Nimbus": 0.6, "Horácio": 0.2, "Papa-Capim": 0.4, "Penadinho": 0.7 } },
+                { "text": "Explorar a natureza 🌲", "points": { "Cebolinha": 0.4, "Mônica": 0.3, "Cascão": 0.7, "Magali": 0.2, "Bidu": 0.6, "Astronauta": 0.5, "Tina": 0.8, "Franjinha": 0.2, "Titi": 0.3, "Chico Bento": 0.7, "Rosinha": 0.6, "Zé Lelé": 0.4, "Anjinho": 0.5, "Louco": 0.6, "Nimbus": 0.4, "Horácio": 0.3, "Papa-Capim": 0.8, "Penadinho": 0.5 } },
+                { "text": "Estudar astronomia 🌌", "points": { "Cebolinha": 0.1, "Mônica": 0.4, "Cascão": 0.3, "Magali": 0.5, "Bidu": 0.7, "Astronauta": 0.8, "Tina": 0.2, "Franjinha": 0.6, "Titi": 0.4, "Chico Bento": 0.3, "Rosinha": 0.5, "Zé Lelé": 0.2, "Anjinho": 0.6, "Louco": 0.7, "Nimbus": 0.5, "Horácio": 0.4, "Papa-Capim": 0.3, "Penadinho": 0.2 } }
+            ]
+        },
+        {
+            "question": "2. Como você descreveria seu grupo de amigos?",
+            "answers": [
+                { "text": "Unido e divertido 🤗", "points": { "Cebolinha": 0.5, "Mônica": 0.8, "Cascão": 0.3, "Magali": 0.6, "Bidu": 0.2, "Astronauta": 0.4, "Tina": 0.7, "Franjinha": 0.3, "Titi": 0.5, "Chico Bento": 0.6, "Rosinha": 0.4, "Zé Lelé": 0.5, "Anjinho": 0.7, "Louco": 0.4, "Nimbus": 0.5, "Horácio": 0.3, "Papa-Capim": 0.6, "Penadinho": 0.2 } },
+                { "text": "Aventureiro e explorador 🏞️", "points": { "Cebolinha": 0.4, "Mônica": 0.2, "Cascão": 0.8, "Magali": 0.3, "Bidu": 0.5, "Astronauta": 0.7, "Tina": 0.6, "Franjinha": 0.4, "Titi": 0.6, "Chico Bento": 0.5, "Rosinha": 0.7, "Zé Lelé": 0.4, "Anjinho": 0.3, "Louco": 0.5, "Nimbus": 0.6, "Horácio": 0.4, "Papa-Capim": 0.2, "Penadinho": 0.7 } },
+                { "text": "Guloso e feliz 🍩", "points": { "Cebolinha": 0.3, "Mônica": 0.5, "Cascão": 0.2, "Magali": 0.8, "Bidu": 0.4, "Astronauta": 0.6, "Tina": 0.7, "Franjinha": 0.2, "Titi": 0.8, "Chico Bento": 0.6, "Rosinha": 0.3, "Zé Lelé": 0.5, "Anjinho": 0.4, "Louco": 0.7, "Nimbus": 0.3, "Horácio": 0.5, "Papa-Capim": 0.4, "Penadinho": 0.6 } },
+                { "text": "Curioso e intelectual 📖", "points": { "Cebolinha": 0.6, "Mônica": 0.3, "Cascão": 0.4, "Magali": 0.5, "Bidu": 0.7, "Astronauta": 0.8, "Tina": 0.2, "Franjinha": 0.6, "Titi": 0.4, "Chico Bento": 0.5, "Rosinha": 0.4, "Zé Lelé": 0.3, "Anjinho": 0.2, "Louco": 0.6, "Nimbus": 0.7, "Horácio": 0.8, "Papa-Capim": 0.5, "Penadinho": 0.4 } },
+                { "text": "Criativo e engenhoso 🎨", "points": { "Cebolinha": 0.8, "Mônica": 0.4, "Cascão": 0.5, "Magali": 0.2, "Bidu": 0.6, "Astronauta": 0.3, "Tina": 0.7, "Franjinha": 0.4, "Titi": 0.6, "Chico Bento": 0.4, "Rosinha": 0.5, "Zé Lelé": 0.2, "Anjinho": 0.7, "Louco": 0.8, "Nimbus": 0.5, "Horácio": 0.6, "Papa-Capim": 0.3, "Penadinho": 0.7 } }
+            ]
+        },
+        {
+            "question": "3. O que você faz quando está entediado?",
+            "answers": [
+                { "text": "Planejo minhas próximas aventuras 🗺️", "points": { "Cebolinha": 0.8, "Mônica": 0.3, "Cascão": 0.4, "Magali": 0.2, "Bidu": 0.5, "Astronauta": 0.6, "Tina": 0.7, "Franjinha": 0.4, "Titi": 0.6, "Chico Bento": 0.5, "Rosinha": 0.2, "Zé Lelé": 0.6, "Anjinho": 0.7, "Louco": 0.8, "Nimbus": 0.3, "Horácio": 0.4, "Papa-Capim": 0.5, "Penadinho": 0.2 } },
+                { "text": "Leio livros e revistas 📖", "points": { "Cebolinha": 0.2, "Mônica": 0.7, "Cascão": 0.1, "Magali": 0.6, "Bidu": 0.3, "Astronauta": 0.5, "Tina": 0.4, "Franjinha": 0.6, "Titi": 0.2, "Chico Bento": 0.4, "Rosinha": 0.5, "Zé Lelé": 0.3, "Anjinho": 0.2, "Louco": 0.5, "Nimbus": 0.4, "Horácio": 0.7, "Papa-Capim": 0.3, "Penadinho": 0.6 } },
+                { "text": "Como um lanchinho 🍿", "points": { "Cebolinha": 0.3, "Mônica": 0.4, "Cascão": 0.2, "Magali": 0.8, "Bidu": 0.6, "Astronauta": 0.5, "Tina": 0.7, "Franjinha": 0.5, "Titi": 0.6, "Chico Bento": 0.4, "Rosinha": 0.3, "Zé Lelé": 0.7, "Anjinho": 0.3, "Louco": 0.6, "Nimbus": 0.5, "Horácio": 0.2, "Papa-Capim": 0.4, "Penadinho": 0.7 } },
+                { "text": "Saio para uma caminhada 🌳", "points": { "Cebolinha": 0.4, "Mônica": 0.5, "Cascão": 0.7, "Magali": 0.6, "Bidu": 0.2, "Astronauta": 0.3, "Tina": 0.8, "Franjinha": 0.3, "Titi": 0.5, "Chico Bento": 0.7, "Rosinha": 0.6, "Zé Lelé": 0.4, "Anjinho": 0.5, "Louco": 0.2, "Nimbus": 0.6, "Horácio": 0.4, "Papa-Capim": 0.8, "Penadinho": 0.3 } },
+                { "text": "Observo as estrelas 🌟", "points": { "Cebolinha": 0.1, "Mônica": 0.2, "Cascão": 0.3, "Magali": 0.5, "Bidu": 0.7, "Astronauta": 0.8, "Tina": 0.6, "Franjinha": 0.4, "Titi": 0.3, "Chico Bento": 0.3, "Rosinha": 0.5, "Zé Lelé": 0.2, "Anjinho": 0.6, "Louco": 0.7, "Nimbus": 0.5, "Horácio": 0.4, "Papa-Capim": 0.3, "Penadinho": 0.2 } }
+            ]
+        },
+        {
+            "question": "4. Se você encontrasse uma máquina do tempo, o que faria primeiro?",
+            "answers": [
+                { "text": "Voltar no tempo para roubar a última fatia de bolo 🍰", "points": { "Cebolinha": 0.2, "Mônica": 0.3, "Cascão": 0.5, "Magali": 0.8, "Bidu": 0.4, "Astronauta": 0.6, "Tina": 0.3, "Franjinha": 0.7, "Titi": 0.5, "Chico Bento": 0.6, "Rosinha": 0.4, "Zé Lelé": 0.7, "Anjinho": 0.3, "Louco": 0.8, "Nimbus": 0.2, "Horácio": 0.5, "Papa-Capim": 0.4, "Penadinho": 0.6 } },
+                { "text": "Viajar ao futuro para ver se os robôs dominaram o mundo 🤖", "points": { "Cebolinha": 0.6, "Mônica": 0.4, "Cascão": 0.2, "Magali": 0.5, "Bidu": 0.3, "Astronauta": 0.8, "Tina": 0.7, "Franjinha": 0.6, "Titi": 0.4, "Chico Bento": 0.5, "Rosinha": 0.3, "Zé Lelé": 0.2, "Anjinho": 0.7, "Louco": 0.4, "Nimbus": 0.6, "Horácio": 0.8, "Papa-Capim": 0.7, "Penadinho": 0.5 } },
+                { "text": "Ir para a era dos dinossauros e montar um T-Rex 🦖", "points": { "Cebolinha": 0.3, "Mônica": 0.5, "Cascão": 0.7, "Magali": 0.2, "Bidu": 0.6, "Astronauta": 0.4, "Tina": 0.8, "Franjinha": 0.3, "Titi": 0.6, "Chico Bento": 0.4, "Rosinha": 0.5, "Zé Lelé": 0.7, "Anjinho": 0.3, "Louco": 0.6, "Nimbus": 0.5, "Horácio": 0.8, "Papa-Capim": 0.4, "Penadinho": 0.7 } },
+                { "text": "Ir até a Idade Média para ser um cavaleiro medieval 🏰", "points": { "Cebolinha": 0.5, "Mônica": 0.6, "Cascão": 0.3, "Magali": 0.4, "Bidu": 0.2, "Astronauta": 0.5, "Tina": 0.7, "Franjinha": 0.4, "Titi": 0.3, "Chico Bento": 0.6, "Rosinha": 0.7, "Zé Lelé": 0.5, "Anjinho": 0.4, "Louco": 0.8, "Nimbus": 0.2, "Horácio": 0.6, "Papa-Capim": 0.3, "Penadinho": 0.5 } },
+                { "text": "Deixar um bilhete para meu eu do passado dizendo 'Não fazer isso!' ✉️", "points": { "Cebolinha": 0.8, "Mônica": 0.2, "Cascão": 0.5, "Magali": 0.3, "Bidu": 0.7, "Astronauta": 0.6, "Tina": 0.4, "Franjinha": 0.5, "Titi": 0.7, "Chico Bento": 0.3, "Rosinha": 0.6, "Zé Lelé": 0.4, "Anjinho": 0.5, "Louco": 0.2, "Nimbus": 0.8, "Horácio": 0.4, "Papa-Capim": 0.7, "Penadinho": 0.3 } }
+            ]
+        },
+        {
+            "question": "5. Se você pudesse ser um super-herói por um dia, qual seria o seu superpoder?",
+            "answers": [
+                { "text": "Ficar invisível para assustar os amigos 👻", "points": { "Cebolinha": 0.3, "Mônica": 0.2, "Cascão": 0.5, "Magali": 0.4, "Bidu": 0.6, "Astronauta": 0.7, "Tina": 0.5, "Franjinha": 0.8, "Titi": 0.3, "Chico Bento": 0.2, "Rosinha": 0.4, "Zé Lelé": 0.7, "Anjinho": 0.6, "Louco": 0.8, "Nimbus": 0.3, "Horácio": 0.5, "Papa-Capim": 0.4, "Penadinho": 0.6 } },
+                { "text": "Voar para evitar o trânsito 🦅", "points": { "Cebolinha": 0.5, "Mônica": 0.6, "Cascão": 0.4, "Magali": 0.3, "Bidu": 0.7, "Astronauta": 0.8, "Tina": 0.4, "Franjinha": 0.5, "Titi": 0.6, "Chico Bento": 0.2, "Rosinha": 0.3, "Zé Lelé": 0.5, "Anjinho": 0.6, "Louco": 0.7, "Nimbus": 0.8, "Horácio": 0.4, "Papa-Capim": 0.3, "Penadinho": 0.2 } },
+                { "text": "Super velocidade para nunca mais perder o ônibus 🚄", "points": { "Cebolinha": 0.4, "Mônica": 0.5, "Cascão": 0.3, "Magali": 0.2, "Bidu": 0.6, "Astronauta": 0.7, "Tina": 0.8, "Franjinha": 0.4, "Titi": 0.5, "Chico Bento": 0.7, "Rosinha": 0.6, "Zé Lelé": 0.3, "Anjinho": 0.2, "Louco": 0.5, "Nimbus": 0.4, "Horácio": 0.6, "Papa-Capim": 0.8, "Penadinho": 0.3 } },
+                { "text": "Telepatia para saber todos os segredos 🧠", "points": { "Cebolinha": 0.6, "Mônica": 0.4, "Cascão": 0.2, "Magali": 0.5, "Bidu": 0.7, "Astronauta": 0.3, "Tina": 0.6, "Franjinha": 0.8, "Titi": 0.4, "Chico Bento": 0.5, "Rosinha": 0.3, "Zé Lelé": 0.2, "Anjinho": 0.7, "Louco": 0.5, "Nimbus": 0.6, "Horácio": 0.4, "Papa-Capim": 0.3, "Penadinho": 0.8 } },
+                { "text": "Força sobre-humana para nunca mais precisar abrir um pote de conserva à força 🥫", "points": { "Cebolinha": 0.2, "Mônica": 0.8, "Cascão": 0.3, "Magali": 0.4, "Bidu": 0.5, "Astronauta": 0.6, "Tina": 0.7, "Franjinha": 0.2, "Titi": 0.3, "Chico Bento": 0.6, "Rosinha": 0.5, "Zé Lelé": 0.4, "Anjinho": 0.6, "Louco": 0.7, "Nimbus": 0.4, "Horácio": 0.5, "Papa-Capim": 0.8, "Penadinho": 0.3 } }
+            ]
+        },
+        {
+            "question": "6. Se você pudesse conversar com qualquer animal, qual seria sua primeira pergunta?",
+            "answers": [
+                { "text": "Perguntar a um gato o que eles realmente pensam dos humanos 😼", "points": { "Cebolinha": 0.4, "Mônica": 0.3, "Cascão": 0.5, "Magali": 0.2, "Bidu": 0.7, "Astronauta": 0.6, "Tina": 0.8, "Franjinha": 0.4, "Titi": 0.6, "Chico Bento": 0.5, "Rosinha": 0.2, "Zé Lelé": 0.7, "Anjinho": 0.3, "Louco": 0.8, "Nimbus": 0.5, "Horácio": 0.3, "Papa-Capim": 0.6, "Penadinho": 0.4 } },
+                { "text": "Perguntar a uma águia como é voar tão alto 🦅", "points": { "Cebolinha": 0.5, "Mônica": 0.6, "Cascão": 0.4, "Magali": 0.3, "Bidu": 0.7, "Astronauta": 0.8, "Tina": 0.4, "Franjinha": 0.5, "Titi": 0.6, "Chico Bento": 0.2, "Rosinha": 0.3, "Zé Lelé": 0.5, "Anjinho": 0.6, "Louco": 0.7, "Nimbus": 0.8, "Horácio": 0.4, "Papa-Capim": 0.3, "Penadinho": 0.2 } },
+                { "text": "Perguntar a um cachorro se eles acham que os humanos são esquisitos 🐶", "points": { "Cebolinha": 0.3, "Mônica": 0.2, "Cascão": 0.5, "Magali": 0.4, "Bidu": 0.6, "Astronauta": 0.7, "Tina": 0.5, "Franjinha": 0.8, "Titi": 0.3, "Chico Bento": 0.2, "Rosinha": 0.4, "Zé Lelé": 0.7, "Anjinho": 0.6, "Louco": 0.8, "Nimbus": 0.3, "Horácio": 0.5, "Papa-Capim": 0.4, "Penadinho": 0.6 } },
+                { "text": "Perguntar a um golfinho como é viver no oceano 🐬", "points": { "Cebolinha": 0.2, "Mônica": 0.3, "Cascão": 0.4, "Magali": 0.5, "Bidu": 0.7, "Astronauta": 0.8, "Tina": 0.6, "Franjinha": 0.4, "Titi": 0.3, "Chico Bento": 0.5, "Rosinha": 0.6, "Zé Lelé": 0.7, "Anjinho": 0.2, "Louco": 0.3, "Nimbus": 0.4, "Horácio": 0.6, "Papa-Capim": 0.8, "Penadinho": 0.3 } },
+                { "text": "Perguntar a uma tartaruga se a vida lenta é realmente mais relaxante 🐢", "points": { "Cebolinha": 0.6, "Mônica": 0.5, "Cascão": 0.3, "Magali": 0.4, "Bidu": 0.2, "Astronauta": 0.7, "Tina": 0.8, "Franjinha": 0.6, "Titi": 0.5, "Chico Bento": 0.4, "Rosinha": 0.3, "Zé Lelé": 0.7, "Anjinho": 0.4, "Louco": 0.2, "Nimbus": 0.6, "Horácio": 0.3, "Papa-Capim": 0.5, "Penadinho": 0.8 } }
+            ]
+        },
+        {
+            "question": "7. Se você pudesse trocar de corpo com alguém por um dia, quem seria e por quê?",
+            "answers": [
+                { "text": "Trocar de corpo com meu cachorro para ver como é viver sem responsabilidades 🐕", "points": { "Cebolinha": 0.3, "Mônica": 0.2, "Cascão": 0.5, "Magali": 0.4, "Bidu": 0.6, "Astronauta": 0.7, "Tina": 0.5, "Franjinha": 0.8, "Titi": 0.3, "Chico Bento": 0.2, "Rosinha": 0.4, "Zé Lelé": 0.7, "Anjinho": 0.6, "Louco": 0.8, "Nimbus": 0.3, "Horácio": 0.5, "Papa-Capim": 0.4, "Penadinho": 0.6 } },
+                { "text": "Trocar de corpo com um bilionário e doar todo o dinheiro para a caridade 💸", "points": { "Cebolinha": 0.5, "Mônica": 0.6, "Cascão": 0.4, "Magali": 0.3, "Bidu": 0.7, "Astronauta": 0.8, "Tina": 0.4, "Franjinha": 0.5, "Titi": 0.6, "Chico Bento": 0.2, "Rosinha": 0.3, "Zé Lelé": 0.5, "Anjinho": 0.6, "Louco": 0.7, "Nimbus": 0.8, "Horácio": 0.4, "Papa-Capim": 0.3, "Penadinho": 0.2 } },
+                { "text": "Trocar de corpo com um cientista e criar uma cura para uma doença 🧪", "points": { "Cebolinha": 0.4, "Mônica": 0.5, "Cascão": 0.3, "Magali": 0.2, "Bidu": 0.6, "Astronauta": 0.7, "Tina": 0.8, "Franjinha": 0.4, "Titi": 0.5, "Chico Bento": 0.7, "Rosinha": 0.6, "Zé Lelé": 0.3, "Anjinho": 0.2, "Louco": 0.5, "Nimbus": 0.4, "Horácio": 0.6, "Papa-Capim": 0.8, "Penadinho": 0.3 } },
+                { "text": "Trocar de corpo com um atleta olímpico e ganhar uma medalha de ouro 🥇", "points": { "Cebolinha": 0.6, "Mônica": 0.4, "Cascão": 0.2, "Magali": 0.5, "Bidu": 0.7, "Astronauta": 0.3, "Tina": 0.6, "Franjinha": 0.8, "Titi": 0.4, "Chico Bento": 0.5, "Rosinha": 0.3, "Zé Lelé": 0.2, "Anjinho": 0.7, "Louco": 0.5, "Nimbus": 0.6, "Horácio": 0.4, "Papa-Capim": 0.3, "Penadinho": 0.8 } },
+                { "text": "Trocar de corpo com um bebê e simplesmente chorar sem motivo 👶", "points": { "Cebolinha": 0.2, "Mônica": 0.8, "Cascão": 0.3, "Magali": 0.4, "Bidu": 0.5, "Astronauta": 0.6, "Tina": 0.7, "Franjinha": 0.2, "Titi": 0.3, "Chico Bento": 0.6, "Rosinha": 0.5, "Zé Lelé": 0.4, "Anjinho": 0.6, "Louco": 0.7, "Nimbus": 0.4, "Horácio": 0.5, "Papa-Capim": 0.8, "Penadinho": 0.3 } }
+            ]
+        },
+        {
+            "question": "8. Se você fosse obrigado a falar a verdade por um dia inteiro, qual seria a primeira coisa que diria para seu melhor amigo?",
+            "answers": [
+                { "text": "Eu amo seu estilo, mas aquele chapéu realmente não combina com você 🎩", "points": { "Cebolinha": 0.3, "Mônica": 0.5, "Cascão": 0.2, "Magali": 0.4, "Bidu": 0.6, "Astronauta": 0.7, "Tina": 0.8, "Franjinha": 0.3, "Titi": 0.5, "Chico Bento": 0.4, "Rosinha": 0.6, "Zé Lelé": 0.7, "Anjinho": 0.2, "Louco": 0.6, "Nimbus": 0.5, "Horácio": 0.4, "Papa-Capim": 0.3, "Penadinho": 0.8 } },
+                { "text": "Sempre roubo seus lanches da geladeira quando você não está olhando 🥪", "points": { "Cebolinha": 0.5, "Mônica": 0.6, "Cascão": 0.3, "Magali": 0.8, "Bidu": 0.4, "Astronauta": 0.2, "Tina": 0.7, "Franjinha": 0.5, "Titi": 0.6, "Chico Bento": 0.3, "Rosinha": 0.7, "Zé Lelé": 0.5, "Anjinho": 0.4, "Louco": 0.3, "Nimbus": 0.8, "Horácio": 0.4, "Papa-Capim": 0.6, "Penadinho": 0.2 } },
+                { "text": "Às vezes, finjo que gosto das suas piadas só para te ver feliz 😂", "points": { "Cebolinha": 0.2, "Mônica": 0.4, "Cascão": 0.6, "Magali": 0.3, "Bidu": 0.5, "Astronauta": 0.8, "Tina": 0.7, "Franjinha": 0.4, "Titi": 0.3, "Chico Bento": 0.6, "Rosinha": 0.5, "Zé Lelé": 0.7, "Anjinho": 0.2, "Louco": 0.6, "Nimbus": 0.3, "Horácio": 0.5, "Papa-Capim": 0.4, "Penadinho": 0.8 } },
+                { "text": "Acho que estou apaixonado(a) por você, mas nunca tive coragem de dizer 💖", "points": { "Cebolinha": 0.6, "Mônica": 0.3, "Cascão": 0.4, "Magali": 0.5, "Bidu": 0.7, "Astronauta": 0.2, "Tina": 0.8, "Franjinha": 0.4, "Titi": 0.5, "Chico Bento": 0.6, "Rosinha": 0.7, "Zé Lelé": 0.3, "Anjinho": 0.5, "Louco": 0.6, "Nimbus": 0.3, "Horácio": 0.2, "Papa-Capim": 0.8, "Penadinho": 0.4 } },
+                { "text": "Admito, eu sou o culpado(a) por ter quebrado seu item favorito ⚠️", "points": { "Cebolinha": 0.8, "Mônica": 0.4, "Cascão": 0.3, "Magali": 0.5, "Bidu": 0.6, "Astronauta": 0.7, "Tina": 0.2, "Franjinha": 0.5, "Titi": 0.4, "Chico Bento": 0.3, "Rosinha": 0.6, "Zé Lelé": 0.7, "Anjinho": 0.8, "Louco": 0.2, "Nimbus": 0.4, "Horácio": 0.5, "Papa-Capim": 0.6, "Penadinho": 0.3 } }
+            ]
+        }
+    ],    
+    "descriptions": {
+        "Cebolinha": {
+            "title": "Cebolinha",
+            "emoji": "👦",
+            "subtitle": "Você é um líder nato!",
+            "text": "Sempre tem um plano em mente e adora bolar estratégias. Seu carisma é inegável, e você sempre encontra uma maneira de se destacar."
+        },
+        "Mônica": {
+            "title": "Mônica",
+            "emoji": "👧",
+            "subtitle": "Você é forte e determinada!",
+            "text": "Com um espírito inquebrável e uma grande dose de determinação, você enfrenta qualquer desafio que apareça no seu caminho."
+        },
+        "Cascão": {
+            "title": "Cascão",
+            "emoji": "🧒",
+            "subtitle": "Você é aventureiro e destemido!",
+            "text": "Nada te segura quando o assunto é diversão. Você adora uma aventura e está sempre buscando novas emoções."
+        },
+        "Magali": {
+            "title": "Magali",
+            "emoji": "👧",
+            "subtitle": "Você é doce e amável!",
+            "text": "Com um coração grande e uma paixão por comidas deliciosas, você é aquela pessoa que todos adoram ter por perto."
+        },
+        "Bidu": {
+            "title": "Bidu",
+            "emoji": "🐶",
+            "subtitle": "Você é leal e esperto!",
+            "text": "Sempre fiel aos seus amigos, você é conhecido pela sua inteligência e perspicácia."
+        },
+        "Astronauta": {
+            "title": "Astronauta",
+            "emoji": "👨‍🚀",
+            "subtitle": "Você é curioso e explorador!",
+            "text": "Sempre em busca de novas fronteiras e aventuras, você tem uma curiosidade insaciável pelo desconhecido."
+        },
+        "Tina": {
+            "title": "Tina",
+            "emoji": "👩",
+            "subtitle": "Você é criativa e engenhosa!",
+            "text": "Com uma mente brilhante e um talento para a inovação, você sempre encontra soluções criativas para qualquer problema."
+        },
+        "Franjinha": {
+            "title": "Franjinha",
+            "emoji": "🧑‍🔬",
+            "subtitle": "Você é um inventor nato!",
+            "text": "Com um talento natural para a ciência e invenções, você adora criar coisas novas e solucionar problemas."
+        },
+        "Titi": {
+            "title": "Titi",
+            "emoji": "👦",
+            "subtitle": "Você é um amigo leal!",
+            "text": "Sempre presente para seus amigos, você valoriza lealdade e está sempre disposto a ajudar."
+        },
+        "Chico Bento": {
+            "title": "Chico Bento",
+            "emoji": "👨‍🌾",
+            "subtitle": "Você é simples e alegre!",
+            "text": "Adora a vida no campo e é conhecido por sua simplicidade e alegria contagiante."
+        },
+        "Rosinha": {
+            "title": "Rosinha",
+            "emoji": "👩‍🌾",
+            "subtitle": "Você é carinhosa e gentil!",
+            "text": "Sempre cuidando dos outros, você é conhecida por seu carinho e gentileza."
+        },
+        "Zé Lelé": {
+            "title": "Zé Lelé",
+            "emoji": "🤪",
+            "subtitle": "Você é engraçado e excêntrico!",
+            "text": "Sempre trazendo alegria com suas piadas e excentricidades, você tem uma maneira única de ver o mundo."
+        },
+        "Anjinho": {
+            "title": "Anjinho",
+            "emoji": "👼",
+            "subtitle": "Você é protetor e gentil!",
+            "text": "Sempre cuidando dos outros, você é conhecido por sua bondade e disposição para ajudar."
+        },
+        "Louco": {
+            "title": "Louco",
+            "emoji": "🤪",
+            "subtitle": "Você é excêntrico e criativo!",
+            "text": "Com uma mente cheia de ideias malucas e criativas, você é sempre surpreendente e imprevisível."
+        },
+        "Nimbus": {
+            "title": "Nimbus",
+            "emoji": "🌦️",
+            "subtitle": "Você é observador e sonhador!",
+            "text": "Sempre de olho no céu e nas nuvens, você tem uma visão poética e sonhadora da vida."
+        },
+        "Horácio": {
+            "title": "Horácio",
+            "emoji": "🦖",
+            "subtitle": "Você é curioso e filosófico!",
+            "text": "Sempre questionando e refletindo sobre a vida, você tem uma mente curiosa e filosófica que busca entender o mundo ao seu redor."
+        },
+        "Papa-Capim": {
+            "title": "Papa-Capim",
+            "emoji": "🌿",
+            "subtitle": "Você é amigo da natureza!",
+            "text": "Com um forte vínculo com a natureza, você valoriza a vida ao ar livre e a proteção do meio ambiente."
+        },
+        "Penadinho": {
+            "title": "Penadinho",
+            "emoji": "👻",
+            "subtitle": "Você é espirituoso e amigável!",
+            "text": "Com um bom humor fantasmagórico, você é uma figura amigável e espirituosa que gosta de fazer novas amizades."
+        }
+    }
+}
