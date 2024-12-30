@@ -1,0 +1,130 @@
+{
+    "title": "Qual elemento da tabela periódica você seria?",
+    "questions": [
+        {
+        "question": "Qual é a sua cor favorita?",
+        "answers": [
+            { "text": "Azul", "points": { "Hafnium": 1, "Rutherfórdio": 0.5, "Livermório": 0.2, "Tantálio": 0.8, "Antimônio": 0.3, "Neptúnio": 0.7, "Praseodímio": 0.4, "Gadolínio": 0.6, "Cúrio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Verde", "points": { "Hafnium": 0.5, "Rutherfórdio": 1, "Livermório": 0.8, "Tantálio": 0.2, "Antimônio": 0.6, "Neptúnio": 0.4, "Praseodímio": 0.7, "Gadolínio": 0.3, "Cúrio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Vermelho", "points": { "Hafnium": 0.2, "Rutherfórdio": 0.8, "Livermório": 1, "Tantálio": 0.5, "Antimônio": 0.4, "Neptúnio": 0.6, "Praseodímio": 0.3, "Gadolínio": 0.7, "Cúrio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Amarelo", "points": { "Hafnium": 0.8, "Rutherfórdio": 0.2, "Livermório": 0.5, "Tantálio": 1, "Antimônio": 0.7, "Neptúnio": 0.3, "Praseodímio": 0.6, "Gadolínio": 0.4, "Cúrio": 0.9, "Césio-137": 0.1 } }
+        ]
+        },
+        {
+        "question": "Qual é o seu hobby favorito?",
+        "answers": [
+            { "text": "Ler", "points": { "Hafnium": 1, "Rutherfórdio": 0.5, "Livermório": 0.2, "Tantálio": 0.8, "Antimônio": 0.3, "Neptúnio": 0.7, "Praseodímio": 0.4, "Gadolínio": 0.6, "Cúrio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Esportes", "points": { "Hafnium": 0.5, "Rutherfórdio": 1, "Livermório": 0.8, "Tantálio": 0.2, "Antimônio": 0.6, "Neptúnio": 0.4, "Praseodímio": 0.7, "Gadolínio": 0.3, "Cúrio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Tecnologia", "points": { "Hafnium": 0.2, "Rutherfórdio": 0.8, "Livermório": 1, "Tantálio": 0.5, "Antimônio": 0.4, "Neptúnio": 0.6, "Praseodímio": 0.3, "Gadolínio": 0.7, "Cúrio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Investir", "points": { "Hafnium": 0.8, "Rutherfórdio": 0.2, "Livermório": 0.5, "Tantálio": 1, "Antimônio": 0.7, "Neptúnio": 0.3, "Praseodímio": 0.6, "Gadolínio": 0.4, "Cúrio": 0.9, "Césio-137": 0.1 } }
+        ]
+        },
+        {
+        "question": "Qual é a sua estação do ano favorita?",
+        "answers": [
+            { "text": "Verão", "points": { "Hafnium": 0.5, "Rutherfórdio": 0.2, "Livermório": 0.3, "Tantálio": 0.4, "Antimônio": 0.6, "Neptúnio": 0.7, "Praseodímio": 0.8, "Gadolínio": 0.9, "Cúrio": 1, "Césio-137": 0.1 } },
+            { "text": "Inverno", "points": { "Hafnium": 0.2, "Rutherfórdio": 0.3, "Livermório": 0.4, "Tantálio": 0.5, "Antimônio": 0.7, "Neptúnio": 0.8, "Praseodímio": 0.9, "Gadolínio": 1, "Cúrio": 0.1, "Césio-137": 1 } },
+            { "text": "Primavera", "points": { "Hafnium": 1, "Rutherfórdio": 0.5, "Livermório": 0.2, "Tantálio": 0.8, "Antimônio": 0.3, "Neptúnio": 0.7, "Praseodímio": 0.4, "Gadolínio": 0.6, "Cúrio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Outono", "points": { "Hafnium": 0.5, "Rutherfórdio": 1, "Livermório": 0.8, "Tantálio": 0.2, "Antimônio": 0.6, "Neptúnio": 0.4, "Praseodímio": 0.7, "Gadolínio": 0.3, "Cúrio": 0.9, "Césio-137": 0.1 } }
+        ]
+        },
+        {
+            "question": "Se você fosse um supervilão, qual seria seu plano maligno?",
+            "answers": [
+            { "text": "Dominar o mundo com tecnologia avançada", "points": { "Praseodímio": 1, "Césio-137": 0.5, "Tantálio": 0.2, "Antimônio": 0.8, "Neptúnio": 0.3, "Gadolínio": 0.7, "Cúrio": 0.4, "Hafnium": 0.6, "Rutherfórdio": 0.9, "Livermório": 0.1 } },
+            { "text": "Espalhar caos com radiação", "points": { "Praseodímio": 0.5, "Césio-137": 1, "Tantálio": 0.8, "Antimônio": 0.2, "Neptúnio": 0.6, "Gadolínio": 0.4, "Cúrio": 0.7, "Hafnium": 0.3, "Rutherfórdio": 0.9, "Livermório": 0.1 } },
+            { "text": "Transformar tudo em ouro", "points": { "Praseodímio": 0.2, "Césio-137": 0.8, "Tantálio": 1, "Antimônio": 0.5, "Neptúnio": 0.4, "Gadolínio": 0.6, "Cúrio": 0.3, "Hafnium": 0.7, "Rutherfórdio": 0.9, "Livermório": 0.1 } },
+            { "text": "Criar uma sociedade secreta de alquimistas", "points": { "Praseodímio": 0.8, "Césio-137": 0.2, "Tantálio": 0.5, "Antimônio": 1, "Neptúnio": 0.7, "Gadolínio": 0.3, "Cúrio": 0.6, "Hafnium": 0.4, "Rutherfórdio": 0.9, "Livermório": 0.1 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior defeito?",
+            "answers": [
+            { "text": "Ser extremamente misterioso", "points": { "Rutherfórdio": 1, "Livermório": 0.5, "Neptúnio": 0.2, "Gadolínio": 0.8, "Cúrio": 0.3, "Hafnium": 0.7, "Praseodímio": 0.4, "Antimônio": 0.6, "Tantálio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Ser volátil e imprevisível", "points": { "Rutherfórdio": 0.5, "Livermório": 1, "Neptúnio": 0.8, "Gadolínio": 0.2, "Cúrio": 0.6, "Hafnium": 0.4, "Praseodímio": 0.7, "Antimônio": 0.3, "Tantálio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Ser obcecado por controle", "points": { "Rutherfórdio": 0.2, "Livermório": 0.8, "Neptúnio": 1, "Gadolínio": 0.5, "Cúrio": 0.4, "Hafnium": 0.6, "Praseodímio": 0.3, "Antimônio": 0.7, "Tantálio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Ser um perfeccionista irritante", "points": { "Rutherfórdio": 0.8, "Livermório": 0.2, "Neptúnio": 0.5, "Gadolínio": 1, "Cúrio": 0.7, "Hafnium": 0.3, "Praseodímio": 0.6, "Antimônio": 0.4, "Tantálio": 0.9, "Césio-137": 0.1 } }
+            ]
+        },
+        {
+            "question": "Se você pudesse ter qualquer trabalho no mundo, qual seria?",
+            "answers": [
+            { "text": "Cientista maluco", "points": { "Cúrio": 1, "Praseodímio": 0.5, "Mercúrio": 0.2, "Gadolínio": 0.8, "Hafnium": 0.3, "Rutherfórdio": 0.7, "Livermório": 0.4, "Antimônio": 0.6, "Tantálio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Hacker de elite", "points": { "Cúrio": 0.5, "Praseodímio": 1, "Mercúrio": 0.8, "Gadolínio": 0.2, "Hafnium": 0.6, "Rutherfórdio": 0.4, "Livermório": 0.7, "Antimônio": 0.3, "Tantálio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Mestre do disfarce", "points": { "Cúrio": 0.2, "Praseodímio": 0.8, "Mercúrio": 1, "Gadolínio": 0.5, "Hafnium": 0.4, "Rutherfórdio": 0.6, "Livermório": 0.3, "Antimônio": 0.7, "Tantálio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Magnata das finanças", "points": { "Cúrio": 0.8, "Praseodímio": 0.2, "Mercúrio": 0.5, "Gadolínio": 1, "Hafnium": 0.7, "Rutherfórdio": 0.3, "Livermório": 0.6, "Antimônio": 0.4, "Tantálio": 0.9, "Césio-137": 0.1 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu estado favorito da matéria?",
+            "answers": [
+              { "text": "Sólido", "points": { "Hafnium": 1, "Rutherfórdio": 0.5, "Livermório": 0.2, "Tantálio": 0.8, "Antimônio": 0.3, "Neptúnio": 0.7, "Praseodímio": 0.4, "Gadolínio": 0.6, "Cúrio": 0.9, "Césio-137": 0.1 } },
+              { "text": "Líquido", "points": { "Hafnium": 0.5, "Rutherfórdio": 1, "Livermório": 0.8, "Tantálio": 0.2, "Antimônio": 0.6, "Neptúnio": 0.4, "Praseodímio": 0.7, "Gadolínio": 0.3, "Cúrio": 0.9, "Césio-137": 0.1 } },
+              { "text": "Gasoso", "points": { "Hafnium": 0.2, "Rutherfórdio": 0.8, "Livermório": 1, "Tantálio": 0.5, "Antimônio": 0.4, "Neptúnio": 0.6, "Praseodímio": 0.3, "Gadolínio": 0.7, "Cúrio": 0.9, "Césio-137": 0.1 } },
+              { "text": "Plasma", "points": { "Hafnium": 0.8, "Rutherfórdio": 0.2, "Livermório": 0.5, "Tantálio": 1, "Antimônio": 0.7, "Neptúnio": 0.3, "Praseodímio": 0.6, "Gadolínio": 0.4, "Cúrio": 0.9, "Césio-137": 1 } }
+            ]
+        }
+    ],
+    "descriptions": {
+      "Hafnium": {
+        "title": "Hafnium",
+        "emoji": "🛠️",
+        "subtitle": "O Desconhecido Essencial",
+        "text": "Você é o Hafnium, um elemento crucial para a indústria nuclear e eletrônica, mas que ninguém lembra. Você é o herói não reconhecido."
+      },
+      "Rutherfórdio": {
+        "title": "Rutherfórdio",
+        "emoji": "🧪",
+        "subtitle": "O Misterioso",
+        "text": "Você é o Rutherfórdio, um elemento tão raro que a maioria das pessoas nem sabe que você existe. Você é um enigma, envolto em mistério."
+      },
+      "Livermório": {
+        "title": "Livermório",
+        "emoji": "🧬",
+        "subtitle": "O Efêmero",
+        "text": "Você é o Livermório, um elemento sintético que dura apenas alguns milissegundos. Você é a definição de 'aqui hoje, desaparecido amanhã'."
+      },
+      "Tantálio": {
+        "title": "Tantálio",
+        "emoji": "📱",
+        "subtitle": "O Conectado",
+        "text": "Você é o Tantálio, essencial para a fabricação de eletrônicos modernos. Sem você, os smartphones não existiriam. Você é o conector invisível."
+      },
+      "Antimônio": {
+        "title": "Antimônio",
+        "emoji": "⚗️",
+        "subtitle": "O Alquimista",
+        "text": "Você é o Antimônio, usado desde a antiguidade em cosméticos e medicamentos. Você é o alquimista moderno, transformando o comum em extraordinário."
+      },
+      "Neptúnio": {
+        "title": "Neptúnio",
+        "emoji": "🌌",
+        "subtitle": "O Explorador",
+        "text": "Você é o Neptúnio, um elemento radioativo que leva o nome do deus dos mares. Você é o explorador, sempre buscando o desconhecido."
+      },
+      "Praseodímio": {
+        "title": "Praseodímio",
+        "emoji": "🧲",
+        "subtitle": "O Magnético",
+        "text": "Você é o Praseodímio, usado em ligas metálicas para criar ímãs fortes. Você é o centro de atração, sempre puxando as coisas para você."
+      },
+      "Gadolínio": {
+        "title": "Gadolínio",
+        "emoji": "🦴",
+        "subtitle": "O Protetor",
+        "text": "Você é o Gadolínio, usado em exames de ressonância magnética para proteger e diagnosticar. Você é o guardião da saúde."
+      },
+      "Cúrio": {
+        "title": "Cúrio",
+        "emoji": "🔬",
+        "subtitle": "O Cientista",
+        "text": "Você é o Cúrio, nomeado em homenagem a Marie Curie. Você é o cientista, sempre buscando conhecimento e inovação."
+      },
+      "Césio-137": {
+        "title": "Césio-137",
+        "emoji": "⚛️",
+        "subtitle": "O Radioativo",
+        "text": "Você é o Césio-137, altamente radioativo e perigoso. Use com cuidado!"
+      }
+    }
+  }
