@@ -1,0 +1,202 @@
+Aqui está o quiz "Qual sabor exótico de pizza você seria?" no formato JSON, incluindo as perguntas, respostas e resultados com toques de humor e nonsense:
+
+```json
+{
+  "title": "Qual sabor exótico de pizza você seria?",
+  "questions": [
+    {
+      "question": "Se você fosse um ingrediente de pizza, qual seria?",
+      "answers": [
+        {
+          "text": "Sorvete de baunilha",
+          "points": { "Pizza de Feijoada": 0.2, "Pizza de Sushi": 0.3, "Pizza de Bolo de Rolo": 0.4, "Pizza de Strogonoff": 0.5, "Pizza de Brigadeiro": 1, "Pizza de Pipoca": 0.6, "Pizza de Algodão Doce": 0.7 },
+          "comment": "Porque nada diz 'pizza' como uma bola de sorvete derretendo no meio."
+        },
+        {
+          "text": "Grilo crocante",
+          "points": { "Pizza de Feijoada": 0.3, "Pizza de Sushi": 0.2, "Pizza de Bolo de Rolo": 0.5, "Pizza de Strogonoff": 0.4, "Pizza de Brigadeiro": 0.6, "Pizza de Pipoca": 1, "Pizza de Algodão Doce": 0.7 },
+          "comment": "Crocante por fora, crocante por dentro. Delícia!"
+        },
+        {
+          "text": "Chocolate amargo",
+          "points": { "Pizza de Feijoada": 0.4, "Pizza de Sushi": 0.3, "Pizza de Bolo de Rolo": 0.5, "Pizza de Strogonoff": 0.6, "Pizza de Brigadeiro": 0.2, "Pizza de Pipoca": 0.7, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque a vida é amarga, mas a pizza não precisa ser."
+        },
+        {
+          "text": "Abacaxi",
+          "points": { "Pizza de Feijoada": 0.5, "Pizza de Sushi": 0.4, "Pizza de Bolo de Rolo": 0.6, "Pizza de Strogonoff": 0.2, "Pizza de Brigadeiro": 0.7, "Pizza de Pipoca": 0.3, "Pizza de Algodão Doce": 1 },
+          "comment": "A fruta mais controversa do mundo das pizzas."
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu superpoder culinário?",
+      "answers": [
+        {
+          "text": "Transformar qualquer coisa em sorvete",
+          "points": { "Pizza de Feijoada": 0.3, "Pizza de Sushi": 0.2, "Pizza de Bolo de Rolo": 0.4, "Pizza de Strogonoff": 0.5, "Pizza de Brigadeiro": 1, "Pizza de Pipoca": 0.6, "Pizza de Algodão Doce": 0.7 },
+          "comment": "Porque todo mundo precisa de mais sorvete na vida."
+        },
+        {
+          "text": "Fazer insetos parecerem apetitosos",
+          "points": { "Pizza de Feijoada": 0.4, "Pizza de Sushi": 0.3, "Pizza de Bolo de Rolo": 0.5, "Pizza de Strogonoff": 0.6, "Pizza de Brigadeiro": 0.2, "Pizza de Pipoca": 1, "Pizza de Algodão Doce": 0.7 },
+          "comment": "Porque nada diz 'chef gourmet' como um prato de grilos."
+        },
+        {
+          "text": "Combinar sabores doces e picantes",
+          "points": { "Pizza de Feijoada": 0.5, "Pizza de Sushi": 0.4, "Pizza de Bolo de Rolo": 0.6, "Pizza de Strogonoff": 0.2, "Pizza de Brigadeiro": 0.7, "Pizza de Pipoca": 0.3, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque a vida é uma montanha-russa de sabores."
+        },
+        {
+          "text": "Trazer um toque tropical a qualquer prato",
+          "points": { "Pizza de Feijoada": 0.6, "Pizza de Sushi": 0.5, "Pizza de Bolo de Rolo": 0.7, "Pizza de Strogonoff": 0.3, "Pizza de Brigadeiro": 0.4, "Pizza de Pipoca": 0.2, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque abacaxi combina com tudo. Ou não."
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um utensílio de cozinha, qual seria?",
+      "answers": [
+        {
+          "text": "Espátula de silicone",
+          "points": { "Pizza de Feijoada": 0.2, "Pizza de Sushi": 0.3, "Pizza de Bolo de Rolo": 0.4, "Pizza de Strogonoff": 0.5, "Pizza de Brigadeiro": 1, "Pizza de Pipoca": 0.6, "Pizza de Algodão Doce": 0.7 },
+          "comment": "Flexível, mas firme. Como você."
+        },
+        {
+          "text": "Ralador de queijo",
+          "points": { "Pizza de Feijoada": 0.3, "Pizza de Sushi": 0.2, "Pizza de Bolo de Rolo": 0.5, "Pizza de Strogonoff": 0.4, "Pizza de Brigadeiro": 0.6, "Pizza de Pipoca": 1, "Pizza de Algodão Doce": 0.7 },
+          "comment": "Porque você sempre traz um toque especial."
+        },
+        {
+          "text": "Batedeira",
+          "points": { "Pizza de Feijoada": 0.4, "Pizza de Sushi": 0.3, "Pizza de Bolo de Rolo": 0.5, "Pizza de Strogonoff": 0.6, "Pizza de Brigadeiro": 0.2, "Pizza de Pipoca": 0.7, "Pizza de Algodão Doce": 1 },
+          "comment": "Sempre misturando tudo e criando algo novo."
+        },
+        {
+          "text": "Faca de chef",
+          "points": { "Pizza de Feijoada": 0.5, "Pizza de Sushi": 0.4, "Pizza de Bolo de Rolo": 0.6, "Pizza de Strogonoff": 0.2, "Pizza de Brigadeiro": 0.7, "Pizza de Pipoca": 0.3, "Pizza de Algodão Doce": 1 },
+          "comment": "Afiado e sempre pronto para a ação."
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu animal de estimação ideal?",
+      "answers": [
+        {
+          "text": "Um dragão de Komodo",
+          "points": { "Pizza de Feijoada": 0.3, "Pizza de Sushi": 0.4, "Pizza de Bolo de Rolo": 0.5, "Pizza de Strogonoff": 0.6, "Pizza de Brigadeiro": 0.2, "Pizza de Pipoca": 0.7, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque nada diz 'companheiro fiel' como um lagarto gigante."
+        },
+        {
+          "text": "Um unicórnio",
+          "points": { "Pizza de Feijoada": 0.4, "Pizza de Sushi": 0.3, "Pizza de Bolo de Rolo": 0.6, "Pizza de Strogonoff": 0.2, "Pizza de Brigadeiro": 0.7, "Pizza de Pipoca": 0.5, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque a magia está no ar!"
+        },
+        {
+          "text": "Um robô aspirador",
+          "points": { "Pizza de Feijoada": 0.5, "Pizza de Sushi": 0.4, "Pizza de Bolo de Rolo": 0.7, "Pizza de Strogonoff": 0.3, "Pizza de Brigadeiro": 0.6, "Pizza de Pipoca": 0.2, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque quem não quer um pet que também limpa a casa?"
+        },
+        {
+          "text": "Um tamanduá",
+          "points": { "Pizza de Feijoada": 0.6, "Pizza de Sushi": 0.5, "Pizza de Bolo de Rolo": 0.2, "Pizza de Strogonoff": 0.7, "Pizza de Brigadeiro": 0.3, "Pizza de Pipoca": 0.4, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque formigas são uma delícia!"
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu emprego dos sonhos?",
+      "answers": [
+        {
+          "text": "Provador de sorvete",
+          "points": { "Pizza de Feijoada": 0.2, "Pizza de Sushi": 0.3, "Pizza de Bolo de Rolo": 0.4, "Pizza de Strogonoff": 0.5, "Pizza de Brigadeiro": 1, "Pizza de Pipoca": 0.6, "Pizza de Algodão Doce": 0.7 },
+          "comment": "Porque alguém tem que fazer esse trabalho difícil."
+        },
+        {
+          "text": "Domador de unicórnios",
+          "points": { "Pizza de Feijoada": 0.3, "Pizza de Sushi": 0.2, "Pizza de Bolo de Rolo": 0.5, "Pizza de Strogonoff": 0.4, "Pizza de Brigadeiro": 0.6, "Pizza de Pipoca": 0.7, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque unicórnios precisam de disciplina."
+        },
+        {
+          "text": "Caçador de tempestades",
+          "points": { "Pizza de Feijoada": 0.4, "Pizza de Sushi": 0.3, "Pizza de Bolo de Rolo": 0.6, "Pizza de Strogonoff": 0.2, "Pizza de Brigadeiro": 0.7, "Pizza de Pipoca": 0.5, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque correr atrás de tornados é emocionante."
+        },
+        {
+          "text": "Astronauta em Marte",
+          "points": { "Pizza de Feijoada": 0.5, "Pizza de Sushi": 0.4, "Pizza de Bolo de Rolo": 0.7, "Pizza de Strogonoff": 0.3, "Pizza de Brigadeiro": 0.6, "Pizza de Pipoca": 0.2, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque a Terra é muito mainstream."
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu superpoder?",
+      "answers": [
+        {
+          "text": "Voar",
+          "points": { "Pizza de Feijoada": 0.3, "Pizza de Sushi": 0.4, "Pizza de Bolo de Rolo": 0.5, "Pizza de Strogonoff": 0.6, "Pizza de Brigadeiro": 0.2, "Pizza de Pipoca": 0.7, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque o céu é o limite."
+        },
+        {
+          "text": "Invisibilidade",
+          "points": { "Pizza de Feijoada": 0.4, "Pizza de Sushi": 0.3, "Pizza de Bolo de Rolo": 0.6, "Pizza de Strogonoff": 0.2, "Pizza de Brigadeiro": 0.7, "Pizza de Pipoca": 0.5, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque às vezes você só quer desaparecer."
+        },
+        {
+          "text": "Teletransporte",
+          "points": { "Pizza de Feijoada": 0.5, "Pizza de Sushi": 0.4, "Pizza de Bolo de Rolo": 0.7, "Pizza de Strogonoff": 0.3, "Pizza de Brigadeiro": 0.6, "Pizza de Pipoca": 0.2, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque quem tem tempo para esperar?"
+        },
+        {
+          "text": "Falar com animais",
+          "points": { "Pizza de Feijoada": 0.6, "Pizza de Sushi": 0.5, "Pizza de Bolo de Rolo": 0.2, "Pizza de Strogonoff": 0.7, "Pizza de Brigadeiro": 0.3, "Pizza de Pipoca": 0.4, "Pizza de Algodão Doce": 1 },
+          "comment": "Porque os animais têm muito a dizer."
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "Pizza de Feijoada": {
+      "title": "Pizza de Feijoada",
+      "emoji": "🥘",
+      "subtitle": "Tradicional e robusta!",
+      "text": "Você é a pizza que traz o sabor da tradição. Com ingredientes ricos e um toque de brasilidade, você é a escolha perfeita para quem ama um prato cheio de história e sabor."
+    },
+    "Pizza de Sushi": {
+      "title": "Pizza de Sushi",
+      "emoji": "🍣",
+      "subtitle": "Elegante e refinada!",
+      "text": "Você é sofisticado e adora experimentar novas combinações. Com um toque de elegância e frescor, você é a pizza que surpreende e encanta com cada mordida."
+    },
+    "Pizza de Bolo de Rolo": {
+      "title": "Pizza de Bolo de Rolo",
+      "emoji": "🍰",
+      "subtitle": "Doce e encantadora!",
+      "text": "Você é doce e cheio de charme. Com camadas de sabor e uma apresentação que encanta, você é a pizza que transforma qualquer momento em uma celebração."
+    },
+    "Pizza de Strogonoff": {
+      "title": "Pizza de Strogonoff",
+      "emoji": "🍲",
+      "subtitle": "Cremosa e reconfortante!",
+      "text": "Você é a pizza que traz conforto e satisfação. Com um sabor cremoso e ingredientes que aquecem o coração, você é a escolha perfeita para quem busca um prato reconfortante e delicioso."
+    },
+    "Pizza de Brigadeiro": {
+      "title": "Pizza de Brigadeiro",
+      "emoji": "🍫",
+      "subtitle": "Irresistivelmente doce!",
+      "text": "Você é a pizza que ninguém consegue resistir. Com um sabor doce e uma textura cremosa, você é a escolha perfeita para quem ama um toque de doçura em qualquer refeição."
+    },
+    "Pizza de Pipoca": {
+      "title": "Pizza de Pipoca",
+      "emoji": "🍿",
+      "subtitle": "Crocante e divertida!",
+      "text": "Você é a pizza que traz diversão e surpresa. Com uma textura crocante e um sabor inesperado, você é a escolha perfeita para quem adora experimentar algo novo e divertido."
+    },
+    "Pizza de Algodão Doce": {
+      "title": "Pizza de Algodão Doce",
+      "emoji": "🍭",
+      "subtitle": "Colorida e mágica!",
+      "text": "Você é a pizza que transforma qualquer refeição em um momento mágico. Com cores vibrantes e um sabor doce e leve, você é a escolha ideal para quem quer um toque de fantasia no prato."
+    }
+  }
+}
