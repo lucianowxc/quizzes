@@ -31,15 +31,6 @@
       {
         "question": "Como você descreveria seu grupo de amigos?",
         "answers": [
-            { "text": "Um pouco desajustados, mas divertidos 🚀", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
-            { "text": "Todos brilhantes e talentosos 🦸", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
-            { "text": "Incansáveis e sempre em movimento 🏃", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
-            { "text": "Inteligentes e sagazes 🧠", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } }
-        ]
-      },
-      {
-        "question": "Como você descreveria seu grupo de amigos?",
-        "answers": [
           { "text": "Um pouco desajustados, mas divertidos 🎈", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
           { "text": "Todos brilhantes e talentosos ✨", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
           { "text": "Incansáveis e sempre em movimento 🏃", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
