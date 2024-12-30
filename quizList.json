@@ -39,6 +39,11 @@
             "name": "Qual personagem da Turma da Mônica você é?", 
             "file": "quizzes/quizTurmaMonica.json",
             "description": "Descubra qual personagem da Turma da Mônica mais se parece com você!"
-        }
+        },
+        {
+            "name": "Qual Algoritmo Clássico da Ciência da Computação Você é?",
+            "file": "quizzes/quizAlgoritmosClassicos.json",
+            "description": "Descubra qual algoritmo clássico da Ciência da Computação mais se parece com você!"
+        }        
     ]
 }

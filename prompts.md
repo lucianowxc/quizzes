@@ -1,4 +1,6 @@
-### Resumo dos prompts que eu fiz para gerar o quiz da turma da mônica (feito pelo próprio copilot)
+Claro, vou atualizar o roteiro inicial que você me mandou para incluir os novos passos que realizamos e a criação da entrada do quiz. Aqui está o roteiro revisado:
+
+### Resumo dos Prompts que eu fiz para gerar o quiz de algoritmos clássicos (feito pelo próprio Copilot)
 
 1. **Introdução ao Template**:
    ```prompt
@@ -76,4 +78,14 @@
    Liste todos os prompts e resumos que utilizamos para criar o quiz, para que eu possa reutilizá-los em futuros temas.
    ```
 
-Com esses prompts, você pode facilmente criar novos quizzes de personalidade baseados em outros temas. Espero que seja útil!
+8. **Criação da Entrada do Quiz**:
+   ```prompt
+   Crie a entrada para o quiz com base na estrutura fornecida:
+   { 
+       "name": "Qual Algoritmo Clássico da Ciência da Computação Você é?", 
+       "file": "quizzes/quizAlgoritmosClassicos.json",
+       "description": "Descubra qual algoritmo clássico da Ciência da Computação mais se parece com você!"
+   }
+   ```
+
+Com esses prompts, você pode facilmente criar novos quizzes de personalidade baseados em outros temas. Espero que seja útil! 🚀

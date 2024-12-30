@@ -1,0 +1,100 @@
+{
+    "title": "Qual Algoritmo Clássico da Ciência da Computação Você é?",
+    "questions": [
+        {
+            "question": "1. Quando você encontra um problema difícil para resolver, você:",
+            "answers": [
+                { "text": "Ataca o problema de frente com força bruta.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Procura dividir o problema em subproblemas menores.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Utiliza uma abordagem aleatória e espera pelo melhor.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Pede ajuda ao amigo que é especialista no assunto.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "2. Qual dessas é a sua maior habilidade?",
+            "answers": [
+                { "text": "Otimização de processos complexos.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Capacidade de dividir e conquistar.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Adaptabilidade às circunstâncias imprevisíveis.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Conhecimento enciclopédico sobre algoritmos.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "3. Quando você está estudando para uma prova difícil, você prefere:",
+            "answers": [
+                { "text": "Ficar horas e horas estudando todos os detalhes.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Dividir o material em partes menores e estudar um pouco a cada dia.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Tentar aprender o máximo possível no menor tempo possível.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Copiar os resumos do amigo mais estudioso.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "4. Qual das seguintes atividades você mais gosta de fazer no seu tempo livre?",
+            "answers": [
+                { "text": "Resolver quebra-cabeças ou enigmas.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Ler livros técnicos e aprender novas tecnologias.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Fazer atividades ao ar livre e explorar a natureza.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Assistir a documentários e séries educativas.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "5. Se você fosse um algoritmo de busca, você seria:",
+            "answers": [
+                { "text": "Busca binária, porque gosta de soluções rápidas e eficientes.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Busca linear, porque prefere simplicidade e confiabilidade.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Busca aleatória, porque gosta de surpresas e desafios.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Busca por profundidade, porque quer explorar todas as possibilidades antes de decidir.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        }
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "Quick Sort",
+            "emoji": "⚡️",
+            "subtitle": "Você resolve problemas rapidamente, mas pode deixar algumas pendências.",
+            "text": "Assim como o algoritmo Quick Sort, você é conhecido pela sua velocidade e eficiência. No entanto, às vezes pode faltar um pouco de precisão, resultando em algumas pendências."
+        },
+        "resultado2": {
+            "title": "Merge Sort",
+            "emoji": "🔀",
+            "subtitle": "Você é organizado e metódico, sempre seguindo um plano bem estruturado.",
+            "text": "Merge Sort reflete a sua habilidade de dividir e conquistar. Você é ótimo em organizar grandes quantidades de informação e resolver problemas complexos de maneira eficiente."
+        },
+        "resultado3": {
+            "title": "Bubble Sort",
+            "emoji": "🫧",
+            "subtitle": "Você é simples e confiável, mas pode demorar um pouco para chegar ao resultado final.",
+            "text": "Bubble Sort pode não ser o algoritmo mais rápido, mas é confiável e fácil de entender. Você prefere métodos simples que funcionam, mesmo que levem um pouco mais de tempo."
+        },
+        "resultado4": {
+            "title": "Algoritmo de Dijkstra",
+            "emoji": "🗺️",
+            "subtitle": "Você sempre encontra o caminho mais curto e eficiente.",
+            "text": "Assim como o Algoritmo de Dijkstra, você é excelente em encontrar a solução mais eficiente para qualquer problema. Sua habilidade de otimizar caminhos é incomparável."
+        },
+        "resultado5": {
+            "title": "Algoritmo A*",
+            "emoji": "🌟",
+            "subtitle": "Você é inteligente e estratégico, sempre planejando o próximo movimento.",
+            "text": "O Algoritmo A* é conhecido por sua inteligência e eficiência em encontrar soluções ótimas. Você é estratégico e sempre pensa no próximo passo, garantindo que suas decisões sejam bem planejadas."
+        },
+        "resultado6": {
+            "title": "Algoritmo de Floyd-Warshall",
+            "emoji": "🧩",
+            "subtitle": "Você é meticuloso e completo, considerando todas as possibilidades.",
+            "text": "O Algoritmo de Floyd-Warshall examina todas as possibilidades para encontrar a melhor solução. Você é detalhista e meticuloso, garantindo que nada seja deixado ao acaso."
+        },
+        "resultado7": {
+            "title": "Algoritmo de Prim",
+            "emoji": "🌲",
+            "subtitle": "Você constrói soluções a partir de fundamentos sólidos.",
+            "text": "Assim como o Algoritmo de Prim, você constrói suas soluções a partir de uma base sólida e cresce a partir daí. Sua abordagem cuidadosa garante que suas soluções sejam robustas e confiáveis."
+        },
+        "resultado8": {
+            "title": "Algoritmo de Kruskal",
+            "emoji": "🔗",
+            "subtitle": "Você é ótimo em conectar diferentes partes para formar um todo coeso.",
+            "text": "O Algoritmo de Kruskal é excelente em encontrar conexões eficientes. Você é hábil em unir diferentes partes para criar uma solução completa e coesa."
+        }
+    }    
+}
