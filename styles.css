@@ -155,7 +155,8 @@ select {
 
 .quiz-posts {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, auto);
     gap: 20px;
     margin-top: 20px;
     width: 100%;
@@ -253,11 +254,11 @@ select {
     }
 
     .pagination-controls {
-        margin-bottom: 60px; /* Ensure pagination controls are above the footer */
+        margin-bottom: 80px; /* Ensure pagination controls are above the footer */
     }
 }
 
-footer {
+.div.footer {
     position: fixed;
     bottom: 0;
     right: 0;
@@ -271,11 +272,11 @@ footer {
     align-items: center;
 }
 
-footer p {
+.div.footer p {
     margin: 0;
 }
 
-footer button {
+.div.footer button {
     background: none;
     border: none;
     color: #666;
@@ -285,14 +286,14 @@ footer button {
     margin-left: 5px;
 }
 
-footer button:focus {
+.div.footer button:focus {
     outline: none;
 }
 
-footer.show-text p {
+.div.footer.show-text p {
     display: block;
 }
 
-footer.show-text button {
+.div.footer.show-text button {
     display: none;
 }
