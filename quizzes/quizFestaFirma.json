@@ -1,0 +1,146 @@
+{
+    "title": "Quem é você na festa da firma?",
+    "questions": [
+        {
+            "question": "1. Na festa da firma, você normalmente é:",
+            "answers": [
+                { "text": "A pessoa que já chega dançando e animando todo mundo.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Quem fica observando de longe, tentando entender a dinâmica da festa.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "A pessoa que está sempre perto da mesa de comida.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Aquele que já está planejando sair o mais cedo possível.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "2. Qual a sua bebida favorita em eventos sociais?",
+            "answers": [
+                { "text": "Qualquer coisa que tenha álcool.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Refrigerante ou suco, porque alguém tem que ficar sóbrio.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Água, porque festa não é desculpa para desidratação.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Uma bebida não identificada que alguém trouxe.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "3. Qual é o seu papel nas conversas durante a festa?",
+            "answers": [
+                { "text": "O narrador de histórias épicas.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "O ouvinte atento.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Quem muda de assunto para fugir de conversas desconfortáveis.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "A pessoa que adora puxar conversa sobre trabalho.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "4. Quando o karaokê começa, você:",
+            "answers": [
+                { "text": "Corre para o palco e pega o microfone.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Faz questão de ser a primeira pessoa a cantar.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Prefere ficar nos bastidores aplaudindo os outros.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Faz de tudo para evitar ser chamado ao palco.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "5. Qual a sua reação ao ver o chefe chegando na festa?",
+            "answers": [
+                { "text": "Finge que não viu e continua se divertindo.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Vai imediatamente cumprimentá-lo e puxar conversa.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Procura a saída mais próxima para evitar interações.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Observa de longe para ver como ele interage com os outros.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "6. Quando a pista de dança fica vazia, você:",
+            "answers": [
+                { "text": "Toma a iniciativa e começa a dançar.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Espera que alguém tome a iniciativa primeiro.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Fica de olho na pista, mas não quer ser o centro das atenções.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Não se importa e continua conversando.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "7. O que você faz quando começa uma atividade de integração no evento?",
+            "answers": [
+                { "text": "Participa com entusiasmo e lidera as atividades.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Participa, mas de forma mais discreta.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Tenta se esquivar ou assistir de longe.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Pergunta se pode ajudar a organizar a atividade.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "8. Qual sua reação quando alguém começa a contar uma piada na festa?",
+            "answers": [
+                { "text": "Ri alto e incentiva a pessoa a contar mais piadas.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Sorri educadamente, mesmo que não ache a piada tão engraçada.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Finge que não ouviu e continua fazendo o que estava fazendo.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Responde com uma piada ainda melhor.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "9. Como você se sente quando a festa está chegando ao fim?",
+            "answers": [
+                { "text": "Triste porque estava adorando a festa.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Aliviado porque está ansioso para ir para casa.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Indiferente porque festas não são sua prioridade.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Já está pensando na próxima festa.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "10. Qual é a sua atitude geral em relação às festas da firma?",
+            "answers": [
+                { "text": "Amo, acho uma ótima oportunidade de socializar.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "Vou porque é necessário, mas prefiro outras atividades.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "Vou de vez em quando, dependendo do meu humor.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "Evito ao máximo, não é minha praia.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        }
+    ],
+
+    "descriptions": {
+        "resultado1": {
+            "title": "A Animadora",
+            "emoji": "🎉",
+            "subtitle": "Você é a alma da festa, sempre cheia de energia e animação.",
+            "text": "Assim como a animadora, você ilumina qualquer ambiente com sua presença. É difícil não notar você na festa, sempre colocando todos para cima e garantindo que todos se divirtam ao máximo."
+        },
+        "resultado2": {
+            "title": "A Observadora",
+            "emoji": "👀",
+            "subtitle": "Você prefere analisar a situação antes de agir.",
+            "text": "A Observadora prefere ficar em segundo plano, observando e analisando a dinâmica social ao seu redor. Você é perspicaz e atenta aos detalhes que a maioria pode não perceber."
+        },
+        "resultado3": {
+            "title": "O Gourmet",
+            "emoji": "🍔",
+            "subtitle": "A melhor parte da festa para você é a comida.",
+            "text": "Para o Gourmet, a festa é uma oportunidade de explorar novas delícias culinárias. Você é sempre visto perto da mesa de comidas, apreciando cada prato como uma obra de arte."
+        },
+        "resultado4": {
+            "title": "A Fugitiva",
+            "emoji": "🏃‍♀️",
+            "subtitle": "Festas não são muito a sua praia, e você está sempre pronta para sair.",
+            "text": "A Fugitiva está sempre com um olho na saída. Embora participe das festas, você está sempre pronta para sair assim que possível, preferindo um ambiente mais tranquilo e familiar."
+        },
+        "resultado5": {
+            "title": "O Socialite",
+            "emoji": "🥂",
+            "subtitle": "Você adora socializar e conhecer novas pessoas.",
+            "text": "O Socialite vive para essas ocasiões. Sempre pronto para iniciar uma conversa, você é conhecido por fazer novos amigos em qualquer evento social."
+        },
+        "resultado6": {
+            "title": "A Responsável",
+            "emoji": "👔",
+            "subtitle": "Você mantém a sobriedade e garante que tudo esteja em ordem.",
+            "text": "A Responsável é o porto seguro da festa. Enquanto todos se divertem, você está sempre atenta e pronta para ajudar caso algo dê errado, garantindo que tudo ocorra sem problemas."
+        },
+        "resultado7": {
+            "title": "A Participante Discreta",
+            "emoji": "🙋‍♀️",
+            "subtitle": "Você participa, mas prefere não ser o centro das atenções.",
+            "text": "A Participante Discreta prefere desfrutar da festa sem chamar muita atenção. Você participa das atividades e se diverte, mas prefere um papel mais tranquilo e reservado."
+        },
+        "resultado8": {
+            "title": "O Brincalhão",
+            "emoji": "😜",
+            "subtitle": "Sempre pronto para uma piada ou uma brincadeira.",
+            "text": "O Brincalhão adora trazer risadas e diversão para a festa. Você é conhecido por sua capacidade de fazer todos rirem com suas piadas e brincadeiras, tornando qualquer evento mais leve e divertido."
+        }
+    }
+}

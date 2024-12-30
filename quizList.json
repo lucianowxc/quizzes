@@ -44,6 +44,11 @@
             "name": "Qual Algoritmo Clássico da Ciência da Computação Você é?",
             "file": "quizzes/quizAlgoritmosClassicos.json",
             "description": "Descubra qual algoritmo clássico da Ciência da Computação mais se parece com você!"
-        }        
+        },
+        {
+            "name": "Quem é você na festa da firma?", 
+            "file": "quizzes/quizFestaFirma.json",
+            "description": "Descubra qual arquétipo você representa na festa da firma!"
+        }             
     ]
 }
