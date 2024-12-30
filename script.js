@@ -1,6 +1,8 @@
 let quizData;
 let currentQuestionIndex = 0;
 let scores = {};
+let currentPage = 1;
+const quizzesPerPage = 9;
 
 document.addEventListener('DOMContentLoaded', () => {
     loadQuizList();
@@ -11,16 +13,22 @@ async function loadQuizList() {
     try {
         const response = await fetch('quizList.json');
         const data = await response.json();
-        populateQuizPosts(data.quizzes);
+        window.quizzes = data.quizzes; // Store quizzes globally
+        displayQuizzes();
     } catch (error) {
         console.error('Erro ao carregar a lista de quizzes:', error);
     }
 }
 
-function populateQuizPosts(quizzes) {
+function displayQuizzes() {
     const quizPostsContainer = document.getElementById('quiz-posts');
     quizPostsContainer.innerHTML = ''; // Reset posts
-    quizzes.forEach(quiz => {
+
+    const startIndex = (currentPage - 1) * quizzesPerPage;
+    const endIndex = startIndex + quizzesPerPage;
+    const quizzesToShow = window.quizzes.slice(startIndex, endIndex);
+
+    quizzesToShow.forEach(quiz => {
         const post = document.createElement('div');
         post.className = 'quiz-post';
         post.innerHTML = `
@@ -41,6 +49,30 @@ function populateQuizPosts(quizzes) {
         <button onclick="loadUploadedQuiz()">Carregar Quiz do Arquivo</button>
     `;
     quizPostsContainer.appendChild(uploadPost);
+
+    // Add pagination controls
+    const paginationControls = document.createElement('div');
+    paginationControls.className = 'pagination-controls';
+    paginationControls.innerHTML = `
+        <button onclick="prevPage()" ${currentPage === 1 ? 'disabled' : ''}>Anterior</button>
+        <span>Página ${currentPage} de ${Math.ceil(window.quizzes.length / quizzesPerPage)}</span>
+        <button onclick="nextPage()" ${endIndex >= window.quizzes.length ? 'disabled' : ''}>Próxima</button>
+    `;
+    quizPostsContainer.appendChild(paginationControls);
+}
+
+function prevPage() {
+    if (currentPage > 1) {
+        currentPage--;
+        displayQuizzes();
+    }
+}
+
+function nextPage() {
+    if ((currentPage * quizzesPerPage) < window.quizzes.length) {
+        currentPage++;
+        displayQuizzes();
+    }
 }
 
 async function loadQuizFromPost(file) {
@@ -130,6 +162,6 @@ function restartQuiz() {
 function returnToQuizSelection() {
     document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
     document.getElementById('quiz').innerHTML = '';
-    loadQuizList();
+    displayQuizzes();
     document.getElementById('quiz-posts').classList.remove('hidden'); // Show quiz posts
 }
