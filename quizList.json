@@ -64,6 +64,11 @@
             "name": "Qual verso da música 'Smash Mouth - All Star' você seria?",
             "file": "quizzes/quizVersosAllStar.json",
             "description": "Descubra qual verso da música 'Smash Mouth - All Star' mais se parece com você!"
-        }          
+        },
+        { 
+            "name": "Qual Diva Pop dos Anos 2000 Você é?", 
+            "file": "quizzes/quizDivasPopAnos2000.json",
+            "description": "Descubra qual diva pop dos anos 2000 mais se parece com você!"
+        }       
     ]
 }

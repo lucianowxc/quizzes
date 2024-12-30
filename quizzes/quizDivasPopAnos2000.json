@@ -1,0 +1,133 @@
+{
+    "title": "Divas pop dos anos 2000",
+    "questions": [
+        {
+            "question": "Você acabou de acordar e percebe que perdeu o ônibus para o trabalho. O que você faz?",
+            "answers": [
+                { "text": "Fazer o quê, né? Vou de Uber e ainda peço um café pelo caminho.", "points": { "resultado1": 0.5, "resultado2": 0.2, "resultado3": 0.8, "resultado4": 0.3, "resultado5": 0.7, "resultado6": 0.1, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5 } },
+                { "text": "Chamo o chefe no WhatsApp e finjo que minha internet caiu enquanto tento me arrumar rapidinho.", "points": { "resultado1": 0.4, "resultado2": 0.6, "resultado3": 0.5, "resultado4": 0.7, "resultado5": 0.3, "resultado6": 0.8, "resultado7": 0.1, "resultado8": 0.4, "resultado9": 0.2 } },
+                { "text": "Coloco um look babadeiro e vou a pé mesmo, porque diva é assim!", "points": { "resultado1": 0.2, "resultado2": 0.4, "resultado3": 0.6, "resultado4": 0.5, "resultado5": 0.8, "resultado6": 0.3, "resultado7": 0.7, "resultado8": 0.1, "resultado9": 0.5 } },
+                { "text": "Fico em casa e transformo o dia em um spa day. Trabalhar pra quê mesmo?", "points": { "resultado1": 0.6, "resultado2": 0.1, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.5, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.3, "resultado9": 0.6 } }
+            ]
+        },
+        {
+            "question": "No meio de uma reunião importante, seu celular toca com uma música bem alta. Qual é a sua reação?",
+            "answers": [
+                { "text": "Desligo na mesma hora e finjo que não é meu. De quem será esse telefone brega?", "points": { "resultado1": 0.8, "resultado2": 0.5, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 0.1, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.2, "resultado9": 0.5 } },
+                { "text": "Atendo e já começo a dançar junto com a música. Se é para causar, que seja com estilo!", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.5, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.8, "resultado7": 0.3, "resultado8": 0.1, "resultado9": 0.4 } },
+                { "text": "Peço desculpas, desligo e volto a focar na reunião com um sorriso no rosto.", "points": { "resultado1": 0.2, "resultado2": 0.3, "resultado3": 0.8, "resultado4": 0.4, "resultado5": 0.5, "resultado6": 0.6, "resultado7": 0.1, "resultado8": 0.7, "resultado9": 0.5 } },
+                { "text": "Respondo a ligação no viva-voz e já deixo todo mundo participar da conversa. Inclusão é tudo!", "points": { "resultado1": 0.5, "resultado2": 0.4, "resultado3": 0.1, "resultado4": 0.7, "resultado5": 0.3, "resultado6": 0.2, "resultado7": 0.6, "resultado8": 0.8, "resultado9": 0.3 } }
+            ]
+        },
+        {
+            "question": "Você encontra um colega de trabalho na balada no final de semana. Como você reage?",
+            "answers": [
+                { "text": "Finjo que não vi, afinal, o que acontece na balada fica na balada.", "points": { "resultado1": 0.4, "resultado2": 0.8, "resultado3": 0.5, "resultado4": 0.6, "resultado5": 0.1, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3, "resultado9": 0.4 } },
+                { "text": "Vou falar com ele e já puxo pra pista de dança, porque aqui a vibe é outra!", "points": { "resultado1": 0.3, "resultado2": 0.5, "resultado3": 0.7, "resultado4": 0.1, "resultado5": 0.6, "resultado6": 0.8, "resultado7": 0.4, "resultado8": 0.2, "resultado9": 0.5 } },
+                { "text": "Fico sem graça e saio de fininho, tomara que ele não tenha me visto também.", "points": { "resultado1": 0.6, "resultado2": 0.1, "resultado3": 0.3, "resultado4": 0.5, "resultado5": 0.8, "resultado6": 0.2, "resultado7": 0.4, "resultado8": 0.7, "resultado9": 0.3 } },
+                { "text": "Faço um brinde com ele e já gravo stories para o Insta. Melhor colega!", "points": { "resultado1": 0.5, "resultado2": 0.2, "resultado3": 0.4, "resultado4": 0.7, "resultado5": 0.3, "resultado6": 0.6, "resultado7": 0.8, "resultado8": 0.1, "resultado9": 0.4 } }
+            ]
+        },        
+        {
+            "question": "É sexta-feira e você acabou de receber um convite para um show exclusivo. O que você faz?",
+            "answers": [
+                { "text": "Coloco meu vestido vermelho e vou. Não me importa nem um pouco quem estará lá!", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.1, "resultado7": 0.5, "resultado8": 0.7, "resultado9": 0.5 } },
+                { "text": "Me arrumo no melhor estilo ‘Toxic’ e vou causando por onde passo.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.6, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 0.2, "resultado7": 0.8, "resultado8": 0.1, "resultado9": 0.4 } },
+                { "text": "Chamo meu squad e vou toda de couro, estilo ‘Lady Marmalade’.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 0.6, "resultado5": 0.1, "resultado6": 0.3, "resultado7": 0.7, "resultado8": 0.4, "resultado9": 0.6 } },
+                { "text": "Vou para a balada com um look all black e encaro a noite como se fosse um clipe de ‘Umbrella’.", "points": { "resultado1": 0.3, "resultado2": 0.5, "resultado3": 0.4, "resultado4": 0.7, "resultado5": 0.6, "resultado6": 0.1, "resultado7": 0.2, "resultado8": 0.8, "resultado9": 0.5 } }
+            ]
+        },
+        {
+            "question": "Você está preso em um elevador com seu crush da firma. O que você faz?",
+            "answers": [
+                { "text": "Já começo a conversa com um ‘Oops!... I Did It Again’ e tento seduzir com meu charme.", "points": { "resultado1": 0.5, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.2, "resultado5": 0.3, "resultado6": 0.6, "resultado7": 0.8, "resultado8": 0.1, "resultado9": 0.5 } },
+                { "text": "Fico bem quietinho, rezando para o elevador voltar a funcionar antes de dizer algo embaraçoso.", "points": { "resultado1": 0.2, "resultado2": 0.6, "resultado3": 0.4, "resultado4": 0.8, "resultado5": 0.1, "resultado6": 0.5, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4 } },
+                { "text": "Aproveito para contar sobre minhas habilidades, tipo uma performance de ‘Beautiful’.", "points": { "resultado1": 0.6, "resultado2": 0.3, "resultado3": 0.2, "resultado4": 0.5, "resultado5": 0.8, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 0.4, "resultado9": 0.5 } },
+                { "text": "Faço uma piada para quebrar o gelo e conto uma história engraçada da última balada.", "points": { "resultado1": 0.4, "resultado2": 0.8, "resultado3": 0.1, "resultado4": 0.7, "resultado5": 0.5, "resultado6": 0.2, "resultado7": 0.6, "resultado8": 0.3, "resultado9": 0.4 } }
+            ]
+        },
+        {
+            "question": "Você descobre que foi promovido(a), mas precisa se mudar para outra cidade. Como você reage?",
+            "answers": [
+                { "text": "Já vou cantando ‘Empire State of Mind’ e preparando minhas malas.", "points": { "resultado1": 0.5, "resultado2": 0.3, "resultado3": 0.8, "resultado4": 0.1, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.4, "resultado9": 0.5 } },
+                { "text": "Vou embora, mas deixo claro que sentirei falta da minha turma, tipo ‘Un-Break My Heart’.", "points": { "resultado1": 0.4, "resultado2": 0.6, "resultado3": 0.5, "resultado4": 0.7, "resultado5": 0.3, "resultado6": 0.1, "resultado7": 0.8, "resultado8": 0.2, "resultado9": 0.4 } },
+                { "text": "Tento negociar e ver se posso trabalhar remotamente, afinal, diva digital sabe ser flexível.", "points": { "resultado1": 0.8, "resultado2": 0.4, "resultado3": 0.2, "resultado4": 0.6, "resultado5": 0.1, "resultado6": 0.3, "resultado7": 0.5, "resultado8": 0.7, "resultado9": 0.6 } },
+                { "text": "Vou com tudo, sem olhar para trás, cantando ‘Stronger’ no caminho.", "points": { "resultado1": 0.3, "resultado2": 0.5, "resultado3": 0.7, "resultado4": 0.2, "resultado5": 0.8, "resultado6": 0.6, "resultado7": 0.1, "resultado8": 0.4, "resultado9": 0.5 } }
+            ]
+        },
+        {
+            "question": "Você está em uma festa e vê alguém usando o mesmo look que você. O que você faz?",
+            "answers": [
+                { "text": "Vou até a pessoa e digo: ‘Gêmeas de estilo! Vamos arrasar juntos!’", "points": { "resultado1": 0.4, "resultado2": 0.6, "resultado3": 0.3, "resultado4": 0.8, "resultado5": 0.2, "resultado6": 0.7, "resultado7": 0.5, "resultado8": 0.1, "resultado9": 0.4 } },
+                { "text": "Finjo que não vi e passo a noite toda evitando a pessoa. Ninguém merece!", "points": { "resultado1": 0.3, "resultado2": 0.5, "resultado3": 0.7, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.1, "resultado7": 0.8, "resultado8": 0.4, "resultado9": 0.5 } },
+                { "text": "Troco de roupa no banheiro e volto com um look novo, estilo ‘I’m a Slave 4 U’.", "points": { "resultado1": 0.6, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 0.4, "resultado5": 0.8, "resultado6": 0.3, "resultado7": 0.1, "resultado8": 0.7, "resultado9": 0.5 } },
+                { "text": "Faço uma selfie com a pessoa e posto nas redes sociais com a hashtag #FashionTwins.", "points": { "resultado1": 0.5, "resultado2": 0.4, "resultado3": 0.1, "resultado4": 0.7, "resultado5": 0.3, "resultado6": 0.6, "resultado7": 0.2, "resultado8": 0.8, "resultado9": 0.4 } }
+            ]
+        },
+        {
+            "question": "Você está em um karaokê e é desafiado(a) a cantar uma música. Qual você escolhe?",
+            "answers": [
+                { "text": "‘Single Ladies’ da Beyoncé, porque quem manda aqui sou eu!", "points": { "resultado1": 0.8, "resultado2": 0.3, "resultado3": 0.5, "resultado4": 0.6, "resultado5": 0.2, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.1, "resultado9": 0.5 } },
+                { "text": "‘Poker Face’ da Lady Gaga, porque ninguém consegue me ler.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.6, "resultado4": 0.2, "resultado5": 0.5, "resultado6": 0.1, "resultado7": 0.8, "resultado8": 0.3, "resultado9": 0.4 } },
+                { "text": "‘Hips Don’t Lie’ da Shakira, porque eu sei como mexer!", "points": { "resultado1": 0.5, "resultado2": 0.4, "resultado3": 0.2, "resultado4": 0.7, "resultado5": 0.3, "resultado6": 0.6, "resultado7": 0.1, "resultado8": 0.8, "resultado9": 0.5 } },
+                { "text": "‘Oops!... I Did It Again’ da Britney Spears, porque adoro um clássico.", "points": { "resultado1": 0.3, "resultado2": 0.5, "resultado3": 0.8, "resultado4": 0.1, "resultado5": 0.6, "resultado6": 0.2, "resultado7": 0.7, "resultado8": 0.4, "resultado9": 0.5 } }
+            ]
+        }
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "Beyoncé: A Líder Imbatível",
+            "emoji": "👑",
+            "subtitle": "A Rainha Suprema",
+            "text": "Você é a Beyoncé da sua vida! Lidera com confiança, charme e é respeitada por todos. Nada te impede de alcançar seus objetivos, mesmo que alguns desejem que você tire um dia de folga."
+        },
+        "resultado2": {
+            "title": "Lady Gaga: A Revolucionária Criativa",
+            "emoji": "🎨",
+            "subtitle": "A Artista Inovadora",
+            "text": "Como Lady Gaga, você traz inovação e originalidade para tudo que faz. Sua criatividade é inigualável, e você nunca tem medo de ousar. Alguns podem até tentar te copiar, mas nunca serão você, querida."
+        },
+        "resultado3": {
+            "title": "Rihanna: A Empreendedora Visionária",
+            "emoji": "💼",
+            "subtitle": "A Visionária do Sucesso",
+            "text": "Você é como a Rihanna, sempre um passo à frente. Sua visão e habilidades empreendedoras te colocam no topo, fazendo você brilhar em qualquer área. Enquanto alguns ainda estão descobrindo o que querem, você já lançou sua próxima grande ideia."
+        },
+        "resultado4": {
+            "title": "Britney Spears: A Ícone Pop",
+            "emoji": "🎤",
+            "subtitle": "A Estrela das Estrelas",
+            "text": "Assim como Britney Spears dominou os charts, você domina seu mundo. Sua presença é inconfundível e você sabe como ser o centro das atenções. Quem não aguenta, que senta."
+        },
+        "resultado5": {
+            "title": "Christina Aguilera: A Voz Poderosa",
+            "emoji": "🎶",
+            "subtitle": "A Dona dos Vocais",
+            "text": "Você é como Christina Aguilera, conhecida por sua voz poderosa e presença impactante. Nada te detém quando você está determinada a alcançar algo. Enquanto alguns fazem playback, você entrega vocais de verdade."
+        },
+        "resultado6": {
+            "title": "Katy Perry: A Divertida e Colorida",
+            "emoji": "🌈",
+            "subtitle": "A Pura Diversão",
+            "text": "Como Katy Perry, você traz cor e alegria por onde passa. Sua energia contagiante e espírito livre fazem de você a vida da festa. Enquanto alguns tentam ser sérios demais, você está se divertindo."
+        },
+        "resultado7": {
+            "title": "Shakira: A Mover e Shaker",
+            "emoji": "💃",
+            "subtitle": "A Bailarina Global",
+            "text": "Você é como a Shakira, capaz de conquistar qualquer desafio com graça e determinação. Seu movimento inspira e impressiona. Mesmo que alguns tentem dançar no seu ritmo, nunca vão alcançar sua ginga."
+        },
+        "resultado8": {
+            "title": "Alicia Keys: A Inspiradora",
+            "emoji": "🎹",
+            "subtitle": "A Musa Inspiradora",
+            "text": "Assim como Alicia Keys, você inspira e motiva todos ao seu redor. Sua sabedoria e tranquilidade são admiráveis. Enquanto alguns fazem drama, você traz serenidade."
+        },
+        "resultado9": {
+            "title": "Madonna: A Ícone Inovadora",
+            "emoji": "🌟",
+            "subtitle": "A Pioneira do Pop",
+            "text": "Você é como Madonna, sempre inovando e quebrando barreiras. Sua audácia e espírito pioneiro são incomparáveis. Enquanto alguns seguem tendências, você as cria."
+        }
+    }
+}
