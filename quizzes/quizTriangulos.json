@@ -1,0 +1,103 @@
+{
+  "title": "Que tipo de triângulo você seria?",
+  "questions": [
+    {
+      "question": "Qual é a sua reação ao encontrar um problema difícil?",
+      "answers": [
+        { "text": "Encaro de frente, com confiança.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
+        { "text": "Analiso todas as opções antes de agir.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
+        { "text": "Procuro uma solução criativa e única.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+        { "text": "Faço uma pausa e volto com uma nova perspectiva.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } },
+        { "text": "Deixo o problema para depois e vou me divertir.", "points": { "resultado1": 0.3, "resultado2": 0.4, "resultado3": 0.6, "resultado4": 0.7, "resultado5": 0.2, "resultado6": 1 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu passatempo favorito?",
+      "answers": [
+        { "text": "Ler um bom livro.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
+        { "text": "Explorar novos lugares.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
+        { "text": "Fazer artesanato ou DIY.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+        { "text": "Jogar videogames.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } },
+        { "text": "Assistir a filmes e séries.", "points": { "resultado1": 0.3, "resultado2": 0.4, "resultado3": 0.6, "resultado4": 0.7, "resultado5": 0.2, "resultado6": 1 } }
+      ]
+    },
+    {
+      "question": "Se você pudesse ter um superpoder, qual seria?",
+      "answers": [
+        { "text": "Voar.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
+        { "text": "Ler mentes.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
+        { "text": "Controlar o tempo.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+        { "text": "Invisibilidade.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } },
+        { "text": "Superforça.", "points": { "resultado1": 0.3, "resultado2": 0.4, "resultado3": 0.6, "resultado4": 0.7, "resultado5": 0.2, "resultado6": 1 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua comida favorita?",
+      "answers": [
+        { "text": "Pizza.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
+        { "text": "Sushi.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
+        { "text": "Hambúrguer.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+        { "text": "Salada.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } },
+        { "text": "Sorvete.", "points": { "resultado1": 0.3, "resultado2": 0.4, "resultado3": 0.6, "resultado4": 0.7, "resultado5": 0.2, "resultado6": 1 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu estilo de música favorito?",
+      "answers": [
+        { "text": "Rock.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
+        { "text": "Pop.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
+        { "text": "Clássica.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+        { "text": "Eletrônica.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } },
+        { "text": "Jazz.", "points": { "resultado1": 0.3, "resultado2": 0.4, "resultado3": 0.6, "resultado4": 0.7, "resultado5": 0.2, "resultado6": 1 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu animal espiritual?",
+      "answers": [
+        { "text": "Leão.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
+        { "text": "Coruja.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
+        { "text": "Golfinho.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+        { "text": "Águia.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } },
+        { "text": "Gato.", "points": { "resultado1": 0.3, "resultado2": 0.4, "resultado3": 0.6, "resultado4": 0.7, "resultado5": 0.2, "resultado6": 1 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "resultado1": {
+      "title": "Triângulo Equilátero",
+      "emoji": "🔺",
+      "subtitle": "Perfeitamente Balanceado",
+      "text": "Você é o triângulo equilátero, sempre equilibrado e justo. Nada te tira do eixo!"
+    },
+    "resultado2": {
+      "title": "Triângulo Isósceles",
+      "emoji": "🔻",
+      "subtitle": "Quase Perfeito",
+      "text": "Você é o triângulo isósceles, quase simétrico, mas com um toque de singularidade. Um pouco de mistério nunca faz mal!"
+    },
+    "resultado3": {
+      "title": "Triângulo Escaleno",
+      "emoji": "🔺",
+      "subtitle": "Único e Inigualável",
+      "text": "Você é o triângulo escaleno, único em todos os aspectos. Ninguém é como você!"
+    },
+    "resultado4": {
+      "title": "Triângulo Retângulo",
+      "emoji": "📐",
+      "subtitle": "Sempre Certo",
+      "text": "Você é o triângulo retângulo, sempre com a resposta certa. Matemática é seu forte!"
+    },
+    "resultado5": {
+      "title": "Triângulo Obtusângulo",
+      "emoji": "🔺",
+      "subtitle": "Pensador Profundo",
+      "text": "Você é o triângulo obtusângulo, sempre vendo as coisas de um ângulo diferente. Profundidade é seu sobrenome!"
+    },
+    "resultado6": {
+      "title": "Triângulo Nonsense",
+      "emoji": "🎉",
+      "subtitle": "Aleatório e Divertido",
+      "text": "Você é o triângulo nonsense, sempre trazendo diversão e surpresas. Quem precisa de lógica?"
+    }
+  }
+}
