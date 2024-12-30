@@ -74,6 +74,11 @@
           "name": "Que tipo de triângulo você seria?",
           "file": "quizzes/quizTriangulos.json",
           "description": "Descubra que tipo de triângulo mais se parece com você!"
+        },
+        {
+            "name": "Qual elemento da tabela periódica você seria?",
+            "file": "quizzes/quizElementosTabelaPeriodica.json",
+            "description": "Descubra qual elemento da tabela periódica mais se parece com você!"
         }
     ]
 }
