@@ -1,5 +1,3 @@
-Claro, vou atualizar o roteiro inicial que você me mandou para incluir os novos passos que realizamos e a criação da entrada do quiz. Aqui está o roteiro revisado:
-
 ### Resumo dos Prompts que eu fiz para gerar o quiz de algoritmos clássicos (feito pelo próprio Copilot)
 
 1. **Introdução ao Template**:
