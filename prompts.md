@@ -1,4 +1,12 @@
-### Resumo dos Prompts que eu fiz para gerar o quiz de algoritmos clássicos (feito pelo próprio Copilot)
+### Roteiro para criação dos prompts que eu fiz para gerar um quiz do tema de sua preferência
+
+# Passo 1: Contexto
+
+O primeiro prompt deve especificar a tarefa e passar o contexto com os dados necessários para o quiz.
+
+Texto:
+
+Gostaria que você olhasse o conteúdo desse roteiro de instruções que vou te mandar:
 
 1. **Introdução ao Template**:
    ```prompt
@@ -59,16 +67,18 @@
 4. **Criação de Resultados**:
    ```prompt
    Crie as descrições dos resultados com base no tema. Inclua título, emoji, subtítulo e descrição para cada resultado.
+   Valide o resultado e gere um arquivo json no template passado acima com o conteúdo parcial.
    ```
 
 5. **Criação de Perguntas e Respostas**:
    ```prompt
    Crie as perguntas e respostas. Inclua referências e mantenha um estilo divertido e criativo.
+   Valide o resultado e gere as alterações necessárias no arquivo json (perguntas e respostas) no template passado acima com o conteúdo parcial.
    ```
 
 6. **Verificação de Cobertura dos Resultados**:
    ```prompt
-   Verifique se todos os personagens/resultados listados são alcançáveis com as respostas dadas.
+   Verifique se todos os personagens/resultados listados são alcançáveis com as respostas dadas. Mostre uma sequência de respostas que gera o resultado de cada personagem.
    ```
 
 7. **Listagem Completa e Revisão**:
@@ -88,13 +98,12 @@
 
 Com esses prompts, você pode facilmente criar novos quizzes de personalidade baseados em outros temas. Espero que seja útil! 🚀
 
-9. **Prompt com dados para o quiz**:
+# Passo 2: **Prompt com dados para o quiz**:
 
 Para criar um novo quiz, siga os passos abaixo com os parâmetros desejados:
 
 ```prompt
 Vamos seguir os passos para criar o quiz com os seguintes parâmetros:
-```yaml
 Tema do quiz: Quem é você na festa da firma?
 Tamanho do quiz: 10 perguntas, 4 alternativas, 8 resultados diferentes que são arquétipos do mercado de trabalho
 Complexidade: média
@@ -107,7 +116,6 @@ Exemplo de outro quiz:
 
 ```prompt
 Vamos seguir os passos para criar o quiz com os seguintes parâmetros:
-```yaml
 Tema do quiz: Qual personagem de série você seria?
 Tamanho do quiz: 12 perguntas, 4 alternativas, 6 resultados diferentes que são personagens de séries populares
 Complexidade: alta
@@ -115,3 +123,10 @@ Aleatoriedade: não
 Nível de atrevimento: médio, pode fazer algumas piadas leves
 Temas visuais: Não
 ```
+
+# Passo 3: **Execução do roteiro**:
+
+O Copilot irá fazer a execução do roteiro passo-a-passo. Talvez exista uma limitação no tamanho de resposta, foi o passo que precisei repetir mais vezes para dar certo.
+
+Para incluir o quiz na página web é possível testar se o arquivo json é válido usando a própria interface da página e após isso, basta um commit no repositório alterando o arquivo ```quizList.json``` com a entrada gerada pelo copilot e criando o arquivo json com o teste gerado pelo copilot na pasta ```quizzes```, validando o nome do arquivo gerado com a entrada na lista.
+
