@@ -221,7 +221,7 @@ select {
     color: var(--font-color);
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1024px) {
     .quiz-container {
         padding: 10px;
     }
