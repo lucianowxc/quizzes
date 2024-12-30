@@ -1,0 +1,107 @@
+{
+    "title": "Qual verso da música 'Smash Mouth - All Star' você seria?",
+    "questions": [
+      {
+        "question": "Como você se sente na maioria das vezes?",
+        "answers": [
+            { "text": "Um pouco desajustado 🚀", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
+            { "text": "Brilhante e confiante 🦸", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
+            { "text": "Incansável e persistente 🏃", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+            { "text": "Sábio e sagaz 🧘", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } }
+        ]
+      },
+      {
+        "question": "Como você lida com desafios?",
+        "answers": [
+            { "text": "Continuo em frente, não importa o que aconteça 🏃", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+            { "text": "Uso minha inteligência para encontrar soluções 🧠", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } },
+            { "text": "Mostro minhas habilidades e brilho 🌟", "points": { "resultado1": 0.3, "resultado2": 0.6, "resultado3": 0.4, "resultado4": 0.7, "resultado5": 1, "resultado6": 0.5 } },
+            { "text": "Sigo sonhando e criando 🎨", "points": { "resultado1": 0.7, "resultado2": 0.3, "resultado3": 0.6, "resultado4": 0.4, "resultado5": 0.5, "resultado6": 1 } }
+        ]
+      },
+      {
+        "question": "Qual é o seu lema de vida?",
+        "answers": [
+            { "text": "A vida é uma maratona, não um sprint 🏃", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+            { "text": "Sábio é quem sabe que nada sabe 🧘", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } },
+            { "text": "Brilhe intensamente ou vá para casa 🌟", "points": { "resultado1": 0.3, "resultado2": 0.6, "resultado3": 0.4, "resultado4": 0.7, "resultado5": 1, "resultado6": 0.5 } },
+            { "text": "Deixe a música te guiar 🎵", "points": { "resultado1": 0.7, "resultado2": 0.3, "resultado3": 0.6, "resultado4": 0.4, "resultado5": 0.5, "resultado6": 1 } }
+        ]
+      },
+      {
+        "question": "Como você descreveria seu grupo de amigos?",
+        "answers": [
+            { "text": "Um pouco desajustados, mas divertidos 🚀", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
+            { "text": "Todos brilhantes e talentosos 🦸", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
+            { "text": "Incansáveis e sempre em movimento 🏃", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+            { "text": "Inteligentes e sagazes 🧠", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } }
+        ]
+      },
+      {
+        "question": "Como você descreveria seu grupo de amigos?",
+        "answers": [
+          { "text": "Um pouco desajustados, mas divertidos 🎈", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
+          { "text": "Todos brilhantes e talentosos ✨", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
+          { "text": "Incansáveis e sempre em movimento 🏃", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+          { "text": "Inteligentes e sagazes 💡", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } }
+        ]
+      },
+      {
+        "question": "Como você reage a situações inesperadas?",
+        "answers": [
+            { "text": "Aceito e me adapto rapidamente 🌪️", "points": { "resultado1": 0.7, "resultado2": 0.3, "resultado3": 0.6, "resultado4": 0.4, "resultado5": 0.5, "resultado6": 1 } },
+            { "text": "Vejo como uma oportunidade de brilhar 🌟", "points": { "resultado1": 0.3, "resultado2": 0.6, "resultado3": 0.4, "resultado4": 0.7, "resultado5": 1, "resultado6": 0.5 } },
+            { "text": "Persisto até encontrar uma solução 🏋️", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+            { "text": "Uso minha sabedoria para navegar a situação 🔍", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } }
+        ]
+      },
+      {
+        "question": "Qual é o seu maior sonho?",
+        "answers": [
+            { "text": "Encontrar meu lugar no mundo 🚀", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7 } },
+            { "text": "Brilhar como uma estrela 🌟", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4 } },
+            { "text": "Nunca parar de crescer e evoluir 🌱", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6 } },
+            { "text": "Criar algo que inspire os outros 💡", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3 } }
+        ]
+      }
+    ],
+    "descriptions": {
+      "resultado1": {
+        "title": "🎤 \"I ain't the sharpest tool in the shed\"",
+        "emoji": "🎤",
+        "subtitle": "Aquele que não é o mais afiado da gaveta",
+        "text": "Você é aquele que sempre se sente um pouco fora do lugar, mas é justamente isso que faz você tão especial."
+      },
+      "resultado2": {
+        "title": "🌟 \"You're an All Star!\"",
+        "emoji": "🌟",
+        "subtitle": "Um All Star brilhante",
+        "text": "Você está destinado ao sucesso e ao estrelato. As pessoas sempre procuram por você quando precisam de alguém especial."
+      },
+      "resultado3": {
+        "title": "🌀 \"The years start coming and they don’t stop coming\"",
+        "emoji": "🌀",
+        "subtitle": "Aquele que nunca para",
+        "text": "Você é incansável e sempre em movimento. Não importa o obstáculo, você continua em frente."
+      },
+      "resultado4": {
+        "title": "🧠 \"Your brain gets smart but your head gets dumb\"",
+        "emoji": "🧠",
+        "subtitle": "Sábio além dos anos",
+        "text": "Você possui uma sabedoria além dos seus anos e sabe como navegar pelo mundo com sagacidade."
+      },
+      "resultado5": {
+        "title": "🔥 \"You’ll never shine if you don’t glow\"",
+        "emoji": "🔥",
+        "subtitle": "Aquele que não tem medo de brilhar",
+        "text": "Você não tem medo de brilhar e mostrar suas habilidades para o mundo."
+      },
+      "resultado6": {
+        "title": "🎶 \"Only shooting stars break the mold\"",
+        "emoji": "🎶",
+        "subtitle": "O sonhador melódico",
+        "text": "Você é um sonhador criativo que sempre vê o mundo através de uma lente melódica."
+      }
+    }
+  }
+  

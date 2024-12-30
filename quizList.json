@@ -59,6 +59,11 @@
             "name": "Qual Personagem de Filme de Terror Você é?", 
             "file": "quizzes/quizPersonagensDeTerror.json",
             "description": "Descubra que personagem você seria em um filme de terror! Responda ao nosso quiz e desvende seu alter ego sombrio."
-        }        
+        },
+        {
+            "name": "Qual verso da música 'Smash Mouth - All Star' você seria?",
+            "file": "quizzes/quizVersosAllStar.json",
+            "description": "Descubra qual verso da música 'Smash Mouth - All Star' mais se parece com você!"
+        }          
     ]
 }
