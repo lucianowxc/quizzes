@@ -49,10 +49,10 @@
         {
             "question": "Se você pudesse ter qualquer trabalho no mundo, qual seria?",
             "answers": [
-            { "text": "Cientista maluco", "points": { "Cúrio": 1, "Praseodímio": 0.5, "Mercúrio": 0.2, "Gadolínio": 0.8, "Hafnium": 0.3, "Rutherfórdio": 0.7, "Livermório": 0.4, "Antimônio": 0.6, "Tantálio": 0.9, "Césio-137": 0.1 } },
-            { "text": "Hacker de elite", "points": { "Cúrio": 0.5, "Praseodímio": 1, "Mercúrio": 0.8, "Gadolínio": 0.2, "Hafnium": 0.6, "Rutherfórdio": 0.4, "Livermório": 0.7, "Antimônio": 0.3, "Tantálio": 0.9, "Césio-137": 0.1 } },
-            { "text": "Mestre do disfarce", "points": { "Cúrio": 0.2, "Praseodímio": 0.8, "Mercúrio": 1, "Gadolínio": 0.5, "Hafnium": 0.4, "Rutherfórdio": 0.6, "Livermório": 0.3, "Antimônio": 0.7, "Tantálio": 0.9, "Césio-137": 0.1 } },
-            { "text": "Magnata das finanças", "points": { "Cúrio": 0.8, "Praseodímio": 0.2, "Mercúrio": 0.5, "Gadolínio": 1, "Hafnium": 0.7, "Rutherfórdio": 0.3, "Livermório": 0.6, "Antimônio": 0.4, "Tantálio": 0.9, "Césio-137": 0.1 } }
+            { "text": "Cientista maluco", "points": { "Cúrio": 1, "Praseodímio": 0.5, "Gadolínio": 0.8, "Hafnium": 0.3, "Rutherfórdio": 0.7, "Livermório": 0.4, "Antimônio": 0.6, "Tantálio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Hacker de elite", "points": { "Cúrio": 0.5, "Praseodímio": 1, "Gadolínio": 0.2, "Hafnium": 0.6, "Rutherfórdio": 0.4, "Livermório": 0.7, "Antimônio": 0.3, "Tantálio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Mestre do disfarce", "points": { "Cúrio": 0.2, "Praseodímio": 0.8, "Gadolínio": 0.5, "Hafnium": 0.4, "Rutherfórdio": 0.6, "Livermório": 0.3, "Antimônio": 0.7, "Tantálio": 0.9, "Césio-137": 0.1 } },
+            { "text": "Magnata das finanças", "points": { "Cúrio": 0.8, "Praseodímio": 0.2, "Gadolínio": 1, "Hafnium": 0.7, "Rutherfórdio": 0.3, "Livermório": 0.6, "Antimônio": 0.4, "Tantálio": 0.9, "Césio-137": 0.1 } }
             ]
         },
         {
