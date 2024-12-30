@@ -69,6 +69,11 @@
             "name": "Qual Diva Pop dos Anos 2000 Você é?", 
             "file": "quizzes/quizDivasPopAnos2000.json",
             "description": "Descubra qual diva pop dos anos 2000 mais se parece com você!"
-        }       
+        },
+        {
+          "name": "Que tipo de triângulo você seria?",
+          "file": "quizzes/quizTriangulos.json",
+          "description": "Descubra que tipo de triângulo mais se parece com você!"
+        }
     ]
 }
