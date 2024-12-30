@@ -49,6 +49,12 @@
             "name": "Quem é você na festa da firma?", 
             "file": "quizzes/quizFestaFirma.json",
             "description": "Descubra qual arquétipo você representa na festa da firma!"
-        }             
+        },
+        {
+            "name": "Qual linguagem de programação esotérica você seria?", 
+            "file": "quizzes/quizLinguagensEsotericas.json",
+            "description": "Descubra qual linguagem de programação esotérica mais se parece com você!"
+        }
+        
     ]
 }

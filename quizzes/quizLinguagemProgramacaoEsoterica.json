@@ -1,0 +1,127 @@
+{
+    "title": "Qual linguagem de programação esotérica você seria?",
+    "questions": [
+        {
+            "question": "Se a vida fosse um compilador, qual seria a sua mensagem de erro?",
+            "answers": [
+                { "text": "Segmentation fault - Porque você está sempre fora dos limites.", "points": { "Brainfuck": 0.8, "Malbolge": 0.7, "LOLCODE": 0.3, "Whitespace": 0.4, "Piet": 0.5, "INTERCAL": 0.6, "Chef": 0.2, "Shakespeare": 0.1 } },
+                { "text": "Syntax error - Porque nem sempre você segue as regras.", "points": { "Brainfuck": 0.5, "Malbolge": 0.8, "LOLCODE": 0.4, "Whitespace": 0.2, "Piet": 0.3, "INTERCAL": 0.7, "Chef": 0.6, "Shakespeare": 0.1 } },
+                { "text": "Infinite loop - Porque você tende a se perder em pensamentos.", "points": { "Brainfuck": 0.2, "Malbolge": 0.3, "LOLCODE": 0.6, "Whitespace": 0.8, "Piet": 0.4, "INTERCAL": 0.1, "Chef": 0.7, "Shakespeare": 0.5 } },
+                { "text": "Null pointer exception - Porque às vezes você se sente desconectado.", "points": { "Brainfuck": 0.1, "Malbolge": 0.4, "LOLCODE": 0.5, "Whitespace": 0.6, "Piet": 0.8, "INTERCAL": 0.2, "Chef": 0.3, "Shakespeare": 0.7 } }
+            ]
+        },
+        {
+            "question": "Se você fosse um símbolo, qual seria?",
+            "answers": [
+                { "text": "{ } - Porque você gosta de manter tudo organizado.", "points": { "Brainfuck": 0.4, "Malbolge": 0.5, "LOLCODE": 0.2, "Whitespace": 0.7, "Piet": 0.6, "INTERCAL": 0.8, "Chef": 0.1, "Shakespeare": 0.3 } },
+                { "text": "; - Porque você adora finalizar as coisas com estilo.", "points": { "Brainfuck": 0.1, "Malbolge": 0.6, "LOLCODE": 0.3, "Whitespace": 0.8, "Piet": 0.2, "INTERCAL": 0.4, "Chef": 0.5, "Shakespeare": 0.7 } },
+                { "text": "() - Porque você está sempre envolvido em novas ideias.", "points": { "Brainfuck": 0.5, "Malbolge": 0.4, "LOLCODE": 0.8, "Whitespace": 0.3, "Piet": 0.7, "INTERCAL": 0.2, "Chef": 0.6, "Shakespeare": 0.1 } },
+                { "text": "@ - Porque você é fundamental no mundo digital.", "points": { "Brainfuck": 0.7, "Malbolge": 0.2, "LOLCODE": 0.1, "Whitespace": 0.6, "Piet": 0.8, "INTERCAL": 0.3, "Chef": 0.5, "Shakespeare": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu estado mental durante um bug?",
+            "answers": [
+                { "text": "Calmo, como um Zen master.", "points": { "Brainfuck": 0.2, "Malbolge": 0.1, "LOLCODE": 0.4, "Whitespace": 0.6, "Piet": 0.5, "INTERCAL": 0.3, "Chef": 0.8, "Shakespeare": 0.7 } },
+                { "text": "Em pânico total.", "points": { "Brainfuck": 0.4, "Malbolge": 0.8, "LOLCODE": 0.7, "Whitespace": 0.2, "Piet": 0.3, "INTERCAL": 0.1, "Chef": 0.6, "Shakespeare": 0.5 } },
+                { "text": "Confuso, mas curioso.", "points": { "Brainfuck": 0.5, "Malbolge": 0.4, "LOLCODE": 0.6, "Whitespace": 0.3, "Piet": 0.1, "INTERCAL": 0.7, "Chef": 0.2, "Shakespeare": 0.8 } },
+                { "text": "Em negação completa.", "points": { "Brainfuck": 0.3, "Malbolge": 0.5, "LOLCODE": 0.8, "Whitespace": 0.4, "Piet": 0.7, "INTERCAL": 0.6, "Chef": 0.1, "Shakespeare": 0.2 } }
+            ]
+        },
+        {
+            "question": "Se você pudesse conversar com qualquer linguagem de programação, qual seria o tema principal?",
+            "answers": [
+                { "text": "Filosofia - Para entender a lógica do universo.", "points": { "Brainfuck": 0.6, "Malbolge": 0.5, "LOLCODE": 0.7, "Whitespace": 0.3, "Piet": 0.8, "INTERCAL": 0.2, "Chef": 0.4, "Shakespeare": 0.1 } },
+                { "text": "Arte - Para encontrar beleza no caos.", "points": { "Brainfuck": 0.1, "Malbolge": 0.3, "LOLCODE": 0.8, "Whitespace": 0.2, "Piet": 0.6, "INTERCAL": 0.5, "Chef": 0.7, "Shakespeare": 0.4 } },
+                { "text": "Comida - Porque boas ideias nascem em boas refeições.", "points": { "Brainfuck": 0.7, "Malbolge": 0.4, "LOLCODE": 0.2, "Whitespace": 0.1, "Piet": 0.5, "INTERCAL": 0.8, "Chef": 0.3, "Shakespeare": 0.6 } },
+                { "text": "Mistério - Porque o desconhecido é fascinante.", "points": { "Brainfuck": 0.5, "Malbolge": 0.6, "LOLCODE": 0.1, "Whitespace": 0.7, "Piet": 0.4, "INTERCAL": 0.3, "Chef": 0.8, "Shakespeare": 0.2 } }
+            ]
+        },
+        {
+            "question": "Se sua vida fosse um ciclo de repetição, como ele seria?",
+            "answers": [
+                { "text": "while (true) - Porque você nunca desiste.", "points": { "Brainfuck": 0.6, "Malbolge": 0.7, "LOLCODE": 0.2, "Whitespace": 0.5, "Piet": 0.8, "INTERCAL": 0.4, "Chef": 0.3, "Shakespeare": 0.1 } },
+                { "text": "for (i=0; i<infinito; i++) - Porque você está sempre em movimento.", "points": { "Brainfuck": 0.3, "Malbolge": 0.8, "LOLCODE": 0.1, "Whitespace": 0.6, "Piet": 0.5, "INTERCAL": 0.2, "Chef": 0.4, "Shakespeare": 0.7 } },
+                { "text": "do {} while (sonhando) - Porque você vive seus sonhos.", "points": { "Brainfuck": 0.4, "Malbolge": 0.5, "LOLCODE": 0.7, "Whitespace": 0.8, "Piet": 0.1, "INTERCAL": 0.6, "Chef": 0.2, "Shakespeare": 0.3 } },
+                { "text": "foreach (ideia in mente) - Porque você tem muitas ideias.", "points": { "Brainfuck": 0.7, "Malbolge": 0.3, "LOLCODE": 0.4, "Whitespace": 0.1, "Piet": 0.6, "INTERCAL": 0.8, "Chef": 0.5, "Shakespeare": 0.2 } }
+            ]
+        },
+        {
+            "question": "Se sua vida fosse um ciclo de repetição, como ele seria?",
+            "answers": [
+                { "text": "while (true) - Porque você nunca desiste.", "points": { "Brainfuck": 0.6, "Malbolge": 0.7, "LOLCODE": 0.2, "Whitespace": 0.5, "Piet": 0.8, "INTERCAL": 0.4, "Chef": 0.3, "Shakespeare": 0.1 } },
+                { "text": "for (i=0; i<infinito; i++) - Porque você está sempre em movimento.", "points": { "Brainfuck": 0.3, "Malbolge": 0.8, "LOLCODE": 0.1, "Whitespace": 0.6, "Piet": 0.5, "INTERCAL": 0.2, "Chef": 0.4, "Shakespeare": 0.7 } },
+                { "text": "do {} while (sonhando) - Porque você vive seus sonhos.", "points": { "Brainfuck": 0.4, "Malbolge": 0.5, "LOLCODE": 0.7, "Whitespace": 0.8, "Piet": 0.1, "INTERCAL": 0.6, "Chef": 0.2, "Shakespeare": 0.3 } },
+                { "text": "foreach (ideia in mente) - Porque você tem muitas ideias.", "points": { "Brainfuck": 0.7, "Malbolge": 0.3, "LOLCODE": 0.4, "Whitespace": 0.1, "Piet": 0.6, "INTERCAL": 0.8, "Chef": 0.5, "Shakespeare": 0.2 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua abordagem para resolver problemas?",
+            "answers": [
+                { "text": "Dividir e conquistar.", "points": { "Brainfuck": 0.5, "Malbolge": 0.6, "LOLCODE": 0.3, "Whitespace": 0.2, "Piet": 0.7, "INTERCAL": 0.4, "Chef": 0.8, "Shakespeare": 0.1 } },
+                { "text": "Brute force - Força bruta!", "points": { "Brainfuck": 0.8, "Malbolge": 0.7, "LOLCODE": 0.2, "Whitespace": 0.1, "Piet": 0.4, "INTERCAL": 0.5, "Chef": 0.6, "Shakespeare": 0.3 } },
+                { "text": "Recursão - Sempre voltando ao ponto de partida.", "points": { "Brainfuck": 0.6, "Malbolge": 0.4, "LOLCODE": 0.8, "Whitespace": 0.3, "Piet": 0.2, "INTERCAL": 0.7, "Chef": 0.1, "Shakespeare": 0.5 } },
+                { "text": "Algoritmo genético - Evoluindo constantemente.", "points": { "Brainfuck": 0.3, "Malbolge": 0.5, "LOLCODE": 0.1, "Whitespace": 0.8, "Piet": 0.6, "INTERCAL": 0.2, "Chef": 0.4, "Shakespeare": 0.7 } }
+            ]
+        },
+        {
+            "question": "Se você fosse um bug, qual seria?",
+            "answers": [
+                { "text": "O bug fantasma que ninguém consegue encontrar.", "points": { "Brainfuck": 0.7, "Malbolge": 0.6, "LOLCODE": 0.3, "Whitespace": 0.1, "Piet": 0.8, "INTERCAL": 0.2, "Chef": 0.4, "Shakespeare": 0.5 } },
+                { "text": "A falha crítica que paralisa tudo.", "points": { "Brainfuck": 0.5, "Malbolge": 0.8, "LOLCODE": 0.2, "Whitespace": 0.6, "Piet": 0.3, "INTERCAL": 0.4, "Chef": 0.1, "Shakespeare": 0.7 } },
+                { "text": "O erro bizarro que faz todos rirem.", "points": { "Brainfuck": 0.6, "Malbolge": 0.4, "LOLCODE": 0.8, "Whitespace": 0.7, "Piet": 0.5, "INTERCAL": 0.3, "Chef": 0.2, "Shakespeare": 0.1 } },
+                { "text": "O glitch visual que cria padrões inesperados.", "points": { "Brainfuck": 0.2, "Malbolge": 0.3, "LOLCODE": 0.5, "Whitespace": 0.8, "Piet": 0.7, "INTERCAL": 0.1, "Chef": 0.6, "Shakespeare": 0.4 } }
+            ]
+        }       
+    ],
+    "descriptions": {
+        "Brainfuck": {
+            "title": "Brainfuck",
+            "emoji": "🧠💥",
+            "subtitle": "A mente complexa e enigmática",
+            "text": "Você é uma verdadeira caixa de enigmas! Complexo, enigmático e desafiador, sua maneira de pensar faz com que todos ao seu redor se sintam em um verdadeiro quebra-cabeça."
+        },
+        "Malbolge": {
+            "title": "Malbolge",
+            "emoji": "🤯🔥",
+            "subtitle": "O caos personificado",
+            "text": "Com você, nada é simples! Seu estilo é um turbilhão de complexidade e desordem, fazendo com que a lógica tradicional pareça brincadeira de criança."
+        },
+        "LOLCODE": {
+            "title": "LOLCODE",
+            "emoji": "😹💻",
+            "subtitle": "O humor irresistível",
+            "text": "Sempre com um sorriso no rosto e um meme na ponta da língua, você vê o mundo de forma leve e divertida, transformando problemas em piadas."
+        },
+        "Whitespace": {
+            "title": "Whitespace",
+            "emoji": "⬜🔍",
+            "subtitle": "O invisível detalhista",
+            "text": "Sutil e imperceptível, você se destaca pelos detalhes que ninguém mais vê. Sua presença pode passar despercebida, mas seu impacto é imenso."
+        },
+        "Piet": {
+            "title": "Piet",
+            "emoji": "🖼️🧑‍🎨",
+            "subtitle": "O artista lógico",
+            "text": "Criatividade e lógica se unem em você! Como um verdadeiro artista, você transforma código em arte, fazendo de cada linha uma obra-prima."
+        },
+        "INTERCAL": {
+            "title": "INTERCAL",
+            "emoji": "😵🔄",
+            "subtitle": "A contradição encarnada",
+            "text": "Contraditório e surpreendente, suas decisões são imprevisíveis e sempre causam um impacto. Nada em você é convencional."
+        },
+        "Chef": {
+            "title": "Chef",
+            "emoji": "🍳👨‍🍳",
+            "subtitle": "O gourmet criativo",
+            "text": "Misturando ingredientes incomuns, você cria soluções únicas e saborosas. Seu raciocínio é como uma receita gourmet: elaborado e delicioso."
+        },
+        "Shakespeare": {
+            "title": "Shakespeare",
+            "emoji": "🎭📝",
+            "subtitle": "O dramaturgo do código",
+            "text": "Você vê o mundo como um grande palco, onde cada linha de código é um verso poético. Sua eloquência transforma qualquer problema em uma verdadeira obra de arte."
+        }
+    }
+}
