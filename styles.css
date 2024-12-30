@@ -155,8 +155,7 @@ select {
 
 .quiz-posts {
     display: grid;
-    grid-template-columns: repeat(6, 1fr);
-    grid-template-rows: repeat(2, auto);
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
     margin-top: 20px;
     width: 100%;
@@ -198,6 +197,7 @@ select {
     justify-content: center;
     align-items: center;
     margin-top: 20px;
+    margin-bottom: 20px; /* Add margin-bottom to ensure visibility above the footer */
 }
 
 .pagination-controls button {
@@ -250,6 +250,10 @@ select {
     .quiz-posts {
         grid-template-columns: 1fr;
         grid-template-rows: auto;
+    }
+
+    .pagination-controls {
+        margin-bottom: 60px; /* Ensure pagination controls are above the footer */
     }
 }
 
