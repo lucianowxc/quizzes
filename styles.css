@@ -154,13 +154,14 @@ select {
 }
 
 .quiz-posts {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: repeat(3, auto);
     gap: 20px;
     margin-top: 20px;
-    width: 100%; /* Garantir largura total */
-    box-sizing: border-box; /* Incluir padding e border no cálculo da largura */
+    width: 100%;
+    box-sizing: border-box;
+    justify-items: center;
 }
 
 .quiz-post {
