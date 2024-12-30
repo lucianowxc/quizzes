@@ -1,0 +1,136 @@
+{
+    "title": "Descubra que personagem é você no filme de terror",
+    "questions": [
+        {
+            "question": "Você está sozinho em uma casa velha à noite e ouve um barulho estranho. O que você faz?",
+            "answers": [
+                { "text": "🏃‍♂️ Corro o mais rápido que posso!", "points": { "O Sobrevivente": 0.8, "O Vilão Carismático": 0.2, "A Primeira Vítima": 0.6, "O Herói Improvável": 0.4, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.5, "A Vítima Desavisada": 0.7, "A Vítima Redimida": 0.4 } },
+                { "text": "🔪 Procuro uma arma para me defender.", "points": { "O Sobrevivente": 0.7, "O Vilão Carismático": 0.5, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.6, "A Entidade Sobrenatural": 0.2, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.8, "A Vítima Redimida": 0.4 } },
+                { "text": "😂 Faço uma piada para aliviar a tensão.", "points": { "O Sobrevivente": 0.4, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.2, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.5, "A Vítima Desavisada": 0.5, "A Vítima Redimida": 0.4 } },
+                { "text": "😐 Investigo calmamente a origem do barulho.", "points": { "O Sobrevivente": 0.6, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.4, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 1, "A Vítima Redimida": 0.4 } }
+            ]
+        },
+        {
+            "question": "Você encontra uma porta secreta na parede. Você...",
+            "answers": [
+                { "text": "🚪 Decido abri-la, claro!", "points": { "O Sobrevivente": 0.4, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.6, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.7, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 0.8, "A Vítima Redimida": 0.4 } },
+                { "text": "😎 Finjo que nem vi e continuo meu caminho.", "points": { "O Sobrevivente": 0.5, "O Vilão Carismático": 0.6, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.4, "A Entidade Sobrenatural": 0.2, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.5, "A Vítima Redimida": 0.4 } },
+                { "text": "🧙‍♂️ Tento descobrir se há algum segredo por trás dela.", "points": { "O Sobrevivente": 0.3, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.2, "O Herói Improvável": 0.6, "A Entidade Sobrenatural": 1, "A Vítima Sacrificial": 0.5, "A Vítima Desavisada": 0.3, "A Vítima Redimida": 0.5 } },
+                { "text": "🤡 Faço uma piada sobre encontrar a sala do pânico.", "points": { "O Sobrevivente": 0.4, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.4, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.2, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.5, "A Vítima Redimida": 0.4 } }
+            ]
+        },
+        {
+            "question": "Você vê uma figura misteriosa no espelho. Como você reage?",
+            "answers": [
+                { "text": "🪞 Vou até o espelho para ver melhor.", "points": { "O Sobrevivente": 0.5, "O Vilão Carismático": 0.6, "A Primeira Vítima": 0.4, "O Herói Improvável": 0.4, "A Entidade Sobrenatural": 0.8, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 0.6, "A Vítima Redimida": 0.5 } },
+                { "text": "🏃‍♂️ Saio correndo do banheiro.", "points": { "O Sobrevivente": 0.8, "O Vilão Carismático": 0.2, "A Primeira Vítima": 0.7, "O Herói Improvável": 0.3, "A Entidade Sobrenatural": 0.4, "A Vítima Sacrificial": 0.5, "A Vítima Desavisada": 0.8, "A Vítima Redimida": 0.3 } },
+                { "text": "🤡 Faço uma careta para o espelho.", "points": { "O Sobrevivente": 0.4, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.4, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.4, "A Vítima Redimida": 0.4 } },
+                { "text": "🕵️‍♂️ Investigo de onde veio a figura.", "points": { "O Sobrevivente": 0.6, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.2, "O Herói Improvável": 0.6, "A Entidade Sobrenatural": 0.7, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 0.5, "A Vítima Redimida": 0.4 } }
+            ]
+        },
+        {
+            "question": "Você encontra um livro antigo de feitiços. O que você faz?",
+            "answers": [
+                { "text": "📖 Tento ler os feitiços em voz alta.", "points": { "O Sobrevivente": 0.3, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.6, "O Herói Improvável": 0.4, "A Entidade Sobrenatural": 0.8, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 0.7, "A Vítima Redimida": 0.4 } },
+                { "text": "🛑 Fecho o livro e saio de perto dele.", "points": { "O Sobrevivente": 0.7, "O Vilão Carismático": 0.2, "A Primeira Vítima": 0.4, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.8, "A Vítima Redimida": 0.3 } },
+                { "text": "📚 Investigo a origem do livro.", "points": { "O Sobrevivente": 0.5, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.2, "O Herói Improvável": 0.6, "A Entidade Sobrenatural": 0.7, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.3, "A Vítima Redimida": 0.5 } },
+                { "text": "🤡 Faço uma piada sobre ser um mago agora.", "points": { "O Sobrevivente": 0.4, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.4, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.4, "A Vítima Redimida": 0.4 } }
+            ]
+        },
+        {
+            "question": "Um estranho te oferece ajuda em meio ao caos. O que você faz?",
+            "answers": [
+                { "text": "🙋‍♂️ Aceito a ajuda e torço pelo melhor.", "points": { "O Sobrevivente": 0.6, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.4, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.4, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.6, "A Vítima Redimida": 0.3 } },
+                { "text": "❌ Recuso e sigo meu próprio caminho.", "points": { "O Sobrevivente": 0.7, "O Vilão Carismático": 0.5, "A Primeira Vítima": 0.2, "O Herói Improvável": 0.4, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.5, "A Vítima Redimida": 0.4 } },
+                { "text": "🤔 Investigo se o estranho é confiável.", "points": { "O Sobrevivente": 0.5, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.6, "A Entidade Sobrenatural": 0.7, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 0.4, "A Vítima Redimida": 0.5 } },
+                { "text": "😂 Faço uma piada sobre confiar em estranhos.", "points": { "O Sobrevivente": 0.4, "O Vilão Carismático": 0.2, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.2, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.3, "A Vítima Redimida": 0.4 } }
+            ]
+        },
+        {
+            "question": "Você está em um cemitério à noite e vê uma sombra se movendo. Qual é sua reação?",
+            "answers": [
+                { "text": "🏃‍♂️ Corro o mais rápido que posso para longe dali!", "points": { "O Sobrevivente": 0.8, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.6, "O Herói Improvável": 0.4, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.5, "A Vítima Desavisada": 0.7, "A Vítima Redimida": 0.4 } },
+                { "text": "👻 Vou investigar a sombra.", "points": { "O Sobrevivente": 0.5, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.4, "O Herói Improvável": 0.6, "A Entidade Sobrenatural": 0.8, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 0.4, "A Vítima Redimida": 0.5 } },
+                { "text": "🕵️‍♂️ Observo de longe e tento entender o que está acontecendo.", "points": { "O Sobrevivente": 0.6, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.7, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.3, "A Vítima Redimida": 0.4 } },
+                { "text": "🤡 Faço uma piada para aliviar a tensão.", "points": { "O Sobrevivente": 0.4, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.4, "A Vítima Redimida": 0.4 } }
+            ]
+        },
+        {
+            "question": "Você encontra uma velha caixa trancada. Qual é sua reação?",
+            "answers": [
+                { "text": "🔑 Procuro uma maneira de abri-la.", "points": { "O Sobrevivente": 0.5, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.4, "O Herói Improvável": 0.6, "A Entidade Sobrenatural": 0.7, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 0.3, "A Vítima Redimida": 0.5 } },
+                { "text": "❌ Deixo a caixa onde está.", "points": { "O Sobrevivente": 0.6, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.4, "A Entidade Sobrenatural": 0.2, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.7, "A Vítima Redimida": 0.4 } },
+                { "text": "🕵️‍♂️ Investigo a caixa para descobrir o que há dentro.", "points": { "O Sobrevivente": 0.5, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.2, "O Herói Improvável": 0.6, "A Entidade Sobrenatural": 0.8, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 0.5, "A Vítima Redimida": 0.5 } },
+                { "text": "🤡 Faço uma piada sobre encontrar o tesouro escondido.", "points": { "O Sobrevivente": 0.4, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.4, "A Vítima Redimida": 0.4 } }
+            ]
+        },
+        {
+            "question": "Uma figura encapuzada se aproxima de você na floresta. O que você faz?",
+            "answers": [
+                { "text": "🚶‍♂️ Calmamente pergunto quem é.", "points": { "O Sobrevivente": 0.5, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.4, "O Herói Improvável": 0.6, "A Entidade Sobrenatural": 0.7, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 0.3, "A Vítima Redimida": 0.5 } },
+                { "text": "🏃‍♂️ Corro o mais rápido que posso para longe dali!", "points": { "O Sobrevivente": 0.8, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.6, "O Herói Improvável": 0.4, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.5, "A Vítima Desavisada": 0.7, "A Vítima Redimida": 0.4 } },
+                { "text": "🤔 Observo a figura de longe e tento entender suas intenções.", "points": { "O Sobrevivente": 0.6, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.7, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.3, "A Vítima Redimida": 0.4 } },
+                { "text": "🤡 Faço uma piada sobre encontros estranhos na floresta.", "points": { "O Sobrevivente": 0.4, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.4, "A Vítima Redimida": 0.4 } }
+            ]
+        },
+        {
+            "question": "Você descobre que seu melhor amigo tem um segredo sombrio. Como você reage?",
+            "answers": [
+                { "text": "🤐 Confronto meu amigo sobre o segredo.", "points": { "O Sobrevivente": 0.6, "O Vilão Carismático": 0.5, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.4, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.5, "A Vítima Redimida": 0.3 } },
+                { "text": "🤔 Investigo por conta própria para descobrir mais.", "points": { "O Sobrevivente": 0.5, "O Vilão Carismático": 0.4, "A Primeira Vítima": 0.2, "O Herói Improvável": 0.6, "A Entidade Sobrenatural": 0.7, "A Vítima Sacrificial": 0.3, "A Vítima Desavisada": 0.4, "A Vítima Redimida": 0.5 } },
+                { "text": "😱 Fico assustado e me afasto do meu amigo.", "points": { "O Sobrevivente": 0.7, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.6, "O Herói Improvável": 0.4, "A Entidade Sobrenatural": 0.3, "A Vítima Sacrificial": 0.5, "A Vítima Desavisada": 0.8, "A Vítima Redimida": 0.3 } },
+                { "text": "🤡 Faço uma piada sobre ter amigos com segredos sombrios.", "points": { "O Sobrevivente": 0.4, "O Vilão Carismático": 0.3, "A Primeira Vítima": 0.3, "O Herói Improvável": 0.5, "A Entidade Sobrenatural": 0.4, "A Vítima Sacrificial": 0.4, "A Vítima Desavisada": 0.4, "A Vítima Redimida": 0.4 } }
+            ]
+        }       
+    ],
+    "descriptions": {
+        "O Sobrevivente": {
+            "title": "O Sobrevivente",
+            "emoji": "🧟‍♂️",
+            "subtitle": "O mestre da resistência",
+            "text": "Você é aquele que sempre encontra uma maneira de escapar, não importa o quão desesperadora seja a situação. Resiliente e determinado, você nunca desiste."
+        },
+        "O Vilão Carismático": {
+            "title": "O Vilão Carismático",
+            "emoji": "😈",
+            "subtitle": "O charme mortal",
+            "text": "Com um sorriso sedutor e um olhar penetrante, você conquista suas vítimas com facilidade. Mas cuidado, seu charme pode ser mais mortal que suas ações."
+        },
+        "A Primeira Vítima": {
+            "title": "A Primeira Vítima",
+            "emoji": "☠️",
+            "subtitle": "O azarado incorrigível",
+            "text": "Infelizmente, você sempre parece estar no lugar errado na hora errada. Sua sorte tende a acabar antes de todos os outros."
+        },
+        "O Herói Improvável": {
+            "title": "O Herói Improvável",
+            "emoji": "🦸‍♂️",
+            "subtitle": "O campeão inesperado",
+            "text": "Ninguém esperava por você, mas, contra todas as probabilidades, você se levanta para salvar o dia. Um verdadeiro símbolo de esperança."
+        },
+        "A Entidade Sobrenatural": {
+            "title": "A Entidade Sobrenatural",
+            "emoji": "👻",
+            "subtitle": "O enigma etéreo",
+            "text": "Misterioso e intangível, você caminha entre o mundo dos vivos e dos mortos. Sua presença é um presságio de acontecimentos sinistros."
+        },
+        "A Vítima Sacrificial": {
+            "title": "A Vítima Sacrificial",
+            "emoji": "💀",
+            "subtitle": "O mártir involuntário",
+            "text": "Destinado a cair para salvar os outros, seu destino trágico é ser o sacrifício necessário. Sua coragem é admirável, mas seu fim é inevitável."
+        },
+        "A Vítima Desavisada": {
+            "title": "A Vítima Desavisada",
+            "emoji": "😵",
+            "subtitle": "O inocente perdido",
+            "text": "Sem saber do perigo que se aproxima, você é pego de surpresa. Sua ingenuidade e falta de preparo te tornam uma presa fácil."
+        },
+        "A Vítima Redimida": {
+            "title": "A Vítima Redimida",
+            "emoji": "🕊️",
+            "subtitle": "O arrependido",
+            "text": "Mesmo com um passado sombrio, você busca redenção. Embora encontre um fim trágico, seu desejo de mudar é o que define sua jornada."
+        }
+    }
+}

@@ -54,7 +54,11 @@
             "name": "Qual linguagem de programação esotérica você seria?", 
             "file": "quizzes/quizLinguagensEsotericas.json",
             "description": "Descubra qual linguagem de programação esotérica mais se parece com você!"
-        }
-        
+        },
+        { 
+            "name": "Qual Personagem de Filme de Terror Você é?", 
+            "file": "quizzes/quizPersonagensDeTerror.json",
+            "description": "Descubra que personagem você seria em um filme de terror! Responda ao nosso quiz e desvende seu alter ego sombrio."
+        }        
     ]
 }
