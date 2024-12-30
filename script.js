@@ -13,7 +13,7 @@ async function loadQuizList() {
     try {
         const response = await fetch('quizList.json');
         const data = await response.json();
-        window.quizzes = data.quizzes; // Store quizzes globally
+            window.quizzes = data.quizzes.reverse(); // Store quizzes globally in reverse order
         displayQuizzes();
     } catch (error) {
         console.error('Erro ao carregar a lista de quizzes:', error);
