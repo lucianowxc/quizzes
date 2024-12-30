@@ -89,3 +89,31 @@ Claro, vou atualizar o roteiro inicial que você me mandou para incluir os novos
    ```
 
 Com esses prompts, você pode facilmente criar novos quizzes de personalidade baseados em outros temas. Espero que seja útil! 🚀
+
+9. **Prompt com dados para o quiz**:
+
+Para criar um novo quiz, siga os passos abaixo com os parâmetros desejados:
+
+```prompt
+Vamos seguir os passos para criar o quiz com os seguintes parâmetros:
+```yaml
+Tema do quiz: Quem é você na festa da firma?
+Tamanho do quiz: 10 perguntas, 4 alternativas, 8 resultados diferentes que são arquétipos do mercado de trabalho
+Complexidade: média
+Aleatoriedade: pode fazer perguntas muito abertas e existencialistas
+Nível de atrevimento: altíssimo, pode fazer cutucadas pontuais nas alternativas
+Temas visuais: Sim
+```
+
+Exemplo de outro quiz:
+
+```prompt
+Vamos seguir os passos para criar o quiz com os seguintes parâmetros:
+```yaml
+Tema do quiz: Qual personagem de série você seria?
+Tamanho do quiz: 12 perguntas, 4 alternativas, 6 resultados diferentes que são personagens de séries populares
+Complexidade: alta
+Aleatoriedade: não
+Nível de atrevimento: médio, pode fazer algumas piadas leves
+Temas visuais: Não
+```
