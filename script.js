@@ -2,7 +2,7 @@ let quizData;
 let currentQuestionIndex = 0;
 let scores = {};
 let currentPage = 1;
-const quizzesPerPage = 11;
+const quizzesPerPage = 14;
 
 document.addEventListener('DOMContentLoaded', () => {
     loadQuizList();

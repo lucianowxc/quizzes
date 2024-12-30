@@ -156,7 +156,6 @@ select {
 .quiz-posts {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(2, auto);
     gap: 20px;
     margin-top: 20px;
     width: 100%;
