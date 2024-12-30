@@ -79,6 +79,11 @@
             "name": "Qual elemento da tabela periódica você seria?",
             "file": "quizzes/quizElementosTabelaPeriodica.json",
             "description": "Descubra qual elemento da tabela periódica mais se parece com você!"
+        },
+        {
+          "name": "Qual sabor exótico de pizza você seria?",
+          "file": "quizzes/quizSaborPizzaExotico.json",
+          "description": "Descubra qual sabor exótico de pizza mais se parece com você!"
         }
     ]
 }
