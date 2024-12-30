@@ -1,2 +1,10 @@
-# quizzes
-Projeto feito no copilot de criação de ferramenta pra quiz
+# Quizzes
+
+- Geração automatizada de quizzes de personalidade a partir do copilot
+
+- Projeto pessoal, para diversão e exploração das possibilidades de engenharia de prompt com o copilot. Código-fonte do site e todos os quizzes foram gerados a partir de prompts no Microsoft Copilot e no GitHub Copilot.
+
+- [Roteiro para criação de quiz](prompts.md)
+
+Feito por: Luciano Cejnog
+Dezembro/2024
