@@ -1,0 +1,102 @@
+{
+    "title": "Qual personagem clássico da novela 'Malhação' você seria?",
+    "questions": [
+        {
+        "question": "Você está em um show de talentos na escola e esquece a coreografia. O que você faz?",
+        "answers": [
+            { "text": "Improvisa com passos de dança hilários.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.3 } },
+            { "text": "Finge que foi uma performance planejada.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.4 } },
+            { "text": "Sai correndo do palco em pânico.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.7 } },
+            { "text": "Chama seus amigos para dançar com você.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.6 } }
+        ]
+        },
+        {
+        "question": "Você está em uma competição de bandas e uma das cordas do seu instrumento arrebenta. O que você faz?",
+        "answers": [
+            { "text": "Continua tocando como se nada tivesse acontecido.", "points": { "resultado1": 0.7, "resultado2": 0.3, "resultado3": 0.5, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.4, "resultado7": 0.8 } },
+            { "text": "Pede para alguém da plateia te ajudar.", "points": { "resultado1": 0.4, "resultado2": 0.6, "resultado3": 0.7, "resultado4": 0.5, "resultado5": 0.3, "resultado6": 1, "resultado7": 0.8 } },
+            { "text": "Faz uma piada sobre o ocorrido e continua tocando.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 1, "resultado4": 0.7, "resultado5": 0.8, "resultado6": 0.5, "resultado7": 0.3 } },
+            { "text": "Joga o instrumento para o alto e improvisa com a voz.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.4, "resultado4": 0.3, "resultado5": 0.7, "resultado6": 0.6, "resultado7": 0.8 } }
+        ]
+        },
+        {
+        "question": "Você encontra um envelope com dinheiro no corredor da escola. O que você faz?",
+        "answers": [
+            { "text": "Usa o dinheiro para organizar uma grande festa.", "points": { "resultado1": 1, "resultado2": 0.4, "resultado3": 0.3, "resultado4": 0.5, "resultado5": 0.8, "resultado6": 0.2, "resultado7": 0.6 } },
+            { "text": "Leva o envelope para a direção da escola.", "points": { "resultado1": 0.3, "resultado2": 0.6, "resultado3": 0.2, "resultado4": 0.4, "resultado5": 0.5, "resultado6": 0.8, "resultado7": 0.7 } },
+            { "text": "Divide o dinheiro com os amigos.", "points": { "resultado1": 0.6, "resultado2": 0.3, "resultado3": 1, "resultado4": 0.7, "resultado5": 0.4, "resultado6": 0.5, "resultado7": 0.2 } },
+            { "text": "Usa o dinheiro para comprar instrumentos musicais novos para a banda.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.3, "resultado6": 0.6, "resultado7": 0.8 } }
+        ]
+        },
+        {
+        "question": "Você está em um encontro e derrama suco na roupa da pessoa que você gosta. O que você faz?",
+        "answers": [
+            { "text": "Faz uma piada e tenta aliviar a situação.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.3 } },
+            { "text": "Pede desculpas e tenta limpar a bagunça.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.4 } },
+            { "text": "Fica vermelho e muda de assunto.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.7 } }
+        ]
+        },
+        {
+            "question": "Você está estudando para uma prova importante e seus amigos te convidam para uma festa. O que você faz?",
+            "answers": [
+                { "text": "Vou para a festa e tento estudar depois.", "points": { "resultado1": 1, "resultado2": 0.4, "resultado3": 0.3, "resultado4": 0.5, "resultado5": 0.8, "resultado6": 0.2, "resultado7": 0.6 } },
+                { "text": "Digo aos meus amigos que não posso ir porque preciso estudar.", "points": { "resultado1": 0.3, "resultado2": 0.6, "resultado3": 0.2, "resultado4": 0.4, "resultado5": 0.5, "resultado6": 0.8, "resultado7": 0.7 } },
+                { "text": "Vou para a festa, mas levo meus livros para estudar lá.", "points": { "resultado1": 0.6, "resultado2": 0.3, "resultado3": 1, "resultado4": 0.7, "resultado5": 0.4, "resultado6": 0.5, "resultado7": 0.2 } },
+                { "text": "Organizo uma sessão de estudo em grupo na festa.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.3, "resultado6": 0.6, "resultado7": 0.8 } }
+            ]
+        },
+        {
+            "question": "Você está em um almoço de família e alguém faz um comentário embaraçoso sobre você. O que você faz?",
+            "answers": [
+                  { "text": "Respondo com uma piada para aliviar a tensão.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.3 } },
+                  { "text": "Mudo de assunto rapidamente.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.4 } },
+                  { "text": "Fico vermelho e não digo nada.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.7 } },
+                  { "text": "Faço um comentário sarcástico em resposta.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.6 } }
+            ]
+        }
+    ],  
+    "descriptions": {
+        "resultado1": {
+            "title": "Dado (Guilherme Berenguer)",
+            "emoji": "😎",
+            "subtitle": "O Descolado",
+            "text": "Você é o típico garoto popular, sempre no centro das atenções e adora uma festa. Apesar da pose de durão, tem um coração enorme e é muito leal aos amigos."
+        },
+        "resultado2": {
+            "title": "Carol (Juliana Didone)",
+            "emoji": "💃",
+            "subtitle": "A Dançarina",
+            "text": "Você é apaixonada por dança e vive a vida em ritmo acelerado. Sua energia contagiante inspira todos ao seu redor e você nunca recusa um desafio."
+        },
+        "resultado3": {
+            "title": "Cabeção (Sérgio Hondjakoff)",
+            "emoji": "🤪",
+            "subtitle": "O Engraçado",
+            "text": "Você é o piadista do grupo. Sempre inventando uma forma de alegrar o dia dos amigos, mesmo que às vezes suas ideias sejam um pouco loucas."
+        },
+        "resultado4": {
+            "title": "Nanda (Rafaella Mandelli)",
+            "emoji": "🎤",
+            "subtitle": "A Talentosa",
+            "text": "Com talento inegável, seja na música ou nos palcos, você cativa todos com sua presença. Nunca desiste dos seus sonhos e enfrenta qualquer obstáculo de cabeça erguida."
+        },
+        "resultado5": {
+            "title": "Mocotó (André Marques)",
+            "emoji": "🎩",
+            "subtitle": "O Charmoso",
+            "text": "Você sabe como conquistar as pessoas com seu charme e carisma. Sempre elegante, é aquele amigo que tem uma palavra certa para cada situação."
+        },
+        "resultado6": {
+            "title": "Tati (Priscila Fantin)",
+            "emoji": "📚",
+            "subtitle": "A Nerd",
+            "text": "Inteligente e dedicada aos estudos, você é uma verdadeira enciclopédia ambulante. Mas não se engane, além de estudar você sabe se divertir muito bem!"
+        },
+        "resultado7": {
+            "title": "Vagabanda (Marjorie Estiano, João Velho, Guga Coelho)",
+            "emoji": "🎸",
+            "subtitle": "A Banda Rebelde",
+            "text": "Você é o espírito livre, rebelde e sempre pronto para uma aventura. A música corre nas suas veias e você não tem medo de desafiar o status quo."
+        }
+    }
+}
