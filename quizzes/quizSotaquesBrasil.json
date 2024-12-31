@@ -1,0 +1,109 @@
+{
+   "title": "Qual sotaque brasileiro é o mais legal?",
+   "questions": [
+      {
+         "question": "Como você prefere passar o fim de semana?",
+         "answers": [
+            { "text": "Na praia, tomando uma água de coco e sentindo a brisa do mar.", "points": { "resultado1": 1, "resultado2": 0.6, "resultado3": 0.3, "resultado4": 0.4, "resultado5": 0.3, "resultado6": 0.2, "resultado7": 0.2, "resultado8": 0.4 } },
+            { "text": "Em uma balada, curtindo a música e conhecendo pessoas novas.", "points": { "resultado1": 0.4, "resultado2": 1, "resultado3": 0.2, "resultado4": 0.6, "resultado5": 0.3, "resultado6": 0.3, "resultado7": 0.5, "resultado8": 0.2 } },
+            { "text": "Com a família, comendo uma boa comida e relaxando.", "points": { "resultado1": 0.3, "resultado2": 0.3, "resultado3": 0.7, "resultado4": 0.2, "resultado5": 1, "resultado6": 0.5, "resultado7": 0.6, "resultado8": 0.5 } },
+            { "text": "Em casa, descansando e assistindo filmes", "points": { "resultado1": 0.2, "resultado2": 0.4, "resultado3": 0.5, "resultado4": 0.8, "resultado5": 0.4, "resultado6": 1, "resultado7": 0.3, "resultado8": 0.6 } }
+         ]
+      },
+      {
+         "question": "Qual dessas situações é a sua cara?",
+         "answers": [
+            { "text": "Chegar na praia e ver aquele solzão, pronto pra se jogar no mar.", "points": { "resultado1": 1, "resultado2": 0.6, "resultado3": 0.3, "resultado4": 0.4, "resultado5": 0.3, "resultado6": 0.2, "resultado7": 0.2, "resultado8": 0.4 } },
+            { "text": "Ir pro trabalho com aquela pressa paulista, porque o dia não para.", "points": { "resultado1": 0.4, "resultado2": 1, "resultado3": 0.3, "resultado4": 0.5, "resultado5": 0.2, "resultado6": 0.3, "resultado7": 0.5, "resultado8": 0.2 } },
+            { "text": "Ficar em casa, preparando um prato típico da sua terra e sentindo o cheiro de comida boa.", "points": { "resultado1": 0.2, "resultado2": 0.3, "resultado3": 0.5, "resultado4": 0.7, "resultado5": 1, "resultado6": 0.4, "resultado7": 0.6, "resultado8": 0.5 } },
+            { "text": "Descer pra rua e curtir o agito da festa popular, com todo mundo dançando até o chão.", "points": { "resultado1": 0.3, "resultado2": 0.4, "resultado3": 0.5, "resultado4": 0.8, "resultado5": 0.4, "resultado6": 1, "resultado7": 0.3, "resultado8": 0.6 } }
+         ]
+      },
+      {
+         "question": "Você é do tipo que...",
+         "answers": [
+            { "text": "Fica tranquilo no verão, curtindo uma brisa e um bom churrasco.", "points": { "resultado1": 1, "resultado2": 0.4, "resultado3": 0.3, "resultado4": 0.5, "resultado5": 0.2, "resultado6": 0.5, "resultado7": 0.4, "resultado8": 0.6 } },
+            { "text": "Acha que o verão é pra trabalhar e ralar, porque o calor não tira seu foco.", "points": { "resultado1": 0.4, "resultado2": 1, "resultado3": 0.2, "resultado4": 0.6, "resultado5": 0.3, "resultado6": 0.4, "resultado7": 0.3, "resultado8": 0.2 } },
+            { "text": "Vai pra balada até amanhecer, não tem tempo ruim, se tiver festa você vai.", "points": { "resultado1": 0.3, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.5, "resultado8": 0.7 } },
+            { "text": "Fica relaxando em casa, mas só se tiver uma comida boa e uma bebida gelada.", "points": { "resultado1": 0.2, "resultado2": 0.3, "resultado3": 0.7, "resultado4": 0.4, "resultado5": 1, "resultado6": 0.5, "resultado7": 0.6, "resultado8": 0.5 } }
+         ]
+      },
+      {
+         "question": "Se você tivesse que escolher um destino de férias, seria...",
+         "answers": [
+            { "text": "Um destino na praia, com um bom mar e aquele calor gostoso.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.3, "resultado4": 0.4, "resultado5": 0.2, "resultado6": 0.6, "resultado7": 0.4, "resultado8": 0.7 } },
+            { "text": "Uma cidade com muito agito e vida noturna, onde você possa conhecer gente nova e curtir.", "points": { "resultado1": 0.3, "resultado2": 1, "resultado3": 0.4, "resultado4": 0.6, "resultado5": 0.3, "resultado6": 0.2, "resultado7": 0.5, "resultado8": 0.2 } },
+            { "text": "Um destino mais calmo, no campo ou em uma cidadezinha acolhedora, para relaxar.", "points": { "resultado1": 0.2, "resultado2": 0.3, "resultado3": 0.6, "resultado4": 0.8, "resultado5": 0.7, "resultado6": 0.4, "resultado7": 0.5, "resultado8": 0.4 } },
+            { "text": "Viajar para um lugar onde a cultura e a comida local sejam a maior atração.", "points": { "resultado1": 0.4, "resultado2": 0.3, "resultado3": 0.5, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 1, "resultado7": 0.6, "resultado8": 0.3 } }
+         ]
+      },
+      {
+         "question": "Qual frase melhor descreve sua vida?",
+         "answers": [
+            { "text": "A vida é um samba, é só deixar a música me levar!", "points": { "resultado1": 1, "resultado2": 0.4, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 0.3, "resultado6": 0.4, "resultado7": 0.5, "resultado8": 0.5 } },
+            { "text": "Trabalho e progresso, sempre indo atrás dos meus objetivos.", "points": { "resultado1": 0.3, "resultado2": 1, "resultado3": 0.4, "resultado4": 0.5, "resultado5": 0.2, "resultado6": 0.3, "resultado7": 0.7, "resultado8": 0.2 } },
+            { "text": "Relaxa, não tem pressa, a vida é feita de momentos.", "points": { "resultado1": 0.4, "resultado2": 0.3, "resultado3": 0.7, "resultado4": 0.2, "resultado5": 1, "resultado6": 0.5, "resultado7": 0.6, "resultado8": 0.4 } },
+            { "text": "Eu sou da festa, da alegria e da música, sempre buscando viver intensamente!", "points": { "resultado1": 0.3, "resultado2": 0.5, "resultado3": 0.4, "resultado4": 0.6, "resultado5": 0.3, "resultado6": 0.8, "resultado7": 0.4, "resultado8": 0.7 } }
+         ]
+      },
+      {
+         "question": "Se alguém te convidasse para um evento cultural, você...",
+         "answers": [
+            { "text": "Ia logo dizendo: 'Partiu, bora aproveitar o melhor do Brasil!'", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 0.4, "resultado6": 0.5, "resultado7": 0.4, "resultado8": 0.7 } },
+            { "text": "Provavelmente estaria ocupado, porque eu sempre tenho algo importante pra fazer.", "points": { "resultado1": 0.3, "resultado2": 1, "resultado3": 0.5, "resultado4": 0.7, "resultado5": 0.4, "resultado6": 0.3, "resultado7": 0.5, "resultado8": 0.3 } },
+            { "text": "Aceitaria, mas só se tivesse uma comida típica de dar água na boca.", "points": { "resultado1": 0.2, "resultado2": 0.3, "resultado3": 0.6, "resultado4": 0.5, "resultado5": 0.7, "resultado6": 0.4, "resultado7": 0.6, "resultado8": 0.5 } },
+            { "text": "Se for um evento de rua, com todo mundo dançando, eu tô dentro!", "points": { "resultado1": 0.4, "resultado2": 0.6, "resultado3": 0.5, "resultado4": 0.8, "resultado5": 0.4, "resultado6": 0.7, "resultado7": 0.5, "resultado8": 0.6 } }
+         ]
+      }
+   ],
+   "descriptions": {
+      "resultado1": {
+         "title": "Carioca",
+         "emoji": "🌴",
+         "subtitle": "O sol da praia e a vibe tranquila.",
+         "text": "Você é o carioca clássico! Gosta de um bom churrasco na praia, uma cervejinha gelada e vive o momento com muita descontração. Se joga na vida com muito samba e alegria!"
+      },
+      "resultado2": {
+         "title": "Paulista",
+         "emoji": "🏙️",
+         "subtitle": "Sempre correndo, mas sempre em movimento.",
+         "text": "O paulista é aquele que vai pro trabalho com determinação, sem perder tempo. Seu ritmo é acelerado e você nunca para! Se for pra aproveitar, é pra fazer muito, muito bem feito."
+      },
+      "resultado3": {
+         "title": "Mineiro",
+         "emoji": "🥘",
+         "subtitle": "Com calma e um cafezinho.",
+         "text": "Você é o mineiro, do tipo acolhedor, calmo e sempre com uma comida boa pronta. Na sua vida, tudo tem seu tempo e nada é feito sem muito carinho e dedicação."
+      },
+      "resultado4": {
+         "title": "Baiano",
+         "emoji": "🌞",
+         "subtitle": "Alegria contagiante e música em todo lugar.",
+         "text": "Você é o baiano! Onde você vai, a alegria e a música te seguem. Não importa a ocasião, a festa nunca acaba e todo lugar vira um carnaval quando você chega."
+      },
+      "resultado5": {
+         "title": "Gaúcho",
+         "emoji": "🤠",
+         "subtitle": "Foco e dedicação, mas sempre com um chimarrão.",
+         "text": "Forte, determinado e sempre pronto para uma boa conversa com um chimarrão na mão. Você é o gaúcho, com um espírito independente e aquele charme da serra."
+      },
+      "resultado6": {
+         "title": "Cearense",
+         "emoji": "🏖️",
+         "subtitle": "A paz do litoral e a conversa boa.",
+         "text": "O cearense é aquele que adora um papo bom, com um sotaque que deixa tudo mais gostoso. Sol e mar são seus melhores amigos e a vida é tranquila, mas cheia de história."
+      },
+      "resultado7": {
+         "title": "Pernambucano",
+         "emoji": "🎶",
+         "subtitle": "Mistura de cultura e personalidade.",
+         "text": "Você é pernambucano, cheio de ritmo e histórias interessantes! Seu jeito único mistura cultura, tradição e uma pitada de irreverência."
+      },
+      "resultado8": {
+         "title": "Soteropolitano",
+         "emoji": "💃",
+         "subtitle": "Danço até o chão!",
+         "text": "Você é o soteropolitano! Alegria, festa e calor humano, sua vida é um axé só. Não tem como ficar parado quando você chega, o agito é garantido."
+      }
+   }
+}
