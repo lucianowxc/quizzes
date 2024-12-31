@@ -99,6 +99,11 @@
             "name": "Qual Artigo da Constituição de 1988 é você?", 
             "file": "quizzes/quizArtigosConstituicao.json",
             "description": "Descubra qual artigo da Constituição de 1988 mais se parece com você!"
+        },
+        {
+          "name": "Qual personagem clássico da novela 'Malhação' você seria?",
+          "file": "quizzes/quizPersonagensMalhacao.json",
+          "description": "Descubra qual personagem clássico da novela 'Malhação' mais se parece com você!"
         }
     ]
 }
