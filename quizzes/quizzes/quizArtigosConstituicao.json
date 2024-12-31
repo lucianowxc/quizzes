@@ -1,0 +1,127 @@
+{
+    "title": "Qual Artigo da Constituição de 1988 é você?",
+    "questions": [
+        {
+            "question": "Qual é a sua visão sobre a estabilidade na sociedade?",
+            "answers": [
+                { "text": "📚 'Estabilidade é essencial, como fundamentos da república. Não dá pra construir nada em um terreno baldio!'", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "🏰 'Desde que a estabilidade seja tão sólida quanto um castelo bem estruturado, eu topo.'", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "🦄 'Estabilidade é um sonho utópico, como achar um unicórnio.'", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "🌪️ 'Estabilidade? Eu prefiro a emoção de um tornado! Quem não ama uma boa confusão?'", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Como você lida com objetivos e metas?",
+            "answers": [
+                { "text": "🎯 'Foco nos objetivos é tudo! Se não houver uma meta, nem vale a pena sair da cama.'", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "🏃 'Metas são legais, mas só se puder alcançá-las correndo uma maratona.'", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "🛌 'Objetivos? Meu único objetivo é uma boa soneca.'", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "🚀 'As metas são como viagens espaciais: quanto mais desafiadoras, melhor!'", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "O que você faz quando vê uma injustiça?",
+            "answers": [
+                { "text": "⚖️ 'Eu levanto a minha balança da justiça e faço valer os direitos!'", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "🕵️ 'Eu investigo como um detetive até encontrar a raiz do problema.'", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "🧘 'Eu medito e tento trazer paz ao ambiente. Zen total!'", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "🚨 'Chamo reforços e vou com tudo, ninguém mexe com a justiça sob meu comando!'", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Como você se sente em relação ao meio ambiente?",
+            "answers": [
+                { "text": "🌱 'Sou um defensor da natureza! Plante uma árvore hoje mesmo!'", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "🐢 'A natureza é minha casa. Vamos proteger nosso lar com unhas e dentes.'", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "🚗 'Meio ambiente é importante, mas o meu carro é melhor.'", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "🧹 'Protetor da natureza? Eu mal consigo manter meu quarto arrumado...'", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Qual sua postura em relação aos direitos trabalhistas?",
+            "answers": [
+                { "text": "💼 'Direitos trabalhistas são sagrados. Lutarei por um ambiente justo para todos!'", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "🏭 'Desde que tenha café grátis, estou satisfeito.'", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "📅 'Os direitos são importantes, mas prefiro um feriado prolongado.'", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "💰 'Trabalhadores unidos jamais serão vencidos! E se houver bônus, melhor ainda.'", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Como você reage diante da cultura, esporte e lazer?",
+            "answers": [
+                { "text": "🎨 'Artes, esportes e lazer são minha vida. Vamos celebrar essas maravilhas!'", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "🏅 'Só gosto de esportes se tiver medalha no final. Competições são meu forte!'", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "🎭 'Cultura é tudo! Um bom teatro ou museu me faz feliz.'", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "📺 'Minha ideia de lazer é uma maratona de séries e pipoca.'", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Você acredita na importância dos direitos sociais?",
+            "answers": [
+                { "text": "🏠 'Direitos sociais são essenciais. Educação, saúde e moradia para todos!'", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "📚 'Acredito em direitos sociais, mas o conhecimento é a chave do sucesso.'", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "🍕 'Direitos sociais são importantes, mas um slice de pizza resolve muita coisa.'", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "🛌 'Saúde e moradia são cruciais, mas nada supera uma boa noite de sono.'", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        },
+        {
+            "question": "Como você encara o direito de greve?",
+            "answers": [
+                { "text": "✊ 'Greve é um direito! Lutar por melhores condições é fundamental.'", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+                { "text": "🔥 'A greve é o fogo que acende a mudança. Vamos fazer barulho!'", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+                { "text": "📝 'Documentar a greve e criar estratégias é a minha praia.'", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+                { "text": "🎤 'Fazer greve é importante, mas um bom discurso pode resolver muito.'", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+            ]
+        }        
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "Artigo 1 - Fundamentos da República",
+            "emoji": "🏛️",
+            "subtitle": "O Pilar Fundamental",
+            "text": "Você é um verdadeiro alicerce, assim como os princípios fundamentais da nossa nação. Sempre busca a estabilidade e o bem comum, e suas ações refletem um compromisso profundo com a sociedade."
+        },
+        "resultado2": {
+            "title": "Artigo 3 - Objetivos da República",
+            "emoji": "🎯",
+            "subtitle": "O Objetivo Central",
+            "text": "Sempre focado nos grandes objetivos, você busca reduzir desigualdades e promover o desenvolvimento. Sua visão estratégica faz de você alguém que trabalha para um futuro melhor para todos."
+        },
+        "resultado3": {
+            "title": "Artigo 5 - Direitos e Garantias Fundamentais",
+            "emoji": "⚖️",
+            "subtitle": "O Guardião dos Direitos",
+            "text": "Defensor dos direitos e das liberdades, você valoriza a justiça acima de tudo. Você é o primeiro a levantar a voz contra qualquer tipo de injustiça e luta por igualdade para todos."
+        },
+        "resultado4": {
+            "title": "Artigo 7 - Direitos dos Trabalhadores",
+            "emoji": "💼",
+            "subtitle": "O Defensor dos Trabalhadores",
+            "text": "Sempre preocupado com o bem-estar e os direitos dos trabalhadores, você é um verdadeiro protetor. Suas ações visam criar um ambiente de trabalho justo e equilibrado."
+        },
+        "resultado5": {
+            "title": "Artigo 225 - Meio Ambiente",
+            "emoji": "🌱",
+            "subtitle": "O Guardião da Natureza",
+            "text": "Assim como este artigo, você tem uma forte conexão com a natureza e luta pela proteção do meio ambiente. Seu papel é crucial na preservação dos recursos naturais para as futuras gerações."
+        },
+        "resultado6": {
+            "title": "Artigo 6 - Direitos Sociais",
+            "emoji": "🏠",
+            "subtitle": "O Protetor Social",
+            "text": "Você é um defensor dos direitos sociais e acredita que todos merecem acesso a educação, saúde e moradia. Seu compromisso com o bem-estar social é inabalável."
+        },
+        "resultado7": {
+            "title": "Artigo 9 - Direito de Greve",
+            "emoji": "✊",
+            "subtitle": "O Lutador",
+            "text": "Sempre pronto para lutar por aquilo em que acredita, você valoriza o direito de se manifestar e lutar por melhores condições. Sua coragem inspira os outros a fazer o mesmo."
+        },
+        "resultado8": {
+            "title": "Artigo 217 - Cultura, Desporto e Lazer",
+            "emoji": "🎨",
+            "subtitle": "O Entusiasta Cultural",
+            "text": "Com uma forte inclinação para as artes, esportes e lazer, você vê essas áreas como essenciais para uma vida equilibrada e feliz. Sua paixão nessas áreas é contagiante."
+        }
+    }
+}
