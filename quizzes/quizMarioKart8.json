@@ -1,0 +1,182 @@
+{
+  "title": "Qual personagem de Mario Kart 8 Deluxe representa sua personalidade?",
+  "questions": [
+    {
+      "question": "O que você faz quando leva um casco azul no final da corrida?",
+      "answers": [
+        { "text": "Chora e culpa o jogo por ser injusto. 😭", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.4, "resultado5": 0.7 } },
+        { "text": "Lança um casco vermelho no segundo lugar só por vingança. 😈", "points": { "resultado8": 1, "resultado12": 0.7, "resultado6": 0.4, "resultado11": 0.5, "resultado4": 0.3 } },
+        { "text": "Aceita com dignidade e se prepara para a próxima volta. 🏁", "points": { "resultado5": 1, "resultado7": 0.8, "resultado9": 0.5, "resultado13": 0.4, "resultado10": 0.6 } },
+        { "text": "Desliga o console e diz que foi lag. 📴", "points": { "resultado14": 1, "resultado10": 0.4, "resultado13": 0.6, "resultado1": 0.3, "resultado11": 0.5 } }
+      ]
+    },
+    {
+      "question": "Qual item você escolheria para usar o tempo todo?",
+      "answers": [
+        { "text": "Casco vermelho infinito. 🔴", "points": { "resultado2": 1, "resultado7": 0.7, "resultado8": 0.6, "resultado12": 0.5, "resultado4": 0.4 } },
+        { "text": "Bananas sem parar. 🍌", "points": { "resultado11": 1, "resultado9": 0.7, "resultado5": 0.6, "resultado1": 0.5, "resultado6": 0.4 } },
+        { "text": "Estrela para ser invencível. ⭐", "points": { "resultado10": 1, "resultado3": 0.8, "resultado13": 0.6, "resultado14": 0.5, "resultado2": 0.4 } },
+        { "text": "Casco azul o tempo todo. 💙", "points": { "resultado8": 1, "resultado12": 0.9, "resultado6": 0.7, "resultado4": 0.5, "resultado1": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual sua estratégia na última volta?",
+      "answers": [
+        { "text": "Segura o item até o último segundo. 🎯", "points": { "resultado5": 1, "resultado7": 0.8, "resultado3": 0.6, "resultado13": 0.5, "resultado14": 0.4 } },
+        { "text": "Joga tudo e torce para o melhor. 🍀", "points": { "resultado9": 1, "resultado11": 0.7, "resultado6": 0.6, "resultado10": 0.5, "resultado8": 0.4 } },
+        { "text": "Ataca quem está em primeiro, mesmo que você esteja em quinto. 🎯", "points": { "resultado12": 1, "resultado8": 0.8, "resultado4": 0.7, "resultado2": 0.5, "resultado1": 0.3 } },
+        { "text": "Desiste e espera que alguém mais cometa um erro. 😐", "points": { "resultado1": 1, "resultado14": 0.7, "resultado13": 0.6, "resultado11": 0.5, "resultado9": 0.4 } }
+      ]
+    },
+    {
+      "question": "Qual circuito você prefere?",
+      "answers": [
+        { "text": "Rainbow Road - Caos puro 🌈", "points": { "resultado3": 1, "resultado10": 0.7, "resultado6": 0.5, "resultado8": 0.4 } },
+        { "text": "Coconut Mall - Trânsito aleatório 🛒", "points": { "resultado4": 1, "resultado5": 0.6, "resultado7": 0.5, "resultado11": 0.4 } },
+        { "text": "Wario Stadium - Corrida brutal 💪", "points": { "resultado9": 1, "resultado12": 0.7, "resultado13": 0.5, "resultado14": 0.4 } },
+        { "text": "Moo Moo Meadows - Fofo e tranquilo 🐄", "points": { "resultado1": 1, "resultado2": 0.6, "resultado3": 0.5, "resultado7": 0.4 } }
+      ]
+    },
+    {
+      "question": "Qual sua reação ao cair de uma pista?",
+      "answers": [
+        { "text": "Culpo o jogo e o controle por não funcionarem direito. 🎮😡", "points": { "resultado1": 1, "resultado6": 0.5, "resultado8": 0.4, "resultado10": 0.3, "resultado12": 0.7 } },
+        { "text": "Solto um grito e prometo vingança na próxima corrida. 😱", "points": { "resultado5": 1, "resultado11": 0.7, "resultado7": 0.6, "resultado9": 0.5, "resultado13": 0.4 } },
+        { "text": "Desisto momentaneamente e pego um snack. 🍿", "points": { "resultado14": 1, "resultado2": 0.5, "resultado4": 0.4, "resultado3": 0.3, "resultado1": 0.7 } },
+        { "text": "Riso nervoso e tentativa de se recuperar rapidamente. 😅", "points": { "resultado3": 1, "resultado8": 0.7, "resultado5": 0.6, "resultado6": 0.4, "resultado12": 0.3 } }
+      ]
+    },
+    {
+      "question": "Como você se comporta quando está em último lugar?",
+      "answers": [
+        { "text": "Culpa todos os outros jogadores por trapacearem. 🤬", "points": { "resultado4": 1, "resultado3": 0.6, "resultado9": 0.4, "resultado2": 0.5, "resultado8": 0.7 } },
+        { "text": "Foca em pegar os melhores itens para virar o jogo. 🧲", "points": { "resultado11": 1, "resultado1": 0.5, "resultado12": 0.4, "resultado10": 0.6, "resultado13": 0.7 } },
+        { "text": "Começa a sabotar os outros, mesmo que não vá ganhar. 😈", "points": { "resultado7": 1, "resultado5": 0.6, "resultado6": 0.5, "resultado14": 0.4, "resultado4": 0.3 } },
+        { "text": "Simplesmente aproveita o jogo, sem se preocupar tanto com a colocação. 🥳", "points": { "resultado10": 1, "resultado2": 0.5, "resultado13": 0.4, "resultado9": 0.7, "resultado3": 0.6 } }
+      ]
+    },
+    {
+      "question": "Qual a sua reação ao perder para um amigo em uma corrida?",
+      "answers": [
+        { "text": "Dou parabéns, mas no fundo estou planejando uma revanche. 🤫", "points": { "resultado5": 1, "resultado7": 0.5, "resultado9": 0.4, "resultado3": 0.6, "resultado10": 0.7 } },
+        { "text": "Digo que o controle estava com problema e peço uma nova corrida. 🎮🛠️", "points": { "resultado2": 1, "resultado4": 0.5, "resultado12": 0.6, "resultado8": 0.4, "resultado1": 0.3 } },
+        { "text": "Aceito a derrota e elogio a habilidade do amigo. 👏", "points": { "resultado11": 1, "resultado9": 0.5, "resultado6": 0.4, "resultado10": 0.6, "resultado13": 0.3 } },
+        { "text": "Finjo que não ligo, mas fico chateado. 😒", "points": { "resultado1": 1, "resultado12": 0.7, "resultado14": 0.5, "resultado2": 0.3, "resultado4": 0.4 } }
+      ]
+    },
+    {
+      "question": "Como você se prepara para uma corrida importante?",
+      "answers": [
+        { "text": "Treino todas as pistas e decoro todos os atalhos. 🏁", "points": { "resultado3": 1, "resultado7": 0.5, "resultado9": 0.4, "resultado5": 0.6, "resultado11": 0.3 } },
+        { "text": "Apenas confio no meu talento natural. 🎨", "points": { "resultado10": 1, "resultado6": 0.5, "resultado8": 0.4, "resultado12": 0.6, "resultado2": 0.3 } },
+        { "text": "Faço uma sessão de meditação para manter a calma. 🧘‍♂️", "points": { "resultado13": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado1": 0.6, "resultado7": 0.3 } },
+        { "text": "Encontro todos os bugs e truques no jogo. 🕹️", "points": { "resultado9": 1, "resultado10": 0.5, "resultado2": 0.4, "resultado12": 0.6, "resultado8": 0.3 } }
+      ]
+    },
+    {
+      "question": "O que você faz quando pega uma bala de canhão (Bullet Bill) como item?",
+      "answers": [
+        { "text": "Aproveito o momento para descansar as mãos e ver a mágica acontecer. 😎", "points": { "resultado14": 1, "resultado6": 0.5, "resultado8": 0.4, "resultado11": 0.3, "resultado2": 0.6 } },
+        { "text": "Torço para não ser atingido por ninguém enquanto estou transformado. 😬", "points": { "resultado4": 1, "resultado3": 0.5, "resultado9": 0.4, "resultado1": 0.3, "resultado13": 0.7 } },
+        { "text": "Uso o item com precisão cirúrgica para ultrapassar o máximo de oponentes. 🏎️", "points": { "resultado10": 1, "resultado12": 0.5, "resultado5": 0.4, "resultado7": 0.6, "resultado1": 0.3 } },
+        { "text": "Dou risada e aproveito a animação. 😂", "points": { "resultado9": 1, "resultado11": 0.5, "resultado4": 0.4, "resultado12": 0.3, "resultado6": 0.7 } }
+      ]
+    },
+    {
+      "question": "Como você comemora uma vitória esmagadora?",
+      "answers": [
+        { "text": "Faço questão de lembrar todos dos meus feitos em cada corrida. 🎤😎", "points": { "resultado8": 1, "resultado5": 0.5, "resultado4": 0.6, "resultado10": 0.3, "resultado12": 0.7 } },
+        { "text": "Esfrego na cara dos meus amigos com uma dancinha provocante. 💃", "points": { "resultado3": 1, "resultado7": 0.7, "resultado1": 0.4, "resultado11": 0.5, "resultado2": 0.3 } },
+        { "text": "Fico humilde, mas espero que todos me elogiem por isso. 😇", "points": { "resultado6": 1, "resultado9": 0.7, "resultado5": 0.4, "resultado8": 0.6, "resultado13": 0.3 } },
+        { "text": "Debocho discretamente, fingindo que não foi grande coisa. 😏", "points": { "resultado10": 1, "resultado14": 0.5, "resultado12": 0.6, "resultado3": 0.4, "resultado7": 0.3 } }
+      ]
+    }
+  ],
+  
+  "descriptions": {
+    "resultado1": {
+      "title": "Baby Peach",
+      "emoji": "👶🍑",
+      "subtitle": "Drama e derrapagem em excesso",
+      "text": "Você é aquele jogador que reclama até do vento atrapalhando sua corrida. Sempre acha que a casca de banana foi colocada especificamente para você. Pelo menos é fofo (ou acha que é)."
+    },
+    "resultado2": {
+      "title": "Baby Daisy",
+      "emoji": "👶🌼",
+      "subtitle": "Competitiva de fralda",
+      "text": "Você tem sede de vitória, mesmo que precise atropelar todo mundo para isso. Sim, estamos falando de você que atira casco azul com um sorrisinho no rosto. Típico de Baby Daisy."
+    },
+    "resultado3": {
+      "title": "Baby Rosalina",
+      "emoji": "👶✨",
+      "subtitle": "Faz tudo parecer fácil demais",
+      "text": "Você desliza na pista como se fosse programado para isso. Irritantemente bom, mas inocente o suficiente para fingir que não sabia que estava humilhando os outros."
+    },
+    "resultado4": {
+      "title": "Dry Bones",
+      "emoji": "💀🏎️",
+      "subtitle": "Imortal e impiedoso",
+      "text": "Você sempre volta, não importa quantas vezes te joguem no abismo. É o tipo de jogador que some do nada e reaparece em primeiro lugar como se nada tivesse acontecido."
+    },
+    "resultado5": {
+      "title": "Mario",
+      "emoji": "🍄🏁",
+      "subtitle": "O protagonista incansável",
+      "text": "Você é aquele jogador clássico que nunca desiste, mesmo quando tudo dá errado. É o herói da sua própria história (mas nem sempre o campeão)."
+    },
+    "resultado6": {
+      "title": "Luigi",
+      "emoji": "🟢👻",
+      "subtitle": "Sombra do sucesso",
+      "text": "Você tem talento, mas vive na sombra de algum amigo mais exibido. Calado, mas mortal nas curvas. O verdadeiro subestimado da pista."
+    },
+    "resultado7": {
+      "title": "Peach",
+      "emoji": "👑🌸",
+      "subtitle": "Elegância acima de tudo",
+      "text": "Você faz questão de manter a classe mesmo quando joga casco vermelho em quem está na sua frente. O campeão com estilo."
+    },
+    "resultado8": {
+      "title": "Bowser",
+      "emoji": "🔥🐢",
+      "subtitle": "A força bruta na pista",
+      "text": "Você joga sujo, bate em todos e não pede desculpas. Seu lema é vencer por qualquer meio necessário, nem que precise atropelar a realeza."
+    },
+    "resultado9": {
+      "title": "Toad",
+      "emoji": "🍄🚀",
+      "subtitle": "A pressa é sua marca",
+      "text": "Você é rápido, nervoso e muitas vezes termina a corrida sem saber o que aconteceu. Sorte ou azar? Nunca se sabe."
+    },
+    "resultado10": {
+      "title": "Yoshi",
+      "emoji": "🦖🥚",
+      "subtitle": "Fofo, mas traiçoeiro",
+      "text": "Você parece adorável, mas quando a corrida começa, todos descobrem seu verdadeiro lado. E sim, você atira casco com um sorriso no rosto."
+    },
+    "resultado11": {
+      "title": "Donkey Kong",
+      "emoji": "🍌🐵",
+      "subtitle": "O caos em forma de gorila",
+      "text": "Você joga para causar. Derruba todo mundo, espalha bananas e ri das quedas. O caos é sua assinatura."
+    },
+    "resultado12": {
+      "title": "Waluigi",
+      "emoji": "🟣🍷",
+      "subtitle": "Vilão carismático",
+      "text": "Você joga só para atrapalhar os outros. E adora. Seu objetivo? Impedir que os outros ganhem, mesmo que isso signifique perder junto."
+    },
+    "resultado13": {
+      "title": "Link",
+      "emoji": "🗡️🐎",
+      "subtitle": "O herói fora de lugar",
+      "text": "Você entrou no jogo errado, mas está determinado a vencer. Sempre pronto para cortar caminho, mas se perde nas curvas."
+    },
+    "resultado14": {
+      "title": "Funky Kong",
+      "emoji": "🕶️🐒",
+      "subtitle": "Estilo sobre rodas",
+      "text": "Você joga com óculos escuros, mesmo de noite. Não importa se está ganhando ou perdendo, o importante é ter estilo. Funky vive em você."
+    }
+  }
+}
