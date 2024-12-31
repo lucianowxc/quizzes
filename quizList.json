@@ -89,6 +89,11 @@
            "name": "Qual Sotaque Brasileiro é o Mais Legal?",
            "file": "quizzes/quizSotaquesBrasil.json",
            "description": "Descubra qual sotaque brasileiro é o mais legal!"
+        },
+        {
+          "name": "Qual personagem de Mario Kart 8 Deluxe representa sua personalidade?",
+          "file": "quizzes/quizMarioKart8.json",
+          "description": "Descubra qual personagem de Mario Kart 8 Deluxe mais se parece com você! Responda às perguntas e veja se você é um protagonista corajoso, um vilão implacável, ou talvez um bebê competitivo!"
         }
     ]
 }
