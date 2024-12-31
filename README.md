@@ -6,5 +6,7 @@
 
 - [Roteiro para criação de quiz](prompts.md)
 
+- [Acesse aqui os quizzes!](https://lucianowxc.github.io/quizzes/)
+
 Feito por: Luciano Cejnog
 Dezembro/2024
