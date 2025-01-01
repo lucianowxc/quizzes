@@ -109,6 +109,12 @@
           "name": "Qual hino emo você seria?",
           "file": "quizzes/quizHinosEmo.json",
           "description": "Descubra qual hino emo mais se parece com você e reviva os momentos mais nostálgicos da sua adolescência!"
+        },
+        { 
+          "name": "Qual mascote brasileiro você é?", 
+          "file": "quizzes/quizMascotes.json",
+          "description": "Descubra qual mascote brasileiro se parece com você! Será que você é o carismático Dollynho ou o influente Baianinho? Faça o quiz e descubra!"
         }
+
     ]
 }
