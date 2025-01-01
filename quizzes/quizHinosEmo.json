@@ -1,0 +1,172 @@
+{
+  "title": "Qual desses hinos emo você seria",
+  "questions": [
+    {
+      "question": "Quando você encontra uma antiga carta de amor, você:",
+      "answers": [
+        { "text": "📜 Lamenta profundamente o passado.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+        { "text": "🗑️ Joga fora sem pensar duas vezes.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+        { "text": "📦 Guarda como uma lembrança especial.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+        { "text": "🎤 Transforma em letra de música.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } },
+        { "text": "🕵️‍♀️ Tenta descobrir o que aconteceu com a pessoa.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.8, "resultado7": 0.5, "resultado8": 0.2 } },
+        { "text": "🌟 Usa como inspiração para algo novo.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.8, "resultado8": 0.2 } }
+      ]
+    },
+    {
+      "question": "Sua roupa favorita geralmente é:",
+      "answers": [
+        { "text": "🖤 Preto, é claro.", "points": { "resultado1": 1, "resultado2": 0.4, "resultado3": 0.5, "resultado4": 0.2, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.8, "resultado8": 0.6 } },
+        { "text": "🎩 Algo vintage e estiloso.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+        { "text": "👕 Uma camiseta de banda.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+        { "text": "🌈 Algo colorido e chamativo.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } },
+        { "text": "👔 Roupa formal, mesmo em dias casuais.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.8, "resultado7": 0.5, "resultado8": 0.2 } },
+        { "text": "🥾 Algo confortável para aventuras.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.8, "resultado8": 0.2 } }
+      ]
+    },
+    {
+      "question": "Quando chove em um dia que você esperava ensolarado, você:",
+      "answers": [
+        { "text": "☔ Sente que combina com seu humor.", "points": { "resultado1": 1, "resultado2": 0.6, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.5 } },
+        { "text": "🌧️ Acha poético e inspirador.", "points": { "resultado1": 0.6, "resultado2": 1, "resultado3": 0.5, "resultado4": 0.2, "resultado5": 0.7, "resultado6": 0.4, "resultado7": 0.3, "resultado8": 0.8 } },
+        { "text": "🏡 Fica em casa e aproveita para relaxar.", "points": { "resultado1": 0.2, "resultado2": 0.5, "resultado3": 1, "resultado4": 0.8, "resultado5": 0.4, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.7 } },
+        { "text": "☀️ Fica chateado, mas tenta fazer algo divertido mesmo assim.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.8, "resultado4": 1, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+        { "text": "📸 Aproveita para tirar fotos artísticas.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.8, "resultado7": 0.5, "resultado8": 0.2 } },
+        { "text": "🛌 Dorme e sonha com dias melhores.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.8, "resultado8": 0.2 } }
+      ]
+    },
+    {
+        "question": "Qual o seu lugar favorito para passar tempo sozinho?",
+        "answers": [
+          { "text": "📚 Em um cantinho aconchegante com seus livros.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+          { "text": "🌳 No parque, curtindo a natureza.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+          { "text": "🎨 Em seu espaço criativo, fazendo arte.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+          { "text": "🛋️ No sofá, assistindo séries ou filmes.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } },
+          { "text": "☕ Em uma cafeteria, observando as pessoas.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.8, "resultado7": 0.5, "resultado8": 0.2 } },
+          { "text": "🏞️ Explorando novos lugares.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.8, "resultado8": 0.2 } }
+        ]
+      },
+      {
+        "question": "Quando você ouve uma música antiga que te traz boas lembranças, você:",
+        "answers": [
+          { "text": "🎧 Escuta repetidamente e se deixa levar pelas emoções.", "points": { "resultado1": 1, "resultado2": 0.6, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.5 } },
+          { "text": "💿 Procura mais músicas daquela época para curtir.", "points": { "resultado1": 0.6, "resultado2": 1, "resultado3": 0.5, "resultado4": 0.2, "resultado5": 0.7, "resultado6": 0.4, "resultado7": 0.3, "resultado8": 0.8 } },
+          { "text": "🎤 Tenta cantar junto, mesmo sem lembrar todas as letras.", "points": { "resultado1": 0.2, "resultado2": 0.5, "resultado3": 1, "resultado4": 0.8, "resultado5": 0.4, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.7 } },
+          { "text": "👥 Compartilha a música com amigos para relembrar juntos.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.8, "resultado4": 1, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+          { "text": "🎶 Cria uma playlist com músicas semelhantes.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.8, "resultado7": 0.5, "resultado8": 0.2 } },
+          { "text": "🎸 Tenta tocar a música em algum instrumento.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.8, "resultado8": 0.2 } }
+        ]
+      },
+      {
+        "question": "Se você pudesse viajar no tempo para uma época específica, qual escolheria?",
+        "answers": [
+          { "text": "📼 Anos 2000, para reviver os tempos de escola e músicas emo.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+          { "text": "🕶️ Anos 90, para curtir a moda e as bandas alternativas.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+          { "text": "🕰️ Uma era mais antiga, cheia de mistérios e história.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+          { "text": "🌟 Futuro, para ver o que a tecnologia e a música se tornaram.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } },
+          { "text": "🎉 Anos 80, para viver o auge do rock e do pop.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.8, "resultado7": 0.5, "resultado8": 0.2 } },
+          { "text": "🏰 Idade Média, para conhecer castelos e cavaleiros.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.8, "resultado8": 0.2 } }
+        ]
+      },
+      {
+        "question": "Quando você pensa na sua adolescência, o que vem à mente?",
+        "answers": [
+          { "text": "💔 Desilusões amorosas e melodias tristes.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+          { "text": "🎸 Shows e momentos inesquecíveis com amigos.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+          { "text": "📓 Diário cheio de pensamentos e emoções.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+          { "text": "🎉 Festas e muitas risadas.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } },
+          { "text": "🎮 Jogos de videogame e tardes na frente da TV.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.8, "resultado7": 0.5, "resultado8": 0.2 } },
+          { "text": "📚 Estudos e planos para o futuro.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.8, "resultado8": 0.2 } }
+        ]
+      },
+      {
+        "question": "Se você tivesse que escolher uma atividade para desestressar, qual seria?",
+        "answers": [
+          { "text": "📝 Escrever sobre seus sentimentos.", "points": { "resultado1": 1, "resultado2": 0.6, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.5 } },
+          { "text": "🎨 Criar algo artístico.", "points": { "resultado1": 0.6, "resultado2": 1, "resultado3": 0.5, "resultado4": 0.2, "resultado5": 0.7, "resultado6": 0.4, "resultado7": 0.3, "resultado8": 0.8 } },
+          { "text": "🏃‍♂️ Fazer uma caminhada ou exercício ao ar livre.", "points": { "resultado1": 0.2, "resultado2": 0.5, "resultado3": 1, "resultado4": 0.8, "resultado5": 0.4, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.7 } },
+          { "text": "🍿 Assistir a um filme ou série favorita.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.8, "resultado4": 1, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+          { "text": "🎼 Escutar música e relaxar.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.8, "resultado7": 0.5, "resultado8": 0.2 } },
+          { "text": "🧘‍♀️ Meditar ou fazer yoga.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.8, "resultado8": 0.2 } }
+        ]
+      },
+      {
+        "question": "Quando você escuta uma nova banda que adora, você:",
+        "answers": [
+          { "text": "🎟️ Procura ir ao show o mais rápido possível.", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+          { "text": "📀 Compra o álbum para escutar sempre que quiser.", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+          { "text": "🖋️ Tenta aprender as letras e os significados das músicas.", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+          { "text": "👯 Compartilha com seus amigos e curte junto com eles.", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } },
+          { "text": "🎥 Assiste a todos os vídeos e entrevistas da banda.", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.8, "resultado7": 0.5, "resultado8": 0.2 } },
+          { "text": "🎧 Cria uma playlist com as melhores músicas.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.8, "resultado8": 0.2 } }
+        ]
+    }
+  ],
+  "descriptions": {
+    "resultado1": {
+      "title": "I'm Not Okay (I Promise)",
+      "emoji": "🎸",
+      "subtitle": "My Chemical Romance",
+      "text": "Você é o clássico hino de quem está passando por uma fase complicada, mas ainda mantém o espírito rebelde. Um verdadeiro grito de socorro com uma batida contagiante."
+    },
+    "resultado2": {
+      "title": "Welcome to the Black Parade",
+      "emoji": "🖤",
+      "subtitle": "My Chemical Romance",
+      "text": "Você é um épico hino emo que mistura tristeza com uma incrível jornada de autodescoberta. Sempre pronto para liderar a marcha dos corações partidos."
+    },
+    "resultado3": {
+      "title": "Helena",
+      "emoji": "💔",
+      "subtitle": "My Chemical Romance",
+      "text": "Você é o lamento doloroso de quem perdeu alguém especial. Com uma intensidade que só o emo pode expressar, você sente cada palavra dessa canção."
+    },
+    "resultado4": {
+      "title": "Cedo Ou Tarde",
+      "emoji": "🌙",
+      "subtitle": "NX Zero",
+      "text": "Você é a voz do desespero e da esperança, refletindo a luta diária com uma energia contagiante. Uma verdadeira canção de superação."
+    },
+    "resultado5": {
+      "title": "Sugar, We're Goin Down",
+      "emoji": "🍭",
+      "subtitle": "Fall Out Boy",
+      "text": "Você é um hino que mistura frustração com uma batida viciante. Sempre pronto para encarar os altos e baixos da vida com uma atitude confiante."
+    },
+    "resultado6": {
+      "title": "Na Sua Estante",
+      "emoji": "🎸",
+      "subtitle": "Pitty",
+      "text": "Você é a melodia que expressa a dor da separação, com uma sinceridade que toca o coração. Uma canção que ressoa com quem já passou por isso."
+    },
+    "resultado7": {
+      "title": "The Anthem",
+      "emoji": "🎤",
+      "subtitle": "Good Charlotte",
+      "text": "Você é o grito de guerra dos outsiders, sempre lutando contra a correnteza e se destacando na multidão. Com uma força inspiradora, você nunca desiste."
+    },
+    "resultado8": {
+      "title": "Dance, Dance",
+      "emoji": "🕺",
+      "subtitle": "Fall Out Boy",
+      "text": "Você é o hino das festas e encontros, sempre trazendo uma energia contagiante. Mesmo em meio à confusão, você sabe como manter o espírito alto e a diversão garantida."
+    },
+    "resultado9": {
+      "title": "American Idiot",
+      "emoji": "🇺🇸",
+      "subtitle": "Green Day",
+      "text": "Você é um hino de rebeldia e crítica social. Com uma batida marcante e letras provocativas, você sempre desafia o status quo e inspira mudanças."
+    },
+    "resultado10": {
+      "title": "I Write Sins Not Tragedies",
+      "emoji": "🃏",
+      "subtitle": "Panic! At The Disco",
+      "text": "Você é a personificação do sarcasmo e da ironia, transformando as tragédias da vida em contos cativantes. Sempre pronto para apontar as ironias com um sorriso atrevido."
+    },
+    "resultado11": {
+      "title": "Polo",
+      "emoji": "🐎",
+      "subtitle": "Fresno",
+      "text": "Você é o hino que mistura amor e dor com uma melodia cativante. Com letras profundas e emotivas, você toca os corações de quem já amou intensamente."
+    }
+  }
+}
