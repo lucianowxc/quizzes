@@ -104,6 +104,11 @@
           "name": "Qual personagem clássico da novela 'Malhação' você seria?",
           "file": "quizzes/quizPersonagensMalhacao.json",
           "description": "Descubra qual personagem clássico da novela 'Malhação' mais se parece com você!"
+        },
+        {
+          "name": "Qual hino emo você seria?",
+          "file": "quizzes/quizHinosEmo.json",
+          "description": "Descubra qual hino emo mais se parece com você e reviva os momentos mais nostálgicos da sua adolescência!"
         }
     ]
 }
