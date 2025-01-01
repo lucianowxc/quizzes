@@ -1,0 +1,610 @@
+{
+    "title": "Qual mascote brasileiro você é?",
+    "questions": [
+        {
+            "question": "Se você pudesse ser qualquer sabor de sorvete, qual seria e por quê?",
+            "answers": [
+                {
+                    "text": "Sorvete de bacon com chocolate, porque sou uma mistura improvável e deliciosa.",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado2": 0.5,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado7": 0.4,
+                        "resultado8": 0.6,
+                        "resultado9": 0.3
+                    }
+                },
+                {
+                    "text": "Sorvete de pistache, porque sou único e nem todo mundo me entende.",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 1,
+                        "resultado3": 0.8,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.3,
+                        "resultado9": 0.6
+                    }
+                },
+                {
+                    "text": "Sorvete de menta com chocolate, porque sou refrescante e surpreendente.",
+                    "points": {
+                        "resultado1": 0.2,
+                        "resultado2": 0.8,
+                        "resultado3": 1,
+                        "resultado4": 0.5,
+                        "resultado5": 0.4,
+                        "resultado6": 0.6,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7,
+                        "resultado9": 0.5
+                    }
+                },
+                {
+                    "text": "Sorvete de flocos, clássico e sempre uma boa escolha.",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.2,
+                        "resultado3": 0.5,
+                        "resultado4": 1,
+                        "resultado5": 0.7,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4,
+                        "resultado9": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual seria a sua reação se você acordasse e descobrisse que é um gato por um dia?",
+            "answers": [
+                {
+                    "text": "Passaria o dia inteiro dormindo no lugar mais confortável da casa.",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado2": 0.5,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado7": 0.4,
+                        "resultado8": 0.6,
+                        "resultado9": 0.3
+                    }
+                },
+                {
+                    "text": "Ficaria andando de um lado para o outro, derrubando tudo que visse pela frente.",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 1,
+                        "resultado3": 0.8,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.3,
+                        "resultado9": 0.6
+                    }
+                },
+                {
+                    "text": "Tentaria entender como usar a caixinha de areia... sério.",
+                    "points": {
+                        "resultado1": 0.2,
+                        "resultado2": 0.8,
+                        "resultado3": 1,
+                        "resultado4": 0.5,
+                        "resultado5": 0.4,
+                        "resultado6": 0.6,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7,
+                        "resultado9": 0.5
+                    }
+                },
+                {
+                    "text": "Aproveitaria para me esconder dentro de todas as caixas disponíveis.",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.2,
+                        "resultado3": 0.5,
+                        "resultado4": 1,
+                        "resultado5": 0.7,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4,
+                        "resultado9": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você pudesse escolher qualquer superpoder estranho, qual seria?",
+            "answers": [
+                {
+                    "text": "Transformar qualquer líquido em gelatina instantaneamente.",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado2": 0.5,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado7": 0.4,
+                        "resultado8": 0.6,
+                        "resultado9": 0.3
+                    }
+                },
+                {
+                    "text": "Falar com plantas e entender suas fofocas.",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 1,
+                        "resultado3": 0.8,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.3,
+                        "resultado9": 0.6
+                    }
+                },
+                {
+                    "text": "Soltar glitter pelos dedos sempre que estou feliz.",
+                    "points": {
+                        "resultado1": 0.2,
+                        "resultado2": 0.8,
+                        "resultado3": 1,
+                        "resultado4": 0.5,
+                        "resultado5": 0.4,
+                        "resultado6": 0.6,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7,
+                        "resultado9": 0.5
+                    }
+                },
+                {
+                    "text": "Teletransportar qualquer coisa pequena, como lápis e copos de café, mas apenas por cinco metros.",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.2,
+                        "resultado3": 0.5,
+                        "resultado4": 1,
+                        "resultado5": 0.7,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4,
+                        "resultado9": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você pudesse transformar qualquer comida em tamanho gigante, qual escolheria?",
+            "answers": [
+                {
+                    "text": "Hambúrguer, porque nada melhor do que um hambúrguer gigante para compartilhar (ou não).",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado2": 0.5,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado7": 0.4,
+                        "resultado8": 0.6,
+                        "resultado9": 0.3
+                    }
+                },
+                {
+                    "text": "Pizza, porque pizza nunca é demais, especialmente quando é enorme.",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 1,
+                        "resultado3": 0.8,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.3,
+                        "resultado9": 0.6
+                    }
+                },
+                {
+                    "text": "Taco, porque um taco gigante seria uma aventura para comer.",
+                    "points": {
+                        "resultado1": 0.2,
+                        "resultado2": 0.8,
+                        "resultado3": 1,
+                        "resultado4": 0.5,
+                        "resultado5": 0.4,
+                        "resultado6": 0.6,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7,
+                        "resultado9": 0.5
+                    }
+                },
+                {
+                    "text": "Sorvete, porque quem recusaria um sorvete gigante?",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.2,
+                        "resultado3": 0.5,
+                        "resultado4": 1,
+                        "resultado5": 0.7,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4,
+                        "resultado9": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você fosse um super-herói, qual seria seu veículo de transporte?",
+            "answers": [
+                {
+                    "text": "Uma bicicleta voadora, porque é ecológica e estilosa.",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado2": 0.5,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado7": 0.4,
+                        "resultado8": 0.6,
+                        "resultado9": 0.3
+                    }
+                },
+                {
+                    "text": "Um patinete a jato, para chegar rápido e com classe.",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 1,
+                        "resultado3": 0.8,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.3,
+                        "resultado9": 0.6
+                    }
+                },
+                {
+                    "text": "Um unicórnio, porque todo mundo precisa de um toque de magia.",
+                    "points": {
+                        "resultado1": 0.2,
+                        "resultado2": 0.8,
+                        "resultado3": 1,
+                        "resultado4": 0.5,
+                        "resultado5": 0.4,
+                        "resultado6": 0.6,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7,
+                        "resultado9": 0.5
+                    }
+                },
+                {
+                    "text": "Um carrinho de supermercado, porque às vezes o improviso é o melhor.",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.2,
+                        "resultado3": 0.5,
+                        "resultado4": 1,
+                        "resultado5": 0.7,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4,
+                        "resultado9": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você pudesse conversar com qualquer objeto inanimado, qual escolheria?",
+            "answers": [
+                {
+                    "text": "Geladeira, para saber todos os segredos dos lanches da madrugada.",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado2": 0.5,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado7": 0.4,
+                        "resultado8": 0.6,
+                        "resultado9": 0.3
+                    }
+                },
+                {
+                    "text": "Almofada, para descobrir todos os cochilos e sonhos.",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 1,
+                        "resultado3": 0.8,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.3,
+                        "resultado9": 0.6
+                    }
+                },
+                {
+                    "text": "Espelho, para ouvir a opinião sincera sobre o visual.",
+                    "points": {
+                        "resultado1": 0.2,
+                        "resultado2": 0.8,
+                        "resultado3": 1,
+                        "resultado4": 0.5,
+                        "resultado5": 0.4,
+                        "resultado6": 0.6,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7,
+                        "resultado9": 0.5
+                    }
+                },
+                {
+                    "text": "Lâmpada, para iluminar as ideias mais brilhantes.",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.2,
+                        "resultado3": 0.5,
+                        "resultado4": 1,
+                        "resultado5": 0.7,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4,
+                        "resultado9": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você está preso em uma ilha deserta. Você só pode levar um item. Qual você escolhe?",
+            "answers": [
+                {
+                    "text": "Uma caixa infinita de pizza.",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado2": 0.5,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado7": 0.4,
+                        "resultado8": 0.6,
+                        "resultado9": 0.3
+                    }
+                },
+                {
+                    "text": "Um colchão superconfortável.",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 1,
+                        "resultado3": 0.8,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.3,
+                        "resultado9": 0.6
+                    }
+                },
+                {
+                    "text": "Uma televisão que só pega um canal.",
+                    "points": {
+                        "resultado1": 0.2,
+                        "resultado2": 0.8,
+                        "resultado3": 1,
+                        "resultado4": 0.5,
+                        "resultado5": 0.4,
+                        "resultado6": 0.6,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7,
+                        "resultado9": 0.5
+                    }
+                },
+                {
+                    "text": "Um dicionário para aprender todas as palavras.",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.2,
+                        "resultado3": 0.5,
+                        "resultado4": 1,
+                        "resultado5": 0.7,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4,
+                        "resultado9": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você ganhou um prêmio em dinheiro para gastar em um dia de lazer no Brasil. O que você faz?",
+            "answers": [
+                {
+                    "text": "Passo o dia inteiro na praia de Copacabana, tomando água de coco e relaxando.",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado2": 0.5,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado7": 0.4,
+                        "resultado8": 0.6,
+                        "resultado9": 0.3
+                    }
+                },
+                {
+                    "text": "Vou para o Beto Carrero World e aproveito todas as atrações.",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 1,
+                        "resultado3": 0.8,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.3,
+                        "resultado9": 0.6
+                    }
+                },
+                {
+                    "text": "Faço um tour gastronômico por São Paulo, provando de tudo um pouco.",
+                    "points": {
+                        "resultado1": 0.2,
+                        "resultado2": 0.8,
+                        "resultado3": 1,
+                        "resultado4": 0.5,
+                        "resultado5": 0.4,
+                        "resultado6": 0.6,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7,
+                        "resultado9": 0.5
+                    }
+                },
+                {
+                    "text": "Vou assistir a um jogo de futebol no Maracanã e torcer para o meu time.",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.2,
+                        "resultado3": 0.5,
+                        "resultado4": 1,
+                        "resultado5": 0.7,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4,
+                        "resultado9": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você encontrou uma mala cheia de dinheiro. O que você faz com ela?",
+            "answers": [
+                {
+                    "text": "Investe tudo em memes da internet.",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado2": 0.5,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado7": 0.4,
+                        "resultado8": 0.6,
+                        "resultado9": 0.3
+                    }
+                },
+                {
+                    "text": "Viaja pelo mundo, gastando cada centavo.",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 1,
+                        "resultado3": 0.8,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.3,
+                        "resultado9": 0.6
+                    }
+                },
+                {
+                    "text": "Cria uma fundação para salvar unicórnios imaginários.",
+                    "points": {
+                        "resultado1": 0.2,
+                        "resultado2": 0.8,
+                        "resultado3": 1,
+                        "resultado4": 0.5,
+                        "resultado5": 0.4,
+                        "resultado6": 0.6,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7,
+                        "resultado9": 0.5
+                    }
+                },
+                {
+                    "text": "Enterra no quintal e nunca mais fala sobre isso.",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.2,
+                        "resultado3": 0.5,
+                        "resultado4": 1,
+                        "resultado5": 0.7,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4,
+                        "resultado9": 0.7
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "Barriguinha Mole",
+            "emoji": "🧀",
+            "subtitle": "O Lorde do Laticínio",
+            "text": "Parabéns, você é o Barriguinha Mole! Sua paixão por queijo é tanta que, se pudesse, você viveria em uma roda de parmesão. Sempre com um sorriso e uma piadinha pronta, você é aquele amigo que ninguém consegue ficar bravo por muito tempo."
+        },
+        "resultado2": {
+            "title": "Lu",
+            "emoji": "🛍️",
+            "subtitle": "A Influencer das Ofertas",
+            "text": "Você é a Lu do Magazine Luiza! Sua habilidade em encontrar descontos é lendária, e todo mundo corre para você quando precisa de uma dica esperta. Seu feed de redes sociais é um mar de emojis felizes e promoções irresistíveis."
+        },
+        "resultado3": {
+            "title": "Dollynho",
+            "emoji": "🥤",
+            "subtitle": "O Amiguinho do Refri",
+            "text": "Eba, você é o Dollynho! Sempre cheio de energia, você é aquela pessoa que ninguém sabe como consegue estar feliz e saltitante às 7 da manhã. Sua risada contagiante anima até o mais ranzinza dos colegas."
+        },
+        "resultado4": {
+            "title": "Nat Natura",
+            "emoji": "🌿",
+            "subtitle": "A Natureba Descolada",
+            "text": "Você é a Nat Natura! Aquela pessoa que abraça árvores e tem um jardim de temperos na varanda. Seu lema é 'menos plástico, mais amor', e você faz questão de lembrar todo mundo disso... o tempo todo."
+        },
+        "resultado5": {
+            "title": "Baianinho",
+            "emoji": "🏠",
+            "subtitle": "O Mestre das Pechinchas",
+            "text": "Você é o Baianinho das Casas Bahia! Sempre ligado nas promoções, você não perde uma oferta boa. Negociar com você é uma arte, e todo mundo sai com a sensação de que fez o melhor negócio da vida."
+        },
+        "resultado6": {
+            "title": "Toddynho",
+            "emoji": "🥛",
+            "subtitle": "O Pequeno Big Boss",
+            "text": "Você é o Toddynho! Pequeno no tamanho, mas gigante no carisma. Sua presença é tão reconfortante quanto um abraço quentinho. Nos momentos difíceis, você é a dose de alegria líquida que todo mundo precisa."
+        },
+        "resultado7": {
+            "title": "Fuleco",
+            "emoji": "⚽",
+            "subtitle": "O Craque da Sustentabilidade",
+            "text": "Você é o Fuleco! Sempre pronto para o jogo, você faz gol na vida e no campo. Além de ser um mestre da bola, você defende o meio ambiente como ninguém, porque salvar o planeta nunca sai de moda."
+        },
+        "resultado8": {
+            "title": "Xaropinho",
+            "emoji": "🎭",
+            "subtitle": "O Palhaço dos Memes",
+            "text": "Você é o Xaropinho! A zoeira nunca acaba com você. Sempre com uma piada nova e um meme na ponta da língua, sua missão é fazer todos rirem, mesmo que às vezes só você entenda a piada."
+        },
+        "resultado9": {
+            "title": "Louro José",
+            "emoji": "🦜",
+            "subtitle": "O Falador Incontornável",
+            "text": "Você é o Louro José! Não tem quem não goste da sua companhia. Sempre com uma opinião sobre tudo, você transforma até a conversa mais chata em algo divertido. Sua presença é garantida nas rodinhas de conversa."
+        }
+    }
+}
