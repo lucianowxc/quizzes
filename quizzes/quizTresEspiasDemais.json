@@ -1,0 +1,103 @@
+{
+    "title": "Qual das três espiãs demais você é?",
+    "questions": [
+        {
+            "question": "Qual é a sua atividade favorita no tempo livre?",
+            "answers": [
+                { "text": "Ler um bom livro", "points": { "Sam": 1, "Jerry": 0.5 } },
+                { "text": "Fazer compras no shopping", "points": { "Sam": 1, "Clover": 1 } },
+                { "text": "Praticar esportes", "points": { "Sam": 1, "Alex": 1 } },
+                { "text": "Assistir a um documentário", "points": { "Sam": 1, "Jerry": 0.5 } }
+            ]
+        },
+        {
+            "question": "Como você descreveria seu estilo de moda?",
+            "answers": [
+                { "text": "Clássico e elegante", "points": { "Sam": 1, "Jerry": 0.5 } },
+                { "text": "Moderno e fashion", "points": { "Sam": -1, "Clover": 1 } },
+                { "text": "Confortável e esportivo", "points": { "Sam": 1, "Alex": 1 } },
+                { "text": "Casual e prático", "points": { "Sam": 1, "Jerry": 0.5 } }
+            ]
+        },
+        {
+            "question": "Qual é a sua matéria favorita na escola?",
+            "answers": [
+                { "text": "Matemática", "points": { "Sam": 1, "Jerry": 0.5 } },
+                { "text": "Educação Física", "points": { "Sam": 1, "Alex": 1 } },
+                { "text": "Artes", "points": { "Sam": 1, "Clover": 1 } },
+                { "text": "Ciências", "points": { "Sam": 1, "Jerry": 0.5 } }
+            ]
+        },
+        {
+            "question": "Como você lida com problemas?",
+            "answers": [
+                { "text": "Analiso a situação e encontro uma solução lógica", "points": { "Sam": 1, "Jerry": 0.5 } },
+                { "text": "Peço ajuda aos amigos", "points": { "Sam": 1, "Clover": 1 } },
+                { "text": "Enfrento o problema de frente", "points": { "Sam": 1, "Alex": 1 } },
+                { "text": "Tento evitar o problema", "points": { "Sam": 1, "Jerry": 0.5 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu tipo de filme favorito?",
+            "answers": [
+                { "text": "Documentário", "points": { "Sam": 1, "Jerry": 0.5 } },
+                { "text": "Comédia romântica", "points": { "Sam": 1, "Clover": 1 } },
+                { "text": "Ação e aventura", "points": { "Sam": -1, "Alex": 1 } },
+                { "text": "Drama", "points": { "Sam": 1, "Jerry": 0.5 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior sonho?",
+            "answers": [
+                { "text": "Ser um(a) cientista renomado(a)", "points": { "Sam": 1, "Jerry": 0.5 } },
+                { "text": "Ser uma celebridade", "points": { "Sam": 1, "Clover": 1 } },
+                { "text": "Ser um(a) atleta profissional", "points": { "Sam": 1, "Alex": 1 } },
+                { "text": "Viajar pelo mundo", "points": { "Sam": 1, "Jerry": 0.5 } }
+            ]
+        },
+        {
+            "question": "Como você descreveria sua personalidade?",
+            "answers": [
+                { "text": "Racional e focada", "points": { "Sam": 1, "Jerry": 0.5 } },
+                { "text": "Extrovertida e charmosa", "points": { "Sam": 1, "Clover": 1 } },
+                { "text": "Energética e aventureira", "points": { "Sam": 1, "Alex": 1 } },
+                { "text": "Calma e prática", "points": { "Sam": -1, "Jerry": 0.5 } }
+            ]
+        },
+        {
+            "question": "Qual é o seu passatempo favorito?",
+            "answers": [
+                { "text": "Resolver quebra-cabeças", "points": { "Sam": 1, "Jerry": 0.5 } },
+                { "text": "Ir a festas", "points": { "Sam": 1, "Clover": 1 } },
+                { "text": "Praticar esportes radicais", "points": { "Sam": 1, "Alex": 1 } },
+                { "text": "Cozinhar", "points": { "Sam": 1, "Jerry": 0.5 } }
+            ]
+        }
+    ],
+    "descriptions": {
+        "Sam": {
+            "title": "Sam",
+            "emoji": "🧠",
+            "subtitle": "A Inteligente e Racional",
+            "text": "Você é Sam! Sempre lógica e focada, você usa sua inteligência para resolver problemas e ajudar seus amigos. Sua determinação e habilidades analíticas são suas maiores forças."
+        },
+        "Clover": {
+            "title": "Clover",
+            "emoji": "💄",
+            "subtitle": "A Fashionista e Extrovertida",
+            "text": "Você é Clover! Com um senso de moda impecável e uma personalidade extrovertida, você adora estar no centro das atenções. Sua confiança e charme são contagiantes."
+        },
+        "Alex": {
+            "title": "Alex",
+            "emoji": "🏃‍♀️",
+            "subtitle": "A Atleta e Aventureira",
+            "text": "Você é Alex! Sempre ativa e pronta para uma aventura, você adora esportes e desafios físicos. Sua energia e entusiasmo inspiram todos ao seu redor."
+        },
+        "Jerry": {
+            "title": "Jerry",
+            "emoji": "🕵️‍♂️",
+            "subtitle": "O Mentor e Estrategista",
+            "text": "Você é Jerry! Sempre calmo e estratégico, você é o mentor que guia as espiãs em suas missões. Sua sabedoria e experiência são inestimáveis."
+        }
+    }
+}
