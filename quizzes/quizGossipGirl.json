@@ -1,0 +1,275 @@
+{
+    "title": "Qual Gossip Girl Você Seria?",
+    "questions": [
+        {
+            "question": "Você encontra uma oportunidade de ser voluntário em um evento de caridade. O que você faz?",
+            "answers": [
+                {
+                    "text": "Organiza o evento e garante que tudo saia perfeito",
+                    "points": {
+                        "Blair Waldorf": 1
+                    }
+                },
+                {
+                    "text": "Participa e usa seu charme para atrair doações",
+                    "points": {
+                        "Serena van der Woodsen": 1
+                    }
+                },
+                {
+                    "text": "Se junta para dar um toque criativo ao evento",
+                    "points": {
+                        "Jenny Humphrey": 1
+                    }
+                },
+                {
+                    "text": "Filma um documentário sobre o evento",
+                    "points": {
+                        "Vanessa Abrams": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Alguém fez uma fofoca desagradável sobre você. Como você reage?",
+            "answers": [
+                {
+                    "text": "Confronta a pessoa e usa seus contatos para desmentir a história",
+                    "points": {
+                        "Blair Waldorf": 1
+                    }
+                },
+                {
+                    "text": "Finge que nada aconteceu e continua brilhando",
+                    "points": {
+                        "Serena van der Woodsen": 1
+                    }
+                },
+                {
+                    "text": "Muda seu estilo e começa a ditar novas tendências",
+                    "points": {
+                        "Jenny Humphrey": 1
+                    }
+                },
+                {
+                    "text": "Escreve uma carta aberta sobre autenticidade e coragem",
+                    "points": {
+                        "Vanessa Abrams": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você ganhou um grande prêmio em dinheiro. Como decide usá-lo?",
+            "answers": [
+                {
+                    "text": "Investe em sua carreira e em um futuro bem estruturado",
+                    "points": {
+                        "Blair Waldorf": 1
+                    }
+                },
+                {
+                    "text": "Viaja pelo mundo em busca de novas experiências",
+                    "points": {
+                        "Serena van der Woodsen": 1
+                    }
+                },
+                {
+                    "text": "Cria uma coleção de moda inovadora",
+                    "points": {
+                        "Jenny Humphrey": 1
+                    }
+                },
+                {
+                    "text": "Produz um filme impactante sobre um tema social importante",
+                    "points": {
+                        "Vanessa Abrams": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você está em uma festa e alguém derrama uma bebida em sua roupa nova. Qual é a sua reação?",
+            "answers": [
+                {
+                    "text": "Sorri e tira de letra, sabendo que seu charme supera qualquer problema",
+                    "points": {
+                        "Serena van der Woodsen": 1
+                    }
+                },
+                {
+                    "text": "Se irrita, mas rapidamente encontra uma solução criativa para o problema",
+                    "points": {
+                        "Jenny Humphrey": 1
+                    }
+                },
+                {
+                    "text": "Usa a situação para fazer uma entrada dramática e conquistar a atenção",
+                    "points": {
+                        "Blair Waldorf": 1
+                    }
+                },
+                {
+                    "text": "Aproveita a oportunidade para um discurso sobre a superficialidade das aparências",
+                    "points": {
+                        "Vanessa Abrams": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você tem um dia livre na cidade. O que você decide fazer?",
+            "answers": [
+                {
+                    "text": "Passeia pelos lugares mais badalados e faz compras nas melhores lojas",
+                    "points": {
+                        "Blair Waldorf": 1
+                    }
+                },
+                {
+                    "text": "Vai a um café aconchegante para relaxar e ler um bom livro",
+                    "points": {
+                        "Serena van der Woodsen": 1
+                    }
+                },
+                {
+                    "text": "Explora lojas de moda alternativa e busca inspiração",
+                    "points": {
+                        "Jenny Humphrey": 1
+                    }
+                },
+                {
+                    "text": "Visita um museu ou uma galeria de arte para encontrar novas ideias",
+                    "points": {
+                        "Vanessa Abrams": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você está em um dilema moral. Qual é o seu instinto natural?",
+            "answers": [
+                {
+                    "text": "Seguir suas próprias regras e fazer o que for melhor para si mesma",
+                    "points": {
+                        "Georgina Sparks": 1
+                    }
+                },
+                {
+                    "text": "Ajudar os outros, mesmo que isso signifique sacrificar algo importante",
+                    "points": {
+                        "Lily van der Woodsen": 1
+                    }
+                },
+                {
+                    "text": "Pensar em uma maneira criativa de resolver o problema e beneficiar a todos",
+                    "points": {
+                        "Jenny Humphrey": 1
+                    }
+                },
+                {
+                    "text": "Refletir profundamente sobre as consequências antes de tomar uma decisão",
+                    "points": {
+                        "Vanessa Abrams": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Durante uma viagem, você descobre que alguém trocou sua bagagem com a de outra pessoa. O que você faz?",
+            "answers": [
+                {
+                    "text": "Contrata um investigador particular para resolver o problema rapidamente",
+                    "points": {
+                        "Blair Waldorf": 1
+                    }
+                },
+                {
+                    "text": "Aproveita a situação para criar um novo visual com as roupas da outra pessoa",
+                    "points": {
+                        "Jenny Humphrey": 1
+                    }
+                },
+                {
+                    "text": "Faz um vídeo engraçado sobre a confusão para compartilhar nas redes sociais",
+                    "points": {
+                        "Vanessa Abrams": 1
+                    }
+                },
+                {
+                    "text": "Vê como uma oportunidade de viver uma nova identidade temporária",
+                    "points": {
+                        "Georgina Sparks": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você descobre um segredo profundo e perturbador sobre uma amiga próxima. Qual é a sua reação?",
+            "answers": [
+                {
+                    "text": "Usa a informação para manipular a situação a seu favor, se necessário",
+                    "points": {
+                        "Georgina Sparks": 1
+                    }
+                },
+                {
+                    "text": "Confronta a amiga diretamente e oferece apoio",
+                    "points": {
+                        "Lily van der Woodsen": 1
+                    }
+                },
+                {
+                    "text": "Guarda o segredo e tenta resolver a situação discretamente",
+                    "points": {
+                        "Blair Waldorf": 1
+                    }
+                },
+                {
+                    "text": "Compartilha o segredo anonimamente para ver como as coisas se desenrolam",
+                    "points": {
+                        "Serena van der Woodsen": 1
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "Blair Waldorf": {
+            "title": "Blair Waldorf",
+            "emoji": "👑",
+            "subtitle": "A Rainha",
+            "text": "Determinada, controladora e ambiciosa, você faz de tudo para alcançar seus objetivos. Sua lealdade aos amigos é inabalável, mas não hesita em usar estratégias inteligentes para sair por cima."
+        },
+        "Serena van der Woodsen": {
+            "title": "Serena van der Woodsen",
+            "emoji": "🌟",
+            "subtitle": "A Estrela",
+            "text": "Carismática, encantadora e muitas vezes no centro das atenções, você tem um brilho natural que atrai as pessoas. Sua vida pode ser cheia de dramas, mas você sempre encontra uma maneira de se reerguer."
+        },
+        "Jenny Humphrey": {
+            "title": "Jenny Humphrey",
+            "emoji": "🧵",
+            "subtitle": "A Rebelde",
+            "text": "Criativa, determinada e não tem medo de desafiar as normas, você sempre está em busca de sua própria identidade. Mesmo enfrentando dificuldades, sua força e originalidade se destacam."
+        },
+        "Vanessa Abrams": {
+            "title": "Vanessa Abrams",
+            "emoji": "🎥",
+            "subtitle": "A Visionária",
+            "text": "Idealista, talentosa e com um espírito independente, você se preocupa profundamente com questões sociais e culturais. Sua paixão pela arte e pela justiça te guia em suas escolhas."
+        },
+        "Lily van der Woodsen": {
+            "title": "Lily van der Woodsen",
+            "emoji": "💼",
+            "subtitle": "A Protetora",
+            "text": "Elegante, influente e protetora de sua família, você valoriza a tradição e a estabilidade. Seu senso de responsabilidade e postura firme te tornam um pilar de suporte para aqueles ao seu redor."
+        },
+        "Georgina Sparks": {
+            "title": "Georgina Sparks",
+            "emoji": "🎭",
+            "subtitle": "A Manipuladora",
+            "text": "Inusitada, enigmática e muitas vezes imprevisível, você gosta de viver no limite. Sua habilidade de se adaptar e usar situações a seu favor faz de você uma jogadora astuta no jogo da vida."
+        }
+    }
+}
