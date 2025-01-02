@@ -1,0 +1,137 @@
+{
+    "title": "Com qual cantora pop você mais se identifica?",
+    "questions": [
+        {
+            "question": "Qual seu hobby favorito?",
+            "answers": [
+                { "text": "Ler livros 📚", "points": { "Taylor Swift": 1, "Ariana Grande": 0.5, "Dua Lipa": 0.2, "Billie Eilish": 0.8, "Beyoncé": 0.3, "Lady Gaga": 0.7, "Chappell Roan": 0.4, "Charli XCX": 0.6, "Sabrina Carpenter": 0.5 } },
+                { "text": "Cantar no chuveiro 🎤", "points": { "Taylor Swift": 0.5, "Ariana Grande": 1, "Dua Lipa": 0.8, "Billie Eilish": 0.2, "Beyoncé": 0.6, "Lady Gaga": 0.4, "Chappell Roan": 0.7, "Charli XCX": 0.3, "Sabrina Carpenter": 0.6 } },
+                { "text": "Dançar 💃", "points": { "Taylor Swift": 0.2, "Ariana Grande": 0.8, "Dua Lipa": 1, "Billie Eilish": 0.5, "Beyoncé": 0.4, "Lady Gaga": 0.6, "Chappell Roan": 0.3, "Charli XCX": 0.7, "Sabrina Carpenter": 0.8 } },
+                { "text": "Assistir filmes 🍿", "points": { "Taylor Swift": 0.8, "Ariana Grande": 0.2, "Dua Lipa": 0.5, "Billie Eilish": 1, "Beyoncé": 0.7, "Lady Gaga": 0.3, "Chappell Roan": 0.6, "Charli XCX": 0.4, "Sabrina Carpenter": 0.2 } }
+            ]
+        },
+        {
+            "question": "Como você descreveria seu estilo de moda?",
+            "answers": [
+                { "text": "Clássico e elegante 👗", "points": { "Taylor Swift": 1, "Ariana Grande": 0.5, "Dua Lipa": 0.2, "Billie Eilish": 0.8, "Beyoncé": 0.3, "Lady Gaga": 0.7, "Chappell Roan": 0.4, "Charli XCX": 0.6, "Sabrina Carpenter": 0.5 } },
+                { "text": "Casual e confortável 👖", "points": { "Taylor Swift": 0.5, "Ariana Grande": 1, "Dua Lipa": 0.8, "Billie Eilish": 0.2, "Beyoncé": 0.6, "Lady Gaga": 0.4, "Chappell Roan": 0.7, "Charli XCX": 0.3, "Sabrina Carpenter": 0.6 } },
+                { "text": "Moderno e fashionista 👠", "points": { "Taylor Swift": 0.2, "Ariana Grande": 0.8, "Dua Lipa": 1, "Billie Eilish": 0.5, "Beyoncé": 0.4, "Lady Gaga": 0.6, "Chappell Roan": 0.3, "Charli XCX": 0.7, "Sabrina Carpenter": 0.8 } },
+                { "text": "Alternativo e original 🎨", "points": { "Taylor Swift": 0.8, "Ariana Grande": 0.2, "Dua Lipa": 0.5, "Billie Eilish": 1, "Beyoncé": 0.7, "Lady Gaga": 0.3, "Chappell Roan": 0.6, "Charli XCX": 0.4, "Sabrina Carpenter": 0.2 } }
+            ]
+        },
+        {
+            "question": "Qual é seu gênero musical favorito?",
+            "answers": [
+                { "text": "Pop 🎵", "points": { "Taylor Swift": 1, "Ariana Grande": 0.5, "Dua Lipa": 0.2, "Billie Eilish": 0.8, "Beyoncé": 0.3, "Lady Gaga": 0.7, "Chappell Roan": 0.4, "Charli XCX": 0.6, "Sabrina Carpenter": 0.5 } },
+                { "text": "Rock 🎸", "points": { "Taylor Swift": 0.5, "Ariana Grande": 1, "Dua Lipa": 0.8, "Billie Eilish": 0.2, "Beyoncé": 0.6, "Lady Gaga": 0.4, "Chappell Roan": 0.7, "Charli XCX": 0.3, "Sabrina Carpenter": 0.6 } },
+                { "text": "Hip-hop 🎧", "points": { "Taylor Swift": 0.2, "Ariana Grande": 0.8, "Dua Lipa": 1, "Billie Eilish": 0.5, "Beyoncé": 0.4, "Lady Gaga": 0.6, "Chappell Roan": 0.3, "Charli XCX": 0.7, "Sabrina Carpenter": 0.8 } },
+                { "text": "Música eletrônica 🎶", "points": { "Taylor Swift": 0.8, "Ariana Grande": 0.2, "Dua Lipa": 0.5, "Billie Eilish": 1, "Beyoncé": 0.7, "Lady Gaga": 0.3, "Chappell Roan": 0.6, "Charli XCX": 0.4, "Sabrina Carpenter": 0.2 } }
+            ]
+        },
+        {
+            "question": "Se você tivesse que escolher entre nunca mais ouvir música ou nunca mais ver filmes, o que escolheria?",
+            "answers": [
+                { "text": "Nunca mais ouvir música 🎶", "points": { "Taylor Swift": 1, "Ariana Grande": 0.5, "Dua Lipa": 0.2, "Billie Eilish": 0.8, "Beyoncé": 0.3, "Lady Gaga": 0.7, "Chappell Roan": 0.4, "Charli XCX": 0.6, "Sabrina Carpenter": 0.5 } },
+                { "text": "Nunca mais ver filmes 📺", "points": { "Taylor Swift": 0.5, "Ariana Grande": 1, "Dua Lipa": 0.8, "Billie Eilish": 0.2, "Beyoncé": 0.6, "Lady Gaga": 0.4, "Chappell Roan": 0.7, "Charli XCX": 0.3, "Sabrina Carpenter": 0.6 } }
+            ]
+        },
+        {
+            "question": "Se você pudesse ter um superpoder, qual escolheria?",
+            "answers": [
+                { "text": "Ler mentes 🧠", "points": { "Taylor Swift": 1, "Ariana Grande": 0.5, "Dua Lipa": 0.2, "Billie Eilish": 0.8, "Beyoncé": 0.3, "Lady Gaga": 0.7, "Chappell Roan": 0.4, "Charli XCX": 0.6, "Sabrina Carpenter": 0.5 } },
+                { "text": "Voar 🕊️", "points": { "Taylor Swift": 0.5, "Ariana Grande": 1, "Dua Lipa": 0.8, "Billie Eilish": 0.2, "Beyoncé": 0.6, "Lady Gaga": 0.4, "Chappell Roan": 0.7, "Charli XCX": 0.3, "Sabrina Carpenter": 0.6 } },
+                { "text": "Ficar invisível 👻", "points": { "Taylor Swift": 0.2, "Ariana Grande": 0.8, "Dua Lipa": 1, "Billie Eilish": 0.5, "Beyoncé": 0.4, "Lady Gaga": 0.6, "Chappell Roan": 0.3, "Charli XCX": 0.7, "Sabrina Carpenter": 0.8 } },
+                { "text": "Teletransporte 🚀", "points": { "Taylor Swift": 0.8, "Ariana Grande": 0.2, "Dua Lipa": 0.5, "Billie Eilish": 1, "Beyoncé": 0.7, "Lady Gaga": 0.3, "Chappell Roan": 0.6, "Charli XCX": 0.4, "Sabrina Carpenter": 0.2 } }
+            ]
+        },
+        {
+            "question": "Você prefere trabalhar em equipe ou sozinho?",
+            "answers": [
+                { "text": "Em equipe 🤝", "points": { "Taylor Swift": 1, "Ariana Grande": 0.5, "Dua Lipa": 0.2, "Billie Eilish": 0.8, "Beyoncé": 0.3, "Lady Gaga": 0.7, "Chappell Roan": 0.4, "Charli XCX": 0.6, "Sabrina Carpenter": 0.5 } },
+                { "text": "Sozinho 🧑‍💻", "points": { "Taylor Swift": 0.5, "Ariana Grande": 1, "Dua Lipa": 0.8, "Billie Eilish": 0.2, "Beyoncé": 0.6, "Lady Gaga": 0.4, "Chappell Roan": 0.7, "Charli XCX": 0.3, "Sabrina Carpenter": 0.6 } }
+            ]
+        },
+        {
+            "question": "Você é mais introvertido ou extrovertido?",
+            "answers": [
+                { "text": "Introvertido 😌", "points": { "Taylor Swift": 1, "Ariana Grande": 0.5, "Dua Lipa": 0.2, "Billie Eilish": 0.8, "Beyoncé": 0.3, "Lady Gaga": 0.7, "Chappell Roan": 0.4, "Charli XCX": 0.6, "Sabrina Carpenter": 0.5 } },
+                { "text": "Extrovertido 😄", "points": { "Taylor Swift": 0.5, "Ariana Grande": 1, "Dua Lipa": 0.8, "Billie Eilish": 0.2, "Beyoncé": 0.6, "Lady Gaga": 0.4, "Chappell Roan": 0.7, "Charli XCX": 0.3, "Sabrina Carpenter": 0.6 } }
+            ]
+        },
+        {
+            "question": "Se você tivesse a oportunidade de passar um dia com uma das seguintes figuras históricas, quem escolheria e por quê?",
+            "answers": [
+                { "text": "Leonardo da Vinci para explorar a genialidade multifacetada dele 🎨🛠️", "points": { "Taylor Swift": 1, "Ariana Grande": 0.5, "Dua Lipa": 0.2, "Billie Eilish": 0.8, "Beyoncé": 0.3, "Lady Gaga": 0.7, "Chappell Roan": 0.4, "Charli XCX": 0.6, "Sabrina Carpenter": 0.5 } },
+                { "text": "Marie Curie para discutir avanços científicos e a perseverança dela 🧪🔬", "points": { "Taylor Swift": 0.5, "Ariana Grande": 1, "Dua Lipa": 0.8, "Billie Eilish": 0.2, "Beyoncé": 0.6, "Lady Gaga": 0.4, "Chappell Roan": 0.7, "Charli XCX": 0.3, "Sabrina Carpenter": 0.6 } },
+                { "text": "Frida Kahlo para entender a dor e a beleza expressas na arte dela 🎨🌺", "points": { "Taylor Swift": 0.2, "Ariana Grande": 0.8, "Dua Lipa": 1, "Billie Eilish": 0.5, "Beyoncé": 0.4, "Lady Gaga": 0.6, "Chappell Roan": 0.3, "Charli XCX": 0.7, "Sabrina Carpenter": 0.8 } },
+                { "text": "Nelson Mandela para aprender sobre a luta pela justiça e igualdade 🕊️✊", "points": { "Taylor Swift": 0.8, "Ariana Grande": 0.2, "Dua Lipa": 0.5, "Billie Eilish": 1, "Beyoncé": 0.7, "Lady Gaga": 0.3, "Chappell Roan": 0.6, "Charli XCX": 0.4, "Sabrina Carpenter": 0.2 } }
+            ]
+        },
+        {
+            "question": "Se você estivesse em um reality show e tivesse que fazer uma escolha moral difícil, qual das seguintes opções você escolheria?",
+            "answers": [
+                { "text": "Trair um amigo para ganhar um prêmio em dinheiro significativo 💰💔", "points": { "Taylor Swift": 1, "Ariana Grande": 0.5, "Dua Lipa": 0.2, "Billie Eilish": 0.8, "Beyoncé": 0.3, "Lady Gaga": 0.7, "Chappell Roan": 0.4, "Charli XCX": 0.6, "Sabrina Carpenter": 0.5 } },
+                { "text": "Revelar um segredo embaraçoso sobre você mesmo para salvar a reputação de outro competidor 🕵️‍♀️🔍", "points": { "Taylor Swift": 0.5, "Ariana Grande": 1, "Dua Lipa": 0.8, "Billie Eilish": 0.2, "Beyoncé": 0.6, "Lady Gaga": 0.4, "Chappell Roan": 0.7, "Charli XCX": 0.3, "Sabrina Carpenter": 0.6 } },
+                { "text": "Tomar uma decisão que beneficia a maioria, mas prejudica um indivíduo vulnerável 🎭⚖️", "points": { "Taylor Swift": 0.2, "Ariana Grande": 0.8, "Dua Lipa": 1, "Billie Eilish": 0.5, "Beyoncé": 0.4, "Lady Gaga": 0.6, "Chappell Roan": 0.3, "Charli XCX": 0.7, "Sabrina Carpenter": 0.8 } },
+                { "text": "Deixar o jogo e perder a chance de ganhar para manter sua integridade intacta 🏆🙏", "points": { "Taylor Swift": 0.8, "Ariana Grande": 0.2, "Dua Lipa": 0.5, "Billie Eilish": 1, "Beyoncé": 0.7, "Lady Gaga": 0.3, "Chappell Roan": 0.6, "Charli XCX": 0.4, "Sabrina Carpenter": 0.2 } }
+            ]
+        }       
+
+    ],
+    "descriptions": {
+        "Taylor Swift": {
+            "title": "Taylor Swift",
+            "emoji": "🎤",
+            "subtitle": "A Contadora de Histórias",
+            "text": "Você é como a Taylor Swift, sempre transformando experiências pessoais em músicas que tocam o coração das pessoas. Sua autenticidade e habilidade para contar histórias são incomparáveis."
+        },
+        "Ariana Grande": {
+            "title": "Ariana Grande",
+            "emoji": "🌟",
+            "subtitle": "A Estrela Carismática",
+            "text": "Você é a Ariana Grande, com um carisma contagiante e uma voz poderosa. Seu estilo único e presença magnética fazem de você uma estrela natural."
+        },
+        "Dua Lipa": {
+            "title": "Dua Lipa",
+            "emoji": "💃",
+            "subtitle": "A Diva da Pista de Dança",
+            "text": "Assim como a Dua Lipa, você adora se divertir e ser o centro das atenções na pista de dança. Seu charme e energia são irresistíveis."
+        },
+        "Billie Eilish": {
+            "title": "Billie Eilish",
+            "emoji": "🖤",
+            "subtitle": "A Rebelde Autêntica",
+            "text": "Você se parece com a Billie Eilish, sempre desafiando normas e expressando sua individualidade. Sua autenticidade e ousadia são suas marcas registradas."
+        },
+        "Beyoncé": {
+            "title": "Beyoncé",
+            "emoji": "👑",
+            "subtitle": "A Rainha Inquestionável",
+            "text": "Você é como a Beyoncé, com uma presença majestosa e uma habilidade inata para liderar e inspirar. Sua força e elegância são inigualáveis."
+        },
+        "Lady Gaga": {
+            "title": "Lady Gaga",
+            "emoji": "🎭",
+            "subtitle": "A Visionária Artística",
+            "text": "Você é a Lady Gaga, sempre inovadora e desafiando expectativas. Sua criatividade e talento são fora do comum, e você adora surpreender a todos."
+        },
+        "Chappell Roan": {
+            "title": "Chappell Roan",
+            "emoji": "🌸",
+            "subtitle": "A Poeta Melancólica",
+            "text": "Você é como a Chappell Roan, com uma sensibilidade profunda e uma capacidade de expressar emoções através da música. Sua autenticidade e melancolia são cativantes."
+        },
+        "Charli XCX": {
+            "title": "Charli XCX",
+            "emoji": "🚀",
+            "subtitle": "A Pioneira Futurista",
+            "text": "Assim como a Charli XCX, você está sempre à frente do seu tempo, experimentando com novos sons e tendências. Sua ousadia e inovação são sua marca registrada."
+        },
+        "Sabrina Carpenter": {
+            "title": "Sabrina Carpenter",
+            "emoji": "🌟",
+            "subtitle": "A Estrela Multitalentosa",
+            "text": "Você se parece com a Sabrina Carpenter, com um talento multifacetado e uma energia contagiante. Sua versatilidade e carisma fazem de você uma verdadeira estrela."
+        }
+    }
+}
