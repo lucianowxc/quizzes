@@ -5,8 +5,14 @@ let currentPage = 1;
 const quizzesPerPage = 14;
 
 document.addEventListener('DOMContentLoaded', () => {
-    loadQuizList();
-    document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
+    const urlParams = new URLSearchParams(window.location.search);
+    const quizFile = urlParams.get('quiz');
+    if (quizFile) {
+        loadQuizFromPost(quizFile);
+    } else {
+        loadQuizList();
+        document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
+    }
 });
 
 async function loadQuizList() {
@@ -190,4 +196,53 @@ function shareResult(resultTitle, resultEmoji) {
     navigator.clipboard.writeText(shareText).then(() => {
         alert('Resultado copiado para a área de transferência!');
     });
+}
+
+function openSuggestionBox() {
+    const overlay = document.createElement('div');
+    overlay.className = 'overlay';
+    document.body.appendChild(overlay);
+
+    const suggestionBox = document.createElement('div');
+    suggestionBox.className = 'suggestion-box';
+    suggestionBox.innerHTML = `
+        <h2>Envie suas sugestões de quiz</h2>
+        <textarea placeholder="Digite sua sugestão de quiz aqui...">Tema do Quiz:\nTamanho do Quiz:\n- Número de perguntas:\n- Número médio de alternativas por pergunta:\n- Número de Resultados Diferentes:\nComplexidade:\nAleatoriedade:\nNível de Atrevimento:\nTemas Visuais:\nDesafios:</textarea>
+        <input type="file" id="suggestion-file-input" accept=".json" aria-label="Carregar quiz do arquivo">
+        <button onclick="sendSuggestion()">Enviar</button>
+        <button class="close-button" onclick="closeSuggestionBox()">Fechar</button>
+    `;
+    document.body.appendChild(suggestionBox);
+}
+
+function closeSuggestionBox() {
+    const overlay = document.querySelector('.overlay');
+    const suggestionBox = document.querySelector('.suggestion-box');
+    if (overlay) overlay.remove();
+    if (suggestionBox) suggestionBox.remove();
+}
+
+function sendSuggestion() {
+    const email = 'luciano.wxc@gmail.com';
+    const subject = 'Sugestão de Quiz';
+    const body = document.querySelector('.suggestion-box textarea').value;
+    const fileInput = document.getElementById('suggestion-file-input');
+    const file = fileInput.files[0];
+
+    if (body || file) {
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function(event) {
+                const fileContent = event.target.result;
+                window.location.href = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}&attachment=${encodeURIComponent(fileContent)}`;
+                closeSuggestionBox();
+            };
+            reader.readAsText(file);
+        } else {
+            window.location.href = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+            closeSuggestionBox();
+        }
+    } else {
+        alert('Por favor, digite sua sugestão ou selecione um arquivo JSON.');
+    }
 }
