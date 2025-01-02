@@ -184,7 +184,9 @@ function shareQuiz(quizFile) {
 }
 
 function shareResult(resultTitle, resultEmoji) {
-    const shareText = `Eu fiz o quiz e sou ${resultTitle} ${resultEmoji}! Faça o quiz também: ${window.location.href}`;
+    const url = new URL(window.location.href);
+    const quizFile = url.searchParams.get('quiz');
+    const shareText = `Eu fiz o quiz e sou ${resultTitle} ${resultEmoji}! Faça o quiz também: ${url.origin}${url.pathname}?quiz=${quizFile}`;
     navigator.clipboard.writeText(shareText).then(() => {
         alert('Resultado copiado para a área de transferência!');
     });
