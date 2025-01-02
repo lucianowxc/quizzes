@@ -129,7 +129,11 @@
           "name": "Qual Gossip Girl Você Seria?",
           "file": "quizzes/quizGossipGirl.json",
           "description": "Descubra qual personagem feminina de Gossip Girl mais se parece com você!"
+        },
+        { 
+            "name": "Com qual cantora pop você mais se identifica?", 
+            "file": "quizzes/quizCantorasPop.json",
+            "description": "Descubra com qual cantora pop você mais se identifica!"
         }
-
     ]
 }
