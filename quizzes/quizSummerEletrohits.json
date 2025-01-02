@@ -1,0 +1,175 @@
+{
+  "title": "Qual dessas músicas Summer Eletrohits mais combina com a sua personalidade?",
+  "questions": [
+    {
+      "question": "Qual é a sua atividade favorita no verão?",
+      "answers": [
+        { "text": "Ir à praia 🏖️", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
+        { "text": "Fazer churrasco 🍖", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
+        { "text": "Viajar ✈️", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
+        { "text": "Ficar em casa relaxando 🛋️", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua bebida preferida em uma festa?",
+      "answers": [
+        { "text": "Refrigerante 🥤", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
+        { "text": "Suco 🍹", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
+        { "text": "Cerveja 🍺", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
+        { "text": "Água 💧", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu estilo de dança?",
+      "answers": [
+        { "text": "Freestyle 🕺", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
+        { "text": "Dança de salão 💃", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
+        { "text": "Hip-hop 🧢", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
+        { "text": "Não gosto de dançar 🙅", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua lembrança favorita dos anos 2000?",
+      "answers": [
+        { "text": "Brincar com amigos na rua 🏃", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
+        { "text": "Assistir desenhos animados 📺", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
+        { "text": "Jogar videogame 🎮", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
+        { "text": "Ouvir música no rádio 📻", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu acessório de moda favorito?",
+      "answers": [
+        { "text": "Óculos de sol 🕶️", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
+        { "text": "Boné 🧢", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
+        { "text": "Relógio ⌚", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
+        { "text": "Pulseira 📿", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua comida preferida em um churrasco?",
+      "answers": [
+        { "text": "Picanha 🥩", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
+        { "text": "Linguiça 🌭", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
+        { "text": "Frango 🍗", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
+        { "text": "Queijo coalho 🧀", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu passatempo favorito?",
+      "answers": [
+        { "text": "Ler um livro 📚", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
+        { "text": "Assistir filmes 🎬", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
+        { "text": "Jogar videogame 🎮", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
+        { "text": "Praticar esportes 🏀", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua estação do ano favorita?",
+      "answers": [
+        { "text": "Verão ☀️", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
+        { "text": "Outono 🍂", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
+        { "text": "Inverno ❄️", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
+        { "text": "Primavera 🌸", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu gênero musical favorito?",
+      "answers": [
+        { "text": "Pop 🎤", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
+        { "text": "Rock 🎸", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
+        { "text": "Eletrônica 🎧", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
+        { "text": "Sertanejo 🎻", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu destino de viagem dos sonhos?",
+      "answers": [
+        { "text": "Paris 🗼", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
+        { "text": "Nova York 🗽", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
+        { "text": "Tóquio 🗾", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
+        { "text": "Rio de Janeiro 🏖️", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "resultado1": {
+      "title": "Kasino - Can't Get Over",
+      "emoji": "🎶",
+      "subtitle": "Você é animado e adora uma boa festa!",
+      "text": "Você é o tipo de pessoa que sempre traz energia positiva para qualquer lugar. Adora dançar e se divertir com os amigos, e uma boa música é essencial para o seu dia."
+    },
+    "resultado2": {
+      "title": "Lady Gaga - Just Dance",
+      "emoji": "💃",
+      "subtitle": "Você é o centro das atenções!",
+      "text": "Você adora ser o destaque e não tem medo de mostrar seus movimentos de dança. Sempre pronto para uma festa, você sabe como animar qualquer ambiente."
+    },
+    "resultado3": {
+      "title": "David Guetta - Love Is Gone",
+      "emoji": "❤️",
+      "subtitle": "Você é um romântico incurável!",
+      "text": "Você acredita no poder do amor e sempre busca conexões profundas. As músicas de amor são a trilha sonora perfeita para os seus momentos especiais."
+    },
+    "resultado4": {
+      "title": "Benny Benassi - Satisfaction",
+      "emoji": "🎧",
+      "subtitle": "Você é moderno e descolado!",
+      "text": "Você está sempre atualizado com as últimas tendências e adora experimentar coisas novas. A música eletrônica é a sua vibe e você sabe como aproveitar cada batida."
+    },
+    "resultado5": {
+      "title": "Gigi D'Agostino - L'Amour Toujours",
+      "emoji": "🌟",
+      "subtitle": "Você é nostálgico e sonhador!",
+      "text": "Você adora relembrar os bons tempos e sempre tem uma memória especial associada a cada música. Para você, a música é uma viagem no tempo."
+    },
+    "resultado6": {
+      "title": "Lasgo - Something",
+      "emoji": "🌈",
+      "subtitle": "Você é otimista e cheio de esperança!",
+      "text": "Você sempre vê o lado positivo das coisas e acredita que tudo vai dar certo. Sua energia contagiante inspira todos ao seu redor."
+    },
+    "resultado7": {
+      "title": "DJ Sammy - Heaven",
+      "emoji": "🌟",
+      "subtitle": "Você é sonhador e romântico!",
+      "text": "Você vive com a cabeça nas nuvens e adora sonhar acordado. Para você, a vida é uma série de momentos mágicos e inesquecíveis."
+    },
+    "resultado8": {
+      "title": "Avicii - Hey Brother",
+      "emoji": "🎸",
+      "subtitle": "Você é leal e valoriza a família!",
+      "text": "Você sempre está lá para seus amigos e familiares, oferecendo apoio e amor incondicional. A música é uma forma de celebrar esses laços especiais."
+    },
+    "resultado9": {
+      "title": "Jean Roch - Can You Feel It",
+      "emoji": "🎤",
+      "subtitle": "Você é vibrante e cheio de energia!",
+      "text": "Você adora estar no centro da ação e sempre traz uma energia contagiante para qualquer evento. A música é a sua maneira de se expressar e se conectar com os outros."
+    },
+    "resultado10": {
+      "title": "Bob Sinclar - Love Generation",
+      "emoji": "🌍",
+      "subtitle": "Você é positivo e acredita na bondade!",
+      "text": "Você acredita que o amor e a bondade podem mudar o mundo. Sua atitude positiva e otimista inspira todos ao seu redor a serem melhores."
+    },
+    "resultado11": {
+      "title": "Ida Corr - Let Me Think About It",
+      "emoji": "💭",
+      "subtitle": "Você é reflexivo e ponderado!",
+      "text": "Você gosta de pensar bem antes de tomar decisões e valoriza a reflexão. A música é uma forma de encontrar clareza e inspiração."
+    },
+    "resultado12": {
+      "title": "David Guetta - Without You",
+      "emoji": "🌟",
+      "subtitle": "Você é colaborativo e valoriza parcerias!",
+      "text": "Você acredita que as melhores coisas da vida são feitas em conjunto. A música é uma celebração das conexões e colaborações que você valoriza."
+    },
+    "resultado13": {
+      "title": "Far East Movement - Like a G6",
+      "emoji": "✈️",
+      "subtitle": "Você é moderno e adora novidades!",
+      "text": "Você está sempre em busca do novo e do excitante. A música é uma forma de expressar sua paixão por tendências e inovação."
+    }
+  }
+}
