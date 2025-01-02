@@ -114,7 +114,11 @@
           "name": "Qual mascote brasileiro você é?", 
           "file": "quizzes/quizMascotes.json",
           "description": "Descubra qual mascote brasileiro se parece com você! Será que você é o carismático Dollynho ou o influente Baianinho? Faça o quiz e descubra!"
+        },
+        {
+          "name": "Qual dessas músicas Summer Eletrohits mais combina com a sua personalidade?",
+          "file": "quizzes/quizSummerEletrohits.json",
+          "description": "Descubra qual música do Summer Eletrohits mais se parece com você!"
         }
-
     ]
 }
