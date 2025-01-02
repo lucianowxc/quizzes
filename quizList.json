@@ -119,6 +119,11 @@
           "name": "Qual dessas músicas Summer Eletrohits mais combina com a sua personalidade?",
           "file": "quizzes/quizSummerEletrohits.json",
           "description": "Descubra qual música do Summer Eletrohits mais se parece com você!"
+        },
+        {
+            "name": "Qual das três espiãs demais você é?",
+            "file": "quizzes/quizTresEspiasDemais.json",
+            "description": "Descubra qual das três espiãs demais mais se parece com você!"
         }
     ]
 }
