@@ -124,6 +124,12 @@
             "name": "Qual das três espiãs demais você é?",
             "file": "quizzes/quizTresEspiasDemais.json",
             "description": "Descubra qual das três espiãs demais mais se parece com você!"
+        },
+        {
+          "name": "Qual Gossip Girl Você Seria?",
+          "file": "quizzes/quizGossipGirl.json",
+          "description": "Descubra qual personagem feminina de Gossip Girl mais se parece com você!"
         }
+
     ]
 }
