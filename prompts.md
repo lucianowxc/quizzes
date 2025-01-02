@@ -67,6 +67,8 @@ Etapa 5:  **Criação de Perguntas e Respostas**
 
 Crie as perguntas e respostas. Inclua referências e mantenha um estilo divertido e criativo.
 Valide o resultado e gere as alterações necessárias no arquivo json (perguntas e respostas) no template passado acima com o conteúdo parcial.
+Na geração do JSON com as perguntas, se atente ao número máximo de caracteres que cabe em cada resposta e envie as perguntas de três em três.
+Nem todas as respostas precisam ter pontuação em todas as perguntas, faça de um jeito que fique bem divertido e diversificado.
 
 Etapa 6: **Verificação de Cobertura dos Resultados**
 
