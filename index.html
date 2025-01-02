@@ -28,19 +28,8 @@
         </div>
     </div>
     <div class="footer">
-        <p>Desenvolvido por: Luciano Cejnog - <a href='https://github.com/lucianowxc/quizzes'> Link do Repositório</a> - <a href="https://github.com/lucianowxc/quizzes/blob/main/prompts.md">Roteiro para criação de quiz no Copilot</a>.</p><br/>
+        <p>Desenvolvido por: Luciano Cejnog - <a href='https://github.com/lucianowxc/quizzes'> Link do Repositório</a> - <a href="https://github.com/lucianowxc/quizzes/blob/main/prompts.md">Roteiro para criação de quiz no Copilot</a>. <a onclick="openSuggestionBox()">Envie suas sugestões de quiz</a></p>
     </div>
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const urlParams = new URLSearchParams(window.location.search);
-            const quizFile = urlParams.get('quiz');
-            if (quizFile) {
-                loadQuizFromPost(quizFile);
-            } else {
-                loadQuizList();
-                document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
-            }
-        });
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
