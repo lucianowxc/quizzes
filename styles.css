@@ -307,10 +307,15 @@ select {
     font-size: 10px;
     padding: 0;
     margin-left: 5px;
+    text-decoration: underline;
 }
 
 .div.footer button:focus {
     outline: none;
+}
+
+.div.footer button:hover {
+    color: #333;
 }
 
 .div.footer.show-text p {
@@ -319,4 +324,84 @@ select {
 
 .div.footer.show-text button {
     display: none;
+}
+
+.suggestion-box {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1000;
+    width: 90%;
+    max-width: 400px;
+    text-align: center;
+}
+
+.suggestion-box h2 {
+    margin-top: 0;
+    font-size: 20px;
+    color: var(--font-color);
+}
+
+.suggestion-box textarea {
+    width: 100%;
+    height: 150px; /* Increase height for better readability */
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 14px; /* Adjust font size for better readability */
+    border: 1px solid var(--input-border-color);
+    border-radius: 5px;
+    box-sizing: border-box;
+    resize: vertical; /* Allow vertical resizing */
+}
+
+.suggestion-box button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: var(--button-background);
+    color: var(--button-font-color);
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.suggestion-box button:hover {
+    background-color: var(--button-hover-background);
+}
+
+.suggestion-box .close-button {
+    background-color: #ccc;
+    color: #333;
+}
+
+.suggestion-box .close-button:hover {
+    background-color: #999;
+}
+
+.suggestion-box input[type="file"] {
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid var(--input-border-color);
+    background-color: var(--input-background-color);
+    color: var(--input-font-color);
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999;
 }
