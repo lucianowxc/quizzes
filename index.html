@@ -30,5 +30,17 @@
     <div class="footer">
         <p>Desenvolvido por: Luciano Cejnog - <a href='https://github.com/lucianowxc/quizzes'> Link do Repositório</a> - <a href="https://github.com/lucianowxc/quizzes/blob/main/prompts.md">Roteiro para criação de quiz no Copilot</a>.</p><br/>
     </div>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const quizFile = urlParams.get('quiz');
+            if (quizFile) {
+                loadQuizFromPost(quizFile);
+            } else {
+                loadQuizList();
+                document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
+            }
+        });
+    </script>
 </body>
 </html>
