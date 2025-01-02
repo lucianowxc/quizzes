@@ -34,7 +34,10 @@ function displayQuizzes() {
         post.innerHTML = `
             <h3>${quiz.name}</h3>
             <p>${quiz.description}</p>
-            <button onclick="loadQuizFromPost('${quiz.file}')">Começar Quiz</button>
+            <div>
+                <button onclick="loadQuizFromPost('${quiz.file}')">Começar Quiz</button>
+                <button class="share-button" onclick="shareQuiz('${quiz.file}')">🔗</button>
+            </div>
         `;
         quizPostsContainer.appendChild(post);
     });
@@ -150,6 +153,7 @@ function showResult() {
         <p>${text}</p>
         <button onclick="restartQuiz()">Recomeçar</button>
         <button class="return-button" onclick="returnToQuizSelection()">Voltar à Seleção de Quiz</button>
+        <button class="share-button" onclick="shareResult('${title}', '${emoji}')">🔗</button>
     `;
 }
 
@@ -164,4 +168,24 @@ function returnToQuizSelection() {
     document.getElementById('quiz').innerHTML = '';
     displayQuizzes();
     document.getElementById('quiz-posts').classList.remove('hidden'); // Show quiz posts
+}
+
+function generateShareLink(quizFile) {
+    const url = new URL(window.location.href);
+    url.searchParams.set('quiz', quizFile);
+    return url.toString();
+}
+
+function shareQuiz(quizFile) {
+    const shareLink = generateShareLink(quizFile);
+    navigator.clipboard.writeText(shareLink).then(() => {
+        alert('Link do quiz copiado para a área de transferência!');
+    });
+}
+
+function shareResult(resultTitle, resultEmoji) {
+    const shareText = `Eu fiz o quiz e sou ${resultTitle} ${resultEmoji}! Faça o quiz também: ${window.location.href}`;
+    navigator.clipboard.writeText(shareText).then(() => {
+        alert('Resultado copiado para a área de transferência!');
+    });
 }
