@@ -56,7 +56,7 @@
       ]
     }
   ],
-  "results": [
+  "descriptions": [
     { "name": "Python", "description": "Você é flexível e pode resolver problemas de forma rápida e simples, sem perder a elegância.", "subtitle": "O mestre da simplicidade e agilidade.", "emoji": "🐍" },
     { "name": "JavaScript", "description": "Você é criativo, adaptável e não tem medo de mudar o rumo das coisas quando necessário.", "subtitle": "O criador de soluções imprevisíveis.", "emoji": "⚡" },
     { "name": "C", "description": "Você é eficiente e sempre pensa em como melhorar a performance e controlar o processo.", "subtitle": "O especialista em controle e performance.", "emoji": "💻" },
