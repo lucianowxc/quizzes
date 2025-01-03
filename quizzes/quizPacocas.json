@@ -1,0 +1,306 @@
+{
+    "title": "Qual paçoca você é?",
+    "questions": [
+        {
+            "question": "O que você faz quando alguém pede um favor de última hora?",
+            "answers": [
+                {
+                    "text": "Faço sem reclamar, mas torço para nunca mais pedirem. 🤮",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado7": 0.6,
+                        "resultado2": 0.4
+                    }
+                },
+                {
+                    "text": "Ajudo, mas lembro a pessoa de se organizar melhor. ✋",
+                    "points": {
+                        "resultado3": 0.9,
+                        "resultado4": 0.7
+                    }
+                },
+                {
+                    "text": "Faço um favor e ainda faço questão de dizer que sou incrível. 😎",
+                    "points": {
+                        "resultado6": 0.8,
+                        "resultado5": 0.5
+                    }
+                },
+                {
+                    "text": "Ignoro e finjo que nem vi. 🙈",
+                    "points": {
+                        "resultado7": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você está num evento chique e tem que se servir. Como você age?",
+            "answers": [
+                {
+                    "text": "Faço um pratinho simples e discreto. 🍽️",
+                    "points": {
+                        "resultado5": 0.9,
+                        "resultado3": 0.7
+                    }
+                },
+                {
+                    "text": "Encho o prato de tudo que posso. Paguei, vou aproveitar! 🍔",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado6": 0.8
+                    }
+                },
+                {
+                    "text": "Sirvo pouco, mas coloco coisas exóticas só para parecer elegante. 🌟",
+                    "points": {
+                        "resultado4": 1
+                    }
+                },
+                {
+                    "text": "Só belisco e fico olhando o buffet alheio. 👀",
+                    "points": {
+                        "resultado7": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você tem que montar um móvel que veio com manual confuso. O que faz?",
+            "answers": [
+                {
+                    "text": "Sigo o manual à risca, sem atalhos. 🔧",
+                    "points": {
+                        "resultado3": 1,
+                        "resultado5": 0.6
+                    }
+                },
+                {
+                    "text": "Olho as figuras e improviso o resto. 🤖",
+                    "points": {
+                        "resultado7": 1,
+                        "resultado2": 0.7
+                    }
+                },
+                {
+                    "text": "Largo e deixo alguém mais habilidoso montar. 😴",
+                    "points": {
+                        "resultado1": 0.7,
+                        "resultado4": 0.5
+                    }
+                },
+                {
+                    "text": "Monto e ainda decoro o móvel do meu jeito. 🎨",
+                    "points": {
+                        "resultado6": 0.9,
+                        "resultado4": 0.8
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Como você reage quando vê alguém esfarelando paçoca em cima do sorvete?",
+            "answers": [
+                {
+                    "text": "Isso é genial! Também faço isso! 🍨",
+                    "points": {
+                        "resultado6": 0.9,
+                        "resultado1": 0.7
+                    }
+                },
+                {
+                    "text": "Acho interessante, mas prefiro puro. 🧁",
+                    "points": {
+                        "resultado5": 1,
+                        "resultado3": 0.6
+                    }
+                },
+                {
+                    "text": "Sinto um leve desconforto interno. 🤯",
+                    "points": {
+                        "resultado4": 0.8,
+                        "resultado2": 0.5
+                    }
+                },
+                {
+                    "text": "Pego um guardanapo e limpo o excesso na hora. 🤔",
+                    "points": {
+                        "resultado7": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "O que você faz quando alguém quebra algo seu?",
+            "answers": [
+                {
+                    "text": "Apenas respiro fundo e deixo passar. 🥵",
+                    "points": {
+                        "resultado5": 0.9,
+                        "resultado3": 0.6
+                    }
+                },
+                {
+                    "text": "Digo que não tem problema, mas guardo rancor eterno. 😬",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado7": 0.7
+                    }
+                },
+                {
+                    "text": "Faço um discurso passivo-agressivo. 💀",
+                    "points": {
+                        "resultado4": 1,
+                        "resultado2": 0.6
+                    }
+                },
+                {
+                    "text": "Fico triste, mas uso isso como desculpa para comprar algo novo. 💸",
+                    "points": {
+                        "resultado6": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você encontra uma paçoca caída no chão. E agora?",
+            "answers": [
+                {
+                    "text": "Se caiu por menos de 5 segundos, tá valendo! 😋",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado6": 0.7
+                    }
+                },
+                {
+                    "text": "Olho em volta para ver se alguém viu e deixo lá. 👀",
+                    "points": {
+                        "resultado7": 0.9,
+                        "resultado3": 0.6
+                    }
+                },
+                {
+                    "text": "Respeito a paçoca, mas não arrisco. 🥜",
+                    "points": {
+                        "resultado5": 1,
+                        "resultado2": 0.7
+                    }
+                },
+                {
+                    "text": "Pego e ainda tento salvar o que dá. 💪",
+                    "points": {
+                        "resultado4": 0.9
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é a sua reação ao descobrir que tem uma formiga na sua paçoca?",
+            "answers": [
+                {
+                    "text": "Dou um sopro e sigo comendo. 🍃",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado6": 0.8
+                    }
+                },
+                {
+                    "text": "Descarto com dignidade, mas fico chateado. 😔",
+                    "points": {
+                        "resultado5": 1,
+                        "resultado3": 0.7
+                    }
+                },
+                {
+                    "text": "Transformo em piada e continuo a festa. 🎉",
+                    "points": {
+                        "resultado4": 0.9,
+                        "resultado7": 0.7
+                    }
+                },
+                {
+                    "text": "Entro em modo pânico. 🚨",
+                    "points": {
+                        "resultado2": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você tem uma paçoca sobrando. O que faz com ela?",
+            "answers": [
+                {
+                    "text": "Guardo como ouro. ⚱️",
+                    "points": {
+                        "resultado5": 1,
+                        "resultado3": 0.8
+                    }
+                },
+                {
+                    "text": "Divido com alguém. ❤️",
+                    "points": {
+                        "resultado4": 1,
+                        "resultado6": 0.7
+                    }
+                },
+                {
+                    "text": "Como tudo de uma vez só. 🐷",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado7": 0.6
+                    }
+                },
+                {
+                    "text": "Deixo esquecida na gaveta. 😅",
+                    "points": {
+                        "resultado2": 1
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "Paçoca Rolha",
+            "emoji": "🧈",
+            "subtitle": "Pequena, compacta, mas poderosa",
+            "text": "Você é aquela pessoa que parece tranquila, mas quando menos esperam, você está deixando tudo engasgado. Ninguém te subestima, porque sabem que um simples gole d'água pode ser a diferença entre sobreviver ou não. Forte, direta, e sem firulas – você não precisa de embalagem bonita para fazer impacto."
+        },
+        "resultado2": {
+            "title": "Paçoca Quadrada",
+            "emoji": "🌟",
+            "subtitle": "Clássica, sem erro",
+            "text": "O básico bem feito. Você é prático, sem tempo para invencionices. É aquele amigo confiável que sempre está por perto, mas não espere muita extravagância. Quando querem algo que nunca decepciona, lá está você – retangular, consistente e cheio de sabor (de vez em quando, um pouco esfarelado nas bordas)."
+        },
+        "resultado3": {
+            "title": "Paçoca Retangular",
+            "emoji": "🏠",
+            "subtitle": "Sóbrio e estruturado",
+            "text": "Você gosta de seguir o manual e não entende por que os outros complicam tanto as coisas. Um verdadeiro pilar na vida das pessoas. Pode até não ser o mais empolgante da prateleira, mas quem precisa de confetes quando você é a base de tudo? E vamos combinar, se te pressionam demais, você não hesita em se despedaçar dramaticamente."
+        },
+        "resultado4": {
+            "title": "Paçoca Artesanal",
+            "emoji": "🌱",
+            "subtitle": "Gourmet, mas com alma de raiz",
+            "text": "Você é diferenciado. Provavelmente chega em potinhos de vidro, com etiqueta escrita à mão. Gosta de fazer as coisas com calma e odeia quando te comparam com as versões industrializadas. Suas opiniões são elaboradas, e você já pensou seriamente em abrir um café descolado com paletes de madeira."
+        },
+        "resultado5": {
+            "title": "Paçoca Light",
+            "emoji": "💡",
+            "subtitle": "Leve, mas julgada",
+            "text": "Você tenta ser saudável e até consegue, mas ninguém está realmente feliz com essa decisão. Sempre tem aquele \"é bom... mas não é a mesma coisa\" rolando por aí. Porém, você segue firme, fiel à sua escolha e nem liga para os olhares de desaprovação."
+        },
+        "resultado6": {
+            "title": "Paçoca de Chocolate",
+            "emoji": "🍫",
+            "subtitle": "Doce extra, mas polêmica",
+            "text": "Você é aquela pessoa que não consegue deixar nada ser simples. Se tem como adicionar um extra, lá está você, derretendo na boca de uns e deixando outros revoltados. \"Isso ainda é paçoca?\" é uma pergunta constante na sua vida, mas você nem liga – o importante é brilhar (e grudar nos dedos alheios)."
+        },
+        "resultado7": {
+            "title": "Paçoca Esfarelada",
+            "emoji": "💨",
+            "subtitle": "Caótica, mas amada",
+            "text": "Você tenta segurar as pontas, mas não tem jeito – tudo desmorona com facilidade. E o pior? As pessoas adoram esse caos. Quem nunca tentou comer você sem derrubar metade no chão? Mesmo assim, você tem um charme especial, e todo mundo sabe que as migalhas são as melhores partes de você."
+        }
+    }
+}
