@@ -1,0 +1,121 @@
+Perfeito! Vamos começar gerando o JSON com as respostas e pontuações para as perguntas que já criamos. Aqui está o JSON parcial com as respostas:
+
+```json
+{
+  "title": "Que musical você seria?",
+  "questions": [
+    {
+      "question": "Qual é a sua atividade favorita em um dia de folga?",
+      "answers": [
+        { "text": "Assistir a um musical 🎭", "points": { "Hamilton": 0.8, "O Fantasma da Ópera": 0.7, "Cats": 0.6, "Wicked": 0.5, "Les Misérables": 0.4, "Mamma Mia!": 0.3, "Rent": 0.2, "Frozen": 0.7, "Rocky Horror Picture Show": 0.5 } },
+        { "text": "Sair com amigos 🌞", "points": { "Hamilton": 0.3, "O Fantasma da Ópera": 0.2, "Cats": 0.4, "Wicked": 0.5, "Les Misérables": 0.6, "Mamma Mia!": 0.8, "Rent": 0.7, "Frozen": 0.4, "Rocky Horror Picture Show": 0.6 } },
+        { "text": "Ler um livro 📚", "points": { "Hamilton": 0.5, "O Fantasma da Ópera": 0.8, "Cats": 0.3, "Wicked": 0.6, "Les Misérables": 0.7, "Mamma Mia!": 0.2, "Rent": 0.4, "Frozen": 0.6, "Rocky Horror Picture Show": 0.3 } },
+        { "text": "Praticar um hobby 🎨", "points": { "Hamilton": 0.6, "O Fantasma da Ópera": 0.4, "Cats": 0.7, "Wicked": 0.3, "Les Misérables": 0.2, "Mamma Mia!": 0.5, "Rent": 0.8, "Frozen": 0.3, "Rocky Horror Picture Show": 0.4 } }
+      ]
+    },
+    {
+      "question": "Você prefere trabalhar em equipe ou sozinho?",
+      "answers": [
+        { "text": "Em equipe 👥", "points": { "Hamilton": 0.7, "O Fantasma da Ópera": 0.3, "Cats": 0.5, "Wicked": 0.6, "Les Misérables": 0.8, "Mamma Mia!": 0.4, "Rent": 0.2, "Frozen": 0.5, "Rocky Horror Picture Show": 0.4 } },
+        { "text": "Sozinho 🧑‍💻", "points": { "Hamilton": 0.3, "O Fantasma da Ópera": 0.8, "Cats": 0.4, "Wicked": 0.5, "Les Misérables": 0.2, "Mamma Mia!": 0.6, "Rent": 0.7, "Frozen": 0.4, "Rocky Horror Picture Show": 0.6 } }
+      ]
+    },
+    {
+      "question": "Qual dessas qualidades você mais valoriza em um amigo?",
+      "answers": [
+        { "text": "Lealdade 🤝", "points": { "Hamilton": 0.6, "O Fantasma da Ópera": 0.5, "Cats": 0.4, "Wicked": 0.7, "Les Misérables": 0.8, "Mamma Mia!": 0.3, "Rent": 0.2, "Frozen": 0.4, "Rocky Horror Picture Show": 0.5 } },
+        { "text": "Criatividade 🎨", "points": { "Hamilton": 0.8, "O Fantasma da Ópera": 0.4, "Cats": 0.6, "Wicked": 0.5, "Les Misérables": 0.3, "Mamma Mia!": 0.7, "Rent": 0.2, "Frozen": 0.5, "Rocky Horror Picture Show": 0.6 } },
+        { "text": "Senso de humor 😂", "points": { "Hamilton": 0.3, "O Fantasma da Ópera": 0.2, "Cats": 0.5, "Wicked": 0.4, "Les Misérables": 0.6, "Mamma Mia!": 0.8, "Rent": 0.7, "Frozen": 0.4, "Rocky Horror Picture Show": 0.7 } },
+        { "text": "Empatia 💖", "points": { "Hamilton": 0.5, "O Fantasma da Ópera": 0.7, "Cats": 0.3, "Wicked": 0.6, "Les Misérables": 0.4, "Mamma Mia!": 0.2, "Rent": 0.8, "Frozen": 0.6, "Rocky Horror Picture Show": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu gênero musical favorito?",
+      "answers": [
+        { "text": "Pop 🎤", "points": { "Hamilton": 0.7, "O Fantasma da Ópera": 0.3, "Cats": 0.4, "Wicked": 0.5, "Les Misérables": 0.2, "Mamma Mia!": 0.8, "Rent": 0.6, "Frozen": 0.7, "Rocky Horror Picture Show": 0.5 } },
+        { "text": "Rock 🎸", "points": { "Hamilton": 0.4, "O Fantasma da Ópera": 0.5, "Cats": 0.3, "Wicked": 0.6, "Les Misérables": 0.2, "Mamma Mia!": 0.3, "Rent": 0.8, "Frozen": 0.4, "Rocky Horror Picture Show": 0.7 } },
+        { "text": "Clássico 🎻", "points": { "Hamilton": 0.3, "O Fantasma da Ópera": 0.8, "Cats": 0.5, "Wicked": 0.4, "Les Misérables": 0.7, "Mamma Mia!": 0.2, "Rent": 0.3, "Frozen": 0.6, "Rocky Horror Picture Show": 0.4 } },
+        { "text": "Jazz 🎷", "points": { "Hamilton": 0.6, "O Fantasma da Ópera": 0.4, "Cats": 0.7, "Wicked": 0.3, "Les Misérables": 0.5, "Mamma Mia!": 0.4, "Rent": 0.2, "Frozen": 0.3, "Rocky Horror Picture Show": 0.6 } }
+      ]
+    },
+    {
+      "question": "Você prefere aventuras ao ar livre ou atividades em ambientes fechados?",
+      "answers": [
+        { "text": "Ao ar livre 🌳", "points": { "Hamilton": 0.6, "O Fantasma da Ópera": 0.3, "Cats": 0.5, "Wicked": 0.4, "Les Misérables": 0.2, "Mamma Mia!": 0.7, "Rent": 0.6, "Frozen": 0.8, "Rocky Horror Picture Show": 0.4 } },
+        { "text": "Em ambientes fechados 🏠", "points": { "Hamilton": 0.4, "O Fantasma da Ópera": 0.7, "Cats": 0.3, "Wicked": 0.6, "Les Misérables": 0.5, "Mamma Mia!": 0.3, "Rent": 0.4, "Frozen": 0.2, "Rocky Horror Picture Show": 0.6 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua estação do ano favorita?",
+      "answers": [
+        { "text": "Verão ☀️", "points": { "Hamilton": 0.7, "O Fantasma da Ópera": 0.3, "Cats": 0.4, "Wicked": 0.5, "Les Misérables": 0.2, "Mamma Mia!": 0.8, "Rent": 0.6, "Frozen": 0.2, "Rocky Horror Picture Show": 0.5 } },
+        { "text": "Inverno ❄️", "points": { "Hamilton": 0.3, "O Fantasma da Ópera": 0.5, "Cats": 0.6, "Wicked": 0.4, "Les Misérables": 0.7, "Mamma Mia!": 0.2, "Rent": 0.3, "Frozen": 0.8, "Rocky Horror Picture Show": 0.4 } },
+        { "text": "Primavera 🌸", "points": { "Hamilton": 0.5, "O Fantasma da Ópera": 0.4, "Cats": 0.7, "Wicked": 0.3, "Les Misérables": 0.6, "Mamma Mia!": 0.4, "Rent": 0.2, "Frozen": 0.3, "Rocky Horror Picture Show": 0.6 } },
+        { "text": "Outono 🍂", "points": { "Hamilton": 0.4, "O Fantasma da Ópera": 0.6, "Cats": 0.3, "Wicked": 0.7, "Les Misérables": 0.5, "Mamma Mia!": 0.3, "Rent": 0.4, "Frozen": 0.2, "Rocky Horror Picture Show": 0.5 } }
+      ]
+    },
+    {
+      "question": "Você prefere planejar tudo ou ser mais espontâneo?",
+      "answers": [
+        { "text": "Planejar tudo 📅", "points": { "Hamilton": 0.6, "O Fantasma da Ópera": 0.5, "Cats": 0.4, "Wicked": 0.7, "Les Misérables": 0.3, "Mamma Mia!": 0.2, "Rent": 0.3, "Frozen": 0.4, "Rocky Horror Picture Show": 0.5 } },
+        { "text": "Ser espontâneo 🎉", "points": { "Hamilton": 0.4, "O Fantasma da Ópera": 0.3, "Cats": 0.6, "Wicked": 0.5, "Les Misérables": 0.2, "Mamma Mia!": 0.7, "Rent": 0.8, "Frozen": 0.3, "Rocky Horror Picture Show": 0.6 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "Hamilton": {
+      "title": "Hamilton",
+      "emoji": "🎤",
+      "subtitle": "A Revolução Está em Você",
+      "text": "Você é inovador e cheio de energia. Assim como Hamilton, você está sempre buscando novas maneiras de se expressar e fazer a diferença no mundo."
+    },
+    "O Fantasma da Ópera": {
+      "title": "O Fantasma da Ópera",
+      "emoji": "🎭",
+      "subtitle": "Mistério e Paixão",
+      "text": "Você é uma alma misteriosa e apaixonada. Como o Fantasma, você tem uma profundidade emocional que poucos conseguem entender."
+    },
+    "Cats": {
+      "title": "Cats",
+      "emoji": "🐱",
+      "subtitle": "Elegância e Graça",
+      "text": "Você é elegante e gracioso. Assim como os gatos, você tem uma presença marcante e sabe como se destacar em qualquer situação."
+    },
+    "Wicked": {
+      "title": "Wicked",
+      "emoji": "🧙‍♀️",
+      "subtitle": "Desafie as Expectativas",
+      "text": "Você desafia as expectativas e não tem medo de ser diferente. Como Elphaba, você é corajoso e determinado a seguir seu próprio caminho."
+    },
+    "Les Misérables": {
+      "title": "Les Misérables",
+      "emoji": "🇫🇷",
+      "subtitle": "Luta e Esperança",
+      "text": "Você é resiliente e cheio de esperança. Assim como os personagens de Les Misérables, você acredita em um futuro melhor e está disposto a lutar por ele."
+    },
+    "Mamma Mia!": {
+      "title": "Mamma Mia!",
+      "emoji": "🌞",
+      "subtitle": "Alegria e Diversão",
+      "text": "Você é alegre e adora se divertir. Como em Mamma Mia!, você traz luz e felicidade para todos ao seu redor."
+    },
+    "Rent": {
+      "title": "Rent",
+      "emoji": "🎸",
+      "subtitle": "Viva o Momento",
+      "text": "Você vive intensamente e valoriza cada momento. Assim como os personagens de Rent, você acredita em aproveitar a vida ao máximo."
+    },
+    "Frozen": {
+      "title": "Frozen",
+      "emoji": "❄️",
+      "subtitle": "Liberdade e Coragem",
+      "text": "Você é corajoso e valoriza a liberdade. Assim como Elsa, você não tem medo de ser quem realmente é e enfrentar desafios de frente."
+    },
+    "Rocky Horror Picture Show": {
+      "title": "Rocky Horror Picture Show",
+      "emoji": "👄",
+      "subtitle": "Excêntrico e Divertido",
+      "text": "Você é excêntrico e adora se divertir. Como o Rocky Horror Picture Show, você não tem medo de ser diferente e abraça a diversão em todas as suas formas."
+    }
+  }
+}
