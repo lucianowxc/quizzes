@@ -1,0 +1,115 @@
+{
+  "title": "Qual papa controverso da Igreja Católica você seria?",
+  "questions": [
+    {
+      "question": "Qual a sua opinião sobre 'compromissos' que envolvem interesses pessoais?",
+      "answers": [
+        { "text": "Melhor ser sincero, mas quem se importa? Se você não está ganhando, está perdendo. 💸", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+        { "text": "A ética é para os fracos. O que importa é a vantagem que você pode tirar disso. 🏆", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+        { "text": "Todos são corruptos no fundo, então por que não aproveitar a chance? 😈", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+        { "text": "O melhor é fingir que tudo está bem, enquanto você lucra por trás. Quem vai notar? 🤷‍♂️", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+      ]
+    },
+    {
+      "question": "Quando a Igreja toma uma posição controversa, qual é sua reação?",
+      "answers": [
+        { "text": "Fico lá pensando: 'Bem, a moral é só um conceito abstrato.' 🤔", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+        { "text": "Deixe-os falar! Quanto mais escândalo, mais atenção. 💥", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+        { "text": "Quem precisa de paz quando se pode ter poder e influência? 🔥", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+        { "text": "Bem, se eles não estão fazendo nada de errado, quem sou eu para questionar? 🕊️", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+      ]
+    },
+    {
+      "question": "Como você se sente sobre lidar com pessoas que discordam de você em questões importantes?",
+      "answers": [
+        { "text": "Simples, excomungo todo mundo. Não sou um fanático, só pragmático. 🔨", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+        { "text": "As pessoas só têm duas opções: concordar comigo ou se calar. 👑", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+        { "text": "Se discordar é uma heresia, então queima na fogueira. 🔥", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+        { "text": "Discordar é normal. Mas sinceramente, não tenho paciência para quem não acompanha meu raciocínio. 💀", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+      ]
+    },
+    {
+      "question": "Você acredita que o poder e a moral andam juntos ou são conceitos incompatíveis?",
+      "answers": [
+        { "text": "Moral é algo que você usa como desculpa para não tomar a decisão certa. 🤷‍♂️", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+        { "text": "Poder e moral são só palavras bonitas. No final, o que importa é o que você ganha com isso. 💸", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+        { "text": "Se a moral impede você de conquistar o que deseja, então a moral que se dane. 🔥", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+        { "text": "Quem diz que o poder é imoral claramente não entendeu nada sobre a vida. 👑", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+      ]
+    },
+    {
+      "question": "Qual é sua posição sobre agir por interesses pessoais, mesmo que isso prejudique os outros?",
+      "answers": [
+        { "text": "Quem não se dá bem com isso, que se dane! Estou aqui para garantir o meu. 🔓", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+        { "text": "Se for para ganhar alguma coisa, qualquer um pode ser prejudicado. 🤷‍♂️", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+        { "text": "Interesses pessoais acima de tudo, é claro. Não é como se a moral fosse relevante! 💀", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+        { "text": "Só não seja óbvio demais. Isso sempre arruma encrenca. 👀", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+      ]
+    },
+    {
+      "question": "Se você tivesse que escolher entre ser adorado ou temido, qual seria sua escolha?",
+      "answers": [
+        { "text": "Eu escolho ser temido. Afinal, quem não tem medo de mim, não merece minha adoração. 😈", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6 } },
+        { "text": "Adoração é para os fracos. O respeito vem do poder, o resto é superficial. ⚡", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3 } },
+        { "text": "Por que escolher? Eu serei as duas coisas, só que de forma disfarçada. 🎭", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7 } },
+        { "text": "Eu seria adorável… até que alguém fizesse algo para me contrariar. Então, quem sabe o que acontece? 👑", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "resultado1": {
+      "title": "Papa Alexandre VI (Rodrigo Borgia)",
+      "emoji": "👑",
+      "subtitle": "O Papa do Nepotismo",
+      "text": "Você tem uma habilidade impressionante para fazer alianças, mesmo que elas envolvam corrupção, traições e escândalos familiares. Se a ética fosse algo opcional, você seria a definição de 'desprezo por tudo que é sagrado'. No fundo, você sabe que o poder é mais importante que a moral."
+    },
+    "resultado2": {
+      "title": "Papa Júlio II",
+      "emoji": "⚔️",
+      "subtitle": "O Guerreiro de Deus",
+      "text": "Com uma espada em uma mão e uma indulgência na outra, você não hesita em usar a violência para alcançar seus objetivos. A arte e a arquitetura são belas, mas um pouco de guerra para garantir a supremacia nunca fez mal a ninguém, certo? A Igreja nunca teve um líder tão… ardente."
+    },
+    "resultado3": {
+      "title": "Papa Leão X",
+      "emoji": "💰",
+      "subtitle": "O Papa do Luxo",
+      "text": "Você tem uma queda por festas, indulgências e um amor incondicional pelo ouro. As preocupações espirituais? Bem, eles podem esperar. Entre um bom vinho e uma extravagância, você sabe como mostrar que a Igreja não está ali apenas para salvar almas, mas para enriquecer um pouquinho também."
+    },
+    "resultado4": {
+      "title": "Papa Pio XII",
+      "emoji": "🕊️",
+      "subtitle": "O Papa Silencioso",
+      "text": "Enquanto o mundo fervia durante a Segunda Guerra Mundial, você estava ocupado em não fazer nada. Às vezes, é melhor não interferir, não é? Quando se trata de tomar uma posição, você sabe como evitar controvérsias… mesmo que o preço seja milhares de vidas humanas."
+    },
+    "resultado5": {
+      "title": "Papa Bonifácio VIII",
+      "emoji": "🔥",
+      "subtitle": "O Papa Excomungador",
+      "text": "Se há algo que você adora, é uma boa excomunhão. Seu estilo de liderança envolve mandar todos que discordam para o inferno (literalmente). Ao invés de dialogar, você prefere usar a autoridade papal como um martelo para esmagar qualquer oposição."
+    },
+    "resultado6": {
+      "title": "Papa Clemente VII",
+      "emoji": "🎭",
+      "subtitle": "O Papa do Drama",
+      "text": "Nada diz 'drama' como você. Seus jogos políticos e sua incapacidade de tomar decisões claras geraram sérios danos à Igreja. Você é mestre em criar crises, seja no palco da política ou nos bastidores da religião. Quem não gosta de um pouco de suspense, não é?"
+    },
+    "resultado7": {
+      "title": "Papa Paulo IV",
+      "emoji": "🧐",
+      "subtitle": "O Papa Inquisidor",
+      "text": "Ah, o poder da censura e da pureza moral. Você sabe que a Igreja precisa de uma boa faxina, e nada melhor do que usar a Inquisição para manter tudo em ordem. Suas reformas rígidas e sua obsessão por heresias garantiram que a Igreja tivesse uma agenda bem 'limpinha'. Isso tudo sem perder a pose."
+    },
+    "resultado8": {
+      "title": "Papa Urbano VIII",
+      "emoji": "💣",
+      "subtitle": "O Papa da Guerra",
+      "text": "Como bom amante do poder, você se envolve em tudo, especialmente em conflitos e em garantir que seu nome esteja em destaque. A política da Igreja nunca foi tão ambiciosa e destrutiva quanto sob o seu reinado. Em vez de paz, o que você promoveu foi o caos."
+    },
+    "resultado9": {
+      "title": "Papa João XXIII",
+      "emoji": "✌️",
+      "subtitle": "O Papa Progressista",
+      "text": "Você entrou para a história como um papa com a habilidade de mudar as coisas. Embora as boas intenções estivessem presentes, a maneira como você lidou com questões de reformismo e modernização da Igreja gerou controvérsias. Você é o exemplo de 'tentar agradar a todos e acabar descontentando todo mundo'."
+    }
+  }
+}
