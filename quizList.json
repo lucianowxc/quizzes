@@ -154,6 +154,11 @@
           "name": "Qual Linguagem de Programação Você Seria?", 
           "file": "quizzes/quizLinguagensProgramacao.json", 
           "description": "Descubra qual linguagem de programação mais se parece com você, com dilemas existenciais e metáforas tecnológicas!"
+        },
+        {
+          "name": "Que musical você seria?",
+          "file": "quizzes/quizMusicais.json",
+          "description": "Descubra qual musical mais se parece com você!"
         }
     ]
 }
