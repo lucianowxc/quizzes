@@ -1,0 +1,194 @@
+{
+   "title": "Que personagem de The Office te representa?",
+   "questions": [
+      {
+         "question": "Quando algo dá errado, qual é a sua atitude?",
+         "answers": [
+            { "text": "Eu finjo que está tudo bem, porque é mais fácil do que admitir o fracasso.", "points": { "Michael Scott": 0.5, "Dwight Schrute": 0.2, "Jim Halpert": 0.8, "Ryan Howard": 0.7, "Meredith Palmer": 0.6, "Creed Bratton": 0.7, "Kelly Kapoor": 0.3, "Stanley Hudson": 0.5 } },
+            { "text": "Eu culpo todo mundo, menos a mim mesmo. Claro, nunca é culpa minha.", "points": { "Michael Scott": 0.3, "Dwight Schrute": 1, "Jim Halpert": 0.5, "Ryan Howard": 0.6, "Meredith Palmer": 0.7, "Creed Bratton": 0.5, "Kelly Kapoor": 0.8, "Stanley Hudson": 0.4 } },
+            { "text": "Eu ignoro e espero que o problema se resolva sozinho. Não é o meu trabalho lidar com isso.", "points": { "Michael Scott": 0.6, "Dwight Schrute": 0.3, "Jim Halpert": 0.5, "Ryan Howard": 0.8, "Meredith Palmer": 1, "Creed Bratton": 0.4, "Kelly Kapoor": 0.3, "Stanley Hudson": 0.9 } },
+            { "text": "Eu choro no banheiro e me sinto uma vítima. A vida é tão injusta...", "points": { "Michael Scott": 1, "Dwight Schrute": 0.1, "Jim Halpert": 0.3, "Ryan Howard": 0.4, "Meredith Palmer": 0.2, "Creed Bratton": 0.6, "Kelly Kapoor": 0.4, "Stanley Hudson": 0.2 } },
+            { "text": "Eu resolvo de forma que todo mundo se sinta culpado, exceto eu. E vou me gabar disso.", "points": { "Michael Scott": 0.8, "Dwight Schrute": 0.9, "Jim Halpert": 0.4, "Ryan Howard": 0.6, "Meredith Palmer": 0.5, "Creed Bratton": 0.3, "Kelly Kapoor": 1, "Stanley Hudson": 0.2 } }
+         ]
+      },
+      {
+         "question": "Você foi convidado para uma festa, mas ninguém parece se lembrar de que você existe. O que você faz?",
+         "answers": [
+            { "text": "Eu me torno a pessoa mais animada do lugar. Nada como ser o centro das atenções para curar a solidão.", "points": { "Michael Scott": 1, "Dwight Schrute": 0.7, "Jim Halpert": 0.3, "Ryan Howard": 0.6, "Meredith Palmer": 0.8, "Creed Bratton": 0.5, "Kelly Kapoor": 1, "Stanley Hudson": 0.3 } },
+            { "text": "Simples, vou ficar no canto e reclamar sobre como ninguém me nota. Eu realmente amo a atenção negativa.", "points": { "Michael Scott": 0.5, "Dwight Schrute": 0.8, "Jim Halpert": 0.4, "Ryan Howard": 0.5, "Meredith Palmer": 0.3, "Creed Bratton": 0.9, "Kelly Kapoor": 0.2, "Stanley Hudson": 0.6 } },
+            { "text": "Eu saio disfarçado e vou para um lugar mais legal. Quem precisa desses losers?", "points": { "Michael Scott": 0.4, "Dwight Schrute": 1, "Jim Halpert": 0.6, "Ryan Howard": 0.3, "Meredith Palmer": 0.2, "Creed Bratton": 0.4, "Kelly Kapoor": 0.8, "Stanley Hudson": 0.9 } },
+            { "text": "Simplesmente me afasto e finjo que estou super ocupado com coisas muito mais importantes.", "points": { "Michael Scott": 0.7, "Dwight Schrute": 0.6, "Jim Halpert": 0.5, "Ryan Howard": 0.7, "Meredith Palmer": 0.4, "Creed Bratton": 0.6, "Kelly Kapoor": 0.3, "Stanley Hudson": 1 } },
+            { "text": "Faço um dramalhão e acabo saindo como a pessoa mais interessante da festa. Alguém aí tem um pedaço de bolo?", "points": { "Michael Scott": 0.9, "Dwight Schrute": 0.3, "Jim Halpert": 0.7, "Ryan Howard": 0.6, "Meredith Palmer": 0.7, "Creed Bratton": 0.5, "Kelly Kapoor": 1, "Stanley Hudson": 0.4 } }
+         ]
+      },
+      {
+         "question": "Você acabou de perceber que esqueceu o aniversário de alguém importante. Como você se redime?",
+         "answers": [
+            { "text": "Eu compro o presente mais caro da loja. Como se dinheiro resolvesse qualquer coisa, né?", "points": { "Michael Scott": 0.6, "Dwight Schrute": 0.3, "Jim Halpert": 0.5, "Ryan Howard": 0.7, "Meredith Palmer": 1, "Creed Bratton": 0.4, "Kelly Kapoor": 0.8, "Stanley Hudson": 0.3 } },
+            { "text": "Simples, finjo que estava planejando uma surpresa mega elaborada e fico horas falando sobre isso.", "points": { "Michael Scott": 1, "Dwight Schrute": 0.5, "Jim Halpert": 0.4, "Ryan Howard": 0.3, "Meredith Palmer": 0.6, "Creed Bratton": 0.8, "Kelly Kapoor": 1, "Stanley Hudson": 0.5 } },
+            { "text": "Envio um e-mail corporativo com uma desculpa esfarrapada e espero que eles fiquem felizes.", "points": { "Michael Scott": 0.5, "Dwight Schrute": 0.6, "Jim Halpert": 0.3, "Ryan Howard": 0.5, "Meredith Palmer": 0.3, "Creed Bratton": 0.2, "Kelly Kapoor": 0.5, "Stanley Hudson": 0.8 } },
+            { "text": "Eu ignoro totalmente e digo que foi proposital. Afinal, os aniversários são superestimados.", "points": { "Michael Scott": 0.2, "Dwight Schrute": 1, "Jim Halpert": 0.4, "Ryan Howard": 0.6, "Meredith Palmer": 0.4, "Creed Bratton": 0.3, "Kelly Kapoor": 0.6, "Stanley Hudson": 0.2 } },
+            { "text": "Ligo e falo que eu estava tão ocupado com a minha vida que realmente esqueci. Não é nada pessoal...", "points": { "Michael Scott": 0.3, "Dwight Schrute": 0.7, "Jim Halpert": 0.5, "Ryan Howard": 1, "Meredith Palmer": 0.5, "Creed Bratton": 0.6, "Kelly Kapoor": 0.4, "Stanley Hudson": 0.7 } }
+         ]
+      },
+      {
+         "question": "Se você estivesse num reality show, qual seria a sua estratégia para vencer?",
+         "answers": [
+            { "text": "Ficar no centro das brigas e sempre jogar sujo. Quem não ama um bom drama?", "points": { "Michael Scott": 1, "Dwight Schrute": 0.9, "Jim Halpert": 0.5, "Ryan Howard": 0.7, "Meredith Palmer": 0.8, "Creed Bratton": 1, "Kelly Kapoor": 1, "Stanley Hudson": 0.3 } },
+            { "text": "Me fazer de coitadinho, é claro. Todo mundo adora a vítima do grupo, certo?", "points": { "Michael Scott": 0.7, "Dwight Schrute": 0.4, "Jim Halpert": 0.3, "Ryan Howard": 0.8, "Meredith Palmer": 0.5, "Creed Bratton": 0.6, "Kelly Kapoor": 0.5, "Stanley Hudson": 0.2 } },
+            { "text": "Ficar quieto e observar os outros se matarem. No final, a competição vai se destruir sozinha.", "points": { "Michael Scott": 0.3, "Dwight Schrute": 0.2, "Jim Halpert": 1, "Ryan Howard": 0.4, "Meredith Palmer": 0.6, "Creed Bratton": 0.8, "Kelly Kapoor": 0.4, "Stanley Hudson": 0.9 } },
+            { "text": "Fazer alianças com todos, mas trair todo mundo quando menos esperarem. O segredo é manter todo mundo no escuro.", "points": { "Michael Scott": 0.6, "Dwight Schrute": 1, "Jim Halpert": 0.4, "Ryan Howard": 0.9, "Meredith Palmer": 0.5, "Creed Bratton": 0.7, "Kelly Kapoor": 0.2, "Stanley Hudson": 0.6 } },
+            { "text": "Ficar o mais invisível possível e esperar a temporada terminar logo, porque eu realmente não aguento mais isso.", "points": { "Michael Scott": 0.4, "Dwight Schrute": 0.3, "Jim Halpert": 0.8, "Ryan Howard": 0.5, "Meredith Palmer": 0.2, "Creed Bratton": 0.5, "Kelly Kapoor": 0.3, "Stanley Hudson": 1 } }
+         ]
+      },
+      {
+         "question": "Se você tivesse que escolher uma desculpa para não trabalhar, qual seria?",
+         "answers": [
+            { "text": "Estou muito ocupado com um projeto secreto. Não posso dizer mais, é confidencial.", "points": { "Michael Scott": 0.9, "Dwight Schrute": 0.5, "Jim Halpert": 0.4, "Ryan Howard": 0.7, "Meredith Palmer": 0.3, "Creed Bratton": 0.6, "Kelly Kapoor": 1, "Stanley Hudson": 0.2 } },
+            { "text": "Minha planta está muito triste hoje. Eu preciso dar atenção a ela, senão ela vai morrer.", "points": { "Michael Scott": 0.6, "Dwight Schrute": 1, "Jim Halpert": 0.2, "Ryan Howard": 0.3, "Meredith Palmer": 0.4, "Creed Bratton": 0.7, "Kelly Kapoor": 0.2, "Stanley Hudson": 0.5 } },
+            { "text": "Eu simplesmente digo que estou doente. Ninguém precisa saber os detalhes.", "points": { "Michael Scott": 1, "Dwight Schrute": 0.6, "Jim Halpert": 0.3, "Ryan Howard": 0.5, "Meredith Palmer": 0.2, "Creed Bratton": 0.5, "Kelly Kapoor": 0.4, "Stanley Hudson": 0.8 } },
+            { "text": "Fui chamado para uma reunião super importante de última hora. Não posso deixar passar.", "points": { "Michael Scott": 0.7, "Dwight Schrute": 0.4, "Jim Halpert": 1, "Ryan Howard": 0.9, "Meredith Palmer": 0.6, "Creed Bratton": 0.3, "Kelly Kapoor": 0.5, "Stanley Hudson": 0.3 } }
+         ]
+      },
+      {
+         "question": "Como você reage quando alguém te desafia?",
+         "answers": [
+            { "text": "Aceito o desafio sem nem pensar. Vou vencer ou morrer tentando!", "points": { "Michael Scott": 1, "Dwight Schrute": 0.9, "Jim Halpert": 0.6, "Ryan Howard": 0.7, "Meredith Palmer": 0.5, "Creed Bratton": 0.3, "Kelly Kapoor": 1, "Stanley Hudson": 0.2 } },
+            { "text": "Eu olho para a pessoa e digo: 'Você não sabe com quem está falando'. A auto confiança é tudo.", "points": { "Michael Scott": 0.8, "Dwight Schrute": 1, "Jim Halpert": 0.5, "Ryan Howard": 0.8, "Meredith Palmer": 0.6, "Creed Bratton": 0.5, "Kelly Kapoor": 0.9, "Stanley Hudson": 0.4 } },
+            { "text": "Eu aceito o desafio, mas só porque sei que vou me divertir assistindo o caos se desenrolar.", "points": { "Michael Scott": 0.7, "Dwight Schrute": 0.4, "Jim Halpert": 1, "Ryan Howard": 0.5, "Meredith Palmer": 0.7, "Creed Bratton": 0.8, "Kelly Kapoor": 0.3, "Stanley Hudson": 0.6 } },
+            { "text": "Eu me afasto, porque não preciso desse tipo de drama na minha vida. Já tenho bastante coisa para lidar.", "points": { "Michael Scott": 0.4, "Dwight Schrute": 0.2, "Jim Halpert": 0.3, "Ryan Howard": 0.6, "Meredith Palmer": 0.3, "Creed Bratton": 0.6, "Kelly Kapoor": 0.4, "Stanley Hudson": 1 } }
+         ]
+      },
+      {
+         "question": "Quando você tem um problema pessoal, o que você faz?",
+         "answers": [
+            { "text": "Eu compartilho com todos no escritório, porque, se é um problema meu, é um problema de todos.", "points": { "Michael Scott": 1, "Dwight Schrute": 0.4, "Jim Halpert": 0.5, "Ryan Howard": 0.3, "Meredith Palmer": 1, "Creed Bratton": 0.6, "Kelly Kapoor": 1, "Stanley Hudson": 0.2 } },
+            { "text": "Eu guardo tudo para mim mesmo e sigo em frente. Ninguém precisa saber, já basta o que todo mundo já tem para lidar.", "points": { "Michael Scott": 0.6, "Dwight Schrute": 1, "Jim Halpert": 0.8, "Ryan Howard": 0.5, "Meredith Palmer": 0.4, "Creed Bratton": 0.3, "Kelly Kapoor": 0.2, "Stanley Hudson": 0.9 } },
+            { "text": "Eu tento disfarçar, mas no fundo, todo mundo sabe. Eu sou péssimo em esconder meus sentimentos.", "points": { "Michael Scott": 0.8, "Dwight Schrute": 0.5, "Jim Halpert": 0.4, "Ryan Howard": 0.7, "Meredith Palmer": 0.6, "Creed Bratton": 0.5, "Kelly Kapoor": 0.9, "Stanley Hudson": 0.4 } },
+            { "text": "Eu crio um plano muito elaborado para parecer que estou bem, mesmo quando tudo está desmoronando ao meu redor.", "points": { "Michael Scott": 0.7, "Dwight Schrute": 0.9, "Jim Halpert": 0.3, "Ryan Howard": 0.8, "Meredith Palmer": 0.5, "Creed Bratton": 0.7, "Kelly Kapoor": 0.4, "Stanley Hudson": 0.3 } }
+         ]
+      },
+      {
+         "question": "O que você faria se o escritório estivesse pegando fogo?",
+         "answers": [
+            { "text": "Eu estaria tão focado em salvar minha 'liga de segurança' no computador, que não me importaria com nada mais.", "points": { "Michael Scott": 1, "Dwight Schrute": 1, "Jim Halpert": 0.6, "Ryan Howard": 0.4, "Meredith Palmer": 0.5, "Creed Bratton": 0.9, "Kelly Kapoor": 0.3, "Stanley Hudson": 0.2 } },
+            { "text": "Eu pegaria a minha garrafinha de café e sairia sem pressa. Não sou exatamente o tipo de pessoa que corre para salvar o mundo.", "points": { "Michael Scott": 0.6, "Dwight Schrute": 0.7, "Jim Halpert": 0.5, "Ryan Howard": 0.3, "Meredith Palmer": 0.4, "Creed Bratton": 0.6, "Kelly Kapoor": 0.2, "Stanley Hudson": 1 } },
+            { "text": "Eu correria até o prédio do lado, como se fosse o mais inteligente. Afinal, ninguém vai saber o que aconteceu até que o fogo já tenha passado.", "points": { "Michael Scott": 0.7, "Dwight Schrute": 0.9, "Jim Halpert": 1, "Ryan Howard": 0.8, "Meredith Palmer": 0.3, "Creed Bratton": 0.5, "Kelly Kapoor": 0.4, "Stanley Hudson": 0.2 } },
+            { "text": "Eu começaria a gritar: 'Fogo! Fogo! Todos saiam!' mas depois me esqueceria de sair e continuaria fazendo piadas.", "points": { "Michael Scott": 1, "Dwight Schrute": 0.8, "Jim Halpert": 0.6, "Ryan Howard": 0.7, "Meredith Palmer": 0.5, "Creed Bratton": 0.4, "Kelly Kapoor": 0.5, "Stanley Hudson": 0.3 } }
+         ]
+      },
+      {
+         "question": "O que você faria para ser promovido no trabalho?",
+         "answers": [
+            { "text": "Desenvolveria um esquema para derrubar meus colegas, enquanto me faço de vítima. Quem pode resistir a um pouco de drama?", "points": { "Michael Scott": 0.9, "Dwight Schrute": 1, "Jim Halpert": 0.5, "Ryan Howard": 0.8, "Meredith Palmer": 0.7, "Creed Bratton": 0.4, "Kelly Kapoor": 0.6, "Stanley Hudson": 0.2 } },
+            { "text": "Eu iria até o chefe e faria uma performance de 'Eu sou o melhor!', porque ser arrogante sempre parece funcionar no final.", "points": { "Michael Scott": 1, "Dwight Schrute": 0.8, "Jim Halpert": 0.4, "Ryan Howard": 0.6, "Meredith Palmer": 0.5, "Creed Bratton": 0.6, "Kelly Kapoor": 0.7, "Stanley Hudson": 0.3 } },
+            { "text": "Tentaria fazer o trabalho de todos ao mesmo tempo, para impressionar meu chefe com minha dedicação, e depois pedir uma promoção com uma expressão 'inocente'.", "points": { "Michael Scott": 0.8, "Dwight Schrute": 0.6, "Jim Halpert": 0.7, "Ryan Howard": 1, "Meredith Palmer": 0.4, "Creed Bratton": 0.3, "Kelly Kapoor": 0.8, "Stanley Hudson": 0.2 } },
+            { "text": "Eu esperaria uma falha épica de alguém e, então, me colocaria como a solução, mas de forma tão sutil que ninguém perceberia.", "points": { "Michael Scott": 0.7, "Dwight Schrute": 1, "Jim Halpert": 0.8, "Ryan Howard": 0.7, "Meredith Palmer": 0.5, "Creed Bratton": 0.6, "Kelly Kapoor": 0.6, "Stanley Hudson": 0.2 } }
+         ]
+      },
+      {
+         "question": "Qual é a sua estratégia para sobreviver a um dia entediante no escritório?",
+         "answers": [
+            { "text": "Inventaria uma grande mentira para todo mundo, só para ver quem cairia nela.", "points": { "Michael Scott": 1, "Dwight Schrute": 0.8, "Jim Halpert": 0.4, "Ryan Howard": 0.7, "Meredith Palmer": 0.5, "Creed Bratton": 0.6, "Kelly Kapoor": 0.5, "Stanley Hudson": 0.3 } },
+            { "text": "Criaria uma falsa competição entre os colegas, só para causar um pouco de agitação.", "points": { "Michael Scott": 0.9, "Dwight Schrute": 1, "Jim Halpert": 0.6, "Ryan Howard": 0.8, "Meredith Palmer": 0.7, "Creed Bratton": 0.4, "Kelly Kapoor": 0.4, "Stanley Hudson": 0.2 } },
+            { "text": "Eu sairia para uma pausa prolongada e não contaria a ninguém. A vida é curta demais para lidar com tédio.", "points": { "Michael Scott": 0.8, "Dwight Schrute": 0.3, "Jim Halpert": 1, "Ryan Howard": 0.7, "Meredith Palmer": 0.4, "Creed Bratton": 0.5, "Kelly Kapoor": 0.6, "Stanley Hudson": 1 } },
+            { "text": "Aguentaria o dia ouvindo música e evitando qualquer conversa desnecessária. Tédio é o mal, e eu sou o mestre do esquecimento.", "points": { "Michael Scott": 0.7, "Dwight Schrute": 0.4, "Jim Halpert": 0.9, "Ryan Howard": 0.5, "Meredith Palmer": 0.5, "Creed Bratton": 0.6, "Kelly Kapoor": 0.3, "Stanley Hudson": 0.9 } }
+         ]
+      },
+      {
+        "question": "Se você estivesse no episódio 'The Dundies', qual seria o seu prêmio?",
+        "answers": [
+           { "text": "O prêmio 'Melhor Piada Sem Graça' porque, sim, eu faço todos rirem, mas ninguém sabe o porquê.", "points": { "Michael Scott": 1, "Dwight Schrute": 0.7, "Jim Halpert": 0.8, "Ryan Howard": 0.4, "Meredith Palmer": 0.5, "Creed Bratton": 0.6, "Kelly Kapoor": 0.9, "Stanley Hudson": 0.3 } },
+           { "text": "O prêmio 'Maior Falha de Imagem' porque, convenhamos, eu provavelmente já fiz algo errado enquanto tentava parecer incrível.", "points": { "Michael Scott": 1, "Dwight Schrute": 0.9, "Jim Halpert": 0.5, "Ryan Howard": 0.7, "Meredith Palmer": 0.6, "Creed Bratton": 0.4, "Kelly Kapoor": 0.5, "Stanley Hudson": 0.2 } },
+           { "text": "O prêmio 'Sem Noção' porque, mesmo que eu não tenha ganhado nada, todo mundo sabe que não há mais alguém como eu.", "points": { "Michael Scott": 0.9, "Dwight Schrute": 0.6, "Jim Halpert": 0.8, "Ryan Howard": 0.4, "Meredith Palmer": 0.5, "Creed Bratton": 1, "Kelly Kapoor": 0.7, "Stanley Hudson": 0.3 } },
+           { "text": "O prêmio 'Melhor Fuga de Fogo' porque eu provavelmente seria o primeiro a escapar, mas de forma ridícula.", "points": { "Michael Scott": 0.7, "Dwight Schrute": 0.8, "Jim Halpert": 0.5, "Ryan Howard": 0.9, "Meredith Palmer": 0.4, "Creed Bratton": 0.6, "Kelly Kapoor": 0.3, "Stanley Hudson": 0.2 } }
+        ]
+     }     
+   ],
+   "descriptions": {
+      "Michael Scott": {
+         "title": "Michael Scott",
+         "emoji": "🤡",
+         "subtitle": "O chefe que você nunca pediu, mas sempre teve",
+         "text": "Você é o tipo de pessoa que acredita ser o centro do universo. As coisas podem não ir bem, mas você tem a incrível habilidade de fazer qualquer situação desconfortável ficar mais insuportável."
+      },
+      "Dwight Schrute": {
+         "title": "Dwight Schrute",
+         "emoji": "💪",
+         "subtitle": "O faz-tudo do escritório",
+         "text": "Você leva tudo a sério, de forma exagerada. Nada escapa ao seu olhar analítico, especialmente se for uma oportunidade para ser o mais competente e ridículo possível."
+      },
+      "Jim Halpert": {
+         "title": "Jim Halpert",
+         "emoji": "😏",
+         "subtitle": "O sarcástico profissional",
+         "text": "Você é o rei do sarcasmo e da indiferença. Se alguém quer causar, você só dá aquela olhada na câmera. Sua vida é basicamente um reality show de olhares e silêncio."
+      },
+      "Ryan Howard": {
+         "title": "Ryan Howard",
+         "emoji": "💼",
+         "subtitle": "O ambicioso que se perde no caminho",
+         "text": "Você sempre tem planos para se tornar o próximo grande sucesso, mas até agora tem uma coleção de fracassos e um cargo de prestígio muito duvidoso."
+      },
+      "Meredith Palmer": {
+         "title": "Meredith Palmer",
+         "emoji": "🍷",
+         "subtitle": "A rainha das festas do escritório",
+         "text": "Você vive para os momentos intensos, os dramas e a diversão. Nada de meias palavras. Se não está se divertindo, está se afundando na bebida e nos escândalos."
+      },
+      "Creed Bratton": {
+         "title": "Creed Bratton",
+         "emoji": "👀",
+         "subtitle": "O mistério dentro do mistério",
+         "text": "Você é enigmático e um tanto estranho. As pessoas te veem e têm mais perguntas do que respostas. Mas você simplesmente não se importa, né? É o seu estilo."
+      },
+      "Kelly Kapoor": {
+         "title": "Kelly Kapoor",
+         "emoji": "📱",
+         "subtitle": "A viciada em fofoca",
+         "text": "Você é cheia de energia, drama e está sempre no meio das conversas mais quentes. Se não está gerando fofoca, está criando uma crise."
+      },
+      "Stanley Hudson": {
+         "title": "Stanley Hudson",
+         "emoji": "🛋️",
+         "subtitle": "O mestre da indiferença",
+         "text": "Você tem o poder de se desligar de tudo, até das situações mais caóticas. Seu lema é: se você não tem que se importar, por que se importaria?"
+      },
+      "Angela Martin": {
+         "title": "Angela Martin",
+         "emoji": "🐱",
+         "subtitle": "A autoridade silenciosa.",
+         "text": "Angela é você quando as coisas precisam ser feitas com precisão e ordem. Seu senso de moral é intransigente, e sua visão do mundo é clara e imutável. Você não se importa com a bagunça ao seu redor, desde que tudo esteja sob seu controle. E claro, não tolere bagunça — ou gatos desobedientes."
+      },
+      "Oscar Martinez": {
+         "title": "Oscar Martinez",
+         "emoji": "📚",
+         "subtitle": "O intelectual racional.",
+         "text": "Oscar é o exemplo de alguém que sempre está um passo à frente, com as respostas certas e a capacidade de manter a calma enquanto todos ao seu redor perdem a cabeça. Você é lógico, prático e, às vezes, se sente frustrado com a falta de inteligência dos outros. Mas não se preocupe, o conhecimento é seu poder."
+      },
+      "Toby Flenderson": {
+         "title": "Toby Flenderson",
+         "emoji": "😐",
+         "subtitle": "O eterno de 'baixo perfil'.",
+         "text": "Toby é você se você for sempre o 'cara legal' que tenta evitar conflitos, mas acaba se tornando invisível. Seu trabalho é chato, as pessoas não prestam atenção em você e sua vida social é praticamente inexistente. A boa notícia? Você não precisa se preocupar com drama, porque você é o drama invisível."
+      },
+      "Phyllis Vance": {
+         "title": "Phyllis Vance",
+         "emoji": "💁‍♀️",
+         "subtitle": "O equilíbrio perfeito.",
+         "text": "Phyllis tem aquela calma aparente que esconde um grande senso de humor e uma ironia afiada. Você é a pessoa que mantém a compostura, mas quem conhece bem sabe que você não tem medo de dar respostas certeiras. Sempre com classe, você observa o caos e, de alguma forma, sai vitoriosa."
+      },
+      "Jan Levinson": {
+         "title": "Jan Levinson",
+         "emoji": "🧖‍♀️",
+         "subtitle": "A chefona com estilo.",
+         "text": "Você é como Jan, com um equilíbrio estranho entre controle e desespero. Às vezes você tenta manter as aparências e o poder, mas o caos emocional e os altos e baixos da vida te pegam. Pode até ser que, às vezes, você tenha um gosto peculiar (quem não ama velas aromáticas?), mas o importante é saber quem você é."
+      },
+      "Kevin Malone": {
+         "title": "Kevin Malone",
+         "emoji": "🍲",
+         "subtitle": "O simples e direto.",
+         "text": "Kevin é você se você fosse um grande fã de comida, cerveja e uma vida tranquila sem muita complexidade. Às vezes, você se enrola em situações difíceis, mas sempre com uma abordagem sem frescuras. Quem se importa com detalhes quando há algo mais importante, como um chili delicioso?"
+      }
+   }
+}
