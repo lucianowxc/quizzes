@@ -149,6 +149,11 @@
            "name": "Que personagem de The Office te representa?",
            "file": "quizzes/quizTheOffice.json",
            "description": "Descubra qual personagem de 'The Office' mais combina com sua personalidade. Prepare-se para muito drama, ironia e humor ácido!"
+        },
+        { 
+          "name": "Qual Linguagem de Programação Você Seria?", 
+          "file": "quizzes/quizLinguagensProgramacao.json", 
+          "description": "Descubra qual linguagem de programação mais se parece com você, com dilemas existenciais e metáforas tecnológicas!"
         }
     ]
 }
