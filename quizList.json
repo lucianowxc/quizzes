@@ -134,6 +134,11 @@
             "name": "Com qual cantora pop você mais se identifica?", 
             "file": "quizzes/quizCantorasPop.json",
             "description": "Descubra com qual cantora pop você mais se identifica!"
+        },
+        {
+          "name": "Qual Paçoca Você é?",
+          "file": "quizzes/quizPacocas.json",
+          "description": "Descubra qual tipo de paçoca representa a sua alma! Será que você é a compacta paçoca rolha ou a descontraída paçoca esfarelada?"
         }
     ]
 }
