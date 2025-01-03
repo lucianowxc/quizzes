@@ -681,92 +681,90 @@
             ]
         }
     ],
-    {
-        "descriptions": {
-            "Michael Scott": {
-                "title": "Michael Scott",
-                "emoji": "😎",
-                "subtitle": "O gerente mais improvável",
-                "text": "Você é o tipo de pessoa que assume a liderança sem medo, mesmo que as coisas nem sempre saiam como esperado. Embora seu estilo seja um pouco excêntrico, você tenta fazer o bem de maneira única e com muito bom humor. Todos sabem que você é o coração do escritório (mesmo que a maioria duvide disso)."
-            },
-            "Dwight Schrute": {
-                "title": "Dwight Schrute",
-                "emoji": "👮‍♂️",
-                "subtitle": "O perfeccionista exagerado",
-                "text": "Você leva a vida muito a sério e se dedica com afinco a qualquer tarefa que tenha em mãos. Seu compromisso com a ordem e as regras é admirável, embora às vezes seja difícil para os outros entenderem sua obsessão por detalhes. No fundo, você só quer ser o melhor e mostrar que sempre sabe o que está fazendo."
-            },
-            "Jim Halpert": {
-                "title": "Jim Halpert",
-                "emoji": "🧑‍💻",
-                "subtitle": "O mestre das piadas internas",
-                "text": "Você é aquele que sempre sabe como descontrair o ambiente com uma piada bem colocada, sem perder o foco nas suas responsabilidades. Seu jeito tranquilo e sorriso sarcástico são uma combinação perfeita para manter o escritório leve, mas também sabe quando é hora de se concentrar no trabalho."
-            },
-            "Ryan Howard": {
-                "title": "Ryan Howard",
-                "emoji": "📉",
-                "subtitle": "O 'inovador' que não entendeu as regras",
-                "text": "Você é cheio de ideias criativas e não tem medo de correr riscos. Embora suas iniciativas nem sempre sejam bem-sucedidas, você está sempre à procura de algo novo e de maneiras de se destacar. Às vezes, seus planos podem parecer imprevisíveis, mas é esse espírito inquieto que mantém as coisas interessantes."
-            },
-            "Meredith Palmer": {
-                "title": "Meredith Palmer",
-                "emoji": "🍷",
-                "subtitle": "A rainha da diversão sem filtro",
-                "text": "Você vive a vida de forma espontânea e sem grandes preocupações, o que pode fazer com que as coisas saiam um pouco do controle às vezes. Mas você é a pessoa que traz energia para o ambiente e sabe como fazer as situações mais divertidas. Não tem medo de se jogar nas situações, por mais inusitadas que sejam."
-            },
-            "Creed Bratton": {
-                "title": "Creed Bratton",
-                "emoji": "🎤",
-                "subtitle": "O mistério ambulante",
-                "text": "Você é o enigma do grupo. Sempre tem uma resposta para tudo, mas ninguém sabe muito bem de onde vem ou para onde vai. Sua visão de mundo é única e, embora os outros fiquem perdidos tentando entender seu jeito, você segue sua vida com uma calma desconcertante."
-            },
-            "Kelly Kapoor": {
-                "title": "Kelly Kapoor",
-                "emoji": "💅",
-                "subtitle": "A diva das redes sociais",
-                "text": "Você adora ser o centro das atenções e transformar cada situação em um evento digno de social media. Cheia de energia e pronta para fazer uma cena quando necessário, você consegue deixar sua marca em qualquer lugar. Seu entusiasmo é contagiante, mas você também sabe como causar um pouco de drama quando o ambiente pede."
-            },
-            "Stanley Hudson": {
-                "title": "Stanley Hudson",
-                "emoji": "🛋️",
-                "subtitle": "O mestre da paz e da tranquilidade",
-                "text": "Você é o exemplo de calma em meio ao caos. Não se importa com os dramas do escritório e, se pudesse, estaria só se concentrando em terminar o dia o mais tranquilamente possível. Seu lema é: 'Menos trabalho, mais descanso.'"
-            },
-            "Angela Martin": {
-                "title": "Angela Martin",
-                "emoji": "🐱",
-                "subtitle": "A autoridade silenciosa",
-                "text": "Você tem um senso de ordem e precisão que ninguém pode contestar. Seus princípios são intransigentes e, mesmo quando os outros não conseguem se organizar, você mantém tudo em seu devido lugar. Não gosta de bagunça e exige respeito pelo seu espaço pessoal (e pelos seus gatos)."
-            },
-            "Oscar Martinez": {
-                "title": "Oscar Martinez",
-                "emoji": "📚",
-                "subtitle": "O racional perfeito",
-                "text": "Você é aquele tipo de pessoa que sempre tem a solução lógica para qualquer problema. Seu raciocínio claro e racional é o que mantém o equilíbrio no escritório. Às vezes, você pode se frustrar com a falta de lógica ao seu redor, mas no fim das contas, você tem a calma necessária para se manter à frente."
-            },
-            "Toby Flenderson": {
-                "title": "Toby Flenderson",
-                "emoji": "😐",
-                "subtitle": "O eterno de 'baixo perfil'",
-                "text": "Toby é você se você for sempre o 'cara legal' que tenta evitar conflitos, mas acaba se tornando invisível. Seu trabalho é chato, as pessoas não prestam atenção em você e sua vida social é praticamente inexistente. A boa notícia? Você não precisa se preocupar com drama, porque você é o drama invisível."
-            },
-            "Phyllis Vance": {
-                "title": "Phyllis Vance",
-                "emoji": "💁‍♀️",
-                "subtitle": "O equilíbrio perfeito",
-                "text": "Phyllis tem aquela calma aparente que esconde um grande senso de humor e uma ironia afiada. Você é a pessoa que mantém a compostura, mas quem conhece bem sabe que você não tem medo de dar respostas certeiras. Sempre com classe, você observa o caos e, de alguma forma, sai vitoriosa."
-            },
-            "Jan Levinson": {
-                "title": "Jan Levinson",
-                "emoji": "🧖‍♀️",
-                "subtitle": "A chefona com estilo",
-                "text": "Você é a pessoa que tenta manter o controle, mesmo quando a vida parece estar desmoronando. Seu equilíbrio entre ambição e a tentativa de parecer tranquila é algo admirável. Embora seu estilo possa ser excêntrico, você é forte e determinada a manter o poder."
-            },
-            "Kevin Malone": {
-                "title": "Kevin Malone",
-                "emoji": "🍲",
-                "subtitle": "O simples e direto",
-                "text": "Você adora as coisas simples da vida, como comida, diversão e momentos tranquilos. Não se importa muito com complicações, pois prefere aproveitar os pequenos prazeres. E quem pode culpá-lo? Às vezes, um prato de chili é tudo o que se precisa."
-            }
+    "descriptions": {
+        "Michael Scott": {
+            "title": "Michael Scott",
+            "emoji": "😎",
+            "subtitle": "O gerente mais improvável",
+            "text": "Você é o tipo de pessoa que assume a liderança sem medo, mesmo que as coisas nem sempre saiam como esperado. Embora seu estilo seja um pouco excêntrico, você tenta fazer o bem de maneira única e com muito bom humor. Todos sabem que você é o coração do escritório (mesmo que a maioria duvide disso)."
+        },
+        "Dwight Schrute": {
+            "title": "Dwight Schrute",
+            "emoji": "👮‍♂️",
+            "subtitle": "O perfeccionista exagerado",
+            "text": "Você leva a vida muito a sério e se dedica com afinco a qualquer tarefa que tenha em mãos. Seu compromisso com a ordem e as regras é admirável, embora às vezes seja difícil para os outros entenderem sua obsessão por detalhes. No fundo, você só quer ser o melhor e mostrar que sempre sabe o que está fazendo."
+        },
+        "Jim Halpert": {
+            "title": "Jim Halpert",
+            "emoji": "🧑‍💻",
+            "subtitle": "O mestre das piadas internas",
+            "text": "Você é aquele que sempre sabe como descontrair o ambiente com uma piada bem colocada, sem perder o foco nas suas responsabilidades. Seu jeito tranquilo e sorriso sarcástico são uma combinação perfeita para manter o escritório leve, mas também sabe quando é hora de se concentrar no trabalho."
+        },
+        "Ryan Howard": {
+            "title": "Ryan Howard",
+            "emoji": "📉",
+            "subtitle": "O 'inovador' que não entendeu as regras",
+            "text": "Você é cheio de ideias criativas e não tem medo de correr riscos. Embora suas iniciativas nem sempre sejam bem-sucedidas, você está sempre à procura de algo novo e de maneiras de se destacar. Às vezes, seus planos podem parecer imprevisíveis, mas é esse espírito inquieto que mantém as coisas interessantes."
+        },
+        "Meredith Palmer": {
+            "title": "Meredith Palmer",
+            "emoji": "🍷",
+            "subtitle": "A rainha da diversão sem filtro",
+            "text": "Você vive a vida de forma espontânea e sem grandes preocupações, o que pode fazer com que as coisas saiam um pouco do controle às vezes. Mas você é a pessoa que traz energia para o ambiente e sabe como fazer as situações mais divertidas. Não tem medo de se jogar nas situações, por mais inusitadas que sejam."
+        },
+        "Creed Bratton": {
+            "title": "Creed Bratton",
+            "emoji": "🎤",
+            "subtitle": "O mistério ambulante",
+            "text": "Você é o enigma do grupo. Sempre tem uma resposta para tudo, mas ninguém sabe muito bem de onde vem ou para onde vai. Sua visão de mundo é única e, embora os outros fiquem perdidos tentando entender seu jeito, você segue sua vida com uma calma desconcertante."
+        },
+        "Kelly Kapoor": {
+            "title": "Kelly Kapoor",
+            "emoji": "💅",
+            "subtitle": "A diva das redes sociais",
+            "text": "Você adora ser o centro das atenções e transformar cada situação em um evento digno de social media. Cheia de energia e pronta para fazer uma cena quando necessário, você consegue deixar sua marca em qualquer lugar. Seu entusiasmo é contagiante, mas você também sabe como causar um pouco de drama quando o ambiente pede."
+        },
+        "Stanley Hudson": {
+            "title": "Stanley Hudson",
+            "emoji": "🛋️",
+            "subtitle": "O mestre da paz e da tranquilidade",
+            "text": "Você é o exemplo de calma em meio ao caos. Não se importa com os dramas do escritório e, se pudesse, estaria só se concentrando em terminar o dia o mais tranquilamente possível. Seu lema é: 'Menos trabalho, mais descanso.'"
+        },
+        "Angela Martin": {
+            "title": "Angela Martin",
+            "emoji": "🐱",
+            "subtitle": "A autoridade silenciosa",
+            "text": "Você tem um senso de ordem e precisão que ninguém pode contestar. Seus princípios são intransigentes e, mesmo quando os outros não conseguem se organizar, você mantém tudo em seu devido lugar. Não gosta de bagunça e exige respeito pelo seu espaço pessoal (e pelos seus gatos)."
+        },
+        "Oscar Martinez": {
+            "title": "Oscar Martinez",
+            "emoji": "📚",
+            "subtitle": "O racional perfeito",
+            "text": "Você é aquele tipo de pessoa que sempre tem a solução lógica para qualquer problema. Seu raciocínio claro e racional é o que mantém o equilíbrio no escritório. Às vezes, você pode se frustrar com a falta de lógica ao seu redor, mas no fim das contas, você tem a calma necessária para se manter à frente."
+        },
+        "Toby Flenderson": {
+            "title": "Toby Flenderson",
+            "emoji": "😐",
+            "subtitle": "O eterno de 'baixo perfil'",
+            "text": "Toby é você se você for sempre o 'cara legal' que tenta evitar conflitos, mas acaba se tornando invisível. Seu trabalho é chato, as pessoas não prestam atenção em você e sua vida social é praticamente inexistente. A boa notícia? Você não precisa se preocupar com drama, porque você é o drama invisível."
+        },
+        "Phyllis Vance": {
+            "title": "Phyllis Vance",
+            "emoji": "💁‍♀️",
+            "subtitle": "O equilíbrio perfeito",
+            "text": "Phyllis tem aquela calma aparente que esconde um grande senso de humor e uma ironia afiada. Você é a pessoa que mantém a compostura, mas quem conhece bem sabe que você não tem medo de dar respostas certeiras. Sempre com classe, você observa o caos e, de alguma forma, sai vitoriosa."
+        },
+        "Jan Levinson": {
+            "title": "Jan Levinson",
+            "emoji": "🧖‍♀️",
+            "subtitle": "A chefona com estilo",
+            "text": "Você é a pessoa que tenta manter o controle, mesmo quando a vida parece estar desmoronando. Seu equilíbrio entre ambição e a tentativa de parecer tranquila é algo admirável. Embora seu estilo possa ser excêntrico, você é forte e determinada a manter o poder."
+        },
+        "Kevin Malone": {
+            "title": "Kevin Malone",
+            "emoji": "🍲",
+            "subtitle": "O simples e direto",
+            "text": "Você adora as coisas simples da vida, como comida, diversão e momentos tranquilos. Não se importa muito com complicações, pois prefere aproveitar os pequenos prazeres. E quem pode culpá-lo? Às vezes, um prato de chili é tudo o que se precisa."
         }
     }
 }
