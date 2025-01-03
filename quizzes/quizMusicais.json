@@ -1,6 +1,3 @@
-Perfeito! Vamos começar gerando o JSON com as respostas e pontuações para as perguntas que já criamos. Aqui está o JSON parcial com as respostas:
-
-```json
 {
   "title": "Que musical você seria?",
   "questions": [
