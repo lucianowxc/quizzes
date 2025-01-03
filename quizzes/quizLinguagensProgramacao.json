@@ -1,0 +1,72 @@
+{
+  "title": "Qual Linguagem de Programação Você Seria?",
+  "questions": [
+    {
+      "question": "Você está no meio de uma viagem de carro, e o GPS acaba de travar no meio do nada. O que você faz?",
+      "answers": [
+        { "text": "Eu paro, respiro fundo e começo a procurar uma solução simples. Tenho certeza de que consigo resolver com o mínimo de esforço.", "points": { "resultado1": 0.7, "resultado2": 0.6, "resultado3": 0.2, "resultado4": 0.3, "resultado5": 0.8, "resultado6": 0.4, "resultado7": 0.5, "resultado8": 0.6 } },
+        { "text": "Eu apago o GPS, sigo instintivamente e espero que o universo me guie para o destino.", "points": { "resultado1": 0.3, "resultado2": 0.8, "resultado3": 0.5, "resultado4": 0.4, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.8 } },
+        { "text": "Calmo, sigo os sinais de trânsito e procuro o mapa na mochila. Não posso arriscar perder o controle.", "points": { "resultado1": 0.8, "resultado2": 0.3, "resultado3": 0.6, "resultado4": 0.5, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.4, "resultado8": 0.6 } },
+        { "text": "Aceito o caos! O GPS pode ter travado, mas vou achar um jeito de fazer funcionar... ou me perder pelo caminho!", "points": { "resultado1": 0.4, "resultado2": 0.7, "resultado3": 0.8, "resultado4": 0.6, "resultado5": 0.5, "resultado6": 0.6, "resultado7": 0.7, "resultado8": 0.5 } }
+      ]
+    },
+    {
+      "question": "Está no meio de um jantar com amigos, e um dos pratos chega completamente errado. O que você faz?",
+      "answers": [
+        { "text": "Eu pego o prato, como do jeito que vier, e depois dou uma dica sobre como fazer melhor da próxima vez.", "points": { "resultado1": 0.6, "resultado2": 0.7, "resultado3": 0.4, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 0.8, "resultado7": 0.6, "resultado8": 0.7 } },
+        { "text": "Reclamo um pouco, depois mudo a situação e faço o prato funcionar para mim de qualquer jeito!", "points": { "resultado1": 0.4, "resultado2": 0.8, "resultado3": 0.5, "resultado4": 0.6, "resultado5": 0.7, "resultado6": 0.6, "resultado7": 0.7, "resultado8": 0.5 } },
+        { "text": "Explico educadamente o erro, mas deixo claro que vamos seguir todos os passos para que a refeição saia como deveria.", "points": { "resultado1": 0.8, "resultado2": 0.5, "resultado3": 0.6, "resultado4": 0.7, "resultado5": 0.6, "resultado6": 0.5, "resultado7": 0.6, "resultado8": 0.6 } },
+        { "text": "Peço desculpas por ser tão detalhista, mas prefiro esperar o prato certo, sem pressa.", "points": { "resultado1": 0.5, "resultado2": 0.6, "resultado3": 0.8, "resultado4": 0.6, "resultado5": 0.4, "resultado6": 0.7, "resultado7": 0.5, "resultado8": 0.7 } }
+      ]
+    },
+    {
+      "question": "Você entra em um café e percebe que não há wi-fi. O que você faz?",
+      "answers": [
+        { "text": "Aproveito para conversar com as pessoas ao redor, porque, na verdade, a interação humana pode ser mais interessante do que navegar pela internet.", "points": { "resultado1": 0.5, "resultado2": 0.6, "resultado3": 0.4, "resultado4": 0.5, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.6, "resultado8": 0.7 } },
+        { "text": "Faço um desenho no guardanapo enquanto espero que a situação se resolva. Não há problema, sempre há uma maneira de criar.", "points": { "resultado1": 0.7, "resultado2": 0.5, "resultado3": 0.6, "resultado4": 0.4, "resultado5": 0.6, "resultado6": 0.8, "resultado7": 0.7, "resultado8": 0.5 } },
+        { "text": "Fico em silêncio por um momento e, então, começo a pensar no que fazer com meu tempo sem distrações.", "points": { "resultado1": 0.8, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.5, "resultado5": 0.5, "resultado6": 0.6, "resultado7": 0.8, "resultado8": 0.6 } },
+        { "text": "Aceito o destino e começo a escrever meu manifesto filosófico sobre a desvantagem de não ter internet.", "points": { "resultado1": 0.6, "resultado2": 0.7, "resultado3": 0.8, "resultado4": 0.6, "resultado5": 0.4, "resultado6": 0.5, "resultado7": 0.7, "resultado8": 0.7 } }
+      ]
+    },
+    {
+      "question": "Você está indo a um evento importante e seu traje rasga no caminho. Qual é a sua reação?",
+      "answers": [
+        { "text": "Não sou de perder tempo. Uso o que tenho à mão para fazer o melhor que posso e sigo em frente.", "points": { "resultado1": 0.8, "resultado2": 0.4, "resultado3": 0.5, "resultado4": 0.6, "resultado5": 0.7, "resultado6": 0.5, "resultado7": 0.7, "resultado8": 0.6 } },
+        { "text": "Não me importo, decido improvisar e fazer da situação algo único. Agora sou a estrela do evento!", "points": { "resultado1": 0.6, "resultado2": 0.7, "resultado3": 0.5, "resultado4": 0.8, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.6, "resultado8": 0.7 } },
+        { "text": "Primeiro, faço o possível para consertar o traje de maneira discreta e, se não conseguir, busco alternativas práticas para manter a classe.", "points": { "resultado1": 0.7, "resultado2": 0.6, "resultado3": 0.6, "resultado4": 0.7, "resultado5": 0.5, "resultado6": 0.8, "resultado7": 0.4, "resultado8": 0.6 } },
+        { "text": "A solução está nos detalhes. Se eu não conseguir consertar, vou esperar até que alguém me ajude. Não posso deixar nada ao acaso.", "points": { "resultado1": 0.6, "resultado2": 0.5, "resultado3": 0.7, "resultado4": 0.6, "resultado5": 0.6, "resultado6": 0.5, "resultado7": 0.6, "resultado8": 0.5 } }
+      ]
+    },
+    {
+      "question": "Se você tivesse que organizar uma festa com amigos, qual seria o tema?",
+      "answers": [
+        { "text": "Escolheria algo simples e direto, onde todos se sentem à vontade e a diversão está nas pequenas coisas.", "points": { "resultado1": 0.7, "resultado2": 0.6, "resultado3": 0.4, "resultado4": 0.5, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.8, "resultado8": 0.6 } },
+        { "text": "Optaria por algo totalmente fora da caixa, como uma festa no espaço, sem regras e com surpresas a cada esquina!", "points": { "resultado1": 0.4, "resultado2": 0.8, "resultado3": 0.7, "resultado4": 0.5, "resultado5": 0.7, "resultado6": 0.6, "resultado7": 0.5, "resultado8": 0.7 } },
+        { "text": "Planejaria tudo minuciosamente: convites, comida, decoração. Cada detalhe precisaria ser perfeito.", "points": { "resultado1": 0.8, "resultado2": 0.5, "resultado3": 0.6, "resultado4": 0.7, "resultado5": 0.8, "resultado6": 0.5, "resultado7": 0.7, "resultado8": 0.6 } },
+        { "text": "Eu deixaria as coisas acontecerem naturalmente. Não teria um tema fixo, mas veria como o ambiente se desenvolve.", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.5, "resultado4": 0.8, "resultado5": 0.5, "resultado6": 0.6, "resultado7": 0.7, "resultado8": 0.7 } }
+      ]
+    },
+    {
+      "question": "Você encontra um bilhete de loteria premiado, mas não tem como verificar o prêmio imediatamente. O que faz?",
+      "answers": [
+        { "text": "Eu guardo o bilhete com calma, esperando o momento certo para verificar, sem me empolgar demais.", "points": { "resultado1": 0.8, "resultado2": 0.5, "resultado3": 0.7, "resultado4": 0.6, "resultado5": 0.6, "resultado6": 0.6, "resultado7": 0.8, "resultado8": 0.5 } },
+        { "text": "Eu deixo o bilhete no bolso e continuo minha vida normalmente. Vou ao meu destino e, se o prêmio aparecer, ótimo!", "points": { "resultado1": 0.7, "resultado2": 0.4, "resultado3": 0.6, "resultado4": 0.5, "resultado5": 0.7, "resultado6": 0.5, "resultado7": 0.6, "resultado8": 0.8 } },
+        { "text": "Aguardo pacientemente para verificar, criando todo um plano mental para lidar com a notícia, seja boa ou ruim.", "points": { "resultado1": 0.6, "resultado2": 0.7, "resultado3": 0.5, "resultado4": 0.8, "resultado5": 0.7, "resultado6": 0.6, "resultado7": 0.7, "resultado8": 0.6 } },
+        { "text": "Analiso todas as possibilidades, penso em como vou investir o prêmio e me preparo psicologicamente para o que vem.", "points": { "resultado1": 0.5, "resultado2": 0.6, "resultado3": 0.7, "resultado4": 0.6, "resultado5": 0.8, "resultado6": 0.5, "resultado7": 0.7, "resultado8": 0.5 } }
+      ]
+    }
+  ],
+  "results": [
+    { "name": "Python", "description": "Você é flexível e pode resolver problemas de forma rápida e simples, sem perder a elegância.", "subtitle": "O mestre da simplicidade e agilidade.", "emoji": "🐍" },
+    { "name": "JavaScript", "description": "Você é criativo, adaptável e não tem medo de mudar o rumo das coisas quando necessário.", "subtitle": "O criador de soluções imprevisíveis.", "emoji": "⚡" },
+    { "name": "C", "description": "Você é eficiente e sempre pensa em como melhorar a performance e controlar o processo.", "subtitle": "O especialista em controle e performance.", "emoji": "💻" },
+    { "name": "Java", "description": "Você é robusto, confiável e nunca abandona o seu propósito, mesmo em situações complicadas.", "subtitle": "O titã do backend.", "emoji": "📚" },
+    { "name": "Typescript", "description": "Você gosta de organização e não tem medo de verificar tudo duas vezes antes de tomar uma decisão.", "subtitle": "O planificador rigoroso.", "emoji": "📑" },
+    { "name": "FORTRAN", "description": "Você adora tradição e eficiência, mas não tem medo de mostrar sua idade quando necessário.", "subtitle": "O veterano da computação.", "emoji": "📜" },
+    { "name": "COBOL", "description": "Você é antigo, mas sólido. Concentra-se na estabilidade e no longo prazo, sem se deixar levar pelas modas.", "subtitle": "O guardião da estabilidade.", "emoji": "🖥️" },
+    { "name": "Haskell", "description": "Você é filosófico e gosta de fazer as coisas da maneira mais pura e lógica possível, mesmo que isso assuste os outros.", "subtitle": "O pensador puro.", "emoji": "♻️" },
+    { "name": "Ruby", "description": "Você é elegante e adora resolver problemas de maneira limpa e concisa, mas com uma pitada de diversão.", "subtitle": "O estilista da programação.", "emoji": "💎" },
+    { "name": "Swift", "description": "Você é ágil, moderno e foca em criar soluções rápidas e bem estruturadas.", "subtitle": "O mestre da velocidade e clareza.", "emoji": "🐦" },
+    { "name": "Go", "description": "Você é direto ao ponto, com foco em simplicidade e eficiência em um ambiente de alta demanda.", "subtitle": "O solucionador pragmático.", "emoji": "🚀" }
+  ]
+}
