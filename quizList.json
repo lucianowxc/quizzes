@@ -10,6 +10,11 @@
             "file": "quizzes/quizDataPowerRanger.json",
             "description": "Veja qual Power Ranger melhor representa você!"
         },
+        {
+          "name": "Qual Papa Controverso da Igreja Católica Você Seria?",
+          "file": "quizzes/quizPapaControverso.json",
+          "description": "Descubra qual papa controverso da Igreja Católica mais se parece com você! Desde os escândalos de Rodrigo Borgia até as manobras políticas de Júlio II, veja qual figura histórica da Igreja reflete sua personalidade."
+        },
         { 
             "name": "Qual Princesa Disney Te Representa?", 
             "file": "quizzes/quizPrincesa.json",
