@@ -1,101 +1,340 @@
 {
     "title": "Qual Linguagem de Programação Você Seria?",
     "questions": [
-      {
-        "question": "Você está no meio de uma viagem de carro, e o GPS acaba de travar no meio do nada. O que você faz?",
-        "answers": [
-          { "text": "Eu paro, respiro fundo e começo a procurar uma solução simples. Tenho certeza de que consigo resolver com o mínimo de esforço.", "points": { "Python": 0.7, "JavaScript": 0.6, "C": 0.2, "Java": 0.3, "Typescript": 0.8, "FORTRAN": 0.4, "COBOL": 0.5, "Haskell": 0.6 } },
-          { "text": "Eu apago o GPS, sigo instintivamente e espero que o universo me guie para o destino.", "points": { "Python": 0.3, "JavaScript": 0.8, "C": 0.5, "Java": 0.4, "Typescript": 0.6, "FORTRAN": 0.7, "COBOL": 0.4, "Haskell": 0.8 } },
-          { "text": "Calmo, sigo os sinais de trânsito e procuro o mapa na mochila. Não posso arriscar perder o controle.", "points": { "Python": 0.8, "JavaScript": 0.3, "C": 0.6, "Java": 0.5, "Typescript": 0.7, "FORTRAN": 0.3, "COBOL": 0.4, "Haskell": 0.6 } },
-          { "text": "Aceito o caos! O GPS pode ter travado, mas vou achar um jeito de fazer funcionar... ou me perder pelo caminho!", "points": { "Python": 0.4, "JavaScript": 0.7, "C": 0.8, "Java": 0.6, "Typescript": 0.5, "FORTRAN": 0.6, "COBOL": 0.6, "Haskell": 0.5 } }
-        ]
-      },
-      {
-        "question": "Está no meio de um jantar com amigos, e um dos pratos chega completamente errado. O que você faz?",
-        "answers": [
-          { "text": "Eu pego o prato, como do jeito que vier, e depois dou uma dica sobre como fazer melhor da próxima vez.", "points": { "Python": 0.6, "JavaScript": 0.7, "C": 0.4, "Java": 0.3, "Typescript": 0.5, "FORTRAN": 0.8, "COBOL": 0.6, "Haskell": 0.7 } },
-          { "text": "Reclamo um pouco, depois mudo a situação e faço o prato funcionar para mim de qualquer jeito!", "points": { "Python": 0.4, "JavaScript": 0.8, "C": 0.5, "Java": 0.6, "Typescript": 0.7, "FORTRAN": 0.6, "COBOL": 0.7, "Haskell": 0.5 } },
-          { "text": "Explico educadamente o erro, mas deixo claro que vamos seguir todos os passos para que a refeição saia como deveria.", "points": { "Python": 0.8, "JavaScript": 0.5, "C": 0.6, "Java": 0.7, "Typescript": 0.6, "FORTRAN": 0.5, "COBOL": 0.6, "Haskell": 0.6 } },
-          { "text": "Peço desculpas por ser tão detalhista, mas prefiro esperar o prato certo, sem pressa.", "points": { "Python": 0.5, "JavaScript": 0.6, "C": 0.8, "Java": 0.6, "Typescript": 0.4, "FORTRAN": 0.7, "COBOL": 0.5, "Haskell": 0.7 } }
-        ]
-      },
-      {
-        "question": "Você entra em um café e percebe que não há wi-fi. O que você faz?",
-        "answers": [
-          { "text": "Aproveito para conversar com as pessoas ao redor, porque, na verdade, a interação humana pode ser mais interessante do que navegar pela internet.", "points": { "Python": 0.5, "JavaScript": 0.6, "C": 0.4, "Java": 0.5, "Typescript": 0.6, "FORTRAN": 0.7, "COBOL": 0.6, "Haskell": 0.7 } },
-          { "text": "Faço um desenho no guardanapo enquanto espero que a situação se resolva. Não há problema, sempre há uma maneira de criar.", "points": { "Python": 0.7, "JavaScript": 0.5, "C": 0.6, "Java": 0.4, "Typescript": 0.6, "FORTRAN": 0.8, "COBOL": 0.7, "Haskell": 0.5 } },
-          { "text": "Fico em silêncio por um momento e, então, começo a pensar no que fazer com meu tempo sem distrações.", "points": { "Python": 0.8, "JavaScript": 0.4, "C": 0.7, "Java": 0.5, "Typescript": 0.5, "FORTRAN": 0.6, "COBOL": 0.8, "Haskell": 0.6 } },
-          { "text": "Aceito o destino e começo a escrever meu manifesto filosófico sobre a desvantagem de não ter internet.", "points": { "Python": 0.6, "JavaScript": 0.7, "C": 0.8, "Java": 0.6, "Typescript": 0.4, "FORTRAN": 0.5, "COBOL": 0.7, "Haskell": 0.7 } }
-        ]
-      },
-      {
-        "question": "Você está indo a um evento importante e seu traje rasga no caminho. Qual é a sua reação?",
-        "answers": [
-          { "text": "Não sou de perder tempo. Uso o que tenho à mão para fazer o melhor que posso e sigo em frente.", "points": { "Python": 0.8, "JavaScript": 0.4, "C": 0.5, "Java": 0.6, "Typescript": 0.7, "FORTRAN": 0.5, "COBOL": 0.7, "Haskell": 0.6 } },
-          { "text": "Não me importo, decido improvisar e fazer da situação algo único. Agora sou a estrela do evento!", "points": { "Python": 0.6, "JavaScript": 0.7, "C": 0.5, "Java": 0.8, "Typescript": 0.6, "FORTRAN": 0.4, "COBOL": 0.6, "Haskell": 0.7 } },
-          { "text": "Primeiro, faço o possível para consertar o traje de maneira discreta e, se não conseguir, busco alternativas práticas para manter a classe.", "points": { "Python": 0.7, "JavaScript": 0.6, "C": 0.6, "Java": 0.7, "Typescript": 0.8, "FORTRAN": 0.5, "COBOL": 0.7, "Haskell": 0.6 } },
-          { "text": "A solução está nos detalhes. Se eu não conseguir consertar, vou esperar até que alguém me ajude. Não posso deixar nada ao acaso.", "points": { "Python": 0.6, "JavaScript": 0.5, "C": 0.7, "Java": 0.6, "Typescript": 0.6, "FORTRAN": 0.5, "COBOL": 0.0, "Haskell": 0.5 } }
-        ]
-      },
-      {
-        "question": "Se você tivesse que organizar uma festa com amigos, qual seria o tema?",
-        "answers": [
-          { "text": "Escolheria algo simples e direto, onde todos se sentem à vontade e a diversão está nas pequenas coisas.", "points": { "Python": 0.7, "JavaScript": 0.6, "C": 0.4, "Java": 0.5, "Typescript": 0.6, "FORTRAN": 0.7, "COBOL": 0.8, "Haskell": 0.6 } },
-          { "text": "Optaria por algo totalmente fora da caixa, como uma festa no espaço, sem regras e com surpresas a cada esquina!", "points": { "Python": 0.4, "JavaScript": 0.8, "C": 0.7, "Java": 0.5, "Typescript": 0.7, "FORTRAN": 0.6, "COBOL": 0.5, "Haskell": 0.7 } },
-          { "text": "Planejaria tudo minuciosamente: convites, comida, decoração. Cada detalhe precisaria ser perfeito.", "points": { "Python": 0.8, "JavaScript": 0.5, "C": 0.6, "Java": 0.7, "Typescript": 0.8, "FORTRAN": 0.5, "COBOL": 0.7, "Haskell": 0.6 } },
-          { "text": "Eu deixaria as coisas acontecerem naturalmente. Não teria um tema fixo, mas veria como o ambiente se desenvolve.", "points": { "Python": 0.6, "JavaScript": 0.4, "C": 0.5, "Java": 0.8, "Typescript": 0.5, "FORTRAN": 0.0, "COBOL": 0.6, "Haskell": 0.7 } }
-        ]
-      }
+        {
+            "question": "Você está no meio de uma viagem de carro, e o GPS acaba de travar no meio do nada. O que você faz?",
+            "answers": [
+                {
+                    "text": "Eu paro, respiro fundo e começo a procurar uma solução simples. Tenho certeza de que consigo resolver com o mínimo de esforço.",
+                    "points": {
+                        "Python": 0.7,
+                        "JavaScript": 0.6,
+                        "C": 0.2,
+                        "Java": 0.3,
+                        "TypeScript": 0.8,
+                        "FORTRAN": 0.4,
+                        "COBOL": 0.5,
+                        "Haskell": 0.6
+                    }
+                },
+                {
+                    "text": "Eu apago o GPS, sigo instintivamente e espero que o universo me guie para o destino.",
+                    "points": {
+                        "Python": 0.3,
+                        "JavaScript": 0.8,
+                        "C": 0.5,
+                        "Java": 0.4,
+                        "TypeScript": 0.6,
+                        "FORTRAN": 0.7,
+                        "COBOL": 0.4,
+                        "Haskell": 0.8
+                    }
+                },
+                {
+                    "text": "Calmo, sigo os sinais de trânsito e procuro o mapa na mochila. Não posso arriscar perder o controle.",
+                    "points": {
+                        "Python": 0.8,
+                        "JavaScript": 0.3,
+                        "C": 0.6,
+                        "Java": 0.5,
+                        "TypeScript": 0.7,
+                        "FORTRAN": 0.3,
+                        "COBOL": 0.4,
+                        "Haskell": 0.6
+                    }
+                },
+                {
+                    "text": "Aceito o caos! O GPS pode ter travado, mas vou achar um jeito de fazer funcionar... ou me perder pelo caminho!",
+                    "points": {
+                        "Python": 0.4,
+                        "JavaScript": 0.7,
+                        "C": 0.8,
+                        "Java": 0.6,
+                        "TypeScript": 0.5,
+                        "FORTRAN": 0.6,
+                        "COBOL": 0.6,
+                        "Haskell": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Está no meio de um jantar com amigos, e um dos pratos chega completamente errado. O que você faz?",
+            "answers": [
+                {
+                    "text": "Eu pego o prato, como do jeito que vier, e depois dou uma dica sobre como fazer melhor da próxima vez.",
+                    "points": {
+                        "Python": 0.6,
+                        "JavaScript": 0.7,
+                        "C": 0.4,
+                        "Java": 0.3,
+                        "TypeScript": 0.5,
+                        "FORTRAN": 0.8,
+                        "COBOL": 0.6,
+                        "Haskell": 0.7
+                    }
+                },
+                {
+                    "text": "Reclamo um pouco, depois mudo a situação e faço o prato funcionar para mim de qualquer jeito!",
+                    "points": {
+                        "Python": 0.4,
+                        "JavaScript": 0.8,
+                        "C": 0.5,
+                        "Java": 0.6,
+                        "TypeScript": 0.7,
+                        "FORTRAN": 0.6,
+                        "COBOL": 0.7,
+                        "Haskell": 0.5
+                    }
+                },
+                {
+                    "text": "Explico educadamente o erro, mas deixo claro que vamos seguir todos os passos para que a refeição saia como deveria.",
+                    "points": {
+                        "Python": 0.8,
+                        "JavaScript": 0.5,
+                        "C": 0.6,
+                        "Java": 0.7,
+                        "TypeScript": 0.6,
+                        "FORTRAN": 0.5,
+                        "COBOL": 0.6,
+                        "Haskell": 0.6
+                    }
+                },
+                {
+                    "text": "Peço desculpas por ser tão detalhista, mas prefiro esperar o prato certo, sem pressa.",
+                    "points": {
+                        "Python": 0.5,
+                        "JavaScript": 0.6,
+                        "C": 0.8,
+                        "Java": 0.6,
+                        "TypeScript": 0.4,
+                        "FORTRAN": 0.7,
+                        "COBOL": 0.5,
+                        "Haskell": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você entra em um café e percebe que não há wi-fi. O que você faz?",
+            "answers": [
+                {
+                    "text": "Aproveito para conversar com as pessoas ao redor, porque, na verdade, a interação humana pode ser mais interessante do que navegar pela internet.",
+                    "points": {
+                        "Python": 0.5,
+                        "JavaScript": 0.6,
+                        "C": 0.4,
+                        "Java": 0.5,
+                        "TypeScript": 0.6,
+                        "FORTRAN": 0.7,
+                        "COBOL": 0.6,
+                        "Haskell": 0.7
+                    }
+                },
+                {
+                    "text": "Faço um desenho no guardanapo enquanto espero que a situação se resolva. Não há problema, sempre há uma maneira de criar.",
+                    "points": {
+                        "Python": 0.7,
+                        "JavaScript": 0.5,
+                        "C": 0.6,
+                        "Java": 0.4,
+                        "TypeScript": 0.6,
+                        "FORTRAN": 0.8,
+                        "COBOL": 0.7,
+                        "Haskell": 0.5
+                    }
+                },
+                {
+                    "text": "Fico em silêncio por um momento e, então, começo a pensar no que fazer com meu tempo sem distrações.",
+                    "points": {
+                        "Python": 0.8,
+                        "JavaScript": 0.4,
+                        "C": 0.7,
+                        "Java": 0.5,
+                        "TypeScript": 0.5,
+                        "FORTRAN": 0.6,
+                        "COBOL": 0.8,
+                        "Haskell": 0.6
+                    }
+                },
+                {
+                    "text": "Aceito o destino e começo a escrever meu manifesto filosófico sobre a desvantagem de não ter internet.",
+                    "points": {
+                        "Python": 0.6,
+                        "JavaScript": 0.7,
+                        "C": 0.8,
+                        "Java": 0.6,
+                        "TypeScript": 0.4,
+                        "FORTRAN": 0.5,
+                        "COBOL": 0.7,
+                        "Haskell": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você está indo a um evento importante e seu traje rasga no caminho. Qual é a sua reação?",
+            "answers": [
+                {
+                    "text": "Não sou de perder tempo. Uso o que tenho à mão para fazer o melhor que posso e sigo em frente.",
+                    "points": {
+                        "Python": 0.8,
+                        "JavaScript": 0.4,
+                        "C": 0.5,
+                        "Java": 0.6,
+                        "TypeScript": 0.7,
+                        "FORTRAN": 0.5,
+                        "COBOL": 0.7,
+                        "Haskell": 0.6
+                    }
+                },
+                {
+                    "text": "Não me importo, decido improvisar e fazer da situação algo único. Agora sou a estrela do evento!",
+                    "points": {
+                        "Python": 0.6,
+                        "JavaScript": 0.7,
+                        "C": 0.5,
+                        "Java": 0.8,
+                        "TypeScript": 0.6,
+                        "FORTRAN": 0.4,
+                        "COBOL": 0.6,
+                        "Haskell": 0.7
+                    }
+                },
+                {
+                    "text": "Primeiro, faço o possível para consertar o traje de maneira discreta e, se não conseguir, busco alternativas práticas para manter a classe.",
+                    "points": {
+                        "Python": 0.7,
+                        "JavaScript": 0.6,
+                        "C": 0.6,
+                        "Java": 0.7,
+                        "TypeScript": 0.8,
+                        "FORTRAN": 0.5,
+                        "COBOL": 0.7,
+                        "Haskell": 0.6
+                    }
+                },
+                {
+                    "text": "A solução está nos detalhes. Se eu não conseguir consertar, vou esperar até que alguém me ajude. Não posso deixar nada ao acaso.",
+                    "points": {
+                        "Python": 0.6,
+                        "JavaScript": 0.5,
+                        "C": 0.7,
+                        "Java": 0.6,
+                        "TypeScript": 0.6,
+                        "FORTRAN": 0.5,
+                        "COBOL": 0.5,
+                        "Haskell": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você tivesse que organizar uma festa com amigos, qual seria o tema?",
+            "answers": [
+                {
+                    "text": "Escolheria algo simples e direto, onde todos se sentem à vontade e a diversão está nas pequenas coisas.",
+                    "points": {
+                        "Python": 0.7,
+                        "JavaScript": 0.6,
+                        "C": 0.4,
+                        "Java": 0.5,
+                        "TypeScript": 0.6,
+                        "FORTRAN": 0.7,
+                        "COBOL": 0.8,
+                        "Haskell": 0.6
+                    }
+                },
+                {
+                    "text": "Optaria por algo totalmente fora da caixa, como uma festa no espaço, sem regras e com surpresas a cada esquina!",
+                    "points": {
+                        "Python": 0.4,
+                        "JavaScript": 0.8,
+                        "C": 0.7,
+                        "Java": 0.5,
+                        "TypeScript": 0.7,
+                        "FORTRAN": 0.6,
+                        "COBOL": 0.5,
+                        "Haskell": 0.7
+                    }
+                },
+                {
+                    "text": "Planejaria tudo minuciosamente: convites, comida, decoração. Cada detalhe precisaria ser perfeito.",
+                    "points": {
+                        "Python": 0.8,
+                        "JavaScript": 0.5,
+                        "C": 0.6,
+                        "Java": 0.7,
+                        "TypeScript": 0.8,
+                        "FORTRAN": 0.5,
+                        "COBOL": 0.7,
+                        "Haskell": 0.6
+                    }
+                },
+                {
+                    "text": "Eu deixaria as coisas acontecerem naturalmente. Não teria um tema fixo, mas veria como o ambiente se desenvolve.",
+                    "points": {
+                        "Python": 0.6,
+                        "JavaScript": 0.4,
+                        "C": 0.5,
+                        "Java": 0.8,
+                        "TypeScript": 0.5,
+                        "FORTRAN": 0.0,
+                        "COBOL": 0.5,
+                        "Haskell": 0.7
+                    }
+                }
+            ]
+        }
     ],
     "descriptions": {
-      "Python": {
-        "title": "Python",
-        "emoji": "🐍",
-        "subtitle": "O mestre da simplicidade e agilidade.",
-        "text": "Você é flexível e pode resolver problemas de forma rápida e simples, sem perder a elegância."
-      },
-      "JavaScript": {
-        "title": "JavaScript",
-        "emoji": "⚡",
-        "subtitle": "O criador de soluções imprevisíveis.",
-        "text": "Você é criativo, adaptável e não tem medo de mudar o rumo das coisas quando necessário."
-      },
-      "C": {
-        "title": "C",
-        "emoji": "💻",
-        "subtitle": "O especialista em controle e performance.",
-        "text": "Você é eficiente e sempre pensa em como melhorar a performance e controlar o processo."
-      },
-      "Java": {
-        "title": "Java",
-        "emoji": "☕",
-        "subtitle": "O titã do ambiente corporativo.",
-        "text": "Você é robusto, confiável e nunca abandona o seu propósito, mesmo em situações complicadas."
-      },
-      "TypeScript": {
-        "title": "TypeScript",
-        "emoji": "🔧",
-        "subtitle": "A mistura perfeita de estrutura e flexibilidade.",
-        "text": "Você é organizado, estruturado, mas também sabe quando fazer algo mais arriscado."
-      },
-      "FORTRAN": {
-        "title": "FORTRAN",
-        "emoji": "📜",
-        "subtitle": "O cuidadoso mestre do legado.",
-        "text": "Você valoriza a tradição e a eficiência, mas sabe que às vezes é necessário avançar com cautela."
-      },
-      "COBOL": {
-        "title": "COBOL",
-        "emoji": "🖥️",
-        "subtitle": "O cuidador do sistema antigo.",
-        "text": "Você é clássico, confiável e gosta de manter tudo organizado, sem surpresas."
-      },
-      "Haskell": {
-        "title": "Haskell",
-        "emoji": "🧠",
-        "subtitle": "O filósofo das abstrações.",
-        "text": "Você é pragmático, lógico e nunca tem medo de se aprofundar em questões complexas."
-      }
+        "Python": {
+            "title": "Python",
+            "emoji": "🐍",
+            "subtitle": "O mestre da simplicidade e agilidade.",
+            "text": "Você é flexível e pode resolver problemas de forma rápida e simples, sem perder a elegância."
+        },
+        "JavaScript": {
+            "title": "JavaScript",
+            "emoji": "⚡",
+            "subtitle": "O criador de soluções imprevisíveis.",
+            "text": "Você é criativo, adaptável e não tem medo de mudar o rumo das coisas quando necessário."
+        },
+        "C": {
+            "title": "C",
+            "emoji": "💻",
+            "subtitle": "O especialista em controle e performance.",
+            "text": "Você é eficiente e sempre pensa em como melhorar a performance e controlar o processo."
+        },
+        "Java": {
+            "title": "Java",
+            "emoji": "☕",
+            "subtitle": "O titã do ambiente corporativo.",
+            "text": "Você é robusto, confiável e nunca abandona o seu propósito, mesmo em situações complicadas."
+        },
+        "TypeScript": {
+            "title": "TypeScript",
+            "emoji": "🔧",
+            "subtitle": "A mistura perfeita de estrutura e flexibilidade.",
+            "text": "Você é organizado, estruturado, mas também sabe quando fazer algo mais arriscado."
+        },
+        "FORTRAN": {
+            "title": "FORTRAN",
+            "emoji": "📜",
+            "subtitle": "O cuidadoso mestre do legado.",
+            "text": "Você valoriza a tradição e a eficiência, mas sabe que às vezes é necessário avançar com cautela."
+        },
+        "COBOL": {
+            "title": "COBOL",
+            "emoji": "🖥️",
+            "subtitle": "O cuidador do sistema antigo.",
+            "text": "Você é clássico, confiável e gosta de manter tudo organizado, sem surpresas."
+        },
+        "Haskell": {
+            "title": "Haskell",
+            "emoji": "🧠",
+            "subtitle": "O filósofo das abstrações.",
+            "text": "Você é pragmático, lógico e nunca tem medo de se aprofundar em questões complexas."
+        }
     }
-  }
-  
+}
