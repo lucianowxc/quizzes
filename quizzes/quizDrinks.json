@@ -1,0 +1,319 @@
+{
+    "title": "Qual drink eu deveria tomar hoje?",
+    "questions": [
+        {
+            "question": "Como você descreveria seu humor atual?",
+            "answers": [
+                {
+                    "text": "Estou feliz e animado(a)! 😄",
+                    "points": {
+                        "Caipirinha": 0.5,
+                        "Martini": 0.2,
+                        "Margarita": 0.8,
+                        "Old Fashioned": 0.1,
+                        "Pina Colada": 0.7,
+                        "Cosmopolitan": 0.6,
+                        "Whiskey Sour": 0.3,
+                        "Mojito": 0.4
+                    }
+                },
+                {
+                    "text": "Estou um pouco triste e precisando de algo para me animar. 😔",
+                    "points": {
+                        "Caipirinha": 0.3,
+                        "Martini": 0.4,
+                        "Margarita": 0.6,
+                        "Old Fashioned": 0.2,
+                        "Pina Colada": 0.8,
+                        "Cosmopolitan": 0.7,
+                        "Whiskey Sour": 0.5,
+                        "Mojito": 0.4
+                    }
+                },
+                {
+                    "text": "Estou estressado(a) e preciso relaxar. 🤔",
+                    "points": {
+                        "Caipirinha": 0.4,
+                        "Martini": 0.7,
+                        "Margarita": 0.5,
+                        "Old Fashioned": 0.3,
+                        "Pina Colada": 0.6,
+                        "Cosmopolitan": 0.5,
+                        "Whiskey Sour": 0.4,
+                        "Mojito": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é o seu clima preferido para beber um drink?",
+            "answers": [
+                {
+                    "text": "Quente e ensolarado 🌞",
+                    "points": {
+                        "Caipirinha": 0.8,
+                        "Martini": 0.3,
+                        "Margarita": 0.7,
+                        "Old Fashioned": 0.2,
+                        "Pina Colada": 0.9,
+                        "Cosmopolitan": 0.6,
+                        "Whiskey Sour": 0.4,
+                        "Mojito": 0.7
+                    }
+                },
+                {
+                    "text": "Frio e chuvoso ☁️",
+                    "points": {
+                        "Caipirinha": 0.4,
+                        "Martini": 0.6,
+                        "Margarita": 0.5,
+                        "Old Fashioned": 0.8,
+                        "Pina Colada": 0.3,
+                        "Cosmopolitan": 0.4,
+                        "Whiskey Sour": 0.7,
+                        "Mojito": 0.5
+                    }
+                },
+                {
+                    "text": "Ambiente descontraído e social 🎉",
+                    "points": {
+                        "Caipirinha": 0.6,
+                        "Martini": 0.7,
+                        "Margarita": 0.8,
+                        "Old Fashioned": 0.4,
+                        "Pina Colada": 0.5,
+                        "Cosmopolitan": 0.9,
+                        "Whiskey Sour": 0.5,
+                        "Mojito": 0.6
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é o seu paladar preferido em um drink?",
+            "answers": [
+                {
+                    "text": "Doce e frutado 🍓",
+                    "points": {
+                        "Caipirinha": 0.7,
+                        "Martini": 0.3,
+                        "Margarita": 0.6,
+                        "Old Fashioned": 0.2,
+                        "Pina Colada": 0.9,
+                        "Cosmopolitan": 0.8,
+                        "Whiskey Sour": 0.4,
+                        "Mojito": 0.5
+                    }
+                },
+                {
+                    "text": "Amargo e complexo 🍵",
+                    "points": {
+                        "Caipirinha": 0.3,
+                        "Martini": 0.7,
+                        "Margarita": 0.4,
+                        "Old Fashioned": 0.9,
+                        "Pina Colada": 0.2,
+                        "Cosmopolitan": 0.3,
+                        "Whiskey Sour": 0.8,
+                        "Mojito": 0.4
+                    }
+                },
+                {
+                    "text": "Cítrico e refrescante 🍋",
+                    "points": {
+                        "Caipirinha": 0.5,
+                        "Martini": 0.4,
+                        "Margarita": 0.7,
+                        "Old Fashioned": 0.3,
+                        "Pina Colada": 0.5,
+                        "Cosmopolitan": 0.6,
+                        "Whiskey Sour": 0.7,
+                        "Mojito": 0.8
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é a ocasião para beber um drink?",
+            "answers": [
+                {
+                    "text": "Celebrar uma conquista 🎉",
+                    "points": {
+                        "Caipirinha": 0.6,
+                        "Martini": 0.8,
+                        "Margarita": 0.7,
+                        "Old Fashioned": 0.5,
+                        "Pina Colada": 0.6,
+                        "Cosmopolitan": 0.9,
+                        "Whiskey Sour": 0.4,
+                        "Mojito": 0.5
+                    }
+                },
+                {
+                    "text": "Relaxar após um longo dia 🛌",
+                    "points": {
+                        "Caipirinha": 0.4,
+                        "Martini": 0.5,
+                        "Margarita": 0.6,
+                        "Old Fashioned": 0.7,
+                        "Pina Colada": 0.4,
+                        "Cosmopolitan": 0.5,
+                        "Whiskey Sour": 0.8,
+                        "Mojito": 0.6
+                    }
+                },
+                {
+                    "text": "Experimentar algo novo e diferente 🧐",
+                    "points": {
+                        "Caipirinha": 0.5,
+                        "Martini": 0.6,
+                        "Margarita": 0.8,
+                        "Old Fashioned": 0.4,
+                        "Pina Colada": 0.5,
+                        "Cosmopolitan": 0.7,
+                        "Whiskey Sour": 0.5,
+                        "Mojito": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é a sua preferência por ingredientes?",
+            "answers": [
+                {
+                    "text": "Prefiro bebidas com frutas frescas 🍓",
+                    "points": {
+                        "Caipirinha": 0.8,
+                        "Martini": 0.3,
+                        "Margarita": 0.7,
+                        "Old Fashioned": 0.2,
+                        "Pina Colada": 0.9,
+                        "Cosmopolitan": 0.6,
+                        "Whiskey Sour": 0.4,
+                        "Mojito": 0.7
+                    }
+                },
+                {
+                    "text": "Gosto de drinks com base em destilados puros 🥃",
+                    "points": {
+                        "Caipirinha": 0.4,
+                        "Martini": 0.8,
+                        "Margarita": 0.5,
+                        "Old Fashioned": 0.9,
+                        "Pina Colada": 0.3,
+                        "Cosmopolitan": 0.4,
+                        "Whiskey Sour": 0.7,
+                        "Mojito": 0.5
+                    }
+                },
+                {
+                    "text": "Adoro bebidas com sabores cítricos e ácidos 🍋",
+                    "points": {
+                        "Caipirinha": 0.6,
+                        "Martini": 0.4,
+                        "Margarita": 0.7,
+                        "Old Fashioned": 0.3,
+                        "Pina Colada": 0.5,
+                        "Cosmopolitan": 0.6,
+                        "Whiskey Sour": 0.8,
+                        "Mojito": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é o seu nível de experiência com drinks?",
+            "answers": [
+                {
+                    "text": "Sou um entusiasta e experimento frequentemente 🥃",
+                    "points": {
+                        "Caipirinha": 0.6,
+                        "Martini": 0.8,
+                        "Margarita": 0.7,
+                        "Old Fashioned": 0.9,
+                        "Pina Colada": 0.5,
+                        "Cosmopolitan": 0.7,
+                        "Whiskey Sour": 0.6,
+                        "Mojito": 0.5
+                    }
+                },
+                {
+                    "text": "Bebo ocasionalmente e prefiro opções fáceis e conhecidas 🍹",
+                    "points": {
+                        "Caipirinha": 0.7,
+                        "Martini": 0.5,
+                        "Margarita": 0.8,
+                        "Old Fashioned": 0.4,
+                        "Pina Colada": 0.7,
+                        "Cosmopolitan": 0.6,
+                        "Whiskey Sour": 0.5,
+                        "Mojito": 0.6
+                    }
+                },
+                {
+                    "text": "Sou iniciante e prefiro drinks suaves e não muito alcoólicos 🍹",
+                    "points": {
+                        "Caipirinha": 0.5,
+                        "Martini": 0.4,
+                        "Margarita": 0.6,
+                        "Old Fashioned": 0.3,
+                        "Pina Colada": 0.8,
+                        "Cosmopolitan": 0.7,
+                        "Whiskey Sour": 0.4,
+                        "Mojito": 0.7
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "Caipirinha": {
+            "title": "Caipirinha",
+            "emoji": "🍹",
+            "subtitle": "A brisa tropical em sua taça",
+            "text": "Você prefere algo fresco e refrescante que capture a essência do verão. A caipirinha é a escolha perfeita para quem quer saborear a simplicidade dos ingredientes naturais."
+        },
+        "Martini": {
+            "title": "Martini",
+            "emoji": "🍾",
+            "subtitle": "Elegante e sofisticado",
+            "text": "Você aprecia a sofisticação e a elegância. Um martini bem preparado é sinônimo de classe e refinamento, ideal para quem busca um drink que reflita sua personalidade."
+        },
+        "Margarita": {
+            "title": "Margarita",
+            "emoji": "🍸",
+            "subtitle": "Perfeita para os amantes de tequila",
+            "text": "Se você é fã de tequila e gostos sutis de limão, a margarita é a sua escolha. É refrescante e tem um equilíbrio perfeito entre doce e ácido."
+        },
+        "Old Fashioned": {
+            "title": "Old Fashioned",
+            "emoji": "🥃",
+            "subtitle": "Clássico e robusto",
+            "text": "Você valoriza tradição e qualidade. O Old Fashioned é um drink icônico, simples mas cheio de sabor, perfeito para quem aprecia o essencial."
+        },
+        "Pina Colada": {
+            "title": "Pina Colada",
+            "emoji": "🍍",
+            "subtitle": "Tropical e doce",
+            "text": "Se você está à procura de algo doce e tropical, a pina colada é a sua bebida ideal. É perfeita para dias quentes e ambientes relaxantes."
+        },
+        "Cosmopolitan": {
+            "title": "Cosmopolitan",
+            "emoji": "🍑",
+            "subtitle": "Feminino e moderno",
+            "text": "Você prefere drinks coloridos e modernos. O cosmopolitan é uma escolha elegante e feminina, com um sabor suave e refrescante."
+        },
+        "Whiskey Sour": {
+            "title": "Whiskey Sour",
+            "emoji": "🍋",
+            "subtitle": "Tradicional e cítrico",
+            "text": "Para os amantes de whiskey, um whiskey sour combina perfeitamente o sabor do whiskey com o frescor do sumo de limão e um toque de açúcar."
+        },
+        "Mojito": {
+            "title": "Mojito",
+            "emoji": "🍃",
+            "subtitle": "Refrescante e mentolado",
+            "text": "O mojito é uma bebida refrescante com menta, perfeita para aqueles que gostam de um sabor fresco e revitalizante. É ideal para dias quentes ou momentos relaxantes."
+        }
+    }
+}
