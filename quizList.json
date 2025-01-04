@@ -159,6 +159,11 @@
           "name": "Que musical você seria?",
           "file": "quizzes/quizMusicais.json",
           "description": "Descubra qual musical mais se parece com você!"
+        },
+        {
+          "name": "Qual sabor de detergente você seria?",
+          "file": "quizzes/quizDetergente.json",
+          "description": "Descubra qual sabor de detergente reflete melhor a sua personalidade!"
         }
     ]
 }
