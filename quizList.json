@@ -164,6 +164,11 @@
           "name": "Qual sabor de detergente você seria?",
           "file": "quizzes/quizDetergente.json",
           "description": "Descubra qual sabor de detergente reflete melhor a sua personalidade!"
+        },
+        {
+          "name": "Qual Tipo de Gato Você É?",
+          "file": "quizzes/quizGatos.json",
+          "description": "Descubra qual tipo de gato mais se parece com você!"
         }
     ]
 }
