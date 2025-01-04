@@ -1,0 +1,241 @@
+{
+    "title": "Qual tipo de gato você seria?",
+    "questions": [
+        {
+            "question": "Você gosta de passar o tempo...",
+            "answers": [
+                {
+                    "text": "Caçando insetos e pequenos animais 🐜",
+                    "points": {
+                        "Gato Preto": 2,
+                        "Gato Rajado": 1
+                    }
+                },
+                {
+                    "text": "Dormindo ao sol e relaxando 🌞",
+                    "points": {
+                        "Gato Sphynx": 2,
+                        "Gato Calico": 1
+                    }
+                },
+                {
+                    "text": "Brincando com fios e cordas 🎀",
+                    "points": {
+                        "Gato Rajado": 2,
+                        "Gato Siamês": 1
+                    }
+                },
+                {
+                    "text": "Explorando novos lugares e ambientes 🏞️",
+                    "points": {
+                        "Gato Siamês": 2,
+                        "Gato Preto": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Como você lida com a presença de estranhos em sua casa?",
+            "answers": [
+                {
+                    "text": "Ignorando os estranhos 🙅‍♂️",
+                    "points": {
+                        "Gato Preto": 2,
+                        "Gato Frajola": 1
+                    }
+                },
+                {
+                    "text": "Recebendo os estranhos com um miado amigável e um aceno de cabeça 🐾",
+                    "points": {
+                        "Gato Frajola": 2,
+                        "Gato Calico": 1
+                    }
+                },
+                {
+                    "text": "Olhando os estranhos de cima a baixo e decidindo se eles são dignos de atenção 👀",
+                    "points": {
+                        "Gato Siamês": 2,
+                        "Gato Rajado": 1
+                    }
+                },
+                {
+                    "text": "Perseguindo os estranhos e tentando afastá-los 🚫",
+                    "points": {
+                        "Gato Preto": 2,
+                        "Gato Frajola": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "O que você mais gosta de fazer em seu tempo livre?",
+            "answers": [
+                {
+                    "text": "Caçando e brincando com brinquedos 🎮",
+                    "points": {
+                        "Gato Rajado": 2,
+                        "Gato Siamês": 1
+                    }
+                },
+                {
+                    "text": "Dormindo e sonhando com peixes 🐟",
+                    "points": {
+                        "Gato Sphynx": 2,
+                        "Gato Calico": 1
+                    }
+                },
+                {
+                    "text": "Explorando e descobrindo novos lugares 🗺️",
+                    "points": {
+                        "Gato Siamês": 2,
+                        "Gato Preto": 1
+                    }
+                },
+                {
+                    "text": "Se arranhando e se limpando 🧖‍♀️",
+                    "points": {
+                        "Gato Frajola": 2,
+                        "Gato Rajado": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Como você se sente em relação à água?",
+            "answers": [
+                {
+                    "text": "Adorando a água e brincando com ela 🌊",
+                    "points": {
+                        "Gato Calico": 2,
+                        "Gato Siamês": 1
+                    }
+                },
+                {
+                    "text": "Tolerando a água, mas não gostando de se molhar 🚿",
+                    "points": {
+                        "Gato Frajola": 2,
+                        "Gato Preto": 1
+                    }
+                },
+                {
+                    "text": "Evitando a água a todo custo e não gostando de se aproximar dela 🚫",
+                    "points": {
+                        "Gato Preto": 2,
+                        "Gato Rajado": 1
+                    }
+                },
+                {
+                    "text": "Ignorando a água e não se importando com ela 🙅‍♂️",
+                    "points": {
+                        "Gato Sphynx": 2,
+                        "Gato Calico": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você é um gato...",
+            "answers": [
+                {
+                    "text": "Muito independente e não gostando de ser perturbado 🚫",
+                    "points": {
+                        "Gato Preto": 2,
+                        "Gato Frajola": 1
+                    }
+                },
+                {
+                    "text": "Muito sociável e gostando de estar perto das pessoas 👫",
+                    "points": {
+                        "Gato Frajola": 2,
+                        "Gato Calico": 1
+                    }
+                },
+                {
+                    "text": "Muito curioso e gostando de explorar e descobrir coisas novas 🗺️",
+                    "points": {
+                        "Gato Siamês": 2,
+                        "Gato Rajado": 1
+                    }
+                },
+                {
+                    "text": "Muito preguiçoso e gostando de dormir o dia todo 😴",
+                    "points": {
+                        "Gato Sphynx": 2,
+                        "Gato Calico": 1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "O que você mais valoriza na vida?",
+            "answers": [
+                {
+                    "text": "A liberdade e a independência 🕊️",
+                    "points": {
+                        "Gato Preto": 2,
+                        "Gato Rajado": 1
+                    }
+                },
+                {
+                    "text": "A comida e a comida 🍽️",
+                    "points": {
+                        "Gato Frajola": 2,
+                        "Gato Calico": 1
+                    }
+                },
+                {
+                    "text": "A atenção e o carinho 🐾",
+                    "points": {
+                        "Gato Siamês": 2,
+                        "Gato Rajado": 1
+                    }
+                },
+                {
+                    "text": "A aventura e a exploração 🎉",
+                    "points": {
+                        "Gato Rajado": 2,
+                        "Gato Siamês": 1
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "Gato Preto": {
+            "title": "Gato Preto",
+            "emoji": "⚫️",
+            "subtitle": "O misterioso guardião da noite",
+            "text": "Você é um gato que se sente mais confortável na escuridão, onde pode se mover livremente e sem ser visto. Sua personalidade é como uma noite sem lua, cheia de mistérios e segredos. Você é leal e protetor com aqueles que ama, mas também pode ser um pouco reservado e difícil de se aproximar."
+        },
+        "Gato Frajola": {
+            "title": "Gato Frajola",
+            "emoji": "🐈",
+            "subtitle": "O charmeiro da casa",
+            "text": "Você é um gato que sabe como fazer as pessoas se sentirem especiais. Sua personalidade é como um raio de sol, quente e acolhedora. Você adora ser o centro das atenções e fazer as pessoas rirem. No entanto, você também tem um lado mais sensível e emocional, que você apenas mostra para aqueles que são próximos de você."
+        },
+        "Gato Rajado": {
+            "title": "Gato Rajado",
+            "emoji": "🐈",
+            "subtitle": "O aventureiro da selva",
+            "text": "Você é um gato que ama a liberdade e a aventura. Sua personalidade é como uma tempestade, cheia de energia e movimento. Você é sempre pronto para explorar novos lugares e descobrir coisas novas. No entanto, você também pode ser um pouco impulsivo e não pensar nas consequências de suas ações."
+        },
+        "Gato Siamês": {
+            "title": "Gato Siamês",
+            "emoji": "🐱️",
+            "subtitle": "O sofisticado da corte",
+            "text": "Você é um gato que se sente mais confortável em ambientes refinados e cultos. Sua personalidade é como uma obra de arte, elegante e sofisticada. Você é inteligente e curioso, e adora aprender coisas novas. No entanto, você também pode ser um pouco perfeccionista e exigente com os outros."
+        },
+        "Gato Calico": {
+            "title": "Gato Calico",
+            "emoji": "🌈",
+            "subtitle": "A artista da cor",
+            "text": "Você é um gato que vê o mundo em cores vibrantes e intensas. Sua personalidade é como um quadro de pintura, cheio de detalhes e texturas. Você é criativa e expressiva, e adora mostrar sua personalidade através da arte e da música. No entanto, você também pode ser um pouco desorganizada e esquecida, e precisar de ajuda para se manter no caminho certo."
+        },
+        "Gato Sphynx": {
+            "title": "Gato Sphynx",
+            "emoji": "👽",
+            "subtitle": "O alienígena da família",
+            "text": "Você é um gato que se sente como um estranho em um mundo estranho. Sua personalidade é como um enigma, cheio de mistérios e contradições. Você é curioso e aventureiro, e adora explorar novos lugares e descobrir coisas novas. No entanto, você também pode ser um pouco incompreendido e isolado, e precisar de ajuda para se conectar com os outros."
+        }
+    }
+}
