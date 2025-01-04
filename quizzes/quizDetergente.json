@@ -1,0 +1,119 @@
+{
+    "title": "Qual sabor de detergente você seria?",
+    "questions": [
+      {
+        "question": "Qual dessas atividades te define num sábado à tarde?",
+        "answers": [
+          { "text": "Organizando tudo em casa", "points": { "neutro": 1, "limao": 0.5, "coco": 0.3, "lavanda": 0.7, "jabuticaba": 0.4, "capim_limao": 0.6, "maca": 0.8, "cristal": 0.5 } },
+          { "text": "Fazendo um piquenique no parque", "points": { "capim_limao": 1, "maca": 0.7, "lavanda": 0.5, "coco": 0.8, "jabuticaba": 0.6, "neutro": 0.4, "limao": 0.5, "cristal": 0.3 } },
+          { "text": "Experimentando uma receita nova", "points": { "jabuticaba": 1, "maca": 0.9, "cristal": 0.8, "limao": 0.6, "coco": 0.4, "capim_limao": 0.5, "neutro": 0.3, "lavanda": 0.7 } },
+          { "text": "Colocando as séries em dia", "points": { "lavanda": 1, "cristal": 0.9, "neutro": 0.6, "capim_limao": 0.7, "maca": 0.5, "jabuticaba": 0.4, "limao": 0.3, "coco": 0.5 } }
+        ]
+      },
+      {
+        "question": "O que não pode faltar na sua cozinha?",
+        "answers": [
+          { "text": "Um bom café", "points": { "neutro": 0.7, "capim_limao": 0.8, "maca": 0.6, "limao": 0.5, "jabuticaba": 0.4, "cristal": 0.9, "lavanda": 0.3, "coco": 0.5 } },
+          { "text": "Frutas frescas", "points": { "maca": 1, "limao": 0.9, "capim_limao": 0.7, "jabuticaba": 0.6, "neutro": 0.5, "lavanda": 0.4, "coco": 0.3, "cristal": 0.8 } },
+          { "text": "Flores na mesa", "points": { "lavanda": 1, "capim_limao": 0.9, "coco": 0.8, "jabuticaba": 0.7, "maca": 0.6, "neutro": 0.5, "limao": 0.4, "cristal": 0.3 } },
+          { "text": "Uma playlist de fundo", "points": { "cristal": 1, "jabuticaba": 0.8, "limao": 0.7, "neutro": 0.6, "capim_limao": 0.5, "lavanda": 0.4, "maca": 0.3, "coco": 0.9 } }
+        ]
+      },
+      {
+        "question": "Se você fosse um aroma, qual seria seu efeito nas pessoas?",
+        "answers": [
+          { "text": "Acalmar e trazer paz", "points": { "lavanda": 1, "capim_limao": 0.9, "neutro": 0.8, "coco": 0.7, "maca": 0.5, "jabuticaba": 0.4, "cristal": 0.3, "limao": 0.6 } },
+          { "text": "Energizar e animar", "points": { "limao": 1, "maca": 0.8, "capim_limao": 0.7, "jabuticaba": 0.6, "cristal": 0.5, "neutro": 0.4, "lavanda": 0.3, "coco": 0.9 } },
+          { "text": "Surpreender e intrigar", "points": { "jabuticaba": 1, "cristal": 0.9, "lavanda": 0.8, "limao": 0.7, "capim_limao": 0.6, "neutro": 0.5, "maca": 0.4, "coco": 0.3 } },
+          { "text": "Deixar tudo mais fresco", "points": { "capim_limao": 1, "maca": 0.9, "limao": 0.8, "cristal": 0.7, "neutro": 0.6, "jabuticaba": 0.5, "coco": 0.4, "lavanda": 0.3 } }
+        ]
+      },
+      {
+        "question": "Você tem um evento importante e acidentalmente derruba suco em sua roupa favorita. O que você faz?",
+        "answers": [
+          { "text": "Troca de roupa imediatamente e tenta esquecer o incidente.", "points": { "neutro": 1, "lavanda": 0.5, "cristal": 0.6, "coco": 0.7, "capim_limao": 0.4, "maca": 0.3, "limao": 0.8, "jabuticaba": 0.2 } },
+          { "text": "Tenta limpar a mancha com um lenço umedecido e continua com seu dia.", "points": { "maca": 1, "jabuticaba": 0.5, "capim_limao": 0.6, "lavanda": 0.7, "cristal": 0.4, "limao": 0.3, "coco": 0.8, "neutro": 0.2 } },
+          { "text": "Corre para casa e lava a peça com urgência, não importa o atraso.", "points": { "capim_limao": 1, "neutro": 0.5, "lavanda": 0.6, "maca": 0.7, "cristal": 0.4, "coco": 0.3, "jabuticaba": 0.8, "limao": 0.2 } },
+          { "text": "Ignora a mancha e segue em frente, afinal, acidentes acontecem.", "points": { "cristal": 1, "coco": 0.5, "jabuticaba": 0.6, "limao": 0.7, "lavanda": 0.4, "neutro": 0.3, "capim_limao": 0.8, "maca": 0.2 } }
+        ]
+      },
+      {
+        "question": "Você está dividido entre duas tarefas importantes, uma urgente no trabalho e outra pessoal que envolve um amigo. Como você lida com isso?",
+        "answers": [
+          { "text": "Prioriza o trabalho, pois ele sustenta suas responsabilidades.", "points": { "lavanda": 1, "capim_limao": 0.5, "coco": 0.3, "neutro": 0.8, "maca": 0.6, "jabuticaba": 0.4, "cristal": 0.7, "limao": 0.2 } },
+          { "text": "Equilibra as duas tarefas, dividindo seu tempo entre ambas.", "points": { "coco": 1, "neutro": 0.5, "cristal": 0.6, "lavanda": 0.3, "capim_limao": 0.8, "maca": 0.7, "limao": 0.4, "jabuticaba": 0.2 } },
+          { "text": "Foca na tarefa pessoal, acreditando na importância das relações.", "points": { "jabuticaba": 1, "maca": 0.5, "limao": 0.6, "capim_limao": 0.3, "coco": 0.8, "lavanda": 0.7, "neutro": 0.4, "cristal": 0.2 } },
+          { "text": "Tenta resolver a situação delegando a tarefa de trabalho a um colega.", "points": { "neutro": 1, "lavanda": 0.5, "cristal": 0.6, "capim_limao": 0.3, "jabuticaba": 0.8, "coco": 0.7, "maca": 0.4, "limao": 0.2 } }
+        ]
+      },
+      {
+        "question": "Como você lida com um conflito entre amigos?",
+        "answers": [
+          { "text": "Tento intermediar e fazer as pazes logo.", "points": { "capim_limao": 1, "lavanda": 0.8, "maca": 0.7, "neutro": 0.6, "coco": 0.5, "jabuticaba": 0.4, "limao": 0.3, "cristal": 0.2 } },
+          { "text": "Fico de fora, esperando que eles se resolvam sozinhos.", "points": { "neutro": 1, "cristal": 0.7, "maca": 0.6, "limao": 0.8, "capim_limao": 0.5, "jabuticaba": 0.4, "lavanda": 0.3, "coco": 0.2 } },
+          { "text": "Faço uma piada para quebrar o clima e aliviar a tensão.", "points": { "jabuticaba": 1, "cristal": 0.7, "limao": 0.6, "coco": 0.5, "capim_limao": 0.4, "neutro": 0.3, "maca": 0.8, "lavanda": 0.2 } },
+          { "text": "Fico chateado e dou um tempo para digerir as coisas.", "points": { "lavanda": 1, "neutro": 0.8, "maca": 0.7, "coco": 0.6, "jabuticaba": 0.5, "cristal": 0.4, "limao": 0.3, "capim_limao": 0.2 } }
+        ]
+      },
+      {
+        "question": "Se sua personalidade fosse um tempero, qual seria?",
+        "answers": [
+          { "text": "Canela – doce, mas com presença", "points": { "jabuticaba": 1, "lavanda": 0.8, "maca": 0.6, "cristal": 0.7, "capim_limao": 0.5, "neutro": 0.4, "coco": 0.3, "limao": 0.9 } },
+          { "text": "Pimenta – forte e inesquecível", "points": { "limao": 1, "capim_limao": 0.8, "cristal": 0.7, "maca": 0.6, "neutro": 0.5, "coco": 0.4, "lavanda": 0.3, "jabuticaba": 0.9 } },
+          { "text": "Manjericão – clássico e equilibrado", "points": { "capim_limao": 1, "neutro": 0.9, "maca": 0.8, "coco": 0.7, "limao": 0.6, "lavanda": 0.5, "cristal": 0.4, "jabuticaba": 0.3 } },
+          { "text": "Baunilha – reconfortante e adorável", "points": { "lavanda": 1, "coco": 0.9, "cristal": 0.8, "maca": 0.7, "capim_limao": 0.6, "neutro": 0.5, "jabuticaba": 0.4, "limao": 0.3 } }
+        ]
+      }
+    ],
+    "descriptions": {
+      "neutro": {
+        "title": "Neutro",
+        "emoji": "⚪",
+        "subtitle": "Você é a paz em forma de detergente",
+        "text": "Simples, eficiente e sem frescura. Você não precisa de firulas para se destacar. Seu lema é 'faça o básico bem feito'."
+      },
+      "limao": {
+        "title": "Limão",
+        "emoji": "🍋",
+        "subtitle": "Refrescante e direto ao ponto",
+        "text": "Você traz aquele toque de acidez necessário para resolver qualquer situação. Nada como uma presença cítrica para animar o ambiente!"
+      },
+      "maca": {
+        "title": "Maçã",
+        "emoji": "🍎",
+        "subtitle": "Doce, mas sem perder a firmeza",
+        "text": "Você é amigável e acolhedor, mas sabe colocar limites. Sempre deixa uma sensação agradável por onde passa."
+      },
+      "coco": {
+        "title": "Coco",
+        "emoji": "🥥",
+        "subtitle": "Praiano e desapegado",
+        "text": "Relaxado, você vive em um eterno clima tropical. As coisas podem estar desmoronando ao seu redor, mas você continua com aquele ar de 'tudo de boa'."
+      },
+      "capim_limao": {
+        "title": "Capim-limão",
+        "emoji": "🌱",
+        "subtitle": "Zen e equilibrado",
+        "text": "Você exala tranquilidade e frescor. Mesmo nas situações mais caóticas, seu jeito sereno traz calma para quem está por perto."
+      },
+      "jabuticaba": {
+        "title": "Jabuticaba",
+        "emoji": "🍇",
+        "subtitle": "Único e cheio de personalidade",
+        "text": "Você é aquela pessoa que ninguém sabe muito bem de onde veio, mas todo mundo quer por perto. Diferente, divertido e meio raro de se encontrar."
+      },
+      "lavanda": {
+        "title": "Lavanda",
+        "emoji": "💜",
+        "subtitle": "Suave e encantador",
+        "text": "Seu estilo discreto conquista corações. Você tem um jeito delicado que conquista até os mais céticos, deixando um toque de mistério no ar."
+      },
+      "cristal": {
+        "title": "Cristal",
+        "emoji": "✨",
+        "subtitle": "Brilhante e impecável",
+        "text": "Você não passa despercebido. Sempre reluzindo, você adora impressionar e mostrar que nenhum desafio é grande demais para o seu brilho."
+      }
+    }
+  }
+  
