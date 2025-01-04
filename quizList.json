@@ -169,6 +169,11 @@
           "name": "Qual Tipo de Gato Você É?",
           "file": "quizzes/quizGatos.json",
           "description": "Descubra qual tipo de gato mais se parece com você!"
+        },
+        {
+          "name": "Qual drink eu deveria tomar hoje?",
+          "file": "quizzes/quizDrinks.json",
+          "description": "Descubra qual drink combina com o seu humor e preferências!"
         }
     ]
 }
