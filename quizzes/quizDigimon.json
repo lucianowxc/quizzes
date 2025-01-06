@@ -1,0 +1,286 @@
+{
+    "title": "Qual é o Brasão do Digimon que Você Carrega?",
+    "questions": [
+        {
+            "question": "O Desafio da Escola 🏫: Na escola, você e seu melhor amigo enfrentam um problema com colegas. Como você reage?",
+            "answers": [
+                {
+                    "text": "Enfrentamos juntos! Nossa amizade é nossa força! 💪",
+                    "points": {
+                        "Coragem": 1,
+                        "Amizade": 0.5
+                    }
+                },
+                {
+                    "text": "Vamos conversar com a professora. Ela pode nos ajudar. 📚",
+                    "points": {
+                        "Sinceridade": 1,
+                        "Conhecimento": 1
+                    }
+                },
+                {
+                    "text": "Precisamos de um plano criativo. Vamos pensar em algo divertido! 💡",
+                    "points": {
+                        "Esperança": 1,
+                        "Confiança": 0.7
+                    }
+                },
+                {
+                    "text": "Analisar a situação é importante. Vamos encontrar uma solução pacífica. 🧠",
+                    "points": {
+                        "Sinceridade": 1,
+                        "Conhecimento": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Aventura no Parque 🌳: Durante um passeio, vocês encontram um animal em perigo. Qual é a sua atitude?",
+            "answers": [
+                {
+                    "text": "Vamos agir rápido e salvar o animal! 🏃‍♀️",
+                    "points": {
+                        "Coragem": 1,
+                        "Confiança": 0.7
+                    }
+                },
+                {
+                    "text": "A beleza da vida brilha aqui. Vamos cuidar e proteger. 🦋",
+                    "points": {
+                        "Luz": 1,
+                        "Amizade": 0.6
+                    }
+                },
+                {
+                    "text": "Confio em mim mesma. Vamos salvar o animal juntos! 🤝",
+                    "points": {
+                        "Amizade": 1,
+                        "Amor": 0.7
+                    }
+                },
+                {
+                    "text": "Vamos tirar fotos e compartilhar nas redes. 📷",
+                    "points": {
+                        "Sinceridade": 1,
+                        "Conhecimento": 0.4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "O Torneio 🎮: Em um torneio, você enfrenta um adversário difícil. Como você reage?",
+            "answers": [
+                {
+                    "text": "Vamos jogar com estratégia! 🎮",
+                    "points": {
+                        "Conhecimento": 1,
+                        "Confiança": 0.6
+                    }
+                },
+                {
+                    "text": "Vamos dar o nosso melhor! 🏆",
+                    "points": {
+                        "Coragem": 1,
+                        "Esperança": 0.5
+                    }
+                },
+                {
+                    "text": "Vamos jogar juntos! A amizade é mais importante. 🤝",
+                    "points": {
+                        "Amizade": 1,
+                        "Amor": 0.7
+                    }
+                },
+                {
+                    "text": "Vamos pensar fora da caixa! 💡",
+                    "points": {
+                        "Sinceridade": 1,
+                        "Conhecimento": 0.4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "O Mistério em Casa 🏠: Em casa, você encontra um objeto misterioso no sótão. O que você faz?",
+            "answers": [
+                {
+                    "text": "Vamos investigar! 🔍",
+                    "points": {
+                        "Conhecimento": 1,
+                        "Sinceridade": 0.5
+                    }
+                },
+                {
+                    "text": "Vamos analisar com cuidado. 🧠",
+                    "points": {
+                        "Sinceridade": 1,
+                        "Conhecimento": 0.7
+                    }
+                },
+                {
+                    "text": "Acredito que há algo mágico aqui. 🌟",
+                    "points": {
+                        "Esperança": 1,
+                        "Luz": 0.6
+                    }
+                },
+                {
+                    "text": "Vou confiar em minha intuição. 🤲",
+                    "points": {
+                        "Confiança": 1,
+                        "Sinceridade": 0.4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Viagem ao Desconhecido 🌍: Em uma viagem, vocês se perdem. Como reagir?",
+            "answers": [
+                {
+                    "text": "Vamos usar um mapa! 🗺️",
+                    "points": {
+                        "Conhecimento": 1,
+                        "Sinceridade": 0.6
+                    }
+                },
+                {
+                    "text": "Acredito que encontraremos o caminho. 🌅",
+                    "points": {
+                        "Esperança": 1,
+                        "Luz": 0.7
+                    }
+                },
+                {
+                    "text": "Vamos confiar em nosso instinto. 🌠",
+                    "points": {
+                        "Confiança": 1,
+                        "Amizade": 0.5
+                    }
+                },
+                {
+                    "text": "Vamos tirar fotos e compartilhar. 📷",
+                    "points": {
+                        "Sinceridade": 1,
+                        "Amor": 0.4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "A Festa Surpresa 🎉: Você está organizando uma festa para um amigo. Qual é a sua abordagem?",
+            "answers": [
+                {
+                    "text": "Vamos planejar com cuidado. 🎁",
+                    "points": {
+                        "Conhecimento": 1,
+                        "Confiança": 0.7
+                    }
+                },
+                {
+                    "text": "Vamos fazer uma festa incrível! 🎉",
+                    "points": {
+                        "Esperança": 1,
+                        "Amizade": 0.6
+                    }
+                },
+                {
+                    "text": "A amizade é o mais importante. 🤝",
+                    "points": {
+                        "Amor": 1,
+                        "Amizade": 0.7
+                    }
+                },
+                {
+                    "text": "Vamos ser sinceros. 🧡",
+                    "points": {
+                        "Sinceridade": 1,
+                        "Amor": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "O Momento da Verdade 🌟: Você está em uma escolha importante. Como se aproxima?",
+            "answers": [
+                {
+                    "text": "Vou confiar em meu coração. A intuição é meu guia. 💫",
+                    "points": {
+                        "Confiança": 1,
+                        "Sinceridade": 0.6
+                    }
+                },
+                {
+                    "text": "Vou analisar todas as opções. A razão me guiará. 🧠",
+                    "points": {
+                        "Sinceridade": 1,
+                        "Conhecimento": 0.7
+                    }
+                },
+                {
+                    "text": "Vou seguir minha paixão. A vida é sobre sonhos. 🌠",
+                    "points": {
+                        "Esperança": 1,
+                        "Coragem": 0.6
+                    }
+                },
+                {
+                    "text": "Vou confiar no universo. A fé me levará ao destino. 🌟",
+                    "points": {
+                        "Amor": 1,
+                        "Luz": 0.7
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "Coragem": {
+            "title": "O Escolhido da Coragem",
+            "emoji": "🦁",
+            "subtitle": "A Força Interior",
+            "text": "Você é o portador do Brasão da Coragem! Assim como Tai e Agumon, você é corajoso, determinado e enfrenta os desafios de cabeça erguida. Sua coragem inspira seus amigos, e você está sempre pronto para liderar e proteger o grupo."
+        },
+        "Amizade": {
+            "title": "O Guardião da Amizade",
+            "emoji": "🤝",
+            "subtitle": "O Poder da Conexão",
+            "text": "O Brasão da Amizade é seu destino! Você valoriza as relações, assim como Matt e Gabumon. Sua habilidade de criar laços fortes é sua maior força, e você entende o poder da união."
+        },
+        "Amor": {
+            "title": "O Embaixador do Amor",
+            "emoji": "💕",
+            "subtitle": "O Coração Compassivo",
+            "text": "O Brasão do Amor brilha em você! Como Sora e Biyomon, você é carinhoso e empático. Seu amor traz harmonia e cura ao grupo."
+        },
+        "Sinceridade": {
+            "title": "A Voz da Honestidade",
+            "emoji": "🗣️",
+            "subtitle": "A Verdade Revelada",
+            "text": "Você carrega o Brasão da Sinceridade, assim como Mimi e Palmon. Sua honestidade e franqueza são admiráveis, e você expressa suas opiniões sem medo."
+        },
+        "Confiança": {
+            "title": "O Confiante",
+            "emoji": "🤲",
+            "subtitle": "A Fé Inabalável",
+            "text": "O Brasão da Confiança é seu símbolo! Semelhante a Joe e Gomamon, você acredita em si mesmo e nos outros. Sua confiança traz estabilidade e apoio ao grupo."
+        },
+        "Conhecimento": {
+            "title": "O Detentor do Conhecimento",
+            "emoji": "📖",
+            "subtitle": "A Mente Iluminada",
+            "text": "Você é o portador do Brasão do Conhecimento! Assim como Izzy e Tentomon, você é inteligente, curioso e sempre busca aprender mais. Sua sabedoria é uma ferramenta poderosa, e você compartilha seu conhecimento com os outros, iluminando suas mentes."
+        },
+        "Esperança": {
+            "title": "O Portador da Esperança",
+            "emoji": "🌟",
+            "subtitle": "A Luz no Escuro",
+            "text": "O Brasão da Esperança brilha em você! Como T.K. e Patamon, você é otimista e acredita em um futuro melhor. Sua presença inspira conforto e esperança."
+        },
+        "Luz": {
+            "title": "O Iluminador",
+            "emoji": "☀️",
+            "subtitle": "O Raio de Sol",
+            "text": "Você é o portador do Brasão da Luz! Semelhante a Kari e Gatomon, você traz alegria e bondade onde quer que vá. Sua luz interior brilha e cura os outros."
+        }
+    }
+}
