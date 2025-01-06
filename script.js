@@ -3,6 +3,7 @@ let currentQuestionIndex = 0;
 let scores = {};
 let currentPage = 1;
 const quizzesPerPage = 14;
+let currentQuizFile = ''; // Store the current quiz file name
 
 document.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
@@ -19,7 +20,7 @@ async function loadQuizList() {
     try {
         const response = await fetch('quizList.json');
         const data = await response.json();
-            window.quizzes = data.quizzes.reverse(); // Store quizzes globally in reverse order
+        window.quizzes = data.quizzes.reverse(); // Store quizzes globally in reverse order
         displayQuizzes();
     } catch (error) {
         console.error('Erro ao carregar a lista de quizzes:', error);
@@ -88,6 +89,7 @@ async function loadQuizFromPost(file) {
     try {
         const response = await fetch(file);
         quizData = await response.json();
+        currentQuizFile = file; // Store the current quiz file name
         initializeQuiz();
     } catch (error) {
         console.error('Erro ao carregar o quiz selecionado:', error);
@@ -101,6 +103,7 @@ function loadUploadedQuiz() {
         const reader = new FileReader();
         reader.onload = function(event) {
             quizData = JSON.parse(event.target.result);
+            currentQuizFile = file.name; // Store the current quiz file name
             initializeQuiz();
         };
         reader.readAsText(file);
@@ -132,6 +135,27 @@ function showQuestion() {
         button.onclick = () => selectAnswer(answer.points);
         questionContainer.appendChild(button);
     });
+
+    const buttonContainer = document.createElement('div');
+    buttonContainer.style.display = 'flex';
+    buttonContainer.style.justifyContent = 'center';
+    buttonContainer.style.gap = '5px'; // Reduce space between buttons
+
+    if (currentQuestionIndex > 0) {
+        const previousButton = document.createElement('button');
+        previousButton.textContent = 'Anterior';
+        previousButton.className = 'previous-button';
+        previousButton.onclick = () => previousQuestion();
+        buttonContainer.appendChild(previousButton);
+    }
+
+    const backButton = document.createElement('button');
+    backButton.textContent = 'Voltar à Página Inicial';
+    backButton.className = 'back-button';
+    backButton.onclick = () => returnToQuizSelection();
+    buttonContainer.appendChild(backButton);
+
+    questionContainer.appendChild(buttonContainer);
 }
 
 function selectAnswer(points) {
@@ -143,6 +167,13 @@ function selectAnswer(points) {
         showQuestion();
     } else {
         showResult();
+    }
+}
+
+function previousQuestion() {
+    if (currentQuestionIndex > 0) {
+        currentQuestionIndex--;
+        showQuestion();
     }
 }
 
@@ -172,8 +203,11 @@ function restartQuiz() {
 function returnToQuizSelection() {
     document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
     document.getElementById('quiz').innerHTML = '';
-    displayQuizzes();
+    currentQuizFile = ''; // Reset current quiz file
+    currentPage = 1; // Reset current page
+    loadQuizList(); // Reload quiz list
     document.getElementById('quiz-posts').classList.remove('hidden'); // Show quiz posts
+    window.history.replaceState({}, document.title, window.location.pathname); // Clear URL parameters
 }
 
 function generateShareLink(quizFile) {
@@ -190,12 +224,15 @@ function shareQuiz(quizFile) {
 }
 
 function shareResult(resultTitle, resultEmoji) {
-    const url = new URL(window.location.href);
-    const quizFile = url.searchParams.get('quiz');
-    const shareText = `Eu fiz o quiz e sou ${resultTitle} ${resultEmoji}! Faça o quiz também: ${url.origin}${url.pathname}?quiz=${quizFile}`;
-    navigator.clipboard.writeText(shareText).then(() => {
-        alert('Resultado copiado para a área de transferência!');
-    });
+    if (currentQuizFile) {
+        const shareLink = generateShareLink(currentQuizFile);
+        const shareText = `Eu fiz o quiz e sou ${resultTitle} ${resultEmoji}! Faça o quiz também: ${shareLink}`;
+        navigator.clipboard.writeText(shareText).then(() => {
+            alert('Resultado copiado para a área de transferência!');
+        });
+    } else {
+        alert('Não foi possível gerar o link de compartilhamento.');
+    }
 }
 
 function openSuggestionBox() {
