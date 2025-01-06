@@ -184,6 +184,11 @@
             "name": "Qual é o Brasão do Digimon que Você Carrega?",
             "file": "quizzes/quizDigimon.json",
             "description": "Descubra qual brasão do Digimon mais se alinha com sua personalidade e valores!"
+        },
+        {
+            "name": "Que personagem de Dragon Ball Z você seria?",
+            "file": "quizzes/quizDragonBallZ.json",
+            "description": "Descubra qual personagem de Dragon Ball Z mais se parece com você!"
         }
     ]
 }

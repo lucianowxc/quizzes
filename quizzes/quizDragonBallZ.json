@@ -1,0 +1,454 @@
+{
+  "title": "Que personagem de Dragon Ball Z você seria?",
+  "questions": [
+    {
+      "question": "Qual é a sua habilidade secreta?",
+      "answers": [
+        {
+          "text": "Poder de transformação incrível 🌟",
+          "points": {
+            "Goku": 1,
+            "Vegeta": 0.8,
+            "Frieza": 0.5,
+            "Piccolo": 0.6,
+            "Gohan": 0.7
+          }
+        },
+        {
+          "text": "Inteligência e invenções geniais 🧠",
+          "points": {
+            "Bulma": 1,
+            "Gohan": 0.8,
+            "Piccolo": 0.5
+          }
+        },
+        {
+          "text": "Força bruta e habilidades de luta 🤜",
+          "points": {
+            "Vegeta": 1,
+            "Frieza": 0.8,
+            "Tien": 0.6,
+            "Cell": 0.7,
+            "Majin Boo": 0.6
+          }
+        },
+        {
+          "text": "Manipulação e estratégia mental 🧍‍♂️",
+          "points": {
+            "Frieza": 1,
+            "Cell": 0.8,
+            "Tao Pai Pai": 0.6,
+            "Trunks": 0.5
+          }
+        },
+        {
+          "text": "Habilidades de cura e regeneração 🍃",
+          "points": {
+            "Majin Boo": 1,
+            "Piccolo": 0.7,
+            "Gohan": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com conflitos?",
+      "answers": [
+        {
+          "text": "Enfrento de frente, sem medo 🗡️",
+          "points": {
+            "Goku": 1,
+            "Vegeta": 0.8,
+            "Cell": 0.7,
+            "Majin Boo": 0.6
+          }
+        },
+        {
+          "text": "Tento resolver de forma pacífica 🤝",
+          "points": {
+            "Kuririn": 1,
+            "Bulma": 0.8,
+            "Gohan": 0.7
+          }
+        },
+        {
+          "text": "Fico nervoso e tento fugir 🏃‍♂️",
+          "points": {
+            "Yamcha": 1,
+            "Mr. Satan": 0.8,
+            "Androide 18": 0.6
+          }
+        },
+        {
+          "text": "Planejo um contra-ataque meticuloso 🧠",
+          "points": {
+            "Piccolo": 1,
+            "Tao Pai Pai": 0.8,
+            "Trunks": 0.7
+          }
+        },
+        {
+          "text": "Dou uma risada e tento descontrair 🤣",
+          "points": {
+            "Mr. Satan": 1,
+            "Yamcha": 0.7,
+            "Kuririn": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua maior motivação?",
+      "answers": [
+        {
+          "text": "Proteger os que amo 💖",
+          "points": {
+            "Goku": 1,
+            "Kuririn": 0.8,
+            "Bulma": 0.7,
+            "Gohan": 0.8
+          }
+        },
+        {
+          "text": "Ficar mais forte e ser o melhor 🌟",
+          "points": {
+            "Vegeta": 1,
+            "Frieza": 0.8,
+            "Cell": 0.7,
+            "Majin Boo": 0.6
+          }
+        },
+        {
+          "text": "Descobrir novas tecnologias e invenções 🧪",
+          "points": {
+            "Bulma": 1,
+            "Gohan": 0.8,
+            "Piccolo": 0.5
+          }
+        },
+        {
+          "text": "Fama e reconhecimento 🏆",
+          "points": {
+            "Mr. Satan": 1,
+            "Yamcha": 0.8,
+            "Androide 18": 0.6
+          }
+        },
+        {
+          "text": "Vingança e poder absoluto 🔥",
+          "points": {
+            "Frieza": 1,
+            "Cell": 0.8,
+            "Majin Boo": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você faria em um dia de folga?",
+      "answers": [
+        {
+          "text": "Ir ao topo da montanha mais alta para treinar 🏔️",
+          "points": {
+            "Goku": 1,
+            "Vegeta": 0.8,
+            "Tien": 0.7,
+            "Trunks": 0.6
+          }
+        },
+        {
+          "text": "Passar o dia inventando algo novo 🧪",
+          "points": {
+            "Bulma": 1,
+            "Gohan": 0.8,
+            "Piccolo": 0.5
+          }
+        },
+        {
+          "text": "Relaxar na praia e tomar sol 🏖️",
+          "points": {
+            "Yamcha": 1,
+            "Mr. Satan": 0.8,
+            "Androide 18": 0.6
+          }
+        },
+        {
+          "text": "Planejar a próxima grande aventura 🗺️",
+          "points": {
+            "Goku": 1,
+            "Vegeta": 0.8,
+            "Trunks": 0.7
+          }
+        },
+        {
+          "text": "Ler um livro ou assistir um filme 📚",
+          "points": {
+            "Bulma": 1,
+            "Gohan": 0.8,
+            "Piccolo": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua comida favorita?",
+      "answers": [
+        {
+          "text": "Ramen e lanches rápidos 🍜",
+          "points": {
+            "Goku": 1,
+            "Kuririn": 0.8,
+            "Yamcha": 0.6,
+            "Trunks": 0.5
+          }
+        },
+        {
+          "text": "Comida gourmet e chiques 🍽️",
+          "points": {
+            "Vegeta": 1,
+            "Frieza": 0.8,
+            "Bulma": 0.7,
+            "Mr. Satan": 0.6
+          }
+        },
+        {
+          "text": "Frutas e vegetais frescos 🍏",
+          "points": {
+            "Piccolo": 1,
+            "Gohan": 0.8,
+            "Tien": 0.6
+          }
+        },
+        {
+          "text": "Comida rápida e junk food 🍔",
+          "points": {
+            "Yamcha": 1,
+            "Mr. Satan": 0.8,
+            "Androide 18": 0.6
+          }
+        },
+        {
+          "text": "Chocolate e doces 🍫",
+          "points": {
+            "Majin Boo": 1,
+            "Bulma": 0.8,
+            "Gohan": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria a sua frase de efeito antes de uma luta?",
+      "answers": [
+        {
+          "text": "Kamehameha! 🌊",
+          "points": {
+            "Goku": 1,
+            "Gohan": 0.8,
+            "Kuririn": 0.7
+          }
+        },
+        {
+          "text": "É mais de 9000! 🚀",
+          "points": {
+            "Vegeta": 1,
+            "Goku": 0.8,
+            "Trunks": 0.7
+          }
+        },
+        {
+          "text": "Sou o mais forte! 🔥",
+          "points": {
+            "Vegeta": 1,
+            "Frieza": 0.8,
+            "Cell": 0.7
+          }
+        },
+        {
+          "text": "Vamos acabar logo com isso! 🤿",
+          "points": {
+            "Piccolo": 1,
+            "Tao Pai Pai": 0.8,
+            "Tien": 0.7
+          }
+        },
+        {
+          "text": "Eu sou o herói! 🏆",
+          "points": {
+            "Mr. Satan": 1,
+            "Yamcha": 0.8,
+            "Kuririn": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você tivesse uma esfera do dragão, qual desejo faria?",
+      "answers": [
+        {
+          "text": "Tornar-se o guerreiro mais forte do universo 🌌",
+          "points": {
+            "Goku": 1,
+            "Vegeta": 0.8,
+            "Cell": 0.7,
+            "Majin Boo": 0.6
+          }
+        },
+        {
+          "text": "Curar todas as doenças do mundo 🌍",
+          "points": {
+            "Goku": 1,
+            "Kuririn": 0.8,
+            "Bulma": 0.7,
+            "Gohan": 0.8
+          }
+        },
+        {
+          "text": "Tornar-se o cientista mais brilhante do planeta 🧪",
+          "points": {
+            "Bulma": 1,
+            "Gohan": 0.8,
+            "Piccolo": 0.7
+          }
+        },
+        {
+          "text": "Ficar famoso e ser adorado por todos 🏆",
+          "points": {
+            "Mr. Satan": 1,
+            "Yamcha": 0.8,
+            "Androide 18": 0.7
+          }
+        },
+        {
+          "text": "Reunir todos os amigos para uma grande festa 🎉",
+          "points": {
+            "Kuririn": 1,
+            "Bulma": 0.8,
+            "Gohan": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria a sua tática favorita em uma batalha?",
+      "answers": [
+        { "text": "Usar múltiplos clones para confundir o inimigo 🧪", "points": { "Cell": 1, "Tien": 0.8, "Piccolo": 0.6 } },
+        { "text": "Atacar com força bruta e sem misericórdia 🔥", "points": { "Vegeta": 1, "Frieza": 0.8, "Majin Boo": 0.7 } },
+        { "text": "Usar técnicas de cura e regeneração 🍃", "points": { "Majin Boo": 1, "Piccolo": 0.8, "Gohan": 0.6 } },
+        { "text": "Planejar e executar um contra-ataque perfeito 🧠", "points": { "Piccolo": 1, "Tao Pai Pai": 0.8, "Trunks": 0.7 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu maior medo?",
+      "answers": [
+        { "text": "Perder para um inimigo mais fraco 🤯", "points": { "Vegeta": 1, "Frieza": 0.8, "Cell": 0.7 } },
+        { "text": "Não ser capaz de proteger os que amo 😢", "points": { "Goku": 1, "Kuririn": 0.8, "Gohan": 0.7 } },
+        { "text": "Ficar obsoleto e ser esquecido 🤔", "points": { "Bulma": 1, "Tien": 0.8, "Trunks": 0.7 } },
+        { "text": "Perder o controle e machucar alguém que gosta de mim 😥", "points": { "Piccolo": 1, "Majin Boo": 0.8, "Androide 18": 0.7 } }
+      ]
+    },
+    {
+      "question": "Qual lugar do universo de Dragon Ball Z você gostaria de visitar?",
+      "answers": [
+        { "text": "O Planeta Namek, para ver os dragões de lá 🌌", "points": { "Goku": 1, "Vegeta": 0.8, "Piccolo": 0.7, "Gohan": 0.6 } },
+        { "text": "A Ilha do Kame, para treinar com Mestre Kame 🏝️", "points": { "Kuririn": 1, "Goku": 0.8, "Yamcha": 0.7, "Tien": 0.6 } },
+        { "text": "O Planeta Frieza, para enfrentar os desafios lá 🏔️", "points": { "Vegeta": 1, "Frieza": 0.8, "Cell": 0.7, "Majin Boo": 0.6 } },
+        { "text": "A Cidade do Capitão Ginyu, para explorar suas tecnologias 🚀", "points": { "Bulma": 1, "Gohan": 0.8, "Trunks": 0.7, "Androide 18": 0.6 } },
+        { "text": "A Torre Karin, para buscar poder e sabedoria 🗺️", "points": { "Piccolo": 1, "Gohan": 0.8, "Tien": 0.7, "Trunks": 0.6 } },
+        { "text": "O Torneio de Artes Marciais, para mostrar suas habilidades 🥊", "points": { "Goku": 1, "Vegeta": 0.8, "Kuririn": 0.7, "Tien": 0.6, "Yamcha": 0.5 } }
+      ]
+    }  
+  ],
+  "descriptions": {
+    "Goku": {
+      "title": "Goku",
+      "emoji": "💪",
+      "subtitle": "O Guerreiro Mais Poderoso do Universo",
+      "text": "Você é Goku! Sempre pronto para uma nova batalha e com um coração de ouro. Você nunca desiste e sempre encontra uma maneira de superar os desafios."
+    },
+    "Vegeta": {
+      "title": "Vegeta",
+      "emoji": "🔥",
+      "subtitle": "O Príncipe Saiyajin",
+      "text": "Você é Vegeta! Orgulhoso, determinado e sempre buscando ser o melhor. Você não tem medo de desafios e sempre está pronto para uma batalha."
+    },
+    "Frieza": {
+      "title": "Frieza",
+      "emoji": "❄️",
+      "subtitle": "O Tirano do Universo",
+      "text": "Você é Frieza! Cruel, calculista e com um poder imensurável. Você não tem medo de nada e sempre consegue o que quer, não importa o custo."
+    },
+    "Kuririn": {
+      "title": "Kuririn",
+      "emoji": "😂",
+      "subtitle": "O Melhor Amigo de Goku",
+      "text": "Você é Kuririn! Leal, engraçado e sempre pronto para ajudar seus amigos. Você pode não ser o mais forte, mas sua determinação é inigualável."
+    },
+    "Yamcha": {
+      "title": "Yamcha",
+      "emoji": "🎉",
+      "subtitle": "O Ex-Playboy",
+      "text": "Você é Yamcha! Carismático, aventureiro e sempre pronto para uma piada. Você pode não ser o mais confiável, mas sempre traz alegria para os momentos mais tensos."
+    },
+    "Tien": {
+      "title": "Tien",
+      "emoji": "👁️",
+      "subtitle": "O Guerreiro de Três Olhos",
+      "text": "Você é Tien! Forte, calmo e sempre buscando melhorar. Você tem uma presença imponente e é respeitado por todos."
+    },
+    "Piccolo": {
+      "title": "Piccolo",
+      "emoji": "💚",
+      "subtitle": "O Antigo Inimigo",
+      "text": "Você é Piccolo! Poderoso, sábio e com um lado bondoso que nem sempre mostra. Você é um protetor e mentor, sempre pronto para ajudar seus amigos."
+    },
+    "Cell": {
+      "title": "Cell",
+      "emoji": "🤖",
+      "subtitle": "A Perfeição Biológica",
+      "text": "Você é Cell! Perfeito, calculista e com um poder inigualável. Você não tem medo de nada e sempre busca a perfeição em tudo que faz."
+    },
+    "Majin Boo": {
+      "title": "Majin Boo",
+      "emoji": "🔮",
+      "subtitle": "O Ser Mais Poderoso",
+      "text": "Você é Majin Boo! Puro, inocente e com um poder imensurável. Você pode ser um pouco bobo, mas quando se irrita, é melhor ficar longe."
+    },
+    "Gohan": {
+      "title": "Gohan",
+      "emoji": "📚",
+      "subtitle": "O Cérebro e o Músculo",
+      "text": "Você é Gohan! Inteligente, gentil e com um potencial incrível. Você é um estudioso dedicado, mas também um guerreiro formidável quando necessário."
+    },
+    "Bulma": {
+      "title": "Bulma",
+      "emoji": "🔬",
+      "subtitle": "A Cientista Gênio",
+      "text": "Você é Bulma! Inteligente, determinada e sempre pronta para uma aventura. Você é a mente brilhante por trás de muitas invenções que salvaram o dia."
+    },
+    "Mr. Satan": {
+      "title": "Mr. Satan",
+      "emoji": "🏆",
+      "subtitle": "O Herói da Cidade",
+      "text": "Você é Mr. Satan! Confiante, carismático e sempre pronto para uma foto. Você pode não ser o mais forte, mas é o herói que todo mundo adora."
+    },
+    "Androide 18": {
+      "title": "Androide 18",
+      "emoji": "💥",
+      "subtitle": "A Guerreira Fria",
+      "text": "Você é Androide 18! Forte, independente e com um lado frio. Você não se deixa abalar facilmente e sempre mantém a calma em situações difíceis."
+    },
+    "Tao Pai Pai": {
+      "title": "Tao Pai Pai",
+      "emoji": "🗡️",
+      "subtitle": "O Assassino Mercenário",
+      "text": "Você é Tao Pai Pai! Letal, calculista e com uma reputação assustadora. Você é um mestre em artes marciais e sempre consegue o que quer."
+    },
+    "Trunks": {
+      "title": "Trunks",
+      "emoji": "⚡",
+      "subtitle": "O Guerreiro do Futuro",
+      "text": "Você é Trunks! Valente, destemido e com um futuro incerto. Você sempre enfrenta os desafios de cabeça erguida e nunca desiste."
+    }
+  }
+}
