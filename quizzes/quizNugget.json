@@ -1,0 +1,397 @@
+{
+    "title": "Qual formato de nugget você seria?",
+    "questions": [
+        {
+            "question": "Se você fosse um super-herói, qual seria seu superpoder?",
+            "answers": [
+                {
+                    "text": "Voar como um foguete! 🚀",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 0.8,
+                        "resultado3": 0.2,
+                        "resultado4": 1,
+                        "resultado5": 0.3,
+                        "resultado6": 0.4,
+                        "resultado7": 0.6,
+                        "resultado8": 0.5
+                    }
+                },
+                {
+                    "text": "Invisibilidade, para escapar das situações embaraçosas. 🕵️‍♂️",
+                    "points": {
+                        "resultado1": 0.7,
+                        "resultado2": 0.3,
+                        "resultado3": 0.5,
+                        "resultado4": 0.2,
+                        "resultado5": 0.8,
+                        "resultado6": 0.6,
+                        "resultado7": 0.4,
+                        "resultado8": 0.7
+                    }
+                },
+                {
+                    "text": "Superforça, para abrir potes de pepino em conserva. 💪",
+                    "points": {
+                        "resultado1": 0.4,
+                        "resultado2": 0.6,
+                        "resultado3": 0.8,
+                        "resultado4": 0.3,
+                        "resultado5": 1,
+                        "resultado6": 0.2,
+                        "resultado7": 0.5,
+                        "resultado8": 0.4
+                    }
+                },
+                {
+                    "text": "Teletransporte, para nunca mais pegar trânsito. 🚗💨",
+                    "points": {
+                        "resultado1": 0.6,
+                        "resultado2": 0.4,
+                        "resultado3": 0.3,
+                        "resultado4": 0.7,
+                        "resultado5": 0.2,
+                        "resultado6": 1,
+                        "resultado7": 0.8,
+                        "resultado8": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é o seu passatempo favorito?",
+            "answers": [
+                {
+                    "text": "Ler livros e viajar para outros mundos. 📚",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.5,
+                        "resultado3": 0.3,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.5
+                    }
+                },
+                {
+                    "text": "Assistir séries e filmes até de madrugada. 🎬",
+                    "points": {
+                        "resultado1": 0.3,
+                        "resultado2": 0.7,
+                        "resultado3": 0.6,
+                        "resultado4": 0.4,
+                        "resultado5": 0.2,
+                        "resultado6": 0.8,
+                        "resultado7": 0.5,
+                        "resultado8": 0.6
+                    }
+                },
+                {
+                    "text": "Praticar esportes e manter a forma. 🏋️‍♂️",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 0.2,
+                        "resultado3": 0.4,
+                        "resultado4": 0.6,
+                        "resultado5": 0.8,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4
+                    }
+                },
+                {
+                    "text": "Cozinhar e experimentar novas receitas. 🍳",
+                    "points": {
+                        "resultado1": 0.4,
+                        "resultado2": 0.6,
+                        "resultado3": 0.8,
+                        "resultado4": 0.3,
+                        "resultado5": 0.7,
+                        "resultado6": 0.2,
+                        "resultado7": 0.5,
+                        "resultado8": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior medo?",
+            "answers": [
+                {
+                    "text": "Altura, definitivamente não sou fã de montanhas-russas. 🎢",
+                    "points": {
+                        "resultado1": 0.6,
+                        "resultado2": 0.4,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.5,
+                        "resultado7": 0.7,
+                        "resultado8": 0.4
+                    }
+                },
+                {
+                    "text": "Ficar sem internet. 📵",
+                    "points": {
+                        "resultado1": 0.3,
+                        "resultado2": 0.7,
+                        "resultado3": 0.5,
+                        "resultado4": 0.2,
+                        "resultado5": 0.8,
+                        "resultado6": 0.4,
+                        "resultado7": 0.6,
+                        "resultado8": 0.5
+                    }
+                },
+                {
+                    "text": "Falar em público. 🎤",
+                    "points": {
+                        "resultado1": 0.4,
+                        "resultado2": 0.6,
+                        "resultado3": 0.8,
+                        "resultado4": 0.3,
+                        "resultado5": 0.7,
+                        "resultado6": 0.2,
+                        "resultado7": 0.5,
+                        "resultado8": 0.7
+                    }
+                },
+                {
+                    "text": "Escuro, porque nunca se sabe o que pode estar lá. 🌑",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 0.3,
+                        "resultado3": 0.6,
+                        "resultado4": 0.7,
+                        "resultado5": 0.2,
+                        "resultado6": 0.8,
+                        "resultado7": 0.4,
+                        "resultado8": 0.6
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você pudesse ser qualquer animal por um dia, qual seria?",
+            "answers": [
+                {
+                    "text": "Um gato, para dormir o dia todo. 🐱",
+                    "points": {
+                        "resultado1": 0.4,
+                        "resultado2": 0.6,
+                        "resultado3": 0.8,
+                        "resultado4": 0.3,
+                        "resultado5": 0.7,
+                        "resultado6": 0.2,
+                        "resultado7": 0.5,
+                        "resultado8": 0.6
+                    }
+                },
+                {
+                    "text": "Um pássaro, para voar livremente. 🦅",
+                    "points": {
+                        "resultado1": 0.6,
+                        "resultado2": 0.4,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.5,
+                        "resultado7": 0.7,
+                        "resultado8": 0.4
+                    }
+                },
+                {
+                    "text": "Um golfinho, para nadar nos oceanos. 🐬",
+                    "points": {
+                        "resultado1": 0.3,
+                        "resultado2": 0.7,
+                        "resultado3": 0.5,
+                        "resultado4": 0.2,
+                        "resultado5": 0.8,
+                        "resultado6": 0.4,
+                        "resultado7": 0.6,
+                        "resultado8": 0.5
+                    }
+                },
+                {
+                    "text": "Um leão, para ser o rei da selva. 🦁",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 0.3,
+                        "resultado3": 0.6,
+                        "resultado4": 0.7,
+                        "resultado5": 0.2,
+                        "resultado6": 0.8,
+                        "resultado7": 0.4,
+                        "resultado8": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é a sua comida favorita?",
+            "answers": [
+                {
+                    "text": "Pizza, porque quem não ama pizza? 🍕",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado2": 0.5,
+                        "resultado3": 0.3,
+                        "resultado4": 0.2,
+                        "resultado5": 0.6,
+                        "resultado6": 0.4,
+                        "resultado7": 0.7,
+                        "resultado8": 0.5
+                    }
+                },
+                {
+                    "text": "Sorvete, para adoçar a vida. 🍦",
+                    "points": {
+                        "resultado1": 0.3,
+                        "resultado2": 0.7,
+                        "resultado3": 0.6,
+                        "resultado4": 0.4,
+                        "resultado5": 0.2,
+                        "resultado6": 0.8,
+                        "resultado7": 0.5,
+                        "resultado8": 0.6
+                    }
+                },
+                {
+                    "text": "Sushi, para uma experiência gourmet. 🍣",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 0.2,
+                        "resultado3": 0.4,
+                        "resultado4": 0.6,
+                        "resultado5": 0.8,
+                        "resultado6": 0.3,
+                        "resultado7": 0.6,
+                        "resultado8": 0.4
+                    }
+                },
+                {
+                    "text": "Hambúrguer, para matar a fome de verdade. 🍔",
+                    "points": {
+                        "resultado1": 0.4,
+                        "resultado2": 0.6,
+                        "resultado3": 0.8,
+                        "resultado4": 0.3,
+                        "resultado5": 0.7,
+                        "resultado6": 0.2,
+                        "resultado7": 0.5,
+                        "resultado8": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você pudesse viajar no tempo, para qual época iria?",
+            "answers": [
+                {
+                    "text": "Para o futuro, para ver como será a tecnologia. 🚀",
+                    "points": {
+                        "resultado1": 0.6,
+                        "resultado2": 0.4,
+                        "resultado3": 0.2,
+                        "resultado4": 0.8,
+                        "resultado5": 0.3,
+                        "resultado6": 0.5,
+                        "resultado7": 0.7,
+                        "resultado8": 0.4
+                    }
+                },
+                {
+                    "text": "Para a Idade Média, para viver como um cavaleiro. 🏰",
+                    "points": {
+                        "resultado1": 0.3,
+                        "resultado2": 0.7,
+                        "resultado3": 0.5,
+                        "resultado4": 0.2,
+                        "resultado5": 0.8,
+                        "resultado6": 0.4,
+                        "resultado7": 0.6,
+                        "resultado8": 0.5
+                    }
+                },
+                {
+                    "text": "Para os anos 80, para curtir a música e a moda. 🎸",
+                    "points": {
+                        "resultado1": 0.5,
+                        "resultado2": 0.3,
+                        "resultado3": 0.6,
+                        "resultado4": 0.7,
+                        "resultado5": 0.2,
+                        "resultado6": 0.8,
+                        "resultado7": 0.4,
+                        "resultado8": 0.7
+                    }
+                },
+                {
+                    "text": "Para a época dos dinossauros, para ver essas criaturas de perto. 🦖",
+                    "points": {
+                        "resultado1": 0.4,
+                        "resultado2": 0.6,
+                        "resultado3": 0.8,
+                        "resultado4": 0.3,
+                        "resultado5": 0.7,
+                        "resultado6": 0.2,
+                        "resultado7": 0.5,
+                        "resultado8": 0.6
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "Nugget Clássico",
+            "emoji": "🍗",
+            "subtitle": "O Tradicional",
+            "text": "Você é o nugget clássico, aquele que todos conhecem e amam. Simples, direto e sempre uma escolha segura. Você pode não ser o mais ousado, mas sua confiabilidade é inigualável."
+        },
+        "resultado2": {
+            "title": "Nugget Dinossauro",
+            "emoji": "🦖",
+            "subtitle": "O Divertido",
+            "text": "Você é o nugget dinossauro, sempre trazendo diversão e nostalgia. Sua presença é uma festa e você adora ser o centro das atenções. Quem não ama um pouco de diversão jurássica?"
+        },
+        "resultado3": {
+            "title": "Nugget Coração",
+            "emoji": "❤️",
+            "subtitle": "O Amoroso",
+            "text": "Você é o nugget coração, sempre espalhando amor e carinho. Sua natureza afetuosa faz com que todos se sintam especiais ao seu redor. Você é o conforto em forma de nugget."
+        },
+        "resultado4": {
+            "title": "Nugget Estrela",
+            "emoji": "⭐",
+            "subtitle": "O Brilhante",
+            "text": "Você é o nugget estrela, sempre brilhando e se destacando. Sua personalidade radiante ilumina qualquer ambiente e você adora ser reconhecido pelo seu brilho único."
+        },
+        "resultado5": {
+            "title": "Nugget Animal",
+            "emoji": "🐾",
+            "subtitle": "O Selvagem",
+            "text": "Você é o nugget animal, cheio de energia e sempre pronto para uma aventura. Sua natureza selvagem e imprevisível faz de você uma companhia emocionante e inesquecível."
+        },
+        "resultado6": {
+            "title": "Nugget Vegetariano",
+            "emoji": "🥦",
+            "subtitle": "O Saudável",
+            "text": "Você é o nugget vegetariano, sempre buscando o equilíbrio e a saúde. Sua abordagem consciente e cuidadosa da vida inspira os outros a fazerem escolhas melhores."
+        },
+        "resultado7": {
+            "title": "Nugget Mal Passado",
+            "emoji": "🥩",
+            "subtitle": "O Exótico",
+            "text": "Você é o nugget mal passado, sempre surpreendendo com seu estilo único. Nem todos entendem sua vibe, mas aqueles que apreciam sabem que você é uma verdadeira iguaria."
+        },
+        "resultado8": {
+            "title": "Nugget Among Us",
+            "emoji": "🕵️‍♀️",
+            "subtitle": "O Suspeito",
+            "text": "Você é o nugget Among Us, sempre misterioso e cheio de segredos. As pessoas nunca sabem o que esperar de você, mas isso só aumenta seu charme enigmático."
+        }
+    }
+}
