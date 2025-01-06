@@ -179,6 +179,11 @@
           "name": "Qual formato de nugget você seria?",
           "file": "quizzes/quizNugget.json",
           "description": "Descubra qual formato de nugget mais se parece com você! Será que você é o clássico, o dinossauro, ou talvez o misterioso Among Us? Faça o quiz e descubra!"
+        },
+        {
+            "name": "Qual é o Brasão do Digimon que Você Carrega?",
+            "file": "quizzes/quizDigimon.json",
+            "description": "Descubra qual brasão do Digimon mais se alinha com sua personalidade e valores!"
         }
     ]
 }
