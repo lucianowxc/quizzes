@@ -189,6 +189,11 @@
             "name": "Que personagem de Dragon Ball Z você seria?",
             "file": "quizzes/quizDragonBallZ.json",
             "description": "Descubra qual personagem de Dragon Ball Z mais se parece com você!"
+        },
+        {
+           "name": "Qual cidade do Brasil combina com você?",
+           "file": "quizzes/quizCidades.json",
+           "description": "Descubra qual cidade do Brasil mais se parece com você!"
         }
     ]
 }
