@@ -1,0 +1,507 @@
+{
+    "title": "Qual cidade do Brasil combina com você?",
+    "questions": [
+        {
+            "question": "Qual é a sua atividade favorita no fim de semana?",
+            "answers": [
+                {
+                    "text": "Explorar novos restaurantes e bares 🍽️",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado12": 0.2,
+                        "resultado13": 0.6
+                    }
+                },
+                {
+                    "text": "Ir à praia e curtir o sol 🌞",
+                    "points": {
+                        "resultado2": 1,
+                        "resultado10": 0.8,
+                        "resultado12": 1,
+                        "resultado14": 0.7
+                    }
+                },
+                {
+                    "text": "Passear em parques e áreas verdes 🌳",
+                    "points": {
+                        "resultado3": 1,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7,
+                        "resultado15": 0.6
+                    }
+                },
+                {
+                    "text": "Assistir a shows e eventos culturais 🎭",
+                    "points": {
+                        "resultado4": 1,
+                        "resultado9": 0.8,
+                        "resultado11": 0.5,
+                        "resultado14": 0.4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é o seu tipo de comida favorito?",
+            "answers": [
+                {
+                    "text": "Comida internacional 🍣",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado5": 0.3,
+                        "resultado6": 0.7,
+                        "resultado12": 0.2,
+                        "resultado13": 0.6
+                    }
+                },
+                {
+                    "text": "Comida baiana 🌶️",
+                    "points": {
+                        "resultado2": 1,
+                        "resultado11": 0.8
+                    }
+                },
+                {
+                    "text": "Comida caseira 🍲",
+                    "points": {
+                        "resultado3": 1,
+                        "resultado4": 0.5,
+                        "resultado7": 0.3,
+                        "resultado8": 0.7
+                    }
+                },
+                {
+                    "text": "Churrasco 🍖",
+                    "points": {
+                        "resultado6": 1,
+                        "resultado9": 0.8,
+                        "resultado10": 0.5,
+                        "resultado14": 0.4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você fosse um personagem de filme, qual seria seu papel?",
+            "answers": [
+                {
+                    "text": "O herói destemido que salva o dia 🦸",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado6": 0.7,
+                        "resultado12": 0.5,
+                        "resultado15": 0.8
+                    }
+                },
+                {
+                    "text": "O vilão carismático que todos amam odiar 😈",
+                    "points": {
+                        "resultado2": 0.8,
+                        "resultado7": 1,
+                        "resultado10": 0.5,
+                        "resultado11": 0.6
+                    }
+                },
+                {
+                    "text": "O alívio cômico que faz todos rirem 😂",
+                    "points": {
+                        "resultado3": 0.7,
+                        "resultado4": 1,
+                        "resultado9": 0.5,
+                        "resultado13": 0.4
+                    }
+                },
+                {
+                    "text": "O sábio mentor que guia os outros 🧙",
+                    "points": {
+                        "resultado5": 1,
+                        "resultado8": 0.7,
+                        "resultado14": 0.6,
+                        "resultado15": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você pudesse conversar com qualquer animal, qual escolheria?",
+            "answers": [
+                {
+                    "text": "Um pássaro para explorar os céus 🦅",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado12": 0.2,
+                        "resultado14": 0.7,
+                        "resultado15": 0.8
+                    }
+                },
+                {
+                    "text": "Um golfinho para descobrir os segredos do mar 🐬",
+                    "points": {
+                        "resultado2": 0.8,
+                        "resultado10": 1,
+                        "resultado11": 0.5,
+                        "resultado13": 0.6
+                    }
+                },
+                {
+                    "text": "Um cachorro para entender a lealdade 🐶",
+                    "points": {
+                        "resultado3": 0.7,
+                        "resultado6": 1,
+                        "resultado9": 0.5,
+                        "resultado8": 0.4
+                    }
+                },
+                {
+                    "text": "Um gato para desvendar seus mistérios 🐱",
+                    "points": {
+                        "resultado4": 0.6,
+                        "resultado5": 1,
+                        "resultado7": 0.7,
+                        "resultado14": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual seria seu emprego dos sonhos?",
+            "answers": [
+                {
+                    "text": "Astronauta explorando o espaço 🚀",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado5": 0.6,
+                        "resultado12": 0.2,
+                        "resultado15": 0.7
+                    }
+                },
+                {
+                    "text": "Chef de cozinha em um restaurante famoso 🍳",
+                    "points": {
+                        "resultado2": 0.7,
+                        "resultado6": 1,
+                        "resultado10": 0.5,
+                        "resultado11": 0.6
+                    }
+                },
+                {
+                    "text": "Artista viajando pelo mundo 🎨",
+                    "points": {
+                        "resultado3": 0.7,
+                        "resultado4": 1,
+                        "resultado9": 0.5,
+                        "resultado13": 0.4
+                    }
+                },
+                {
+                    "text": "Detetive resolvendo mistérios 🕵️",
+                    "points": {
+                        "resultado7": 1,
+                        "resultado8": 0.7,
+                        "resultado14": 0.6,
+                        "resultado15": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você pudesse ter um animal de estimação exótico, qual escolheria?",
+            "answers": [
+                {
+                    "text": "Um dragão que cospe fogo 🐉",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado6": 0.5,
+                        "resultado12": 0.2,
+                        "resultado15": 0.8
+                    }
+                },
+                {
+                    "text": "Um unicórnio mágico 🦄",
+                    "points": {
+                        "resultado2": 0.8,
+                        "resultado7": 1,
+                        "resultado10": 0.6,
+                        "resultado11": 0.5
+                    }
+                },
+                {
+                    "text": "Um polvo inteligente 🐙",
+                    "points": {
+                        "resultado3": 0.6,
+                        "resultado4": 1,
+                        "resultado9": 0.7,
+                        "resultado13": 0.4
+                    }
+                },
+                {
+                    "text": "Um lobo gigante 🐺",
+                    "points": {
+                        "resultado5": 1,
+                        "resultado8": 0.7,
+                        "resultado14": 0.6,
+                        "resultado15": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual seria o seu superpoder culinário?",
+            "answers": [
+                {
+                    "text": "Transformar qualquer ingrediente em um prato gourmet 🍽️",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado5": 0.6,
+                        "resultado12": 0.8,
+                        "resultado15": 0.7
+                    }
+                },
+                {
+                    "text": "Cozinhar pratos que mudam de sabor conforme o humor 🌈",
+                    "points": {
+                        "resultado2": 0.7,
+                        "resultado6": 1,
+                        "resultado10": 0.5,
+                        "resultado11": 0.6
+                    }
+                },
+                {
+                    "text": "Criar sobremesas que nunca acabam 🍰",
+                    "points": {
+                        "resultado3": 0.7,
+                        "resultado4": 1,
+                        "resultado9": 0.5,
+                        "resultado13": 0.4
+                    }
+                },
+                {
+                    "text": "Fazer refeições que dão superpoderes 🍲",
+                    "points": {
+                        "resultado7": 1,
+                        "resultado8": 0.7,
+                        "resultado14": 0.6,
+                        "resultado15": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você pudesse viver em qualquer época, qual escolheria?",
+            "answers": [
+                {
+                    "text": "O futuro com tecnologia avançada 🚀",
+                    "points": {
+                        "resultado1": 1,
+                        "resultado5": 0.6,
+                        "resultado12": 0.6,
+                        "resultado15": 0.7
+                    }
+                },
+                {
+                    "text": "A Idade Média com castelos e cavaleiros 🏰",
+                    "points": {
+                        "resultado2": 0.7,
+                        "resultado6": 1,
+                        "resultado10": 0.5,
+                        "resultado11": 0.6
+                    }
+                },
+                {
+                    "text": "Os anos 60 com música e revolução 🌸",
+                    "points": {
+                        "resultado3": 0.7,
+                        "resultado4": 1,
+                        "resultado9": 0.5,
+                        "resultado13": 0.4
+                    }
+                },
+                {
+                    "text": "O Antigo Egito com suas pirâmides 🏜️",
+                    "points": {
+                        "resultado7": 1,
+                        "resultado8": 0.7,
+                        "resultado14": 0.6,
+                        "resultado15": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual drink você escolheria para uma noite especial?",
+            "answers": [
+                {
+                    "text": "Um coquetel exótico com frutas tropicais 🍹",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado5": 0.6,
+                        "resultado12": 1,
+                        "resultado15": 0.7
+                    }
+                },
+                {
+                    "text": "Um clássico Martini com azeitona 🍸",
+                    "points": {
+                        "resultado2": 0.7,
+                        "resultado6": 1,
+                        "resultado10": 0.5,
+                        "resultado11": 0.6
+                    }
+                },
+                {
+                    "text": "Um Mojito refrescante com hortelã 🍃",
+                    "points": {
+                        "resultado3": 0.7,
+                        "resultado4": 1,
+                        "resultado9": 0.5,
+                        "resultado13": 0.4
+                    }
+                },
+                {
+                    "text": "Um vinho tinto encorpado 🍷",
+                    "points": {
+                        "resultado7": 1,
+                        "resultado8": 0.7,
+                        "resultado14": 0.6,
+                        "resultado15": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Se você pudesse transformar qualquer lugar em uma cidade brasileira, qual seria?",
+            "answers": [
+                {
+                    "text": "Uma ilha paradisíaca com praias de areia branca 🏝️",
+                    "points": {
+                        "resultado1": 0.8,
+                        "resultado5": 0.6,
+                        "resultado12": 1,
+                        "resultado15": 0.7
+                    }
+                },
+                {
+                    "text": "Uma metrópole futurista com arranha-céus brilhantes 🌆",
+                    "points": {
+                        "resultado2": 0.7,
+                        "resultado6": 1,
+                        "resultado10": 0.5,
+                        "resultado11": 0.6
+                    }
+                },
+                {
+                    "text": "Uma floresta encantada cheia de mistérios 🌳",
+                    "points": {
+                        "resultado3": 0.7,
+                        "resultado4": 1,
+                        "resultado9": 0.5,
+                        "resultado13": 0.4
+                    }
+                },
+                {
+                    "text": "Uma vila histórica com ruas de paralelepípedos 🏘️",
+                    "points": {
+                        "resultado7": 1,
+                        "resultado8": 0.7,
+                        "resultado14": 0.6,
+                        "resultado15": 0.3
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "resultado1": {
+            "title": "São Paulo",
+            "emoji": "🏙️",
+            "subtitle": "A cidade que nunca dorme",
+            "text": "Você é dinâmico, adora a vida urbana e está sempre em busca de novas oportunidades. São Paulo é o seu lugar!"
+        },
+        "resultado2": {
+            "title": "Salvador",
+            "emoji": "🌊",
+            "subtitle": "A capital da alegria",
+            "text": "Você é alegre, ama festas e tem uma conexão forte com a cultura. Salvador é a cidade perfeita para você!"
+        },
+        "resultado3": {
+            "title": "Maringá",
+            "emoji": "🌳",
+            "subtitle": "A cidade verde",
+            "text": "Você valoriza a qualidade de vida, gosta de tranquilidade e contato com a natureza. Maringá é a sua cidade ideal!"
+        },
+        "resultado4": {
+            "title": "Bauru",
+            "emoji": "🍔",
+            "subtitle": "A cidade do sanduíche",
+            "text": "Você é descontraído, adora uma boa comida e valoriza a simplicidade. Bauru é a cidade que combina com você!"
+        },
+        "resultado5": {
+            "title": "Belo Horizonte",
+            "emoji": "⛰️",
+            "subtitle": "A cidade das montanhas",
+            "text": "Você gosta de um clima ameno, aprecia a boa gastronomia e a vida cultural. Belo Horizonte é a sua cidade!"
+        },
+        "resultado6": {
+            "title": "Porto Alegre",
+            "emoji": "🍷",
+            "subtitle": "A capital gaúcha",
+            "text": "Você é tradicional, gosta de um bom churrasco e aprecia a cultura local. Porto Alegre é a cidade perfeita para você!"
+        },
+        "resultado7": {
+            "title": "Brasília",
+            "emoji": "🏛️",
+            "subtitle": "A capital do Brasil",
+            "text": "Você é organizado, gosta de arquitetura moderna e tem um espírito cívico. Brasília é a sua cidade!"
+        },
+        "resultado8": {
+            "title": "Goiânia",
+            "emoji": "🌾",
+            "subtitle": "A cidade sertaneja",
+            "text": "Você gosta de música sertaneja, valoriza a vida no campo e a hospitalidade. Goiânia é a cidade que combina com você!"
+        },
+        "resultado9": {
+            "title": "Caruaru",
+            "emoji": "🎉",
+            "subtitle": "A capital do forró",
+            "text": "Você adora festas tradicionais, tem um espírito alegre e valoriza a cultura local. Caruaru é a cidade perfeita para você!"
+        },
+        "resultado10": {
+            "title": "João Pessoa",
+            "emoji": "🏖️",
+            "subtitle": "A cidade onde o sol nasce primeiro",
+            "text": "Você ama praias tranquilas, um clima agradável e uma vida mais calma. João Pessoa é a sua cidade!"
+        },
+        "resultado11": {
+            "title": "Belém do Pará",
+            "emoji": "🌴",
+            "subtitle": "A cidade das mangueiras",
+            "text": "Você gosta de uma culinária rica, aprecia a natureza e tem um espírito aventureiro. Belém do Pará é a cidade ideal para você!"
+        },
+        "resultado12": {
+            "title": "Rio de Janeiro",
+            "emoji": "🌆",
+            "subtitle": "A cidade maravilhosa",
+            "text": "Você é vibrante, adora praias e montanhas, e gosta de uma vida agitada. O Rio de Janeiro é a sua cidade!"
+        },
+        "resultado13": {
+            "title": "Balneário Camboriú",
+            "emoji": "🏖️",
+            "subtitle": "A Dubai brasileira",
+            "text": "Você gosta de luxo, praias badaladas e uma vida noturna agitada. Balneário Camboriú é a cidade perfeita para você!"
+        },
+        "resultado14": {
+            "title": "Fortaleza",
+            "emoji": "🌅",
+            "subtitle": "A terra do sol",
+            "text": "Você ama sol, praias e uma vida cultural rica. Fortaleza é a cidade que combina com você!"
+        },
+        "resultado15": {
+            "title": "Manaus",
+            "emoji": "🌳",
+            "subtitle": "A capital da Amazônia",
+            "text": "Você é aventureiro, gosta de natureza e tem um espírito explorador. Manaus é a cidade ideal para você!"
+        }
+    }
+}
