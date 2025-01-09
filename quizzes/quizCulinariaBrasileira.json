@@ -1,0 +1,606 @@
+{
+    "title": "Qual inovação gastronômica brasileira você é?",
+    "questions": [
+        {
+            "question": "Qual entrada você escolheria para começar sua refeição?",
+            "answers": [
+                {
+                    "text": "Coxinha crocante 🍔",
+                    "points": {
+                        "Burguer de Coxinha": 1,
+                        "Fondue de Coxinha": 0.8,
+                        "Naked Cake de Coxinha": 0.5
+                    }
+                },
+                {
+                    "text": "Açaí tradicional com granola 🥥",
+                    "points": {
+                        "Tacos de Açaí": 1,
+                        "Acarajapa": 0.8,
+                        "Tapioca de Risoto": 0.6
+                    }
+                },
+                {
+                    "text": "Salada de frutas com mel 🍓🍯",
+                    "points": {
+                        "Acarajapa": 1,
+                        "Makixêra": 0.8
+                    }
+                },
+                {
+                    "text": "Canapé de tapioca recheado com queijo 🍽️",
+                    "points": {
+                        "Tapioca de Risoto": 1,
+                        "Acarajapa": 0.8,
+                        "Makixêra": 0.6
+                    }
+                },
+                {
+                    "text": "Nada, prefiro ir direto ao prato principal 🍽️",
+                    "points": {}
+                }
+            ]
+        },
+        {
+            "question": "Qual prato principal você escolheria para a sua refeição?",
+            "answers": [
+                {
+                    "text": "Feijoada completa com arroz e farofa 🍗🍲",
+                    "points": {
+                        "Pizza de Sushi": 0.5,
+                        "Burguer de Coxinha": 0.3,
+                        "Tacos de Açaí": 0.2,
+                        "Tapioca de Risoto": 0.1,
+                        "Acarajapa": 0.4,
+                        "Panetone de Sushi": 0.3,
+                        "Makixêra": 0.2,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Picanha na churrasqueira 🥓🔥",
+                    "points": {
+                        "Burguer de Coxinha": 0.8,
+                        "Fondue de Coxinha": 0.6,
+                        "Naked Cake de Coxinha": 0.4,
+                        "Acarajapa": 0.3,
+                        "Panetone de Sushi": 0.2,
+                        "Makixêra": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.8
+                    }
+                },
+                {
+                    "text": "Moqueca de peixe com dendê 🐟🥣",
+                    "points": {
+                        "Tacos de Açaí": 0.8,
+                        "Acarajapa": 0.6,
+                        "Tapioca de Risoto": 0.4,
+                        "Makixêra": 0.3,
+                        "Pizza de Sushi": 0.2,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Risoto de camarão 🍤🍝",
+                    "points": {
+                        "Tapioca de Risoto": 1,
+                        "Acarajapa": 0.8,
+                        "Makixêra": 0.6,
+                        "Pizza de Sushi": 0.4,
+                        "Fondue de Coxinha": 0.2,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Strogonoff de frango 🍗🍲",
+                    "points": {
+                        "Pizza de Strogonoff": 1,
+                        "Fondue de Coxinha": 0.8,
+                        "Naked Cake de Coxinha": 0.6,
+                        "Acarajapa": 0.4,
+                        "Panetone de Sushi": 0.2,
+                        "Makixêra": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Lasanha à Bolonhesa 🍝",
+                    "points": {
+                        "Pizza de Carbonara": 1,
+                        "Fondue de Coxinha": 0.8,
+                        "Naked Cake de Coxinha": 0.6,
+                        "Acarajapa": 0.4,
+                        "Panetone de Sushi": 0.2,
+                        "Makixêra": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Feijoada vegetariana 🌱🍲",
+                    "points": {
+                        "Acarajapa": 1,
+                        "Makixêra": 0.8,
+                        "Tacos de Açaí": 0.6,
+                        "Tapioca de Risoto": 0.4,
+                        "Pizza de Sushi": 0.2,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual bebida você escolheria para acompanhar sua refeição?",
+            "answers": [
+                {
+                    "text": "Suco de laranja 🍊",
+                    "points": {
+                        "Acarajapa": 0.8,
+                        "Makixêra": 0.6,
+                        "Tacos de Açaí": 0.4,
+                        "Tapioca de Risoto": 0.2,
+                        "Pizza de Sushi": 0.1,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Cerveja gelada 🍺",
+                    "points": {
+                        "Burguer de Coxinha": 0.8,
+                        "Fondue de Coxinha": 0.6,
+                        "Naked Cake de Coxinha": 0.4,
+                        "Acarajapa": 0.2,
+                        "Panetone de Sushi": 0.1,
+                        "Makixêra": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.8
+                    }
+                },
+                {
+                    "text": "Caipirinha de limão 🍋🍹",
+                    "points": {
+                        "Tacos de Açaí": 0.8,
+                        "Acarajapa": 0.6,
+                        "Tapioca de Risoto": 0.4,
+                        "Makixêra": 0.2,
+                        "Pizza de Sushi": 0.1,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza_de_strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Refrigerante de guaraná 🥤",
+                    "points": {
+                        "Tapioca de Risoto": 0.8,
+                        "Acarajapa": 0.6,
+                        "Makixêra": 0.4,
+                        "Pizza de Sushi": 0.2,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Cachaça gelada 🥃",
+                    "points": {
+                        "Burguer de Coxinha": 0.8,
+                        "Fondue de Coxinha": 0.6,
+                        "Naked Cake de Coxinha": 0.4,
+                        "Acarajapa": 0.2,
+                        "Panetone de Sushi": 0.1,
+                        "Makixêra": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.8
+                    }
+                },
+                {
+                    "text": "Água mineral 🚰",
+                    "points": {}
+                }
+            ]
+        },
+        {
+            "question": "Qual música você escolheria para tocar durante sua refeição?",
+            "answers": [
+                {
+                    "text": "Um samba clássico 🎶",
+                    "points": {
+                        "Acarajapa": 0.8,
+                        "Makixêra": 0.6,
+                        "Tacos de Açaí": 0.4,
+                        "Tapioca de Risoto": 0.2,
+                        "Pizza de Sushi": 0.1,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Um funk brasileiro 🎶",
+                    "points": {
+                        "Burguer de Coxinha": 0.8,
+                        "Fondue de Coxinha": 0.6,
+                        "Naked Cake de Coxinha": 0.4,
+                        "Acarajapa": 0.2,
+                        "Panetone de Sushi": 0.1,
+                        "Makixêra": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.8
+                    }
+                },
+                {
+                    "text": "Um jazz moderno 🎷",
+                    "points": {
+                        "Pizza de Sushi": 0.8,
+                        "Tacos de Açaí": 0.6,
+                        "Tapioca de Risoto": 0.4,
+                        "Makixêra": 0.2,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Uma música eletrônica 🎧",
+                    "points": {
+                        "Panetone de Sushi": 0.8,
+                        "Makixêra": 0.6,
+                        "Tacos de Açaí": 0.4,
+                        "Tapioca de Risoto": 0.2,
+                        "Pizza de Sushi": 0.1,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Uma música clássica 🎵",
+                    "points": {
+                        "Pizza de Carbonara": 0.8,
+                        "Sushi de Romeu e Julieta": 0.6,
+                        "Pizza de Strogonoff": 0.4,
+                        "Fondue de Coxinha": 0.2,
+                        "Acarajapa": 0.1,
+                        "Makixêra": 0.1,
+                        "Tacos de Açaí": 0.1,
+                        "Tapioca de Risoto": 0.1,
+                        "Pizza de Sushi": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Nada, prefiro silêncio 🍽️",
+                    "points": {}
+                }
+            ]
+        },
+        {
+            "question": "Qual ambiente você escolheria para desfruir sua refeição?",
+            "answers": [
+                {
+                    "text": "Uma mesa no jardim com vista para o mar 🌊",
+                    "points": {
+                        "Acarajapa": 0.8,
+                        "Makixêra": 0.6,
+                        "Tacos de Açaí": 0.4,
+                        "Tapioca de Risoto": 0.2,
+                        "Pizza de Sushi": 0.1,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Um barzinho com música ao vivo 🎸",
+                    "points": {
+                        "Burguer de Coxinha": 0.8,
+                        "Fondue de Coxinha": 0.6,
+                        "Naked Cake de Coxinha": 0.4,
+                        "Acarajapa": 0.2,
+                        "Panetone de Sushi": 0.1,
+                        "Makixêra": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.8
+                    }
+                },
+                {
+                    "text": "Uma mesa em um terraço com vista para a cidade 🌆",
+                    "points": {
+                        "Pizza de Sushi": 0.8,
+                        "Tacos de Açaí": 0.6,
+                        "Tapioca de Risoto": 0.4,
+                        "Makixêra": 0.2,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Uma mesa em um restaurante sofisticado 🍽️",
+                    "points": {
+                        "Panetone de Sushi": 0.8,
+                        "Makixêra": 0.6,
+                        "Tacos de Açaí": 0.4,
+                        "Tapioca de Risoto": 0.2,
+                        "Pizza de Sushi": 0.1,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Uma mesa na varanda da praia 🏕",
+                    "points": {
+                        "Pizza de Carbonara": 0.8,
+                        "Sushi de Romeu e Julieta": 0.6,
+                        "Pizza de Strogonoff": 0.4,
+                        "Fondue de Coxinha": 0.2,
+                        "Acarajapa": 0.1,
+                        "Makixêra": 0.1,
+                        "Tacos de Açaí": 0.1,
+                        "Tapioca de Risoto": 0.1,
+                        "Pizza de Sushi": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Uma mesa na cozinha 🏡",
+                    "points": {
+                        "Naked Cake de Coxinha": 1,
+                        "Acarajapa": 0.8,
+                        "Fondue de Coxinha": 0.6,
+                        "Panetone de Sushi": 0.4,
+                        "Makixêra": 0.2,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual sobremesa você escolheria para finalizar sua refeição?",
+            "answers": [
+                {
+                    "text": "Brigadeiro 🍫",
+                    "points": {
+                        "Acarajapa": 1,
+                        "Makixêra": 0.8,
+                        "Tacos de Açaí": 0.6,
+                        "Tapioca de Risoto": 0.4,
+                        "Pizza de Sushi": 0.2,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Pudim de leite condensado 🍮",
+                    "points": {
+                        "Burguer de Coxinha": 1,
+                        "Fondue de Coxinha": 0.8,
+                        "Naked Cake de Coxinha": 0.6,
+                        "Acarajapa": 0.4,
+                        "Panetone de Sushi": 0.2,
+                        "Makixêra": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Quindim 🍮",
+                    "points": {
+                        "Tacos de Açaí": 1,
+                        "Acarajapa": 0.8,
+                        "Tapioca de Risoto": 0.6,
+                        "Makixêra": 0.4,
+                        "Pizza de Sushi": 0.2,
+                        "Fondue de Coxinha": 0.1,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Beijinho de coco 🍮",
+                    "points": {
+                        "Tapioca de Risoto": 1,
+                        "Acarajapa": 0.8,
+                        "Makixêra": 0.6,
+                        "Pizza de Sushi": 0.4,
+                        "Fondue de Coxinha": 0.2,
+                        "Pizza de Carbonara": 0.1,
+                        "Sushi de Romeu e Julieta": 0.1,
+                        "Pizza de Strogonoff": 0.1,
+                        "Panetone de Churrasco": 0.1
+                    }
+                },
+                {
+                    "text": "Nada, prefiro terminar sem sobremesa 🍽️",
+                    "points": {}
+                }
+            ]
+        },
+        {
+            "question": "Com quem você preferiria desfrutar esta refeição?",
+            "answers": [
+                {
+                    "text": "Amigos e familiares 🤗",
+                    "points": {
+                        "Acarajapa": 1,
+                        "Makixêra": 0.8,
+                        "Tacos de Açaí": 0.6
+                    }
+                },
+                {
+                    "text": "Sozinho(a) 🧖",
+                    "points": {
+                        "Burguer de Coxinha": 1,
+                        "Fondue de Coxinha": 0.8,
+                        "Naked Cake de Coxinha": 0.6
+                    }
+                },
+                {
+                    "text": "Parceiro(a) especial 🥰",
+                    "points": {
+                        "Pizza de Sushi": 1,
+                        "Tacos de Açaí": 0.8,
+                        "Tapioca de Risoto": 0.6
+                    }
+                },
+                {
+                    "text": "Colegas do trabalho 🤝",
+                    "points": {
+                        "Panetone de Sushi": 1,
+                        "Makixêra": 0.8,
+                        "Tacos de Açaí": 0.6
+                    }
+                },
+                {
+                    "text": "Prefiro desfrutar com os animais de estimação 🐾",
+                    "points": {
+                        "Acarajapa": 1,
+                        "Makixêra": 0.8,
+                        "Tacos de Açaí": 0.6
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "Pizza de Sushi": {
+            "title": "Pizza de Sushi",
+            "emoji": "🍕🍣",
+            "subtitle": "A fusão perfeita da Itália com o Japão",
+            "text": "Você é um mistério ambulante, sempre surpreendendo com combinações inusitadas. Seu estilo único de ser faz com que todos fiquem de queixo caído. Você é a pizza de sushi, uma obra de arte culinária que ninguém espera, mas todos amam!"
+        },
+        "Burguer de Coxinha": {
+            "title": "Burguer de Coxinha",
+            "emoji": "🍔🥟",
+            "subtitle": "A crocância em cada mordida",
+            "text": "Você é uma pessoa cheia de camadas, com um interior macio e saboroso. Seu exterior forte esconde uma personalidade delicada e refinada. Você é o burguer de coxinha, uma explosão de sabores que deixa todos com água na boca!"
+        },
+        "Tacos de Açaí": {
+            "title": "Tacos de Açaí",
+            "emoji": "🌮🫐",
+            "subtitle": "A mistura perfeita do Norte com o México",
+            "text": "Você é uma pessoa versátil, capaz de se adaptar a qualquer situação. Sua combinação única de ingredientes faz de você someone especial. Você é os tacos de açaí, uma fusão que ninguém esperava, mas que todos adoram!"
+        },
+        "Tapioca de Risoto": {
+            "title": "Tapioca de Risoto",
+            "emoji": "🥣🍝",
+            "subtitle": "A combinação perfeita da tapioca com o risoto",
+            "text": "Você é uma pessoa refinada, com um toque de rusticidade. Sua personalidade única e versátil faz de você uma pessoa especial. Você é a tapioca de risoto, uma combinação inusitada que surpreende a todos!"
+        },
+        "Naked Cake de Coxinha": {
+            "title": "Naked Cake de Coxinha",
+            "emoji": "🎂🥟",
+            "subtitle": "Doce e salgado em um só bolo",
+            "text": "Você é uma pessoa que não tem medo de ser você mesma. Sua personalidade forte e única faz de você uma pessoa especial. Você é o naked cake de coxinha, uma combinação ousada que deixa todos de queixo caído!"
+        },
+        "Acarajapa": {
+            "title": "Acarajapa",
+            "emoji": "🍳🍣",
+            "subtitle": "Acarajé meets comida japonesa",
+            "text": "Você é uma pessoa criativa, sempre pensando fora da caixa. Sua personalidade única e versátil faz de você uma pessoa especial. Você é a acarajapa, uma combinação inusitada que surpreende a todos!"
+        },
+        "Panetone de Sushi": {
+            "title": "Panetone de Sushi",
+            "emoji": "🎄🍣",
+            "subtitle": "Doce e salgado em um panetone",
+            "text": "Você é uma pessoa cheia de surpresas, sempre trazendo novidades. Sua personalidade única e versátil faz de você uma pessoa especial. Você é o panetone de sushi, uma combinação inusitada que deixa todos de queixo caído!"
+        },
+        "Makixêra": {
+            "title": "Makixêra",
+            "emoji": "🍣🌾",
+            "subtitle": "Mandioca meets makimono",
+            "text": "Você é uma pessoa inovadora, sempre trazendo novidades. Sua personalidade única e versátil faz de você uma pessoa especial. Você é a makixêra, uma combinação inusitada que surpreende a todos!"
+        },
+        "Fondue de Coxinha": {
+            "title": "Fondue de Coxinha",
+            "emoji": "🧀🥟",
+            "subtitle": "A crocância em cada dip",
+            "text": "Você é uma pessoa cheia de camadas, com um interior macio e saboroso. Sua personalidade única e versátil faz de você uma pessoa especial. Você é o fondue de coxinha, uma explosão de sabores que deixa todos com água na boca!"
+        },
+        "Pizza de Carbonara": {
+            "title": "Pizza de Carbonara",
+            "emoji": "🍕🍝",
+            "subtitle": "A fusão perfeita da Itália com o Brasil",
+            "text": "Você é uma pessoa cheia de sabores, sempre trazendo novidades. Sua personalidade única e versátil faz de você uma pessoa especial. Você é a pizza de carbonara, uma combinação inusitada que deixa todos de queixo caído!"
+        },
+        "Sushi de Romeu e Julieta": {
+            "title": "Sushi de Romeu e Julieta",
+            "emoji": "🍣❤️",
+            "subtitle": "Doce e salgado em um sushi",
+            "text": "Você é uma pessoa cheia de emoções, sempre trazendo novidades. Sua personalidade única e versátil faz de você uma pessoa especial. Você é o sushi de Romeu e Julieta, uma combinação inusitada que deixa todos de queixo caído!"
+        },
+        "Pizza de Strogonoff": {
+            "title": "Pizza de Strogonoff",
+            "emoji": "🍕🍲",
+            "subtitle": "A fusão perfeita da Rússia com o Brasil",
+            "text": "Você é uma pessoa cheia de sabores, sempre trazendo novidades. Sua personalidade única e versátil faz de você uma pessoa especial. Você é a pizza de strogonoff, uma combinação inusitada que deixa todos de queixo caído!"
+        },
+        "Panetone de Churrasco": {
+            "title": "Panetone de Churrasco",
+            "emoji": "🎄🥩",
+            "subtitle": "Doce e salgado em um panetone",
+            "text": "Você é uma pessoa cheia de surpresas, sempre trazendo novidades. Sua personalidade única e versátil faz de você uma pessoa especial. Você é o panetone de churrasco, uma combinação inusitada que deixa todos de queixo caído!"
+        }
+    }
+}

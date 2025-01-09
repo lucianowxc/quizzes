@@ -194,6 +194,11 @@
            "name": "Qual cidade do Brasil combina com você?",
            "file": "quizzes/quizCidades.json",
            "description": "Descubra qual cidade do Brasil mais se parece com você!"
-        }
+        },
+        {
+          "name": "Qual inovação gastronômica brasileira você é?",
+          "file": "quizzes/quizCulinariaBrasileira.json",
+          "description": "Descubra qual inovação gastronômica brasileira mais se parece com você!"
+       }
     ]
 }
