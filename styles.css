@@ -511,3 +511,16 @@ select {
 #result-subtitle, #result-details {
     transition: opacity 1.5s ease-in-out;
 }
+
+.highlight {
+    animation: glow 1.5s ease-in-out;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+@keyframes glow {
+    0% { text-shadow: 0 0 5px yellow, 0 0 10px yellow, 0 0 15px yellow, 0 0 20px yellow; }
+    100% { text-shadow: none; }
+}

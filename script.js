@@ -211,7 +211,7 @@ function showResult() {
     const resultContainer = document.createElement('div');
     resultContainer.className = 'result-container';
     resultContainer.innerHTML = `
-        <h2 id="result-title">Você é <span id="result-subtitle" style="opacity: 0;">${title} ${emoji}</span></h2>
+        <h2 id="result-title">Você é <span id="result-subtitle" class="bold" style="opacity: 0;">${title} ${emoji}</span></h2>
         <div id="result-details" style="opacity: 0;">
             <h3>${subtitle}</h3>
             <p>${text}</p>
@@ -228,7 +228,9 @@ function showResult() {
         setTimeout(() => {
             resultContainer.classList.add('show');
             setTimeout(() => {
-                document.getElementById('result-subtitle').style.opacity = '1';
+                const resultSubtitle = document.getElementById('result-subtitle');
+                resultSubtitle.style.opacity = '1';
+                resultSubtitle.classList.add('highlight');
                 setTimeout(() => {
                     document.getElementById('result-details').style.opacity = '1';
                 }, 1500);
@@ -236,7 +238,9 @@ function showResult() {
         }, 100);
     } else {
         resultContainer.classList.add('show');
-        document.getElementById('result-subtitle').style.opacity = '1';
+        const resultSubtitle = document.getElementById('result-subtitle');
+        resultSubtitle.style.opacity = '1';
+        resultSubtitle.classList.add('highlight');
         document.getElementById('result-details').style.opacity = '1';
     }
 }
