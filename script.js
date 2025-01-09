@@ -171,6 +171,7 @@ function showQuestion() {
 
     questionContainer.appendChild(buttonContainer);
     updateProgress();
+    updateDarkModeStyles(); // Ensure dark mode styles are applied
 }
 
 function selectAnswer(answerIndex) {
@@ -243,6 +244,7 @@ function showResult() {
         resultSubtitle.classList.add('highlight');
         document.getElementById('result-details').style.opacity = '1';
     }
+    updateDarkModeStyles(); // Ensure dark mode styles are applied
 }
 
 function restartQuiz() {

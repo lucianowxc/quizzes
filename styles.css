@@ -72,6 +72,10 @@ header h1 {
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
 }
 
+.quiz-container.dark-mode, .quiz-container.dark-mode h2, .quiz-container.dark-mode h3, .quiz-container.dark-mode p, .quiz-container.dark-mode button {
+    color: var(--dark-font-color);
+}
+
 h2 {
     font-size: 20px;
     color: var(--font-color);
