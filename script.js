@@ -4,7 +4,7 @@ let scores = {};
 let currentPage = 1;
 const quizzesPerPage = 14;
 let currentQuizFile = ''; // Store the current quiz file name
-let previousAnswers = []; // Track previous answers
+let selectedAnswers = []; // Track selected answers
 
 document.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
@@ -124,7 +124,7 @@ function initializeQuiz() {
     document.getElementById('quiz-title').textContent = quizData.title;
     scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
     currentQuestionIndex = 0; // Reset question index
-    previousAnswers = []; // Reset previous answers
+    selectedAnswers = []; // Reset selected answers
     showQuestion();
     document.getElementById('quiz-posts').classList.add('hidden'); // Hide quiz posts
     updateProgress();
@@ -142,7 +142,7 @@ function showQuestion() {
         const button = document.createElement('button');
         button.textContent = answer.text;
         button.className = 'option-button';
-        button.onclick = () => selectAnswer(answer.points, index);
+        button.onclick = () => selectAnswer(index);
         questionContainer.appendChild(button);
     });
 
@@ -169,27 +169,13 @@ function showQuestion() {
     updateProgress();
 }
 
-function selectAnswer(points, answerIndex) {
-    // Adjust scores if going back to a previous question
-    if (previousAnswers[currentQuestionIndex] !== undefined) {
-        const previousPoints = previousAnswers[currentQuestionIndex];
-        for (const key in previousPoints) {
-            scores[key] -= previousPoints[key];
-        }
-    }
-
-    // Save the current answer points
-    previousAnswers[currentQuestionIndex] = points;
-
-    // Update scores with the new answer points
-    for (const key in points) {
-        scores[key] += points[key];
-    }
-
+function selectAnswer(answerIndex) {
+    selectedAnswers[currentQuestionIndex] = answerIndex;
     currentQuestionIndex++;
     if (currentQuestionIndex < quizData.questions.length) {
         showQuestion();
     } else {
+        calculateScores();
         showResult();
     }
 }
@@ -199,6 +185,16 @@ function previousQuestion() {
         currentQuestionIndex--;
         showQuestion();
     }
+}
+
+function calculateScores() {
+    scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
+    selectedAnswers.forEach((answerIndex, questionIndex) => {
+        const points = quizData.questions[questionIndex].answers[answerIndex].points;
+        for (const key in points) {
+            scores[key] += points[key];
+        }
+    });
 }
 
 function showResult() {
@@ -220,8 +216,7 @@ function showResult() {
 
 function restartQuiz() {
     currentQuestionIndex = 0;
-    scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
-    previousAnswers = []; // Reset previous answers
+    selectedAnswers = []; // Reset selected answers
     showQuestion();
 }
 
