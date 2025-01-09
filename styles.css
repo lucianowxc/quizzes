@@ -14,6 +14,13 @@
     --option-background: #FFCCBC; /* Updated option background color */
     --option-hover-background: #FFAB91; /* Updated option hover background color */
     --option-border-color: #D32F2F; /* Updated option border color */
+    --dark-background-color: #121212;
+    --dark-font-color: #e0e0e0;
+    --dark-header-background: #333;
+    --dark-button-background: #444;
+    --dark-button-hover-background: #666;
+    --dark-option-background: #555;
+    --dark-option-hover-background: #777;
 }
 
 body {
@@ -25,6 +32,11 @@ body {
     background-color: var(--background-color);
 }
 
+body.dark-mode {
+    background-color: var(--dark-background-color);
+    color: var(--dark-font-color);
+}
+
 header {
     background-color: var(--header-background);
     color: var(--header-font-color);
@@ -32,6 +44,10 @@ header {
     padding: 20px 0;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header.dark-mode {
+    background-color: var(--dark-header-background);
 }
 
 header h1 {
@@ -50,9 +66,19 @@ header h1 {
     margin-top: 20px;
 }
 
+.quiz-container.dark-mode {
+    background-color: var(--dark-background-color);
+    color: var(--dark-font-color);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
 h2 {
     font-size: 20px;
     color: var(--font-color);
+}
+
+h2.dark-mode {
+    color: var(--dark-font-color);
 }
 
 h3 {
@@ -60,9 +86,17 @@ h3 {
     color: #777;
 }
 
+h3.dark-mode {
+    color: var(--dark-font-color);
+}
+
 p {
     font-size: 16px;
     color: #666;
+}
+
+p.dark-mode {
+    color: var(--dark-font-color);
 }
 
 button {
@@ -77,8 +111,21 @@ button {
     transition: background-color 0.3s;
 }
 
+button:focus {
+    outline: 2px solid var(--primary-color);
+}
+
 button:hover {
     background-color: #666; /* Cor de fundo ao passar o mouse */
+}
+
+button.dark-mode {
+    background-color: var(--dark-button-background);
+    color: var(--dark-font-color);
+}
+
+button.dark-mode:hover {
+    background-color: var(--dark-button-hover-background);
 }
 
 button:focus {
@@ -104,6 +151,12 @@ input[type="file"], select {
     border: 1px solid var(--input-border-color);
     background-color: var(--input-background-color);
     color: var(--input-font-color);
+}
+
+input[type="file"].dark-mode, select.dark-mode {
+    background-color: var(--dark-background-color);
+    color: var(--dark-font-color);
+    border: 1px solid var(--dark-font-color);
 }
 
 select {
@@ -135,6 +188,14 @@ select {
 
 .option-button:hover {
     background-color: #666; /* Cor de fundo ao passar o mouse */
+}
+
+.option-button.dark-mode {
+    background-color: var(--dark-option-background);
+}
+
+.option-button.dark-mode:hover {
+    background-color: var(--dark-option-hover-background);
 }
 
 .return-button {
@@ -216,6 +277,12 @@ select {
     transition: transform 0.3s;
 }
 
+.quiz-post.dark-mode {
+    background-color: var(--dark-background-color);
+    color: var(--dark-font-color);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+}
+
 .quiz-post:hover {
     transform: translateY(-5px);
 }
@@ -225,9 +292,17 @@ select {
     color: var(--font-color);
 }
 
+.quiz-post h3.dark-mode {
+    color: var(--dark-font-color);
+}
+
 .quiz-post p {
     font-size: 14px;
     color: #666;
+}
+
+.quiz-post p.dark-mode {
+    color: var(--dark-font-color);
 }
 
 .hidden {

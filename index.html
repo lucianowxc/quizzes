@@ -10,7 +10,7 @@
     <script src="script.js"></script>
 </head>
 <body>
-    <div class="quiz-container">
+    <div class="quiz-container" role="main">
         <div class="quiz-header">
             <h1 id="quiz-title">Escolha seu Quiz</h1>
         </div>
@@ -27,8 +27,8 @@
             <button onclick="loadUploadedQuiz()">Carregar Quiz do Arquivo</button>
         </div>
     </div>
-    <div class="footer">
-        <p>Desenvolvido por: Luciano Cejnog - <a href='https://github.com/lucianowxc/quizzes'> Link do Repositório</a> - <a href="https://github.com/lucianowxc/quizzes/blob/main/prompts.md">Roteiro para criação de quiz no Copilot</a>. <a onclick="openSuggestionBox()">Envie suas sugestões de quiz</a></p>
+    <div class="footer" role="contentinfo">
+        <p>Desenvolvido por: Luciano Cejnog - <a href='https://github.com/lucianowxc/quizzes'> Link do Repositório</a> - <a href="https://github.com/lucianowxc/quizzes/blob/main/prompts.md">Roteiro para criação de quiz no Copilot</a>. <a onclick="openSuggestionBox()">Envie suas sugestões de quiz</a> - <button onclick="toggleDarkMode()" style="background: none; border: none; color: inherit; cursor: pointer; text-decoration: underline;">Alternar Modo Escuro</button></p>
     </div>
     <script src="script.js"></script>
 </body>

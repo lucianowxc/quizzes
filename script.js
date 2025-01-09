@@ -14,16 +14,19 @@ document.addEventListener('DOMContentLoaded', () => {
         loadQuizList();
         document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
     }
+    loadDarkModePreference();
 });
 
 async function loadQuizList() {
     try {
         const response = await fetch('quizList.json');
+        if (!response.ok) throw new Error('Network response was not ok');
         const data = await response.json();
         window.quizzes = data.quizzes.reverse(); // Store quizzes globally in reverse order
         displayQuizzes();
     } catch (error) {
         console.error('Erro ao carregar a lista de quizzes:', error);
+        alert('Erro ao carregar a lista de quizzes. Por favor, tente novamente mais tarde.');
     }
 }
 
@@ -69,6 +72,8 @@ function displayQuizzes() {
         <button onclick="nextPage()" ${endIndex >= window.quizzes.length ? 'disabled' : ''}>Próxima</button>
     `;
     quizPostsContainer.appendChild(paginationControls);
+
+    updateDarkModeStyles(); // Ensure dark mode styles are applied
 }
 
 function prevPage() {
@@ -88,11 +93,13 @@ function nextPage() {
 async function loadQuizFromPost(file) {
     try {
         const response = await fetch(file);
+        if (!response.ok) throw new Error('Network response was not ok');
         quizData = await response.json();
         currentQuizFile = file; // Store the current quiz file name
         initializeQuiz();
     } catch (error) {
         console.error('Erro ao carregar o quiz selecionado:', error);
+        alert('Erro ao carregar o quiz selecionado. Por favor, tente novamente mais tarde.');
     }
 }
 
@@ -118,6 +125,7 @@ function initializeQuiz() {
     currentQuestionIndex = 0; // Reset question index
     showQuestion();
     document.getElementById('quiz-posts').classList.add('hidden'); // Hide quiz posts
+    updateProgress();
 }
 
 function showQuestion() {
@@ -156,6 +164,7 @@ function showQuestion() {
     buttonContainer.appendChild(backButton);
 
     questionContainer.appendChild(buttonContainer);
+    updateProgress();
 }
 
 function selectAnswer(points) {
@@ -208,6 +217,7 @@ function returnToQuizSelection() {
     loadQuizList(); // Reload quiz list
     document.getElementById('quiz-posts').classList.remove('hidden'); // Show quiz posts
     window.history.replaceState({}, document.title, window.location.pathname); // Clear URL parameters
+    updateDarkModeStyles(); // Ensure dark mode styles are applied
 }
 
 function generateShareLink(quizFile) {
@@ -282,4 +292,37 @@ function sendSuggestion() {
     } else {
         alert('Por favor, digite sua sugestão ou selecione um arquivo JSON.');
     }
+}
+
+function updateProgress() {
+    const progress = document.getElementById('progress');
+    if (progress) {
+        progress.textContent = `Pergunta ${currentQuestionIndex + 1} de ${quizData.questions.length}`;
+    }
+}
+
+function toggleDarkMode() {
+    document.body.classList.toggle('dark-mode');
+    const isDarkMode = document.body.classList.contains('dark-mode');
+    localStorage.setItem('darkMode', isDarkMode);
+    updateDarkModeStyles();
+}
+
+function loadDarkModePreference() {
+    const isDarkMode = localStorage.getItem('darkMode') === 'true';
+    if (isDarkMode) {
+        document.body.classList.add('dark-mode');
+    }
+    updateDarkModeStyles();
+}
+
+function updateDarkModeStyles() {
+    const elements = document.querySelectorAll('.quiz-container, h2, h3, p, .quiz-post, input[type="file"], select');
+    elements.forEach(element => {
+        if (document.body.classList.contains('dark-mode')) {
+            element.classList.add('dark-mode');
+        } else {
+            element.classList.remove('dark-mode');
+        }
+    });
 }
