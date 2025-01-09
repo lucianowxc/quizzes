@@ -4,6 +4,7 @@ let scores = {};
 let currentPage = 1;
 const quizzesPerPage = 14;
 let currentQuizFile = ''; // Store the current quiz file name
+let previousAnswers = []; // Track previous answers
 
 document.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
@@ -123,6 +124,7 @@ function initializeQuiz() {
     document.getElementById('quiz-title').textContent = quizData.title;
     scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
     currentQuestionIndex = 0; // Reset question index
+    previousAnswers = []; // Reset previous answers
     showQuestion();
     document.getElementById('quiz-posts').classList.add('hidden'); // Hide quiz posts
     updateProgress();
@@ -136,11 +138,11 @@ function showQuestion() {
     questionElement.textContent = quizData.questions[currentQuestionIndex].question;
     questionContainer.appendChild(questionElement);
 
-    quizData.questions[currentQuestionIndex].answers.forEach(answer => {
+    quizData.questions[currentQuestionIndex].answers.forEach((answer, index) => {
         const button = document.createElement('button');
         button.textContent = answer.text;
         button.className = 'option-button';
-        button.onclick = () => selectAnswer(answer.points);
+        button.onclick = () => selectAnswer(answer.points, index);
         questionContainer.appendChild(button);
     });
 
@@ -167,10 +169,23 @@ function showQuestion() {
     updateProgress();
 }
 
-function selectAnswer(points) {
+function selectAnswer(points, answerIndex) {
+    // Adjust scores if going back to a previous question
+    if (previousAnswers[currentQuestionIndex] !== undefined) {
+        const previousPoints = previousAnswers[currentQuestionIndex];
+        for (const key in previousPoints) {
+            scores[key] -= previousPoints[key];
+        }
+    }
+
+    // Save the current answer points
+    previousAnswers[currentQuestionIndex] = points;
+
+    // Update scores with the new answer points
     for (const key in points) {
         scores[key] += points[key];
     }
+
     currentQuestionIndex++;
     if (currentQuestionIndex < quizData.questions.length) {
         showQuestion();
@@ -206,6 +221,7 @@ function showResult() {
 function restartQuiz() {
     currentQuestionIndex = 0;
     scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
+    previousAnswers = []; // Reset previous answers
     showQuestion();
 }
 
