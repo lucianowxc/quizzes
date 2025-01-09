@@ -1,0 +1,430 @@
+{
+    "title": "Qual praga do Egito você seria?",
+    "questions": [
+        {
+            "question": "Um reino florescente se ergue à sua frente. Qual é sua primeira ação como emissário da desgraça?",
+            "answers": [
+                {
+                    "text": "Envenenar as águas e esperar enquanto tudo lentamente desmorona. 💀",
+                    "points": {
+                        "blood": 1,
+                        "frogs": 0.5,
+                        "darkness": 0.3,
+                        "livestock": 0.7
+                    }
+                },
+                {
+                    "text": "Convocar uma horda de criaturas que tornarão o lugar inabitável. 🐸",
+                    "points": {
+                        "frogs": 1,
+                        "flies": 0.7,
+                        "locusts": 0.5,
+                        "livestock": 0.3
+                    }
+                },
+                {
+                    "text": "Ocultar o sol, mergulhando todos em uma noite interminável. 🌑",
+                    "points": {
+                        "darkness": 1,
+                        "locusts": 0.4,
+                        "hail": 0.6,
+                        "firstborn": 0.2
+                    }
+                },
+                {
+                    "text": "Aniquilar suas reservas de sustento, deixando a fome tomar o controle. 🐄",
+                    "points": {
+                        "livestock": 1,
+                        "locusts": 0.7,
+                        "flies": 0.4,
+                        "boils": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você encontra uma cidade em festa. Como você arruína a celebração?",
+            "answers": [
+                {
+                    "text": "Abrir os céus para uma tempestade sem precedentes que traga desespero. 🌧️",
+                    "points": {
+                        "hail": 1,
+                        "darkness": 0.5,
+                        "boils": 0.3,
+                        "flies": 0.4
+                    }
+                },
+                {
+                    "text": "Introduzir pequenos, mas implacáveis intrusos para espalhar o caos. 🐸",
+                    "points": {
+                        "frogs": 1,
+                        "flies": 0.7,
+                        "locusts": 0.5,
+                        "livestock": 0.3
+                    }
+                },
+                {
+                    "text": "Preencher o ambiente com sons ensurdecedores e incessantes. 🦟",
+                    "points": {
+                        "flies": 1,
+                        "frogs": 0.7,
+                        "locusts": 0.6,
+                        "darkness": 0.2
+                    }
+                },
+                {
+                    "text": "Lançar algo imperceptível, mas que lentamente consuma a saúde de todos. 🤢",
+                    "points": {
+                        "boils": 1,
+                        "hail": 0.5,
+                        "blood": 0.3,
+                        "flies": 0.4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "O rei desafia seu poder. Como você responde?",
+            "answers": [
+                {
+                    "text": "Golpear onde mais dói, erradicando o futuro dele. 👑💔",
+                    "points": {
+                        "firstborn": 1,
+                        "darkness": 0.5,
+                        "locusts": 0.3,
+                        "boils": 0.4
+                    }
+                },
+                {
+                    "text": "Trazer desordem ao povo para minar seu poder por dentro. 💥",
+                    "points": {
+                        "flies": 1,
+                        "frogs": 0.7,
+                        "hail": 0.4,
+                        "blood": 0.2
+                    }
+                },
+                {
+                    "text": "Retirar a luz e deixar o medo fazer o trabalho. 🌑",
+                    "points": {
+                        "darkness": 1,
+                        "hail": 0.6,
+                        "locusts": 0.5,
+                        "firstborn": 0.3
+                    }
+                },
+                {
+                    "text": "Atacar o que é essencial e deixá-lo sem meios de sustentar sua terra. 🐄",
+                    "points": {
+                        "livestock": 1,
+                        "locusts": 0.7,
+                        "flies": 0.5,
+                        "frogs": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você deseja garantir que todos se lembrem da sua passagem. O que faz?",
+            "answers": [
+                {
+                    "text": "Libera um eco constante que nunca deixará de ser ouvido. 🦟",
+                    "points": {
+                        "flies": 1,
+                        "frogs": 0.7,
+                        "darkness": 0.3,
+                        "hail": 0.4
+                    }
+                },
+                {
+                    "text": "Devasta o cenário com uma força imparável da natureza. 🌪️",
+                    "points": {
+                        "hail": 1,
+                        "locusts": 0.5,
+                        "livestock": 0.4,
+                        "boils": 0.2
+                    }
+                },
+                {
+                    "text": "Deixa marcas profundas que serão visíveis por gerações. 🔥",
+                    "points": {
+                        "boils": 1,
+                        "hail": 0.6,
+                        "flies": 0.3,
+                        "darkness": 0.4
+                    }
+                },
+                {
+                    "text": "Leva embora tudo que restava, forçando um reinício completo. 🌱",
+                    "points": {
+                        "locusts": 1,
+                        "livestock": 0.7,
+                        "frogs": 0.5,
+                        "blood": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "A terra parece resiliente demais ao seu ataque inicial. Como você dobra seus habitantes?",
+            "answers": [
+                {
+                    "text": "Atinge suas águas mais puras, corrompendo-as sem volta. 💧💀",
+                    "points": {
+                        "blood": 1,
+                        "boils": 0.6,
+                        "hail": 0.3,
+                        "darkness": 0.2
+                    }
+                },
+                {
+                    "text": "Libera um cerco contínuo, testando sua resistência ao limite. ⚔️",
+                    "points": {
+                        "flies": 1,
+                        "locusts": 0.7,
+                        "frogs": 0.5,
+                        "livestock": 0.3
+                    }
+                },
+                {
+                    "text": "Impõe um vazio, onde até o tempo parece ter parado. 🕰️",
+                    "points": {
+                        "darkness": 1,
+                        "hail": 0.5,
+                        "boils": 0.4,
+                        "firstborn": 0.3
+                    }
+                },
+                {
+                    "text": "Provoca uma degradação invisível que consome suas forças lentamente. 🐍",
+                    "points": {
+                        "boils": 1,
+                        "livestock": 0.7,
+                        "flies": 0.5,
+                        "blood": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Um grupo rebelde tenta escapar do seu alcance. Como você os detém?",
+            "answers": [
+                {
+                    "text": "Envia uma força destrutiva que não pode ser evitada. 💨",
+                    "points": {
+                        "hail": 1,
+                        "locusts": 0.7,
+                        "darkness": 0.4,
+                        "frogs": 0.3
+                    }
+                },
+                {
+                    "text": "Introduz algo simples, mas tão perturbador que ninguém ousa avançar. 🦟",
+                    "points": {
+                        "flies": 1,
+                        "frogs": 0.6,
+                        "boils": 0.4,
+                        "livestock": 0.3
+                    }
+                },
+                {
+                    "text": "Espalha algo incontrolável que os força a voltar ao seu domínio. 🐜",
+                    "points": {
+                        "locusts": 1,
+                        "flies": 0.7,
+                        "darkness": 0.5,
+                        "blood": 0.3
+                    }
+                },
+                {
+                    "text": "Retira o último fio de esperança que os mantinha em movimento. 😞",
+                    "points": {
+                        "firstborn": 1,
+                        "hail": 0.6,
+                        "boils": 0.4,
+                        "livestock": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Você quer enviar uma mensagem final de domínio. Qual é sua última ação?",
+            "answers": [
+                {
+                    "text": "Ataca o que mais valorizam, destruindo suas futuras esperanças. 💔",
+                    "points": {
+                        "firstborn": 1,
+                        "darkness": 0.5,
+                        "flies": 0.3,
+                        "locusts": 0.4
+                    }
+                },
+                {
+                    "text": "Transforma a terra inteira em algo irreconhecível. 🌍",
+                    "points": {
+                        "hail": 1,
+                        "blood": 0.7,
+                        "livestock": 0.5,
+                        "frogs": 0.3
+                    }
+                },
+                {
+                    "text": "Lança o caos em todas as direções, para que não sobre refúgio. 🌪️",
+                    "points": {
+                        "locusts": 1,
+                        "flies": 0.6,
+                        "frogs": 0.4,
+                        "boils": 0.3
+                    }
+                },
+                {
+                    "text": "Traz uma sensação permanente de incapacidade, encerrando sua resistência. 🕳️",
+                    "points": {
+                        "darkness": 1,
+                        "boils": 0.7,
+                        "hail": 0.5,
+                        "blood": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Após seu triunfo inicial, você percebe que alguns ainda resistem. Qual será seu golpe final?",
+            "answers": [
+                {
+                    "text": "Enfraquecer os últimos vestígios de união, semeando desconfiança. 🧩",
+                    "points": {
+                        "flies": 1,
+                        "locusts": 0.6,
+                        "darkness": 0.4,
+                        "blood": 0.3
+                    }
+                },
+                {
+                    "text": "Criar uma barreira invisível que aprisiona suas mentes e corpos. 🕳️",
+                    "points": {
+                        "darkness": 1,
+                        "boils": 0.7,
+                        "hail": 0.5,
+                        "livestock": 0.3
+                    }
+                },
+                {
+                    "text": "Substituir sua realidade por algo inescapavelmente opressor. 🔗",
+                    "points": {
+                        "hail": 1,
+                        "locusts": 0.6,
+                        "flies": 0.4,
+                        "frogs": 0.3
+                    }
+                },
+                {
+                    "text": "Forçar a terra a rejeitá-los, tornando tudo em volta inabitável. 🏜️",
+                    "points": {
+                        "livestock": 1,
+                        "blood": 0.7,
+                        "darkness": 0.5,
+                        "boils": 0.3
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Seu legado precisa ser eterno. Como você garante que nunca será esquecido?",
+            "answers": [
+                {
+                    "text": "Escrever sua vitória nos céus, visível por eras. 🌌",
+                    "points": {
+                        "hail": 1,
+                        "darkness": 0.5,
+                        "flies": 0.3,
+                        "frogs": 0.4
+                    }
+                },
+                {
+                    "text": "Implantar um ciclo de desespero que se repete constantemente. 🔁",
+                    "points": {
+                        "locusts": 1,
+                        "livestock": 0.6,
+                        "boils": 0.4,
+                        "blood": 0.3
+                    }
+                },
+                {
+                    "text": "Transmitir uma mensagem impossível de ignorar, mas sem uma solução. 📨",
+                    "points": {
+                        "flies": 1,
+                        "darkness": 0.7,
+                        "boils": 0.4,
+                        "locusts": 0.3
+                    }
+                },
+                {
+                    "text": "Deixar marcas indeléveis, cuja dor seja lembrada por gerações. 🔥",
+                    "points": {
+                        "blood": 1,
+                        "hail": 0.6,
+                        "locusts": 0.4,
+                        "firstborn": 0.3
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "blood": {
+            "title": "Águas Transformadas em Sangue",
+            "emoji": "🩸",
+            "subtitle": "O Fluído que Leva à Ruína",
+            "text": "Você é a personificação da devastação que corrompe o essencial. Onde você passa, até o que sustenta a vida se torna veneno. Nada floresce sob sua influência — apenas desespero."
+        },
+        "frogs": {
+            "title": "Invasão de Rãs",
+            "emoji": "🐸",
+            "subtitle": "O Dilúvio de Perturbações",
+            "text": "Você não destrói de imediato, mas sobrecarrega. Seu poder está na insistência — pequenos incômodos se tornam um caos insuportável. Sua marca é o desconforto multiplicado."
+        },
+        "darkness": {
+            "title": "Trevas Absolutas",
+            "emoji": "🌑",
+            "subtitle": "A Ausência de Luz",
+            "text": "Você não precisa de som ou violência. Seu poder está na opressão invisível que apaga a esperança. Sob seu manto, até os mais corajosos tremem no desconhecido."
+        },
+        "livestock": {
+            "title": "Morte do Gado",
+            "emoji": "🐄☠️",
+            "subtitle": "O Cortador da Substância",
+            "text": "Você é a fome que se aproxima sem aviso. Quando você reina, a base de sustento se quebra, deixando tudo mais fraco, mais vulnerável, e à mercê do caos iminente."
+        },
+        "flies": {
+            "title": "Moscas aos Montes",
+            "emoji": "🪰",
+            "subtitle": "O Portador da Corrupção",
+            "text": "Sua força está no número. Você não é apenas uma peste, mas a soma de todas as pequenas destruições que arruínam o que antes era belo. Você transforma o cotidiano em podridão."
+        },
+        "boils": {
+            "title": "Úlceras e Feridas",
+            "emoji": "🤕",
+            "subtitle": "A Marca da Agonia",
+            "text": "Você não só afeta a mente, mas o corpo. Onde você atinge, o sofrimento se torna pessoal, inescapável, e contínuo. Cada marca é um lembrete de seu poder implacável."
+        },
+        "hail": {
+            "title": "Chuva de Granizo e Fogo",
+            "emoji": "🌩️🔥",
+            "subtitle": "O Céu em Fúria",
+            "text": "Você não apenas destrói; você humilha. Sua chegada é uma demonstração de força brutal que lembra a todos que a natureza pode ser mais selvagem do que jamais imaginariam."
+        },
+        "locusts": {
+            "title": "Invasão de Gafanhotos",
+            "emoji": "🦗",
+            "subtitle": "O Devorador Incansável",
+            "text": "Você é o consumo em sua forma mais devastadora. Nada escapa à sua voracidade. Onde você passa, tudo o que floresceu é reduzido a cinzas e pó, sem esperança de recuperação."
+        },
+        "firstborn": {
+            "title": "Morte dos Primogênitos",
+            "emoji": "⚰️",
+            "subtitle": "O Fim do Legado",
+            "text": "Você é o corte final. Onde você reina, a continuidade é interrompida, e o futuro se torna apenas uma sombra do que poderia ter sido. Um golpe que ninguém pode esquecer."
+        }
+    }
+}

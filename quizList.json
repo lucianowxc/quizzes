@@ -199,6 +199,11 @@
           "name": "Planeje uma refeição e te diremos qual inovação gastronômica brasileira você é",
           "file": "quizzes/quizCulinariaBrasileira.json",
           "description": "Descubra qual inovação gastronômica brasileira mais se parece com você ao planejar uma refeição completa!"
-       }
+       },
+       { 
+            "name": "Qual praga do Egito você seria?", 
+            "file": "quizzes/quizPragasDoEgito.json",
+            "description": "Descubra qual das dez pragas do Egito você seria! Será que você é a escuridão que cobre tudo ou a invasão de rãs? Faça o quiz e descubra!"
+        }
     ]
 }
