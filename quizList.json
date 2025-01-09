@@ -196,9 +196,9 @@
            "description": "Descubra qual cidade do Brasil mais se parece com você!"
         },
         {
-          "name": "Qual inovação gastronômica brasileira você é?",
+          "name": "Planeje uma refeição e te diremos qual inovação gastronômica brasileira você é",
           "file": "quizzes/quizCulinariaBrasileira.json",
-          "description": "Descubra qual inovação gastronômica brasileira mais se parece com você!"
+          "description": "Descubra qual inovação gastronômica brasileira mais se parece com você ao planejar uma refeição completa!"
        }
     ]
 }
