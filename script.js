@@ -5,6 +5,7 @@ let currentPage = 1;
 const quizzesPerPage = 14;
 let currentQuizFile = ''; // Store the current quiz file name
 let selectedAnswers = []; // Track selected answers
+let animationEnabled = true; // Track if animation is enabled
 
 document.addEventListener('DOMContentLoaded', () => {
     const urlParams = new URLSearchParams(window.location.search);
@@ -16,6 +17,9 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
     }
     loadDarkModePreference();
+    loadAnimationPreference();
+    updateAnimationStatus(); // Update animation status on page load
+    updateDarkModeStatus(); // Update dark mode status on page load
 });
 
 async function loadQuizList() {
@@ -204,14 +208,37 @@ function showResult() {
     const result = Object.keys(scores).reduce((a, b) => scores[a] > scores[b] ? a : b);
     const { emoji, title, subtitle, text } = quizData.descriptions[result];
 
-    questionContainer.innerHTML = `
-        <h2>Você é ${title} ${emoji}</h2>
-        <h3>${subtitle}</h3>
-        <p>${text}</p>
-        <button onclick="restartQuiz()">Recomeçar</button>
-        <button class="return-button" onclick="returnToQuizSelection()">Voltar à Seleção de Quiz</button>
-        <button class="share-button" onclick="shareResult('${title}', '${emoji}')">🔗</button>
+    const resultContainer = document.createElement('div');
+    resultContainer.className = 'result-container';
+    resultContainer.innerHTML = `
+        <h2 id="result-title">Você é <span id="result-subtitle" style="opacity: 0;">${title} ${emoji}</span></h2>
+        <div id="result-details" style="opacity: 0;">
+            <h3>${subtitle}</h3>
+            <p>${text}</p>
+            <button onclick="restartQuiz()">Recomeçar</button>
+            <button class="return-button" onclick="returnToQuizSelection()">Voltar à Seleção de Quiz</button>
+            <button class="share-button" onclick="shareResult('${title}', '${emoji}')">🔗</button>
+        </div>
     `;
+
+    questionContainer.appendChild(resultContainer);
+
+    if (animationEnabled) {
+        // Trigger the transition effect
+        setTimeout(() => {
+            resultContainer.classList.add('show');
+            setTimeout(() => {
+                document.getElementById('result-subtitle').style.opacity = '1';
+                setTimeout(() => {
+                    document.getElementById('result-details').style.opacity = '1';
+                }, 1500);
+            }, 1500);
+        }, 100);
+    } else {
+        resultContainer.classList.add('show');
+        document.getElementById('result-subtitle').style.opacity = '1';
+        document.getElementById('result-details').style.opacity = '1';
+    }
 }
 
 function restartQuiz() {
@@ -317,6 +344,7 @@ function toggleDarkMode() {
     const isDarkMode = document.body.classList.contains('dark-mode');
     localStorage.setItem('darkMode', isDarkMode);
     updateDarkModeStyles();
+    updateDarkModeStatus(); // Update dark mode status on toggle
 }
 
 function loadDarkModePreference() {
@@ -325,6 +353,7 @@ function loadDarkModePreference() {
         document.body.classList.add('dark-mode');
     }
     updateDarkModeStyles();
+    updateDarkModeStatus(); // Update dark mode status on load
 }
 
 function updateDarkModeStyles() {
@@ -336,4 +365,36 @@ function updateDarkModeStyles() {
             element.classList.remove('dark-mode');
         }
     });
+}
+
+function toggleAnimation() {
+    animationEnabled = !animationEnabled;
+    localStorage.setItem('animationEnabled', animationEnabled);
+    updateAnimationStatus(); // Update animation status on toggle
+}
+
+function loadAnimationPreference() {
+    const storedPreference = localStorage.getItem('animationEnabled');
+    if (storedPreference !== null) {
+        animationEnabled = storedPreference === 'true';
+    }
+    updateAnimationStatus(); // Update animation status on load
+}
+
+function updateAnimationStatus() {
+    const statusElement = document.getElementById('animation-status');
+    if (animationEnabled) {
+        statusElement.textContent = '✅';
+    } else {
+        statusElement.textContent = '❌';
+    }
+}
+
+function updateDarkModeStatus() {
+    const statusElement = document.getElementById('dark-mode-status');
+    if (document.body.classList.contains('dark-mode')) {
+        statusElement.textContent = '✅';
+    } else {
+        statusElement.textContent = '❌';
+    }
 }

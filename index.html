@@ -27,8 +27,13 @@
             <button onclick="loadUploadedQuiz()">Carregar Quiz do Arquivo</button>
         </div>
     </div>
+    <div class="settings" role="contentinfo">
+        <p>
+            <button onclick="toggleDarkMode()" style="background: none; border: none; color: inherit; cursor: pointer; text-decoration: underline;">Alternar Modo Escuro</button> <span id="dark-mode-status">❌</span> - <button onclick="toggleAnimation()" style="background: none; border: none; color: inherit; cursor: pointer; text-decoration: underline;">Alternar Animação de Resultados</button> <span id="animation-status">✅</span>
+        </p>
+    </div>
     <div class="footer" role="contentinfo">
-        <p>Desenvolvido por: Luciano Cejnog - <a href='https://github.com/lucianowxc/quizzes'> Link do Repositório</a> - <a href="https://github.com/lucianowxc/quizzes/blob/main/prompts.md">Roteiro para criação de quiz no Copilot</a>. <a onclick="openSuggestionBox()">Envie suas sugestões de quiz</a> - <button onclick="toggleDarkMode()" style="background: none; border: none; color: inherit; cursor: pointer; text-decoration: underline;">Alternar Modo Escuro</button></p>
+        <p>Desenvolvido por: Luciano Cejnog - <a href='https://github.com/lucianowxc/quizzes'> Link do Repositório</a> - <a href="https://github.com/lucianowxc/quizzes/blob/main/prompts.md">Roteiro para criação de quiz no Copilot</a>. <a onclick="openSuggestionBox()">Envie suas sugestões de quiz</a></p>
     </div>
     <script src="script.js"></script>
 </body>
