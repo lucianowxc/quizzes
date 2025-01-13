@@ -54,46 +54,46 @@
     {
       "question": "Se você fosse um queijo, qual seria seu superpoder? 🦸‍♂️🧀",
       "answers": [
-        { "text": "Super sabor robusto 🧀", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.3, "resultado4": 0.4, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Elegância incomparável 🥂", "points": { "resultado1": 0.4, "resultado2": 1, "resultado3": 0.5, "resultado4": 0.3, "resultado5": 0.7, "resultado6": 0.6, "resultado7": 0.2, "resultado8": 0.4 } },
-        { "text": "Doçura reconfortante 🍯", "points": { "resultado1": 0.3, "resultado2": 0.5, "resultado3": 1, "resultado4": 0.4, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Crocância irresistível 🍪", "points": { "resultado1": 0.5, "resultado2": 0.3, "resultado3": 0.4, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.6, "resultado7": 0.2, "resultado8": 0.3 } }
+        { "text": "Super sabor robusto 🧀", "points": { "resultado1": 1, "resultado7": 0.5 } },
+        { "text": "Elegância incomparável 🥂", "points": { "resultado2": 1, "resultado8": 0.5 } },
+        { "text": "Doçura reconfortante 🍯", "points": { "resultado3": 1, "resultado7": 0.5 } },
+        { "text": "Crocância irresistível 🍪", "points": { "resultado4": 1, "resultado8": 0.5 } }
       ]
     },
     {
       "question": "Se você pudesse adicionar qualquer ingrediente ao seu queijo, qual seria? 🌶️🧀",
       "answers": [
-        { "text": "Trufas negras 🍄", "points": { "resultado1": 0.3, "resultado2": 0.6, "resultado3": 0.4, "resultado4": 0.5, "resultado5": 1, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Ervas finas 🌿", "points": { "resultado1": 0.5, "resultado2": 0.3, "resultado3": 0.6, "resultado4": 0.4, "resultado5": 0.7, "resultado6": 1, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Mel 🍯", "points": { "resultado1": 0.4, "resultado2": 0.5, "resultado3": 1, "resultado4": 0.3, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Goiabada 🍇", "points": { "resultado1": 0.3, "resultado2": 0.6, "resultado3": 0.4, "resultado4": 0.5, "resultado5": 0.7, "resultado6": 0.2, "resultado7": 0.3, "resultado8": 1 } }
+        { "text": "Trufas negras 🍄", "points": { "resultado5": 1, "resultado8": 0.3 } },
+        { "text": "Ervas finas 🌿", "points": { "resultado6": 1, "resultado7": 0.3 } },
+        { "text": "Mel 🍯", "points": { "resultado3": 1, "resultado7": 0.4 } },
+        { "text": "Goiabada 🍇", "points": { "resultado8": 1 } }
       ]
     },
     {
       "question": "O que você faria se encontrasse o Mineiro do Queijo de surpresa? 🤔",
       "answers": [
-        { "text": "Prepararia uma tábua de queijos 🧀", "points": { "resultado1": 0.4, "resultado2": 0.3, "resultado3": 0.6, "resultado4": 0.5, "resultado5": 0.7, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Pediria dicas de harmonização 🍷", "points": { "resultado1": 0.5, "resultado2": 0.7, "resultado3": 0.4, "resultado4": 0.3, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Comeria tudo sozinho 🤭", "points": { "resultado1": 0.3, "resultado2": 0.5, "resultado3": 0.7, "resultado4": 0.4, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Compartilharia com amigos 🎉", "points": { "resultado1": 0.4, "resultado2": 0.3, "resultado3": 0.5, "resultado4": 0.7, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3 } }
+        { "text": "Prepararia uma tábua de queijos 🧀", "points": { "resultado1": 1, "resultado7": 0.3 } },
+        { "text": "Pediria dicas de harmonização 🍷", "points": { "resultado2": 1, "resultado8": 0.4 } },
+        { "text": "Comeria tudo sozinho 🤭", "points": { "resultado3": 1, "resultado7": 0.4 } },
+        { "text": "Compartilharia com amigos 🎉", "points": { "resultado4": 1, "resultado8": 0.3 } }
       ]
     },
     {
       "question": "Qual é o seu acompanhamento favorito para o queijo? 🍽️",
       "answers": [
-        { "text": "Vinho 🍷", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.3, "resultado4": 0.4, "resultado5": 0.7, "resultado6": 0.6, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Frutas 🍇", "points": { "resultado1": 0.4, "resultado2": 0.3, "resultado3": 0.5, "resultado4": 0.7, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 1 } },
-        { "text": "Pão 🥖", "points": { "resultado1": 0.7, "resultado2": 0.5, "resultado3": 0.4, "resultado4": 0.3, "resultado5": 0.6, "resultado6": 1, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Geleia 🍯", "points": { "resultado1": 0.3, "resultado2": 0.4, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.7, "resultado6": 0.6, "resultado7": 0.2, "resultado8": 0.3 } }
+        { "text": "Vinho 🍷", "points": { "resultado2": 1, "resultado5": 0.4 } },
+        { "text": "Frutas 🍇", "points": { "resultado8": 1 } },
+        { "text": "Pão 🥖", "points": { "resultado6": 1 } },
+        { "text": "Geleia 🍯", "points": { "resultado3": 1, "resultado7": 0.5 } }
       ]
-    },
+    },    
     {
       "question": "Qual é o seu lugar preferido para degustar queijo? 🌍",
       "answers": [
         { "text": "Na montanha ⛰️", "points": { "resultado1": 0.4, "resultado2": 0.6, "resultado3": 0.5, "resultado4": 0.3, "resultado5": 0.7, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3 } },
         { "text": "Na praia 🏖️", "points": { "resultado1": 0.5, "resultado2": 0.4, "resultado3": 0.7, "resultado4": 0.6, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.3 } },
         { "text": "Em um parque 🌳", "points": { "resultado1": 0.6, "resultado2": 0.5, "resultado3": 0.3, "resultado4": 0.7, "resultado5": 0.4, "resultado6": 1, "resultado7": 0.2, "resultado8": 0.3 } },
-        { "text": "Em casa 🏡", "points": { "resultado1": 0.3, "resultado2": 0.7, "resultado3": 0.6, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 1 } }
+        { "text": "Em casa 🏡", "points": { "resultado1": 0.3, "resultado2": 0.7, "resultado3": 0.6, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.7, "resultado7": 0.5, "resultado8": 1 } }
       ]
     },
     {
