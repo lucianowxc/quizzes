@@ -1,0 +1,109 @@
+{
+  "title": "Qual produto do mineiro do queijo você deve comprar hoje?",
+  "descriptions": {
+    "resultado1": {
+      "title": "Queijo Canastra",
+      "emoji": "🧀",
+      "subtitle": "O Clássico e Saboroso",
+      "text": "Você é uma pessoa que aprecia os clássicos. O Queijo Canastra é perfeito para você, com seu sabor robusto e textura marcante. Ideal para quem busca qualidade e tradição."
+    },
+    "resultado2": {
+      "title": "Queijo Grana",
+      "emoji": "🧀",
+      "subtitle": "O Refinado e Elegante",
+      "text": "Elegância e sofisticação definem você. O Queijo Grana é a sua escolha ideal, trazendo um sabor intenso e complexo, perfeito para paladares apurados."
+    },
+    "resultado3": {
+      "title": "Doce de Leite",
+      "emoji": "🍬",
+      "subtitle": "O Doce e Aconchegante",
+      "text": "Você adora um toque de doçura na vida. O Doce de Leite é a sua cara, proporcionando uma experiência doce e reconfortante, ideal para quem valoriza os pequenos prazeres."
+    },
+    "resultado4": {
+      "title": "Biscoitos de Queijo Parmesão",
+      "emoji": "🍪",
+      "subtitle": "O Crocante e Divertido",
+      "text": "Você é uma pessoa divertida e adora petiscar. Os Biscoitos de Queijo Parmesão são perfeitos para você, com seu sabor crocante e irresistível. Uma escolha leve e saborosa."
+    },
+    "resultado5": {
+      "title": "Requeijão Trufado",
+      "emoji": "🍄",
+      "subtitle": "O Exótico e Luxuoso",
+      "text": "Você gosta de explorar novos sabores e se aventurar no exótico. O Requeijão Trufado é a sua escolha, com seu sabor único e luxuoso que vai te surpreender."
+    },
+    "resultado6": {
+      "title": "Queijo Coalho",
+      "emoji": "🧀",
+      "subtitle": "O Versátil e Tradicional",
+      "text": "Você aprecia a versatilidade e a tradição. O Queijo Coalho é ideal para você, com sua capacidade de se adaptar a diferentes pratos e momentos."
+    },
+    "resultado7": {
+      "title": "Manteiga Artesanal",
+      "emoji": "🧈",
+      "subtitle": "O Cremoso e Reconfortante",
+      "text": "Você busca conforto e simplicidade. A Manteiga Artesanal é a sua escolha, com sua textura cremosa e sabor autêntico, perfeita para tornar qualquer refeição especial."
+    },
+    "resultado8": {
+      "title": "Goiabada Cascão",
+      "emoji": "🍇",
+      "subtitle": "O Doce Tradicional",
+      "text": "Você adora um sabor doce e tradicional. A Goiabada Cascão é perfeita para você, trazendo aquele gostinho de infância e aconchego."
+    }
+  },
+  "questions": [
+    {
+      "question": "Se você fosse um queijo, qual seria seu superpoder? 🦸‍♂️🧀",
+      "answers": [
+        { "text": "Super sabor robusto 🧀", "points": { "resultado1": 1, "resultado2": 0.4, "resultado3": 0.2, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 0.6, "resultado7": 0.1, "resultado8": 0.2 } },
+        { "text": "Elegância incomparável 🥂", "points": { "resultado1": 0.3, "resultado2": 1, "resultado3": 0.4, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.5, "resultado7": 0.1, "resultado8": 0.2 } },
+        { "text": "Doçura reconfortante 🍯", "points": { "resultado1": 0.2, "resultado2": 0.4, "resultado3": 1, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 0.6, "resultado7": 0.1, "resultado8": 0.2 } },
+        { "text": "Crocância irresistível 🍪", "points": { "resultado1": 0.4, "resultado2": 0.2, "resultado3": 0.3, "resultado4": 1, "resultado5": 0.5, "resultado6": 0.6, "resultado7": 0.1, "resultado8": 0.2 } }
+      ]
+    },
+    {
+      "question": "Se você pudesse adicionar qualquer ingrediente ao seu queijo, qual seria? 🌶️🧀",
+      "answers": [
+        { "text": "Trufas negras 🍄", "points": { "resultado1": 0.2, "resultado2": 0.5, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 1, "resultado6": 0.4, "resultado7": 0.2, "resultado8": 0.3 } },
+        { "text": "Ervas finas 🌿", "points": { "resultado1": 0.4, "resultado2": 0.2, "resultado3": 0.6, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.3, "resultado8": 0.2 } },
+        { "text": "Mel 🍯", "points": { "resultado1": 0.3, "resultado2": 0.4, "resultado3": 1, "resultado4": 0.2, "resultado5": 0.5, "resultado6": 0.6, "resultado7": 0.2, "resultado8": 0.3 } },
+        { "text": "Goiabada 🍇", "points": { "resultado1": 0.2, "resultado2": 0.5, "resultado3": 0.3, "resultado4": 0.6, "resultado5": 0.4, "resultado6": 0.2, "resultado7": 0.3, "resultado8": 1 } }
+      ]
+    },
+    {
+      "question": "O que você faria se encontrasse o Mineiro do Queijo de surpresa? 🤔",
+      "answers": [
+        { "text": "Prepararia uma tábua de queijos 🧀", "points": { "resultado1": 0.3, "resultado2": 0.2, "resultado3": 0.6, "resultado4": 0.4, "resultado5": 0.5, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 0.2 } },
+        { "text": "Pediria dicas de harmonização 🍷", "points": { "resultado1": 0.4, "resultado2": 0.6, "resultado3": 0.3, "resultado4": 0.2, "resultado5": 0.5, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 0.2 } },
+        { "text": "Comeria tudo sozinho 🤭", "points": { "resultado1": 0.2, "resultado2": 0.4, "resultado3": 0.6, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 0.2 } },
+        { "text": "Compartilharia com amigos 🎉", "points": { "resultado1": 0.3, "resultado2": 0.2, "resultado3": 0.4, "resultado4": 0.6, "resultado5": 0.5, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 0.2 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu acompanhamento favorito para o queijo? 🍽️",
+      "answers": [
+        { "text": "Vinho 🍷", "points": { "resultado1": 0.4, "resultado2": 1, "resultado3": 0.2, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 0.6, "resultado7": 0.2, "resultado8": 0.1 } },
+        { "text": "Frutas 🍇", "points": { "resultado1": 0.3, "resultado2": 0.2, "resultado3": 0.4, "resultado4": 0.6, "resultado5": 0.5, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 1 } },
+        { "text": "Pão 🥖", "points": { "resultado1": 0.6, "resultado2": 0.4, "resultado3": 0.3, "resultado4": 0.2, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.2, "resultado8": 0.1 } },
+        { "text": "Geleia 🍯", "points": { "resultado1": 0.2, "resultado2": 0.3, "resultado3": 1, "resultado4": 0.4, "resultado5": 0.5, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 0.2 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu lugar preferido para degustar queijo? 🌍",
+      "answers": [
+        { "text": "Na montanha ⛰️", "points": { "resultado1": 0.3, "resultado2": 0.5, "resultado3": 0.4, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.1 } },
+        { "text": "Na praia 🏖️", "points": { "resultado1": 0.4, "resultado2": 0.3, "resultado3": 0.6, "resultado4": 0.5, "resultado5": 0.2, "resultado6": 0.7, "resultado7": 0.2, "resultado8": 0.1 } },
+        { "text": "Em um parque 🌳", "points": { "resultado1": 0.5, "resultado2": 0.4, "resultado3": 0.2, "resultado4": 0.6, "resultado5": 0.3, "resultado6": 1, "resultado7": 0.2, "resultado8": 0.1 } },
+        { "text": "Em casa 🏡", "points": { "resultado1": 0.2, "resultado2": 0.6, "resultado3": 0.5, "resultado4": 0.3, "resultado5": 0.4, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 1 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua memória mais feliz relacionada a queijo? 🎉",
+      "answers": [
+        { "text": "Primeira vez provando um queijo diferente 🤩", "points": { "resultado1": 0.4, "resultado2": 0.6, "resultado3": 0.2, "resultado4": 0.3, "resultado5": 0.5, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 0.2 } },
+        { "text": "Compartilhar queijo com amigos 🎈", "points": { "resultado1": 0.3, "resultado2": 0.4, "resultado3": 0.6, "resultado4": 0.2, "resultado5": 0.5, "resultado6": 1, "resultado7": 0.1, "resultado8": 0.2 } },
+        { "text": "Uma refeição especial com a família 🍽️", "points": { "resultado1": 0.6, "resultado2": 0.3, "resultado3": 0.4, "resultado4": 0.5, "resultado5": 0.2, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 0.2 } },
+        { "text": "Queijo no piquenique do parque 🍃", "points": { "resultado1": 0.2, "resultado2": 0.4, "resultado3": 0.5, "resultado4": 0.3, "resultado5": 0.6, "resultado6": 0.7, "resultado7": 0.1, "resultado8": 1 } }
+      ]
+    }
+  ]
+}
