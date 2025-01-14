@@ -57,11 +57,11 @@ header h1 {
 
 .quiz-container {
     background: white;
-    padding: 15px; /* Reduced padding */
+    padding: 20px; /* Original padding */
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     width: 100%;
-    max-width: 600px;
+    max-width: 600px; /* Original max-width */
     text-align: center;
     margin-top: 20px;
 }
