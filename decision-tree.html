@@ -19,6 +19,10 @@
             <select id="quiz-select" onchange="loadSelectedQuiz()">
                 <option value="">Selecione...</option>
             </select>
+            <div>
+                <label for="file-input">Ou carregue seu próprio quiz:</label>
+                <input type="file" id="file-input" accept=".json" aria-label="Carregar quiz do arquivo">
+            </div>
         </div>
         <div class="visualization-tabs">
             <button class="tab-button active" onclick="switchTab('interactive')">Quiz Interativo</button>
@@ -28,25 +32,12 @@
         <!-- Explicações específicas para cada tab -->
         <div id="interactive-explanation" class="explanation-section">
             <h2>Modo Quiz Interativo</h2>
-            <p>Neste modo você pode:</p>
-            <ul>
-                <li>Responder o quiz normalmente</li>
-                <li>Ver a pontuação em tempo real para cada resultado</li>
-                <li>Voltar e alterar respostas anteriores</li>
-                <li>Acompanhar seu progresso através das barras de pontuação</li>
-            </ul>
+            <p>Responda ao quiz, veja a pontuação em tempo real e altere respostas anteriores.</p>
         </div>
         
         <div id="analysis-explanation" class="explanation-section hidden">
             <h2>Modo Análise Estatística</h2>
-            <p>Neste modo você pode:</p>
-            <ul>
-                <li>Ver todas as combinações possíveis de respostas</li>
-                <li>Analisar a distribuição estatística dos resultados</li>
-                <li>Descobrir exemplos de caminhos que levam a cada resultado</li>
-                <li>Entender como as pontuações são distribuídas</li>
-            </ul>
-            <p><small>Nota: A análise pode levar alguns segundos dependendo do tamanho do quiz.</small></p>
+            <p>Veja todas as combinações possíveis de respostas e a distribuição dos resultados.</p>
         </div>
 
         <div id="interactive-section" class="tab-content">

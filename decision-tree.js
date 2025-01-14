@@ -12,7 +12,27 @@ document.addEventListener('DOMContentLoaded', () => {
     if (quizFile) {
         loadQuiz(quizFile);
     }
+    setupFileUpload(); // Setup file upload functionality
 });
+
+function setupFileUpload() {
+    const fileInput = document.getElementById('file-input');
+    fileInput.addEventListener('change', handleFileUpload);
+}
+
+function handleFileUpload(event) {
+    const file = event.target.files[0];
+    if (file) {
+        const reader = new FileReader();
+        reader.onload = function(event) {
+            const quizData = JSON.parse(event.target.result);
+            initializeQuiz(quizData);
+        };
+        reader.readAsText(file);
+    } else {
+        alert('Por favor, selecione um arquivo JSON.');
+    }
+}
 
 async function loadQuizList() {
     try {
@@ -676,10 +696,18 @@ function switchTab(tabName) {
     });
 
     // Atualizar seções e explicações
-    document.getElementById('interactive-section').classList.toggle('hidden', tabName !== 'interactive');
-    document.getElementById('analysis-section').classList.toggle('hidden', tabName !== 'analysis');
-    document.getElementById('interactive-explanation').classList.toggle('hidden', tabName !== 'interactive');
-    document.getElementById('analysis-explanation').classList.toggle('hidden', tabName !== 'analysis');
+    document.getElementById('interactive-section').classList.add('hidden');
+    document.getElementById('analysis-section').classList.add('hidden');
+    document.getElementById('interactive-explanation').classList.add('hidden');
+    document.getElementById('analysis-explanation').classList.add('hidden');
+
+    if (tabName === 'interactive') {
+        document.getElementById('interactive-section').classList.remove('hidden');
+        document.getElementById('interactive-explanation').classList.remove('hidden');
+    } else if (tabName === 'analysis') {
+        document.getElementById('analysis-section').classList.remove('hidden');
+        document.getElementById('analysis-explanation').classList.remove('hidden');
+    }
 
     // Gerenciar estado do quiz
     if (tabName === 'interactive') {
