@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Estatísticas para nerds">
     <meta name="keywords" content="quiz, teste, visualização, estatística">
-    <title>Teste de Quiz e Análise Estatística</title>
+    <title>Teste de Quiz e Análise de Combinações</title>
     <link rel="stylesheet" href="styles.css">
     <script src="decision-tree.js"></script>
 </head>
@@ -29,7 +29,7 @@
         </div>
         <div class="visualization-tabs">
             <button class="tab-button active" onclick="switchTab('interactive')">Quiz Interativo</button>
-            <button class="tab-button" onclick="switchTab('analysis')">Análise Estatística</button>
+            <button class="tab-button" onclick="switchTab('analysis')">Análise de Combinações</button>
         </div>
         
         <!-- Explicações específicas para cada tab -->
@@ -39,7 +39,7 @@
         </div>
         
         <div id="analysis-explanation" class="explanation-section hidden">
-            <h2>Modo Análise Estatística</h2>
+            <h2>Modo Análise de Combinações</h2>
             <p>Veja todas as combinações possíveis de respostas e a distribuição dos resultados.</p>
             <button id="analysis-button" class="analysis-button" onclick="analyzeAllCombinations(quizState.currentQuiz)">
                 Analisar Todas as Combinações Possíveis
@@ -57,7 +57,6 @@
                 <!-- Score bars will be added here dynamically -->
             </div>
         </div>
-        
         
         <!-- Adicionar botão para voltar ao index.html -->
         <div class="navigation-buttons">
