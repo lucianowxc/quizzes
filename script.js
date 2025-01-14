@@ -24,6 +24,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 async function loadQuizList() {
     try {
+        showLoadingIndicator();
         const response = await fetch('quizList.json');
         if (!response.ok) throw new Error('Network response was not ok');
         const data = await response.json();
@@ -32,6 +33,8 @@ async function loadQuizList() {
     } catch (error) {
         console.error('Erro ao carregar a lista de quizzes:', error);
         alert('Erro ao carregar a lista de quizzes. Por favor, tente novamente mais tarde.');
+    } finally {
+        hideLoadingIndicator();
     }
 }
 
@@ -97,6 +100,7 @@ function nextPage() {
 
 async function loadQuizFromPost(file) {
     try {
+        showLoadingIndicator();
         const response = await fetch(file);
         if (!response.ok) throw new Error('Network response was not ok');
         quizData = await response.json();
@@ -105,6 +109,8 @@ async function loadQuizFromPost(file) {
     } catch (error) {
         console.error('Erro ao carregar o quiz selecionado:', error);
         alert('Erro ao carregar o quiz selecionado. Por favor, tente novamente mais tarde.');
+    } finally {
+        hideLoadingIndicator();
     }
 }
 
@@ -402,5 +408,19 @@ function updateDarkModeStatus() {
         statusElement.textContent = '✅';
     } else {
         statusElement.textContent = '❌';
+    }
+}
+
+function showLoadingIndicator() {
+    const loadingIndicator = document.createElement('div');
+    loadingIndicator.className = 'loading-indicator';
+    loadingIndicator.innerHTML = '<div class="spinner"></div>';
+    document.body.appendChild(loadingIndicator);
+}
+
+function hideLoadingIndicator() {
+    const loadingIndicator = document.querySelector('.loading-indicator');
+    if (loadingIndicator) {
+        loadingIndicator.remove();
     }
 }

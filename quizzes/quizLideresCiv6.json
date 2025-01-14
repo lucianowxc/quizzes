@@ -1,0 +1,368 @@
+{
+    "title": "Qual líder de Sid Meier's Civilization VI devo escolher?",
+    "questions": [
+        {
+            "question": "Se você pudesse escolher um recurso para iniciar o jogo, qual seria?",
+            "answers": [
+                {
+                    "text": "🛡️ Montanhas para defesa natural e ciência extra!",
+                    "points": {
+                        "Cleópatra": 0.2,
+                        "Trajano": 0.5,
+                        "Péricles": 0.7,
+                        "Gandhi": 0.3,
+                        "Seondeok": 0.8
+                    }
+                },
+                {
+                    "text": "🌾 Campos férteis para um crescimento econômico rápido!",
+                    "points": {
+                        "Cleópatra": 0.6,
+                        "Pedro II": 0.5,
+                        "Tomyris": 0.3,
+                        "Catarina de Médici": 0.4,
+                        "Gorgo": 0.2
+                    }
+                },
+                {
+                    "text": "⛵ Recursos costeiros para comércio e exploração.",
+                    "points": {
+                        "Dido": 1,
+                        "Elizabeth I": 0.8,
+                        "Rainha Vitória": 0.7,
+                        "Trajano": 0.4
+                    }
+                },
+                {
+                    "text": "🏞️ Um mix de tudo, porque equilíbrio é tudo!",
+                    "points": {
+                        "Hojo Tokimune": 0.9,
+                        "Péricles": 0.6,
+                        "Gandhi": 0.5,
+                        "Seondeok": 0.7
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é a sua abordagem para lidar com inimigos no início do jogo?",
+            "answers": [
+                {
+                    "text": "🤝 Diplomacia e alianças primeiro. A paz é preciosa!",
+                    "points": {
+                        "Cleópatra": 0.7,
+                        "Gandhi": 1,
+                        "Péricles": 0.8,
+                        "Elizabeth I": 0.4
+                    }
+                },
+                {
+                    "text": "⚔️ Treinar unidades militares e mostrar força.",
+                    "points": {
+                        "Tomyris": 0.9,
+                        "Gorgo": 0.8,
+                        "Hojo Tokimune": 0.6,
+                        "Trajano": 0.5
+                    }
+                },
+                {
+                    "text": "🕵️ Manter um olho nos vizinhos e me preparar para qualquer coisa.",
+                    "points": {
+                        "Catarina de Médici": 1,
+                        "Dido": 0.6,
+                        "Rainha Vitória": 0.5,
+                        "Seondeok": 0.4
+                    }
+                },
+                {
+                    "text": "🌱 Focar no crescimento da minha civilização primeiro, sem me preocupar demais.",
+                    "points": {
+                        "Pedro II": 0.9,
+                        "Cleópatra": 0.6,
+                        "Seondeok": 0.5,
+                        "Gandhi": 0.4
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é o seu principal objetivo em uma partida?",
+            "answers": [
+                {
+                    "text": "🏛️ Construir maravilhas e deixar um legado duradouro.",
+                    "points": {
+                        "Trajano": 0.9,
+                        "Péricles": 0.7,
+                        "Seondeok": 0.6,
+                        "Pedro II": 0.5
+                    }
+                },
+                {
+                    "text": "⚡ Expandir rápido e estabelecer minha presença no mapa.",
+                    "points": {
+                        "Tomyris": 0.8,
+                        "Gorgo": 0.7,
+                        "Cleópatra": 0.5,
+                        "Hojo Tokimune": 0.4
+                    }
+                },
+                {
+                    "text": "🌍 Explorar e colonizar novos territórios.",
+                    "points": {
+                        "Dido": 0.9,
+                        "Rainha Vitória": 0.8,
+                        "Elizabeth I": 0.7,
+                        "Catarina de Médici": 0.6
+                    }
+                },
+                {
+                    "text": "🎨 Focar em cultura, ciência ou turismo para um final brilhante.",
+                    "points": {
+                        "Pedro II": 1,
+                        "Péricles": 0.8,
+                        "Seondeok": 0.9,
+                        "Gandhi": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual unidade inicial você gostaria de ter?",
+            "answers": [
+                {
+                    "text": "🐎 Cavaleiros ágeis para explorar e atacar rápido.",
+                    "points": {
+                        "Tomyris": 0.9,
+                        "Gorgo": 0.7,
+                        "Dido": 0.6,
+                        "Cleópatra": 0.4
+                    }
+                },
+                {
+                    "text": "🛡️ Unidades defensivas para proteger meu território.",
+                    "points": {
+                        "Trajano": 0.8,
+                        "Hojo Tokimune": 0.6,
+                        "Rainha Vitória": 0.5,
+                        "Seondeok": 0.3
+                    }
+                },
+                {
+                    "text": "🕵️ Espiões para planejar meu próximo passo.",
+                    "points": {
+                        "Catarina de Médici": 1,
+                        "Elizabeth I": 0.8,
+                        "Dido": 0.5,
+                        "Pedro II": 0.4
+                    }
+                },
+                {
+                    "text": "🌟 Unidades de apoio para crescer e prosperar.",
+                    "points": {
+                        "Péricles": 0.9,
+                        "Gandhi": 0.7,
+                        "Seondeok": 0.6,
+                        "Pedro II": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Como você prefere vencer uma partida?",
+            "answers": [
+                {
+                    "text": "🏆 Vitória cultural, inspirando o mundo com minhas obras-primas.",
+                    "points": {
+                        "Pedro II": 1,
+                        "Péricles": 0.9,
+                        "Elizabeth I": 0.7,
+                        "Seondeok": 0.6
+                    }
+                },
+                {
+                    "text": "🎯 Dominação total, mostrando meu poder militar.",
+                    "points": {
+                        "Tomyris": 0.8,
+                        "Gorgo": 0.7,
+                        "Hojo Tokimune": 0.6,
+                        "Trajano": 0.5
+                    }
+                },
+                {
+                    "text": "🌐 Diplomacia, garantindo que todos me respeitem e sigam minha liderança.",
+                    "points": {
+                        "Cleópatra": 0.9,
+                        "Gandhi": 0.8,
+                        "Rainha Vitória": 0.7,
+                        "Dido": 0.6
+                    }
+                },
+                {
+                    "text": "🔬 Vitória científica, chegando às estrelas antes de todos.",
+                    "points": {
+                        "Seondeok": 1,
+                        "Hojo Tokimune": 0.8,
+                        "Pedro II": 0.7,
+                        "Trajano": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Como você lida com um vizinho hostil?",
+            "answers": [
+                {
+                    "text": "✋ Proponho um tratado de paz e tento resolver diplomaticamente.",
+                    "points": {
+                        "Gandhi": 1,
+                        "Cleópatra": 0.8,
+                        "Rainha Vitória": 0.7,
+                        "Péricles": 0.6
+                    }
+                },
+                {
+                    "text": "💥 Declaro guerra e mostro quem manda!",
+                    "points": {
+                        "Tomyris": 0.9,
+                        "Gorgo": 0.8,
+                        "Hojo Tokimune": 0.7,
+                        "Trajano": 0.5
+                    }
+                },
+                {
+                    "text": "🤫 Uso táticas de espionagem para desestabilizar o inimigo.",
+                    "points": {
+                        "Catarina de Médici": 1,
+                        "Dido": 0.7,
+                        "Elizabeth I": 0.6,
+                        "Seondeok": 0.5
+                    }
+                },
+                {
+                    "text": "🛠️ Fortifico meu território e espero que eles desistam.",
+                    "points": {
+                        "Trajano": 0.9,
+                        "Hojo Tokimune": 0.8,
+                        "Pedro II": 0.6,
+                        "Rainha Vitória": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Como você descreveria sua liderança em uma palavra?",
+            "answers": [
+                {
+                    "text": "🧠 Visionária: sempre penso no futuro.",
+                    "points": {
+                        "Seondeok": 1,
+                        "Péricles": 0.9,
+                        "Pedro II": 0.8,
+                        "Elizabeth I": 0.7
+                    }
+                },
+                {
+                    "text": "🔥 Determinado: nada me impede de alcançar meus objetivos.",
+                    "points": {
+                        "Tomyris": 0.9,
+                        "Gorgo": 0.8,
+                        "Trajano": 0.7,
+                        "Hojo Tokimune": 0.6
+                    }
+                },
+                {
+                    "text": "🌸 Charme: convenço todos com minha elegância e diplomacia.",
+                    "points": {
+                        "Cleópatra": 1,
+                        "Gandhi": 0.8,
+                        "Rainha Vitória": 0.7,
+                        "Catarina de Médici": 0.6
+                    }
+                },
+                {
+                    "text": "⚓ Pragmática: faço o necessário para vencer.",
+                    "points": {
+                        "Dido": 0.9,
+                        "Catarina de Médici": 0.8,
+                        "Elizabeth I": 0.7,
+                        "Rainha Vitória": 0.6
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "Cleópatra": {
+            "title": "Cleópatra",
+            "emoji": "👑",
+            "subtitle": "A rainha sedutora",
+            "text": "Uma diplomata habilidosa que conquista todos ao seu redor."
+        },
+        "Tomyris": {
+            "title": "Tomyris",
+            "emoji": "⚔️",
+            "subtitle": "A guerreira implacável",
+            "text": "Não pense em me provocar, ou enfrentará minha fúria!"
+        },
+        "Pedro II": {
+            "title": "Pedro II",
+            "emoji": "🎩",
+            "subtitle": "O visionário cultural",
+            "text": "Levo minha civilização à grandeza com ciência, cultura e diplomacia!"
+        },
+        "Trajano": {
+            "title": "Trajano",
+            "emoji": "🏛️",
+            "subtitle": "O construtor de impérios",
+            "text": "Expando meu território com força e infraestrutura."
+        },
+        "Gandhi": {
+            "title": "Gandhi",
+            "emoji": "🕊️",
+            "subtitle": "O pacifista astuto",
+            "text": "Prefiro a paz, mas posso surpreender quando necessário."
+        },
+        "Seondeok": {
+            "title": "Seondeok",
+            "emoji": "🌌",
+            "subtitle": "A mente iluminada",
+            "text": "Invisto em ciência e cultura para uma vitória brilhante."
+        },
+        "Dido": {
+            "title": "Dido",
+            "emoji": "⛵",
+            "subtitle": "A rainha dos mares",
+            "text": "Meus navios e comércio dominam o mundo!"
+        },
+        "Elizabeth I": {
+            "title": "Elizabeth I",
+            "emoji": "👸",
+            "subtitle": "A estrategista diplomática",
+            "text": "Com astúcia, navego entre guerra e paz para vencer."
+        },
+        "Rainha Vitória": {
+            "title": "Rainha Vitória",
+            "emoji": "👒",
+            "subtitle": "A soberana imperial",
+            "text": "Expando meu império com elegância e determinação."
+        },
+        "Catarina de Médici": {
+            "title": "Catarina de Médici",
+            "emoji": "🕵️‍♀️",
+            "subtitle": "A espiã magistral",
+            "text": "Uso minha inteligência para me antecipar a qualquer ameaça."
+        },
+        "Hojo Tokimune": {
+            "title": "Hojo Tokimune",
+            "emoji": "⛩️",
+            "subtitle": "O guardião da tradição",
+            "text": "Protejo minha cultura enquanto avanço em todas as frentes."
+        },
+        "Péricles": {
+            "title": "Péricles",
+            "emoji": "🏺",
+            "subtitle": "O patrono das artes",
+            "text": "Minha civilização floresce com cultura e alianças poderosas."
+        }
+    }
+}

@@ -209,6 +209,11 @@
       "name": "Qual produto do mineiro do queijo você deve comprar hoje?",
       "file": "quizzes/quizMineiroDoQueijo.json",
       "description": "Descubra qual produto do Mineiro do Queijo mais se parece com você!"
+    },
+    {
+      "name": "Qual líder de Sid Meier's Civilization VI devo escolher?",
+      "file": "quizzes/quizLideresCiv6.json",
+      "description": "Descubra qual líder histórico do Civilization VI reflete seu estilo de jogo e conquiste o mundo!"
     }
   ]
 }
