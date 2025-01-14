@@ -48,7 +48,7 @@ async function loadQuizList() {
 
 function populateQuizSelect(quizzes) {
     const quizSelect = document.getElementById('quiz-select');
-    quizzes.forEach(quiz => {
+    quizzes.reverse().forEach(quiz => {
         const option = document.createElement('option');
         option.value = quiz.file;
         option.textContent = quiz.name;
@@ -380,6 +380,10 @@ const analysisCache = new Map();
 
 function analyzeAllCombinations(quizData) {
     if (!quizData) return;
+
+    if (quizData.questions.length > 10) {
+        alert('A análise é complexa e pode demorar devido ao grande número de perguntas.');
+    }
     
     const analysisResults = document.getElementById('analysis-results');
     const totalCombinations = quizData.questions.reduce((acc, q) => acc * q.answers.length, 1);
@@ -547,7 +551,7 @@ function updateResultsTable(quizData, resultCounts, totalProcessed, tableBody, r
                 <td>${title} ${emoji}</td>
                 <td>${count}</td>
                 <td>${percentage}%</td>
-                <td class="path-column"><small>${path}</small></td>
+                <td class="path-column"><small>${path.split(' → ').join('<br>')}</small></td>
             </tr>
         `)
         .join('');
@@ -726,5 +730,18 @@ function switchTab(tabName) {
     } else if (tabName === 'analysis') {
         // Limpar resultados anteriores da análise
         document.getElementById('analysis-results').innerHTML = '';
+    }
+}
+
+// Add this new function
+function toggleQuizSelection() {
+    const collapsible = document.querySelector('.collapsible');
+    const content = document.querySelector('.quiz-selection .content');
+    if (content.style.display === "block") {
+        content.style.display = "none";
+        collapsible.classList.remove('active');
+    } else {
+        content.style.display = "block";
+        collapsible.classList.add('active');
     }
 }

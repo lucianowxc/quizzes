@@ -3,25 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Teste de Quiz">
-    <meta name="keywords" content="quiz, teste, visualização">
-    <title>Teste de Quiz</title>
+    <meta name="description" content="Estatísticas para nerds">
+    <meta name="keywords" content="quiz, teste, visualização, estatística">
+    <title>Teste de Quiz e Análise Estatística</title>
     <link rel="stylesheet" href="styles.css">
     <script src="decision-tree.js"></script>
 </head>
 <body>
     <div class="quiz-container" role="main">
         <div class="quiz-header">
-            <h1 id="quiz-title">Teste de Quiz</h1>
+            <h1 id="quiz-title">Estatísticas para nerds</h1>
         </div>
         <div class="quiz-selection">
-            <label for="quiz-select">Selecione um Quiz:</label>
-            <select id="quiz-select" onchange="loadSelectedQuiz()">
-                <option value="">Selecione...</option>
-            </select>
-            <div>
-                <label for="file-input">Ou carregue seu próprio quiz:</label>
-                <input type="file" id="file-input" accept=".json" aria-label="Carregar quiz do arquivo">
+            <button class="collapsible" onclick="toggleQuizSelection()">Selecionar ou Carregar Quiz</button>
+            <div class="content">
+                <label for="quiz-select">Selecione um Quiz:</label>
+                <select id="quiz-select" onchange="loadSelectedQuiz()">
+                    <option value="">Selecione...</option>
+                </select>
+                <div>
+                    <label for="file-input">Ou carregue seu próprio quiz:</label>
+                    <input type="file" id="file-input" accept=".json" aria-label="Carregar quiz do arquivo">
+                </div>
             </div>
         </div>
         <div class="visualization-tabs">
