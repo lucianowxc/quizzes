@@ -9,7 +9,9 @@
                     "points": {
                         "Trajano": 1,
                         "Genghis Khan": 0.8,
-                        "Dido": 0.5
+                        "Dido": 0.5,
+                        "Shaka": 0.9,
+                        "Montezuma": 0.7
                     }
                 },
                 {
@@ -17,7 +19,9 @@
                     "points": {
                         "Catarina de Médici": 0.6,
                         "Seondeok": 1,
-                        "Rainha Vitória": 0.8
+                        "Rainha Vitória": 0.8,
+                        "Pachacuti": 0.7,
+                        "Mansa Musa": 0.5
                     }
                 },
                 {
@@ -25,7 +29,9 @@
                     "points": {
                         "Gandhi": 1,
                         "Péricles": 0.9,
-                        "Hojo Tokimune": 0.7
+                        "Hojo Tokimune": 0.7,
+                        "Mansa Musa": 0.6,
+                        "Pedro II": 0.5
                     }
                 },
                 {
@@ -33,7 +39,9 @@
                     "points": {
                         "Elizabeth I": 1,
                         "Péricles": 0.8,
-                        "Catarina de Médici": 0.6
+                        "Catarina de Médici": 0.6,
+                        "Montezuma": 0.5,
+                        "Dido": 0.4
                     }
                 }
             ]
@@ -46,7 +54,9 @@
                     "points": {
                         "Genghis Khan": 1,
                         "Trajano": 0.8,
-                        "Elizabeth I": 0.6
+                        "Elizabeth I": 0.6,
+                        "Shaka": 0.9,
+                        "Montezuma": 0.7
                     }
                 },
                 {
@@ -54,7 +64,9 @@
                     "points": {
                         "Gandhi": 1,
                         "Seondeok": 0.7,
-                        "Rainha Vitória": 0.5
+                        "Rainha Vitória": 0.5,
+                        "Pachacuti": 0.6,
+                        "Pedro II": 0.4
                     }
                 },
                 {
@@ -62,7 +74,9 @@
                     "points": {
                         "Hojo Tokimune": 1,
                         "Péricles": 0.8,
-                        "Trajano": 0.6
+                        "Trajano": 0.6,
+                        "Mansa Musa": 0.5,
+                        "Dido": 0.4
                     }
                 },
                 {
@@ -70,7 +84,9 @@
                     "points": {
                         "Catarina de Médici": 1,
                         "Elizabeth I": 0.8,
-                        "Dido": 0.5
+                        "Dido": 0.5,
+                        "Montezuma": 0.6,
+                        "Gandhi": 0.4
                     }
                 }
             ]
@@ -83,7 +99,9 @@
                     "points": {
                         "Trajano": 1,
                         "Genghis Khan": 0.9,
-                        "Hojo Tokimune": 0.7
+                        "Hojo Tokimune": 0.7,
+                        "Shaka": 0.8,
+                        "Montezuma": 0.6
                     }
                 },
                 {
@@ -91,7 +109,9 @@
                     "points": {
                         "Dido": 1,
                         "Rainha Vitória": 0.9,
-                        "Elizabeth I": 0.6
+                        "Elizabeth I": 0.6,
+                        "Pachacuti": 0.7,
+                        "Mansa Musa": 0.5
                     }
                 },
                 {
@@ -99,7 +119,9 @@
                     "points": {
                         "Seondeok": 1,
                         "Péricles": 0.8,
-                        "Catarina de Médici": 0.7
+                        "Catarina de Médici": 0.7,
+                        "Mansa Musa": 0.6,
+                        "Pedro II": 0.5
                     }
                 },
                 {
@@ -107,7 +129,9 @@
                     "points": {
                         "Gandhi": 1,
                         "Elizabeth I": 0.8,
-                        "Catarina de Médici": 0.6
+                        "Catarina de Médici": 0.6,
+                        "Montezuma": 0.5,
+                        "Dido": 0.4
                     }
                 }
             ]
@@ -120,7 +144,9 @@
                     "points": {
                         "Trajano": 1,
                         "Genghis Khan": 0.7,
-                        "Seondeok": 0.5
+                        "Seondeok": 0.5,
+                        "Pachacuti": 0.6,
+                        "Mansa Musa": 0.4
                     }
                 },
                 {
@@ -128,7 +154,9 @@
                     "points": {
                         "Dido": 1,
                         "Rainha Vitória": 0.9,
-                        "Elizabeth I": 0.6
+                        "Elizabeth I": 0.6,
+                        "Mansa Musa": 0.7,
+                        "Pedro II": 0.5
                     }
                 },
                 {
@@ -136,7 +164,9 @@
                     "points": {
                         "Gandhi": 1,
                         "Péricles": 0.8,
-                        "Catarina de Médici": 0.5
+                        "Catarina de Médici": 0.5,
+                        "Montezuma": 0.6,
+                        "Dido": 0.4
                     }
                 },
                 {
@@ -144,7 +174,9 @@
                     "points": {
                         "Hojo Tokimune": 1,
                         "Trajano": 0.7,
-                        "Elizabeth I": 0.5
+                        "Elizabeth I": 0.5,
+                        "Shaka": 0.8,
+                        "Montezuma": 0.6
                     }
                 }
             ]
@@ -157,7 +189,9 @@
                     "points": {
                         "Genghis Khan": 1,
                         "Trajano": 0.9,
-                        "Hojo Tokimune": 0.7
+                        "Hojo Tokimune": 0.7,
+                        "Shaka": 0.9,
+                        "Montezuma": 0.6
                     }
                 },
                 {
@@ -165,7 +199,9 @@
                     "points": {
                         "Péricles": 1,
                         "Seondeok": 0.9,
-                        "Elizabeth I": 0.6
+                        "Elizabeth I": 0.6,
+                        "Mansa Musa": 0.7,
+                        "Pedro II": 0.5
                     }
                 },
                 {
@@ -173,7 +209,9 @@
                     "points": {
                         "Gandhi": 1,
                         "Catarina de Médici": 0.8,
-                        "Dido": 0.5
+                        "Dido": 0.5,
+                        "Montezuma": 0.6,
+                        "Elizabeth I": 0.4
                     }
                 },
                 {
@@ -181,7 +219,9 @@
                     "points": {
                         "Rainha Vitória": 1,
                         "Hojo Tokimune": 0.8,
-                        "Elizabeth I": 0.7
+                        "Elizabeth I": 0.7,
+                        "Pachacuti": 0.6,
+                        "Pedro II": 0.5
                     }
                 }
             ]
@@ -194,7 +234,9 @@
                     "points": {
                         "Gandhi": 1,
                         "Péricles": 0.8,
-                        "Seondeok": 0.6
+                        "Seondeok": 0.6,
+                        "Mansa Musa": 0.5,
+                        "Pedro II": 0.4
                     }
                 },
                 {
@@ -202,7 +244,9 @@
                     "points": {
                         "Catarina de Médici": 1,
                         "Elizabeth I": 0.7,
-                        "Dido": 0.5
+                        "Dido": 0.5,
+                        "Montezuma": 0.6,
+                        "Genghis Khan": 0.4
                     }
                 },
                 {
@@ -210,7 +254,9 @@
                     "points": {
                         "Trajano": 1,
                         "Genghis Khan": 0.8,
-                        "Hojo Tokimune": 0.6
+                        "Hojo Tokimune": 0.6,
+                        "Shaka": 0.9,
+                        "Montezuma": 0.7
                     }
                 },
                 {
@@ -218,7 +264,9 @@
                     "points": {
                         "Rainha Vitória": 1,
                         "Gandhi": 0.9,
-                        "Péricles": 0.7
+                        "Péricles": 0.7,
+                        "Pachacuti": 0.6,
+                        "Dido": 0.4
                     }
                 }
             ]
@@ -231,7 +279,9 @@
                     "points": {
                         "Trajano": 1,
                         "Genghis Khan": 0.9,
-                        "Hojo Tokimune": 0.8
+                        "Hojo Tokimune": 0.8,
+                        "Shaka": 0.9,
+                        "Montezuma": 0.7
                     }
                 },
                 {
@@ -239,7 +289,9 @@
                     "points": {
                         "Péricles": 1,
                         "Seondeok": 0.8,
-                        "Elizabeth I": 0.7
+                        "Elizabeth I": 0.7,
+                        "Mansa Musa": 0.6,
+                        "Pedro II": 0.5
                     }
                 },
                 {
@@ -247,7 +299,9 @@
                     "points": {
                         "Gandhi": 1,
                         "Rainha Vitória": 0.9,
-                        "Dido": 0.6
+                        "Dido": 0.6,
+                        "Pachacuti": 0.7,
+                        "Pedro II": 0.5
                     }
                 },
                 {
@@ -255,7 +309,9 @@
                     "points": {
                         "Elizabeth I": 1,
                         "Catarina de Médici": 0.8,
-                        "Dido": 0.7
+                        "Dido": 0.7,
+                        "Montezuma": 0.6,
+                        "Gandhi": 0.4
                     }
                 }
             ]
@@ -266,61 +322,91 @@
             "title": "Genghis Khan",
             "emoji": "⚔️",
             "subtitle": "O conquistador implacável",
-            "text": "Você prefere a força bruta e a expansão rápida, liderando um império que domina pela guerra e intimidação. Seu foco é assegurar que ninguém possa desafiar seu poderio militar."
+            "text": "Com uma visão de unidade e conquista, você lidera os mongóis em uma jornada de expansão e domínio. Sua força e determinação são lendárias, e seu nome é sinônimo de poder e respeito."
         },
         "Rainha Vitória": {
             "title": "Rainha Vitória",
             "emoji": "👒",
             "subtitle": "A soberana imperial",
-            "text": "Com elegância e determinação, você expande seu domínio e promove o progresso, construindo um império próspero e respeitado. O equilíbrio entre economia e diplomacia é a chave do seu sucesso."
+            "text": "No trono da Inglaterra, você governa com sabedoria e elegância, cercada por uma rica cultura e uma forte tradição. Seu desafio é manter o equilíbrio entre a política, a economia e a sociedade, enquanto constrói um império que durará séculos."
         },
         "Catarina de Médici": {
             "title": "Catarina de Médici",
             "emoji": "🕵️‍♀️",
             "subtitle": "A mestra da espionagem",
-            "text": "Você lidera com astúcia, usando informações e intrigas para se antecipar a qualquer ameaça. Seu sucesso vem de sua capacidade de manipular e planejar no cenário global."
+            "text": "Com uma mente astuta e uma rede de espionagem, você manipula os fios do poder em uma corte repleta de intriga e traição. Sua tarefa é proteger a França e sua dinastia, enquanto navega pelas águas turbulentas da política europeia."
         },
         "Dido": {
             "title": "Dido",
             "emoji": "⛵",
             "subtitle": "A rainha dos mares",
-            "text": "Com seus navios e comércio, você domina os mares e constrói uma civilização rica e influente. A exploração e o comércio são suas armas secretas."
+            "text": "Com uma visão de liberdade e aventura, você funda a cidade de Cartago e constrói um império marítimo que se estende por todo o Mediterrâneo. Sua força e determinação são inspiradoras, e sua cidade se torna um símbolo de prosperidade e progresso."
         },
         "Elizabeth I": {
             "title": "Elizabeth I",
             "emoji": "👸",
             "subtitle": "A estrategista diplomática",
-            "text": "Você usa sua inteligência para navegar habilmente entre guerra e paz, forjando alianças e garantindo que sua civilização prospere em todas as frentes."
+            "text": "No trono da Inglaterra, você governa com sabedoria e inteligência, cercada por uma corte de conselheiros e diplomatas. Sua tarefa é manter o equilíbrio entre a política, a economia e a religião, enquanto constrói uma nação próspera e respeitada."
         },
         "Gandhi": {
             "title": "Gandhi",
             "emoji": "🕊️",
             "subtitle": "O pacifista astuto",
-            "text": "Você prioriza a paz e a prosperidade, mas é estrategicamente astuto para garantir que seu ideal de não violência seja respeitado."
+            "text": "Com uma visão de paz e liberdade, você lidera a Índia em uma jornada de independência e autodeterminação. Sua força e determinação são inspiradoras, e sua mensagem de não violência e resistência pacífica se torna um exemplo para o mundo."
         },
         "Seondeok": {
             "title": "Seondeok",
             "emoji": "🌌",
             "subtitle": "A mente iluminada",
-            "text": "Você se destaca em ciência e cultura, liderando uma civilização que brilha com inovações e beleza. Sua visão ilumina o mundo!"
+            "text": "Com uma visão de conhecimento e progresso, você governa a Coreia com sabedoria e inteligência, cercada por uma corte de estudiosos e cientistas. Sua tarefa é promover a educação, a ciência e a tecnologia, enquanto constrói uma nação próspera e avançada."
         },
         "Hojo Tokimune": {
             "title": "Hojo Tokimune",
             "emoji": "⛩️",
             "subtitle": "O guardião da tradição",
-            "text": "Você equilibra a defesa com o progresso, protegendo sua cultura enquanto avança em várias frentes. Lealdade e força são suas marcas."
+            "text": "Com uma visão de lealdade e honra, você lidera o Japão em uma jornada de defesa e preservação da tradição. Sua força e determinação são inspiradoras, e sua defesa do país contra as invasões estrangeiras se torna um exemplo de coragem e patriotismo."
         },
         "Péricles": {
             "title": "Péricles",
             "emoji": "🏺",
             "subtitle": "O patrono das artes",
-            "text": "Você valoriza alianças e cultura, liderando uma civilização que floresce artisticamente e politicamente. Seu legado é de inspiração e liderança."
+            "text": "Com uma visão de beleza e criatividade, você governa Atenas com sabedoria e inteligência, cercada por uma corte de artistas e filósofos. Sua tarefa é promover a arte, a literatura e a filosofia, enquanto constrói uma cidade-estado próspera e avançada."
         },
         "Trajano": {
             "title": "Trajano",
             "emoji": "🏛️",
             "subtitle": "O construtor de impérios",
-            "text": "Sua civilização prospera com uma infraestrutura robusta e uma visão expansionista. Seu foco é deixar um império forte e vasto como legado."
+            "text": "Com uma visão de expansão e conquista, você lidera o Império Romano em uma jornada de crescimento e domínio. Sua força e determinação são lendárias, e seu legado se torna um exemplo de poder e estabilidade."
+        },
+        "Pachacuti": {
+            "title": "Pachacuti",
+            "emoji": "🏔️",
+            "subtitle": "O unificador dos Andes",
+            "text": "Com uma visão de unidade e conquista, você lidera os incas em uma jornada de expansão e domínio. Sua força e determinação são inspiradoras, e sua construção de uma rede de estradas e comunicações se torna um exemplo de engenharia e organização."
+        },
+        "Montezuma": {
+            "title": "Montezuma",
+            "emoji": "🌟",
+            "subtitle": "O líder asteca",
+            "text": "No coração da cidade de Tenochtitlán, você governa com sabedoria e conhecimento, cercado por uma rica cultura e uma forte tradição. Seu desafio é manter o equilíbrio entre a religião, a diplomacia e a guerra, enquanto constrói um império que durará séculos."
+        },
+        "Pedro II": {
+            "title": "Pedro II",
+            "emoji": "🌟",
+            "subtitle": "O imperador brasileiro",
+            "text": "Com uma mente aberta e uma visão para o futuro, você lidera o Brasil em uma era de modernização e progresso. Sua tarefa é equilibrar as necessidades de uma nação em crescimento, enquanto promove a educação, a liberdade e a justiça para todos os cidadãos."
+        },
+        "Mansa Musa": {
+            "title": "Mansa Musa",
+            "emoji": "💎",
+            "subtitle": "O rei da riqueza",
+            "text": "Sua riqueza e generosidade são famosas em todo o mundo, e sua civilização é um exemplo de prosperidade e justiça. No entanto, você sabe que a verdadeira riqueza vem não apenas do ouro e da prata, mas também da sabedoria, da cultura e da felicidade do seu povo."
+        },
+        "Shaka": {
+            "title": "Shaka",
+            "emoji": "⚔️",
+            "subtitle": "O guerreiro zulu",
+            "text": "Com uma lança na mão e um coração cheio de paixão, você lidera seu povo em uma jornada de conquista e expansão. Sua força e determinação são inspiradoras, e sua construção de um império poderoso e temido se torna um exemplo de coragem e liderança."
         }
     }
 }
