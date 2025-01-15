@@ -219,6 +219,11 @@
       "name": "Por que você perderia sua CNH?",
       "file": "quizzes/quizInfracoesTransito.json",
       "description": "Descubra qual infração de trânsito mais se parece com você e por que você perderia sua CNH!"
+    },
+    {
+      "name": "Qual linha de metrô você é?",
+      "file": "quizzes/quizMetro.json",
+      "description": "Entre o transporte e o caos, qual linha representa sua personalidade?"
     }
   ]
 }

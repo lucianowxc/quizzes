@@ -1,0 +1,653 @@
+{
+  "title": "Qual linha de metrô você é?",
+  "subtitle": "Entre o transporte e o caos, qual linha representa sua personalidade?",
+  "questions": [
+    {
+      "question": "Você está em um vagão lotado e alguém começa a tocar uma música chiclete no celular sem fones. O que você faz?",
+      "answers": [
+        {
+          "text": "Começo a dançar junto! 💃🕺",
+          "points": {
+            "linha1": 0.5,
+            "linha2": 0.3,
+            "linha3": 1,
+            "linha4": 0.4,
+            "linha5": 0.6,
+            "linha6": 0.5,
+            "linha7": 0.8,
+            "linha7b": 0.6,
+            "linha9": 0.5,
+            "linha15": 0.4
+          }
+        },
+        {
+          "text": "Olho feio, mas não faço nada. 😒",
+          "points": {
+            "linha1": 0.6,
+            "linha2": 0.5,
+            "linha3": 0.4,
+            "linha4": 0.5,
+            "linha5": 1,
+            "linha6": 0.6,
+            "linha7": 0.4,
+            "linha7b": 0.5,
+            "linha9": 0.7,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Peço educadamente para baixar o volume. 🙏",
+          "points": {
+            "linha1": 0.4,
+            "linha2": 1,
+            "linha3": 0.5,
+            "linha4": 0.6,
+            "linha5": 0.4,
+            "linha6": 0.7,
+            "linha7": 0.5,
+            "linha7b": 0.4,
+            "linha9": 0.6,
+            "linha15": 0.5
+          }
+        },
+        {
+          "text": "Finjo que não estou ouvindo e continuo no meu canto. 😌",
+          "points": {
+            "linha1": 1,
+            "linha2": 0.6,
+            "linha3": 0.4,
+            "linha4": 0.5,
+            "linha5": 0.5,
+            "linha6": 0.6,
+            "linha7": 0.4,
+            "linha7b": 0.5,
+            "linha9": 0.6,
+            "linha15": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Ao entrar no metrô, você percebe que esqueceu o desodorante. Qual é a sua reação?",
+      "answers": [
+        {
+          "text": "Saio na próxima estação e compro um desodorante. 🏃‍♂️",
+          "points": {
+            "linha1": 0.6,
+            "linha2": 0.5,
+            "linha3": 0.4,
+            "linha4": 1,
+            "linha5": 0.5,
+            "linha6": 0.6,
+            "linha7": 0.5,
+            "linha7b": 0.6,
+            "linha9": 0.7,
+            "linha15": 0.5
+          }
+        },
+        {
+          "text": "Levanto os braços e penso: 'Que se dane!' 🙆‍♀️",
+          "points": {
+            "linha1": 0.5,
+            "linha2": 0.6,
+            "linha3": 1,
+            "linha4": 0.5,
+            "linha5": 0.7,
+            "linha6": 0.5,
+            "linha7": 0.7,
+            "linha7b": 0.7,
+            "linha9": 0.8,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Tento me afastar das pessoas para não incomodar. 🙈",
+          "points": {
+            "linha1": 0.6,
+            "linha2": 1,
+            "linha3": 0.5,
+            "linha4": 0.5,
+            "linha5": 0.6,
+            "linha6": 0.7,
+            "linha7": 0.4,
+            "linha7b": 0.5,
+            "linha9": 0.6,
+            "linha15": 0.7
+          }
+        },
+        {
+          "text": "Uso meu perfume para disfarçar. 🌸",
+          "points": {
+            "linha1": 0.7,
+            "linha2": 0.5,
+            "linha3": 0.6,
+            "linha4": 0.6,
+            "linha5": 1,
+            "linha6": 0.6,
+            "linha7": 0.5,
+            "linha7b": 0.4,
+            "linha9": 0.6,
+            "linha15": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua reação ao ver o metrô lotado chegando na estação?",
+      "answers": [
+        {
+          "text": "Empurro todo mundo e entro de qualquer jeito. 🥊",
+          "points": {
+            "linha1": 0.5,
+            "linha2": 0.4,
+            "linha3": 1,
+            "linha4": 0.6,
+            "linha5": 0.7,
+            "linha6": 0.5,
+            "linha7": 0.8,
+            "linha7b": 0.8,
+            "linha9": 0.6,
+            "linha15": 0.5
+          }
+        },
+        {
+          "text": "Espero o próximo, com esperança de estar mais vazio. 🙏",
+          "points": {
+            "linha1": 0.6,
+            "linha2": 1,
+            "linha3": 0.5,
+            "linha4": 0.7,
+            "linha5": 0.6,
+            "linha6": 0.7,
+            "linha7": 0.4,
+            "linha7b": 0.5,
+            "linha9": 0.8,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Procuro outra linha ou rota alternativa. 🗺️",
+          "points": {
+            "linha1": 0.7,
+            "linha2": 0.6,
+            "linha3": 0.5,
+            "linha4": 1,
+            "linha5": 0.6,
+            "linha6": 0.7,
+            "linha7": 0.5,
+            "linha7b": 0.6,
+            "linha9": 0.8,
+            "linha15": 0.7
+          }
+        },
+        {
+          "text": "Reclamo nas redes sociais enquanto espero. 📱",
+          "points": {
+            "linha1": 0.5,
+            "linha2": 0.7,
+            "linha3": 0.6,
+            "linha4": 0.7,
+            "linha5": 1,
+            "linha6": 0.8,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você está no metrô e alguém começa a pregar sobre o fim do mundo. Qual é a sua reação?",
+      "answers": [
+        {
+          "text": "Começo a debater com a pessoa. 🤔",
+          "points": {
+            "linha1": 0.6,
+            "linha2": 0.7,
+            "linha3": 1,
+            "linha4": 0.5,
+            "linha5": 0.4,
+            "linha6": 0.6,
+            "linha7": 0.8,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.4
+          }
+        },
+        {
+          "text": "Finjo que estou dormindo para evitar contato. 😴",
+          "points": {
+            "linha1": 0.7,
+            "linha2": 0.5,
+            "linha3": 0.6,
+            "linha4": 0.8,
+            "linha5": 1,
+            "linha6": 0.6,
+            "linha7": 0.4,
+            "linha7b": 0.5,
+            "linha9": 0.7,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Começo a cantar junto para ver a reação. 🎤",
+          "points": {
+            "linha1": 0.5,
+            "linha2": 1,
+            "linha3": 0.6,
+            "linha4": 0.7,
+            "linha5": 0.4,
+            "linha6": 0.8,
+            "linha7": 0.5,
+            "linha7b": 0.6,
+            "linha9": 0.7,
+            "linha15": 0.5
+          }
+        },
+        {
+          "text": "Saio do vagão na próxima estação. 🚉",
+          "points": {
+            "linha1": 0.8,
+            "linha2": 0.6,
+            "linha3": 0.5,
+            "linha4": 0.7,
+            "linha5": 0.4,
+            "linha6": 1,
+            "linha7": 0.6,
+            "linha7b": 0.5,
+            "linha9": 0.8,
+            "linha15": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Durante a viagem, um artista de rua começa a se apresentar no vagão. Qual é a sua reação?",
+      "answers": [
+        {
+          "text": "Aplaudo entusiasticamente e dou uma gorjeta. 👏",
+          "points": {
+            "linha1": 0.7,
+            "linha2": 1,
+            "linha3": 0.6,
+            "linha4": 0.5,
+            "linha5": 0.4,
+            "linha6": 0.8,
+            "linha7": 0.7,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Gravo a apresentação para postar nas redes sociais. 🎥",
+          "points": {
+            "linha1": 0.6,
+            "linha2": 0.7,
+            "linha3": 0.5,
+            "linha4": 0.8,
+            "linha5": 0.4,
+            "linha6": 1,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Ignoro e continuo mexendo no celular. 📱",
+          "points": {
+            "linha1": 0.8,
+            "linha2": 0.6,
+            "linha3": 0.7,
+            "linha4": 1,
+            "linha5": 0.4,
+            "linha6": 0.5,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.8
+          }
+        },
+        {
+          "text": "Peço para tocarem uma música específica. 🎶",
+          "points": {
+            "linha1": 0.5,
+            "linha2": 0.8,
+            "linha3": 0.6,
+            "linha4": 0.7,
+            "linha5": 1,
+            "linha6": 0.4,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.7,
+            "linha15": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você está no metrô e percebe que alguém deixou um pacote no assento. O que faz?",
+      "answers": [
+        {
+          "text": "Pego o pacote e levo comigo. 📝",
+          "points": {
+            "linha1": 0.7,
+            "linha2": 0.6,
+            "linha3": 1,
+            "linha4": 0.5,
+            "linha5": 0.7,
+            "linha6": 0.6,
+            "linha7": 0.8,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Ignoro o pacote e fico em pé. 🚶",
+          "points": {
+            "linha1": 0.8,
+            "linha2": 0.7,
+            "linha3": 0.6,
+            "linha4": 0.7,
+            "linha5": 0.5,
+            "linha6": 1,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Chamo a atenção de um fiscal para alertá-lo. 👮‍♂️",
+          "points": {
+            "linha1": 0.6,
+            "linha2": 0.8,
+            "linha3": 0.7,
+            "linha4": 0.6,
+            "linha5": 0.8,
+            "linha6": 0.5,
+            "linha7": 0.7,
+            "linha7b": 0.6,
+            "linha9": 1,
+            "linha15": 0.7
+          }
+        },
+        {
+          "text": "Abro o pacote para ver o que tem dentro. 🎁",
+          "points": {
+            "linha1": 0.7,
+            "linha2": 0.6,
+            "linha3": 0.8,
+            "linha4": 0.7,
+            "linha5": 0.6,
+            "linha6": 0.7,
+            "linha7": 1,
+            "linha7b": 0.8,
+            "linha9": 0.6,
+            "linha15": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você entra no vagão e percebe que todos estão fantasiados, mas não é carnaval. O que você faz?",
+      "answers": [
+        {
+          "text": "Finjo que também estou fantasiado e entro na brincadeira. 🎭",
+          "points": {
+            "linha1": 0.6,
+            "linha2": 0.7,
+            "linha3": 0.8,
+            "linha4": 0.5,
+            "linha5": 0.4,
+            "linha6": 0.7,
+            "linha7": 0.8,
+            "linha7b": 0.8,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Pergunto se estou no trem ou em uma festa à fantasia. 🎉",
+          "points": {
+            "linha1": 0.7,
+            "linha2": 0.6,
+            "linha3": 0.5,
+            "linha4": 0.8,
+            "linha5": 1,
+            "linha6": 0.5,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Tiro selfies com todos para postar no Instagram. 🤳",
+          "points": {
+            "linha1": 0.5,
+            "linha2": 0.8,
+            "linha3": 0.6,
+            "linha4": 0.7,
+            "linha5": 0.4,
+            "linha6": 1,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.8
+          }
+        },
+        {
+          "text": "Saio na próxima estação procurando a realidade. 🚉",
+          "points": {
+            "linha1": 0.8,
+            "linha2": 0.6,
+            "linha3": 0.7,
+            "linha4": 0.5,
+            "linha5": 0.4,
+            "linha6": 0.8,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você percebe que entrou na linha errada e está indo para o lado oposto. O que você faz?",
+      "answers": [
+        {
+          "text": "Desço na próxima estação e volto pelo caminho certo. 🔄",
+          "points": {
+            "linha1": 0.7,
+            "linha2": 0.6,
+            "linha3": 0.5,
+            "linha4": 0.8,
+            "linha5": 0.4,
+            "linha6": 0.7,
+            "linha7": 0.8,
+            "linha7b": 0.8,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Aproveito para explorar uma nova área da cidade. 🗺️",
+          "points": {
+            "linha1": 0.8,
+            "linha2": 0.6,
+            "linha3": 0.7,
+            "linha4": 0.5,
+            "linha5": 0.4,
+            "linha6": 0.8,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Pergunto aos passageiros como corrigir a rota. ❓",
+          "points": {
+            "linha1": 0.5,
+            "linha2": 0.8,
+            "linha3": 0.6,
+            "linha4": 0.7,
+            "linha5": 0.4,
+            "linha6": 0.7,
+            "linha7": 0.6,
+            "linha7b": 0.8,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Entro em pânico e ligo para um amigo pedindo ajuda. 📞",
+          "points": {
+            "linha1": 0.6,
+            "linha2": 0.7,
+            "linha3": 0.8,
+            "linha4": 0.5,
+            "linha5": 0.4,
+            "linha6": 0.8,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você faz para passar o tempo durante a viagem de metrô?",
+      "answers": [
+        {
+          "text": "Leio um livro ou escuto um podcast intelectual. 📚",
+          "points": {
+            "linha1": 0.6,
+            "linha2": 1,
+            "linha3": 0.7,
+            "linha4": 0.5,
+            "linha5": 0.6,
+            "linha6": 0.7,
+            "linha7": 0.8,
+            "linha7b": 0.6,
+            "linha9": 0.7,
+            "linha15": 0.5
+          }
+        },
+        {
+          "text": "Jogo no celular até a bateria acabar. 🎮",
+          "points": {
+            "linha1": 0.5,
+            "linha2": 0.7,
+            "linha3": 0.6,
+            "linha4": 1,
+            "linha5": 0.5,
+            "linha6": 0.8,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.7,
+            "linha15": 0.6
+          }
+        },
+        {
+          "text": "Observo as pessoas e imagino suas vidas. 👀",
+          "points": {
+            "linha1": 0.7,
+            "linha2": 0.6,
+            "linha3": 1,
+            "linha4": 0.7,
+            "linha5": 0.8,
+            "linha6": 0.6,
+            "linha7": 0.5,
+            "linha7b": 0.7,
+            "linha9": 0.6,
+            "linha15": 0.7
+          }
+        },
+        {
+          "text": "Durmo e torço para não perder minha estação. 😴",
+          "points": {
+            "linha1": 1,
+            "linha2": 0.7,
+            "linha3": 0.6,
+            "linha4": 0.5,
+            "linha5": 0.7,
+            "linha6": 0.8,
+            "linha7": 0.6,
+            "linha7b": 0.7,
+            "linha9": 0.5,
+            "linha15": 0.6
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "linha1": {
+      "title": "Linha Azul (Linha 1) - A Maratonista",
+      "emoji": "🔵",
+      "subtitle": "Sempre correndo, mas nunca chega.",
+      "text": "Você é a Linha Azul, a mais antiga e que atravessa a cidade de norte a sul. Sempre cheia, sempre atrasada, mas ninguém vive sem você. Se gosta de uma rotina caótica e de ser empurrado diariamente, essa é a sua linha! 😂"
+    },
+    "linha2": {
+      "title": "Linha Verde (Linha 2) - A Intelectual",
+      "emoji": "🟢",
+      "subtitle": "Ligando os pontos mais cult da cidade.",
+      "text": "Você é a Linha Verde, passando por áreas nobres e cheias de cultura. Se aprecia uma boa livraria e um café gourmet, enquanto reclama do preço do aluguel, encontrou sua linha ideal! 📚"
+    },
+    "linha3": {
+      "title": "Linha Vermelha (Linha 3) - A Sufocante",
+      "emoji": "🔴",
+      "subtitle": "Sempre lotada, sempre um desafio.",
+      "text": "Você é a Linha Vermelha, famosa por estar mais cheia que coração de mãe. Se gosta de viver perigosamente, sendo esmagado por desconhecidos, essa é a sua praia! 🥊"
+    },
+    "linha4": {
+      "title": "Linha Amarela (Linha 4) - A Inacabada",
+      "emoji": "🟡",
+      "subtitle": "Prometeu muito, entregou pouco.",
+      "text": "Você é a Linha Amarela, moderna, cheia de tecnologia, mas que vive dando problema. Se identifica com promessas não cumpridas e atrasos constantes? Bem-vindo a bordo! 🛠️"
+    },
+    "linha5": {
+      "title": "Linha Lilás (Linha 5) - A Profunda",
+      "emoji": "🟣",
+      "subtitle": "Tão funda que o Wi-Fi nem sonha em chegar.",
+      "text": "Você é a Linha Lilás, com estações tão profundas que dá para encontrar petróleo. Se gosta de se sentir isolado do mundo, sem sinal de celular, achou sua linha! 🚀"
+    },
+    "linha6": {
+      "title": "Linha Laranja (Linha 6) - A Lenda Urbana",
+      "emoji": "🟠",
+      "subtitle": "Todo mundo fala, ninguém nunca viu.",
+      "text": "Você é a Linha Laranja, aquela que está sempre 'em construção'. Se é do tipo que promete começar a dieta na segunda, mas nunca começa, essa é a sua linha! 🏗️"
+    },
+    "linha9": {
+      "title": "Linha Esmeralda (Linha 9) - A Travessia do Rio",
+      "emoji": "💚",
+      "subtitle": "Odores e Paisagens Marginais",
+      "text": "Parabéns! Você é a Linha Esmeralda, que margeia o famoso Rio Pinheiros. Prepare-se para uma viagem com vistas 'deslumbrantes' e aromas 'inesquecíveis'. Se você aprecia a natureza urbana em sua forma mais crua, essa é a sua linha! 🌊"
+    },
+    "linha15": {
+      "title": "Linha Prata (Linha 15) - O Monotrilho da Incerteza",
+      "emoji": "⚪️",
+      "subtitle": "Suspenso Entre o Futuro e o Passado",
+      "text": "Você é a Linha Prata, o monotrilho que prometia revolucionar, mas acabou deixando todo mundo no suspense. Se você gosta de viver entre a esperança e a realidade, embarque nessa linha aérea! 🚝"
+    },
+    "linha7": {
+      "title": "Linha Diamante (Linha 7) - O Shopping Trem",
+      "emoji": "💎",
+      "subtitle": "Brilhante, mas cheia de defeitos.",
+      "text": "Você é a Linha Diamante, onde cada vagão é uma loja e cada viagem, uma oportunidade de compras. Se você gosta de variedade, mas odeia ser interrompido por vendedores ambulantes, essa linha é para você! 🛍️"
+    },
+    "linha7b": {
+      "title": "Linha Rubi (Linha 7) - A Viagem Prolongada",
+      "emoji": "❤️",
+      "subtitle": "A Viagem que Nunca Acaba",
+      "text": "Você é a Linha Rubi, a linha que leva uma eternidade para chegar a Jundiaí. Lotada, sem frescura, mas com muito drama. Se gosta de ser comprimido por horas dentro de um vagão e de se perguntar 'Por que eu estou aqui?', essa é a sua linha! 🕺"
+    }
+  }
+}
