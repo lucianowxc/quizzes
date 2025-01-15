@@ -745,3 +745,103 @@ function toggleQuizSelection() {
         collapsible.classList.add('active');
     }
 }
+
+// Add this new function
+function rebalanceCurrentQuiz() {
+    if (!quizState.currentQuiz) {
+        alert('Nenhum quiz carregado para rebalancear.');
+        return;
+    }
+
+    const quizData = quizState.currentQuiz;
+
+    // Função para calcular a média de pontos para cada linha
+    function calculateAverages(quiz) {
+        const averages = {};
+        const count = quiz.questions.length;
+
+        quiz.questions.forEach(question => {
+            question.answers.forEach(answer => {
+                Object.keys(answer.points).forEach(line => {
+                    if (!averages[line]) {
+                        averages[line] = 0;
+                    }
+                    averages[line] += answer.points[line];
+                });
+            });
+        });
+
+        Object.keys(averages).forEach(line => {
+            averages[line] /= count;
+        });
+
+        return averages;
+    }
+
+    // Função para ajustar os pontos de cada resposta para equilibrar as médias
+    function adjustPoints(quiz, targetAverage, tolerance = 0.01, maxIterations = 1000) {
+        // Adicionar uma pequena quantidade de pontos a cada linha em todas as respostas
+        const lines = Object.keys(quiz.descriptions);
+        const smallBonus = 0.01; // Pequena quantidade de pontos a ser adicionada
+
+        quiz.questions.forEach(question => {
+            question.answers.forEach(answer => {
+                lines.forEach(line => {
+                    if (!answer.points[line]) {
+                        answer.points[line] = smallBonus;
+                    } else {
+                        answer.points[line] += smallBonus;
+                    }
+                });
+            });
+        });
+
+        for (let iteration = 0; iteration < maxIterations; iteration++) {
+            const averages = calculateAverages(quiz);
+            let allWithinTolerance = true;
+
+            Object.keys(averages).forEach(line => {
+                if (Math.abs(averages[line] - targetAverage) >= tolerance) {
+                    allWithinTolerance = false;
+                }
+            });
+
+            if (allWithinTolerance) {
+                break;
+            }
+
+            quiz.questions.forEach(question => {
+                question.answers.forEach(answer => {
+                    const totalPoints = Object.values(answer.points).reduce((sum, points) => sum + points, 0);
+
+                    Object.keys(answer.points).forEach(line => {
+                        const currentAvg = averages[line];
+                        const adjustmentFactor = currentAvg !== 0 ? targetAverage / currentAvg : 1;
+                        let newPoints = answer.points[line] * adjustmentFactor;
+                        // Normalizar os pontos para manter a soma constante
+                        newPoints *= totalPoints / Object.values(answer.points).reduce((sum, points) => sum + points, 0);
+                        answer.points[line] = parseFloat(newPoints.toFixed(4));
+                    });
+                });
+            });
+        }
+
+        return quiz;
+    }
+
+    const numLines = Object.keys(quizData.descriptions).length;
+    const targetAverage = 1.0 / numLines;
+
+    const balancedQuiz = adjustPoints(quizData, targetAverage);
+
+    // Permitir download do novo arquivo JSON
+    const blob = new Blob([JSON.stringify(balancedQuiz, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `${quizData.title.replace(/\s+/g, '_')}_rebalanceado.json`;
+    a.click();
+    URL.revokeObjectURL(url);
+
+    alert('Quiz rebalanceado e pronto para download.');
+}

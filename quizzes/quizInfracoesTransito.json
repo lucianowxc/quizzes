@@ -1,360 +1,493 @@
 {
-    "title": "Por que você perderia sua CNH?",
-    "questions": [
-      {
-        "question": "O que te atrai na estrada?",
-        "answers": [
-          {
-            "text": "🏃‍♀️ A sensação de liberdade e controle.",
-            "points": {
-              "Apressadinho": 1,
-              "Sonhador(a)": 0.4,
-              "Rebelde": 0.3,
-              "Multitarefa": 0.2,
-              "Desafiador(a)": 0.5
-            }
-          },
-          {
-            "text": "🌍 A descoberta de novos lugares e culturas.",
-            "points": {
-              "Sonhador(a)": 1,
-              "Boêmio(a)": 0.3,
-              "Distraído(a)": 0.4
-            }
-          },
-          {
-            "text": "💥 A adrenalina de quebrar as regras.",
-            "points": {
-              "Rebelde": 1,
-              "Desafiador(a)": 0.8,
-              "Apressadinho": 0.4,
-              "Boêmio(a)": 0.3
-            }
-          },
-          {
-            "text": "🎧 A oportunidade de ser o(a) DJ da viagem.",
-            "points": {
-              "Multitarefa": 1,
-              "Boêmio(a)": 0.4,
-              "Conectado(a)": 0.3
-            }
+  "title": "Por que você perderia sua CNH?",
+  "questions": [
+    {
+      "question": "O que te atrai na estrada?",
+      "answers": [
+        {
+          "text": "🏃‍♀️ A sensação de liberdade e controle.",
+          "points": {
+            "Apressadinho": 0.0571,
+            "Sonhador(a)": 0.0438,
+            "Rebelde": 0.0453,
+            "Multitarefa": 0.0439,
+            "Desafiador(a)": 0.0679,
+            "Distraído(a)": 0.0046,
+            "Conectado(a)": 0.006,
+            "Boêmio(a)": 0.0038
           }
-        ]
-      },
-      {
-        "question": "Como você reage a uma blitz de trânsito?",
-        "answers": [
-          {
-            "text": "🏃‍♀️ Acelero e tento escapar.",
-            "points": {
-              "Apressadinho": 1,
-              "Rebelde": 0.6,
-              "Desafiador(a)": 0.8,
-              "Multitarefa": 0.3
-            }
-          },
-          {
-            "text": "😎 Finjo calma e sigo as instruções.",
-            "points": {
-              "Multitarefa": 0.6,
-              "Conectado(a)": 0.4,
-              "Sonhador(a)": 0.2,
-              "Desafiador(a)": 0.3
-            }
-          },
-          {
-            "text": "🙏 Abaixo a cabeça e rezo para não ser notado(a).",
-            "points": {
-              "Distraído(a)": 1,
-              "Sonhador(a)": 0.3,
-              "Boêmio(a)": 0.2
-            }
-          },
-          {
-            "text": "🗣️ Enfrento com confiança, pronto(a) para argumentar.",
-            "points": {
-              "Rebelde": 0.5,
-              "Conectado(a)": 0.3,
-              "Boêmio(a)": 0.2
-            }
+        },
+        {
+          "text": "🌍 A descoberta de novos lugares e culturas.",
+          "points": {
+            "Sonhador(a)": 0.0594,
+            "Boêmio(a)": 0.031,
+            "Distraído(a)": 0.0815,
+            "Apressadinho": 0.0047,
+            "Rebelde": 0.0051,
+            "Multitarefa": 0.0057,
+            "Conectado(a)": 0.006,
+            "Desafiador(a)": 0.003
           }
-        ]
-      },
-      {
-        "question": "O que te faz perder a concentração ao volante?",
-        "answers": [
-          {
-            "text": "🧭 Pensar em todas as possibilidades de rotas.",
-            "points": {
-              "Multitarefa": 1,
-              "Distraído(a)": 0.5,
-              "Sonhador(a)": 0.3
-            }
-          },
-          {
-            "text": "🌅 A beleza do pôr do sol.",
-            "points": {
-              "Sonhador(a)": 1,
-              "Boêmio(a)": 0.3,
-              "Distraído(a)": 0.6
-            }
-          },
-          {
-            "text": "👫 Uma conversa interessante com os passageiros.",
-            "points": {
-              "Multitarefa": 0.4,
-              "Boêmio(a)": 1,
-              "Distraído(a)": 0.4,
-              "Desafiador(a)": 0.3
-            }
-          },
-          {
-            "text": "🔈 A falta de música para animar a viagem.",
-            "points": {
-              "Boêmio(a)": 1,
-              "Conectado(a)": 0.4,
-              "Distraído(a)": 0.2,
-              "Desafiador(a)": 0.5
-            }
+        },
+        {
+          "text": "💥 A adrenalina de quebrar as regras.",
+          "points": {
+            "Rebelde": 0.06,
+            "Desafiador(a)": 0.0454,
+            "Apressadinho": 0.078,
+            "Boêmio(a)": 0.0719,
+            "Sonhador(a)": 0.0052,
+            "Multitarefa": 0.0059,
+            "Distraído(a)": 0.0048,
+            "Conectado(a)": 0.0063
           }
-        ]
-      },
-      {
-        "question": "Qual é a sua atitude em relação às multas?",
-        "answers": [
-          {
-            "text": "🏆 Vejo como um desafio a ser superado.",
-            "points": {
-              "Apressadinho": 0.5,
-              "Rebelde": 0.4,
-              "Multitarefa": 0.6
-            }
-          },
-          {
-            "text": "🛑 Aceito como um lembrete para ser mais cauteloso(a).",
-            "points": {
-              "Multitarefa": 0.5,
-              "Distraído(a)": 1,
-              "Sonhador(a)": 0.3,
-              "Conectado(a)": 0.2
-            }
-          },
-          {
-            "text": "🤬 Fico indignado(a) e questiono a autoridade.",
-            "points": {
-              "Rebelde": 1,
-              "Desafiador(a)": 0.7,
-              "Conectado(a)": 0.3,
-              "Boêmio(a)": 0.2
-            }
-          },
-          {
-            "text": "🏅 Considero como um troféu de minhas aventuras.",
-            "points": {
-              "Rebelde": 0.6,
-              "Desafiador(a)": 1,
-              "Boêmio(a)": 0.4,
-              "Apressadinho": 0.3
-            }
+        },
+        {
+          "text": "🎧 A oportunidade de ser o(a) DJ da viagem.",
+          "points": {
+            "Multitarefa": 0.0664,
+            "Boêmio(a)": 0.0411,
+            "Conectado(a)": 0.0905,
+            "Apressadinho": 0.0043,
+            "Sonhador(a)": 0.0045,
+            "Rebelde": 0.0046,
+            "Distraído(a)": 0.0042,
+            "Desafiador(a)": 0.0027
           }
-        ]
-      },
-      {
-        "question": "O que te motiva a dirigir?",
-        "answers": [
-          {
-            "text": "💪 A sensação de poder e controle.",
-            "points": {
-              "Apressadinho": 1,
-              "Rebelde": 0.5,
-              "Desafiador(a)": 0.6,
-              "Multitarefa": 0.3
-            }
-          },
-          {
-            "text": "🛣️ A liberdade de explorar novos caminhos.",
-            "points": {
-              "Sonhador(a)": 1,
-              "Boêmio(a)": 0.3,
-              "Distraído(a)": 0.4,
-              "Desafiador(a)": 0.2
-            }
-          },
-          {
-            "text": "🎢 A emoção de viver no limite.",
-            "points": {
-              "Rebelde": 1,
-              "Desafiador(a)": 0.8,
-              "Apressadinho": 0.5,
-              "Boêmio(a)": 0.4
-            }
-          },
-          {
-            "text": "🌅 A chance de escapar da rotina.",
-            "points": {
-              "Sonhador(a)": 0.5,
-              "Boêmio(a)": 1,
-              "Distraído(a)": 0.3,
-              "Desafiador(a)": 0.2
-            }
+        }
+      ]
+    },
+    {
+      "question": "Como você reage a uma blitz de trânsito?",
+      "answers": [
+        {
+          "text": "🏃‍♀️ Acelero e tento escapar.",
+          "points": {
+            "Apressadinho": 0.0571,
+            "Rebelde": 0.0607,
+            "Desafiador(a)": 0.0662,
+            "Multitarefa": 0.1171,
+            "Sonhador(a)": 0.0049,
+            "Distraído(a)": 0.0044,
+            "Conectado(a)": 0.0059,
+            "Boêmio(a)": 0.0036
           }
-        ]
-      },
-      {
-        "question": "O que te leva a quebrar as regras de trânsito?",
-        "answers": [
-          {
-            "text": "⏱️ A necessidade de chegar mais rápido.",
-            "points": {
-              "Apressadinho": 1,
-              "Multitarefa": 0.4,
-              "Rebelde": 0.5,
-              "Desafiador(a)": 0.6
-            }
-          },
-          {
-            "text": "🌌 A curiosidade de explorar o desconhecido.",
-            "points": {
-              "Sonhador(a)": 1,
-              "Boêmio(a)": 0.3,
-              "Distraído(a)": 0.5
-            }
-          },
-          {
-            "text": "👑 A sensação de estar acima das regras.",
-            "points": {
-              "Rebelde": 1,
-              "Desafiador(a)": 0.6,
-              "Apressadinho": 0.4,
-              "Boêmio(a)": 0.3
-            }
-          },
-          {
-            "text": "👎 A falta de respeito pelas leis.",
-            "points": {
-              "Rebelde": 0.6,
-              "Desafiador(a)": 1,
-              "Conectado(a)": 0.4,
-              "Boêmio(a)": 0.2
-            }
+        },
+        {
+          "text": "😎 Finjo calma e sigo as instruções.",
+          "points": {
+            "Multitarefa": 0.04,
+            "Conectado(a)": 0.0483,
+            "Sonhador(a)": 0.0379,
+            "Desafiador(a)": 0.0423,
+            "Apressadinho": 0.0045,
+            "Rebelde": 0.0048,
+            "Distraído(a)": 0.0044,
+            "Boêmio(a)": 0.0035
           }
-        ]
-      },
-      {
-        "question": "O que você faria se descobrisse que seu(sua) melhor amigo(a) está dirigindo sem CNH?",
-        "answers": [
-          {
-            "text": "🤝 O(A) Cúmplice: Eu me juntaria a ele(a) na aventura.",
-            "points": {
-              "Rebelde": 0.6,
-              "Desafiador(a)": 0.8,
-              "Boêmio(a)": 0.5,
-              "Apressadinho": 0.4
-            }
-          },
-          {
-            "text": "🛡️ O(A) Protetor(a): Tentaria convencê-lo(a) a parar.",
-            "points": {
-              "Multitarefa": 0.5,
-              "Distraído(a)": 0.4,
-              "Sonhador(a)": 0.3,
-              "Conectado(a)": 0.6
-            }
-          },
-          {
-            "text": "👮‍♀️ O(A) Denunciante: Iria imediatamente à polícia.",
-            "points": {
-              "Conectado(a)": 1,
-              "Desafiador(a)": 0.4,
-              "Rebelde": 0.5,
-              "Sonhador(a)": 0.2
-            }
-          },
-          {
-            "text": "🤔 O(A) Indeciso(a): Ficaria em conflito, dividido(a).",
-            "points": {
-              "Multitarefa": 0.4,
-              "Distraído(a)": 0.5,
-              "Sonhador(a)": 0.4,
-              "Apressadinho": 0.3
-            }
-          },
-          {
-            "text": "😎 O(A) Conivente: Fingiria não ver e continuaria a viagem.",
-            "points": {
-              "Boêmio(a)": 1,
-              "Apressadinho": 0.5,
-              "Rebelde": 0.4,
-              "Desafiador(a)": 0.3
-            }
-          },
-          {
-            "text": "📢 O(A) Conselheir(o/a): Daria um sermão sobre os riscos.",
-            "points": {
-              "Conectado(a)": 0.5,
-              "Sonhador(a)": 1,
-              "Multitarefa": 0.4
-            }
-          },
-          {
-            "text": "🕵️‍♀️ O(A) Curioso(a): Ficaria fascinado(a) e perguntaria detalhes.",
-            "points": {
-              "Sonhador(a)": 0.5,
-              "Distraído(a)": 1,
-              "Conectado(a)": 0.3
-            }
+        },
+        {
+          "text": "🙏 Abaixo a cabeça e rezo para não ser notado(a).",
+          "points": {
+            "Distraído(a)": 0.0539,
+            "Sonhador(a)": 0.054,
+            "Boêmio(a)": 0.0436,
+            "Apressadinho": 0.0047,
+            "Rebelde": 0.0049,
+            "Multitarefa": 0.0056,
+            "Conectado(a)": 0.0059,
+            "Desafiador(a)": 0.003
           }
-        ]
-      }
-    ],
-    "descriptions": {
-      "Apressadinho": {
-        "title": "O Apressadinho",
-        "emoji": "🏃‍♂️",
-        "subtitle": "Veloz e Furioso(a)",
-        "text": "Você é movido(a) pela adrenalina e a velocidade está em seu sangue. A vida é uma corrida contra o tempo, e você está sempre pronto(a) para acelerar. Cuidado para não ultrapassar os limites e acabar em uma situação perigosa."
-      },
-      "Sonhador(a)": {
-        "title": "O(A) Sonhador(a)",
-        "emoji": "🌌",
-        "subtitle": "Viajante das Galáxias",
-        "text": "Sua mente é um universo de possibilidades infinitas. Você está sempre perdido(a) em devaneios, imaginando mundos além do alcance. A realidade pode ser um pouco nebulosa quando você está ao volante, mas sua criatividade é incomparável."
-      },
-      "Rebelde": {
-        "title": "O(A) Rebelde Sem Causa",
-        "emoji": "🦹‍♀️",
-        "subtitle": "Revolucionário(a) das Estradas",
-        "text": "Você questiona a autoridade e desafia as normas estabelecidas. Regras de trânsito são apenas sugestões que você ignora com estilo. Sua rebeldia pode trazer emoção à sua jornada, mas também algumas surpresas indesejadas."
-      },
-      "Multitarefa": {
-        "title": "O(A) Multitarefa",
-        "emoji": "🤹‍♀️",
-        "subtitle": "Mestre(a) do Equilíbrio",
-        "text": "Equilibrar várias tarefas é a sua arte. Você acredita que pode fazer malabarismos com compromissos e responsabilidades, mas às vezes, o excesso de confiança pode levar a situações complicadas. Cuidado para não perder o controle enquanto tenta controlar tudo."
-      },
-      "Distraído(a)": {
-        "title": "O(A) Distraído(a)",
-        "emoji": "😴",
-        "subtitle": "Mente no Mundo dos Sonhos",
-        "text": "Sua mente vagueia por reinos distantes enquanto dirige. Sinais de trânsito e limites de velocidade são meros detalhes em sua jornada mental. Cuidado, pois a distração pode ser a causa de encontros inesperados com a lei e situações cômicas."
-      },
-      "Conectado(a)": {
-        "title": "O(A) Conectado(a)",
-        "emoji": "📱",
-        "subtitle": "Viciado(a) em Tecnologia",
-        "text": "Você é o(a) mestre(a) da tecnologia, sempre conectado(a) e atualizado(a). Dirigir é apenas mais uma tarefa que você realiza enquanto responde mensagens, navega nas redes sociais e curte memes. Cuidado, pois a distração digital pode ser tão perigosa quanto a física."
-      },
-      "Boêmio(a)": {
-        "title": "O(A) Boêmio(a)",
-        "emoji": "🍸",
-        "subtitle": "Alma da Festa",
-        "text": "Você é o(a) espírito da festa, sempre pronto(a) para uma boa celebração. Dirigir é apenas um meio de chegar ao próximo destino animado. Cuidado, pois a diversão pode nublar seu julgamento e levar a decisões questionáveis."
-      },
-      "Desafiador(a)": {
-        "title": "O(A) Desafiador(a) da Lei",
-        "emoji": "👁️‍🗨️",
-        "subtitle": "Fora da Lei",
-        "text": "Você é um(a) rebelde nato(a), desafiando as regras e vivendo à margem da lei. Dirigir sem CNH é apenas um pequeno detalhe em sua vida de aventuras. Cuidado, pois as consequências podem ser mais sérias do que você imagina."
-      }
+        },
+        {
+          "text": "🗣️ Enfrento com confiança, pronto(a) para argumentar.",
+          "points": {
+            "Rebelde": 0.0303,
+            "Conectado(a)": 0.0403,
+            "Boêmio(a)": 0.0353,
+            "Apressadinho": 0.0042,
+            "Sonhador(a)": 0.0045,
+            "Multitarefa": 0.0052,
+            "Distraído(a)": 0.0043,
+            "Desafiador(a)": 0.0028
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que te faz perder a concentração ao volante?",
+      "answers": [
+        {
+          "text": "🧭 Pensar em todas as possibilidades de rotas.",
+          "points": {
+            "Multitarefa": 0.0664,
+            "Distraído(a)": 0.0621,
+            "Sonhador(a)": 0.0825,
+            "Apressadinho": 0.0043,
+            "Rebelde": 0.0045,
+            "Conectado(a)": 0.0053,
+            "Boêmio(a)": 0.0033,
+            "Desafiador(a)": 0.0027
+          }
+        },
+        {
+          "text": "🌅 A beleza do pôr do sol.",
+          "points": {
+            "Sonhador(a)": 0.0594,
+            "Boêmio(a)": 0.0277,
+            "Distraído(a)": 0.0995,
+            "Apressadinho": 0.005,
+            "Rebelde": 0.0053,
+            "Multitarefa": 0.0059,
+            "Conectado(a)": 0.0062,
+            "Desafiador(a)": 0.0031
+          }
+        },
+        {
+          "text": "👫 Uma conversa interessante com os passageiros.",
+          "points": {
+            "Multitarefa": 0.0269,
+            "Boêmio(a)": 0.0548,
+            "Distraído(a)": 0.0673,
+            "Desafiador(a)": 0.0547,
+            "Apressadinho": 0.0053,
+            "Sonhador(a)": 0.0055,
+            "Rebelde": 0.0056,
+            "Conectado(a)": 0.0065
+          }
+        },
+        {
+          "text": "🔈 A falta de música para animar a viagem.",
+          "points": {
+            "Boêmio(a)": 0.0426,
+            "Conectado(a)": 0.0569,
+            "Distraído(a)": 0.0361,
+            "Desafiador(a)": 0.0697,
+            "Apressadinho": 0.0052,
+            "Sonhador(a)": 0.0055,
+            "Rebelde": 0.0055,
+            "Multitarefa": 0.0063
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua atitude em relação às multas?",
+      "answers": [
+        {
+          "text": "🏆 Vejo como um desafio a ser superado.",
+          "points": {
+            "Apressadinho": 0.0288,
+            "Rebelde": 0.0382,
+            "Multitarefa": 0.097,
+            "Sonhador(a)": 0.0045,
+            "Distraído(a)": 0.0041,
+            "Conectado(a)": 0.0055,
+            "Boêmio(a)": 0.0034,
+            "Desafiador(a)": 0.0028
+          }
+        },
+        {
+          "text": "🛑 Aceito como um lembrete para ser mais cauteloso(a).",
+          "points": {
+            "Multitarefa": 0.0336,
+            "Distraído(a)": 0.074,
+            "Sonhador(a)": 0.0647,
+            "Conectado(a)": 0.0764,
+            "Apressadinho": 0.0042,
+            "Rebelde": 0.0045,
+            "Boêmio(a)": 0.0032,
+            "Desafiador(a)": 0.0026
+          }
+        },
+        {
+          "text": "🤬 Fico indignado(a) e questiono a autoridade.",
+          "points": {
+            "Rebelde": 0.06,
+            "Desafiador(a)": 0.0431,
+            "Conectado(a)": 0.0805,
+            "Boêmio(a)": 0.0537,
+            "Apressadinho": 0.0048,
+            "Sonhador(a)": 0.005,
+            "Multitarefa": 0.0057,
+            "Distraído(a)": 0.0047
+          }
+        },
+        {
+          "text": "🏅 Considero como um troféu de minhas aventuras.",
+          "points": {
+            "Rebelde": 0.0363,
+            "Desafiador(a)": 0.0463,
+            "Boêmio(a)": 0.0553,
+            "Apressadinho": 0.0975,
+            "Sonhador(a)": 0.0052,
+            "Multitarefa": 0.0059,
+            "Distraído(a)": 0.0047,
+            "Conectado(a)": 0.0063
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que te motiva a dirigir?",
+      "answers": [
+        {
+          "text": "💪 A sensação de poder e controle.",
+          "points": {
+            "Apressadinho": 0.0571,
+            "Rebelde": 0.0546,
+            "Desafiador(a)": 0.0531,
+            "Multitarefa": 0.1091,
+            "Sonhador(a)": 0.0047,
+            "Distraído(a)": 0.0043,
+            "Conectado(a)": 0.0057,
+            "Boêmio(a)": 0.0035
+          }
+        },
+        {
+          "text": "🛣️ A liberdade de explorar novos caminhos.",
+          "points": {
+            "Sonhador(a)": 0.0594,
+            "Boêmio(a)": 0.0276,
+            "Distraído(a)": 0.0668,
+            "Desafiador(a)": 0.04,
+            "Apressadinho": 0.0049,
+            "Rebelde": 0.0053,
+            "Multitarefa": 0.0059,
+            "Conectado(a)": 0.0062
+          }
+        },
+        {
+          "text": "🎢 A emoção de viver no limite.",
+          "points": {
+            "Rebelde": 0.06,
+            "Desafiador(a)": 0.0434,
+            "Apressadinho": 0.0849,
+            "Boêmio(a)": 0.0867,
+            "Sonhador(a)": 0.0053,
+            "Multitarefa": 0.006,
+            "Distraído(a)": 0.0048,
+            "Conectado(a)": 0.0064
+          }
+        },
+        {
+          "text": "🌅 A chance de escapar da rotina.",
+          "points": {
+            "Sonhador(a)": 0.03,
+            "Boêmio(a)": 0.0584,
+            "Distraído(a)": 0.0625,
+            "Desafiador(a)": 0.0426,
+            "Apressadinho": 0.0052,
+            "Rebelde": 0.0055,
+            "Multitarefa": 0.0062,
+            "Conectado(a)": 0.0065
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que te leva a quebrar as regras de trânsito?",
+      "answers": [
+        {
+          "text": "⏱️ A necessidade de chegar mais rápido.",
+          "points": {
+            "Apressadinho": 0.0571,
+            "Multitarefa": 0.0479,
+            "Rebelde": 0.073,
+            "Desafiador(a)": 0.0745,
+            "Sonhador(a)": 0.0053,
+            "Distraído(a)": 0.0048,
+            "Conectado(a)": 0.0063,
+            "Boêmio(a)": 0.004
+          }
+        },
+        {
+          "text": "🌌 A curiosidade de explorar o desconhecido.",
+          "points": {
+            "Sonhador(a)": 0.0594,
+            "Boêmio(a)": 0.0292,
+            "Distraído(a)": 0.091,
+            "Apressadinho": 0.0049,
+            "Rebelde": 0.0051,
+            "Multitarefa": 0.0058,
+            "Conectado(a)": 0.0061,
+            "Desafiador(a)": 0.003
+          }
+        },
+        {
+          "text": "👑 A sensação de estar acima das regras.",
+          "points": {
+            "Rebelde": 0.06,
+            "Desafiador(a)": 0.036,
+            "Apressadinho": 0.0724,
+            "Boêmio(a)": 0.0685,
+            "Sonhador(a)": 0.0051,
+            "Multitarefa": 0.0059,
+            "Distraído(a)": 0.0047,
+            "Conectado(a)": 0.0062
+          }
+        },
+        {
+          "text": "👎 A falta de respeito pelas leis.",
+          "points": {
+            "Rebelde": 0.0363,
+            "Desafiador(a)": 0.0468,
+            "Conectado(a)": 0.0952,
+            "Boêmio(a)": 0.0551,
+            "Apressadinho": 0.0048,
+            "Sonhador(a)": 0.0052,
+            "Multitarefa": 0.0057,
+            "Distraído(a)": 0.0048
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você faria se descobrisse que seu(sua) melhor amigo(a) está dirigindo sem CNH?",
+      "answers": [
+        {
+          "text": "🤝 O(A) Cúmplice: Eu me juntaria a ele(a) na aventura.",
+          "points": {
+            "Rebelde": 0.0363,
+            "Desafiador(a)": 0.0371,
+            "Boêmio(a)": 0.0555,
+            "Apressadinho": 0.1103,
+            "Sonhador(a)": 0.0051,
+            "Multitarefa": 0.0058,
+            "Distraído(a)": 0.0047,
+            "Conectado(a)": 0.0062
+          }
+        },
+        {
+          "text": "🛡️ O(A) Protetor(a): Tentaria convencê-lo(a) a parar.",
+          "points": {
+            "Multitarefa": 0.0336,
+            "Distraído(a)": 0.0311,
+            "Sonhador(a)": 0.0372,
+            "Conectado(a)": 0.1172,
+            "Apressadinho": 0.0043,
+            "Rebelde": 0.0046,
+            "Boêmio(a)": 0.0033,
+            "Desafiador(a)": 0.0026
+          }
+        },
+        {
+          "text": "👮‍♀️ O(A) Denunciante: Iria imediatamente à polícia.",
+          "points": {
+            "Conectado(a)": 0.0691,
+            "Desafiador(a)": 0.0296,
+            "Rebelde": 0.0962,
+            "Sonhador(a)": 0.0677,
+            "Apressadinho": 0.0042,
+            "Multitarefa": 0.0049,
+            "Distraído(a)": 0.004,
+            "Boêmio(a)": 0.0033
+          }
+        },
+        {
+          "text": "🤔 O(A) Indeciso(a): Ficaria em conflito, dividido(a).",
+          "points": {
+            "Multitarefa": 0.0269,
+            "Distraído(a)": 0.0375,
+            "Sonhador(a)": 0.0567,
+            "Apressadinho": 0.0716,
+            "Rebelde": 0.0043,
+            "Conectado(a)": 0.0052,
+            "Boêmio(a)": 0.0032,
+            "Desafiador(a)": 0.0026
+          }
+        },
+        {
+          "text": "😎 O(A) Conivente: Fingiria não ver e continuaria a viagem.",
+          "points": {
+            "Boêmio(a)": 0.0426,
+            "Apressadinho": 0.0566,
+            "Rebelde": 0.0776,
+            "Desafiador(a)": 0.0515,
+            "Sonhador(a)": 0.0051,
+            "Multitarefa": 0.0058,
+            "Distraído(a)": 0.0047,
+            "Conectado(a)": 0.0061
+          }
+        },
+        {
+          "text": "📢 O(A) Conselheir(o/a): Daria um sermão sobre os riscos.",
+          "points": {
+            "Conectado(a)": 0.0349,
+            "Sonhador(a)": 0.088,
+            "Multitarefa": 0.1047,
+            "Apressadinho": 0.0042,
+            "Rebelde": 0.0045,
+            "Distraído(a)": 0.0041,
+            "Boêmio(a)": 0.0033,
+            "Desafiador(a)": 0.0026
+          }
+        },
+        {
+          "text": "🕵️‍♀️ O(A) Curioso(a): Ficaria fascinado(a) e perguntaria detalhes.",
+          "points": {
+            "Sonhador(a)": 0.03,
+            "Distraído(a)": 0.0757,
+            "Conectado(a)": 0.095,
+            "Apressadinho": 0.0045,
+            "Rebelde": 0.0048,
+            "Multitarefa": 0.0053,
+            "Boêmio(a)": 0.0035,
+            "Desafiador(a)": 0.0028
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "Apressadinho": {
+      "title": "O Apressadinho",
+      "emoji": "🏃‍♂️",
+      "subtitle": "Veloz e Furioso(a)",
+      "text": "Você é movido(a) pela adrenalina e a velocidade está em seu sangue. A vida é uma corrida contra o tempo, e você está sempre pronto(a) para acelerar. Cuidado para não ultrapassar os limites e acabar em uma situação perigosa."
+    },
+    "Sonhador(a)": {
+      "title": "O(A) Sonhador(a)",
+      "emoji": "🌌",
+      "subtitle": "Viajante das Galáxias",
+      "text": "Sua mente é um universo de possibilidades infinitas. Você está sempre perdido(a) em devaneios, imaginando mundos além do alcance. A realidade pode ser um pouco nebulosa quando você está ao volante, mas sua criatividade é incomparável."
+    },
+    "Rebelde": {
+      "title": "O(A) Rebelde Sem Causa",
+      "emoji": "🦹‍♀️",
+      "subtitle": "Revolucionário(a) das Estradas",
+      "text": "Você questiona a autoridade e desafia as normas estabelecidas. Regras de trânsito são apenas sugestões que você ignora com estilo. Sua rebeldia pode trazer emoção à sua jornada, mas também algumas surpresas indesejadas."
+    },
+    "Multitarefa": {
+      "title": "O(A) Multitarefa",
+      "emoji": "🤹‍♀️",
+      "subtitle": "Mestre(a) do Equilíbrio",
+      "text": "Equilibrar várias tarefas é a sua arte. Você acredita que pode fazer malabarismos com compromissos e responsabilidades, mas às vezes, o excesso de confiança pode levar a situações complicadas. Cuidado para não perder o controle enquanto tenta controlar tudo."
+    },
+    "Distraído(a)": {
+      "title": "O(A) Distraído(a)",
+      "emoji": "😴",
+      "subtitle": "Mente no Mundo dos Sonhos",
+      "text": "Sua mente vagueia por reinos distantes enquanto dirige. Sinais de trânsito e limites de velocidade são meros detalhes em sua jornada mental. Cuidado, pois a distração pode ser a causa de encontros inesperados com a lei e situações cômicas."
+    },
+    "Conectado(a)": {
+      "title": "O(A) Conectado(a)",
+      "emoji": "📱",
+      "subtitle": "Viciado(a) em Tecnologia",
+      "text": "Você é o(a) mestre(a) da tecnologia, sempre conectado(a) e atualizado(a). Dirigir é apenas mais uma tarefa que você realiza enquanto responde mensagens, navega nas redes sociais e curte memes. Cuidado, pois a distração digital pode ser tão perigosa quanto a física."
+    },
+    "Boêmio(a)": {
+      "title": "O(A) Boêmio(a)",
+      "emoji": "🍸",
+      "subtitle": "Alma da Festa",
+      "text": "Você é o(a) espírito da festa, sempre pronto(a) para uma boa celebração. Dirigir é apenas um meio de chegar ao próximo destino animado. Cuidado, pois a diversão pode nublar seu julgamento e levar a decisões questionáveis."
+    },
+    "Desafiador(a)": {
+      "title": "O(A) Desafiador(a) da Lei",
+      "emoji": "👁️‍🗨️",
+      "subtitle": "Fora da Lei",
+      "text": "Você é um(a) rebelde nato(a), desafiando as regras e vivendo à margem da lei. Dirigir sem CNH é apenas um pequeno detalhe em sua vida de aventuras. Cuidado, pois as consequências podem ser mais sérias do que você imagina."
     }
   }
+}

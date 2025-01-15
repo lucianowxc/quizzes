@@ -1,336 +1,336 @@
 {
-  "title": "Que tipo de inseto você seria?",
-  "questions": [
-    {
-      "question": "Qual é o seu habitat ideal?",
-      "answers": [
+    "title": "Que tipo de inseto você seria?",
+    "questions": [
         {
-          "text": "Florestas densas e úmidas 🌳",
-          "points": {
-            "Borboleta": 1,
-            "Formiga": 0.5,
-            "Besouro": 0.6,
-            "Abelha": 0.2,
-            "Louva-a-deus": 0.7
-          }
+            "question": "Qual é o seu habitat ideal?",
+            "answers": [
+                {
+                    "text": "Florestas densas e úmidas 🌳",
+                    "points": {
+                        "Borboleta": 0.0368,
+                        "Formiga": 0.04,
+                        "Besouro": 0.0652,
+                        "Abelha": 0.034,
+                        "Louva-a-deus": 0.0598
+                    }
+                },
+                {
+                    "text": "Jardins floridos 🌸",
+                    "points": {
+                        "Abelha": 0.0525,
+                        "Borboleta": 0.048,
+                        "Joaninha": 0.0666,
+                        "Grilo": 0.0625
+                    }
+                },
+                {
+                    "text": "Campos abertos e gramados 🌾",
+                    "points": {
+                        "Grilo": 0.027,
+                        "Formiga": 0.039,
+                        "Besouro": 0.0611,
+                        "Joaninha": 0.0437,
+                        "Bicho-pau": 0.1373
+                    }
+                },
+                {
+                    "text": "Áreas urbanas 🏙️",
+                    "points": {
+                        "Barata": 0.0618,
+                        "Mosca": 0.0577,
+                        "Formiga": 0.0907,
+                        "Abelha": 0.0693
+                    }
+                }
+            ]
         },
         {
-          "text": "Jardins floridos 🌸",
-          "points": {
-            "Abelha": 1,
-            "Borboleta": 0.8,
-            "Joaninha": 0.6,
-            "Grilo": 0.4
-          }
+            "question": "Qual é a sua atividade favorita?",
+            "answers": [
+                {
+                    "text": "Explorar novos lugares 🗺️",
+                    "points": {
+                        "Borboleta": 0.0368,
+                        "Grilo": 0.0309,
+                        "Besouro": 0.0679,
+                        "Formiga": 0.0793,
+                        "Louva-a-deus": 0.0692
+                    }
+                },
+                {
+                    "text": "Trabalhar em equipe 🤝",
+                    "points": {
+                        "Formiga": 0.0257,
+                        "Abelha": 0.0487,
+                        "Joaninha": 0.0524,
+                        "Mosca": 0.0802
+                    }
+                },
+                {
+                    "text": "Relaxar e aproveitar o sol ☀️",
+                    "points": {
+                        "Joaninha": 0.0385,
+                        "Borboleta": 0.0485,
+                        "Grilo": 0.0469,
+                        "Barata": 0.1478
+                    }
+                },
+                {
+                    "text": "Resolver problemas complexos 🧠",
+                    "points": {
+                        "Abelha": 0.0262,
+                        "Formiga": 0.0323,
+                        "Besouro": 0.0518,
+                        "Mosca": 0.0412,
+                        "Louva-a-deus": 0.0565
+                    }
+                }
+            ]
         },
         {
-          "text": "Campos abertos e gramados 🌾",
-          "points": {
-            "Grilo": 1,
-            "Formiga": 0.5,
-            "Besouro": 0.6,
-            "Joaninha": 0.4,
-            "Bicho-pau": 0.7
-          }
+            "question": "Como você lida com desafios?",
+            "answers": [
+                {
+                    "text": "Enfrento de frente, sem medo 🗡️",
+                    "points": {
+                        "Besouro": 0.0523,
+                        "Formiga": 0.0384,
+                        "Grilo": 0.0314,
+                        "Barata": 0.0743,
+                        "Louva-a-deus": 0.064
+                    }
+                },
+                {
+                    "text": "Procuro ajuda e trabalho em equipe 🤝",
+                    "points": {
+                        "Formiga": 0.0257,
+                        "Abelha": 0.036,
+                        "Joaninha": 0.0484,
+                        "Borboleta": 0.0692
+                    }
+                },
+                {
+                    "text": "Uso minha inteligência para encontrar soluções 🧠",
+                    "points": {
+                        "Abelha": 0.0262,
+                        "Mosca": 0.0407,
+                        "Borboleta": 0.0419,
+                        "Grilo": 0.031,
+                        "Louva-a-deus": 0.0659
+                    }
+                },
+                {
+                    "text": "Evito o confronto e tento me adaptar 🏃‍♂️",
+                    "points": {
+                        "Barata": 0.0618,
+                        "Mosca": 0.0475,
+                        "Joaninha": 0.0489,
+                        "Grilo": 0.0336,
+                        "Bicho-pau": 0.1489
+                    }
+                }
+            ]
         },
         {
-          "text": "Áreas urbanas 🏙️",
-          "points": {
-            "Barata": 1,
-            "Mosca": 0.8,
-            "Formiga": 0.5,
-            "Abelha": 0.2
-          }
+            "question": "Qual é a sua maior qualidade?",
+            "answers": [
+                {
+                    "text": "Beleza e elegância 🌟",
+                    "points": {
+                        "Borboleta": 0.0368,
+                        "Joaninha": 0.051,
+                        "Abelha": 0.0832,
+                        "Grilo": 0.0592
+                    }
+                },
+                {
+                    "text": "Força e resistência 💪",
+                    "points": {
+                        "Besouro": 0.0523,
+                        "Formiga": 0.0384,
+                        "Barata": 0.0719,
+                        "Grilo": 0.0312,
+                        "Louva-a-deus": 0.0646
+                    }
+                },
+                {
+                    "text": "Inteligência e estratégia 🧠",
+                    "points": {
+                        "Abelha": 0.0262,
+                        "Formiga": 0.0356,
+                        "Mosca": 0.0518,
+                        "Borboleta": 0.0683
+                    }
+                },
+                {
+                    "text": "Adaptabilidade e resiliência 🌍",
+                    "points": {
+                        "Barata": 0.0618,
+                        "Mosca": 0.0475,
+                        "Grilo": 0.0343,
+                        "Joaninha": 0.0485,
+                        "Bicho-pau": 0.1487
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é o seu maior medo?",
+            "answers": [
+                {
+                    "text": "Ser ignorado ou esquecido 😢",
+                    "points": {
+                        "Borboleta": 0.0368,
+                        "Joaninha": 0.0499,
+                        "Grilo": 0.0482,
+                        "Mosca": 0.1028
+                    }
+                },
+                {
+                    "text": "Perder minha comunidade ou equipe 💔",
+                    "points": {
+                        "Formiga": 0.0257,
+                        "Abelha": 0.0359,
+                        "Joaninha": 0.0479,
+                        "Besouro": 0.0957
+                    }
+                },
+                {
+                    "text": "Não conseguir me adaptar a mudanças 🌪️",
+                    "points": {
+                        "Barata": 0.0618,
+                        "Mosca": 0.0475,
+                        "Grilo": 0.0343,
+                        "Borboleta": 0.0465,
+                        "Bicho-pau": 0.148
+                    }
+                },
+                {
+                    "text": "Ser derrotado ou superado 💪",
+                    "points": {
+                        "Besouro": 0.0523,
+                        "Formiga": 0.0391,
+                        "Abelha": 0.0524,
+                        "Grilo": 0.0304,
+                        "Louva-a-deus": 0.0636
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é a sua reação ao encontrar um obstáculo inesperado?",
+            "answers": [
+                {
+                    "text": "Dou a volta e encontro outro caminho. 🔄",
+                    "points": {
+                        "Borboleta": 0.0368,
+                        "Formiga": 0.0387,
+                        "Besouro": 0.0613,
+                        "Abelha": 0.0607,
+                        "Louva-a-deus": 0.0621
+                    }
+                },
+                {
+                    "text": "Enfrento o obstáculo de frente, sem hesitar. 🗡️",
+                    "points": {
+                        "Besouro": 0.0523,
+                        "Formiga": 0.0384,
+                        "Grilo": 0.0314,
+                        "Barata": 0.0743,
+                        "Louva-a-deus": 0.064
+                    }
+                },
+                {
+                    "text": "Procuro ajuda e trabalho em equipe para superar. 🤝",
+                    "points": {
+                        "Formiga": 0.0257,
+                        "Abelha": 0.036,
+                        "Joaninha": 0.0484,
+                        "Borboleta": 0.0692
+                    }
+                },
+                {
+                    "text": "Uso minha inteligência para encontrar uma solução criativa. 🧠",
+                    "points": {
+                        "Abelha": 0.0262,
+                        "Mosca": 0.0407,
+                        "Borboleta": 0.0419,
+                        "Grilo": 0.031,
+                        "Louva-a-deus": 0.0659
+                    }
+                },
+                {
+                    "text": "Me camuflo e espero o perigo passar. 🪵",
+                    "points": {
+                        "Bicho-pau": 0.0487,
+                        "Mosca": 0.0625,
+                        "Joaninha": 0.075,
+                        "Grilo": 0.064
+                    }
+                }
+            ]
         }
-      ]
-    },
-    {
-      "question": "Qual é a sua atividade favorita?",
-      "answers": [
-        {
-          "text": "Explorar novos lugares 🗺️",
-          "points": {
-            "Borboleta": 1,
-            "Grilo": 0.8,
-            "Besouro": 0.6,
-            "Formiga": 0.5,
-            "Louva-a-deus": 0.7
-          }
+    ],
+    "descriptions": {
+        "Borboleta": {
+            "title": "Borboleta",
+            "emoji": "🦋",
+            "subtitle": "A Beleza Transformadora",
+            "text": "Você é uma Borboleta! Elegante, graciosa e sempre em busca de novas aventuras. Sua presença ilumina qualquer lugar e você está sempre pronto para se transformar e crescer."
         },
-        {
-          "text": "Trabalhar em equipe 🤝",
-          "points": {
-            "Formiga": 0.5,
-            "Abelha": 0.7,
-            "Joaninha": 0.6,
-            "Mosca": 0.4
-          }
+        "Formiga": {
+            "title": "Formiga",
+            "emoji": "🐜",
+            "subtitle": "A Trabalhadora Incansável",
+            "text": "Você é uma Formiga! Dedicada, trabalhadora e sempre em equipe. Você sabe que a união faz a força e está sempre disposto a ajudar seus amigos e comunidade."
         },
-        {
-          "text": "Relaxar e aproveitar o sol ☀️",
-          "points": {
-            "Joaninha": 1,
-            "Borboleta": 0.8,
-            "Grilo": 0.6,
-            "Barata": 0.4
-          }
+        "Besouro": {
+            "title": "Besouro",
+            "emoji": "🐞",
+            "subtitle": "A Força da Natureza",
+            "text": "Você é um Besouro! Forte, resistente e sempre pronto para enfrentar desafios. Sua determinação é inabalável e você nunca desiste, não importa o obstáculo."
         },
-        {
-          "text": "Resolver problemas complexos 🧠",
-          "points": {
-            "Abelha": 0.5,
-            "Formiga": 0.5,
-            "Besouro": 0.6,
-            "Mosca": 0.4,
-            "Louva-a-deus": 0.7
-          }
+        "Abelha": {
+            "title": "Abelha",
+            "emoji": "🐝",
+            "subtitle": "A Estrategista Doce",
+            "text": "Você é uma Abelha! Inteligente, estratégica e sempre trabalhando em prol do bem comum. Você sabe como resolver problemas complexos e é essencial para a harmonia do grupo."
+        },
+        "Joaninha": {
+            "title": "Joaninha",
+            "emoji": "🐞",
+            "subtitle": "A Sorte Encantadora",
+            "text": "Você é uma Joaninha! Pequena, encantadora e sempre trazendo sorte. Sua presença é um sinal de boas coisas por vir e você sempre encontra uma maneira de alegrar o dia de todos."
+        },
+        "Grilo": {
+            "title": "Grilo",
+            "emoji": "🦗",
+            "subtitle": "O Cantor Noturno",
+            "text": "Você é um Grilo! Alegre, musical e sempre em movimento. Você adora explorar novos lugares e sua música é um presente para todos ao seu redor."
+        },
+        "Barata": {
+            "title": "Barata",
+            "emoji": "🪳",
+            "subtitle": "A Sobrevivente Resiliente",
+            "text": "Você é uma Barata! Adaptável, resiliente e capaz de sobreviver nas condições mais difíceis. Você nunca desiste e sempre encontra uma maneira de seguir em frente."
+        },
+        "Mosca": {
+            "title": "Mosca",
+            "emoji": "🪰",
+            "subtitle": "A Exploradora Curiosa",
+            "text": "Você é uma Mosca! Curiosa, exploradora e sempre em busca de novas experiências. Você adora descobrir novos lugares e está sempre em movimento, explorando o mundo ao seu redor."
+        },
+        "Louva-a-deus": {
+            "title": "Louva-a-deus",
+            "emoji": "🦗",
+            "subtitle": "O Predador Pacífico",
+            "text": "Você é um Louva-a-deus! Calmo, calculista e mortal quando necessário. Você prefere observar e esperar o momento certo para agir, surpreendendo a todos com sua precisão."
+        },
+        "Bicho-pau": {
+            "title": "Bicho-pau",
+            "emoji": "🪵",
+            "subtitle": "O Mestre do Disfarce",
+            "text": "Você é um Bicho-pau! Mestre em se camuflar e passar despercebido. Você prefere evitar conflitos e se adaptar ao ambiente, mas quando necessário, sabe como se destacar."
         }
-      ]
-    },
-    {
-      "question": "Como você lida com desafios?",
-      "answers": [
-        {
-          "text": "Enfrento de frente, sem medo 🗡️",
-          "points": {
-            "Besouro": 1,
-            "Formiga": 0.5,
-            "Grilo": 0.6,
-            "Barata": 0.4,
-            "Louva-a-deus": 0.7
-          }
-        },
-        {
-          "text": "Procuro ajuda e trabalho em equipe 🤝",
-          "points": {
-            "Formiga": 0.5,
-            "Abelha": 0.5,
-            "Joaninha": 0.6,
-            "Borboleta": 0.4
-          }
-        },
-        {
-          "text": "Uso minha inteligência para encontrar soluções 🧠",
-          "points": {
-            "Abelha": 0.5,
-            "Mosca": 0.8,
-            "Borboleta": 0.6,
-            "Grilo": 0.4,
-            "Louva-a-deus": 0.7
-          }
-        },
-        {
-          "text": "Evito o confronto e tento me adaptar 🏃‍♂️",
-          "points": {
-            "Barata": 1,
-            "Mosca": 0.8,
-            "Joaninha": 0.6,
-            "Grilo": 0.4,
-            "Bicho-pau": 0.7
-          }
-        }
-      ]
-    },
-    {
-      "question": "Qual é a sua maior qualidade?",
-      "answers": [
-        {
-          "text": "Beleza e elegância 🌟",
-          "points": {
-            "Borboleta": 1,
-            "Joaninha": 0.8,
-            "Abelha": 0.5,
-            "Grilo": 0.4
-          }
-        },
-        {
-          "text": "Força e resistência 💪",
-          "points": {
-            "Besouro": 1,
-            "Formiga": 0.5,
-            "Barata": 0.6,
-            "Grilo": 0.4,
-            "Louva-a-deus": 0.7
-          }
-        },
-        {
-          "text": "Inteligência e estratégia 🧠",
-          "points": {
-            "Abelha": 0.5,
-            "Formiga": 0.5,
-            "Mosca": 0.6,
-            "Borboleta": 0.4
-          }
-        },
-        {
-          "text": "Adaptabilidade e resiliência 🌍",
-          "points": {
-            "Barata": 1,
-            "Mosca": 0.8,
-            "Grilo": 0.6,
-            "Joaninha": 0.4,
-            "Bicho-pau": 0.7
-          }
-        }
-      ]
-    },
-    {
-      "question": "Qual é o seu maior medo?",
-      "answers": [
-        {
-          "text": "Ser ignorado ou esquecido 😢",
-          "points": {
-            "Borboleta": 1,
-            "Joaninha": 0.8,
-            "Grilo": 0.6,
-            "Mosca": 0.4
-          }
-        },
-        {
-          "text": "Perder minha comunidade ou equipe 💔",
-          "points": {
-            "Formiga": 0.5,
-            "Abelha": 0.5,
-            "Joaninha": 0.6,
-            "Besouro": 0.4
-          }
-        },
-        {
-          "text": "Não conseguir me adaptar a mudanças 🌪️",
-          "points": {
-            "Barata": 1,
-            "Mosca": 0.8,
-            "Grilo": 0.6,
-            "Borboleta": 0.4,
-            "Bicho-pau": 0.7
-          }
-        },
-        {
-          "text": "Ser derrotado ou superado 💪",
-          "points": {
-            "Besouro": 1,
-            "Formiga": 0.5,
-            "Abelha": 0.5,
-            "Grilo": 0.4,
-            "Louva-a-deus": 0.7
-          }
-        }
-      ]
-    },
-    {
-      "question": "Qual é a sua reação ao encontrar um obstáculo inesperado?",
-      "answers": [
-        {
-          "text": "Dou a volta e encontro outro caminho. 🔄",
-          "points": {
-            "Borboleta": 1,
-            "Formiga": 0.5,
-            "Besouro": 0.6,
-            "Abelha": 0.4,
-            "Louva-a-deus": 0.7
-          }
-        },
-        {
-          "text": "Enfrento o obstáculo de frente, sem hesitar. 🗡️",
-          "points": {
-            "Besouro": 1,
-            "Formiga": 0.5,
-            "Grilo": 0.6,
-            "Barata": 0.4,
-            "Louva-a-deus": 0.7
-          }
-        },
-        {
-          "text": "Procuro ajuda e trabalho em equipe para superar. 🤝",
-          "points": {
-            "Formiga": 0.5,
-            "Abelha": 0.5,
-            "Joaninha": 0.6,
-            "Borboleta": 0.4
-          }
-        },
-        {
-          "text": "Uso minha inteligência para encontrar uma solução criativa. 🧠",
-          "points": {
-            "Abelha": 0.5,
-            "Mosca": 0.8,
-            "Borboleta": 0.6,
-            "Grilo": 0.4,
-            "Louva-a-deus": 0.7
-          }
-        },
-        {
-          "text": "Me camuflo e espero o perigo passar. 🪵",
-          "points": {
-            "Bicho-pau": 1,
-            "Mosca": 0.8,
-            "Joaninha": 0.6,
-            "Grilo": 0.4
-          }
-        }
-      ]
     }
-  ],
-  "descriptions": {
-    "Borboleta": {
-      "title": "Borboleta",
-      "emoji": "🦋",
-      "subtitle": "A Beleza Transformadora",
-      "text": "Você é uma Borboleta! Elegante, graciosa e sempre em busca de novas aventuras. Sua presença ilumina qualquer lugar e você está sempre pronto para se transformar e crescer."
-    },
-    "Formiga": {
-      "title": "Formiga",
-      "emoji": "🐜",
-      "subtitle": "A Trabalhadora Incansável",
-      "text": "Você é uma Formiga! Dedicada, trabalhadora e sempre em equipe. Você sabe que a união faz a força e está sempre disposto a ajudar seus amigos e comunidade."
-    },
-    "Besouro": {
-      "title": "Besouro",
-      "emoji": "🐞",
-      "subtitle": "A Força da Natureza",
-      "text": "Você é um Besouro! Forte, resistente e sempre pronto para enfrentar desafios. Sua determinação é inabalável e você nunca desiste, não importa o obstáculo."
-    },
-    "Abelha": {
-      "title": "Abelha",
-      "emoji": "🐝",
-      "subtitle": "A Estrategista Doce",
-      "text": "Você é uma Abelha! Inteligente, estratégica e sempre trabalhando em prol do bem comum. Você sabe como resolver problemas complexos e é essencial para a harmonia do grupo."
-    },
-    "Joaninha": {
-      "title": "Joaninha",
-      "emoji": "🐞",
-      "subtitle": "A Sorte Encantadora",
-      "text": "Você é uma Joaninha! Pequena, encantadora e sempre trazendo sorte. Sua presença é um sinal de boas coisas por vir e você sempre encontra uma maneira de alegrar o dia de todos."
-    },
-    "Grilo": {
-      "title": "Grilo",
-      "emoji": "🦗",
-      "subtitle": "O Cantor Noturno",
-      "text": "Você é um Grilo! Alegre, musical e sempre em movimento. Você adora explorar novos lugares e sua música é um presente para todos ao seu redor."
-    },
-    "Barata": {
-      "title": "Barata",
-      "emoji": "🪳",
-      "subtitle": "A Sobrevivente Resiliente",
-      "text": "Você é uma Barata! Adaptável, resiliente e capaz de sobreviver nas condições mais difíceis. Você nunca desiste e sempre encontra uma maneira de seguir em frente."
-    },
-    "Mosca": {
-      "title": "Mosca",
-      "emoji": "🪰",
-      "subtitle": "A Exploradora Curiosa",
-      "text": "Você é uma Mosca! Curiosa, exploradora e sempre em busca de novas experiências. Você adora descobrir novos lugares e está sempre em movimento, explorando o mundo ao seu redor."
-    },
-    "Louva-a-deus": {
-      "title": "Louva-a-deus",
-      "emoji": "🦗",
-      "subtitle": "O Predador Pacífico",
-      "text": "Você é um Louva-a-deus! Calmo, calculista e mortal quando necessário. Você prefere observar e esperar o momento certo para agir, surpreendendo a todos com sua precisão."
-    },
-    "Bicho-pau": {
-      "title": "Bicho-pau",
-      "emoji": "🪵",
-      "subtitle": "O Mestre do Disfarce",
-      "text": "Você é um Bicho-pau! Mestre em se camuflar e passar despercebido. Você prefere evitar conflitos e se adaptar ao ambiente, mas quando necessário, sabe como se destacar."
-    }
-  }
 }

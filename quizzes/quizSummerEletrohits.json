@@ -4,91 +4,771 @@
     {
       "question": "Qual é a sua atividade favorita no verão?",
       "answers": [
-        { "text": "Ir à praia 🏖️", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
-        { "text": "Fazer churrasco 🍖", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
-        { "text": "Viajar ✈️", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
-        { "text": "Ficar em casa relaxando 🛋️", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+        {
+          "text": "Ir à praia 🏖️",
+          "points": {
+            "resultado1": 0.0306,
+            "resultado2": 0.0165,
+            "resultado3": 0.0067,
+            "resultado4": 0.0241,
+            "resultado5": 0.0115,
+            "resultado6": 0.0254,
+            "resultado7": 0.0152,
+            "resultado8": 0.0222,
+            "resultado9": 0.0171,
+            "resultado10": 0.0147,
+            "resultado11": 0.0229,
+            "resultado12": 0.0161,
+            "resultado13": 0.0251
+          }
+        },
+        {
+          "text": "Fazer churrasco 🍖",
+          "points": {
+            "resultado1": 0.0154,
+            "resultado2": 0.0305,
+            "resultado3": 0.0257,
+            "resultado4": 0.0071,
+            "resultado5": 0.023,
+            "resultado6": 0.0161,
+            "resultado7": 0.0269,
+            "resultado8": 0.0129,
+            "resultado9": 0.0214,
+            "resultado10": 0.0124,
+            "resultado11": 0.0205,
+            "resultado12": 0.0232,
+            "resultado13": 0.0194
+          }
+        },
+        {
+          "text": "Viajar ✈️",
+          "points": {
+            "resultado1": 0.0064,
+            "resultado2": 0.0234,
+            "resultado3": 0.0296,
+            "resultado4": 0.0163,
+            "resultado5": 0.0156,
+            "resultado6": 0.0229,
+            "resultado7": 0.0118,
+            "resultado8": 0.0259,
+            "resultado9": 0.0144,
+            "resultado10": 0.0258,
+            "resultado11": 0.0144,
+            "resultado12": 0.0201,
+            "resultado13": 0.0216
+          }
+        },
+        {
+          "text": "Ficar em casa relaxando 🛋️",
+          "points": {
+            "resultado1": 0.0245,
+            "resultado2": 0.0066,
+            "resultado3": 0.0149,
+            "resultado4": 0.0294,
+            "resultado5": 0.0269,
+            "resultado6": 0.0126,
+            "resultado7": 0.0232,
+            "resultado8": 0.0165,
+            "resultado9": 0.0249,
+            "resultado10": 0.0256,
+            "resultado11": 0.0216,
+            "resultado12": 0.0213,
+            "resultado13": 0.0165
+          }
+        }
       ]
     },
     {
       "question": "Qual é a sua bebida preferida em uma festa?",
       "answers": [
-        { "text": "Refrigerante 🥤", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
-        { "text": "Suco 🍹", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
-        { "text": "Cerveja 🍺", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
-        { "text": "Água 💧", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+        {
+          "text": "Refrigerante 🥤",
+          "points": {
+            "resultado1": 0.0306,
+            "resultado2": 0.0165,
+            "resultado3": 0.0067,
+            "resultado4": 0.0241,
+            "resultado5": 0.0115,
+            "resultado6": 0.0254,
+            "resultado7": 0.0152,
+            "resultado8": 0.0222,
+            "resultado9": 0.0171,
+            "resultado10": 0.0147,
+            "resultado11": 0.0229,
+            "resultado12": 0.0161,
+            "resultado13": 0.0251
+          }
+        },
+        {
+          "text": "Suco 🍹",
+          "points": {
+            "resultado1": 0.0154,
+            "resultado2": 0.0305,
+            "resultado3": 0.0257,
+            "resultado4": 0.0071,
+            "resultado5": 0.023,
+            "resultado6": 0.0161,
+            "resultado7": 0.0269,
+            "resultado8": 0.0129,
+            "resultado9": 0.0214,
+            "resultado10": 0.0124,
+            "resultado11": 0.0205,
+            "resultado12": 0.0232,
+            "resultado13": 0.0194
+          }
+        },
+        {
+          "text": "Cerveja 🍺",
+          "points": {
+            "resultado1": 0.0064,
+            "resultado2": 0.0234,
+            "resultado3": 0.0296,
+            "resultado4": 0.0163,
+            "resultado5": 0.0156,
+            "resultado6": 0.0229,
+            "resultado7": 0.0118,
+            "resultado8": 0.0259,
+            "resultado9": 0.0144,
+            "resultado10": 0.0258,
+            "resultado11": 0.0144,
+            "resultado12": 0.0201,
+            "resultado13": 0.0216
+          }
+        },
+        {
+          "text": "Água 💧",
+          "points": {
+            "resultado1": 0.0245,
+            "resultado2": 0.0066,
+            "resultado3": 0.0149,
+            "resultado4": 0.0294,
+            "resultado5": 0.0269,
+            "resultado6": 0.0126,
+            "resultado7": 0.0232,
+            "resultado8": 0.0165,
+            "resultado9": 0.0249,
+            "resultado10": 0.0256,
+            "resultado11": 0.0216,
+            "resultado12": 0.0213,
+            "resultado13": 0.0165
+          }
+        }
       ]
     },
     {
       "question": "Qual é o seu estilo de dança?",
       "answers": [
-        { "text": "Freestyle 🕺", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
-        { "text": "Dança de salão 💃", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
-        { "text": "Hip-hop 🧢", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
-        { "text": "Não gosto de dançar 🙅", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+        {
+          "text": "Freestyle 🕺",
+          "points": {
+            "resultado1": 0.0306,
+            "resultado2": 0.0165,
+            "resultado3": 0.0067,
+            "resultado4": 0.0241,
+            "resultado5": 0.0115,
+            "resultado6": 0.0254,
+            "resultado7": 0.0152,
+            "resultado8": 0.0222,
+            "resultado9": 0.0171,
+            "resultado10": 0.0147,
+            "resultado11": 0.0229,
+            "resultado12": 0.0161,
+            "resultado13": 0.0251
+          }
+        },
+        {
+          "text": "Dança de salão 💃",
+          "points": {
+            "resultado1": 0.0154,
+            "resultado2": 0.0305,
+            "resultado3": 0.0257,
+            "resultado4": 0.0071,
+            "resultado5": 0.023,
+            "resultado6": 0.0161,
+            "resultado7": 0.0269,
+            "resultado8": 0.0129,
+            "resultado9": 0.0214,
+            "resultado10": 0.0124,
+            "resultado11": 0.0205,
+            "resultado12": 0.0232,
+            "resultado13": 0.0194
+          }
+        },
+        {
+          "text": "Hip-hop 🧢",
+          "points": {
+            "resultado1": 0.0064,
+            "resultado2": 0.0234,
+            "resultado3": 0.0296,
+            "resultado4": 0.0163,
+            "resultado5": 0.0156,
+            "resultado6": 0.0229,
+            "resultado7": 0.0118,
+            "resultado8": 0.0259,
+            "resultado9": 0.0144,
+            "resultado10": 0.0258,
+            "resultado11": 0.0144,
+            "resultado12": 0.0201,
+            "resultado13": 0.0216
+          }
+        },
+        {
+          "text": "Não gosto de dançar 🙅",
+          "points": {
+            "resultado1": 0.0245,
+            "resultado2": 0.0066,
+            "resultado3": 0.0149,
+            "resultado4": 0.0294,
+            "resultado5": 0.0269,
+            "resultado6": 0.0126,
+            "resultado7": 0.0232,
+            "resultado8": 0.0165,
+            "resultado9": 0.0249,
+            "resultado10": 0.0256,
+            "resultado11": 0.0216,
+            "resultado12": 0.0213,
+            "resultado13": 0.0165
+          }
+        }
       ]
     },
     {
       "question": "Qual é a sua lembrança favorita dos anos 2000?",
       "answers": [
-        { "text": "Brincar com amigos na rua 🏃", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
-        { "text": "Assistir desenhos animados 📺", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
-        { "text": "Jogar videogame 🎮", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
-        { "text": "Ouvir música no rádio 📻", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+        {
+          "text": "Brincar com amigos na rua 🏃",
+          "points": {
+            "resultado1": 0.0306,
+            "resultado2": 0.0165,
+            "resultado3": 0.0067,
+            "resultado4": 0.0241,
+            "resultado5": 0.0115,
+            "resultado6": 0.0254,
+            "resultado7": 0.0152,
+            "resultado8": 0.0222,
+            "resultado9": 0.0171,
+            "resultado10": 0.0147,
+            "resultado11": 0.0229,
+            "resultado12": 0.0161,
+            "resultado13": 0.0251
+          }
+        },
+        {
+          "text": "Assistir desenhos animados 📺",
+          "points": {
+            "resultado1": 0.0154,
+            "resultado2": 0.0305,
+            "resultado3": 0.0257,
+            "resultado4": 0.0071,
+            "resultado5": 0.023,
+            "resultado6": 0.0161,
+            "resultado7": 0.0269,
+            "resultado8": 0.0129,
+            "resultado9": 0.0214,
+            "resultado10": 0.0124,
+            "resultado11": 0.0205,
+            "resultado12": 0.0232,
+            "resultado13": 0.0194
+          }
+        },
+        {
+          "text": "Jogar videogame 🎮",
+          "points": {
+            "resultado1": 0.0064,
+            "resultado2": 0.0234,
+            "resultado3": 0.0296,
+            "resultado4": 0.0163,
+            "resultado5": 0.0156,
+            "resultado6": 0.0229,
+            "resultado7": 0.0118,
+            "resultado8": 0.0259,
+            "resultado9": 0.0144,
+            "resultado10": 0.0258,
+            "resultado11": 0.0144,
+            "resultado12": 0.0201,
+            "resultado13": 0.0216
+          }
+        },
+        {
+          "text": "Ouvir música no rádio 📻",
+          "points": {
+            "resultado1": 0.0245,
+            "resultado2": 0.0066,
+            "resultado3": 0.0149,
+            "resultado4": 0.0294,
+            "resultado5": 0.0269,
+            "resultado6": 0.0126,
+            "resultado7": 0.0232,
+            "resultado8": 0.0165,
+            "resultado9": 0.0249,
+            "resultado10": 0.0256,
+            "resultado11": 0.0216,
+            "resultado12": 0.0213,
+            "resultado13": 0.0165
+          }
+        }
       ]
     },
     {
       "question": "Qual é o seu acessório de moda favorito?",
       "answers": [
-        { "text": "Óculos de sol 🕶️", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
-        { "text": "Boné 🧢", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
-        { "text": "Relógio ⌚", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
-        { "text": "Pulseira 📿", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+        {
+          "text": "Óculos de sol 🕶️",
+          "points": {
+            "resultado1": 0.0306,
+            "resultado2": 0.0165,
+            "resultado3": 0.0067,
+            "resultado4": 0.0241,
+            "resultado5": 0.0115,
+            "resultado6": 0.0254,
+            "resultado7": 0.0152,
+            "resultado8": 0.0222,
+            "resultado9": 0.0171,
+            "resultado10": 0.0147,
+            "resultado11": 0.0229,
+            "resultado12": 0.0161,
+            "resultado13": 0.0251
+          }
+        },
+        {
+          "text": "Boné 🧢",
+          "points": {
+            "resultado1": 0.0154,
+            "resultado2": 0.0305,
+            "resultado3": 0.0257,
+            "resultado4": 0.0071,
+            "resultado5": 0.023,
+            "resultado6": 0.0161,
+            "resultado7": 0.0269,
+            "resultado8": 0.0129,
+            "resultado9": 0.0214,
+            "resultado10": 0.0124,
+            "resultado11": 0.0205,
+            "resultado12": 0.0232,
+            "resultado13": 0.0194
+          }
+        },
+        {
+          "text": "Relógio ⌚",
+          "points": {
+            "resultado1": 0.0064,
+            "resultado2": 0.0234,
+            "resultado3": 0.0296,
+            "resultado4": 0.0163,
+            "resultado5": 0.0156,
+            "resultado6": 0.0229,
+            "resultado7": 0.0118,
+            "resultado8": 0.0259,
+            "resultado9": 0.0144,
+            "resultado10": 0.0258,
+            "resultado11": 0.0144,
+            "resultado12": 0.0201,
+            "resultado13": 0.0216
+          }
+        },
+        {
+          "text": "Pulseira 📿",
+          "points": {
+            "resultado1": 0.0245,
+            "resultado2": 0.0066,
+            "resultado3": 0.0149,
+            "resultado4": 0.0294,
+            "resultado5": 0.0269,
+            "resultado6": 0.0126,
+            "resultado7": 0.0232,
+            "resultado8": 0.0165,
+            "resultado9": 0.0249,
+            "resultado10": 0.0256,
+            "resultado11": 0.0216,
+            "resultado12": 0.0213,
+            "resultado13": 0.0165
+          }
+        }
       ]
     },
     {
       "question": "Qual é a sua comida preferida em um churrasco?",
       "answers": [
-        { "text": "Picanha 🥩", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
-        { "text": "Linguiça 🌭", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
-        { "text": "Frango 🍗", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
-        { "text": "Queijo coalho 🧀", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+        {
+          "text": "Picanha 🥩",
+          "points": {
+            "resultado1": 0.0306,
+            "resultado2": 0.0165,
+            "resultado3": 0.0067,
+            "resultado4": 0.0241,
+            "resultado5": 0.0115,
+            "resultado6": 0.0254,
+            "resultado7": 0.0152,
+            "resultado8": 0.0222,
+            "resultado9": 0.0171,
+            "resultado10": 0.0147,
+            "resultado11": 0.0229,
+            "resultado12": 0.0161,
+            "resultado13": 0.0251
+          }
+        },
+        {
+          "text": "Linguiça 🌭",
+          "points": {
+            "resultado1": 0.0154,
+            "resultado2": 0.0305,
+            "resultado3": 0.0257,
+            "resultado4": 0.0071,
+            "resultado5": 0.023,
+            "resultado6": 0.0161,
+            "resultado7": 0.0269,
+            "resultado8": 0.0129,
+            "resultado9": 0.0214,
+            "resultado10": 0.0124,
+            "resultado11": 0.0205,
+            "resultado12": 0.0232,
+            "resultado13": 0.0194
+          }
+        },
+        {
+          "text": "Frango 🍗",
+          "points": {
+            "resultado1": 0.0064,
+            "resultado2": 0.0234,
+            "resultado3": 0.0296,
+            "resultado4": 0.0163,
+            "resultado5": 0.0156,
+            "resultado6": 0.0229,
+            "resultado7": 0.0118,
+            "resultado8": 0.0259,
+            "resultado9": 0.0144,
+            "resultado10": 0.0258,
+            "resultado11": 0.0144,
+            "resultado12": 0.0201,
+            "resultado13": 0.0216
+          }
+        },
+        {
+          "text": "Queijo coalho 🧀",
+          "points": {
+            "resultado1": 0.0245,
+            "resultado2": 0.0066,
+            "resultado3": 0.0149,
+            "resultado4": 0.0294,
+            "resultado5": 0.0269,
+            "resultado6": 0.0126,
+            "resultado7": 0.0232,
+            "resultado8": 0.0165,
+            "resultado9": 0.0249,
+            "resultado10": 0.0256,
+            "resultado11": 0.0216,
+            "resultado12": 0.0213,
+            "resultado13": 0.0165
+          }
+        }
       ]
     },
     {
       "question": "Qual é o seu passatempo favorito?",
       "answers": [
-        { "text": "Ler um livro 📚", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
-        { "text": "Assistir filmes 🎬", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
-        { "text": "Jogar videogame 🎮", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
-        { "text": "Praticar esportes 🏀", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+        {
+          "text": "Ler um livro 📚",
+          "points": {
+            "resultado1": 0.0306,
+            "resultado2": 0.0165,
+            "resultado3": 0.0067,
+            "resultado4": 0.0241,
+            "resultado5": 0.0115,
+            "resultado6": 0.0254,
+            "resultado7": 0.0152,
+            "resultado8": 0.0222,
+            "resultado9": 0.0171,
+            "resultado10": 0.0147,
+            "resultado11": 0.0229,
+            "resultado12": 0.0161,
+            "resultado13": 0.0251
+          }
+        },
+        {
+          "text": "Assistir filmes 🎬",
+          "points": {
+            "resultado1": 0.0154,
+            "resultado2": 0.0305,
+            "resultado3": 0.0257,
+            "resultado4": 0.0071,
+            "resultado5": 0.023,
+            "resultado6": 0.0161,
+            "resultado7": 0.0269,
+            "resultado8": 0.0129,
+            "resultado9": 0.0214,
+            "resultado10": 0.0124,
+            "resultado11": 0.0205,
+            "resultado12": 0.0232,
+            "resultado13": 0.0194
+          }
+        },
+        {
+          "text": "Jogar videogame 🎮",
+          "points": {
+            "resultado1": 0.0064,
+            "resultado2": 0.0234,
+            "resultado3": 0.0296,
+            "resultado4": 0.0163,
+            "resultado5": 0.0156,
+            "resultado6": 0.0229,
+            "resultado7": 0.0118,
+            "resultado8": 0.0259,
+            "resultado9": 0.0144,
+            "resultado10": 0.0258,
+            "resultado11": 0.0144,
+            "resultado12": 0.0201,
+            "resultado13": 0.0216
+          }
+        },
+        {
+          "text": "Praticar esportes 🏀",
+          "points": {
+            "resultado1": 0.0245,
+            "resultado2": 0.0066,
+            "resultado3": 0.0149,
+            "resultado4": 0.0294,
+            "resultado5": 0.0269,
+            "resultado6": 0.0126,
+            "resultado7": 0.0232,
+            "resultado8": 0.0165,
+            "resultado9": 0.0249,
+            "resultado10": 0.0256,
+            "resultado11": 0.0216,
+            "resultado12": 0.0213,
+            "resultado13": 0.0165
+          }
+        }
       ]
     },
     {
       "question": "Qual é a sua estação do ano favorita?",
       "answers": [
-        { "text": "Verão ☀️", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
-        { "text": "Outono 🍂", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
-        { "text": "Inverno ❄️", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
-        { "text": "Primavera 🌸", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+        {
+          "text": "Verão ☀️",
+          "points": {
+            "resultado1": 0.0306,
+            "resultado2": 0.0165,
+            "resultado3": 0.0067,
+            "resultado4": 0.0241,
+            "resultado5": 0.0115,
+            "resultado6": 0.0254,
+            "resultado7": 0.0152,
+            "resultado8": 0.0222,
+            "resultado9": 0.0171,
+            "resultado10": 0.0147,
+            "resultado11": 0.0229,
+            "resultado12": 0.0161,
+            "resultado13": 0.0251
+          }
+        },
+        {
+          "text": "Outono 🍂",
+          "points": {
+            "resultado1": 0.0154,
+            "resultado2": 0.0305,
+            "resultado3": 0.0257,
+            "resultado4": 0.0071,
+            "resultado5": 0.023,
+            "resultado6": 0.0161,
+            "resultado7": 0.0269,
+            "resultado8": 0.0129,
+            "resultado9": 0.0214,
+            "resultado10": 0.0124,
+            "resultado11": 0.0205,
+            "resultado12": 0.0232,
+            "resultado13": 0.0194
+          }
+        },
+        {
+          "text": "Inverno ❄️",
+          "points": {
+            "resultado1": 0.0064,
+            "resultado2": 0.0234,
+            "resultado3": 0.0296,
+            "resultado4": 0.0163,
+            "resultado5": 0.0156,
+            "resultado6": 0.0229,
+            "resultado7": 0.0118,
+            "resultado8": 0.0259,
+            "resultado9": 0.0144,
+            "resultado10": 0.0258,
+            "resultado11": 0.0144,
+            "resultado12": 0.0201,
+            "resultado13": 0.0216
+          }
+        },
+        {
+          "text": "Primavera 🌸",
+          "points": {
+            "resultado1": 0.0245,
+            "resultado2": 0.0066,
+            "resultado3": 0.0149,
+            "resultado4": 0.0294,
+            "resultado5": 0.0269,
+            "resultado6": 0.0126,
+            "resultado7": 0.0232,
+            "resultado8": 0.0165,
+            "resultado9": 0.0249,
+            "resultado10": 0.0256,
+            "resultado11": 0.0216,
+            "resultado12": 0.0213,
+            "resultado13": 0.0165
+          }
+        }
       ]
     },
     {
       "question": "Qual é o seu gênero musical favorito?",
       "answers": [
-        { "text": "Pop 🎤", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
-        { "text": "Rock 🎸", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
-        { "text": "Eletrônica 🎧", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
-        { "text": "Sertanejo 🎻", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+        {
+          "text": "Pop 🎤",
+          "points": {
+            "resultado1": 0.0306,
+            "resultado2": 0.0165,
+            "resultado3": 0.0067,
+            "resultado4": 0.0241,
+            "resultado5": 0.0115,
+            "resultado6": 0.0254,
+            "resultado7": 0.0152,
+            "resultado8": 0.0222,
+            "resultado9": 0.0171,
+            "resultado10": 0.0147,
+            "resultado11": 0.0229,
+            "resultado12": 0.0161,
+            "resultado13": 0.0251
+          }
+        },
+        {
+          "text": "Rock 🎸",
+          "points": {
+            "resultado1": 0.0154,
+            "resultado2": 0.0305,
+            "resultado3": 0.0257,
+            "resultado4": 0.0071,
+            "resultado5": 0.023,
+            "resultado6": 0.0161,
+            "resultado7": 0.0269,
+            "resultado8": 0.0129,
+            "resultado9": 0.0214,
+            "resultado10": 0.0124,
+            "resultado11": 0.0205,
+            "resultado12": 0.0232,
+            "resultado13": 0.0194
+          }
+        },
+        {
+          "text": "Eletrônica 🎧",
+          "points": {
+            "resultado1": 0.0064,
+            "resultado2": 0.0234,
+            "resultado3": 0.0296,
+            "resultado4": 0.0163,
+            "resultado5": 0.0156,
+            "resultado6": 0.0229,
+            "resultado7": 0.0118,
+            "resultado8": 0.0259,
+            "resultado9": 0.0144,
+            "resultado10": 0.0258,
+            "resultado11": 0.0144,
+            "resultado12": 0.0201,
+            "resultado13": 0.0216
+          }
+        },
+        {
+          "text": "Sertanejo 🎻",
+          "points": {
+            "resultado1": 0.0245,
+            "resultado2": 0.0066,
+            "resultado3": 0.0149,
+            "resultado4": 0.0294,
+            "resultado5": 0.0269,
+            "resultado6": 0.0126,
+            "resultado7": 0.0232,
+            "resultado8": 0.0165,
+            "resultado9": 0.0249,
+            "resultado10": 0.0256,
+            "resultado11": 0.0216,
+            "resultado12": 0.0213,
+            "resultado13": 0.0165
+          }
+        }
       ]
     },
     {
       "question": "Qual é o seu destino de viagem dos sonhos?",
       "answers": [
-        { "text": "Paris 🗼", "points": { "resultado1": 1, "resultado2": 0.5, "resultado3": 0.2, "resultado4": 0.8, "resultado5": 0.3, "resultado6": 0.7, "resultado7": 0.4, "resultado8": 0.6, "resultado9": 0.5, "resultado10": 0.4, "resultado11": 0.6, "resultado12": 0.5, "resultado13": 0.7 } },
-        { "text": "Nova York 🗽", "points": { "resultado1": 0.5, "resultado2": 1, "resultado3": 0.8, "resultado4": 0.2, "resultado5": 0.6, "resultado6": 0.4, "resultado7": 0.7, "resultado8": 0.3, "resultado9": 0.6, "resultado10": 0.3, "resultado11": 0.5, "resultado12": 0.7, "resultado13": 0.4 } },
-        { "text": "Tóquio 🗾", "points": { "resultado1": 0.2, "resultado2": 0.8, "resultado3": 1, "resultado4": 0.5, "resultado5": 0.4, "resultado6": 0.6, "resultado7": 0.3, "resultado8": 0.7, "resultado9": 0.4, "resultado10": 0.7, "resultado11": 0.3, "resultado12": 0.6, "resultado13": 0.5 } },
-        { "text": "Rio de Janeiro 🏖️", "points": { "resultado1": 0.8, "resultado2": 0.2, "resultado3": 0.5, "resultado4": 1, "resultado5": 0.7, "resultado6": 0.3, "resultado7": 0.6, "resultado8": 0.4, "resultado9": 0.7, "resultado10": 0.6, "resultado11": 0.4, "resultado12": 0.5, "resultado13": 0.3 } }
+        {
+          "text": "Paris 🗼",
+          "points": {
+            "resultado1": 0.0306,
+            "resultado2": 0.0165,
+            "resultado3": 0.0067,
+            "resultado4": 0.0241,
+            "resultado5": 0.0115,
+            "resultado6": 0.0254,
+            "resultado7": 0.0152,
+            "resultado8": 0.0222,
+            "resultado9": 0.0171,
+            "resultado10": 0.0147,
+            "resultado11": 0.0229,
+            "resultado12": 0.0161,
+            "resultado13": 0.0251
+          }
+        },
+        {
+          "text": "Nova York 🗽",
+          "points": {
+            "resultado1": 0.0154,
+            "resultado2": 0.0305,
+            "resultado3": 0.0257,
+            "resultado4": 0.0071,
+            "resultado5": 0.023,
+            "resultado6": 0.0161,
+            "resultado7": 0.0269,
+            "resultado8": 0.0129,
+            "resultado9": 0.0214,
+            "resultado10": 0.0124,
+            "resultado11": 0.0205,
+            "resultado12": 0.0232,
+            "resultado13": 0.0194
+          }
+        },
+        {
+          "text": "Tóquio 🗾",
+          "points": {
+            "resultado1": 0.0064,
+            "resultado2": 0.0234,
+            "resultado3": 0.0296,
+            "resultado4": 0.0163,
+            "resultado5": 0.0156,
+            "resultado6": 0.0229,
+            "resultado7": 0.0118,
+            "resultado8": 0.0259,
+            "resultado9": 0.0144,
+            "resultado10": 0.0258,
+            "resultado11": 0.0144,
+            "resultado12": 0.0201,
+            "resultado13": 0.0216
+          }
+        },
+        {
+          "text": "Rio de Janeiro 🏖️",
+          "points": {
+            "resultado1": 0.0245,
+            "resultado2": 0.0066,
+            "resultado3": 0.0149,
+            "resultado4": 0.0294,
+            "resultado5": 0.0269,
+            "resultado6": 0.0126,
+            "resultado7": 0.0232,
+            "resultado8": 0.0165,
+            "resultado9": 0.0249,
+            "resultado10": 0.0256,
+            "resultado11": 0.0216,
+            "resultado12": 0.0213,
+            "resultado13": 0.0165
+          }
+        }
       ]
     }
   ],
