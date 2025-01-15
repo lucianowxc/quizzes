@@ -214,6 +214,11 @@
       "name": "Qual líder de Sid Meier's Civilization VI devo escolher?",
       "file": "quizzes/quizLideresCiv6.json",
       "description": "Descubra qual líder histórico do Civilization VI reflete seu estilo de jogo e conquiste o mundo!"
+    },
+    {
+      "name": "Por que você perderia sua CNH?",
+      "file": "quizzes/quizInfracoesTransito.json",
+      "description": "Descubra qual infração de trânsito mais se parece com você e por que você perderia sua CNH!"
     }
   ]
 }
