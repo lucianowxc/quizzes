@@ -224,6 +224,11 @@
       "name": "Qual linha de metrô você é?",
       "file": "quizzes/quizMetro.json",
       "description": "Entre o transporte e o caos, qual linha representa sua personalidade?"
+    },
+    {
+      "name": "Que tipo de inseto você seria?",
+      "file": "quizzes/quizInsetos.json",
+      "description": "Descubra que tipo de inseto mais se parece com você! Será que você é uma borboleta graciosa, uma formiga trabalhadora, ou talvez uma barata resiliente? Faça o quiz e descubra!"
     }
   ]
 }
