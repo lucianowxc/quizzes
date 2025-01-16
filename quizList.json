@@ -229,6 +229,11 @@
       "name": "Que tipo de inseto você seria?",
       "file": "quizzes/quizInsetos.json",
       "description": "Descubra que tipo de inseto mais se parece com você! Será que você é uma borboleta graciosa, uma formiga trabalhadora, ou talvez uma barata resiliente? Faça o quiz e descubra!"
+    },
+    {
+      "name": "Qual é o seu perfume?",
+      "file": "quizzes/quizPerfumes.json",
+      "description": "Descubra a fragrância que mais combina com a sua personalidade e estilo de vida!"
     }
   ]
 }

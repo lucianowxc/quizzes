@@ -1,0 +1,591 @@
+{
+    "title": "Qual é o seu perfume?",
+    "subtitle": "Descubra a fragrância que combina com a sua personalidade!",
+    "questions": [
+      {
+        "question": "Qual fragrância te faz sentir confiante para um evento importante?",
+        "answers": [
+          {
+            "text": "Um perfume clássico e elegante",
+            "points": {
+              "chanel_n5": 0.0364,
+              "dior_sauvage": 0.0486,
+              "natura_kaiak": 0.036,
+              "jade_guerlain": 0.0105,
+              "la_vie_est_belle": 0.0113,
+              "acqua_di_gio": 0.011,
+              "granado_ph": 0.0155,
+              "calvin_klein_defy": 0.0161,
+              "azzaro_wanted": 0.0161,
+              "natura_ekos": 0.0096,
+              "acqua_di_gio_profumo": 0.0135,
+              "la_vie_est_belle_intense": 0.0177
+            }
+          },
+          {
+            "text": "Algo fresco e revigorante",
+            "points": {
+              "acqua_di_gio": 0.0334,
+              "jade_guerlain": 0.0406,
+              "acqua_di_gio_profumo": 0.1002,
+              "chanel_n5": 0.0113,
+              "dior_sauvage": 0.0115,
+              "la_vie_est_belle": 0.0116,
+              "natura_kaiak": 0.0092,
+              "granado_ph": 0.0153,
+              "calvin_klein_defy": 0.0156,
+              "azzaro_wanted": 0.0155,
+              "natura_ekos": 0.0097,
+              "la_vie_est_belle_intense": 0.0164
+            }
+          },
+          {
+            "text": "Notas amadeiradas e sofisticadas",
+            "points": {
+              "dior_sauvage": 0.037,
+              "acqua_di_gio": 0.037,
+              "natura_kaiak": 0.0398,
+              "chanel_n5": 0.0111,
+              "jade_guerlain": 0.0108,
+              "la_vie_est_belle": 0.0117,
+              "granado_ph": 0.0161,
+              "calvin_klein_defy": 0.0166,
+              "azzaro_wanted": 0.0166,
+              "natura_ekos": 0.0098,
+              "acqua_di_gio_profumo": 0.0139,
+              "la_vie_est_belle_intense": 0.0185
+            }
+          },
+          {
+            "text": "Um toque doce e discreto",
+            "points": {
+              "la_vie_est_belle": 0.039,
+              "jade_guerlain": 0.0368,
+              "la_vie_est_belle_intense": 0.1554,
+              "chanel_n5": 0.0115,
+              "dior_sauvage": 0.0117,
+              "acqua_di_gio": 0.0113,
+              "natura_kaiak": 0.0096,
+              "granado_ph": 0.0144,
+              "calvin_klein_defy": 0.0144,
+              "azzaro_wanted": 0.0142,
+              "natura_ekos": 0.0099,
+              "acqua_di_gio_profumo": 0.0124
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual aroma te lembra de um momento especial da sua vida?",
+        "answers": [
+          {
+            "text": "O cheiro de bolo de laranja saindo do forno",
+            "points": {
+              "chanel_n5": 0.0304,
+              "jade_guerlain": 0.0332,
+              "natura_ekos": 0.0344,
+              "dior_sauvage": 0.0109,
+              "la_vie_est_belle": 0.0111,
+              "acqua_di_gio": 0.0109,
+              "natura_kaiak": 0.009,
+              "granado_ph": 0.0159,
+              "calvin_klein_defy": 0.0164,
+              "azzaro_wanted": 0.0164,
+              "acqua_di_gio_profumo": 0.0134,
+              "la_vie_est_belle_intense": 0.0179
+            }
+          },
+          {
+            "text": "O perfume de rosas do jardim da minha avó",
+            "points": {
+              "jade_guerlain": 0.0306,
+              "chanel_n5": 0.0437,
+              "natura_ekos": 0.0337,
+              "dior_sauvage": 0.011,
+              "la_vie_est_belle": 0.0111,
+              "acqua_di_gio": 0.0109,
+              "natura_kaiak": 0.0089,
+              "granado_ph": 0.0158,
+              "calvin_klein_defy": 0.0163,
+              "azzaro_wanted": 0.0163,
+              "acqua_di_gio_profumo": 0.0134,
+              "la_vie_est_belle_intense": 0.0177
+            }
+          },
+          {
+            "text": "O cheiro de grama cortada no campo de futebol",
+            "points": {
+              "acqua_di_gio": 0.0334,
+              "dior_sauvage": 0.0467,
+              "natura_kaiak": 0.0385,
+              "chanel_n5": 0.0111,
+              "jade_guerlain": 0.0107,
+              "la_vie_est_belle": 0.0116,
+              "granado_ph": 0.0159,
+              "calvin_klein_defy": 0.0164,
+              "azzaro_wanted": 0.0164,
+              "natura_ekos": 0.0097,
+              "acqua_di_gio_profumo": 0.0138,
+              "la_vie_est_belle_intense": 0.0182
+            }
+          },
+          {
+            "text": "O aroma de café fresco pela manhã",
+            "points": {
+              "natura_kaiak": 0.0202,
+              "granado_ph": 0.1013,
+              "natura_ekos": 0.0559,
+              "chanel_n5": 0.0114,
+              "jade_guerlain": 0.011,
+              "dior_sauvage": 0.0117,
+              "la_vie_est_belle": 0.0117,
+              "acqua_di_gio": 0.0114,
+              "calvin_klein_defy": 0.0157,
+              "azzaro_wanted": 0.0156,
+              "acqua_di_gio_profumo": 0.0129,
+              "la_vie_est_belle_intense": 0.0165
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual fragrância combina com um dia chuvoso e melancólico?",
+        "answers": [
+          {
+            "text": "Notas florais e delicadas",
+            "points": {
+              "chanel_n5": 0.0364,
+              "jade_guerlain": 0.042,
+              "la_vie_est_belle": 0.0819,
+              "dior_sauvage": 0.0109,
+              "acqua_di_gio": 0.0107,
+              "natura_kaiak": 0.0089,
+              "granado_ph": 0.015,
+              "calvin_klein_defy": 0.0155,
+              "azzaro_wanted": 0.0154,
+              "natura_ekos": 0.0095,
+              "acqua_di_gio_profumo": 0.013,
+              "la_vie_est_belle_intense": 0.0168
+            }
+          },
+          {
+            "text": "Fragrâncias amadeiradas e intensas",
+            "points": {
+              "dior_sauvage": 0.037,
+              "acqua_di_gio": 0.0418,
+              "natura_kaiak": 0.0386,
+              "chanel_n5": 0.0111,
+              "jade_guerlain": 0.0107,
+              "la_vie_est_belle": 0.0116,
+              "granado_ph": 0.0159,
+              "calvin_klein_defy": 0.0164,
+              "azzaro_wanted": 0.0164,
+              "natura_ekos": 0.0098,
+              "acqua_di_gio_profumo": 0.0138,
+              "la_vie_est_belle_intense": 0.0183
+            }
+          },
+          {
+            "text": "Aroma de baunilha e especiarias",
+            "points": {
+              "la_vie_est_belle": 0.039,
+              "chanel_n5": 0.0438,
+              "natura_ekos": 0.0375,
+              "jade_guerlain": 0.0104,
+              "dior_sauvage": 0.0112,
+              "acqua_di_gio": 0.011,
+              "natura_kaiak": 0.0091,
+              "granado_ph": 0.0156,
+              "calvin_klein_defy": 0.0162,
+              "azzaro_wanted": 0.0161,
+              "acqua_di_gio_profumo": 0.0134,
+              "la_vie_est_belle_intense": 0.0175
+            }
+          },
+          {
+            "text": "Notas cítricas e frescas",
+            "points": {
+              "acqua_di_gio": 0.0279,
+              "jade_guerlain": 0.028,
+              "acqua_di_gio_profumo": 0.0835,
+              "chanel_n5": 0.011,
+              "dior_sauvage": 0.0113,
+              "la_vie_est_belle": 0.0113,
+              "natura_kaiak": 0.0091,
+              "granado_ph": 0.0148,
+              "calvin_klein_defy": 0.0152,
+              "azzaro_wanted": 0.0151,
+              "natura_ekos": 0.0097,
+              "la_vie_est_belle_intense": 0.0161
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual perfume você usaria em uma noite romântica e especial?",
+        "answers": [
+          {
+            "text": "Um perfume floral e delicado",
+            "points": {
+              "chanel_n5": 0.0364,
+              "jade_guerlain": 0.042,
+              "la_vie_est_belle": 0.0819,
+              "dior_sauvage": 0.0109,
+              "acqua_di_gio": 0.0107,
+              "natura_kaiak": 0.0089,
+              "granado_ph": 0.015,
+              "calvin_klein_defy": 0.0155,
+              "azzaro_wanted": 0.0154,
+              "natura_ekos": 0.0095,
+              "acqua_di_gio_profumo": 0.013,
+              "la_vie_est_belle_intense": 0.0168
+            }
+          },
+          {
+            "text": "Algo amadeirado e sensual",
+            "points": {
+              "dior_sauvage": 0.037,
+              "acqua_di_gio": 0.0418,
+              "natura_kaiak": 0.0386,
+              "chanel_n5": 0.0111,
+              "jade_guerlain": 0.0107,
+              "la_vie_est_belle": 0.0116,
+              "granado_ph": 0.0159,
+              "calvin_klein_defy": 0.0164,
+              "azzaro_wanted": 0.0164,
+              "natura_ekos": 0.0098,
+              "acqua_di_gio_profumo": 0.0138,
+              "la_vie_est_belle_intense": 0.0183
+            }
+          },
+          {
+            "text": "Uma fragrância doce e aconchegante",
+            "points": {
+              "la_vie_est_belle": 0.039,
+              "chanel_n5": 0.0438,
+              "natura_ekos": 0.0375,
+              "jade_guerlain": 0.0104,
+              "dior_sauvage": 0.0112,
+              "acqua_di_gio": 0.011,
+              "natura_kaiak": 0.0091,
+              "granado_ph": 0.0156,
+              "calvin_klein_defy": 0.0162,
+              "azzaro_wanted": 0.0161,
+              "acqua_di_gio_profumo": 0.0134,
+              "la_vie_est_belle_intense": 0.0175
+            }
+          },
+          {
+            "text": "Notas orientais e envolventes",
+            "points": {
+              "jade_guerlain": 0.0306,
+              "dior_sauvage": 0.0372,
+              "natura_ekos": 0.0379,
+              "chanel_n5": 0.011,
+              "la_vie_est_belle": 0.0113,
+              "acqua_di_gio": 0.011,
+              "natura_kaiak": 0.009,
+              "granado_ph": 0.0161,
+              "calvin_klein_defy": 0.0167,
+              "azzaro_wanted": 0.0168,
+              "acqua_di_gio_profumo": 0.0137,
+              "la_vie_est_belle_intense": 0.0182
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual fragrância te faz sentir poderoso(a) e confiante?",
+        "answers": [
+          {
+            "text": "Um perfume de uma marca de luxo",
+            "points": {
+              "calvin_klein_defy": 0.0776,
+              "azzaro_wanted": 0.1234,
+              "natura_kaiak": 0.0462,
+              "chanel_n5": 0.011,
+              "jade_guerlain": 0.0107,
+              "dior_sauvage": 0.0114,
+              "la_vie_est_belle": 0.0114,
+              "acqua_di_gio": 0.011,
+              "granado_ph": 0.014,
+              "natura_ekos": 0.0094,
+              "acqua_di_gio_profumo": 0.012,
+              "la_vie_est_belle_intense": 0.0144
+            }
+          },
+          {
+            "text": "O perfume de uma celebridade famosa",
+            "points": {
+              "azzaro_wanted": 0.0753,
+              "calvin_klein_defy": 0.1173,
+              "natura_kaiak": 0.0407,
+              "chanel_n5": 0.011,
+              "jade_guerlain": 0.0106,
+              "dior_sauvage": 0.0112,
+              "la_vie_est_belle": 0.0113,
+              "acqua_di_gio": 0.011,
+              "granado_ph": 0.0139,
+              "natura_ekos": 0.0094,
+              "acqua_di_gio_profumo": 0.0117,
+              "la_vie_est_belle_intense": 0.0143
+            }
+          },
+          {
+            "text": "Um perfume exclusivo, feito sob medida",
+            "points": {
+              "natura_kaiak": 0.0202,
+              "granado_ph": 0.1037,
+              "natura_ekos": 0.0518,
+              "chanel_n5": 0.0113,
+              "jade_guerlain": 0.0109,
+              "dior_sauvage": 0.0117,
+              "la_vie_est_belle": 0.0116,
+              "acqua_di_gio": 0.0114,
+              "calvin_klein_defy": 0.0154,
+              "azzaro_wanted": 0.0153,
+              "acqua_di_gio_profumo": 0.0128,
+              "la_vie_est_belle_intense": 0.0163
+            }
+          },
+          {
+            "text": "Notas amadeiradas e intensas",
+            "points": {
+              "dior_sauvage": 0.037,
+              "acqua_di_gio": 0.0418,
+              "natura_kaiak": 0.0386,
+              "chanel_n5": 0.0111,
+              "jade_guerlain": 0.0107,
+              "la_vie_est_belle": 0.0116,
+              "granado_ph": 0.0159,
+              "calvin_klein_defy": 0.0164,
+              "azzaro_wanted": 0.0164,
+              "natura_ekos": 0.0098,
+              "acqua_di_gio_profumo": 0.0138,
+              "la_vie_est_belle_intense": 0.0183
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual aroma te faz lembrar de uma viagem memorável?",
+        "answers": [
+          {
+            "text": "O cheiro do mar e das conchas na praia",
+            "points": {
+              "acqua_di_gio": 0.0334,
+              "jade_guerlain": 0.0373,
+              "acqua_di_gio_profumo": 0.097,
+              "chanel_n5": 0.0113,
+              "dior_sauvage": 0.0115,
+              "la_vie_est_belle": 0.0115,
+              "natura_kaiak": 0.0092,
+              "granado_ph": 0.0152,
+              "calvin_klein_defy": 0.0155,
+              "azzaro_wanted": 0.0154,
+              "natura_ekos": 0.0097,
+              "la_vie_est_belle_intense": 0.0163
+            }
+          },
+          {
+            "text": "A fragrância das flores em um jardim exótico",
+            "points": {
+              "jade_guerlain": 0.0306,
+              "chanel_n5": 0.0365,
+              "natura_ekos": 0.0384,
+              "dior_sauvage": 0.0111,
+              "la_vie_est_belle": 0.0114,
+              "acqua_di_gio": 0.0109,
+              "natura_kaiak": 0.009,
+              "granado_ph": 0.0162,
+              "calvin_klein_defy": 0.0168,
+              "azzaro_wanted": 0.0168,
+              "acqua_di_gio_profumo": 0.0136,
+              "la_vie_est_belle_intense": 0.0182
+            }
+          },
+          {
+            "text": "O aroma de especiarias em um mercado oriental",
+            "points": {
+              "dior_sauvage": 0.037,
+              "acqua_di_gio": 0.0457,
+              "natura_kaiak": 0.0399,
+              "chanel_n5": 0.0111,
+              "jade_guerlain": 0.0108,
+              "la_vie_est_belle": 0.0117,
+              "granado_ph": 0.0161,
+              "calvin_klein_defy": 0.0166,
+              "azzaro_wanted": 0.0165,
+              "natura_ekos": 0.0098,
+              "acqua_di_gio_profumo": 0.0138,
+              "la_vie_est_belle_intense": 0.0184
+            }
+          },
+          {
+            "text": "O cheiro de chocolate quente em uma cidade europeia",
+            "points": {
+              "la_vie_est_belle": 0.039,
+              "chanel_n5": 0.0438,
+              "natura_ekos": 0.0375,
+              "jade_guerlain": 0.0104,
+              "dior_sauvage": 0.0112,
+              "acqua_di_gio": 0.011,
+              "natura_kaiak": 0.0091,
+              "granado_ph": 0.0156,
+              "calvin_klein_defy": 0.0162,
+              "azzaro_wanted": 0.0161,
+              "acqua_di_gio_profumo": 0.0134,
+              "la_vie_est_belle_intense": 0.0175
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual fragrância te faz sentir relaxado(a) e em paz?",
+        "answers": [
+          {
+            "text": "Notas de lavanda e camomila",
+            "points": {
+              "jade_guerlain": 0.0306,
+              "chanel_n5": 0.0466,
+              "natura_ekos": 0.0383,
+              "dior_sauvage": 0.0112,
+              "la_vie_est_belle": 0.0114,
+              "acqua_di_gio": 0.011,
+              "natura_kaiak": 0.009,
+              "granado_ph": 0.0161,
+              "calvin_klein_defy": 0.0167,
+              "azzaro_wanted": 0.0166,
+              "acqua_di_gio_profumo": 0.0135,
+              "la_vie_est_belle_intense": 0.018
+            }
+          },
+          {
+            "text": "Aroma de sândalo e almíscar",
+            "points": {
+              "dior_sauvage": 0.037,
+              "acqua_di_gio": 0.0457,
+              "natura_kaiak": 0.0399,
+              "chanel_n5": 0.0111,
+              "jade_guerlain": 0.0108,
+              "la_vie_est_belle": 0.0117,
+              "granado_ph": 0.0161,
+              "calvin_klein_defy": 0.0166,
+              "azzaro_wanted": 0.0165,
+              "natura_ekos": 0.0098,
+              "acqua_di_gio_profumo": 0.0138,
+              "la_vie_est_belle_intense": 0.0184
+            }
+          },
+          {
+            "text": "Fragrância de baunilha e caramelo",
+            "points": {
+              "la_vie_est_belle": 0.039,
+              "jade_guerlain": 0.0431,
+              "natura_ekos": 0.0427,
+              "chanel_n5": 0.0113,
+              "dior_sauvage": 0.0115,
+              "acqua_di_gio": 0.0111,
+              "natura_kaiak": 0.0091,
+              "granado_ph": 0.0163,
+              "calvin_klein_defy": 0.0169,
+              "azzaro_wanted": 0.0169,
+              "acqua_di_gio_profumo": 0.0136,
+              "la_vie_est_belle_intense": 0.0182
+            }
+          },
+          {
+            "text": "Notas cítricas e suaves",
+            "points": {
+              "acqua_di_gio": 0.0279,
+              "dior_sauvage": 0.0398,
+              "natura_kaiak": 0.0324,
+              "chanel_n5": 0.0108,
+              "jade_guerlain": 0.0104,
+              "la_vie_est_belle": 0.0114,
+              "granado_ph": 0.0153,
+              "calvin_klein_defy": 0.0159,
+              "azzaro_wanted": 0.016,
+              "natura_ekos": 0.0096,
+              "acqua_di_gio_profumo": 0.0134,
+              "la_vie_est_belle_intense": 0.0178
+            }
+          }
+        ]
+      }
+    ],
+    "descriptions": {
+      "chanel_n5": {
+        "title": "Chanel Nº 5",
+        "emoji": "🌟",
+        "subtitle": "A Essência da Elegância",
+        "text": "Você é o Chanel Nº 5! Um perfume icônico e atemporal, amado por gerações. Sua presença é marcante e exala sofisticação em qualquer ocasião."
+      },
+      "jade_guerlain": {
+        "title": "Jade de Guerlain",
+        "emoji": "🌿",
+        "subtitle": "A Fragrância da Natureza",
+        "text": "Jade de Guerlain é a sua fragrância! Fresca e natural, como um passeio por um jardim encantado. Traz tranquilidade e beleza para o seu dia a dia."
+      },
+      "dior_sauvage": {
+        "title": "Dior Sauvage",
+        "emoji": "🌍",
+        "subtitle": "O Selvagem Urbano",
+        "text": "Você é o Dior Sauvage! Um perfume que combina a liberdade da natureza com a sofisticação da cidade. Perfeito para quem busca uma aventura olfativa."
+      },
+      "la_vie_est_belle": {
+        "title": "La Vie Est Belle",
+        "emoji": "🌼",
+        "subtitle": "A Beleza da Vida",
+        "text": "La Vie Est Belle é o seu perfume! Doce e encantadora, celebra a alegria de viver. Irradia felicidade e torna cada momento especial."
+      },
+      "acqua_di_gio": {
+        "title": "Acqua di Giò",
+        "emoji": "🌊",
+        "subtitle": "A Brisa do Mar",
+        "text": "Acqua di Giò é a sua fragrância! Fresca e revigorante, como um mergulho no mar. Perfeita para quem ama a liberdade e a vida ao ar livre."
+      },
+      "natura_kaiak": {
+        "title": "Natura Kaiak",
+        "emoji": "🌱",
+        "subtitle": "Aventura na Natureza",
+        "text": "Natura Kaiak é o seu perfume! Uma aventura perfumada na natureza, com notas frescas e energizantes. Perfeito para quem busca explorar o mundo."
+      },
+      "granado_ph": {
+        "title": "Granado PH",
+        "emoji": "🌸",
+        "subtitle": "Clássico Brasileiro",
+        "text": "Granado PH é o seu perfume! Um clássico da perfumaria brasileira, com uma história rica e uma fragrância encantadora. Perfeito para quem aprecia a tradição e a qualidade."
+      },
+      "calvin_klein_defy": {
+        "title": "Calvin Klein Defy",
+        "emoji": "💥",
+        "subtitle": "Desafio e Ousadia",
+        "text": "Calvin Klein Defy é a sua fragrância! Um perfume que desafia as convenções, com notas modernas e vibrantes. Perfeito para quem busca se destacar e deixar sua marca."
+      },
+      "azzaro_wanted": {
+        "title": "Azzaro Wanted",
+        "emoji": "🌟",
+        "subtitle": "Desejo e Sofisticação",
+        "text": "Azzaro Wanted é o seu perfume! Uma fragrância desejada e sofisticada, com notas elegantes e envolventes. Perfeito para quem quer se sentir confiante e atraente."
+      },
+      "natura_ekos": {
+        "title": "Natura Ekos",
+        "emoji": "🌴",
+        "subtitle": "A Beleza da Natureza Brasileira",
+        "text": "Natura Ekos é o seu perfume! Uma celebração da natureza brasileira, com notas frescas e exóticas. Perfeito para quem busca uma conexão com a riqueza da biodiversidade do Brasil."
+      },
+      "acqua_di_gio_profumo": {
+        "title": "Acqua di Giò Profumo",
+        "emoji": "🌊",
+        "subtitle": "A Profundidade do Mar",
+        "text": "Acqua di Giò Profumo é a sua fragrância! Uma versão mais intensa e profunda do Acqua di Giò, com notas amadeiradas e aquáticas. Perfeito para quem busca uma experiência olfativa marcante."
+      },
+      "la_vie_est_belle_intense": {
+        "title": "La Vie Est Belle Intense",
+        "emoji": "🌟",
+        "subtitle": "A Intensidade da Beleza",
+        "text": "La Vie Est Belle Intense é o seu perfume! Uma versão mais intensa e sensual do La Vie Est Belle, com notas de baunilha e patchouli. Perfeito para quem quer deixar uma impressão duradoura."
+      }
+    }
+  }
