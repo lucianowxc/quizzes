@@ -244,7 +244,11 @@
       "name": "Qual flor do dia você é?",
       "file": "quizzes/quizFlorDoDia.json",
       "description": "Descubra qual flor você representa hoje!"
+    },
+    {
+      "name": "Quem é você na vila do Chaves?",
+      "file": "quizzes/quizChaves.json",
+      "description": "Descubra qual personagem da vila do Chaves mais se parece com você! (baseado no Quizur https://pt.quizur.com/quiz/quem-voce-e-na-vila-do-chaves-yKTY)"
     }
-
   ]
 }
