@@ -1,0 +1,669 @@
+{
+  "title": "Qual Andar Você Seria?",
+  "subtitle": "Descubra qual andar do prédio mais se parece com a sua personalidade!",
+  "questions": [
+    {
+      "question": "Você acabou de encontrar um tesouro escondido no seu prédio. O que você faz?",
+      "answers": [
+        {
+          "text": "Escondo no subsolo, ninguém vai achar lá!",
+          "points": {
+            "andar_negativo": 0.0746,
+            "portaria": 0.0046,
+            "quinto_andar": 0.0049,
+            "sétimo_andar": 0.0055,
+            "nono_andar": 0.0085,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0053,
+            "décimo_segundo_andar": 0.0062,
+            "campos_de_piratininga": 0.0103,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Levo para a portaria, seguro e prático.",
+          "points": {
+            "portaria": 0.0745,
+            "andar_negativo": 0.0046,
+            "quinto_andar": 0.0049,
+            "sétimo_andar": 0.0055,
+            "nono_andar": 0.0084,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0053,
+            "décimo_segundo_andar": 0.0061,
+            "campos_de_piratininga": 0.0103,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Mudo para um andar provisório, perfeito para constantes mudanças.",
+          "points": {
+            "quinto_andar": 0.0761,
+            "andar_negativo": 0.0046,
+            "portaria": 0.0047,
+            "sétimo_andar": 0.0054,
+            "nono_andar": 0.0084,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0052,
+            "décimo_segundo_andar": 0.0061,
+            "campos_de_piratininga": 0.0102,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Troco por um monte de queijos.",
+          "points": {
+            "sétimo_andar": 0.0831,
+            "andar_negativo": 0.0044,
+            "portaria": 0.0046,
+            "quinto_andar": 0.0048,
+            "nono_andar": 0.0081,
+            "décimo_andar": 0.0078,
+            "décimo_primeiro_andar": 0.005,
+            "décimo_segundo_andar": 0.006,
+            "campos_de_piratininga": 0.0099,
+            "paulista": 0.0066,
+            "verbo_divino": 0.0145
+          }
+        },
+        {
+          "text": "Declaro que é meu e guardo com orgulho.",
+          "points": {
+            "nono_andar": 0.1245,
+            "andar_negativo": 0.0039,
+            "portaria": 0.0038,
+            "quinto_andar": 0.004,
+            "sétimo_andar": 0.0044,
+            "décimo_andar": 0.0066,
+            "décimo_primeiro_andar": 0.0042,
+            "décimo_segundo_andar": 0.0049,
+            "campos_de_piratininga": 0.0082,
+            "paulista": 0.0055,
+            "verbo_divino": 0.0122
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu superpoder ideal?",
+      "answers": [
+        {
+          "text": "Sumir nas sombras.",
+          "points": {
+            "andar_negativo": 0.0746,
+            "portaria": 0.0046,
+            "quinto_andar": 0.0049,
+            "sétimo_andar": 0.0055,
+            "nono_andar": 0.0085,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0053,
+            "décimo_segundo_andar": 0.0062,
+            "campos_de_piratininga": 0.0103,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Atravessar portas como um mestre.",
+          "points": {
+            "portaria": 0.0745,
+            "andar_negativo": 0.0046,
+            "quinto_andar": 0.0049,
+            "sétimo_andar": 0.0055,
+            "nono_andar": 0.0084,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0053,
+            "décimo_segundo_andar": 0.0061,
+            "campos_de_piratininga": 0.0103,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Transformar coisas sem uso.",
+          "points": {
+            "quinto_andar": 0.0761,
+            "andar_negativo": 0.0046,
+            "portaria": 0.0047,
+            "sétimo_andar": 0.0054,
+            "nono_andar": 0.0084,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0052,
+            "décimo_segundo_andar": 0.0061,
+            "campos_de_piratininga": 0.0102,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Furtar queijos sem ser pego.",
+          "points": {
+            "sétimo_andar": 0.0831,
+            "andar_negativo": 0.0044,
+            "portaria": 0.0046,
+            "quinto_andar": 0.0048,
+            "nono_andar": 0.0081,
+            "décimo_andar": 0.0078,
+            "décimo_primeiro_andar": 0.005,
+            "décimo_segundo_andar": 0.006,
+            "campos_de_piratininga": 0.0099,
+            "paulista": 0.0066,
+            "verbo_divino": 0.0145
+          }
+        },
+        {
+          "text": "Ser invencível e admirado.",
+          "points": {
+            "nono_andar": 0.1245,
+            "andar_negativo": 0.0039,
+            "portaria": 0.0038,
+            "quinto_andar": 0.004,
+            "sétimo_andar": 0.0044,
+            "décimo_andar": 0.0066,
+            "décimo_primeiro_andar": 0.0042,
+            "décimo_segundo_andar": 0.0049,
+            "campos_de_piratininga": 0.0082,
+            "paulista": 0.0055,
+            "verbo_divino": 0.0122
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você encontrou seu prato favorito no décimo primeiro andar. O que faz?",
+      "answers": [
+        {
+          "text": "Como tudo sem deixar rastros!",
+          "points": {
+            "décimo_primeiro_andar": 0.0758,
+            "andar_negativo": 0.0047,
+            "portaria": 0.0047,
+            "quinto_andar": 0.005,
+            "sétimo_andar": 0.0056,
+            "nono_andar": 0.0085,
+            "décimo_andar": 0.0082,
+            "décimo_segundo_andar": 0.0061,
+            "campos_de_piratininga": 0.0101,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Guardo um pouco para mais tarde, estratégia pura.",
+          "points": {
+            "décimo_primeiro_andar": 0.0608,
+            "andar_negativo": 0.0041,
+            "portaria": 0.0043,
+            "quinto_andar": 0.0045,
+            "sétimo_andar": 0.0051,
+            "nono_andar": 0.0079,
+            "décimo_andar": 0.0076,
+            "décimo_segundo_andar": 0.0057,
+            "campos_de_piratininga": 0.0095,
+            "paulista": 0.0063,
+            "verbo_divino": 0.014
+          }
+        },
+        {
+          "text": "Divido com os amigos, felicidade está em compartilhar.",
+          "points": {
+            "portaria": 0.0745,
+            "andar_negativo": 0.0046,
+            "quinto_andar": 0.0049,
+            "sétimo_andar": 0.0055,
+            "nono_andar": 0.0084,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0053,
+            "décimo_segundo_andar": 0.0061,
+            "campos_de_piratininga": 0.0103,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Escondo nas sombras e como sozinho.",
+          "points": {
+            "andar_negativo": 0.0746,
+            "portaria": 0.0046,
+            "quinto_andar": 0.0049,
+            "sétimo_andar": 0.0055,
+            "nono_andar": 0.0085,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0053,
+            "décimo_segundo_andar": 0.0062,
+            "campos_de_piratininga": 0.0103,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Troco por um novo prato desconhecido.",
+          "points": {
+            "décimo_segundo_andar": 0.0879,
+            "andar_negativo": 0.0044,
+            "portaria": 0.0045,
+            "quinto_andar": 0.0047,
+            "sétimo_andar": 0.0052,
+            "nono_andar": 0.008,
+            "décimo_andar": 0.0077,
+            "décimo_primeiro_andar": 0.005,
+            "campos_de_piratininga": 0.0096,
+            "paulista": 0.0065,
+            "verbo_divino": 0.0141
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você encontrou um elevador quebrado no prédio. O que você faz?",
+      "answers": [
+        {
+          "text": "Procuro uma escada secreta.",
+          "points": {
+            "andar_negativo": 0.0746,
+            "campos_de_piratininga": 0.1734,
+            "portaria": 0.0038,
+            "quinto_andar": 0.004,
+            "sétimo_andar": 0.0042,
+            "nono_andar": 0.0064,
+            "décimo_andar": 0.0062,
+            "décimo_primeiro_andar": 0.004,
+            "décimo_segundo_andar": 0.0047,
+            "paulista": 0.0051,
+            "verbo_divino": 0.0109
+          }
+        },
+        {
+          "text": "Peço ajuda na portaria.",
+          "points": {
+            "portaria": 0.0745,
+            "paulista": 0.1153,
+            "andar_negativo": 0.0045,
+            "quinto_andar": 0.0046,
+            "sétimo_andar": 0.005,
+            "nono_andar": 0.0075,
+            "décimo_andar": 0.0073,
+            "décimo_primeiro_andar": 0.0047,
+            "décimo_segundo_andar": 0.0055,
+            "campos_de_piratininga": 0.009,
+            "verbo_divino": 0.0128
+          }
+        },
+        {
+          "text": "Tento consertar sozinho, adoro um desafio!",
+          "points": {
+            "verbo_divino": 0.2022,
+            "quinto_andar": 0.1465,
+            "andar_negativo": 0.0033,
+            "portaria": 0.0034,
+            "sétimo_andar": 0.0038,
+            "nono_andar": 0.0057,
+            "décimo_andar": 0.0055,
+            "décimo_primeiro_andar": 0.0035,
+            "décimo_segundo_andar": 0.0041,
+            "campos_de_piratininga": 0.0068,
+            "paulista": 0.0045
+          }
+        },
+        {
+          "text": "Troco um queijo com o técnico para ele consertar rapidamente.",
+          "points": {
+            "sétimo_andar": 0.0831,
+            "andar_negativo": 0.0044,
+            "portaria": 0.0046,
+            "quinto_andar": 0.0048,
+            "nono_andar": 0.0081,
+            "décimo_andar": 0.0078,
+            "décimo_primeiro_andar": 0.005,
+            "décimo_segundo_andar": 0.006,
+            "campos_de_piratininga": 0.0099,
+            "paulista": 0.0066,
+            "verbo_divino": 0.0145
+          }
+        },
+        {
+          "text": "Uso o tempo para explorar outro andar.",
+          "points": {
+            "décimo_segundo_andar": 0.0879,
+            "décimo_primeiro_andar": 0.098,
+            "andar_negativo": 0.0044,
+            "portaria": 0.0045,
+            "quinto_andar": 0.0045,
+            "sétimo_andar": 0.005,
+            "nono_andar": 0.0077,
+            "décimo_andar": 0.0074,
+            "campos_de_piratininga": 0.0089,
+            "paulista": 0.006,
+            "verbo_divino": 0.013
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você pudesse reformar qualquer andar do prédio, qual seria?",
+      "answers": [
+        {
+          "text": "Andar negativo, para guardar melhor meus segredos.",
+          "points": {
+            "andar_negativo": 0.0746,
+            "portaria": 0.0046,
+            "quinto_andar": 0.0049,
+            "sétimo_andar": 0.0055,
+            "nono_andar": 0.0085,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0053,
+            "décimo_segundo_andar": 0.0062,
+            "campos_de_piratininga": 0.0103,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "A portaria, para que fique mais elegante.",
+          "points": {
+            "portaria": 0.0745,
+            "paulista": 0.1153,
+            "andar_negativo": 0.0045,
+            "quinto_andar": 0.0046,
+            "sétimo_andar": 0.005,
+            "nono_andar": 0.0075,
+            "décimo_andar": 0.0073,
+            "décimo_primeiro_andar": 0.0047,
+            "décimo_segundo_andar": 0.0055,
+            "campos_de_piratininga": 0.009,
+            "verbo_divino": 0.0128
+          }
+        },
+        {
+          "text": "O quinto andar, que sempre está mudando.",
+          "points": {
+            "quinto_andar": 0.0761,
+            "nono_andar": 0.1549,
+            "andar_negativo": 0.0038,
+            "portaria": 0.0038,
+            "sétimo_andar": 0.0044,
+            "décimo_andar": 0.0062,
+            "décimo_primeiro_andar": 0.004,
+            "décimo_segundo_andar": 0.0047,
+            "campos_de_piratininga": 0.0079,
+            "paulista": 0.0052,
+            "verbo_divino": 0.0114
+          }
+        },
+        {
+          "text": "O sétimo andar, para ter uma melhor armazenagem de queijos.",
+          "points": {
+            "sétimo_andar": 0.0831,
+            "décimo_andar": 0.1443,
+            "andar_negativo": 0.0038,
+            "portaria": 0.0039,
+            "quinto_andar": 0.0041,
+            "nono_andar": 0.0066,
+            "décimo_primeiro_andar": 0.0041,
+            "décimo_segundo_andar": 0.0047,
+            "campos_de_piratininga": 0.008,
+            "paulista": 0.0053,
+            "verbo_divino": 0.0115
+          }
+        },
+        {
+          "text": "Daria um upgrade moderno no décimo segundo andar.",
+          "points": {
+            "décimo_segundo_andar": 0.0879,
+            "décimo_primeiro_andar": 0.098,
+            "andar_negativo": 0.0044,
+            "portaria": 0.0045,
+            "quinto_andar": 0.0045,
+            "sétimo_andar": 0.005,
+            "nono_andar": 0.0077,
+            "décimo_andar": 0.0074,
+            "campos_de_piratininga": 0.0089,
+            "paulista": 0.006,
+            "verbo_divino": 0.013
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você tem a chance de organizar uma festa no prédio. Qual seria o tema?",
+      "answers": [
+        {
+          "text": "Festa à fantasia nas catacumbas.",
+          "points": {
+            "andar_negativo": 0.0746,
+            "portaria": 0.0046,
+            "quinto_andar": 0.0049,
+            "sétimo_andar": 0.0055,
+            "nono_andar": 0.0085,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0053,
+            "décimo_segundo_andar": 0.0062,
+            "campos_de_piratininga": 0.0103,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Festa de boas-vindas na portaria.",
+          "points": {
+            "portaria": 0.0745,
+            "décimo_segundo_andar": 0.108,
+            "andar_negativo": 0.0044,
+            "quinto_andar": 0.0045,
+            "sétimo_andar": 0.005,
+            "nono_andar": 0.0076,
+            "décimo_andar": 0.0074,
+            "décimo_primeiro_andar": 0.0047,
+            "campos_de_piratininga": 0.0091,
+            "paulista": 0.0061,
+            "verbo_divino": 0.0132
+          }
+        },
+        {
+          "text": "Festa da mudança no quinto andar, com decoração mutável.",
+          "points": {
+            "quinto_andar": 0.0761,
+            "andar_negativo": 0.0046,
+            "portaria": 0.0047,
+            "sétimo_andar": 0.0054,
+            "nono_andar": 0.0084,
+            "décimo_andar": 0.0081,
+            "décimo_primeiro_andar": 0.0052,
+            "décimo_segundo_andar": 0.0061,
+            "campos_de_piratininga": 0.0102,
+            "paulista": 0.0068,
+            "verbo_divino": 0.0149
+          }
+        },
+        {
+          "text": "Queijo e vinho no sétimo andar.",
+          "points": {
+            "sétimo_andar": 0.0831,
+            "paulista": 0.1145,
+            "andar_negativo": 0.0043,
+            "portaria": 0.0044,
+            "quinto_andar": 0.0045,
+            "nono_andar": 0.0074,
+            "décimo_andar": 0.0071,
+            "décimo_primeiro_andar": 0.0046,
+            "décimo_segundo_andar": 0.0053,
+            "campos_de_piratininga": 0.0087,
+            "verbo_divino": 0.0126
+          }
+        },
+        {
+          "text": "Festa de nostalgia no décimo andar, com músicas antigas.",
+          "points": {
+            "décimo_andar": 0.1193,
+            "décimo_primeiro_andar": 0.1053,
+            "andar_negativo": 0.0039,
+            "portaria": 0.004,
+            "quinto_andar": 0.0041,
+            "sétimo_andar": 0.0045,
+            "nono_andar": 0.0068,
+            "décimo_segundo_andar": 0.0048,
+            "campos_de_piratininga": 0.008,
+            "paulista": 0.0053,
+            "verbo_divino": 0.0116
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você encontrou um mascote no prédio. O que faz com ele?",
+      "answers": [
+        {
+          "text": "Levo para o andar secreto, onde ficará seguro.",
+          "points": {
+            "andar_negativo": 0.0746,
+            "campos_de_piratininga": 0.1734,
+            "portaria": 0.0038,
+            "quinto_andar": 0.004,
+            "sétimo_andar": 0.0042,
+            "nono_andar": 0.0064,
+            "décimo_andar": 0.0062,
+            "décimo_primeiro_andar": 0.004,
+            "décimo_segundo_andar": 0.0047,
+            "paulista": 0.0051,
+            "verbo_divino": 0.0109
+          }
+        },
+        {
+          "text": "Deixo na portaria para todos apreciarem.",
+          "points": {
+            "portaria": 0.0745,
+            "paulista": 0.1153,
+            "andar_negativo": 0.0045,
+            "quinto_andar": 0.0046,
+            "sétimo_andar": 0.005,
+            "nono_andar": 0.0075,
+            "décimo_andar": 0.0073,
+            "décimo_primeiro_andar": 0.0047,
+            "décimo_segundo_andar": 0.0055,
+            "campos_de_piratininga": 0.009,
+            "verbo_divino": 0.0128
+          }
+        },
+        {
+          "text": "Mudo de andar com ele para que se adapte melhor.",
+          "points": {
+            "quinto_andar": 0.0761,
+            "décimo_segundo_andar": 0.1108,
+            "andar_negativo": 0.0043,
+            "portaria": 0.0044,
+            "sétimo_andar": 0.0049,
+            "nono_andar": 0.0076,
+            "décimo_andar": 0.0072,
+            "décimo_primeiro_andar": 0.0047,
+            "campos_de_piratininga": 0.0089,
+            "paulista": 0.006,
+            "verbo_divino": 0.013
+          }
+        },
+        {
+          "text": "Troco por alguns queijos e deixo no sétimo andar.",
+          "points": {
+            "sétimo_andar": 0.0831,
+            "andar_negativo": 0.0044,
+            "portaria": 0.0046,
+            "quinto_andar": 0.0048,
+            "nono_andar": 0.0081,
+            "décimo_andar": 0.0078,
+            "décimo_primeiro_andar": 0.005,
+            "décimo_segundo_andar": 0.006,
+            "campos_de_piratininga": 0.0099,
+            "paulista": 0.0066,
+            "verbo_divino": 0.0145
+          }
+        },
+        {
+          "text": "Adoto como o mascote oficial do décimo primeiro andar, porque todos amam mascotes!",
+          "points": {
+            "décimo_primeiro_andar": 0.0758,
+            "décimo_andar": 0.152,
+            "andar_negativo": 0.0038,
+            "portaria": 0.004,
+            "quinto_andar": 0.004,
+            "sétimo_andar": 0.0045,
+            "nono_andar": 0.0067,
+            "décimo_segundo_andar": 0.0048,
+            "campos_de_piratininga": 0.008,
+            "paulista": 0.0053,
+            "verbo_divino": 0.0115
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "andar_negativo": {
+      "title": "Andar Negativo",
+      "emoji": "🖤",
+      "subtitle": "Guardião dos Segredos Sombrios",
+      "text": "Você guarda um segredo sombrio! Está sempre escondido nas sombras, mas com um mistério irresistível."
+    },
+    "portaria": {
+      "title": "Portaria",
+      "emoji": "🚪",
+      "subtitle": "Pronto para Partir",
+      "text": "Você está sempre pronto para ir embora de qualquer situação! Praticidade é seu segundo nome."
+    },
+    "quinto_andar": {
+      "title": "Quinto Andar",
+      "emoji": "🔄",
+      "subtitle": "Provisório e Mutável",
+      "text": "Você é provisório e está em constante mudança, adaptando-se às novas circunstâncias como ninguém."
+    },
+    "sétimo_andar": {
+      "title": "Sétimo Andar",
+      "emoji": "🧀",
+      "subtitle": "Ladrão de Queijos",
+      "text": "Você é ladrão e sempre procura tirar vantagem dos outros! No entanto, você sempre tem queijo!"
+    },
+    "nono_andar": {
+      "title": "Nono Andar",
+      "emoji": "👑",
+      "subtitle": "O Melhor de Todos",
+      "text": "Você se acha, mas é o melhor! Orgulho e excelência te definem."
+    },
+    "décimo_andar": {
+      "title": "Décimo Andar",
+      "emoji": "🎭",
+      "subtitle": "Saudosista",
+      "text": "Você se lembra do passado com carinho e lamenta. Nostalgia é o seu forte."
+    },
+    "décimo_primeiro_andar": {
+      "title": "Décimo Primeiro Andar",
+      "emoji": "🍔",
+      "subtitle": "Amante da Comida",
+      "text": "Você ama comer!!! Seu amor pela gastronomia é incomparável."
+    },
+    "décimo_segundo_andar": {
+      "title": "Décimo Segundo Andar",
+      "emoji": "🌍",
+      "subtitle": "Explorador do Mundo",
+      "text": "Você é novo e está explorando o mundo! Cada dia é uma nova aventura."
+    },
+    "campos_de_piratininga": {
+      "title": "Campos de Piratininga",
+      "emoji": "🌾",
+      "subtitle": "Exilado Triste",
+      "text": "Você foi exilado, que triste! Mas ainda há esperança em seu coração."
+    },
+    "paulista": {
+      "title": "Paulista",
+      "emoji": "💼",
+      "subtitle": "Refinado e Negociante",
+      "text": "Você é refinado e gosta de negócios, então foi exilado para um lugar chique!"
+    },
+    "verbo_divino": {
+      "title": "Verbo Divino",
+      "emoji": "🔧",
+      "subtitle": "Amante de Tubos e Conexões",
+      "text": "Você ama tubos e conexões! Nada te faz mais feliz do que um sistema bem montado."
+    }
+  }
+}
