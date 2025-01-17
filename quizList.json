@@ -9,6 +9,11 @@
       "name": "Qual Power Ranger Melhor Te Representa?",
       "file": "quizzes/quizDataPowerRanger.json",
       "description": "Veja qual Power Ranger melhor representa você!"
+    },    
+    {
+      "name": "Qual Andar Você Seria?",
+      "file": "quizzes/quizAndar.json",
+      "description": "Descubra qual andar do prédio mais se parece com a sua personalidade!"
     },
     {
       "name": "Qual Princesa Disney Te Representa?",
