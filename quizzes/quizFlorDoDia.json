@@ -1,0 +1,86 @@
+{
+  "title": "Qual flor do dia você é?",
+  "subtitle": "Descubra qual flor você representa hoje!",
+  "questions": [
+    {
+      "question": "Qual seu ritual matinal favorito?",
+      "answers": [
+        { "text": "☕ Tomar um café quentinho", "points": { "rosa": 1, "tulipa": 0.5, "girassol": 0.3, "flor": 0.2 } },
+        { "text": "🗞️ Ler o jornal", "points": { "tulipa": 1, "rosa": 0.4, "girassol": 0.2, "flor": 0.5 } },
+        { "text": "🌼 Cuidar do jardim", "points": { "girassol": 1, "rosa": 0.5, "tulipa": 0.3, "flor": 0.4 } },
+        { "text": "📱 Mandar bom dia no grupo da família", "points": { "flor": 1, "girassol": 0.5, "tulipa": 0.4, "rosa": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual dessas atividades você mais gosta?",
+      "answers": [
+        { "text": "🌳 Passear no parque", "points": { "girassol": 1, "rosa": 0.4, "flor": 0.5, "tulipa": 0.3 } },
+        { "text": "📺 Assistir uma novela", "points": { "tulipa": 1, "rosa": 0.3, "girassol": 0.4, "flor": 0.5 } },
+        { "text": "🧶 Fazer tricô", "points": { "flor": 1, "girassol": 0.4, "tulipa": 0.5, "rosa": 0.3 } },
+        { "text": "🍵 Tomar chá da tarde com os amigos", "points": { "rosa": 1, "tulipa": 0.5, "flor": 0.3, "girassol": 0.4 } }
+      ]
+    },
+    {
+      "question": "O que te faz sorrir pela manhã?",
+      "answers": [
+        { "text": "💌 Receber uma mensagem carinhosa", "points": { "tulipa": 1, "girassol": 0.4, "rosa": 0.3, "flor": 0.5 } },
+        { "text": "☕ Um café fresquinho", "points": { "rosa": 1, "tulipa": 0.5, "girassol": 0.3, "flor": 0.2 } },
+        { "text": "🌅 Ver o sol nascer", "points": { "girassol": 1, "flor": 0.4, "tulipa": 0.5, "rosa": 0.3 } },
+        { "text": "💐 Receber flores", "points": { "flor": 1, "rosa": 0.5, "tulipa": 0.4, "girassol": 0.3 } }
+      ]
+    },
+    {
+      "question": "Como você gosta de passar seu tempo livre?",
+      "answers": [
+        { "text": "📚 Lendo um bom livro", "points": { "rosa": 1, "tulipa": 0.3, "flor": 0.4, "girassol": 0.5 } },
+        { "text": "🌱 Jardinagem", "points": { "girassol": 1, "flor": 0.4, "tulipa": 0.5, "rosa": 0.3 } },
+        { "text": "🚶 Caminhando ao ar livre", "points": { "tulipa": 1, "rosa": 0.4, "girassol": 0.5, "flor": 0.3 } },
+        { "text": "🎥 Assistindo filmes antigos", "points": { "flor": 1, "girassol": 0.4, "tulipa": 0.3, "rosa": 0.5 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua bebida favorita?",
+      "answers": [
+        { "text": "🍵 Chá de camomila", "points": { "flor": 1, "rosa": 0.4, "tulipa": 0.5, "girassol": 0.3 } },
+        { "text": "🍊 Suco de laranja", "points": { "girassol": 1, "flor": 0.5, "rosa": 0.4, "tulipa": 0.3 } },
+        { "text": "☕ Café", "points": { "rosa": 1, "tulipa": 0.5, "girassol": 0.3, "flor": 0.4 } },
+        { "text": "🍵 Chá verde", "points": { "tulipa": 1, "rosa": 0.4, "girassol": 0.5, "flor": 0.3 } }
+      ]
+    },
+    {
+      "question": "Se você fosse escolher uma música para começar o dia, qual seria?",
+      "answers": [
+        { "text": "🎶 Uma valsa clássica", "points": { "rosa": 1, "tulipa": 0.5, "flor": 0.3, "girassol": 0.2 } },
+        { "text": "🎵 Um samba animado", "points": { "girassol": 1, "flor": 0.4, "tulipa": 0.5, "rosa": 0.3 } },
+        { "text": "🎸 Um rock dos anos 80", "points": { "tulipa": 1, "rosa": 0.4, "girassol": 0.3, "flor": 0.5 } },
+        { "text": "🎼 Uma MPB suave", "points": { "flor": 1, "girassol": 0.5, "tulipa": 0.4, "rosa": 0.3 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "rosa": {
+      "title": "Rosa",
+      "emoji": "🌹",
+      "subtitle": "A Elegante",
+      "text": "Você é uma Rosa! A flor mais clássica e elegante, sempre trazendo um toque de sofisticação ao seu dia. 🌹✨"
+    },
+    "tulipa": {
+      "title": "Tulipa",
+      "emoji": "🌷",
+      "subtitle": "A Delicada",
+      "text": "Você é uma Tulipa! Com sua beleza delicada e encantadora, você ilumina qualquer ambiente. 🌷💕"
+    },
+    "girassol": {
+      "title": "Girassol",
+      "emoji": "🌻",
+      "subtitle": "O Alegre",
+      "text": "Você é um Girassol! Sempre voltado para a luz, irradiando felicidade e energia positiva. 🌻😁"
+    },
+    "flor": {
+      "title": "Flor",
+      "emoji": "🌼",
+      "subtitle": "A Despretensiosa",
+      "text": "Você é uma Flor! Simples e despretensiosa, mas com um charme único que conquista todos ao redor. 🌼🌟"
+    }
+  }
+}
