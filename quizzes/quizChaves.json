@@ -1,0 +1,569 @@
+{
+  "title": "Quem é você na vila do Chaves?",
+  "subtitle": "Descubra qual personagem da vila do Chaves mais se parece com você!: baseado em https://pt.quizur.com/quiz/quem-voce-e-na-vila-do-chaves-yKTY",
+  "questions": [
+    {
+      "question": "Você toma banho quantas vezes?",
+      "answers": [
+        {
+          "text": "Todo sábado",
+          "points": {
+            "chaves": 0.0746,
+            "quico": 0.0618,
+            "chiquinha": 0.0537,
+            "nhonho": 0.1376,
+            "seu_madruga": 0.0049,
+            "professor_girafales": 0.0072,
+            "dona_florinda": 0.0087,
+            "dona_clotilde": 0.0127,
+            "seu_barriga": 0.005
+          }
+        },
+        {
+          "text": "Todo dia",
+          "points": {
+            "professor_girafales": 0.1043,
+            "dona_florinda": 0.1708,
+            "seu_madruga": 0.1206,
+            "chaves": 0.004,
+            "quico": 0.004,
+            "chiquinha": 0.0059,
+            "nhonho": 0.0033,
+            "dona_clotilde": 0.01,
+            "seu_barriga": 0.004
+          }
+        },
+        {
+          "text": "3 vezes por semana",
+          "points": {
+            "quico": 0.0452,
+            "dona_clotilde": 0.258,
+            "seu_barriga": 0.0942,
+            "chaves": 0.0035,
+            "chiquinha": 0.0051,
+            "nhonho": 0.0029,
+            "seu_madruga": 0.0034,
+            "professor_girafales": 0.0051,
+            "dona_florinda": 0.0061
+          }
+        },
+        {
+          "text": "Nunca",
+          "points": {
+            "seu_madruga": 0.0719,
+            "nhonho": 0.08,
+            "chaves": 0.0053,
+            "quico": 0.0054,
+            "chiquinha": 0.0081,
+            "professor_girafales": 0.0078,
+            "dona_florinda": 0.0094,
+            "dona_clotilde": 0.0137,
+            "seu_barriga": 0.0054
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você está apaixonado?",
+      "answers": [
+        {
+          "text": "Claro",
+          "points": {
+            "professor_girafales": 0.1043,
+            "dona_florinda": 0.2001,
+            "chiquinha": 0.1807,
+            "chaves": 0.0036,
+            "quico": 0.0037,
+            "nhonho": 0.003,
+            "seu_madruga": 0.0035,
+            "dona_clotilde": 0.009,
+            "seu_barriga": 0.0035
+          }
+        },
+        {
+          "text": "Não",
+          "points": {
+            "seu_madruga": 0.0719,
+            "nhonho": 0.0611,
+            "chaves": 0.0051,
+            "quico": 0.0052,
+            "chiquinha": 0.0078,
+            "professor_girafales": 0.0075,
+            "dona_florinda": 0.0091,
+            "dona_clotilde": 0.0133,
+            "seu_barriga": 0.0052
+          }
+        },
+        {
+          "text": "Mais ou menos",
+          "points": {
+            "chaves": 0.0523,
+            "quico": 0.073,
+            "dona_clotilde": 0.2263,
+            "chiquinha": 0.005,
+            "nhonho": 0.0028,
+            "seu_madruga": 0.0032,
+            "professor_girafales": 0.0048,
+            "dona_florinda": 0.0058,
+            "seu_barriga": 0.0034
+          }
+        },
+        {
+          "text": "Já estou namorando",
+          "points": {
+            "professor_girafales": 0.1043,
+            "dona_florinda": 0.1863,
+            "seu_barriga": 0.1205,
+            "chaves": 0.0039,
+            "quico": 0.004,
+            "chiquinha": 0.006,
+            "nhonho": 0.0033,
+            "seu_madruga": 0.0039,
+            "dona_clotilde": 0.0102
+          }
+        }
+      ]
+    },
+    {
+      "question": "As pessoas te consideram?",
+      "answers": [
+        {
+          "text": "Bruxa[o]",
+          "points": {
+            "dona_clotilde": 0.1825,
+            "quico": 0.0704,
+            "chaves": 0.0033,
+            "chiquinha": 0.005,
+            "nhonho": 0.0028,
+            "seu_madruga": 0.0033,
+            "professor_girafales": 0.005,
+            "dona_florinda": 0.006,
+            "seu_barriga": 0.0035
+          }
+        },
+        {
+          "text": "Sujo",
+          "points": {
+            "seu_madruga": 0.0719,
+            "chaves": 0.1082,
+            "quico": 0.0051,
+            "chiquinha": 0.0075,
+            "nhonho": 0.0042,
+            "professor_girafales": 0.0073,
+            "dona_florinda": 0.0089,
+            "dona_clotilde": 0.0131,
+            "seu_barriga": 0.0051
+          }
+        },
+        {
+          "text": "Magrelo",
+          "points": {
+            "chaves": 0.0746,
+            "nhonho": 0.0321,
+            "quico": 0.005,
+            "chiquinha": 0.0075,
+            "seu_madruga": 0.005,
+            "professor_girafales": 0.0074,
+            "dona_florinda": 0.009,
+            "dona_clotilde": 0.0133,
+            "seu_barriga": 0.0052
+          }
+        },
+        {
+          "text": "Linguiça",
+          "points": {
+            "nhonho": 0.0548,
+            "seu_barriga": 0.1394,
+            "chaves": 0.0055,
+            "quico": 0.0057,
+            "chiquinha": 0.0084,
+            "seu_madruga": 0.0057,
+            "professor_girafales": 0.0082,
+            "dona_florinda": 0.0099,
+            "dona_clotilde": 0.0143
+          }
+        },
+        {
+          "text": "Buxexudo",
+          "points": {
+            "quico": 0.0749,
+            "chiquinha": 0.1443,
+            "chaves": 0.0042,
+            "nhonho": 0.0035,
+            "seu_madruga": 0.0042,
+            "professor_girafales": 0.0062,
+            "dona_florinda": 0.0074,
+            "dona_clotilde": 0.0109,
+            "seu_barriga": 0.0042
+          }
+        },
+        {
+          "text": "Baleia de óculos",
+          "points": {
+            "nhonho": 0.0608,
+            "seu_barriga": 0.129,
+            "chaves": 0.0054,
+            "quico": 0.0054,
+            "chiquinha": 0.0082,
+            "seu_madruga": 0.0053,
+            "professor_girafales": 0.0079,
+            "dona_florinda": 0.0096,
+            "dona_clotilde": 0.014
+          }
+        },
+        {
+          "text": "Engraçado",
+          "points": {
+            "chaves": 0.0746,
+            "quico": 0.0938,
+            "seu_madruga": 0.1254,
+            "chiquinha": 0.0071,
+            "nhonho": 0.0039,
+            "professor_girafales": 0.0069,
+            "dona_florinda": 0.0083,
+            "dona_clotilde": 0.0122,
+            "seu_barriga": 0.0048
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você é alto?",
+      "answers": [
+        {
+          "text": "Sim",
+          "points": {
+            "professor_girafales": 0.1043,
+            "seu_barriga": 0.0912,
+            "chaves": 0.0045,
+            "quico": 0.0046,
+            "chiquinha": 0.0069,
+            "nhonho": 0.0038,
+            "seu_madruga": 0.0046,
+            "dona_florinda": 0.0082,
+            "dona_clotilde": 0.012
+          }
+        },
+        {
+          "text": "Não",
+          "points": {
+            "chaves": 0.0746,
+            "quico": 0.0977,
+            "chiquinha": 0.0072,
+            "nhonho": 0.004,
+            "seu_madruga": 0.0049,
+            "professor_girafales": 0.0072,
+            "dona_florinda": 0.0087,
+            "dona_clotilde": 0.0128,
+            "seu_barriga": 0.0049
+          }
+        },
+        {
+          "text": "Baixinho",
+          "points": {
+            "chiquinha": 0.1104,
+            "nhonho": 0.1062,
+            "chaves": 0.0047,
+            "quico": 0.0048,
+            "seu_madruga": 0.0047,
+            "professor_girafales": 0.0069,
+            "dona_florinda": 0.0083,
+            "dona_clotilde": 0.0121,
+            "seu_barriga": 0.0048
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você tem uma barriga grande?",
+      "answers": [
+        {
+          "text": "Sim",
+          "points": {
+            "seu_barriga": 0.0716,
+            "nhonho": 0.0939,
+            "quico": 0.1593,
+            "chaves": 0.0049,
+            "chiquinha": 0.0075,
+            "seu_madruga": 0.0048,
+            "professor_girafales": 0.0071,
+            "dona_florinda": 0.0087,
+            "dona_clotilde": 0.0127
+          }
+        },
+        {
+          "text": "Não",
+          "points": {
+            "chaves": 0.0746,
+            "professor_girafales": 0.1351,
+            "quico": 0.0043,
+            "chiquinha": 0.0064,
+            "nhonho": 0.0035,
+            "seu_madruga": 0.0044,
+            "dona_florinda": 0.0076,
+            "dona_clotilde": 0.0112,
+            "seu_barriga": 0.0044
+          }
+        },
+        {
+          "text": "Gigante",
+          "points": {
+            "nhonho": 0.0608,
+            "seu_barriga": 0.1377,
+            "chaves": 0.0055,
+            "quico": 0.0056,
+            "chiquinha": 0.0084,
+            "seu_madruga": 0.0054,
+            "professor_girafales": 0.0081,
+            "dona_florinda": 0.0097,
+            "dona_clotilde": 0.0141
+          }
+        }
+      ]
+    },
+    {
+      "question": "Quando te deixam nervoso o que você faz?",
+      "answers": [
+        {
+          "text": "Chamo minha mãe gritando",
+          "points": {
+            "quico": 0.0749,
+            "chiquinha": 0.1443,
+            "chaves": 0.0042,
+            "nhonho": 0.0035,
+            "seu_madruga": 0.0042,
+            "professor_girafales": 0.0062,
+            "dona_florinda": 0.0074,
+            "dona_clotilde": 0.0109,
+            "seu_barriga": 0.0042
+          }
+        },
+        {
+          "text": "Pego a vassoura e quebro a cara",
+          "points": {
+            "chiquinha": 0.1104,
+            "seu_madruga": 0.1042,
+            "chaves": 0.0042,
+            "quico": 0.0043,
+            "nhonho": 0.0035,
+            "professor_girafales": 0.0062,
+            "dona_florinda": 0.0075,
+            "dona_clotilde": 0.011,
+            "seu_barriga": 0.0044
+          }
+        },
+        {
+          "text": "Dou um cascudo",
+          "points": {
+            "seu_madruga": 0.0719,
+            "chaves": 0.1082,
+            "quico": 0.0051,
+            "chiquinha": 0.0075,
+            "nhonho": 0.0042,
+            "professor_girafales": 0.0073,
+            "dona_florinda": 0.0089,
+            "dona_clotilde": 0.0131,
+            "seu_barriga": 0.0051
+          }
+        },
+        {
+          "text": "Dou um chute",
+          "points": {
+            "chaves": 0.0746,
+            "nhonho": 0.0707,
+            "quico": 0.0051,
+            "chiquinha": 0.0077,
+            "seu_madruga": 0.0051,
+            "professor_girafales": 0.0076,
+            "dona_florinda": 0.0091,
+            "dona_clotilde": 0.0134,
+            "seu_barriga": 0.0052
+          }
+        },
+        {
+          "text": "Dou uma barrigada",
+          "points": {
+            "seu_barriga": 0.0716,
+            "nhonho": 0.1102,
+            "chaves": 0.0056,
+            "quico": 0.0057,
+            "chiquinha": 0.0084,
+            "seu_madruga": 0.0056,
+            "professor_girafales": 0.0082,
+            "dona_florinda": 0.0099,
+            "dona_clotilde": 0.0143
+          }
+        },
+        {
+          "text": "Dou um soco na cara",
+          "points": {
+            "seu_madruga": 0.0719,
+            "quico": 0.098,
+            "chaves": 0.005,
+            "chiquinha": 0.0074,
+            "nhonho": 0.0041,
+            "professor_girafales": 0.0072,
+            "dona_florinda": 0.0088,
+            "dona_clotilde": 0.0129,
+            "seu_barriga": 0.005
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como o trabalho serve para você?",
+      "answers": [
+        {
+          "text": "Trabalho é tudo para a vida",
+          "points": {
+            "seu_barriga": 0.0716,
+            "professor_girafales": 0.1846,
+            "chaves": 0.0043,
+            "quico": 0.0044,
+            "chiquinha": 0.0066,
+            "nhonho": 0.0037,
+            "seu_madruga": 0.0044,
+            "dona_florinda": 0.0078,
+            "dona_clotilde": 0.0114
+          }
+        },
+        {
+          "text": "Pra que serve isso?",
+          "points": {
+            "seu_madruga": 0.0719,
+            "chaves": 0.1082,
+            "quico": 0.0051,
+            "chiquinha": 0.0075,
+            "nhonho": 0.0042,
+            "professor_girafales": 0.0073,
+            "dona_florinda": 0.0089,
+            "dona_clotilde": 0.0131,
+            "seu_barriga": 0.0051
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você é romântico?",
+      "answers": [
+        {
+          "text": "Claro",
+          "points": {
+            "professor_girafales": 0.1043,
+            "dona_florinda": 0.2325,
+            "chaves": 0.004,
+            "quico": 0.004,
+            "chiquinha": 0.0059,
+            "nhonho": 0.0033,
+            "seu_madruga": 0.004,
+            "dona_clotilde": 0.01,
+            "seu_barriga": 0.0039
+          }
+        },
+        {
+          "text": "Não",
+          "points": {
+            "seu_madruga": 0.0719,
+            "chiquinha": 0.1078,
+            "chaves": 0.0042,
+            "quico": 0.0044,
+            "nhonho": 0.0035,
+            "professor_girafales": 0.0062,
+            "dona_florinda": 0.0076,
+            "dona_clotilde": 0.0112,
+            "seu_barriga": 0.0044
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você é chorão?",
+      "answers": [
+        {
+          "text": "Sim",
+          "points": {
+            "quico": 0.0749,
+            "nhonho": 0.0922,
+            "chaves": 0.0053,
+            "chiquinha": 0.008,
+            "seu_madruga": 0.0052,
+            "professor_girafales": 0.0078,
+            "dona_florinda": 0.0093,
+            "dona_clotilde": 0.0136,
+            "seu_barriga": 0.0053
+          }
+        },
+        {
+          "text": "Não",
+          "points": {
+            "seu_madruga": 0.0719,
+            "chaves": 0.0981,
+            "quico": 0.0049,
+            "chiquinha": 0.0074,
+            "nhonho": 0.0042,
+            "professor_girafales": 0.0072,
+            "dona_florinda": 0.0088,
+            "dona_clotilde": 0.0128,
+            "seu_barriga": 0.0051
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "chaves": {
+      "title": "Chaves",
+      "emoji": "🌮",
+      "subtitle": "O órfão sonhador",
+      "text": "Você é o Chaves! Um órfão sonhador, sempre em busca de comida e aventuras. Sua ingenuidade e pureza cativam todos ao seu redor."
+    },
+    "quico": {
+      "title": "Quico",
+      "emoji": "🎈",
+      "subtitle": "O mimado",
+      "text": "Você é o Quico! O garoto mimado da vila que adora exibir seus brinquedos. Apesar de ser arrogante às vezes, você tem um bom coração."
+    },
+    "chiquinha": {
+      "title": "Chiquinha",
+      "emoji": "👧",
+      "subtitle": "A travessa esperta",
+      "text": "Você é a Chiquinha! Travessa e esperta, sempre aprontando alguma coisa na vila. Apesar de causar confusão, você é carinhosa com seus amigos."
+    },
+    "nhonho": {
+      "title": "Nhonho",
+      "emoji": "🍔",
+      "subtitle": "O comilão",
+      "text": "Você é o Nhonho! Filho do Seu Barriga, você adora comer e muitas vezes é alvo das piadas dos outros. No fundo, você tem um coração generoso."
+    },
+    "seu_madruga": {
+      "title": "Seu Madruga",
+      "emoji": "🎩",
+      "subtitle": "O desempregado",
+      "text": "Você é o Seu Madruga! Sempre fugindo do trabalho e das dívidas, mas é uma figura paternal para o Chaves e seus amigos."
+    },
+    "professor_girafales": {
+      "title": "Professor Girafales",
+      "emoji": "📚",
+      "subtitle": "O mestre amoroso",
+      "text": "Você é o Professor Girafales! Sempre tentando educar as crianças da vila com paciência e carinho, além de ser romântico e dedicado."
+    },
+    "dona_florinda": {
+      "title": "Dona Florinda",
+      "emoji": "🍲",
+      "subtitle": "A mãe protetora",
+      "text": "Você é a Dona Florinda! Uma mãe superprotetora que adora mimar seu filho Quico e tem um grande carinho pelo Professor Girafales."
+    },
+    "dona_clotilde": {
+      "title": "Dona Clotilde",
+      "emoji": "🧙‍♀️",
+      "subtitle": "A Bruxa do 71",
+      "text": "Você é a Dona Clotilde! Conhecida como a Bruxa do 71, você é muitas vezes incompreendida pelos vizinhos, mas possui um grande coração."
+    },
+    "seu_barriga": {
+      "title": "Seu Barriga",
+      "emoji": "🏠",
+      "subtitle": "O senhorio",
+      "text": "Você é o Seu Barriga! O senhorio da vila que está sempre atrás do aluguel, mas no fundo, é uma pessoa generosa e compreensiva."
+    }
+  }
+}
