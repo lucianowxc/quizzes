@@ -1,0 +1,340 @@
+{
+  "title": "Qual código de erro você seria?",
+  "questions": [
+    {
+      "question": "Se você fosse uma página da web, qual seria a sua maior frustração? 🤔",
+      "answers": [
+        {
+          "text": "Nunca conseguir encontrar o que estou procurando. 😖",
+          "points": {
+            "resultado1": 0.0544,
+            "resultado2": 0.0272,
+            "resultado3": 0.0122,
+            "resultado4": 0.0401,
+            "resultado5": 0.0195,
+            "resultado6": 0.0373,
+            "resultado7": 0.0293,
+            "resultado8": 0.0384
+          }
+        },
+        {
+          "text": "Sentir que há algo errado, mas não saber o que é. 😫",
+          "points": {
+            "resultado1": 0.0275,
+            "resultado2": 0.0477,
+            "resultado3": 0.0473,
+            "resultado4": 0.0131,
+            "resultado5": 0.038,
+            "resultado6": 0.0257,
+            "resultado7": 0.0498,
+            "resultado8": 0.028
+          }
+        },
+        {
+          "text": "Pessoas tentando acessar áreas que não deveriam. 🔒",
+          "points": {
+            "resultado1": 0.0113,
+            "resultado2": 0.0357,
+            "resultado3": 0.0512,
+            "resultado4": 0.0287,
+            "resultado5": 0.0261,
+            "resultado6": 0.0345,
+            "resultado7": 0.0224,
+            "resultado8": 0.0405
+          }
+        },
+        {
+          "text": "O tempo nunca está do meu lado. ⏲️",
+          "points": {
+            "resultado1": 0.0436,
+            "resultado2": 0.0106,
+            "resultado3": 0.0257,
+            "resultado4": 0.0471,
+            "resultado5": 0.0451,
+            "resultado6": 0.0211,
+            "resultado7": 0.0433,
+            "resultado8": 0.0327
+          }
+        }
+      ]
+    },
+    {
+      "question": "Quando você está em uma conversa, como você reage aos mal-entendidos? 🗣️",
+      "answers": [
+        {
+          "text": "Tento encontrar uma explicação lógica. 🤓",
+          "points": {
+            "resultado1": 0.0383,
+            "resultado2": 0.0205,
+            "resultado3": 0.027,
+            "resultado4": 0.0306,
+            "resultado5": 0.0125,
+            "resultado6": 0.0474,
+            "resultado7": 0.0255,
+            "resultado8": 0.035
+          }
+        },
+        {
+          "text": "Fico frustrado e desisto. 😩",
+          "points": {
+            "resultado1": 0.0329,
+            "resultado2": 0.0491,
+            "resultado3": 0.0438,
+            "resultado4": 0.0202,
+            "resultado5": 0.0352,
+            "resultado6": 0.0144,
+            "resultado7": 0.0273,
+            "resultado8": 0.036
+          }
+        },
+        {
+          "text": "Tento explicar novamente de forma diferente. 🔄",
+          "points": {
+            "resultado1": 0.0221,
+            "resultado2": 0.0239,
+            "resultado3": 0.0312,
+            "resultado4": 0.0411,
+            "resultado5": 0.0212,
+            "resultado6": 0.0423,
+            "resultado7": 0.0199,
+            "resultado8": 0.0298
+          }
+        },
+        {
+          "text": "Ignoro e sigo em frente. 🚶‍♂️",
+          "points": {
+            "resultado1": 0.0167,
+            "resultado2": 0.0276,
+            "resultado3": 0.0205,
+            "resultado4": 0.0322,
+            "resultado5": 0.0442,
+            "resultado6": 0.0311,
+            "resultado7": 0.0458,
+            "resultado8": 0.0283
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com prazos apertados? ⏰",
+      "answers": [
+        {
+          "text": "Trabalho melhor sob pressão. 💪",
+          "points": {
+            "resultado1": 0.0329,
+            "resultado2": 0.0151,
+            "resultado3": 0.0352,
+            "resultado4": 0.0502,
+            "resultado5": 0.0291,
+            "resultado6": 0.0333,
+            "resultado7": 0.0173,
+            "resultado8": 0.0365
+          }
+        },
+        {
+          "text": "Fico ansioso e me atrapalho. 😰",
+          "points": {
+            "resultado1": 0.0436,
+            "resultado2": 0.0317,
+            "resultado3": 0.0125,
+            "resultado4": 0.0261,
+            "resultado5": 0.0417,
+            "resultado6": 0.0202,
+            "resultado7": 0.0356,
+            "resultado8": 0.0304
+          }
+        },
+        {
+          "text": "Planejo tudo com antecedência. 📅",
+          "points": {
+            "resultado1": 0.0113,
+            "resultado2": 0.0182,
+            "resultado3": 0.0377,
+            "resultado4": 0.0295,
+            "resultado5": 0.0292,
+            "resultado6": 0.0388,
+            "resultado7": 0.0249,
+            "resultado8": 0.0343
+          }
+        },
+        {
+          "text": "Deixo para a última hora. 🕕",
+          "points": {
+            "resultado1": 0.0275,
+            "resultado2": 0.0479,
+            "resultado3": 0.0186,
+            "resultado4": 0.0376,
+            "resultado5": 0.0405,
+            "resultado6": 0.0283,
+            "resultado7": 0.0493,
+            "resultado8": 0.0214
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual desses dilemas melhor representa sua vida? 🌀",
+      "answers": [
+        {
+          "text": "Encontrar propósito em um mundo caótico. 🌪️",
+          "points": {
+            "resultado1": 0.0544,
+            "resultado2": 0.0281,
+            "resultado3": 0.0191,
+            "resultado4": 0.0116,
+            "resultado5": 0.0394,
+            "resultado6": 0.0368,
+            "resultado7": 0.0347,
+            "resultado8": 0.0261
+          }
+        },
+        {
+          "text": "Batalhar contra a frustração interna. 🥊",
+          "points": {
+            "resultado1": 0.0275,
+            "resultado2": 0.0477,
+            "resultado3": 0.0356,
+            "resultado4": 0.0236,
+            "resultado5": 0.0131,
+            "resultado6": 0.0353,
+            "resultado7": 0.0336,
+            "resultado8": 0.0388
+          }
+        },
+        {
+          "text": "Manter as pessoas certas perto e as erradas longe. 🛡️",
+          "points": {
+            "resultado1": 0.0167,
+            "resultado2": 0.0364,
+            "resultado3": 0.0522,
+            "resultado4": 0.0292,
+            "resultado5": 0.0394,
+            "resultado6": 0.0266,
+            "resultado7": 0.0226,
+            "resultado8": 0.0405
+          }
+        },
+        {
+          "text": "Enfrentar o medo de falhar. 💔",
+          "points": {
+            "resultado1": 0.0329,
+            "resultado2": 0.0341,
+            "resultado3": 0.0278,
+            "resultado4": 0.0514,
+            "resultado5": 0.0292,
+            "resultado6": 0.02,
+            "resultado7": 0.0404,
+            "resultado8": 0.0363
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual mensagem você daria ao seu eu do passado? 🕰️",
+      "answers": [
+        {
+          "text": "Continue buscando, você vai encontrar o que procura. 🔍",
+          "points": {
+            "resultado1": 0.0544,
+            "resultado2": 0.0232,
+            "resultado3": 0.0191,
+            "resultado4": 0.0118,
+            "resultado5": 0.029,
+            "resultado6": 0.0341,
+            "resultado7": 0.0249,
+            "resultado8": 0.0286
+          }
+        },
+        {
+          "text": "Não deixe o caos te dominar. 💥",
+          "points": {
+            "resultado1": 0.0275,
+            "resultado2": 0.048,
+            "resultado3": 0.0369,
+            "resultado4": 0.0251,
+            "resultado5": 0.0212,
+            "resultado6": 0.0416,
+            "resultado7": 0.0185,
+            "resultado8": 0.0333
+          }
+        },
+        {
+          "text": "Escolha suas batalhas com sabedoria. ⚔️",
+          "points": {
+            "resultado1": 0.0167,
+            "resultado2": 0.0275,
+            "resultado3": 0.0497,
+            "resultado4": 0.0275,
+            "resultado5": 0.0249,
+            "resultado6": 0.038,
+            "resultado7": 0.0298,
+            "resultado8": 0.0391
+          }
+        },
+        {
+          "text": "O tempo é seu amigo, não seu inimigo. ⏳",
+          "points": {
+            "resultado1": 0.0329,
+            "resultado2": 0.0248,
+            "resultado3": 0.0217,
+            "resultado4": 0.0489,
+            "resultado5": 0.049,
+            "resultado6": 0.0246,
+            "resultado7": 0.0446,
+            "resultado8": 0.021
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "resultado1": {
+      "title": "404 - Página Não Encontrada",
+      "emoji": "🔍",
+      "subtitle": "Perdido no Espaço Virtual",
+      "text": "Você se sente um pouco perdido e desorientado às vezes, como se estivesse buscando algo que nunca encontra. O mundo é um labirinto e você está sem mapa."
+    },
+    "resultado2": {
+      "title": "500 - Erro Interno do Servidor",
+      "emoji": "💥",
+      "subtitle": "O Caos Interno",
+      "text": "Você carrega um caos interno que às vezes se manifesta de maneira inesperada. As coisas podem parecer bem por fora, mas por dentro, há uma tempestade acontecendo."
+    },
+    "resultado3": {
+      "title": "403 - Acesso Proibido",
+      "emoji": "🚫",
+      "subtitle": "O Guardião dos Portões",
+      "text": "Você tem padrões elevados e não deixa qualquer um entrar no seu círculo. Protetor, cauteloso e seletivo, você mantém seus muros bem altos."
+    },
+    "resultado4": {
+      "title": "408 - Tempo de Resposta Esgotado",
+      "emoji": "⏳",
+      "subtitle": "Sempre em Atraso",
+      "text": "A paciência não é o seu forte e você sempre se vê correndo contra o tempo. Apesar disso, você é determinado e não desiste facilmente."
+    },
+    "resultado5": {
+      "title": "401 - Não Autorizado",
+      "emoji": "🔐",
+      "subtitle": "O Rebelde Sem Causa",
+      "text": "Você não gosta de seguir regras e prefere fazer as coisas do seu jeito. Questionador e independente, você desafia o status quo."
+    },
+    "resultado6": {
+      "title": "502 - Bad Gateway",
+      "emoji": "🌐",
+      "subtitle": "Comunicação com Ruídos",
+      "text": "Você tem dificuldades de comunicação e às vezes parece que as pessoas não te entendem. No entanto, você continua tentando e aprimorando sua mensagem."
+    },
+    "resultado7": {
+      "title": "418 - I'm a Teapot",
+      "emoji": "🫖",
+      "subtitle": "O Absurdo Divertido",
+      "text": "Você é uma pessoa divertida e um pouco excêntrica. Adora surpreender e tem uma perspectiva única sobre a vida. Nunca deixa de trazer um sorriso ao rosto das pessoas ao seu redor."
+    },
+    "resultado8": {
+      "title": "503 - Serviço Indisponível",
+      "emoji": "📴",
+      "subtitle": "A Reserva Energética",
+      "text": "Você valoriza seu tempo de descanso e sabe quando precisa de uma pausa. Reconhece a importância do autocuidado e do equilíbrio, e não tem medo de dizer 'não' quando necessário."
+    }
+  }
+}

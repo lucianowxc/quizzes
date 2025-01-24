@@ -1,0 +1,525 @@
+{
+  "title": "Qual Eletrodoméstico Pequeno Você Seria?",
+  "questions": [
+    {
+      "question": "Se sua vida fosse um livro, qual seria o capítulo mais emocionante?",
+      "answers": [
+        {
+          "text": "📘 O momento em que assumi o protagonismo!",
+          "points": {
+            "sujeito": 0.0378,
+            "verbo_transitivo_direto": 0.0167,
+            "verbo_transitivo_indireto": 0.0239,
+            "objeto_direto": 0.0129,
+            "objeto_indireto": 0.0228,
+            "aposto": 0.0229,
+            "vocativo": 0.0148,
+            "verbo_intransitivo": 0.0167,
+            "verbo_de_ligação": 0.0245
+          }
+        },
+        {
+          "text": "📕 Quando decidi agir por impulso!",
+          "points": {
+            "sujeito": 0.0153,
+            "verbo_transitivo_direto": 0.036,
+            "verbo_transitivo_indireto": 0.0149,
+            "objeto_direto": 0.0243,
+            "objeto_indireto": 0.0127,
+            "aposto": 0.0134,
+            "vocativo": 0.0165,
+            "verbo_intransitivo": 0.0258,
+            "verbo_de_ligação": 0.0224
+          }
+        },
+        {
+          "text": "📗 O capítulo onde me tornei o centro das atenções!",
+          "points": {
+            "sujeito": 0.0116,
+            "verbo_transitivo_direto": 0.0212,
+            "verbo_transitivo_indireto": 0.0168,
+            "objeto_direto": 0.0347,
+            "objeto_indireto": 0.0159,
+            "aposto": 0.03,
+            "vocativo": 0.0254,
+            "verbo_intransitivo": 0.0158,
+            "verbo_de_ligação": 0.0246
+          }
+        },
+        {
+          "text": "📙 Quando tudo começou a fluir naturalmente!",
+          "points": {
+            "sujeito": 0.0228,
+            "verbo_transitivo_direto": 0.0115,
+            "verbo_transitivo_indireto": 0.0251,
+            "objeto_direto": 0.015,
+            "objeto_indireto": 0.034,
+            "aposto": 0.0197,
+            "vocativo": 0.0293,
+            "verbo_intransitivo": 0.0278,
+            "verbo_de_ligação": 0.0185
+          }
+        },
+        {
+          "text": "📓 Aquele momento inesperado que mudou tudo!",
+          "points": {
+            "sujeito": 0.0191,
+            "verbo_transitivo_direto": 0.0186,
+            "verbo_transitivo_indireto": 0.0217,
+            "objeto_direto": 0.0191,
+            "objeto_indireto": 0.0185,
+            "aposto": 0.0211,
+            "vocativo": 0.0221,
+            "verbo_intransitivo": 0.0223,
+            "verbo_de_ligação": 0.0225
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um personagem em um filme, como se destacaria?",
+      "answers": [
+        {
+          "text": "🎬 Sempre na linha de frente, liderando a ação.",
+          "points": {
+            "sujeito": 0.0378,
+            "verbo_transitivo_direto": 0.0208,
+            "verbo_transitivo_indireto": 0.0198,
+            "objeto_direto": 0.017,
+            "objeto_indireto": 0.0236,
+            "aposto": 0.0194,
+            "vocativo": 0.0147,
+            "verbo_intransitivo": 0.0206,
+            "verbo_de_ligação": 0.0235
+          }
+        },
+        {
+          "text": "🎥 Com atitudes ousadas e inesperadas.",
+          "points": {
+            "sujeito": 0.0191,
+            "verbo_transitivo_direto": 0.0367,
+            "verbo_transitivo_indireto": 0.0152,
+            "objeto_direto": 0.0248,
+            "objeto_indireto": 0.017,
+            "aposto": 0.0144,
+            "vocativo": 0.0178,
+            "verbo_intransitivo": 0.0243,
+            "verbo_de_ligação": 0.0224
+          }
+        },
+        {
+          "text": "🍿 Sendo o foco das atenções nas cenas chave.",
+          "points": {
+            "sujeito": 0.0153,
+            "verbo_transitivo_direto": 0.0216,
+            "verbo_transitivo_indireto": 0.0214,
+            "objeto_direto": 0.0367,
+            "objeto_indireto": 0.0213,
+            "aposto": 0.0249,
+            "vocativo": 0.0318,
+            "verbo_intransitivo": 0.019,
+            "verbo_de_ligação": 0.0207
+          }
+        },
+        {
+          "text": "📽️ Facilitando as conexões entre os personagens.",
+          "points": {
+            "sujeito": 0.0228,
+            "verbo_transitivo_direto": 0.0152,
+            "verbo_transitivo_indireto": 0.0214,
+            "objeto_direto": 0.0185,
+            "objeto_indireto": 0.0347,
+            "aposto": 0.0299,
+            "vocativo": 0.0288,
+            "verbo_intransitivo": 0.025,
+            "verbo_de_ligação": 0.0183
+          }
+        },
+        {
+          "text": "🎭 Como aquele que dá um toque especial às cenas.",
+          "points": {
+            "sujeito": 0.0191,
+            "verbo_transitivo_direto": 0.0186,
+            "verbo_transitivo_indireto": 0.0217,
+            "objeto_direto": 0.0191,
+            "objeto_indireto": 0.0185,
+            "aposto": 0.0211,
+            "vocativo": 0.0221,
+            "verbo_intransitivo": 0.0223,
+            "verbo_de_ligação": 0.0225
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se sua personalidade fosse um estilo de escrita, qual seria?",
+      "answers": [
+        {
+          "text": "🔍 Um enigma intrigante que desafia o leitor.",
+          "points": {
+            "sujeito": 0.0378,
+            "verbo_transitivo_direto": 0.0208,
+            "verbo_transitivo_indireto": 0.0198,
+            "objeto_direto": 0.0129,
+            "objeto_indireto": 0.0227,
+            "aposto": 0.0139,
+            "vocativo": 0.0171,
+            "verbo_intransitivo": 0.0267,
+            "verbo_de_ligação": 0.0228
+          }
+        },
+        {
+          "text": "⚡ Uma narrativa cheia de ação e movimento.",
+          "points": {
+            "sujeito": 0.0191,
+            "verbo_transitivo_direto": 0.0368,
+            "verbo_transitivo_indireto": 0.0153,
+            "objeto_direto": 0.0252,
+            "objeto_indireto": 0.0132,
+            "aposto": 0.0185,
+            "vocativo": 0.0231,
+            "verbo_intransitivo": 0.0285,
+            "verbo_de_ligação": 0.0179
+          }
+        },
+        {
+          "text": "🎢 Um conto profundo que exige reflexão.",
+          "points": {
+            "sujeito": 0.0153,
+            "verbo_transitivo_direto": 0.0216,
+            "verbo_transitivo_indireto": 0.0424,
+            "objeto_direto": 0.0175,
+            "objeto_indireto": 0.0284,
+            "aposto": 0.0261,
+            "vocativo": 0.0173,
+            "verbo_intransitivo": 0.025,
+            "verbo_de_ligação": 0.0206
+          }
+        },
+        {
+          "text": "🎯 Uma descrição detalhada que captura a essência.",
+          "points": {
+            "sujeito": 0.0116,
+            "verbo_transitivo_direto": 0.0212,
+            "verbo_transitivo_indireto": 0.021,
+            "objeto_direto": 0.036,
+            "objeto_indireto": 0.0168,
+            "aposto": 0.0323,
+            "vocativo": 0.0173,
+            "verbo_intransitivo": 0.0249,
+            "verbo_de_ligação": 0.0209
+          }
+        },
+        {
+          "text": "📩 Uma carta que revela sentimentos ocultos.",
+          "points": {
+            "sujeito": 0.0228,
+            "verbo_transitivo_direto": 0.0114,
+            "verbo_transitivo_indireto": 0.0247,
+            "objeto_direto": 0.0147,
+            "objeto_indireto": 0.0328,
+            "aposto": 0.0226,
+            "vocativo": 0.0278,
+            "verbo_intransitivo": 0.0151,
+            "verbo_de_ligação": 0.0264
+          }
+        },
+        {
+          "text": "🔗 Um poema que flui com naturalidade.",
+          "points": {
+            "sujeito": 0.0191,
+            "verbo_transitivo_direto": 0.0186,
+            "verbo_transitivo_indireto": 0.0217,
+            "objeto_direto": 0.0191,
+            "objeto_indireto": 0.0185,
+            "aposto": 0.0211,
+            "vocativo": 0.0221,
+            "verbo_intransitivo": 0.0223,
+            "verbo_de_ligação": 0.0225
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se suas emoções fossem uma paisagem, como seria?",
+      "answers": [
+        {
+          "text": "🌋 Um vulcão em erupção, cheio de paixão.",
+          "points": {
+            "sujeito": 0.0378,
+            "verbo_transitivo_direto": 0.0167,
+            "verbo_transitivo_indireto": 0.0239,
+            "objeto_direto": 0.0129,
+            "objeto_indireto": 0.0228,
+            "aposto": 0.0229,
+            "vocativo": 0.0148,
+            "verbo_intransitivo": 0.0167,
+            "verbo_de_ligação": 0.0245
+          }
+        },
+        {
+          "text": "🏝️ Uma ilha tranquila, serena e pacífica.",
+          "points": {
+            "sujeito": 0.0153,
+            "verbo_transitivo_direto": 0.036,
+            "verbo_transitivo_indireto": 0.0149,
+            "objeto_direto": 0.0243,
+            "objeto_indireto": 0.0127,
+            "aposto": 0.0134,
+            "vocativo": 0.0165,
+            "verbo_intransitivo": 0.0258,
+            "verbo_de_ligação": 0.0224
+          }
+        },
+        {
+          "text": "🏞️ Uma montanha imponente, repleta de desafios.",
+          "points": {
+            "sujeito": 0.0116,
+            "verbo_transitivo_direto": 0.0212,
+            "verbo_transitivo_indireto": 0.0168,
+            "objeto_direto": 0.0347,
+            "objeto_indireto": 0.0159,
+            "aposto": 0.03,
+            "vocativo": 0.0254,
+            "verbo_intransitivo": 0.0158,
+            "verbo_de_ligação": 0.0246
+          }
+        },
+        {
+          "text": "🌲 Uma floresta densa, cheia de vida.",
+          "points": {
+            "sujeito": 0.0228,
+            "verbo_transitivo_direto": 0.0115,
+            "verbo_transitivo_indireto": 0.0251,
+            "objeto_direto": 0.015,
+            "objeto_indireto": 0.034,
+            "aposto": 0.0197,
+            "vocativo": 0.0293,
+            "verbo_intransitivo": 0.0278,
+            "verbo_de_ligação": 0.0185
+          }
+        },
+        {
+          "text": "🌅 Um pôr do sol, cheio de beleza e reflexão.",
+          "points": {
+            "sujeito": 0.0191,
+            "verbo_transitivo_direto": 0.0186,
+            "verbo_transitivo_indireto": 0.0217,
+            "objeto_direto": 0.0191,
+            "objeto_indireto": 0.0185,
+            "aposto": 0.0211,
+            "vocativo": 0.0221,
+            "verbo_intransitivo": 0.0223,
+            "verbo_de_ligação": 0.0225
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se suas decisões fossem uma dança, como seria?",
+      "answers": [
+        {
+          "text": "💃 Uma dança solo, dominando o palco.",
+          "points": {
+            "sujeito": 0.0378,
+            "verbo_transitivo_direto": 0.0208,
+            "verbo_transitivo_indireto": 0.0198,
+            "objeto_direto": 0.0129,
+            "objeto_indireto": 0.0227,
+            "aposto": 0.0184,
+            "vocativo": 0.0225,
+            "verbo_intransitivo": 0.0315,
+            "verbo_de_ligação": 0.0184
+          }
+        },
+        {
+          "text": "🕺 Uma coreografia enérgica e cheia de saltos.",
+          "points": {
+            "sujeito": 0.0153,
+            "verbo_transitivo_direto": 0.0357,
+            "verbo_transitivo_indireto": 0.0237,
+            "objeto_direto": 0.0248,
+            "objeto_indireto": 0.0167,
+            "aposto": 0.0138,
+            "vocativo": 0.0168,
+            "verbo_intransitivo": 0.0223,
+            "verbo_de_ligação": 0.0258
+          }
+        },
+        {
+          "text": "👯‍♂️ Um show de destaque, com movimentos precisos.",
+          "points": {
+            "sujeito": 0.0116,
+            "verbo_transitivo_direto": 0.0212,
+            "verbo_transitivo_indireto": 0.0167,
+            "objeto_direto": 0.0344,
+            "objeto_indireto": 0.0194,
+            "aposto": 0.0307,
+            "vocativo": 0.0259,
+            "verbo_intransitivo": 0.0161,
+            "verbo_de_ligação": 0.0248
+          }
+        },
+        {
+          "text": "🩰 Uma dança em par, com interações complexas.",
+          "points": {
+            "sujeito": 0.0228,
+            "verbo_transitivo_direto": 0.0114,
+            "verbo_transitivo_indireto": 0.0246,
+            "objeto_direto": 0.0145,
+            "objeto_indireto": 0.0324,
+            "aposto": 0.022,
+            "vocativo": 0.0267,
+            "verbo_intransitivo": 0.0188,
+            "verbo_de_ligação": 0.0271
+          }
+        },
+        {
+          "text": "💃🕺 Um balé gracioso, com toques de mistério.",
+          "points": {
+            "sujeito": 0.0191,
+            "verbo_transitivo_direto": 0.0186,
+            "verbo_transitivo_indireto": 0.0217,
+            "objeto_direto": 0.0191,
+            "objeto_indireto": 0.0185,
+            "aposto": 0.0211,
+            "vocativo": 0.0221,
+            "verbo_intransitivo": 0.0223,
+            "verbo_de_ligação": 0.0225
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um elemento da natureza, qual seria?",
+      "answers": [
+        {
+          "text": "☀️ O sol, sempre brilhando no centro.",
+          "points": {
+            "sujeito": 0.0378,
+            "verbo_transitivo_direto": 0.021,
+            "verbo_transitivo_indireto": 0.02,
+            "objeto_direto": 0.013,
+            "objeto_indireto": 0.0232,
+            "aposto": 0.019,
+            "vocativo": 0.0144,
+            "verbo_intransitivo": 0.0202,
+            "verbo_de_ligação": 0.0232
+          }
+        },
+        {
+          "text": "💨 O vento, em constante movimento.",
+          "points": {
+            "sujeito": 0.0153,
+            "verbo_transitivo_direto": 0.0358,
+            "verbo_transitivo_indireto": 0.0241,
+            "objeto_direto": 0.0254,
+            "objeto_indireto": 0.0132,
+            "aposto": 0.0139,
+            "vocativo": 0.0171,
+            "verbo_intransitivo": 0.0266,
+            "verbo_de_ligação": 0.0228
+          }
+        },
+        {
+          "text": "🧲 Um ímã, atraindo tudo para si.",
+          "points": {
+            "sujeito": 0.0116,
+            "verbo_transitivo_direto": 0.0212,
+            "verbo_transitivo_indireto": 0.0208,
+            "objeto_direto": 0.0355,
+            "objeto_indireto": 0.0162,
+            "aposto": 0.0306,
+            "vocativo": 0.0258,
+            "verbo_intransitivo": 0.0161,
+            "verbo_de_ligação": 0.0247
+          }
+        },
+        {
+          "text": "💧 A água, se adaptando a todas as situações.",
+          "points": {
+            "sujeito": 0.0228,
+            "verbo_transitivo_direto": 0.0114,
+            "verbo_transitivo_indireto": 0.0246,
+            "objeto_direto": 0.0145,
+            "objeto_indireto": 0.0324,
+            "aposto": 0.022,
+            "vocativo": 0.0267,
+            "verbo_intransitivo": 0.0188,
+            "verbo_de_ligação": 0.0271
+          }
+        },
+        {
+          "text": "🌙 A lua, influenciando de maneira sutil.",
+          "points": {
+            "sujeito": 0.0191,
+            "verbo_transitivo_direto": 0.0186,
+            "verbo_transitivo_indireto": 0.0217,
+            "objeto_direto": 0.0191,
+            "objeto_indireto": 0.0185,
+            "aposto": 0.0211,
+            "vocativo": 0.0221,
+            "verbo_intransitivo": 0.0223,
+            "verbo_de_ligação": 0.0225
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "sujeito": {
+      "title": "Sujeito",
+      "emoji": "🧑‍🏫",
+      "subtitle": "O protagonista da oração",
+      "text": "Você é quem realiza a ação ou sobre quem se diz algo. Sem você, a frase ficaria sem um propósito claro!"
+    },
+    "verbo_transitivo_direto": {
+      "title": "Verbo Transitivo Direto",
+      "emoji": "⚡",
+      "subtitle": "O motor da oração",
+      "text": "Você é a palavra que exprime ação e precisa de um complemento direto para completar o sentido. Sem você, a frase ficaria incompleta!"
+    },
+    "verbo_transitivo_indireto": {
+      "title": "Verbo Transitivo Indireto",
+      "emoji": "🎢",
+      "subtitle": "O mediador da ação",
+      "text": "Você é a palavra que exprime ação e precisa de um complemento indireto, geralmente introduzido por preposição. Sem você, a frase não estaria completamente clara!"
+    },
+    "objeto_direto": {
+      "title": "Objeto Direto",
+      "emoji": "🎯",
+      "subtitle": "O alvo da ação",
+      "text": "Você recebe diretamente a ação do verbo. Sem você, algumas orações ficariam incompletas!"
+    },
+    "objeto_indireto": {
+      "title": "Objeto Indireto",
+      "emoji": "📨",
+      "subtitle": "O destinatário da ação",
+      "text": "Você é quem recebe a ação do verbo indiretamente, normalmente precedido por uma preposição. Sem você, algumas frases perderiam seu sentido completo!"
+    },
+    "aposto": {
+      "title": "Aposto",
+      "emoji": "📌",
+      "subtitle": "O explicador da sentença",
+      "text": "Você é o termo que explica, amplia ou esclarece outro termo na frase. Sua função é tornar tudo mais claro e detalhado!"
+    },
+    "vocativo": {
+      "title": "Vocativo",
+      "emoji": "🗣️",
+      "subtitle": "O chamador de atenção",
+      "text": "Você é o termo utilizado para chamar, invocar ou nomear o interlocutor. Sua presença destaca a interação e comunicação direta!"
+    },
+    "verbo_intransitivo": {
+      "title": "Verbo Intransitivo",
+      "emoji": "🚀",
+      "subtitle": "O autossuficiente",
+      "text": "Você é um verbo que não precisa de complemento para fazer sentido. Sua ação é completa por si só, direta e impactante!"
+    },
+    "verbo_de_ligação": {
+      "title": "Verbo de Ligação",
+      "emoji": "🔗",
+      "subtitle": "O conector de estados",
+      "text": "Você é o verbo que liga o sujeito a uma característica ou estado. Sem você, as qualidades e estados dos sujeitos não seriam revelados!"
+    }
+  }
+}

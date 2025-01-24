@@ -1,0 +1,590 @@
+{
+  "title": "Qual figura de linguagem é a sua cara?",
+  "questions": [
+    {
+      "question": "Você está em uma festa à fantasia e precisa escolher seu traje de última hora. O que você faz?",
+      "answers": [
+        {
+          "text": "🦸‍♂️ Combino um traje de pirata com acessórios de astronauta, criando algo inesperado",
+          "points": {
+            "oxímoro": 0.0579,
+            "antítese": 0.0579,
+            "paradoxo": 0.0353,
+            "metáfora": 0.0542,
+            "hipérbole": 0.0023,
+            "personificação": 0.0052,
+            "ironia": 0.0028,
+            "metonímia": 0.006,
+            "sinestesia": 0.0037,
+            "elipse": 0.0223,
+            "mesóclise": 0.0045,
+            "prosopopeia": 0.0038
+          }
+        },
+        {
+          "text": "📚 Vou como um personagem literário, citando frases clássicas para completar o visual",
+          "points": {
+            "mesóclise": 0.0454,
+            "metonímia": 0.0805,
+            "paradoxo": 0.0362,
+            "hipérbole": 0.0428,
+            "metáfora": 0.0024,
+            "personificação": 0.0053,
+            "ironia": 0.0028,
+            "antítese": 0.0051,
+            "sinestesia": 0.0037,
+            "elipse": 0.0224,
+            "oxímoro": 0.0058,
+            "prosopopeia": 0.004
+          }
+        },
+        {
+          "text": "😆 Uso roupas comuns e digo que sou uma 'pessoa normal' disfarçada",
+          "points": {
+            "ironia": 0.0321,
+            "paradoxo": 0.024,
+            "hipérbole": 0.0333,
+            "oxímoro": 0.0922,
+            "metáfora": 0.0023,
+            "personificação": 0.0051,
+            "metonímia": 0.0058,
+            "antítese": 0.0048,
+            "sinestesia": 0.0036,
+            "elipse": 0.0217,
+            "mesóclise": 0.0044,
+            "prosopopeia": 0.0038
+          }
+        },
+        {
+          "text": "🍃 Crio uma fantasia usando elementos da natureza, como folhas e galhos",
+          "points": {
+            "personificação": 0.0607,
+            "prosopopeia": 0.0449,
+            "metáfora": 0.0394,
+            "sinestesia": 0.0632,
+            "hipérbole": 0.0023,
+            "ironia": 0.0028,
+            "metonímia": 0.0059,
+            "paradoxo": 0.0021,
+            "antítese": 0.005,
+            "elipse": 0.0219,
+            "oxímoro": 0.0058,
+            "mesóclise": 0.0045
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você encontrou um gênio da lâmpada que concede um desejo. O que você pede?",
+      "answers": [
+        {
+          "text": "🏴‍☠️ Peço para viver uma grande aventura repleta de desafios e surpresas",
+          "points": {
+            "hipérbole": 0.0269,
+            "metáfora": 0.0338,
+            "paradoxo": 0.0369,
+            "mesóclise": 0.0787,
+            "personificação": 0.0057,
+            "ironia": 0.003,
+            "metonímia": 0.0065,
+            "antítese": 0.0055,
+            "sinestesia": 0.004,
+            "elipse": 0.0242,
+            "oxímoro": 0.0063,
+            "prosopopeia": 0.0043
+          }
+        },
+        {
+          "text": "🗣️ Peço a habilidade de entender e falar com objetos inanimados",
+          "points": {
+            "prosopopeia": 0.0392,
+            "personificação": 0.0755,
+            "metáfora": 0.0434,
+            "sinestesia": 0.0775,
+            "hipérbole": 0.0023,
+            "ironia": 0.0029,
+            "metonímia": 0.006,
+            "paradoxo": 0.0022,
+            "antítese": 0.0051,
+            "elipse": 0.0222,
+            "oxímoro": 0.0058,
+            "mesóclise": 0.0045
+          }
+        },
+        {
+          "text": "🎨 Peço a capacidade de criar metáforas e analogias incríveis",
+          "points": {
+            "metáfora": 0.0283,
+            "hipérbole": 0.0316,
+            "prosopopeia": 0.0585,
+            "ironia": 0.0532,
+            "personificação": 0.0057,
+            "metonímia": 0.0064,
+            "paradoxo": 0.0024,
+            "antítese": 0.0055,
+            "sinestesia": 0.004,
+            "elipse": 0.0244,
+            "oxímoro": 0.0065,
+            "mesóclise": 0.0051
+          }
+        },
+        {
+          "text": "📖 Peço para poder citar qualquer livro e parecer super inteligente",
+          "points": {
+            "mesóclise": 0.0454,
+            "metonímia": 0.0805,
+            "paradoxo": 0.0362,
+            "hipérbole": 0.0428,
+            "metáfora": 0.0024,
+            "personificação": 0.0053,
+            "ironia": 0.0028,
+            "antítese": 0.0051,
+            "sinestesia": 0.0037,
+            "elipse": 0.0224,
+            "oxímoro": 0.0058,
+            "prosopopeia": 0.004
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você está organizando uma festa surpresa para um amigo. Qual seu plano?",
+      "answers": [
+        {
+          "text": "🗣️ Decoro a casa com objetos que 'falam' dicas sobre a surpresa",
+          "points": {
+            "prosopopeia": 0.0392,
+            "personificação": 0.0755,
+            "metáfora": 0.0434,
+            "sinestesia": 0.0775,
+            "hipérbole": 0.0023,
+            "ironia": 0.0029,
+            "metonímia": 0.006,
+            "paradoxo": 0.0022,
+            "antítese": 0.0051,
+            "elipse": 0.0222,
+            "oxímoro": 0.0058,
+            "mesóclise": 0.0045
+          }
+        },
+        {
+          "text": "🔍 Crio pistas enigmáticas usando metáforas e charadas",
+          "points": {
+            "metáfora": 0.0283,
+            "hipérbole": 0.0316,
+            "prosopopeia": 0.0585,
+            "ironia": 0.0532,
+            "personificação": 0.0057,
+            "metonímia": 0.0064,
+            "paradoxo": 0.0024,
+            "antítese": 0.0055,
+            "sinestesia": 0.004,
+            "elipse": 0.0244,
+            "oxímoro": 0.0065,
+            "mesóclise": 0.0051
+          }
+        },
+        {
+          "text": "🤹 Misturo elementos inesperados para criar uma atmosfera intrigante",
+          "points": {
+            "oxímoro": 0.0579,
+            "paradoxo": 0.0313,
+            "antítese": 0.0913,
+            "ironia": 0.0646,
+            "metáfora": 0.0023,
+            "hipérbole": 0.0023,
+            "personificação": 0.0052,
+            "metonímia": 0.0059,
+            "sinestesia": 0.0036,
+            "elipse": 0.0218,
+            "mesóclise": 0.0044,
+            "prosopopeia": 0.0038
+          }
+        },
+        {
+          "text": "🃏 Uso jogos de palavras e duplos sentidos para dar dicas divertidas",
+          "points": {
+            "ironia": 0.0321,
+            "paradoxo": 0.0304,
+            "hipérbole": 0.0411,
+            "antítese": 0.0964,
+            "metáfora": 0.0024,
+            "personificação": 0.0053,
+            "metonímia": 0.0059,
+            "sinestesia": 0.0037,
+            "elipse": 0.0222,
+            "oxímoro": 0.0058,
+            "mesóclise": 0.0045,
+            "prosopopeia": 0.0039
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você ganhou uma viagem para qualquer lugar do mundo. Qual é seu destino e por quê?",
+      "answers": [
+        {
+          "text": "🌴 Vou para uma ilha deserta e imagino que os coqueiros conversam comigo",
+          "points": {
+            "personificação": 0.0607,
+            "prosopopeia": 0.0484,
+            "metáfora": 0.0437,
+            "sinestesia": 0.0782,
+            "hipérbole": 0.0023,
+            "ironia": 0.0029,
+            "metonímia": 0.006,
+            "paradoxo": 0.0022,
+            "antítese": 0.0052,
+            "elipse": 0.0226,
+            "oxímoro": 0.0059,
+            "mesóclise": 0.0046
+          }
+        },
+        {
+          "text": "🏛️ Escolho uma cidade cheia de história e arquitetura clássica para citar durante a viagem",
+          "points": {
+            "mesóclise": 0.0454,
+            "metonímia": 0.0805,
+            "paradoxo": 0.0362,
+            "hipérbole": 0.0428,
+            "metáfora": 0.0024,
+            "personificação": 0.0053,
+            "ironia": 0.0028,
+            "antítese": 0.0051,
+            "sinestesia": 0.0037,
+            "elipse": 0.0224,
+            "oxímoro": 0.0058,
+            "prosopopeia": 0.004
+          }
+        },
+        {
+          "text": "🧳 Viajo para um lugar cheio de contrastes culturais para explorar novas perspectivas",
+          "points": {
+            "oxímoro": 0.0579,
+            "antítese": 0.0718,
+            "paradoxo": 0.0426,
+            "ironia": 0.0647,
+            "metáfora": 0.0024,
+            "hipérbole": 0.0024,
+            "personificação": 0.0054,
+            "metonímia": 0.0061,
+            "sinestesia": 0.0037,
+            "elipse": 0.0223,
+            "mesóclise": 0.0045,
+            "prosopopeia": 0.0039
+          }
+        },
+        {
+          "text": "🏞️ Vou para um país exótico e exagero as histórias das minhas aventuras",
+          "points": {
+            "hipérbole": 0.0269,
+            "metáfora": 0.0338,
+            "paradoxo": 0.0369,
+            "mesóclise": 0.0787,
+            "personificação": 0.0057,
+            "ironia": 0.003,
+            "metonímia": 0.0065,
+            "antítese": 0.0055,
+            "sinestesia": 0.004,
+            "elipse": 0.0242,
+            "oxímoro": 0.0063,
+            "prosopopeia": 0.0043
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você encontrou um baú do tesouro. O que espera encontrar dentro dele?",
+      "answers": [
+        {
+          "text": "📜 Objetos que contam suas próprias histórias antigas",
+          "points": {
+            "prosopopeia": 0.0392,
+            "personificação": 0.0755,
+            "metáfora": 0.0434,
+            "sinestesia": 0.0775,
+            "hipérbole": 0.0023,
+            "ironia": 0.0029,
+            "metonímia": 0.006,
+            "paradoxo": 0.0022,
+            "antítese": 0.0051,
+            "elipse": 0.0222,
+            "oxímoro": 0.0058,
+            "mesóclise": 0.0045
+          }
+        },
+        {
+          "text": "🔄 Relíquias que desafiam a compreensão comum e criam novas perguntas",
+          "points": {
+            "oxímoro": 0.0579,
+            "paradoxo": 0.0313,
+            "antítese": 0.0913,
+            "ironia": 0.0646,
+            "metáfora": 0.0023,
+            "hipérbole": 0.0023,
+            "personificação": 0.0052,
+            "metonímia": 0.0059,
+            "sinestesia": 0.0036,
+            "elipse": 0.0218,
+            "mesóclise": 0.0044,
+            "prosopopeia": 0.0038
+          }
+        },
+        {
+          "text": "📚 Livros antigos cheios de palavras esquecidas e estruturas complexas",
+          "points": {
+            "mesóclise": 0.0454,
+            "metonímia": 0.0805,
+            "paradoxo": 0.0362,
+            "hipérbole": 0.0428,
+            "metáfora": 0.0024,
+            "personificação": 0.0053,
+            "ironia": 0.0028,
+            "antítese": 0.0051,
+            "sinestesia": 0.0037,
+            "elipse": 0.0224,
+            "oxímoro": 0.0058,
+            "prosopopeia": 0.004
+          }
+        },
+        {
+          "text": "🖼️ Metáforas visuais e táteis que representam conceitos abstratos",
+          "points": {
+            "metáfora": 0.0283,
+            "hipérbole": 0.0316,
+            "prosopopeia": 0.0585,
+            "ironia": 0.0532,
+            "personificação": 0.0057,
+            "metonímia": 0.0064,
+            "paradoxo": 0.0024,
+            "antítese": 0.0055,
+            "sinestesia": 0.004,
+            "elipse": 0.0244,
+            "oxímoro": 0.0065,
+            "mesóclise": 0.0051
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você é convidado para um reality show de sobrevivência. Qual é sua estratégia para ganhar?",
+      "answers": [
+        {
+          "text": "🧠 Uso minha inteligência e estratégia para superar os desafios",
+          "points": {
+            "metonímia": 0.0679,
+            "mesóclise": 0.0546,
+            "paradoxo": 0.0364,
+            "hipérbole": 0.0431,
+            "metáfora": 0.0024,
+            "personificação": 0.0054,
+            "ironia": 0.0028,
+            "antítese": 0.0051,
+            "sinestesia": 0.0037,
+            "elipse": 0.0226,
+            "oxímoro": 0.0058,
+            "prosopopeia": 0.004
+          }
+        },
+        {
+          "text": "😅 Faço todos rirem para manter o moral alto e ganhar aliados",
+          "points": {
+            "ironia": 0.0321,
+            "paradoxo": 0.0307,
+            "hipérbole": 0.0416,
+            "oxímoro": 0.1003,
+            "metáfora": 0.0023,
+            "personificação": 0.0053,
+            "metonímia": 0.0059,
+            "antítese": 0.005,
+            "sinestesia": 0.0037,
+            "elipse": 0.0223,
+            "mesóclise": 0.0044,
+            "prosopopeia": 0.0039
+          }
+        },
+        {
+          "text": "🌿 Formo uma aliança com os animais e plantas locais para conseguir recursos",
+          "points": {
+            "personificação": 0.0607,
+            "prosopopeia": 0.0484,
+            "metáfora": 0.0437,
+            "sinestesia": 0.0782,
+            "hipérbole": 0.0023,
+            "ironia": 0.0029,
+            "metonímia": 0.006,
+            "paradoxo": 0.0022,
+            "antítese": 0.0052,
+            "elipse": 0.0226,
+            "oxímoro": 0.0059,
+            "mesóclise": 0.0046
+          }
+        },
+        {
+          "text": "🔄 Adapto-me constantemente às mudanças inesperadas no ambiente",
+          "points": {
+            "oxímoro": 0.0579,
+            "paradoxo": 0.0313,
+            "antítese": 0.0913,
+            "ironia": 0.0646,
+            "metáfora": 0.0023,
+            "hipérbole": 0.0023,
+            "personificação": 0.0052,
+            "metonímia": 0.0059,
+            "sinestesia": 0.0036,
+            "elipse": 0.0218,
+            "mesóclise": 0.0044,
+            "prosopopeia": 0.0038
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você encontra um portal mágico que leva a outra dimensão. O que você faz?",
+      "answers": [
+        {
+          "text": "🚀 Entro no portal sem hesitação, pronto para uma nova aventura",
+          "points": {
+            "hipérbole": 0.0269,
+            "metáfora": 0.0338,
+            "paradoxo": 0.0369,
+            "mesóclise": 0.0787,
+            "personificação": 0.0057,
+            "ironia": 0.003,
+            "metonímia": 0.0065,
+            "antítese": 0.0055,
+            "sinestesia": 0.004,
+            "elipse": 0.0242,
+            "oxímoro": 0.0063,
+            "prosopopeia": 0.0043
+          }
+        },
+        {
+          "text": "🌍 Exploro a nova dimensão, tentando entender suas leis e regras",
+          "points": {
+            "mesóclise": 0.0454,
+            "metonímia": 0.0805,
+            "paradoxo": 0.0362,
+            "hipérbole": 0.0428,
+            "metáfora": 0.0024,
+            "personificação": 0.0053,
+            "ironia": 0.0028,
+            "antítese": 0.0051,
+            "sinestesia": 0.0037,
+            "elipse": 0.0224,
+            "oxímoro": 0.0058,
+            "prosopopeia": 0.004
+          }
+        },
+        {
+          "text": "🗣️ Tento me comunicar com os seres da nova dimensão para aprender mais sobre eles",
+          "points": {
+            "prosopopeia": 0.0392,
+            "personificação": 0.0755,
+            "metáfora": 0.0434,
+            "sinestesia": 0.0775,
+            "hipérbole": 0.0023,
+            "ironia": 0.0029,
+            "metonímia": 0.006,
+            "paradoxo": 0.0022,
+            "antítese": 0.0051,
+            "elipse": 0.0222,
+            "oxímoro": 0.0058,
+            "mesóclise": 0.0045
+          }
+        },
+        {
+          "text": "🔄 Uso a nova dimensão como inspiração para criar histórias e metáforas incríveis",
+          "points": {
+            "metáfora": 0.0283,
+            "hipérbole": 0.0316,
+            "prosopopeia": 0.0585,
+            "ironia": 0.0532,
+            "personificação": 0.0057,
+            "metonímia": 0.0064,
+            "paradoxo": 0.0024,
+            "antítese": 0.0055,
+            "sinestesia": 0.004,
+            "elipse": 0.0244,
+            "oxímoro": 0.0065,
+            "mesóclise": 0.0051
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "metáfora": {
+      "title": "Metáfora",
+      "emoji": "🌟",
+      "subtitle": "Criativo e Imaginativo",
+      "text": "Você vê o mundo através de comparações e conexões únicas, criando novos significados."
+    },
+    "hipérbole": {
+      "title": "Hipérbole",
+      "emoji": "🔥",
+      "subtitle": "Intenso e Exagerado",
+      "text": "Tudo para você é vivido ao máximo, você exagera para enfatizar suas emoções e ideias."
+    },
+    "personificação": {
+      "title": "Personificação",
+      "emoji": "🌱",
+      "subtitle": "Animado e Expressivo",
+      "text": "Você dá vida a objetos inanimados e ideias, expressando-se de forma vívida e envolvente."
+    },
+    "ironia": {
+      "title": "Ironia",
+      "emoji": "🙃",
+      "subtitle": "Sarcástico e Perspicaz",
+      "text": "Você vê o lado humorístico e contraditório das situações, destacando verdades com sutileza."
+    },
+    "metonímia": {
+      "title": "Metonímia",
+      "emoji": "🔍",
+      "subtitle": "Analítico e Preciso",
+      "text": "Você usa detalhes específicos para representar ideias maiores, trazendo clareza e precisão."
+    },
+    "paradoxo": {
+      "title": "Paradoxo",
+      "emoji": "🔄",
+      "subtitle": "Profundo e Contraditório",
+      "text": "Você gosta de explorar contradições e desafiar expectativas, encontrando verdades profundas."
+    },
+    "antítese": {
+      "title": "Antítese",
+      "emoji": "⚖️",
+      "subtitle": "Equilibrado e Contraste",
+      "text": "Você aprecia o contraste e o equilíbrio, destacando as diferenças para realçar significados."
+    },
+    "sinestesia": {
+      "title": "Sinestesia",
+      "emoji": "🎨",
+      "subtitle": "Sensorial e Criativo",
+      "text": "Você mistura diferentes sentidos para expressar suas experiências, criando descrições ricas e multissensoriais."
+    },
+    "elipse": {
+      "title": "Elipse",
+      "emoji": "🔍",
+      "subtitle": "Econômico e Sugestivo",
+      "text": "Você diz muito com poucas palavras, deixando espaço para interpretações e leituras entre as linhas."
+    },
+    "oxímoro": {
+      "title": "Oxímoro",
+      "emoji": "🔄",
+      "subtitle": "Contraditório e Profundo",
+      "text": "Você combina opostos de forma intrigante, revelando verdades complexas e profundas através de contradições aparentes."
+    },
+    "mesóclise": {
+      "title": "Mesóclise",
+      "emoji": "📚",
+      "subtitle": "Erudito e Tradicional",
+      "text": "Você aprecia a formalidade e a tradição, usando estruturas linguísticas complexas para expressar ideias de maneira clara e precisa."
+    },
+    "prosopopeia": {
+      "title": "Prosopopeia",
+      "emoji": "🗣️",
+      "subtitle": "Animado e Comunicativo",
+      "text": "Você dá voz a objetos inanimados e conceitos abstratos, tornando suas expressões vívidas e envolventes."
+    }
+  }
+}

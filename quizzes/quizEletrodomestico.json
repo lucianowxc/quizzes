@@ -1,0 +1,454 @@
+{
+  "title": "Qual Eletrodoméstico Pequeno Você Seria?",
+  "questions": [
+    {
+      "question": "Qual dessas situações mais descreve sua manhã perfeita?",
+      "answers": [
+        {
+          "text": "🏃‍♂️ Correr 5 km antes do café da manhã.",
+          "points": {
+            "resultado1": 0.0497,
+            "resultado2": 0.0281,
+            "resultado3": 0.0112,
+            "resultado4": 0.0389,
+            "resultado5": 0.019,
+            "resultado6": 0.0396,
+            "resultado7": 0.0258,
+            "resultado8": 0.036
+          }
+        },
+        {
+          "text": "🛏️ Ficar na cama até meio-dia.",
+          "points": {
+            "resultado1": 0.0251,
+            "resultado2": 0.0491,
+            "resultado3": 0.0434,
+            "resultado4": 0.0127,
+            "resultado5": 0.0371,
+            "resultado6": 0.0274,
+            "resultado7": 0.0439,
+            "resultado8": 0.0264
+          }
+        },
+        {
+          "text": "☕ Tomar um café quentinho enquanto leio um livro.",
+          "points": {
+            "resultado1": 0.0103,
+            "resultado2": 0.0368,
+            "resultado3": 0.0469,
+            "resultado4": 0.0277,
+            "resultado5": 0.0254,
+            "resultado6": 0.0366,
+            "resultado7": 0.0198,
+            "resultado8": 0.0378
+          }
+        },
+        {
+          "text": "🎧 Ouvir música enquanto preparo um café da manhã gourmet.",
+          "points": {
+            "resultado1": 0.0399,
+            "resultado2": 0.011,
+            "resultado3": 0.0235,
+            "resultado4": 0.0457,
+            "resultado5": 0.0439,
+            "resultado6": 0.0225,
+            "resultado7": 0.0383,
+            "resultado8": 0.0309
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual desses superpoderes você gostaria de ter?",
+      "answers": [
+        {
+          "text": "⚡ Supervelocidade.",
+          "points": {
+            "resultado1": 0.0497,
+            "resultado2": 0.0281,
+            "resultado3": 0.0112,
+            "resultado4": 0.0389,
+            "resultado5": 0.019,
+            "resultado6": 0.0396,
+            "resultado7": 0.0258,
+            "resultado8": 0.036
+          }
+        },
+        {
+          "text": "🧠 Telepatia.",
+          "points": {
+            "resultado1": 0.0251,
+            "resultado2": 0.0491,
+            "resultado3": 0.0434,
+            "resultado4": 0.0127,
+            "resultado5": 0.0371,
+            "resultado6": 0.0274,
+            "resultado7": 0.0439,
+            "resultado8": 0.0264
+          }
+        },
+        {
+          "text": "🌈 Criação de arco-íris.",
+          "points": {
+            "resultado1": 0.0103,
+            "resultado2": 0.0368,
+            "resultado3": 0.0469,
+            "resultado4": 0.0277,
+            "resultado5": 0.0254,
+            "resultado6": 0.0366,
+            "resultado7": 0.0198,
+            "resultado8": 0.0378
+          }
+        },
+        {
+          "text": "🥪 Fazer um sanduíche perfeito em segundos.",
+          "points": {
+            "resultado1": 0.0399,
+            "resultado2": 0.011,
+            "resultado3": 0.0235,
+            "resultado4": 0.0457,
+            "resultado5": 0.0439,
+            "resultado6": 0.0225,
+            "resultado7": 0.0383,
+            "resultado8": 0.0309
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um chefe de cozinha, qual seria sua especialidade?",
+      "answers": [
+        {
+          "text": "🍲 Sopas e caldos revigorantes.",
+          "points": {
+            "resultado1": 0.0497,
+            "resultado2": 0.0281,
+            "resultado3": 0.0112,
+            "resultado4": 0.0389,
+            "resultado5": 0.019,
+            "resultado6": 0.0396,
+            "resultado7": 0.0258,
+            "resultado8": 0.036
+          }
+        },
+        {
+          "text": "🍰 Sobremesas criativas e inovadoras.",
+          "points": {
+            "resultado1": 0.0251,
+            "resultado2": 0.0491,
+            "resultado3": 0.0434,
+            "resultado4": 0.0127,
+            "resultado5": 0.0371,
+            "resultado6": 0.0274,
+            "resultado7": 0.0439,
+            "resultado8": 0.0264
+          }
+        },
+        {
+          "text": "🍕 Pizzas rápidas e deliciosas.",
+          "points": {
+            "resultado1": 0.0103,
+            "resultado2": 0.0368,
+            "resultado3": 0.0469,
+            "resultado4": 0.0277,
+            "resultado5": 0.0254,
+            "resultado6": 0.0366,
+            "resultado7": 0.0198,
+            "resultado8": 0.0378
+          }
+        },
+        {
+          "text": "🥤 Smoothies energizantes.",
+          "points": {
+            "resultado1": 0.0399,
+            "resultado2": 0.011,
+            "resultado3": 0.0235,
+            "resultado4": 0.0457,
+            "resultado5": 0.0439,
+            "resultado6": 0.0225,
+            "resultado7": 0.0383,
+            "resultado8": 0.0309
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é sua estratégia para resolver problemas?",
+      "answers": [
+        {
+          "text": "🌐 Resolver rapidamente, como um micro-ondas.",
+          "points": {
+            "resultado1": 0.0497,
+            "resultado2": 0.0281,
+            "resultado3": 0.0112,
+            "resultado4": 0.0389,
+            "resultado5": 0.019,
+            "resultado6": 0.0396,
+            "resultado7": 0.0258,
+            "resultado8": 0.036
+          }
+        },
+        {
+          "text": "🥪 Enfrentar com calma e criar soluções confortáveis.",
+          "points": {
+            "resultado1": 0.0251,
+            "resultado2": 0.0491,
+            "resultado3": 0.0434,
+            "resultado4": 0.0127,
+            "resultado5": 0.0371,
+            "resultado6": 0.0274,
+            "resultado7": 0.0439,
+            "resultado8": 0.0264
+          }
+        },
+        {
+          "text": "🍰 Usar criatividade para misturar ideias inovadoras.",
+          "points": {
+            "resultado1": 0.0103,
+            "resultado2": 0.0368,
+            "resultado3": 0.0469,
+            "resultado4": 0.0277,
+            "resultado5": 0.0254,
+            "resultado6": 0.0366,
+            "resultado7": 0.0198,
+            "resultado8": 0.0378
+          }
+        },
+        {
+          "text": "☕ Conversar e ouvir todos os lados antes de decidir.",
+          "points": {
+            "resultado1": 0.0399,
+            "resultado2": 0.011,
+            "resultado3": 0.0235,
+            "resultado4": 0.0457,
+            "resultado5": 0.0439,
+            "resultado6": 0.0225,
+            "resultado7": 0.0383,
+            "resultado8": 0.0309
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você faz quando está entediado?",
+      "answers": [
+        {
+          "text": "🏋️‍♂️ Malho e aproveito para ficar em forma.",
+          "points": {
+            "resultado1": 0.0497,
+            "resultado2": 0.0281,
+            "resultado3": 0.0112,
+            "resultado4": 0.0389,
+            "resultado5": 0.019,
+            "resultado6": 0.0396,
+            "resultado7": 0.0258,
+            "resultado8": 0.036
+          }
+        },
+        {
+          "text": "🎨 Crio algo novo e divertido.",
+          "points": {
+            "resultado1": 0.0251,
+            "resultado2": 0.0491,
+            "resultado3": 0.0434,
+            "resultado4": 0.0127,
+            "resultado5": 0.0371,
+            "resultado6": 0.0274,
+            "resultado7": 0.0439,
+            "resultado8": 0.0264
+          }
+        },
+        {
+          "text": "🍳 Preparo um lanchinho rápido.",
+          "points": {
+            "resultado1": 0.0103,
+            "resultado2": 0.0368,
+            "resultado3": 0.0469,
+            "resultado4": 0.0277,
+            "resultado5": 0.0254,
+            "resultado6": 0.0366,
+            "resultado7": 0.0198,
+            "resultado8": 0.0378
+          }
+        },
+        {
+          "text": "📚 Leio um livro ou assisto a um filme.",
+          "points": {
+            "resultado1": 0.0399,
+            "resultado2": 0.011,
+            "resultado3": 0.0235,
+            "resultado4": 0.0457,
+            "resultado5": 0.0439,
+            "resultado6": 0.0225,
+            "resultado7": 0.0383,
+            "resultado8": 0.0309
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase melhor te descreve?",
+      "answers": [
+        {
+          "text": "\"Sempre a mil por hora.\"",
+          "points": {
+            "resultado1": 0.0497,
+            "resultado2": 0.0281,
+            "resultado3": 0.0112,
+            "resultado4": 0.0389,
+            "resultado5": 0.019,
+            "resultado6": 0.0396,
+            "resultado7": 0.0258,
+            "resultado8": 0.036
+          }
+        },
+        {
+          "text": "\"Adoro dar um toque especial.\"",
+          "points": {
+            "resultado1": 0.0251,
+            "resultado2": 0.0491,
+            "resultado3": 0.0434,
+            "resultado4": 0.0127,
+            "resultado5": 0.0371,
+            "resultado6": 0.0274,
+            "resultado7": 0.0439,
+            "resultado8": 0.0264
+          }
+        },
+        {
+          "text": "\"Estou sempre pronto para um bate-papo.\"",
+          "points": {
+            "resultado1": 0.0103,
+            "resultado2": 0.0368,
+            "resultado3": 0.0469,
+            "resultado4": 0.0277,
+            "resultado5": 0.0254,
+            "resultado6": 0.0366,
+            "resultado7": 0.0198,
+            "resultado8": 0.0378
+          }
+        },
+        {
+          "text": "\"Rapidez e eficiência são meu lema.\"",
+          "points": {
+            "resultado1": 0.0399,
+            "resultado2": 0.011,
+            "resultado3": 0.0235,
+            "resultado4": 0.0457,
+            "resultado5": 0.0439,
+            "resultado6": 0.0225,
+            "resultado7": 0.0383,
+            "resultado8": 0.0309
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se fosse escolher um hobby, qual seria?",
+      "answers": [
+        {
+          "text": "🏃‍♀️ Corrida ou qualquer atividade física.",
+          "points": {
+            "resultado1": 0.0497,
+            "resultado2": 0.0281,
+            "resultado3": 0.0112,
+            "resultado4": 0.0389,
+            "resultado5": 0.019,
+            "resultado6": 0.0396,
+            "resultado7": 0.0258,
+            "resultado8": 0.036
+          }
+        },
+        {
+          "text": "🎨 Arte e artesanato.",
+          "points": {
+            "resultado1": 0.0251,
+            "resultado2": 0.0491,
+            "resultado3": 0.0434,
+            "resultado4": 0.0127,
+            "resultado5": 0.0371,
+            "resultado6": 0.0274,
+            "resultado7": 0.0439,
+            "resultado8": 0.0264
+          }
+        },
+        {
+          "text": "🌱 Jardinagem e cuidados com plantas.",
+          "points": {
+            "resultado1": 0.0103,
+            "resultado2": 0.0368,
+            "resultado3": 0.0469,
+            "resultado4": 0.0277,
+            "resultado5": 0.0254,
+            "resultado6": 0.0366,
+            "resultado7": 0.0198,
+            "resultado8": 0.0378
+          }
+        },
+        {
+          "text": "🎮 Jogos e tecnologia.",
+          "points": {
+            "resultado1": 0.0399,
+            "resultado2": 0.011,
+            "resultado3": 0.0235,
+            "resultado4": 0.0457,
+            "resultado5": 0.0439,
+            "resultado6": 0.0225,
+            "resultado7": 0.0383,
+            "resultado8": 0.0309
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "resultado1": {
+      "title": "Liquidificador",
+      "emoji": "🥤",
+      "subtitle": "Sempre a Mil por Hora",
+      "text": "Você é aquele que faz tudo de maneira rápida e eficiente. Sua energia contagiante transforma qualquer situação em algo produtivo."
+    },
+    "resultado2": {
+      "title": "Torradeira",
+      "emoji": "🍞",
+      "subtitle": "O Toque Especial",
+      "text": "Você adiciona um charme especial a qualquer ocasião. Sempre dando aquele toque extra que faz toda a diferença."
+    },
+    "resultado3": {
+      "title": "Cafeteira",
+      "emoji": "☕",
+      "subtitle": "Sempre Pronto para um Bate-Papo",
+      "text": "Você é a companhia perfeita para momentos relaxantes e conversas profundas. Sua presença traz conforto e acolhimento."
+    },
+    "resultado4": {
+      "title": "Micro-ondas",
+      "emoji": "🌐",
+      "subtitle": "Rapidez e Eficiência",
+      "text": "Você tem a habilidade de resolver problemas de forma rápida e eficaz. Nada fica fora do lugar quando você está por perto."
+    },
+    "resultado5": {
+      "title": "Batedeira",
+      "emoji": "🍰",
+      "subtitle": "Mistura de Ideias",
+      "text": "Sua criatividade não conhece limites. Você sabe como misturar ideias de maneira inovadora para criar algo único."
+    },
+    "resultado6": {
+      "title": "Sanduicheira",
+      "emoji": "🥪",
+      "subtitle": "Conforto a Todo Momento",
+      "text": "Você adora criar momentos de conforto e bem-estar. Seja uma noite de filmes ou um lanche rápido, você é a escolha perfeita."
+    },
+    "resultado7": {
+      "title": "Espremedor de Frutas",
+      "emoji": "🍊",
+      "subtitle": "Extraindo o Melhor",
+      "text": "Você sabe como extrair o melhor de cada situação. Sua abordagem otimista e prática transforma qualquer desafio em uma oportunidade refrescante."
+    },
+    "resultado8": {
+      "title": "Panela Elétrica",
+      "emoji": "🍲",
+      "subtitle": "Sempre Aquecendo",
+      "text": "Você é aquela pessoa que mantém tudo aquecido e em ordem. Sua presença constante traz conforto e segurança para todos ao seu redor."
+    }
+  }
+}
