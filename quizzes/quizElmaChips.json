@@ -1,0 +1,764 @@
+{
+    "title": "Qual salgadinho da Elma Chips você seria?",
+    "subtitle": "Descubra qual salgadinho combina com sua personalidade!",
+    "questions": [
+        {
+            "question": "Você está em uma festa. O que você faz?",
+            "answers": [
+                {
+                    "text": "Fico no cantinho comendo em silêncio 🐷",
+                    "points": {
+                        "fandangos_presunto": 0.0739,
+                        "pingo_douro": 0.093,
+                        "cheetos_bola": 0.0069,
+                        "cheetos_requeijao": 0.0057,
+                        "cebolitos": 0.0046,
+                        "ruffles_churrasco": 0.0082,
+                        "lays_sour_cream": 0.0108,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0055,
+                        "ovinhos_amendoim": 0.0139,
+                        "doritos": 0.0047
+                    }
+                },
+                {
+                    "text": "Grudo em todo mundo e faço piadas 🟠",
+                    "points": {
+                        "cheetos_bola": 0.1107,
+                        "doritos": 0.0846,
+                        "fandangos_presunto": 0.0041,
+                        "cheetos_requeijao": 0.0052,
+                        "cebolitos": 0.0042,
+                        "ruffles_churrasco": 0.0074,
+                        "lays_sour_cream": 0.01,
+                        "baconzitos": 0.0044,
+                        "stiksy": 0.005,
+                        "pingo_douro": 0.0046,
+                        "ovinhos_amendoim": 0.0129
+                    }
+                },
+                {
+                    "text": "Levo um prato de queijo derretido e conquisto todos 🧀",
+                    "points": {
+                        "cheetos_requeijao": 0.0902,
+                        "baconzitos": 0.0901,
+                        "fandangos_presunto": 0.0045,
+                        "cheetos_bola": 0.0067,
+                        "cebolitos": 0.0044,
+                        "ruffles_churrasco": 0.0079,
+                        "lays_sour_cream": 0.0105,
+                        "stiksy": 0.0053,
+                        "pingo_douro": 0.0046,
+                        "ovinhos_amendoim": 0.0133,
+                        "doritos": 0.0045
+                    }
+                },
+                {
+                    "text": "Causo polêmica falando de política 🧅",
+                    "points": {
+                        "cebolitos": 0.0718,
+                        "ruffles_churrasco": 0.1614,
+                        "fandangos_presunto": 0.0037,
+                        "cheetos_bola": 0.0056,
+                        "cheetos_requeijao": 0.0047,
+                        "lays_sour_cream": 0.0087,
+                        "baconzitos": 0.0038,
+                        "stiksy": 0.0045,
+                        "pingo_douro": 0.0041,
+                        "ovinhos_amendoim": 0.0114,
+                        "doritos": 0.0039
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é seu estilo de roupa favorito?",
+            "answers": [
+                {
+                    "text": "Confortável e discreto 🥜",
+                    "points": {
+                        "pingo_douro": 0.0741,
+                        "fandangos_presunto": 0.1039,
+                        "cheetos_bola": 0.0066,
+                        "cheetos_requeijao": 0.0054,
+                        "cebolitos": 0.0044,
+                        "ruffles_churrasco": 0.0079,
+                        "lays_sour_cream": 0.0105,
+                        "baconzitos": 0.0045,
+                        "stiksy": 0.0053,
+                        "ovinhos_amendoim": 0.0134,
+                        "doritos": 0.0045
+                    }
+                },
+                {
+                    "text": "Estiloso e cheio de acessórios 🥨",
+                    "points": {
+                        "stiksy": 0.0828,
+                        "doritos": 0.0947,
+                        "fandangos_presunto": 0.0044,
+                        "cheetos_bola": 0.0067,
+                        "cheetos_requeijao": 0.0057,
+                        "cebolitos": 0.0045,
+                        "ruffles_churrasco": 0.008,
+                        "lays_sour_cream": 0.0106,
+                        "baconzitos": 0.0046,
+                        "pingo_douro": 0.0049,
+                        "ovinhos_amendoim": 0.0136
+                    }
+                },
+                {
+                    "text": "Churrasqueiro clássico 🍖",
+                    "points": {
+                        "ruffles_churrasco": 0.1259,
+                        "cebolitos": 0.0888,
+                        "fandangos_presunto": 0.0039,
+                        "cheetos_bola": 0.006,
+                        "cheetos_requeijao": 0.0049,
+                        "lays_sour_cream": 0.0092,
+                        "baconzitos": 0.0041,
+                        "stiksy": 0.0046,
+                        "pingo_douro": 0.0043,
+                        "ovinhos_amendoim": 0.012,
+                        "doritos": 0.004
+                    }
+                },
+                {
+                    "text": "Algo que chame atenção, tipo um terno de bacon 🥓",
+                    "points": {
+                        "baconzitos": 0.0732,
+                        "cheetos_bola": 0.1536,
+                        "fandangos_presunto": 0.0038,
+                        "cheetos_requeijao": 0.0047,
+                        "cebolitos": 0.0038,
+                        "ruffles_churrasco": 0.0067,
+                        "lays_sour_cream": 0.009,
+                        "stiksy": 0.0045,
+                        "pingo_douro": 0.0041,
+                        "ovinhos_amendoim": 0.0116,
+                        "doritos": 0.0039
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual seria seu superpoder?",
+            "answers": [
+                {
+                    "text": "Ser invisível (ninguém me nota, mas estou sempre lá) 🐷",
+                    "points": {
+                        "fandangos_presunto": 0.0739,
+                        "pingo_douro": 0.093,
+                        "cheetos_bola": 0.0069,
+                        "cheetos_requeijao": 0.0057,
+                        "cebolitos": 0.0046,
+                        "ruffles_churrasco": 0.0082,
+                        "lays_sour_cream": 0.0108,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0055,
+                        "ovinhos_amendoim": 0.0139,
+                        "doritos": 0.0047
+                    }
+                },
+                {
+                    "text": "Grudar em tudo e todos 🟠",
+                    "points": {
+                        "cheetos_bola": 0.1107,
+                        "stiksy": 0.101,
+                        "fandangos_presunto": 0.004,
+                        "cheetos_requeijao": 0.0049,
+                        "cebolitos": 0.0039,
+                        "ruffles_churrasco": 0.0071,
+                        "lays_sour_cream": 0.0095,
+                        "baconzitos": 0.0042,
+                        "pingo_douro": 0.0043,
+                        "ovinhos_amendoim": 0.0121,
+                        "doritos": 0.0041
+                    }
+                },
+                {
+                    "text": "Derreter corações com meu charme 🧀",
+                    "points": {
+                        "cheetos_requeijao": 0.0902,
+                        "baconzitos": 0.0901,
+                        "fandangos_presunto": 0.0045,
+                        "cheetos_bola": 0.0067,
+                        "cebolitos": 0.0044,
+                        "ruffles_churrasco": 0.0079,
+                        "lays_sour_cream": 0.0105,
+                        "stiksy": 0.0053,
+                        "pingo_douro": 0.0046,
+                        "ovinhos_amendoim": 0.0133,
+                        "doritos": 0.0045
+                    }
+                },
+                {
+                    "text": "Causar reações intensas em todos ao meu redor 🧅",
+                    "points": {
+                        "cebolitos": 0.0718,
+                        "doritos": 0.0898,
+                        "fandangos_presunto": 0.0047,
+                        "cheetos_bola": 0.0072,
+                        "cheetos_requeijao": 0.0059,
+                        "ruffles_churrasco": 0.0083,
+                        "lays_sour_cream": 0.0111,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0056,
+                        "pingo_douro": 0.0051,
+                        "ovinhos_amendoim": 0.0144
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é sua comida favorita?",
+            "answers": [
+                {
+                    "text": "Algo simples, como pão com manteiga 🥜",
+                    "points": {
+                        "pingo_douro": 0.0741,
+                        "fandangos_presunto": 0.1039,
+                        "cheetos_bola": 0.0066,
+                        "cheetos_requeijao": 0.0054,
+                        "cebolitos": 0.0044,
+                        "ruffles_churrasco": 0.0079,
+                        "lays_sour_cream": 0.0105,
+                        "baconzitos": 0.0045,
+                        "stiksy": 0.0053,
+                        "ovinhos_amendoim": 0.0134,
+                        "doritos": 0.0045
+                    }
+                },
+                {
+                    "text": "Churrasco, claro! 🍖",
+                    "points": {
+                        "ruffles_churrasco": 0.1259,
+                        "cebolitos": 0.0888,
+                        "fandangos_presunto": 0.0039,
+                        "cheetos_bola": 0.006,
+                        "cheetos_requeijao": 0.0049,
+                        "lays_sour_cream": 0.0092,
+                        "baconzitos": 0.0041,
+                        "stiksy": 0.0046,
+                        "pingo_douro": 0.0043,
+                        "ovinhos_amendoim": 0.012,
+                        "doritos": 0.004
+                    }
+                },
+                {
+                    "text": "Queijo derretido em tudo 🧀",
+                    "points": {
+                        "cheetos_requeijao": 0.0902,
+                        "baconzitos": 0.0901,
+                        "fandangos_presunto": 0.0045,
+                        "cheetos_bola": 0.0067,
+                        "cebolitos": 0.0044,
+                        "ruffles_churrasco": 0.0079,
+                        "lays_sour_cream": 0.0105,
+                        "stiksy": 0.0053,
+                        "pingo_douro": 0.0046,
+                        "ovinhos_amendoim": 0.0133,
+                        "doritos": 0.0045
+                    }
+                },
+                {
+                    "text": "Algo picante e cheio de tempero 🌮",
+                    "points": {
+                        "doritos": 0.0686,
+                        "stiksy": 0.109,
+                        "fandangos_presunto": 0.0045,
+                        "cheetos_bola": 0.0068,
+                        "cheetos_requeijao": 0.0056,
+                        "cebolitos": 0.0045,
+                        "ruffles_churrasco": 0.008,
+                        "lays_sour_cream": 0.0107,
+                        "baconzitos": 0.0047,
+                        "pingo_douro": 0.0049,
+                        "ovinhos_amendoim": 0.0136
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Como você reage em uma discussão?",
+            "answers": [
+                {
+                    "text": "Fico quieto e observo 🐷",
+                    "points": {
+                        "fandangos_presunto": 0.0739,
+                        "pingo_douro": 0.093,
+                        "cheetos_bola": 0.0069,
+                        "cheetos_requeijao": 0.0057,
+                        "cebolitos": 0.0046,
+                        "ruffles_churrasco": 0.0082,
+                        "lays_sour_cream": 0.0108,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0055,
+                        "ovinhos_amendoim": 0.0139,
+                        "doritos": 0.0047
+                    }
+                },
+                {
+                    "text": "Entro na briga e falo tudo o que penso 🧅",
+                    "points": {
+                        "cebolitos": 0.0718,
+                        "doritos": 0.0898,
+                        "fandangos_presunto": 0.0047,
+                        "cheetos_bola": 0.0072,
+                        "cheetos_requeijao": 0.0059,
+                        "ruffles_churrasco": 0.0083,
+                        "lays_sour_cream": 0.0111,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0056,
+                        "pingo_douro": 0.0051,
+                        "ovinhos_amendoim": 0.0144
+                    }
+                },
+                {
+                    "text": "Tento acalmar todo mundo com meu jeitinho 🧀",
+                    "points": {
+                        "cheetos_requeijao": 0.0902,
+                        "lays_sour_cream": 0.2002,
+                        "fandangos_presunto": 0.0032,
+                        "cheetos_bola": 0.0049,
+                        "cebolitos": 0.0032,
+                        "ruffles_churrasco": 0.0057,
+                        "baconzitos": 0.0034,
+                        "stiksy": 0.0039,
+                        "pingo_douro": 0.0034,
+                        "ovinhos_amendoim": 0.0097,
+                        "doritos": 0.0033
+                    }
+                },
+                {
+                    "text": "Dou uma solução criativa e inesperada 🥚",
+                    "points": {
+                        "ovinhos_amendoim": 0.2058,
+                        "stiksy": 0.1092,
+                        "fandangos_presunto": 0.0031,
+                        "cheetos_bola": 0.0047,
+                        "cheetos_requeijao": 0.0038,
+                        "cebolitos": 0.0031,
+                        "ruffles_churrasco": 0.0054,
+                        "lays_sour_cream": 0.0073,
+                        "baconzitos": 0.0032,
+                        "pingo_douro": 0.0034,
+                        "doritos": 0.003
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é seu filme favorito?",
+            "answers": [
+                {
+                    "text": "Um clássico que todo mundo ama, mas ninguém sabe por quê 🐷",
+                    "points": {
+                        "fandangos_presunto": 0.0739,
+                        "pingo_douro": 0.093,
+                        "cheetos_bola": 0.0069,
+                        "cheetos_requeijao": 0.0057,
+                        "cebolitos": 0.0046,
+                        "ruffles_churrasco": 0.0082,
+                        "lays_sour_cream": 0.0108,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0055,
+                        "ovinhos_amendoim": 0.0139,
+                        "doritos": 0.0047
+                    }
+                },
+                {
+                    "text": "Algo cheio de ação e explosões 🌮",
+                    "points": {
+                        "doritos": 0.0686,
+                        "baconzitos": 0.0967,
+                        "fandangos_presunto": 0.0047,
+                        "cheetos_bola": 0.0072,
+                        "cheetos_requeijao": 0.0059,
+                        "cebolitos": 0.0048,
+                        "ruffles_churrasco": 0.0084,
+                        "lays_sour_cream": 0.0111,
+                        "stiksy": 0.0055,
+                        "pingo_douro": 0.005,
+                        "ovinhos_amendoim": 0.0141
+                    }
+                },
+                {
+                    "text": "Um filme leve e refrescante 🥒",
+                    "points": {
+                        "lays_sour_cream": 0.1671,
+                        "cheetos_requeijao": 0.1255,
+                        "fandangos_presunto": 0.0032,
+                        "cheetos_bola": 0.0049,
+                        "cebolitos": 0.0031,
+                        "ruffles_churrasco": 0.0056,
+                        "baconzitos": 0.0033,
+                        "stiksy": 0.0037,
+                        "pingo_douro": 0.0034,
+                        "ovinhos_amendoim": 0.0097,
+                        "doritos": 0.0032
+                    }
+                },
+                {
+                    "text": "Um documentário sobre churrasco 🍖",
+                    "points": {
+                        "ruffles_churrasco": 0.1259,
+                        "cebolitos": 0.0888,
+                        "fandangos_presunto": 0.0039,
+                        "cheetos_bola": 0.006,
+                        "cheetos_requeijao": 0.0049,
+                        "lays_sour_cream": 0.0092,
+                        "baconzitos": 0.0041,
+                        "stiksy": 0.0046,
+                        "pingo_douro": 0.0043,
+                        "ovinhos_amendoim": 0.012,
+                        "doritos": 0.004
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é seu hobby favorito?",
+            "answers": [
+                {
+                    "text": "Ficar em casa assistindo TV 🐷",
+                    "points": {
+                        "fandangos_presunto": 0.0739,
+                        "pingo_douro": 0.093,
+                        "cheetos_bola": 0.0069,
+                        "cheetos_requeijao": 0.0057,
+                        "cebolitos": 0.0046,
+                        "ruffles_churrasco": 0.0082,
+                        "lays_sour_cream": 0.0108,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0055,
+                        "ovinhos_amendoim": 0.0139,
+                        "doritos": 0.0047
+                    }
+                },
+                {
+                    "text": "Fazer artesanato e criar coisas 🥨",
+                    "points": {
+                        "stiksy": 0.0828,
+                        "ovinhos_amendoim": 0.2501,
+                        "fandangos_presunto": 0.003,
+                        "cheetos_bola": 0.0046,
+                        "cheetos_requeijao": 0.0038,
+                        "cebolitos": 0.003,
+                        "ruffles_churrasco": 0.0052,
+                        "lays_sour_cream": 0.0069,
+                        "baconzitos": 0.003,
+                        "pingo_douro": 0.0031,
+                        "doritos": 0.0029
+                    }
+                },
+                {
+                    "text": "Cozinhar e experimentar receitas novas 🧀",
+                    "points": {
+                        "cheetos_requeijao": 0.0902,
+                        "baconzitos": 0.0901,
+                        "fandangos_presunto": 0.0045,
+                        "cheetos_bola": 0.0067,
+                        "cebolitos": 0.0044,
+                        "ruffles_churrasco": 0.0079,
+                        "lays_sour_cream": 0.0105,
+                        "stiksy": 0.0053,
+                        "pingo_douro": 0.0046,
+                        "ovinhos_amendoim": 0.0133,
+                        "doritos": 0.0045
+                    }
+                },
+                {
+                    "text": "Discutir na internet sobre temas polêmicos 🧅",
+                    "points": {
+                        "cebolitos": 0.0718,
+                        "doritos": 0.0898,
+                        "fandangos_presunto": 0.0047,
+                        "cheetos_bola": 0.0072,
+                        "cheetos_requeijao": 0.0059,
+                        "ruffles_churrasco": 0.0083,
+                        "lays_sour_cream": 0.0111,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0056,
+                        "pingo_douro": 0.0051,
+                        "ovinhos_amendoim": 0.0144
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é seu animal favorito?",
+            "answers": [
+                {
+                    "text": "Porco (sou simples, mas essencial) 🐷",
+                    "points": {
+                        "fandangos_presunto": 0.0739,
+                        "baconzitos": 0.0919,
+                        "cheetos_bola": 0.0069,
+                        "cheetos_requeijao": 0.0056,
+                        "cebolitos": 0.0046,
+                        "ruffles_churrasco": 0.0082,
+                        "lays_sour_cream": 0.011,
+                        "stiksy": 0.0054,
+                        "pingo_douro": 0.0049,
+                        "ovinhos_amendoim": 0.014,
+                        "doritos": 0.0047
+                    }
+                },
+                {
+                    "text": "Gato (sou grudento e cheio de personalidade) 🟠",
+                    "points": {
+                        "cheetos_bola": 0.1107,
+                        "stiksy": 0.101,
+                        "fandangos_presunto": 0.004,
+                        "cheetos_requeijao": 0.0049,
+                        "cebolitos": 0.0039,
+                        "ruffles_churrasco": 0.0071,
+                        "lays_sour_cream": 0.0095,
+                        "baconzitos": 0.0042,
+                        "pingo_douro": 0.0043,
+                        "ovinhos_amendoim": 0.0121,
+                        "doritos": 0.0041
+                    }
+                },
+                {
+                    "text": "Vaca (adoro queijo e sou tranquilo) 🧀",
+                    "points": {
+                        "cheetos_requeijao": 0.0902,
+                        "lays_sour_cream": 0.2002,
+                        "fandangos_presunto": 0.0032,
+                        "cheetos_bola": 0.0049,
+                        "cebolitos": 0.0032,
+                        "ruffles_churrasco": 0.0057,
+                        "baconzitos": 0.0034,
+                        "stiksy": 0.0039,
+                        "pingo_douro": 0.0034,
+                        "ovinhos_amendoim": 0.0097,
+                        "doritos": 0.0033
+                    }
+                },
+                {
+                    "text": "Cobra (sou picante e cheio de atitude) 🌮",
+                    "points": {
+                        "doritos": 0.0686,
+                        "cebolitos": 0.0965,
+                        "fandangos_presunto": 0.0046,
+                        "cheetos_bola": 0.007,
+                        "cheetos_requeijao": 0.0058,
+                        "ruffles_churrasco": 0.0082,
+                        "lays_sour_cream": 0.0109,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0055,
+                        "pingo_douro": 0.0051,
+                        "ovinhos_amendoim": 0.0142
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é seu lugar favorito?",
+            "answers": [
+                {
+                    "text": "Em casa, no meu cantinho 🐷",
+                    "points": {
+                        "fandangos_presunto": 0.0739,
+                        "pingo_douro": 0.093,
+                        "cheetos_bola": 0.0069,
+                        "cheetos_requeijao": 0.0057,
+                        "cebolitos": 0.0046,
+                        "ruffles_churrasco": 0.0082,
+                        "lays_sour_cream": 0.0108,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0055,
+                        "ovinhos_amendoim": 0.0139,
+                        "doritos": 0.0047
+                    }
+                },
+                {
+                    "text": "No meio da multidão, grudado em todo mundo 🟠",
+                    "points": {
+                        "cheetos_bola": 0.1107,
+                        "stiksy": 0.101,
+                        "fandangos_presunto": 0.004,
+                        "cheetos_requeijao": 0.0049,
+                        "cebolitos": 0.0039,
+                        "ruffles_churrasco": 0.0071,
+                        "lays_sour_cream": 0.0095,
+                        "baconzitos": 0.0042,
+                        "pingo_douro": 0.0043,
+                        "ovinhos_amendoim": 0.0121,
+                        "doritos": 0.0041
+                    }
+                },
+                {
+                    "text": "No churrasco, com os amigos 🍖",
+                    "points": {
+                        "ruffles_churrasco": 0.1259,
+                        "cebolitos": 0.0888,
+                        "fandangos_presunto": 0.0039,
+                        "cheetos_bola": 0.006,
+                        "cheetos_requeijao": 0.0049,
+                        "lays_sour_cream": 0.0092,
+                        "baconzitos": 0.0041,
+                        "stiksy": 0.0046,
+                        "pingo_douro": 0.0043,
+                        "ovinhos_amendoim": 0.012,
+                        "doritos": 0.004
+                    }
+                },
+                {
+                    "text": "Em um lugar exótico e cheio de aventuras 🌮",
+                    "points": {
+                        "doritos": 0.0686,
+                        "baconzitos": 0.0967,
+                        "fandangos_presunto": 0.0047,
+                        "cheetos_bola": 0.0072,
+                        "cheetos_requeijao": 0.0059,
+                        "cebolitos": 0.0048,
+                        "ruffles_churrasco": 0.0084,
+                        "lays_sour_cream": 0.0111,
+                        "stiksy": 0.0055,
+                        "pingo_douro": 0.005,
+                        "ovinhos_amendoim": 0.0141
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual é sua frase favorita?",
+            "answers": [
+                {
+                    "text": "“Menos é mais.” 🐷",
+                    "points": {
+                        "fandangos_presunto": 0.0739,
+                        "pingo_douro": 0.093,
+                        "cheetos_bola": 0.0069,
+                        "cheetos_requeijao": 0.0057,
+                        "cebolitos": 0.0046,
+                        "ruffles_churrasco": 0.0082,
+                        "lays_sour_cream": 0.0108,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0055,
+                        "ovinhos_amendoim": 0.0139,
+                        "doritos": 0.0047
+                    }
+                },
+                {
+                    "text": "“Grudei!” 🟠",
+                    "points": {
+                        "cheetos_bola": 0.1107,
+                        "stiksy": 0.101,
+                        "fandangos_presunto": 0.004,
+                        "cheetos_requeijao": 0.0049,
+                        "cebolitos": 0.0039,
+                        "ruffles_churrasco": 0.0071,
+                        "lays_sour_cream": 0.0095,
+                        "baconzitos": 0.0042,
+                        "pingo_douro": 0.0043,
+                        "ovinhos_amendoim": 0.0121,
+                        "doritos": 0.0041
+                    }
+                },
+                {
+                    "text": "“Queijo é vida.” 🧀",
+                    "points": {
+                        "cheetos_requeijao": 0.0902,
+                        "baconzitos": 0.0901,
+                        "fandangos_presunto": 0.0045,
+                        "cheetos_bola": 0.0067,
+                        "cebolitos": 0.0044,
+                        "ruffles_churrasco": 0.0079,
+                        "lays_sour_cream": 0.0105,
+                        "stiksy": 0.0053,
+                        "pingo_douro": 0.0046,
+                        "ovinhos_amendoim": 0.0133,
+                        "doritos": 0.0045
+                    }
+                },
+                {
+                    "text": "“Vamos causar!” 🧅",
+                    "points": {
+                        "cebolitos": 0.0718,
+                        "doritos": 0.0898,
+                        "fandangos_presunto": 0.0047,
+                        "cheetos_bola": 0.0072,
+                        "cheetos_requeijao": 0.0059,
+                        "ruffles_churrasco": 0.0083,
+                        "lays_sour_cream": 0.0111,
+                        "baconzitos": 0.0048,
+                        "stiksy": 0.0056,
+                        "pingo_douro": 0.0051,
+                        "ovinhos_amendoim": 0.0144
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "fandangos_presunto": {
+            "title": "Fandangos Presunto",
+            "emoji": "🐷",
+            "subtitle": "O discreto, mas essencial",
+            "text": "Você é Fandangos Presunto! Todo mundo te ama, mas ninguém sabe explicar por quê. Você é aquela pessoa que sempre está lá, mas nunca rouba a cena."
+        },
+        "cheetos_bola": {
+            "title": "Cheetos Bola",
+            "emoji": "🟠",
+            "subtitle": "O grudento da turma",
+            "text": "Você é Cheetos Bola! Todo mundo te conhece por ser redondinho e grudento. Você é aquela pessoa que sempre deixa sua marca por onde passa."
+        },
+        "cheetos_requeijao": {
+            "title": "Cheetos Requeijão",
+            "emoji": "🧀",
+            "subtitle": "O cremoso da turma",
+            "text": "Você é Cheetos Requeijão! Todo mundo te ama por ser cremoso e derretido. Você é aquela pessoa que sempre conquista os outros com seu jeitinho suave."
+        },
+        "cebolitos": {
+            "title": "Cebolitos",
+            "emoji": "🧅",
+            "subtitle": "O polêmico da turma",
+            "text": "Você é Cebolitos! Ou todo mundo te ama, ou todo mundo te odeia. Você é aquela pessoa que nunca passa despercebida e sempre causa reações intensas."
+        },
+        "ruffles_churrasco": {
+            "title": "Ruffles Churrasco",
+            "emoji": "🍖",
+            "subtitle": "O churrasqueiro da turma",
+            "text": "Você é Ruffles Churrasco! Todo mundo te quer no churrasco, mas você some rápido. Você é aquela pessoa que sempre deixa todo mundo com água na boca."
+        },
+        "lays_sour_cream": {
+            "title": "Lays Sour Cream",
+            "emoji": "🥒",
+            "subtitle": "O refrescante da turma",
+            "text": "Você é Lays Sour Cream! Leve, mas cheio de personalidade. Você é aquela pessoa que sempre traz um toque refrescante para qualquer situação."
+        },
+        "baconzitos": {
+            "title": "Baconzitos",
+            "emoji": "🥓",
+            "subtitle": "O irresistível da turma",
+            "text": "Você é Baconzitos! Todo mundo te quer, mas nem todo mundo merece. Você é aquela pessoa que sempre chama atenção, mas às vezes pode ser um pouco demais."
+        },
+        "stiksy": {
+            "title": "Stiksy",
+            "emoji": "🥨",
+            "subtitle": "O estiloso da turma",
+            "text": "Você é Stiksy! Crocante e cheio de estilo, você é aquela pessoa que sempre se destaca pela sua personalidade única."
+        },
+        "pingo_douro": {
+            "title": "Pingo d'Ouro",
+            "emoji": "🥜",
+            "subtitle": "O pequeno notável",
+            "text": "Você é Pingo d'Ouro! Pequeno, mas cheio de sabor. Você é aquela pessoa que sempre surpreende pela sua grandiosidade, mesmo sendo discreto."
+        },
+        "ovinhos_amendoim": {
+            "title": "Ovinhos de Amendoim",
+            "emoji": "🥚",
+            "subtitle": "O surpreendente da turma",
+            "text": "Você é Ovinhos de Amendoim! Uma surpresa em cada mordida. Você é aquela pessoa que sempre traz algo novo e inesperado para a mesa."
+        },
+        "doritos": {
+            "title": "Doritos",
+            "emoji": "🌮",
+            "subtitle": "O ousado da turma",
+            "text": "Você é Doritos! Cheio de personalidade e ousadia, você não passa despercebido. Você é aquela pessoa que sempre traz um tempero extra para a vida."
+        }
+    }
+}

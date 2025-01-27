@@ -279,6 +279,11 @@
             "name": "Qual tipo de deck você deve escolher no Magic: The Gathering?",
             "file": "quizzes/quizDeckMTG.json",
             "description": "Descubra seu estilo de jogo no Magic: The Gathering e veja qual tipo de deck mais combina com você!"
+        },
+        {
+            "name": "Qual salgadinho da Elma Chips você seria?",
+            "file": "quizzes/quizElmaChips.json",
+            "description": "Descubra qual salgadinho combina com sua personalidade!"
         }
     ]
 }
