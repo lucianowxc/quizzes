@@ -14,7 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
         loadQuizFromPost(quizFile);
     } else {
         loadQuizList();
-        document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
+        document.getElementById('quiz-title').textContent = 'Quiz de Personalidade';
+        document.getElementById('quiz').innerHTML = '<p>Escolha um dos quizzes abaixo para descobrir mais sobre você!</p>';
     }
     loadDarkModePreference();
     loadAnimationPreference();
@@ -105,6 +106,8 @@ async function loadQuizFromPost(file) {
         if (!response.ok) throw new Error('Network response was not ok');
         quizData = await response.json();
         currentQuizFile = file; // Store the current quiz file name
+        document.title = quizData.title || 'Quiz'; // Update page title
+        window.history.pushState({}, quizData.title, `?quiz=${file}`); // Update URL
         initializeQuiz();
     } catch (error) {
         console.error('Erro ao carregar o quiz selecionado:', error);
@@ -122,6 +125,8 @@ function loadUploadedQuiz() {
         reader.onload = function(event) {
             quizData = JSON.parse(event.target.result);
             currentQuizFile = file.name; // Store the current quiz file name
+            document.title = quizData.title || 'Quiz'; // Update page title
+            window.history.pushState({}, quizData.title, `?quiz=${file.name}`); // Update URL
             initializeQuiz();
         };
         reader.readAsText(file);
@@ -172,7 +177,10 @@ function showQuestion() {
     const backButton = document.createElement('button');
     backButton.textContent = 'Voltar à Página Inicial';
     backButton.className = 'back-button';
-    backButton.onclick = () => returnToQuizSelection();
+    backButton.onclick = () => {
+        document.title = 'Quiz de Personalidade'; // Revert page title
+        returnToQuizSelection();
+    };
     buttonContainer.appendChild(backButton);
 
     questionContainer.appendChild(buttonContainer);
@@ -260,13 +268,13 @@ function restartQuiz() {
 }
 
 function returnToQuizSelection() {
-    document.getElementById('quiz-title').textContent = 'Escolha seu Quiz';
-    document.getElementById('quiz').innerHTML = '';
+    document.getElementById('quiz-title').textContent = 'Quiz de Personalidade';
+    document.getElementById('quiz').innerHTML = '<p>Escolha um dos quizzes abaixo para descobrir mais sobre você!</p>';
     currentQuizFile = ''; // Reset current quiz file
     currentPage = 1; // Reset current page
     loadQuizList(); // Reload quiz list
     document.getElementById('quiz-posts').classList.remove('hidden'); // Show quiz posts
-    window.history.replaceState({}, document.title, window.location.pathname); // Clear URL parameters
+    window.history.replaceState({}, 'Quiz de Personalidade', window.location.pathname); // Clear URL parameters
     updateDarkModeStyles(); // Ensure dark mode styles are applied
 }
 
