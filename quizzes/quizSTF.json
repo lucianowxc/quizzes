@@ -1,0 +1,557 @@
+{
+    "title": "Qual Ministro do STF Você Seria?",
+    "subtitle": "Descubra qual ministro do Supremo Tribunal Federal mais combina com sua personalidade e estilo de decisão!",
+    "questions": [
+      {
+        "question": "Você está diante de uma decisão polêmica que pode afetar milhões de pessoas. O que você faz?",
+        "answers": [
+          {
+            "text": "⚖️🔥 Tomo a decisão mais rigorosa, mesmo que impopular, para garantir a ordem.",
+            "points": {
+              "ministro1": 0.0506,
+              "ministro5": 0.0408,
+              "ministro9": 0.0682,
+              "ministro10": 0.0443,
+              "ministro2": 0.0036,
+              "ministro3": 0.0059,
+              "ministro4": 0.0036,
+              "ministro6": 0.0057,
+              "ministro7": 0.0066,
+              "ministro8": 0.004,
+              "ministro11": 0.0029
+            }
+          },
+          {
+            "text": "👑📜 Busco o diálogo e tento encontrar um consenso entre as partes envolvidas.",
+            "points": {
+              "ministro2": 0.0354,
+              "ministro4": 0.0394,
+              "ministro6": 0.0681,
+              "ministro11": 0.0429,
+              "ministro1": 0.005,
+              "ministro3": 0.0059,
+              "ministro5": 0.0048,
+              "ministro7": 0.0065,
+              "ministro8": 0.0039,
+              "ministro9": 0.0049,
+              "ministro10": 0.0024
+            }
+          },
+          {
+            "text": "🎓✨ Analiso o caso com base em princípios progressistas e inovadores.",
+            "points": {
+              "ministro3": 0.0595,
+              "ministro7": 0.0727,
+              "ministro6": 0.0757,
+              "ministro11": 0.0491,
+              "ministro1": 0.0044,
+              "ministro2": 0.0032,
+              "ministro4": 0.0032,
+              "ministro5": 0.0043,
+              "ministro8": 0.0034,
+              "ministro9": 0.0044,
+              "ministro10": 0.0021
+            }
+          },
+          {
+            "text": "🧠💼 Consulto especialistas e busco uma solução técnica e detalhada.",
+            "points": {
+              "ministro4": 0.0361,
+              "ministro5": 0.0568,
+              "ministro8": 0.0532,
+              "ministro10": 0.0683,
+              "ministro1": 0.0059,
+              "ministro2": 0.0042,
+              "ministro3": 0.0071,
+              "ministro6": 0.0066,
+              "ministro7": 0.0077,
+              "ministro9": 0.0057,
+              "ministro11": 0.0033
+            }
+          }
+        ]
+      },
+      {
+        "question": "Um caso delicado envolve a liberdade de expressão e a proteção de direitos fundamentais. Como você age?",
+        "answers": [
+          {
+            "text": "🗣️📜 Defendo a liberdade de expressão acima de tudo, mas com responsabilidade.",
+            "points": {
+              "ministro3": 0.0595,
+              "ministro7": 0.0645,
+              "ministro1": 0.0551,
+              "ministro10": 0.0444,
+              "ministro2": 0.0032,
+              "ministro4": 0.0034,
+              "ministro5": 0.0046,
+              "ministro6": 0.0053,
+              "ministro8": 0.0037,
+              "ministro9": 0.0046,
+              "ministro11": 0.0027
+            }
+          },
+          {
+            "text": "🛡️❤️ Priorizo a proteção dos direitos fundamentais, mesmo que isso limite a liberdade de expressão.",
+            "points": {
+              "ministro6": 0.0554,
+              "ministro2": 0.0422,
+              "ministro5": 0.0418,
+              "ministro9": 0.1056,
+              "ministro1": 0.0045,
+              "ministro3": 0.0054,
+              "ministro4": 0.0033,
+              "ministro7": 0.0058,
+              "ministro8": 0.0035,
+              "ministro10": 0.0021,
+              "ministro11": 0.0026
+            }
+          },
+          {
+            "text": "⚖️🌐 Busco um equilíbrio entre os dois princípios, evitando extremos.",
+            "points": {
+              "ministro5": 0.0479,
+              "ministro4": 0.0461,
+              "ministro2": 0.0494,
+              "ministro8": 0.075,
+              "ministro1": 0.0051,
+              "ministro3": 0.0062,
+              "ministro6": 0.0057,
+              "ministro7": 0.0066,
+              "ministro9": 0.0049,
+              "ministro10": 0.0023,
+              "ministro11": 0.0029
+            }
+          },
+          {
+            "text": "📚🔍 Analiso o contexto histórico e social para tomar uma decisão informada.",
+            "points": {
+              "ministro4": 0.0361,
+              "ministro1": 0.0486,
+              "ministro3": 0.0584,
+              "ministro10": 0.0537,
+              "ministro2": 0.0038,
+              "ministro5": 0.0053,
+              "ministro6": 0.0061,
+              "ministro7": 0.0071,
+              "ministro8": 0.0043,
+              "ministro9": 0.0054,
+              "ministro11": 0.0032
+            }
+          }
+        ]
+      },
+      {
+        "question": "Você precisa decidir sobre um caso que envolve uma grande empresa e um grupo de cidadãos prejudicados. Qual é sua prioridade?",
+        "answers": [
+          {
+            "text": "👥⚖️ Protejo os interesses dos cidadãos, mesmo que isso afete a empresa.",
+            "points": {
+              "ministro6": 0.0554,
+              "ministro7": 0.0823,
+              "ministro3": 0.0979,
+              "ministro11": 0.0499,
+              "ministro1": 0.0044,
+              "ministro2": 0.003,
+              "ministro4": 0.0031,
+              "ministro5": 0.0042,
+              "ministro8": 0.0034,
+              "ministro9": 0.0042,
+              "ministro10": 0.002
+            }
+          },
+          {
+            "text": "⚖️🤝 Busco uma solução que equilibre os interesses de ambas as partes.",
+            "points": {
+              "ministro5": 0.0479,
+              "ministro2": 0.0389,
+              "ministro4": 0.0545,
+              "ministro8": 0.0834,
+              "ministro1": 0.0052,
+              "ministro3": 0.0061,
+              "ministro6": 0.0058,
+              "ministro7": 0.0067,
+              "ministro9": 0.0049,
+              "ministro10": 0.0024,
+              "ministro11": 0.0029
+            }
+          },
+          {
+            "text": "💼📊 Analiso o impacto econômico da decisão antes de tomar uma posição.",
+            "points": {
+              "ministro4": 0.0361,
+              "ministro1": 0.0476,
+              "ministro9": 0.0544,
+              "ministro10": 0.0599,
+              "ministro2": 0.004,
+              "ministro3": 0.0068,
+              "ministro5": 0.0055,
+              "ministro6": 0.0064,
+              "ministro7": 0.0074,
+              "ministro8": 0.0044,
+              "ministro11": 0.0032
+            }
+          },
+          {
+            "text": "⚖️🛡️ Defendo a legalidade acima de tudo, independentemente das consequências.",
+            "points": {
+              "ministro1": 0.0506,
+              "ministro9": 0.0583,
+              "ministro11": 0.0449,
+              "ministro10": 0.0607,
+              "ministro2": 0.0039,
+              "ministro3": 0.0067,
+              "ministro4": 0.0041,
+              "ministro5": 0.0055,
+              "ministro6": 0.0063,
+              "ministro7": 0.0074,
+              "ministro8": 0.0044
+            }
+          }
+        ]
+      },
+      {
+        "question": "Um caso envolve a privacidade de dados e a segurança nacional. Como você decide?",
+        "answers": [
+          {
+            "text": "🛡️🔒 Priorizo a segurança nacional, mesmo que isso limite a privacidade.",
+            "points": {
+              "ministro1": 0.0506,
+              "ministro9": 0.0585,
+              "ministro5": 0.0809,
+              "ministro10": 0.0513,
+              "ministro2": 0.0035,
+              "ministro3": 0.0061,
+              "ministro4": 0.0036,
+              "ministro6": 0.0057,
+              "ministro7": 0.0067,
+              "ministro8": 0.004,
+              "ministro11": 0.0028
+            }
+          },
+          {
+            "text": "🕵️‍♂️🔐 Defendo a privacidade como um direito fundamental inegociável.",
+            "points": {
+              "ministro3": 0.0595,
+              "ministro7": 0.0727,
+              "ministro6": 0.0757,
+              "ministro11": 0.0491,
+              "ministro1": 0.0044,
+              "ministro2": 0.0032,
+              "ministro4": 0.0032,
+              "ministro5": 0.0043,
+              "ministro8": 0.0034,
+              "ministro9": 0.0044,
+              "ministro10": 0.0021
+            }
+          },
+          {
+            "text": "⚖️🌐 Busco uma solução que equilibre ambos os interesses, sem extremos.",
+            "points": {
+              "ministro5": 0.0479,
+              "ministro2": 0.0436,
+              "ministro4": 0.0563,
+              "ministro8": 0.0856,
+              "ministro1": 0.0052,
+              "ministro3": 0.0062,
+              "ministro6": 0.0058,
+              "ministro7": 0.0067,
+              "ministro9": 0.005,
+              "ministro10": 0.0024,
+              "ministro11": 0.0029
+            }
+          },
+          {
+            "text": "🧠💻 Consulto especialistas em tecnologia e direito para uma decisão informada.",
+            "points": {
+              "ministro4": 0.0361,
+              "ministro10": 0.0272,
+              "ministro2": 0.0585,
+              "ministro11": 0.0672,
+              "ministro1": 0.0062,
+              "ministro3": 0.0073,
+              "ministro5": 0.0059,
+              "ministro6": 0.0067,
+              "ministro7": 0.0079,
+              "ministro8": 0.0047,
+              "ministro9": 0.0059
+            }
+          }
+        ]
+      },
+      {
+        "question": "Você precisa julgar um caso que envolve uma questão ambiental complexa. Qual é sua abordagem?",
+        "answers": [
+          {
+            "text": "🌳🛡️ Defendo a proteção do meio ambiente acima de tudo, mesmo que isso afete interesses econômicos.",
+            "points": {
+              "ministro7": 0.0636,
+              "ministro3": 0.0764,
+              "ministro6": 0.0881,
+              "ministro11": 0.051,
+              "ministro1": 0.0044,
+              "ministro2": 0.0031,
+              "ministro4": 0.0032,
+              "ministro5": 0.0043,
+              "ministro8": 0.0034,
+              "ministro9": 0.0043,
+              "ministro10": 0.0021
+            }
+          },
+          {
+            "text": "⚖️🌍 Busco um equilíbrio entre desenvolvimento econômico e preservação ambiental.",
+            "points": {
+              "ministro5": 0.0479,
+              "ministro2": 0.0389,
+              "ministro4": 0.0545,
+              "ministro8": 0.0834,
+              "ministro1": 0.0052,
+              "ministro3": 0.0061,
+              "ministro6": 0.0058,
+              "ministro7": 0.0067,
+              "ministro9": 0.0049,
+              "ministro10": 0.0024,
+              "ministro11": 0.0029
+            }
+          },
+          {
+            "text": "📊💼 Analiso o impacto econômico e social antes de tomar uma decisão.",
+            "points": {
+              "ministro4": 0.0361,
+              "ministro1": 0.0476,
+              "ministro9": 0.0544,
+              "ministro10": 0.0599,
+              "ministro2": 0.004,
+              "ministro3": 0.0068,
+              "ministro5": 0.0055,
+              "ministro6": 0.0064,
+              "ministro7": 0.0074,
+              "ministro8": 0.0044,
+              "ministro11": 0.0032
+            }
+          },
+          {
+            "text": "⚖️📜 Defendo a aplicação rigorosa da lei, independentemente das consequências.",
+            "points": {
+              "ministro1": 0.0506,
+              "ministro9": 0.0583,
+              "ministro11": 0.0449,
+              "ministro10": 0.0607,
+              "ministro2": 0.0039,
+              "ministro3": 0.0067,
+              "ministro4": 0.0041,
+              "ministro5": 0.0055,
+              "ministro6": 0.0063,
+              "ministro7": 0.0074,
+              "ministro8": 0.0044
+            }
+          }
+        ]
+      },
+      {
+        "question": "Um caso envolve a liberdade religiosa e a laicidade do Estado. Como você decide?",
+        "answers": [
+          {
+            "text": "🏛️🚫 Defendo a laicidade do Estado acima de tudo, sem concessões.",
+            "points": {
+              "ministro3": 0.0595,
+              "ministro7": 0.0799,
+              "ministro1": 0.0817,
+              "ministro11": 0.0506,
+              "ministro2": 0.0031,
+              "ministro4": 0.0033,
+              "ministro5": 0.0044,
+              "ministro6": 0.005,
+              "ministro8": 0.0035,
+              "ministro9": 0.0043,
+              "ministro10": 0.0021
+            }
+          },
+          {
+            "text": "⚖️🕊️ Busco um equilíbrio que respeite tanto a liberdade religiosa quanto a laicidade.",
+            "points": {
+              "ministro5": 0.0479,
+              "ministro2": 0.0389,
+              "ministro4": 0.0545,
+              "ministro8": 0.0834,
+              "ministro1": 0.0052,
+              "ministro3": 0.0061,
+              "ministro6": 0.0058,
+              "ministro7": 0.0067,
+              "ministro9": 0.0049,
+              "ministro10": 0.0024,
+              "ministro11": 0.0029
+            }
+          },
+          {
+            "text": "✝️🕌 Priorizo a liberdade religiosa como um direito fundamental.",
+            "points": {
+              "ministro8": 0.0379,
+              "ministro6": 0.0699,
+              "ministro2": 0.0509,
+              "ministro10": 0.0586,
+              "ministro1": 0.0053,
+              "ministro3": 0.0064,
+              "ministro4": 0.0039,
+              "ministro5": 0.0052,
+              "ministro7": 0.007,
+              "ministro9": 0.0052,
+              "ministro11": 0.003
+            }
+          },
+          {
+            "text": "📚🌍 Analiso o contexto histórico e cultural antes de tomar uma decisão.",
+            "points": {
+              "ministro4": 0.0361,
+              "ministro10": 0.0272,
+              "ministro2": 0.0585,
+              "ministro11": 0.0672,
+              "ministro1": 0.0062,
+              "ministro3": 0.0073,
+              "ministro5": 0.0059,
+              "ministro6": 0.0067,
+              "ministro7": 0.0079,
+              "ministro8": 0.0047,
+              "ministro9": 0.0059
+            }
+          }
+        ]
+      },
+      {
+        "question": "Você precisa decidir sobre um caso que envolve a liberdade de imprensa e a proteção da honra de um indivíduo. Como você age?",
+        "answers": [
+          {
+            "text": "🗞️🛡️ Defendo a liberdade de imprensa como um pilar da democracia.",
+            "points": {
+              "ministro3": 0.0595,
+              "ministro7": 0.0799,
+              "ministro1": 0.0817,
+              "ministro11": 0.0506,
+              "ministro2": 0.0031,
+              "ministro4": 0.0033,
+              "ministro5": 0.0044,
+              "ministro6": 0.005,
+              "ministro8": 0.0035,
+              "ministro9": 0.0043,
+              "ministro10": 0.0021
+            }
+          },
+          {
+            "text": "👤❤️ Priorizo a proteção da honra e da dignidade do indivíduo.",
+            "points": {
+              "ministro6": 0.0554,
+              "ministro2": 0.0404,
+              "ministro5": 0.0621,
+              "ministro9": 0.11,
+              "ministro1": 0.0045,
+              "ministro3": 0.0054,
+              "ministro4": 0.0033,
+              "ministro7": 0.0059,
+              "ministro8": 0.0036,
+              "ministro10": 0.0021,
+              "ministro11": 0.0026
+            }
+          },
+          {
+            "text": "⚖️🤝 Busco um equilíbrio entre os dois direitos, sem extremos.",
+            "points": {
+              "ministro5": 0.0479,
+              "ministro4": 0.0444,
+              "ministro2": 0.0534,
+              "ministro8": 0.0864,
+              "ministro1": 0.0053,
+              "ministro3": 0.0062,
+              "ministro6": 0.0058,
+              "ministro7": 0.0068,
+              "ministro9": 0.0049,
+              "ministro10": 0.0024,
+              "ministro11": 0.0029
+            }
+          },
+          {
+            "text": "📚⚖️ Analiso o impacto social e jurídico antes de tomar uma decisão.",
+            "points": {
+              "ministro4": 0.0361,
+              "ministro10": 0.0272,
+              "ministro2": 0.0585,
+              "ministro11": 0.0672,
+              "ministro1": 0.0062,
+              "ministro3": 0.0073,
+              "ministro5": 0.0059,
+              "ministro6": 0.0067,
+              "ministro7": 0.0079,
+              "ministro8": 0.0047,
+              "ministro9": 0.0059
+            }
+          }
+        ]
+      }
+    ],
+    "descriptions": {
+      "ministro1": {
+        "title": "Ministro Alexandre de Moraes",
+        "emoji": "⚖️🔥",
+        "subtitle": "O Defensor Intransigente da Ordem",
+        "text": "Você é Alexandre de Moraes! Conhecido por sua firmeza e rigor na aplicação da lei, você não tem medo de tomar decisões polêmicas para proteger a democracia. Sua postura é forte e decisiva, mas sempre com base no respeito às instituições."
+      },
+      "ministro2": {
+        "title": "Ministra Cármen Lúcia",
+        "emoji": "👑📜",
+        "subtitle": "A Guardiã da Tradição e da Justiça",
+        "text": "Você é Cármen Lúcia! Com um estilo equilibrado e uma profunda conexão com os valores constitucionais, você busca sempre o diálogo e a harmonia. Sua sabedoria e experiência são suas maiores armas."
+      },
+      "ministro3": {
+        "title": "Ministro Luís Roberto Barroso",
+        "emoji": "🎓✨",
+        "subtitle": "O Visionário Progressista",
+        "text": "Você é Luís Roberto Barroso! Conhecido por suas ideias inovadoras e defesa de causas progressistas, você é um pensador à frente do seu tempo. Sua capacidade de conciliar teoria e prática é admirável."
+      },
+      "ministro4": {
+        "title": "Ministro Gilmar Mendes",
+        "emoji": "🧠💼",
+        "subtitle": "O Estrategista Jurídico",
+        "text": "Você é Gilmar Mendes! Com um olhar aguçado para detalhes e uma mente estratégica, você é mestre em encontrar soluções criativas para problemas complexos. Sua experiência é vasta e respeitada."
+      },
+      "ministro5": {
+        "title": "Ministro Dias Toffoli",
+        "emoji": "🕰️⚔️",
+        "subtitle": "O Conciliador Pragmático",
+        "text": "Você é Dias Toffoli! Conhecido por sua habilidade em mediar conflitos e encontrar soluções práticas, você valoriza o equilíbrio e a estabilidade. Sua postura é sempre ponderada e justa."
+      },
+      "ministro6": {
+        "title": "Ministro Flávio Dino",
+        "emoji": "🌄⚖️",
+        "subtitle": "O Defensor da Justiça Social",
+        "text": "Você é Flávio Dino! Com um forte compromisso com a justiça social e a defesa dos direitos dos cidadãos, você é uma voz ativa na busca por igualdade e inclusão. Sua sensibilidade e empatia são marcantes."
+      },
+      "ministro7": {
+        "title": "Ministro Edson Fachin",
+        "emoji": "🌱⚖️",
+        "subtitle": "O Reformista Idealista",
+        "text": "Você é Edson Fachin! Conhecido por suas posições firmes em defesa da democracia e da reforma do sistema político, você é um idealista que busca transformar a sociedade para melhor."
+      },
+      "ministro8": {
+        "title": "Ministro André Mendonça",
+        "emoji": "📖✝️",
+        "subtitle": "O Conservador Prudente",
+        "text": "Você é André Mendonça! Com uma postura conservadora e um profundo respeito pelas tradições, você busca equilibrar a fé e a razão em suas decisões. Sua prudência é uma de suas maiores virtudes."
+      },
+      "ministro9": {
+        "title": "Ministro Nunes Marques",
+        "emoji": "🛡️📜",
+        "subtitle": "O Defensor das Instituições",
+        "text": "Você é Nunes Marques! Conhecido por sua defesa intransigente das instituições e da legalidade, você valoriza a estabilidade e a ordem acima de tudo. Sua postura é firme e respeitosa."
+      },
+      "ministro10": {
+        "title": "Ministro Luiz Fux",
+        "emoji": "⚖️📚",
+        "subtitle": "O Erudito da Justiça",
+        "text": "Você é Luiz Fux! Com um vasto conhecimento jurídico e uma postura acadêmica, você é um defensor da aplicação rigorosa da lei. Sua erudição e dedicação ao estudo são admiráveis."
+      },
+      "ministro11": {
+        "title": "Ministro Cristiano Zanin",
+        "emoji": "⚖️🛡️",
+        "subtitle": "O Defensor da Legalidade",
+        "text": "Você é Cristiano Zanin! Conhecido por sua defesa incansável da legalidade e dos princípios constitucionais, você é um jurista meticuloso e dedicado. Sua integridade é inquestionável."
+      }
+    }
+  }

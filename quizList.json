@@ -269,6 +269,11 @@
             "name": "Qual figura de linguagem você é?",
             "file": "quizzes/quizFiguraLinguagem.json",
             "description": "Veja qual figura de linguagem mais combina com a sua personalidade!"
+        },
+        {
+            "name": "Qual Ministro do STF Você Seria?",
+            "file": "quizzes/quizSTF.json",
+            "description": "Descubra qual ministro do Supremo Tribunal Federal mais combina com sua personalidade e estilo de decisão!"
         }
     ]
 }
