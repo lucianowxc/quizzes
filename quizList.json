@@ -274,6 +274,11 @@
             "name": "Qual Ministro do STF Você Seria?",
             "file": "quizzes/quizSTF.json",
             "description": "Descubra qual ministro do Supremo Tribunal Federal mais combina com sua personalidade e estilo de decisão!"
+        },
+        {
+            "name": "Qual tipo de deck você deve escolher no Magic: The Gathering?",
+            "file": "quizzes/quizDeckMTG.json",
+            "description": "Descubra seu estilo de jogo no Magic: The Gathering e veja qual tipo de deck mais combina com você!"
         }
     ]
 }

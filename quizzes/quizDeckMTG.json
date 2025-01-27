@@ -1,0 +1,113 @@
+{
+    "title": "Qual tipo de deck você deve escolher no Magic: The Gathering?",
+    "subtitle": "Descubra seu estilo de jogo!",
+    "questions": [
+      {
+        "question": "Se você fosse um chef, qual seria seu prato especial?",
+        "answers": [
+          { "text": "🍳 Um prato rápido e prático, como um sanduíche gourmet.", "points": { "aggro": 1, "midrange": 0.5 } },
+          { "text": "🍲 Uma sopa complexa, com muitos ingredientes e sabores.", "points": { "control": 1, "combo": 0.5 } },
+          { "text": "🎂 Um bolo surpresa, com camadas e recheios inesperados.", "points": { "combo": 1, "tribal": 0.5 } },
+          { "text": "🍕 Uma pizza versátil, que agrada a todos os gostos.", "points": { "midrange": 1, "aggro": 0.5 } }
+        ]
+      },
+      {
+        "question": "Qual seria seu superpoder em um mundo de super-heróis?",
+        "answers": [
+          { "text": "⚡ Supervelocidade! Gosto de resolver tudo rapidamente.", "points": { "aggro": 1, "ramp": 0.5 } },
+          { "text": "🧠 Telecinese! Controlar as coisas com a mente é o meu estilo.", "points": { "control": 1, "mill": 0.5 } },
+          { "text": "🎭 Ilusão! Adoro confundir e surpreender meus inimigos.", "points": { "combo": 1, "tribal": 0.5 } },
+          { "text": "🌍 Adaptação! Posso me ajustar a qualquer situação.", "points": { "midrange": 1, "control": 0.5 } }
+        ]
+      },
+      {
+        "question": "Qual dessas paisagens você mais gostaria de visitar?",
+        "answers": [
+          { "text": "🏔️ Montanhas altas e imponentes, cheias de mistério.", "points": { "control": 1, "ramp": 0.5 } },
+          { "text": "🌋 Um vulcão ativo, cheio de energia e poder.", "points": { "aggro": 1, "ramp": 0.5 } },
+          { "text": "🎪 Um festival colorido, cheio de vida e diversidade.", "points": { "tribal": 1, "midrange": 0.5 } },
+          { "text": "🕳️ Um labirinto subterrâneo, cheio de segredos e desafios.", "points": { "mill": 1, "combo": 0.5 } }
+        ]
+      },
+      {
+        "question": "Qual é o seu estilo de dança preferido?",
+        "answers": [
+          { "text": "💃 Dança rápida e cheia de energia, como um sapateado.", "points": { "aggro": 1, "tribal": 0.5 } },
+          { "text": "🕺 Dança lenta e controlada, como um tango.", "points": { "control": 1, "mill": 0.5 } },
+          { "text": "🎭 Dança teatral, cheia de movimentos inesperados.", "points": { "combo": 1, "tribal": 0.5 } },
+          { "text": "🌍 Dança livre, que se adapta a qualquer ritmo.", "points": { "midrange": 1, "aggro": 0.5 } }
+        ]
+      },
+      {
+        "question": "Se você fosse um animal mítico, qual seria?",
+        "answers": [
+          { "text": "🐉 Um dragão, claro! Poderoso e majestoso.", "points": { "ramp": 1, "aggro": 0.5 } },
+          { "text": "🦄 Um unicórnio, mágico e cheio de mistério.", "points": { "control": 1, "combo": 0.5 } },
+          { "text": "🦅 Uma fênix, que renasce das cinzas.", "points": { "midrange": 1, "tribal": 0.5 } },
+          { "text": "🐙 Um kraken, que domina os mares com sua força.", "points": { "mill": 1, "ramp": 0.5 } }
+        ]
+      },
+      {
+        "question": "Qual dessas invenções você gostaria de ter criado?",
+        "answers": [
+          { "text": "🚀 Foguete espacial, para explorar o desconhecido.", "points": { "ramp": 1, "aggro": 0.5 } },
+          { "text": "🧩 Quebra-cabeça, que desafia a mente e a paciência.", "points": { "control": 1, "mill": 0.5 } },
+          { "text": "🎪 Circo, que traz alegria e diversão para todos.", "points": { "tribal": 1, "midrange": 0.5 } },
+          { "text": "🕳️ Labirinto, que confunde e desafia quem entra.", "points": { "mill": 1, "combo": 0.5 } }
+        ]
+      },
+      {
+        "question": "Qual dessas músicas você mais gostaria de ouvir em uma batalha?",
+        "answers": [
+          { "text": "🎸 Rock pesado, para energizar e atacar rápido!", "points": { "aggro": 1, "ramp": 0.5 } },
+          { "text": "🎻 Música clássica, para planejar cada movimento com calma.", "points": { "control": 1, "mill": 0.5 } },
+          { "text": "🎶 Jazz, cheio de improvisação e surpresas.", "points": { "combo": 1, "tribal": 0.5 } },
+          { "text": "🥁 Batidas tribais, que unem todos em uma só força.", "points": { "tribal": 1, "midrange": 0.5 } }
+        ]
+      }
+    ],
+    "descriptions": {
+      "aggro": {
+        "title": "Aggro",
+        "emoji": "⚡",
+        "subtitle": "Velocidade é a sua arma!",
+        "text": "Você é do tipo que gosta de resolver as coisas rapidamente! Seu estilo é Aggro: decks focados em causar dano rápido e vencer antes que o oponente consiga se estabilizar. Seja com criaturas velozes ou feitiços diretos, você não dá chance para o inimigo respirar. Cores: Vermelho 🟥, Verde 🟩, Branco ⬜. Cartas: Monastério Swiftspear, Goblin Guide, Tarmogoyf."
+      },
+      "control": {
+        "title": "Control",
+        "emoji": "🧠",
+        "subtitle": "A mente é o seu campo de batalha!",
+        "text": "Você é o mestre do controle! Seu estilo é Control: decks que focam em neutralizar as ameaças do oponente e dominar o jogo no longo prazo. Você gosta de ter todas as respostas na manga e vencer com uma jogada arrasadora no final. Cores: Azul 🟦, Preto ⬛, Branco ⬜. Cartas: Teferi, Herói do Dominária, Fatal Push, Supreme Verdict."
+      },
+      "combo": {
+        "title": "Combo",
+        "emoji": "🎭",
+        "subtitle": "Genialidade e sincronia!",
+        "text": "Você é um estrategista nato! Seu estilo é Combo: decks que dependem de combinações específicas de cartas para vencer de forma espetacular. Você adora montar quebra-cabeças e surpreender seus oponentes com jogadas únicas. Cores: Azul 🟦, Verde 🟩, Preto ⬛. Cartas: Thassa's Oracle, Demonic Tutor, Splinter Twin."
+      },
+      "midrange": {
+        "title": "Midrange",
+        "emoji": "🌍",
+        "subtitle": "Versatilidade é o seu lema!",
+        "text": "Você é o equilíbrio em pessoa! Seu estilo é Midrange: decks que se adaptam a qualquer situação, com criaturas poderosas e respostas para ameaças. Você gosta de ter opções e dominar o jogo no meio do caminho. Cores: Verde 🟩, Preto ⬛, Vermelho 🟥. Cartas: Tarmogoyf, Thoughtseize, Bloodbraid Elf."
+      },
+      "ramp": {
+        "title": "Ramp",
+        "emoji": "🚀",
+        "subtitle": "Poder além da imaginação!",
+        "text": "Você é o mestre do mana! Seu estilo é Ramp: decks que focam em acelerar a produção de mana para lançar criaturas e feitiços poderosos antes do esperado. Você gosta de ver o medo nos olhos do oponente quando suas ameaças gigantescas entram em campo. Cores: Verde 🟩, Azul 🟦, Incolor ⬜. Cartas: Uro, Titã da Natureza, Cultivate, Primeval Titan."
+      },
+      "tribal": {
+        "title": "Tribal",
+        "emoji": "🎪",
+        "subtitle": "Unidos somos mais fortes!",
+        "text": "Você é um líder nato! Seu estilo é Tribal: decks que focam em criaturas de um mesmo tipo, trabalhando em sinergia para dominar o jogo. Seja com elfos, dragões ou zumbis, você gosta de ver sua tribo brilhar. Cores: Branco ⬜, Preto ⬛, Vermelho 🟥. Cartas: Lorde dos Desvios, Dragão de Kolaghan, Cavaleiro da Rosa Eterna."
+      },
+      "mill": {
+        "title": "Mill",
+        "emoji": "🕳️",
+        "subtitle": "Desgaste mental é a sua especialidade!",
+        "text": "Você é o mestre da mente! Seu estilo é Mill: decks que focam em esgotar o deck do oponente, fazendo com que ele perca por não ter mais cartas para comprar. Você adora ver a frustração do inimigo enquanto seu plano sinistro se desenrola. Cores: Azul 🟦, Preto ⬛, Incolor ⬜. Cartas: Ruin Crab, Glimpse the Unthinkable, Hedron Crab."
+      }
+    }
+  }
