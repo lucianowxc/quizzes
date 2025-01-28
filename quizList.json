@@ -284,6 +284,11 @@
             "name": "Qual salgadinho da Elma Chips você seria?",
             "file": "quizzes/quizElmaChips.json",
             "description": "Descubra qual salgadinho combina com sua personalidade!"
+        },
+        {
+            "name": "Qual Carro da Corrida Maluca Você Seria?",
+            "file": "quizzes/quizCorridaMaluca.json",
+            "description": "Descubra qual carro mais combina com sua personalidade (ou falta dela)! Prepare-se para piadas, trapaças e muita confusão no estilo Corrida Maluca!"
         }
     ]
 }
