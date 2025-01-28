@@ -1,0 +1,324 @@
+{
+  "title": "Quem é você na Corrida Maluca?",
+  "subtitle": "Descubra qual piloto maluco da turma mais combina com você!",
+  "questions": [
+    {
+      "question": "Qual desses objetos você levaria para uma ilha deserta?",
+      "answers": [
+        { 
+          "text": "📜 Um manual de trapaças (capítulo: como falhar com estilo)", 
+          "points": { "carro00": 1, "carro7": 0.7, "carro9": 0.3 } 
+        },
+        { 
+          "text": "🪨 Um tacape de pedra (pré-histórico, mas eficaz)", 
+          "points": { "carro1": 1, "carro10": 0.8 } 
+        },
+        { 
+          "text": "💄 Um espelho compacto (para retoques de emergência)", 
+          "points": { "carro5": 1, "carro4": 0.5 } 
+        },
+        { 
+          "text": "🧯 Um extintor de incêndio (prevenção é tudo)", 
+          "points": { "carro3": 1, "carro00": 0.6 } 
+        },
+        { 
+          "text": "🏳️ Uma bandeira branca (só por precaução)", 
+          "points": { "carro8": 1, "carro6": 0.4 } 
+        }
+      ]
+    },
+    {
+      "question": "Como você reage ao ver um problema gigante no caminho?",
+      "answers": [
+        { 
+          "text": "🧪 Crio uma invenção maluca para contorná-lo... e torço para não explodir", 
+          "points": { "carro3": 1, "carro00": 0.5 } 
+        },
+        { 
+          "text": "🚜 Atropelo. Simples, direto, eficaz (ou não)", 
+          "points": { "carro6": 1, "carro1": 0.7 } 
+        },
+        { 
+          "text": "🏃♂️ Dou meia-volta e finjo que não era meu destino", 
+          "points": { "carro8": 1, "carro5": 0.6 } 
+        },
+        { 
+          "text": "👥 Chamo meus comparsas para uma 'solução criativa'", 
+          "points": { "carro7": 1, "carro2": 0.8 } 
+        },
+        { 
+          "text": "🤳 Tiro uma selfie. Depois a gente pensa", 
+          "points": { "carro5": 1, "carro9": 0.9 } 
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu superpoder ideal?",
+      "answers": [
+        { 
+          "text": "⏱️ Fazer o tempo parar... só para colocar mais armadilhas", 
+          "points": { "carro00": 1, "carro2": 0.7 } 
+        },
+        { 
+          "text": "🦫 Conversar com animais (especialmente castores)", 
+          "points": { "carro10": 1, "carro8": 0.6 } 
+        },
+        { 
+          "text": "💇♀️ Ter um cabelo impecável em qualquer situação", 
+          "points": { "carro5": 1, "carro9": 0.8 } 
+        },
+        { 
+          "text": "💨 Transformar tudo em vapor (inclusive meus problemas)", 
+          "points": { "carro8": 1, "carro4": 0.7 } 
+        },
+        { 
+          "text": "🕶️ Ser invisível... mas só quando estou errado", 
+          "points": { "carro7": 1, "carro6": 0.5 } 
+        }
+      ]
+    },
+    {
+      "question": "Qual é seu jeito preferido de comemorar uma vitória?",
+      "answers": [
+        { 
+          "text": "🎉 Uma festa com fogos... que provavelmente vão dar errado", 
+          "points": { "carro00": 1, "carro3": 0.6 } 
+        },
+        { 
+          "text": "🪓 Um churrasco com lenha que eu mesmo cortei", 
+          "points": { "carro10": 1, "carro1": 0.7 } 
+        },
+        { 
+          "text": "💃 Um desfile de moda com meu carro como passarela", 
+          "points": { "carro5": 1, "carro9": 0.8 } 
+        },
+        { 
+          "text": "🛠️ Uma oficina para 'melhorar' meu carro (de novo)", 
+          "points": { "carro3": 1, "carro4": 0.5 } 
+        },
+        { 
+          "text": "💤 Uma soneca. Correr cansa!", 
+          "points": { "carro8": 1, "carro6": 0.4 } 
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas frases você mais diria no trânsito?",
+      "answers": [
+        { 
+          "text": "🚦 'Isso não está no código de trânsito!'", 
+          "points": { "carro6": 1, "carro9": 0.7 } 
+        },
+        { 
+          "text": "🦜 'Muttley, faça alguma coisa!'", 
+          "points": { "carro00": 1, "carro2": 0.6 } 
+        },
+        { 
+          "text": "🌸 'Oh, céus! Minha pintura riscou!'", 
+          "points": { "carro5": 1, "carro4": 0.5 } 
+        },
+        { 
+          "text": "🌪️ 'Acelera, Chorão! Tá virando sopa!'", 
+          "points": { "carro8": 1, "carro7": 0.8 } 
+        },
+        { 
+          "text": "🔧 'Isso é só um arranhão... ou não'", 
+          "points": { "carro3": 1, "carro10": 0.9 } 
+        }
+      ]
+    },
+    {
+      "question": "Qual seria sua armadilha perfeita?",
+      "answers": [
+        { 
+          "text": "🕳️ Um buraco disfarçado com folhas (clássico, mas eficiente)", 
+          "points": { "carro00": 1, "carro7": 0.7 } 
+        },
+        { 
+          "text": "🧨 Um explosivo em forma de buquê de flores", 
+          "points": { "carro2": 1, "carro5": 0.6 } 
+        },
+        { 
+          "text": "🌲 Uma árvore caída... que eu mesmo serrei", 
+          "points": { "carro10": 1, "carro1": 0.8 } 
+        },
+        { 
+          "text": "🤖 Um robô que distribui multas de trânsito", 
+          "points": { "carro3": 1, "carro6": 0.5 } 
+        },
+        { 
+          "text": "🍞 Uma torradeira que lança pães quentes (pra distrair)", 
+          "points": { "carro8": 1, "carro4": 0.4 } 
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com o caos no trabalho/estudo?",
+      "answers": [
+        { 
+          "text": "🎭 Ignoro e finjo que é parte do meu plano genial", 
+          "points": { "carro00": 1, "carro9": 0.7 } 
+        },
+        { 
+          "text": "🪓 Corto tudo no grito (e no tacape)", 
+          "points": { "carro1": 1, "carro10": 0.8 } 
+        },
+        { 
+          "text": "💅 Retoco o batom e espero passar", 
+          "points": { "carro5": 1, "carro8": 0.5 } 
+        },
+        { 
+          "text": "🛠️ Construo uma máquina para resolver... e pioro tudo", 
+          "points": { "carro3": 1, "carro4": 0.6 } 
+        },
+        { 
+          "text": "💣 Jogo uma bomba de fumaça e fujo", 
+          "points": { "carro7": 1, "carro2": 0.9 } 
+        }
+      ]
+    },
+    {
+      "question": "Qual acessório combina com você?",
+      "answers": [
+        { 
+          "text": "🎩 Uma gravata-borboleta (elegância acima de tudo)", 
+          "points": { "carro4": 1, "carro9": 0.8 } 
+        },
+        { 
+          "text": "🔧 Um cinto de ferramentas (prático e *estiloso*)", 
+          "points": { "carro3": 1, "carro10": 0.7 } 
+        },
+        { 
+          "text": "💎 Um colar de diamantes (fake, mas brilhante)", 
+          "points": { "carro5": 1, "carro00": 0.6 } 
+        },
+        { 
+          "text": "🦴 Um osso de dinossauro (pra nostalgia)", 
+          "points": { "carro1": 1, "carro6": 0.5 } 
+        },
+        { 
+          "text": "🌾 Um chapéu de palha (conforto em primeiro lugar)", 
+          "points": { "carro8": 1, "carro7": 0.4 } 
+        }
+      ]
+    },
+    {
+      "question": "O que você faz quando algo dá MUITO errado?",
+      "answers": [
+        { 
+          "text": "🤷 Culpo o Muttley (ele merece)", 
+          "points": { "carro00": 1, "carro2": 0.7 } 
+        },
+        { 
+          "text": "🪓 Transformo o problema em lenha", 
+          "points": { "carro10": 1, "carro1": 0.8 } 
+        },
+        { 
+          "text": "🚀 Acelero e finjo que foi de propósito", 
+          "points": { "carro4": 1, "carro9": 0.6 } 
+        },
+        { 
+          "text": "🍵 Faço um chá e espero a poeira baixar", 
+          "points": { "carro8": 1, "carro6": 0.5 } 
+        },
+        { 
+          "text": "💃 Danço como se nada tivesse acontecido", 
+          "points": { "carro5": 1, "carro7": 0.9 } 
+        }
+      ]
+    },
+    {
+      "question": "Qual frase te define numa corrida?",
+      "answers": [
+        { 
+          "text": "🏎️ 'Velocidade é minha segunda religião!'", 
+          "points": { "carro9": 1, "carro4": 0.7 } 
+        },
+        { 
+          "text": "🪓 'Sou mais eficaz que um machado afiado!'", 
+          "points": { "carro10": 1, "carro1": 0.8 } 
+        },
+        { 
+          "text": "🎩 'Elegante na vitória, charmoso na derrota'", 
+          "points": { "carro4": 1, "carro5": 0.6 } 
+        },
+        { 
+          "text": "🔧 'Se não quebrou, não precisa consertar... ainda'", 
+          "points": { "carro3": 1, "carro00": 0.5 } 
+        },
+        { 
+          "text": "🌾 'Devagar e sempre... ou só devagar'", 
+          "points": { "carro8": 1, "carro6": 0.4 } 
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "carro00": {
+      "title": "Dick Vigarista e Muttley",
+      "emoji": "🕶️🐶",
+      "subtitle": "O Mestre das Trapaças (que nunca dá certo)",
+      "text": "Você é o Dick Vigarista! Adora um plano infalível... que sempre falha. Mas pelo menos tem o Muttley rindo (ou rosando) ao seu lado. Seu lema: 'Dessa vez vai funcionar!'. Spoiler: Nunca funciona."
+    },
+    "carro1": {
+      "title": "Irmãos Rocha",
+      "emoji": "🪨🔥",
+      "subtitle": "O Clássico que Nunca Sai de Moda",
+      "text": "Você é um Irmão Rocha! Simples, prático e feito de pedra. Não precisa de tecnologia quando se tem um bom tacape. Cuidado com os dinossauros no caminho!"
+    },
+    "carro2": {
+      "title": "Dupla Sinistra",
+      "emoji": "👻🔮",
+      "subtitle": "Assustador... Mas Só no Visual",
+      "text": "Você é Medonho ou Medinho! Seu carro tem dragões, bruxas e um ar de terror... que só assusta o mecânico. Pelo menos o estilo está *impecável*."
+    },
+    "carro3": {
+      "title": "Professor Aéreo",
+      "emoji": "🧪🚀",
+      "subtitle": "O Gênio (Quase) Incompreendido",
+      "text": "Você é o Professor Aéreo! Enquanto os outros trapaceiam, você inventa. Suas criações são tão malucas quanto seu penteado. Tome cuidado com o botão de autodestruição!"
+    },
+    "carro4": {
+      "title": "Barão Vermelho",
+      "emoji": "✈️🎩",
+      "subtitle": "O Cavalheiro dos Céus (e do Asfalto)",
+      "text": "Você é o Barão Vermelho! Elegante, veloz e... um pouco desastrado. Seu carro-avião é lindo, mas talvez precise de um manual de instruções."
+    },
+    "carro5": {
+      "title": "Penélope Charmosa",
+      "emoji": "💅🌸",
+      "subtitle": "A Rainha do Estilo",
+      "text": "Você é Penélope Charmosa! Enquanto os outros correm, você retoca o batom. Seu carro rosa tem mais gadgets que uma loja de cosméticos. *Oh, céus!*"
+    },
+    "carro6": {
+      "title": "Carro Tanque",
+      "emoji": "🎖️💣",
+      "subtitle": "Poderoso, Porém... Lento",
+      "text": "Você é o Sargento Bombarda! Seu tanque é forte, barulhento e perfeito para atropelar... flores. Mas e a agilidade? Ah, isso é detalhe."
+    },
+    "carro7": {
+      "title": "Chucabom",
+      "emoji": "💼🔫",
+      "subtitle": "O Gangster do Asfalto",
+      "text": "Você é da Quadrilha de Morte! Seus truques são tirados direto de um filme de máfia... dos anos 20. Cuidado com o pão de forma explosivo no porta-luvas!"
+    },
+    "carro8": {
+      "title": "Carroça a Vapor",
+      "emoji": "🚜🌾",
+      "subtitle": "A Velocidade da... Calmaria",
+      "text": "Você é Tio Tomás! Enquanto todos correm, você aprecia a paisagem. Sua carroça é lenta, mas o café quente está sempre pronto. *Chorão, traz o biscoito!*"
+    },
+    "carro9": {
+      "title": "Peter Perfeito",
+      "emoji": "💎🔥",
+      "subtitle": "O Dono da Razão (e do Motor Fundido)",
+      "text": "Você é Peter Perfeito! Seu carro é lindo, potente e... quebrou de novo. Pelo menos você fica bem na foto!"
+    },
+    "carro10": {
+      "title": "Carro-Tronco",
+      "emoji": "🪵🦫",
+      "subtitle": "O Lenhador Ecológico",
+      "text": "Você é Rufus Lenhador! Seu carro é feito de madeira, suas rodas são serras, e seu melhor amigo é um castor. Sustentabilidade nível Flintstones!"
+    }
+  }
+}
