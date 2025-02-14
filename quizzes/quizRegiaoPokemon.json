@@ -1,0 +1,427 @@
+{
+    "title": "Qual região Pokemon é a sua cara?",
+    "questions": [
+        {
+            "question": "Qual é o seu propósito na vida?",
+            "answers": [
+                {
+                    "text": "Derrotar a Liga Pokémon e provar que sou o melhor 🏆",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "galar": 0.7
+                    }
+                },
+                {
+                    "text": "Explorar o desconhecido e descobrir novos Pokémon 🌌",
+                    "points": {
+                        "hisui": 1,
+                        "sinnoh": 0.8,
+                        "paldea": 0.7
+                    }
+                },
+                {
+                    "text": "Viver em harmonia com a natureza e os Pokémon 🌳",
+                    "points": {
+                        "johto": 1,
+                        "alola": 0.8,
+                        "hoenn": 0.7
+                    }
+                },
+                {
+                    "text": "Provar que a ciência pode explicar tudo, até os Unown 🔬",
+                    "points": {
+                        "sinnoh": 1,
+                        "unova": 0.8,
+                        "kalos": 0.7
+                    }
+                },
+                {
+                    "text": "Comer, dormir, repetir... igual um Snorlax 🛌",
+                    "points": {
+                        "kanto": 0.5,
+                        "galar": 0.5,
+                        "paldea": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual dessas situações te descreve melhor?",
+            "answers": [
+                {
+                    "text": "Ficar preso em uma caverna porque não trouxe Flash ⚡",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "hoenn": 0.7
+                    }
+                },
+                {
+                    "text": "Perder horas tentando pegar um Feebas 🐟",
+                    "points": {
+                        "hoenn": 1,
+                        "sinnoh": 0.8,
+                        "paldea": 0.7
+                    }
+                },
+                {
+                    "text": "Ser perseguido por um Shiny Gyarados raivoso 🌊",
+                    "points": {
+                        "johto": 1,
+                        "hisui": 0.8,
+                        "galar": 0.7
+                    }
+                },
+                {
+                    "text": "Tentar entender o enredo de Pokémon Black & White 🤔",
+                    "points": {
+                        "unova": 1,
+                        "kalos": 0.8,
+                        "paldea": 0.7
+                    }
+                },
+                {
+                    "text": "Ficar rico vendendo Slowpoke tails no mercado negro 💰",
+                    "points": {
+                        "johto": 0.5,
+                        "galar": 0.5,
+                        "paldea": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual desses NPCs você seria?",
+            "answers": [
+                {
+                    "text": "O garoto que fica andando em círculos na grama alta 🔄",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "hoenn": 0.7
+                    }
+                },
+                {
+                    "text": "A moça que te dá uma Master Ball de graça 🎾",
+                    "points": {
+                        "sinnoh": 1,
+                        "unova": 0.8,
+                        "kalos": 0.7
+                    }
+                },
+                {
+                    "text": "O cientista que criou Mewtwo e se arrependeu 🧪",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "hisui": 0.7
+                    }
+                },
+                {
+                    "text": "O líder de ginásio que só fala sobre pedras 🪨",
+                    "points": {
+                        "hoenn": 1,
+                        "sinnoh": 0.8,
+                        "paldea": 0.7
+                    }
+                },
+                {
+                    "text": "O NPC que te bloqueia até você entregar um item aleatório 🚧",
+                    "points": {
+                        "kanto": 0.5,
+                        "johto": 0.5,
+                        "galar": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual desses dilemas filosóficos te define?",
+            "answers": [
+                {
+                    "text": "Se um Magikarp usa Splash, ele realmente fez algo? 🐟",
+                    "points": {
+                        "johto": 1,
+                        "hoenn": 0.8,
+                        "hisui": 0.7
+                    }
+                },
+                {
+                    "text": "Por que o Officer Jenny não prende a Equipe Rocket? 👮‍♀️",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "unova": 0.7
+                    }
+                },
+                {
+                    "text": "Se um Pokémon shiny aparece e ninguém vê, ele existe? ✨",
+                    "points": {
+                        "sinnoh": 1,
+                        "kalos": 0.8,
+                        "paldea": 0.7
+                    }
+                },
+                {
+                    "text": "Por que o Professor Carvalho nunca sai do laboratório? 🧑‍🔬",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "hoenn": 0.7
+                    }
+                },
+                {
+                    "text": "Se Missingno. existe, o que mais a Pokédex esconde? 🐛",
+                    "points": {
+                        "kanto": 0.5,
+                        "johto": 0.5,
+                        "galar": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual dessas situações te faria desistir da jornada Pokémon?",
+            "answers": [
+                {
+                    "text": "Perder para um Rattata com Focus Sash 🐀",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "galar": 0.7
+                    }
+                },
+                {
+                    "text": "Descobrir que o seu rival escolheu o starter com vantagem sobre o seu 🔥",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "hoenn": 0.7
+                    }
+                },
+                {
+                    "text": "Ser bloqueado por um NPC que quer ver seu Oddish 🌱",
+                    "points": {
+                        "hoenn": 1,
+                        "sinnoh": 0.8,
+                        "paldea": 0.7
+                    }
+                },
+                {
+                    "text": "Perder 99 Ultra Balls tentando pegar um Legendary 🎾",
+                    "points": {
+                        "sinnoh": 1,
+                        "unova": 0.8,
+                        "kalos": 0.7
+                    }
+                },
+                {
+                    "text": "Descobrir que o seu Pikachu não quer evoluir para Raichu 🐭",
+                    "points": {
+                        "kanto": 0.5,
+                        "johto": 0.5,
+                        "alola": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual dessas frases você mais diria?",
+            "answers": [
+                {
+                    "text": "“Eu uso repelentes, mas só quando estou com pressa!” 🏃‍♂️",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "hoenn": 0.7
+                    }
+                },
+                {
+                    "text": "“Amo Pokémon de fogo, mas odeio derrotar grama!” 🔥",
+                    "points": {
+                        "hoenn": 1,
+                        "sinnoh": 0.8,
+                        "galar": 0.7
+                    }
+                },
+                {
+                    "text": "“Por que ninguém fala sobre o trauma do Red no Monte Prata?” 🏔️",
+                    "points": {
+                        "johto": 1,
+                        "kanto": 0.8,
+                        "hisui": 0.7
+                    }
+                },
+                {
+                    "text": "“Se eu tivesse um dólar para cada Geodude que encontrei...” 💰",
+                    "points": {
+                        "sinnoh": 1,
+                        "kanto": 0.8,
+                        "hoenn": 0.7
+                    }
+                },
+                {
+                    "text": "“Eu só quero um Miltank que não use Rollout!” 🐄",
+                    "points": {
+                        "johto": 0.5,
+                        "hoenn": 0.5,
+                        "galar": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual dessas habilidades você gostaria de ter na vida real?",
+            "answers": [
+                {
+                    "text": "Usar Fly para evitar trânsito 🛫",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "hoenn": 0.7
+                    }
+                },
+                {
+                    "text": "Ter Intimidate para afastar pessoas chatas 🦁",
+                    "points": {
+                        "unova": 1,
+                        "kalos": 0.8,
+                        "galar": 0.7
+                    }
+                },
+                {
+                    "text": "Usar Teleport para fugir de reuniões chatas 🌀",
+                    "points": {
+                        "sinnoh": 1,
+                        "alola": 0.8,
+                        "paldea": 0.7
+                    }
+                },
+                {
+                    "text": "Ter Pickup para encontrar dinheiro perdido 💸",
+                    "points": {
+                        "johto": 1,
+                        "hoenn": 0.8,
+                        "hisui": 0.7
+                    }
+                },
+                {
+                    "text": "Usar Rest para dormir em qualquer lugar 🛌",
+                    "points": {
+                        "kanto": 0.5,
+                        "johto": 0.5,
+                        "galar": 0.5
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Qual desses eventos Pokémon te deixaria mais emocionado?",
+            "answers": [
+                {
+                    "text": "Encontrar um shiny aleatório na grama alta ✨",
+                    "points": {
+                        "johto": 1,
+                        "hoenn": 0.8,
+                        "hisui": 0.7
+                    }
+                },
+                {
+                    "text": "Ver o seu starter evoluir pela primeira vez 🌟",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "hoenn": 0.7
+                    }
+                },
+                {
+                    "text": "Derrotar um líder de ginásio com um Pokémon nível 5 🏅",
+                    "points": {
+                        "sinnoh": 1,
+                        "unova": 0.8,
+                        "galar": 0.7
+                    }
+                },
+                {
+                    "text": "Descobrir um easter egg secreto no jogo 🥚",
+                    "points": {
+                        "kanto": 1,
+                        "johto": 0.8,
+                        "paldea": 0.7
+                    }
+                },
+                {
+                    "text": "Ver o Missingno. destruir sua save file 💀",
+                    "points": {
+                        "kanto": 0.5,
+                        "johto": 0.5,
+                        "galar": 0.5
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "kanto": {
+            "title": "Kanto",
+            "emoji": "🔴",
+            "subtitle": "Clássico e Nostálgico",
+            "text": "Você pertence a Kanto, onde tudo começou! Você valoriza tradição, gosta de desafios diretos (como derrotar a Liga Pokémon) e tem um coração que bate mais forte ao ouvir a trilha sonora de 8-bits. Cuidado com a Equipe Rocket na esquina!"
+        },
+        "johto": {
+            "title": "Johto",
+            "emoji": "🌳",
+            "subtitle": "Equilíbrio entre Natureza e História",
+            "text": "Johto é seu lar! Você ama mistérios ancestrais (tipo as Torres Gêmeas), adora Pokémon que evoluem com amizade e curte uma xícara de chá no Celebi Café. Só não se perca no Bosque de Ilex!"
+        },
+        "hoenn": {
+            "title": "Hoenn",
+            "emoji": "🌊",
+            "subtitle": "Aventura em Alto-Mar",
+            "text": "Você foi destinado a Hoenn! Entre vulcões fumegantes, mergulhos em cavernas subaquáticas e a eterna briga entre Terra e Mar, você está pronto para surfar nas ondas com seu Mega Blaziken. #MeteoroDeSootopolis"
+        },
+        "sinnoh": {
+            "title": "Sinnoh",
+            "emoji": "⛰️",
+            "subtitle": "Filósofo das Montanhas",
+            "text": "Sinnoh é seu refúgio! Você adora debates sobre tempo, espaço e mitologia, escala o Monte Coronet por diversão e acha que Giratina só precisa de um abraço. Atenção: lake guardians podem stalkear você."
+        },
+        "unova": {
+            "title": "Unova",
+            "emoji": "🌆",
+            "subtitle": "Urbanista Idealista",
+            "text": "Unova combina com você! Entre arranha-céus, musicais de Pokémon e debates sobre ‘Verdade vs. Ideal’, você está sempre pronto para um hambúrguer no Casteliacone ou uma revolução (pacífica, claro)."
+        },
+        "kalos": {
+            "title": "Kalos",
+            "emoji": "💎",
+            "subtitle": "Elegância e Megaevolução",
+            "text": "Kalos é seu estilo! Você brilha em batalhas de Mega Evolução, ama fotossíntese (tipo a Floresta de Santalune) e acha que tudo fica melhor com um toque francês. Team Flare? Jamais, seu visual é impecável!"
+        },
+        "alola": {
+            "title": "Alola",
+            "emoji": "🌺",
+            "subtitle": "Vibe Tropical e ‘Island Scan’",
+            "text": "Alola, campeão! Sua vida é praia, trial captains, shaved ice e dançar com Oricorios. Você ignora os Ultra Beasts e diz que o verdadeiro perigo é o Sol escaldante. Malasada > tudo."
+        },
+        "galar": {
+            "title": "Galar",
+            "emoji": "🏰",
+            "subtitle": "Esporte e Chá com Scones",
+            "text": "Galar é seu estádio! Você acorda pronto para o Gym Challenge, acha que Dynamax é a melhor invenção desde pão fatiado e defende que Chairman Rose… bem, tinha boas intenções? #CupNoodlesForever"
+        },
+        "paldea": {
+            "title": "Paldea",
+            "emoji": "🍊",
+            "subtitle": "Liberdade e Caos Acadêmico",
+            "text": "Você nasceu para Paldea! Entre Treasure Hunts, aulas de Biologia com a Sra. Jacq e sanduíches que desafiam as leis da física, você prova que o verdadeiro tesouro são os amigos (e os Paradox Pokémon)."
+        },
+        "hisui": {
+            "title": "Hisui",
+            "emoji": "🎴",
+            "subtitle": "Pioneiro do Passado",
+            "text": "Hisui é seu destino! Você não tem medo de Poké Balls de madeira, adora uma pesquisa de campo (mesmo com risco de vida) e acha que voltar no tempo pra ver o primeiro Sinnoh vale a pena. Cuidado com os Alphas!"
+        }
+    }
+}

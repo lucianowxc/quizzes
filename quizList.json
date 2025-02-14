@@ -289,6 +289,11 @@
             "name": "Qual Carro da Corrida Maluca Você Seria?",
             "file": "quizzes/quizCorridaMaluca.json",
             "description": "Descubra qual carro mais combina com sua personalidade (ou falta dela)! Prepare-se para piadas, trapaças e muita confusão no estilo Corrida Maluca!"
+        },
+        {
+            "name": "Em qual região de Pokemon você deveria viver?",
+            "file": "quizzes/quizRegiaoPokemon.json",
+            "description": "Descubra qual região do mundo Pokemon é a sua cara!"
         }
     ]
 }
