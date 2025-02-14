@@ -294,6 +294,11 @@
             "name": "Em qual região de Pokemon você deveria viver?",
             "file": "quizzes/quizRegiaoPokemon.json",
             "description": "Descubra qual região do mundo Pokemon é a sua cara!"
+        },
+        {
+            "name": "Qual seria a causa da sua morte na Idade Média?",
+            "file": "quizzes/quizIdadeMedia.json",
+            "description": "Descubra qual seria a causa da sua morte na Idade Média! Será que você morreria de peste negra, fome ou guerra? Faça o quiz e descubra!"
         }
     ]
 }

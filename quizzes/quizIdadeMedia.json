@@ -1,0 +1,615 @@
+{
+    "title": "Qual seria a causa da sua morte na Idade Média?",
+    "questions": [
+      {
+        "question": "Qual dessas atividades você faria em um dia livre na Idade Média?",
+        "answers": [
+          {
+            "text": "Ficar bêbado em uma taverna 🍺",
+            "points": {
+              "overdose_de_cerveja": 0.1118,
+              "peste_negra": 0.0282,
+              "acidente_bizarro": 0.0498,
+              "inquiscao": 0.0051,
+              "fome": 0.0059,
+              "guerra": 0.0044,
+              "bruxaria": 0.0069,
+              "traicao_nobre": 0.0039
+            }
+          },
+          {
+            "text": "Participar de um torneio de justa ⚔️",
+            "points": {
+              "guerra": 0.056,
+              "traicao_nobre": 0.0562,
+              "acidente_bizarro": 0.0476,
+              "peste_negra": 0.0056,
+              "inquiscao": 0.0061,
+              "fome": 0.0071,
+              "bruxaria": 0.0082,
+              "overdose_de_cerveja": 0.0105
+            }
+          },
+          {
+            "text": "Rezar para não pegar a Peste Negra 🙏",
+            "points": {
+              "peste_negra": 0.0619,
+              "fome": 0.0868,
+              "inquiscao": 0.0646,
+              "guerra": 0.0037,
+              "acidente_bizarro": 0.0022,
+              "bruxaria": 0.0059,
+              "overdose_de_cerveja": 0.0077,
+              "traicao_nobre": 0.0034
+            }
+          },
+          {
+            "text": "Coletar ervas para fazer poções mágicas 🌿",
+            "points": {
+              "bruxaria": 0.0871,
+              "acidente_bizarro": 0.0375,
+              "traicao_nobre": 0.0675,
+              "peste_negra": 0.0049,
+              "inquiscao": 0.0054,
+              "fome": 0.0062,
+              "guerra": 0.0046,
+              "overdose_de_cerveja": 0.0094
+            }
+          },
+          {
+            "text": "Fofocar sobre os nobres no mercado 🗣️",
+            "points": {
+              "traicao_nobre": 0.0493,
+              "inquiscao": 0.0826,
+              "guerra": 0.0608,
+              "peste_negra": 0.0047,
+              "fome": 0.0058,
+              "acidente_bizarro": 0.0026,
+              "bruxaria": 0.0069,
+              "overdose_de_cerveja": 0.0088
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual dessas comidas você comeria até explodir?",
+        "answers": [
+          {
+            "text": "Pão duro que parece uma pedra 🪨",
+            "points": {
+              "fome": 0.076,
+              "peste_negra": 0.0508,
+              "acidente_bizarro": 0.0337,
+              "inquiscao": 0.0052,
+              "guerra": 0.0044,
+              "bruxaria": 0.0069,
+              "overdose_de_cerveja": 0.0091,
+              "traicao_nobre": 0.004
+            }
+          },
+          {
+            "text": "Cerveja medieval (basicamente pão líquido) 🍺",
+            "points": {
+              "overdose_de_cerveja": 0.1118,
+              "peste_negra": 0.0318,
+              "fome": 0.0826,
+              "inquiscao": 0.0039,
+              "guerra": 0.0034,
+              "acidente_bizarro": 0.002,
+              "bruxaria": 0.0053,
+              "traicao_nobre": 0.0032
+            }
+          },
+          {
+            "text": "Um banquete real com 20 pernas de frango 🍗",
+            "points": {
+              "traicao_nobre": 0.0493,
+              "guerra": 0.0573,
+              "acidente_bizarro": 0.0454,
+              "peste_negra": 0.0055,
+              "inquiscao": 0.0061,
+              "fome": 0.007,
+              "bruxaria": 0.0081,
+              "overdose_de_cerveja": 0.0104
+            }
+          },
+          {
+            "text": "Ervas estranhas que você achou na floresta 🌿",
+            "points": {
+              "bruxaria": 0.0871,
+              "acidente_bizarro": 0.0391,
+              "peste_negra": 0.0647,
+              "inquiscao": 0.0051,
+              "fome": 0.0059,
+              "guerra": 0.0043,
+              "overdose_de_cerveja": 0.0089,
+              "traicao_nobre": 0.0039
+            }
+          },
+          {
+            "text": "Nada, porque você está em jejum religioso 🙏",
+            "points": {
+              "fome": 0.076,
+              "inquiscao": 0.0763,
+              "peste_negra": 0.0604,
+              "guerra": 0.0039,
+              "acidente_bizarro": 0.0024,
+              "bruxaria": 0.0062,
+              "overdose_de_cerveja": 0.0081,
+              "traicao_nobre": 0.0036
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual dessas profissões você teria na Idade Média?",
+        "answers": [
+          {
+            "text": "Ferreiro (fazendo espadas e armaduras) 🔨",
+            "points": {
+              "guerra": 0.056,
+              "acidente_bizarro": 0.0287,
+              "traicao_nobre": 0.0527,
+              "peste_negra": 0.0053,
+              "inquiscao": 0.0059,
+              "fome": 0.0068,
+              "bruxaria": 0.0078,
+              "overdose_de_cerveja": 0.0101
+            }
+          },
+          {
+            "text": "Curandeiro (ou seria bruxo?) 🧙‍♂️",
+            "points": {
+              "bruxaria": 0.0871,
+              "peste_negra": 0.0519,
+              "inquiscao": 0.1142,
+              "fome": 0.0051,
+              "guerra": 0.0037,
+              "acidente_bizarro": 0.0023,
+              "overdose_de_cerveja": 0.0078,
+              "traicao_nobre": 0.0035
+            }
+          },
+          {
+            "text": "Cavaleiro (herói ou alvo fácil?) ⚔️",
+            "points": {
+              "guerra": 0.056,
+              "traicao_nobre": 0.0562,
+              "acidente_bizarro": 0.0476,
+              "peste_negra": 0.0056,
+              "inquiscao": 0.0061,
+              "fome": 0.0071,
+              "bruxaria": 0.0082,
+              "overdose_de_cerveja": 0.0105
+            }
+          },
+          {
+            "text": "Monge (rezando para não morrer) 📖",
+            "points": {
+              "inquiscao": 0.0668,
+              "fome": 0.0733,
+              "peste_negra": 0.0742,
+              "guerra": 0.0038,
+              "acidente_bizarro": 0.0023,
+              "bruxaria": 0.0063,
+              "overdose_de_cerveja": 0.008,
+              "traicao_nobre": 0.0036
+            }
+          },
+          {
+            "text": "Camponês (trabalhando até cair morto) 🌾",
+            "points": {
+              "fome": 0.076,
+              "peste_negra": 0.0714,
+              "acidente_bizarro": 0.0362,
+              "inquiscao": 0.0053,
+              "guerra": 0.0044,
+              "bruxaria": 0.007,
+              "overdose_de_cerveja": 0.0091,
+              "traicao_nobre": 0.004
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual dessas situações seria sua causa de morte mais provável?",
+        "answers": [
+          {
+            "text": "Cair de um castelo enquanto tirava um selfie 🤳",
+            "points": {
+              "acidente_bizarro": 0.033,
+              "guerra": 0.0343,
+              "traicao_nobre": 0.0636,
+              "peste_negra": 0.0055,
+              "inquiscao": 0.006,
+              "fome": 0.007,
+              "bruxaria": 0.0081,
+              "overdose_de_cerveja": 0.0105
+            }
+          },
+          {
+            "text": "Ser atacado por um ganso raivoso 🦢",
+            "points": {
+              "acidente_bizarro": 0.033,
+              "guerra": 0.0495,
+              "bruxaria": 0.0907,
+              "peste_negra": 0.0044,
+              "inquiscao": 0.005,
+              "fome": 0.0057,
+              "overdose_de_cerveja": 0.0085,
+              "traicao_nobre": 0.0037
+            }
+          },
+          {
+            "text": "Morrer de tédio em uma missa interminável ⛪",
+            "points": {
+              "fome": 0.0384,
+              "inquiscao": 0.0565,
+              "peste_negra": 0.0514,
+              "guerra": 0.0039,
+              "acidente_bizarro": 0.0024,
+              "bruxaria": 0.0062,
+              "overdose_de_cerveja": 0.0081,
+              "traicao_nobre": 0.0036
+            }
+          },
+          {
+            "text": "Ser esmagado por uma carroça desgovernada 🚜",
+            "points": {
+              "acidente_bizarro": 0.033,
+              "guerra": 0.0343,
+              "traicao_nobre": 0.0636,
+              "peste_negra": 0.0055,
+              "inquiscao": 0.006,
+              "fome": 0.007,
+              "bruxaria": 0.0081,
+              "overdose_de_cerveja": 0.0105
+            }
+          },
+          {
+            "text": "Explodir depois de comer um banquete real 🍖",
+            "points": {
+              "overdose_de_cerveja": 0.0564,
+              "traicao_nobre": 0.037,
+              "acidente_bizarro": 0.0472,
+              "peste_negra": 0.0052,
+              "inquiscao": 0.0058,
+              "fome": 0.0067,
+              "guerra": 0.005,
+              "bruxaria": 0.0079
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual dessas pessoas você irritaria facilmente?",
+        "answers": [
+          {
+            "text": "Um nobre com ego maior que seu castelo 👑",
+            "points": {
+              "traicao_nobre": 0.0493,
+              "guerra": 0.0601,
+              "inquiscao": 0.0698,
+              "peste_negra": 0.0047,
+              "fome": 0.0059,
+              "acidente_bizarro": 0.0026,
+              "bruxaria": 0.0069,
+              "overdose_de_cerveja": 0.0089
+            }
+          },
+          {
+            "text": "Um padre que acha que você é o demônio 👹",
+            "points": {
+              "inquiscao": 0.0668,
+              "bruxaria": 0.104,
+              "peste_negra": 0.0581,
+              "fome": 0.005,
+              "guerra": 0.0037,
+              "acidente_bizarro": 0.0023,
+              "overdose_de_cerveja": 0.0076,
+              "traicao_nobre": 0.0034
+            }
+          },
+          {
+            "text": "Um cavaleiro que não sabe usar uma espada ⚔️",
+            "points": {
+              "guerra": 0.056,
+              "acidente_bizarro": 0.0287,
+              "traicao_nobre": 0.0527,
+              "peste_negra": 0.0053,
+              "inquiscao": 0.0059,
+              "fome": 0.0068,
+              "bruxaria": 0.0078,
+              "overdose_de_cerveja": 0.0101
+            }
+          },
+          {
+            "text": "Um camponês que trabalha 20 horas por dia 🌾",
+            "points": {
+              "fome": 0.076,
+              "peste_negra": 0.0508,
+              "acidente_bizarro": 0.0337,
+              "inquiscao": 0.0052,
+              "guerra": 0.0044,
+              "bruxaria": 0.0069,
+              "overdose_de_cerveja": 0.0091,
+              "traicao_nobre": 0.004
+            }
+          },
+          {
+            "text": "Um bêbado em uma taverna que quer brigar 🍻",
+            "points": {
+              "overdose_de_cerveja": 0.1118,
+              "guerra": 0.0498,
+              "acidente_bizarro": 0.0385,
+              "peste_negra": 0.0044,
+              "inquiscao": 0.0048,
+              "fome": 0.0056,
+              "bruxaria": 0.0066,
+              "traicao_nobre": 0.0037
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual dessas frases você diria antes de morrer?",
+        "answers": [
+          {
+            "text": "“Pelo menos não foi de fome!” 🍞",
+            "points": {
+              "fome": 0.076,
+              "peste_negra": 0.0508,
+              "acidente_bizarro": 0.0337,
+              "inquiscao": 0.0052,
+              "guerra": 0.0044,
+              "bruxaria": 0.0069,
+              "overdose_de_cerveja": 0.0091,
+              "traicao_nobre": 0.004
+            }
+          },
+          {
+            "text": "“Eu só queria mais uma cerveja!” 🍺",
+            "points": {
+              "overdose_de_cerveja": 0.1118,
+              "traicao_nobre": 0.0259,
+              "acidente_bizarro": 0.0362,
+              "peste_negra": 0.0044,
+              "inquiscao": 0.005,
+              "fome": 0.0057,
+              "guerra": 0.0042,
+              "bruxaria": 0.0067
+            }
+          },
+          {
+            "text": "“Isso não é justo, eu sou inocente!” ⚖️",
+            "points": {
+              "inquiscao": 0.0668,
+              "bruxaria": 0.0996,
+              "traicao_nobre": 0.0619,
+              "peste_negra": 0.0043,
+              "fome": 0.0053,
+              "guerra": 0.004,
+              "acidente_bizarro": 0.0024,
+              "overdose_de_cerveja": 0.0082
+            }
+          },
+          {
+            "text": "“Eu avisei que gansos são perigosos!” 🦢",
+            "points": {
+              "acidente_bizarro": 0.033,
+              "guerra": 0.0376,
+              "bruxaria": 0.0882,
+              "peste_negra": 0.0044,
+              "inquiscao": 0.005,
+              "fome": 0.0057,
+              "overdose_de_cerveja": 0.0086,
+              "traicao_nobre": 0.0038
+            }
+          },
+          {
+            "text": "“Eu só queria ser famoso…” 🌟",
+            "points": {
+              "traicao_nobre": 0.0493,
+              "guerra": 0.0573,
+              "acidente_bizarro": 0.0454,
+              "peste_negra": 0.0055,
+              "inquiscao": 0.0061,
+              "fome": 0.007,
+              "bruxaria": 0.0081,
+              "overdose_de_cerveja": 0.0104
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual dessas invenções medievais você usaria para sobreviver?",
+        "answers": [
+          {
+            "text": "Uma armadura que pesa mais que você 🛡️",
+            "points": {
+              "guerra": 0.056,
+              "acidente_bizarro": 0.0402,
+              "traicao_nobre": 0.0574,
+              "peste_negra": 0.0055,
+              "inquiscao": 0.006,
+              "fome": 0.0069,
+              "bruxaria": 0.0081,
+              "overdose_de_cerveja": 0.0105
+            }
+          },
+          {
+            "text": "Uma poção mágica feita de ervas duvidosas 🧪",
+            "points": {
+              "bruxaria": 0.0871,
+              "peste_negra": 0.045,
+              "acidente_bizarro": 0.0506,
+              "inquiscao": 0.0053,
+              "fome": 0.006,
+              "guerra": 0.0044,
+              "overdose_de_cerveja": 0.0091,
+              "traicao_nobre": 0.004
+            }
+          },
+          {
+            "text": "Um barril de cerveja para se esconder 🍺",
+            "points": {
+              "overdose_de_cerveja": 0.1118,
+              "fome": 0.0584,
+              "acidente_bizarro": 0.0275,
+              "peste_negra": 0.004,
+              "inquiscao": 0.0045,
+              "guerra": 0.0038,
+              "bruxaria": 0.006,
+              "traicao_nobre": 0.0034
+            }
+          },
+          {
+            "text": "Uma catapulta para fugir do castelo 🪂",
+            "points": {
+              "acidente_bizarro": 0.033,
+              "guerra": 0.0561,
+              "traicao_nobre": 0.068,
+              "peste_negra": 0.0054,
+              "inquiscao": 0.0059,
+              "fome": 0.0068,
+              "bruxaria": 0.0078,
+              "overdose_de_cerveja": 0.0102
+            }
+          },
+          {
+            "text": "Um livro de rezas para convencer a morte 📖",
+            "points": {
+              "inquiscao": 0.0668,
+              "fome": 0.0651,
+              "peste_negra": 0.0565,
+              "guerra": 0.0039,
+              "acidente_bizarro": 0.0024,
+              "bruxaria": 0.0062,
+              "overdose_de_cerveja": 0.0081,
+              "traicao_nobre": 0.0035
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual dessas pessoas você seria na Idade Média?",
+        "answers": [
+          {
+            "text": "O bêbado da taverna que sempre causa confusão 🍻",
+            "points": {
+              "overdose_de_cerveja": 0.1118,
+              "acidente_bizarro": 0.0365,
+              "guerra": 0.0556,
+              "peste_negra": 0.0043,
+              "inquiscao": 0.0048,
+              "fome": 0.0056,
+              "bruxaria": 0.0065,
+              "traicao_nobre": 0.0037
+            }
+          },
+          {
+            "text": "O camponês que trabalha até cair morto 🌾",
+            "points": {
+              "fome": 0.076,
+              "peste_negra": 0.0616,
+              "acidente_bizarro": 0.035,
+              "inquiscao": 0.0052,
+              "guerra": 0.0044,
+              "bruxaria": 0.007,
+              "overdose_de_cerveja": 0.0091,
+              "traicao_nobre": 0.004
+            }
+          },
+          {
+            "text": "O nobre que trai todo mundo por poder 👑",
+            "points": {
+              "traicao_nobre": 0.0493,
+              "guerra": 0.0556,
+              "inquiscao": 0.088,
+              "peste_negra": 0.0046,
+              "fome": 0.0058,
+              "acidente_bizarro": 0.0026,
+              "bruxaria": 0.0069,
+              "overdose_de_cerveja": 0.0089
+            }
+          },
+          {
+            "text": "O curandeiro que é acusado de bruxaria 🧙‍♂️",
+            "points": {
+              "bruxaria": 0.0871,
+              "inquiscao": 0.073,
+              "peste_negra": 0.0764,
+              "fome": 0.0052,
+              "guerra": 0.0038,
+              "acidente_bizarro": 0.0023,
+              "overdose_de_cerveja": 0.0079,
+              "traicao_nobre": 0.0035
+            }
+          },
+          {
+            "text": "O cavaleiro que cai do cavalo em toda batalha 🐴",
+            "points": {
+              "guerra": 0.056,
+              "acidente_bizarro": 0.0402,
+              "traicao_nobre": 0.0574,
+              "peste_negra": 0.0055,
+              "inquiscao": 0.006,
+              "fome": 0.0069,
+              "bruxaria": 0.0081,
+              "overdose_de_cerveja": 0.0105
+            }
+          }
+        ]
+      }
+    ],
+    "descriptions": {
+      "peste_negra": {
+        "title": "Peste Negra",
+        "emoji": "🐀",
+        "subtitle": "Você morreu de doença, mas pelo menos foi rápido!",
+        "text": "Parabéns! Você foi infectado pela Peste Negra, a doença mais popular da Idade Média. Seus sintomas incluem inchaços horríveis, febre e um cheiro que afasta até os ratos. Pelo menos você não precisou lidar com impostos!"
+      },
+      "inquiscao": {
+        "title": "Inquisição",
+        "emoji": "🔥",
+        "subtitle": "Queimado na fogueira por heresia",
+        "text": "Você foi denunciado por achar que a Terra não é plana ou por ter rido de um padre. Agora, você é o astro principal do espetáculo da Inquisição: a fogueira! Aproveite seu momento de fama enquanto dura."
+      },
+      "fome": {
+        "title": "Fome",
+        "emoji": "🍞",
+        "subtitle": "Morreu de fome, mas pelo menos tentou comer grama",
+        "text": "Você sobreviveu às guerras, às doenças e até à sogra, mas não conseguiu escapar da fome. Parabéns, você é o exemplo perfeito de como a agricultura medieval era uma piada!"
+      },
+      "guerra": {
+        "title": "Guerra",
+        "emoji": "⚔️",
+        "subtitle": "Morto por um cavaleiro com complexo de herói",
+        "text": "Você foi esmagado por um cavaleiro em uma armadura brilhante que nem sabia usar a espada direito. Pelo menos você morreu lutando... ou tentando fugir. Quem sabe?"
+      },
+      "acidente_bizarro": {
+        "title": "Acidente Bizarro",
+        "emoji": "💥",
+        "subtitle": "Morreu de um jeito que ninguém vai acreditar",
+        "text": "Você foi atingido por uma carroça desgovernada, caiu de um castelo enquanto tentava fazer um selfie ou foi atacado por um ganso raivoso. A Idade Média não perdoa ninguém, nem mesmo os desastrados!"
+      },
+      "bruxaria": {
+        "title": "Bruxaria",
+        "emoji": "🧙‍♀️",
+        "subtitle": "Afogado ou queimado por ser 'diferente'",
+        "text": "Você foi acusado de bruxaria porque sabia contar até 10 ou porque tinha um gato preto. Agora, você está nadando no rio ou virando churrasco. Pelo menos você deixou sua marca na história... como um exemplo do que NÃO fazer."
+      },
+      "overdose_de_cerveja": {
+        "title": "Overdose de Cerveja",
+        "emoji": "🍺",
+        "subtitle": "Morreu bêbado e feliz",
+        "text": "Você exagerou na cerveja medieval (que era basicamente pão líquido) e agora está morto. Mas, ei, pelo menos você não teve que lidar com a ressaca!"
+      },
+      "traicao_nobre": {
+        "title": "Traição Nobre",
+        "emoji": "👑",
+        "subtitle": "Morto por um nobre com inveja do seu charme",
+        "text": "Você foi traído por um nobre que não suportava sua popularidade ou sua habilidade de comer 20 pernas de frango em uma sentada. Agora, você é só mais um nome na lista de 'acidentes' reais."
+      }
+    }
+  }
