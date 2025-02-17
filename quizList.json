@@ -299,6 +299,11 @@
             "name": "Qual seria a causa da sua morte na Idade Média?",
             "file": "quizzes/quizIdadeMedia.json",
             "description": "Descubra qual seria a causa da sua morte na Idade Média! Será que você morreria de peste negra, fome ou guerra? Faça o quiz e descubra!"
+        },
+        {
+            "name": "Qual JOIN SQL Você É?",
+            "file": "quizzes/quizJoinsSQL.json",
+            "description": "Descubra qual operação de JOIN do SQL combina com sua personalidade, de forma divertida e metafórica!"
         }
     ]
 }

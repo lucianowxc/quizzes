@@ -1,0 +1,398 @@
+{
+    "title": "Qual JOIN SQL Você É?",
+    "subtitle": "Descubra qual operação de JOIN combina com sua personalidade!",
+    "questions": [
+        {
+            "question": "Na festa da empresa, você é do tipo que:",
+            "answers": [
+                {
+                    "text": "🛋️ Só conversa com quem já conhece bem — nada de novidades, obrigado!",
+                    "points": {
+                        "inner_join": 0.0925,
+                        "self_join": 0.09,
+                        "left_join": 0.0078,
+                        "right_join": 0.0084,
+                        "full_join": 0.0044,
+                        "cross_join": 0.0058
+                    }
+                },
+                {
+                    "text": "🧩 Fica com seu grupo mas puxa assunto com quem passa — gentileza gera café grátis!",
+                    "points": {
+                        "left_join": 0.1022,
+                        "full_join": 0.074,
+                        "inner_join": 0.0054,
+                        "right_join": 0.0082,
+                        "cross_join": 0.0055,
+                        "self_join": 0.0055
+                    }
+                },
+                {
+                    "text": "💃 Vira meme ambulante puxando dança na mesa do RH — vamos conectar TUDO!",
+                    "points": {
+                        "cross_join": 0.0912,
+                        "full_join": 0.1147,
+                        "inner_join": 0.0066,
+                        "left_join": 0.0092,
+                        "right_join": 0.0099,
+                        "self_join": 0.0065
+                    }
+                },
+                {
+                    "text": "🕵️ Some misteriosamente após 15 minutos — melhor dar JOIN em casa!",
+                    "points": {
+                        "right_join": 0.1225,
+                        "self_join": 0.1251,
+                        "inner_join": 0.0051,
+                        "left_join": 0.007,
+                        "full_join": 0.004,
+                        "cross_join": 0.0052
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Seu app de relacionamentos ideal tem:",
+            "answers": [
+                {
+                    "text": "🔎 Filtros hiper específicos — só aceita matches 100% compatíveis!",
+                    "points": {
+                        "inner_join": 0.0925,
+                        "cross_join": 0.0744,
+                        "left_join": 0.0078,
+                        "right_join": 0.0083,
+                        "full_join": 0.0044,
+                        "self_join": 0.0057
+                    }
+                },
+                {
+                    "text": "🌐 Botão 'Ver todos' gigante — inclusive quem só stalkeia!",
+                    "points": {
+                        "full_join": 0.0711,
+                        "right_join": 0.1831,
+                        "inner_join": 0.005,
+                        "left_join": 0.007,
+                        "cross_join": 0.005,
+                        "self_join": 0.0049
+                    }
+                },
+                {
+                    "text": "🪞 Matchs com seus próprios interesses — auto-amor é a chave!",
+                    "points": {
+                        "self_join": 0.0893,
+                        "inner_join": 0.1158,
+                        "left_join": 0.0075,
+                        "right_join": 0.0082,
+                        "full_join": 0.0042,
+                        "cross_join": 0.0056
+                    }
+                },
+                {
+                    "text": "🕸️ Sugere amigos dos amigos dos amigos — conexões explosivas!",
+                    "points": {
+                        "cross_join": 0.0912,
+                        "left_join": 0.1272,
+                        "inner_join": 0.0049,
+                        "right_join": 0.0073,
+                        "full_join": 0.0038,
+                        "self_join": 0.005
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Na hora de montar playlists:",
+            "answers": [
+                {
+                    "text": "🏆 Só as 10 mais tocadas — sim, somos julgadores!",
+                    "points": {
+                        "inner_join": 0.0925,
+                        "self_join": 0.09,
+                        "left_join": 0.0078,
+                        "right_join": 0.0084,
+                        "full_join": 0.0044,
+                        "cross_join": 0.0058
+                    }
+                },
+                {
+                    "text": "🎲 Clássicas + aleatoriedades — surpresa sem trauma!",
+                    "points": {
+                        "left_join": 0.1022,
+                        "full_join": 0.0938,
+                        "inner_join": 0.0058,
+                        "right_join": 0.0086,
+                        "cross_join": 0.0058,
+                        "self_join": 0.0057
+                    }
+                },
+                {
+                    "text": "🌈 TODO gênero existente — do funk ao death metal em 3 segundos!",
+                    "points": {
+                        "cross_join": 0.0912,
+                        "full_join": 0.132,
+                        "inner_join": 0.0068,
+                        "left_join": 0.0095,
+                        "right_join": 0.0102,
+                        "self_join": 0.0067
+                    }
+                },
+                {
+                    "text": "🔄 Remixes de UMA música — autoral até o talo!",
+                    "points": {
+                        "self_join": 0.0893,
+                        "inner_join": 0.0797,
+                        "left_join": 0.0077,
+                        "right_join": 0.0083,
+                        "full_join": 0.0043,
+                        "cross_join": 0.0058
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Seu chefe pede um relatório 'super abrangente', você:",
+            "answers": [
+                {
+                    "text": "☕📊 Inclui TUDO — até o café do estagiário de 2017!",
+                    "points": {
+                        "full_join": 0.0711,
+                        "cross_join": 0.1637,
+                        "inner_join": 0.0062,
+                        "left_join": 0.0087,
+                        "right_join": 0.0093,
+                        "self_join": 0.0062
+                    }
+                },
+                {
+                    "text": "🎨📈 Só o essencial com gráficos bonitos — chefe nem vai ler mesmo!",
+                    "points": {
+                        "inner_join": 0.0925,
+                        "self_join": 0.1047,
+                        "left_join": 0.0079,
+                        "right_join": 0.0084,
+                        "full_join": 0.0044,
+                        "cross_join": 0.0058
+                    }
+                },
+                {
+                    "text": "🎲📉 Dados aleatórios pra impressionar — crescimento de 999% sempre funciona!",
+                    "points": {
+                        "cross_join": 0.0912,
+                        "right_join": 0.1935,
+                        "inner_join": 0.0048,
+                        "left_join": 0.0066,
+                        "full_join": 0.0037,
+                        "self_join": 0.0048
+                    }
+                },
+                {
+                    "text": "🔐📑 Faz um extra 'só por segurança' — MVP do excesso de zelo!",
+                    "points": {
+                        "left_join": 0.1274,
+                        "full_join": 0.0932,
+                        "inner_join": 0.0055,
+                        "right_join": 0.0083,
+                        "cross_join": 0.0056,
+                        "self_join": 0.0056
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Na hora de montar seu squad de projeto:",
+            "answers": [
+                {
+                    "text": "🏆👨💻 Só os *cracks* comprovados — zero paciência pra newbies!",
+                    "points": {
+                        "inner_join": 0.0925,
+                        "self_join": 0.09,
+                        "left_join": 0.0078,
+                        "right_join": 0.0084,
+                        "full_join": 0.0044,
+                        "cross_join": 0.0058
+                    }
+                },
+                {
+                    "text": "👻🫂 Inclui até o estági que nunca apareceu — RH aprova!",
+                    "points": {
+                        "left_join": 0.1274,
+                        "full_join": 0.1131,
+                        "inner_join": 0.0058,
+                        "right_join": 0.0087,
+                        "cross_join": 0.0058,
+                        "self_join": 0.0058
+                    }
+                },
+                {
+                    "text": "🚀🧑🚀 Gente de OUTROS DEPARTAMENTOS — caos criativo ou só caos?",
+                    "points": {
+                        "right_join": 0.136,
+                        "cross_join": 0.1725,
+                        "inner_join": 0.0052,
+                        "left_join": 0.0072,
+                        "full_join": 0.0041,
+                        "self_join": 0.0053
+                    }
+                },
+                {
+                    "text": "💪🔧 Autogestão: você faz tudo — SELF JOIN Hero!",
+                    "points": {
+                        "self_join": 0.0893,
+                        "inner_join": 0.1302,
+                        "left_join": 0.0077,
+                        "right_join": 0.0083,
+                        "full_join": 0.0043,
+                        "cross_join": 0.0057
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Seu app de delivery ideal:",
+            "answers": [
+                {
+                    "text": "🍣⚒️ Combos MALUCOS — sushi + serrote? Surpresa ou trauma?",
+                    "points": {
+                        "cross_join": 0.0912,
+                        "full_join": 0.1234,
+                        "inner_join": 0.0067,
+                        "left_join": 0.0094,
+                        "right_join": 0.01,
+                        "self_join": 0.0066
+                    }
+                },
+                {
+                    "text": "🍔🔒 Só favoritos — nada de 'experimentar sabores novos'!",
+                    "points": {
+                        "inner_join": 0.0925,
+                        "self_join": 0.1047,
+                        "left_join": 0.0079,
+                        "right_join": 0.0084,
+                        "full_join": 0.0044,
+                        "cross_join": 0.0058
+                    }
+                },
+                {
+                    "text": "✈️🌆 Recomenda até de OUTRAS CIDADES — entregamos em 3h... ou nunca!",
+                    "points": {
+                        "right_join": 0.136,
+                        "left_join": 0.1214,
+                        "inner_join": 0.0042,
+                        "full_join": 0.0033,
+                        "cross_join": 0.0044,
+                        "self_join": 0.0043
+                    }
+                },
+                {
+                    "text": "🪦🍝 Mostra até restaurantes FECHADOS — saudades do quibe da Dona Marta?",
+                    "points": {
+                        "full_join": 0.0711,
+                        "left_join": 0.1909,
+                        "inner_join": 0.005,
+                        "right_join": 0.0076,
+                        "cross_join": 0.0051,
+                        "self_join": 0.0051
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Planejando uma viagem, você:",
+            "answers": [
+                {
+                    "text": "✈️📅 Roteiro minucioso — desvios? Só no GPS!",
+                    "points": {
+                        "inner_join": 0.0925,
+                        "self_join": 0.1411,
+                        "left_join": 0.0082,
+                        "right_join": 0.0087,
+                        "full_join": 0.0046,
+                        "cross_join": 0.0061
+                    }
+                },
+                {
+                    "text": "👯🧳 Leva seu grupo mas chama conhecidos — quanto mais, melhor!",
+                    "points": {
+                        "left_join": 0.1274,
+                        "full_join": 0.1034,
+                        "inner_join": 0.0057,
+                        "right_join": 0.0085,
+                        "cross_join": 0.0057,
+                        "self_join": 0.0057
+                    }
+                },
+                {
+                    "text": "🎲🌍 Cola em grupos aleatórios — aventura ou sequestro?",
+                    "points": {
+                        "cross_join": 0.0912,
+                        "right_join": 0.2269,
+                        "inner_join": 0.0048,
+                        "left_join": 0.0067,
+                        "full_join": 0.0037,
+                        "self_join": 0.0048
+                    }
+                },
+                {
+                    "text": "🧘🔄 Viaja sozinho(a) e se descobre — auto-JOIN espiritual!",
+                    "points": {
+                        "self_join": 0.0893,
+                        "inner_join": 0.1158,
+                        "left_join": 0.0075,
+                        "right_join": 0.0082,
+                        "full_join": 0.0042,
+                        "cross_join": 0.0056
+                    }
+                },
+                {
+                    "text": "🌎🔥 Vai pra 5 destinos ao mesmo tempo — FULL JOIN de bagunça!",
+                    "points": {
+                        "full_join": 0.0711,
+                        "cross_join": 0.1284,
+                        "inner_join": 0.006,
+                        "left_join": 0.0084,
+                        "right_join": 0.009,
+                        "self_join": 0.006
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "inner_join": {
+            "title": "O Essencialista",
+            "emoji": "🔥",
+            "subtitle": "INNER JOIN",
+            "text": "Você só conecta com quem tem TUDO a ver! Eficiente, mas cuidado para não deixar oportunidades passarem!"
+        },
+        "left_join": {
+            "title": "O Inclusivo",
+            "emoji": "🤝",
+            "subtitle": "LEFT JOIN",
+            "text": "Você mantém sua base, mas dá espaço para novidades. Generoso, mas às vezes carrega peso dos outros!"
+        },
+        "right_join": {
+            "title": "O Aventureiro",
+            "emoji": "🌌",
+            "subtitle": "RIGHT JOIN",
+            "text": "Você vive explorando o novo! Adora sair da zona de conforto, mesmo que isso dê... uns *NULL values*."
+        },
+        "full_join": {
+            "title": "O Caos Organizado",
+            "emoji": "🎪",
+            "subtitle": "FULL OUTER JOIN",
+            "text": "Você abraça TUDO! Conecta até o que não deveria, criando combinações lendárias (ou desastrosas)."
+        },
+        "cross_join": {
+            "title": "O Combinatório",
+            "emoji": "💥",
+            "subtitle": "CROSS JOIN",
+            "text": "Você acredita que TUDO pode dar certo! Suas conexões são explosivas... e às vezes ilegais."
+        },
+        "self_join": {
+            "title": "O Auto-Suficiente",
+            "emoji": "🔄",
+            "subtitle": "SELF JOIN",
+            "text": "Você encontra respostas dentro de si! Autoconhecimento é seu forte, mas cuidado com loops infinitos!"
+        }
+    }
+}
