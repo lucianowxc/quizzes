@@ -1,0 +1,431 @@
+{
+    "title": "Qual Produto do Milho Você Seria?",
+    "subtitle": "Descubra se você é um snack irritante ou uma iguaria nostálgica!",
+    "questions": [
+      {
+        "question": "Qual item você levaria para sobreviver a um apocalipse zumbi?",
+        "answers": [
+          {
+            "text": "Um pacote de salgadinho que brilha no escuro 🌟",
+            "points": {
+              "doritos": 0.099,
+              "amido": 0.0771,
+              "pamonha": 0.0055,
+              "canjica": 0.0054,
+              "milho_verde": 0.0056,
+              "broa": 0.0063,
+              "suco_de_milho": 0.0066
+            }
+          },
+          {
+            "text": "Uma panela de barro da vovó 🍲",
+            "points": {
+              "broa": 0.0863,
+              "milho_verde": 0.1103,
+              "pamonha": 0.0051,
+              "canjica": 0.005,
+              "amido": 0.0046,
+              "suco_de_milho": 0.006,
+              "doritos": 0.0057
+            }
+          },
+          {
+            "text": "Um megafone pra gritar 'CORRAM, SEUS BURROS!' 📢",
+            "points": {
+              "pamonha": 0.1191,
+              "suco_de_milho": 0.0906,
+              "canjica": 0.0052,
+              "amido": 0.0048,
+              "milho_verde": 0.0056,
+              "broa": 0.0063,
+              "doritos": 0.006
+            }
+          },
+          {
+            "text": "Um livro: 'Como Sobreviver Sem Internet Para Iniciantes' 📚",
+            "points": {
+              "canjica": 0.0757,
+              "amido": 0.1302,
+              "pamonha": 0.0058,
+              "milho_verde": 0.0058,
+              "broa": 0.0065,
+              "suco_de_milho": 0.0069,
+              "doritos": 0.0063
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual emoji você seria numa briga de trânsito?",
+        "answers": [
+          {
+            "text": "🤬 xingando o motorista errado",
+            "points": {
+              "milho_verde": 0.0786,
+              "suco_de_milho": 0.1236,
+              "pamonha": 0.005,
+              "canjica": 0.0049,
+              "amido": 0.0045,
+              "broa": 0.0058,
+              "doritos": 0.0055
+            }
+          },
+          {
+            "text": "😇 sorrindo enquanto acelera pra passar o sinal",
+            "points": {
+              "canjica": 0.0532,
+              "amido": 0.1413,
+              "pamonha": 0.0064,
+              "milho_verde": 0.0064,
+              "broa": 0.0072,
+              "suco_de_milho": 0.0075,
+              "doritos": 0.007
+            }
+          },
+          {
+            "text": "🤡 buzinando o hino do Palmeiras",
+            "points": {
+              "pamonha": 0.1427,
+              "doritos": 0.1351,
+              "canjica": 0.0052,
+              "amido": 0.0047,
+              "milho_verde": 0.0056,
+              "broa": 0.0062,
+              "suco_de_milho": 0.0064
+            }
+          },
+          {
+            "text": "🫠 derretendo no banco do carro sem ar-condicionado",
+            "points": {
+              "broa": 0.0949,
+              "amido": 0.1135,
+              "pamonha": 0.0056,
+              "canjica": 0.0053,
+              "milho_verde": 0.0056,
+              "suco_de_milho": 0.0065,
+              "doritos": 0.0061
+            }
+          }
+        ]
+      },
+      {
+        "question": "O que você faz quando esquece o celular no banheiro público?",
+        "answers": [
+          {
+            "text": "Grita: 'É MEU, NÃO PEGA NENHUMA DOENÇA!' 🦠",
+            "points": {
+              "pamonha": 0.1034,
+              "milho_verde": 0.1617,
+              "canjica": 0.0055,
+              "amido": 0.005,
+              "broa": 0.0064,
+              "suco_de_milho": 0.0067,
+              "doritos": 0.0063
+            }
+          },
+          {
+            "text": "Finge que é influencer e faz live pedindo ajuda 📱",
+            "points": {
+              "doritos": 0.1235,
+              "canjica": 0.0946,
+              "pamonha": 0.0056,
+              "amido": 0.0049,
+              "milho_verde": 0.0057,
+              "broa": 0.0064,
+              "suco_de_milho": 0.0066
+            }
+          },
+          {
+            "text": "Lava as mãos 15 vezes e abandona o aparelho 🧼",
+            "points": {
+              "amido": 0.0687,
+              "broa": 0.1407,
+              "pamonha": 0.0055,
+              "canjica": 0.0053,
+              "milho_verde": 0.0056,
+              "suco_de_milho": 0.0064,
+              "doritos": 0.006
+            }
+          },
+          {
+            "text": "Deixa como oferenda pro deus da tecnologia 🛐",
+            "points": {
+              "suco_de_milho": 0.1073,
+              "canjica": 0.146,
+              "pamonha": 0.0056,
+              "amido": 0.0048,
+              "milho_verde": 0.0056,
+              "broa": 0.0061,
+              "doritos": 0.006
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual seria seu nome artístico de funk?",
+        "answers": [
+          {
+            "text": "MC Pipoca Estourada 🎤💥",
+            "points": {
+              "pipoca": 0.2671,
+              "doritos": 0.1307,
+              "pamonha": 0.0036,
+              "canjica": 0.0035,
+              "amido": 0.0032,
+              "milho_verde": 0.0037,
+              "broa": 0.0041,
+              "suco_de_milho": 0.0043
+            }
+          },
+          {
+            "text": "DJ Canjica Cremosa 🥛❄️",
+            "points": {
+              "canjica": 0.1356,
+              "suco_de_milho": 0.1068,
+              "pamonha": 0.0057,
+              "amido": 0.005,
+              "milho_verde": 0.0057,
+              "broa": 0.0064,
+              "doritos": 0.0062
+            }
+          },
+          {
+            "text": "Lorde Amido Dissimulado 🎩👻",
+            "points": {
+              "amido": 0.1026,
+              "broa": 0.1477,
+              "pamonha": 0.0056,
+              "canjica": 0.0053,
+              "milho_verde": 0.0056,
+              "suco_de_milho": 0.0064,
+              "doritos": 0.006
+            }
+          },
+          {
+            "text": "Pamonha da 01 (Vem de Havaí) 🏝️🌽",
+            "points": {
+              "pamonha": 0.1034,
+              "milho_verde": 0.1617,
+              "canjica": 0.0055,
+              "amido": 0.005,
+              "broa": 0.0064,
+              "suco_de_milho": 0.0067,
+              "doritos": 0.0063
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual frase você gritaria ao ser eleito presidente do reality?",
+        "answers": [
+          {
+            "text": "'Isso aqui tá mais armado que miojo!' 🍜🔫",
+            "points": {
+              "amido": 0.0754,
+              "broa": 0.1584,
+              "pamonha": 0.0056,
+              "canjica": 0.0054,
+              "milho_verde": 0.0056,
+              "suco_de_milho": 0.0065,
+              "doritos": 0.006
+            }
+          },
+          {
+            "text": "'Quem não pulou é tijolo!' 🧱🕺",
+            "points": {
+              "milho_verde": 0.1253,
+              "pamonha": 0.1296,
+              "canjica": 0.0051,
+              "amido": 0.0047,
+              "broa": 0.006,
+              "suco_de_milho": 0.0064,
+              "doritos": 0.0059
+            }
+          },
+          {
+            "text": "'Açúcar, amido e veneno: essa é minha fórmula!' 🧪💀",
+            "points": {
+              "suco_de_milho": 0.1516,
+              "canjica": 0.1621,
+              "pamonha": 0.0055,
+              "amido": 0.0047,
+              "milho_verde": 0.0055,
+              "broa": 0.0061,
+              "doritos": 0.0059
+            }
+          },
+          {
+            "text": "'Cada like vale um Dorito!' 🧡📱",
+            "points": {
+              "doritos": 0.1563,
+              "pipoca": 0.2515,
+              "pamonha": 0.0039,
+              "canjica": 0.0038,
+              "amido": 0.0034,
+              "milho_verde": 0.004,
+              "broa": 0.0044,
+              "suco_de_milho": 0.0046
+            }
+          }
+        ]
+      },
+      {
+        "question": "Como você reage ao ver alguém comendo pizza com abacaxi?",
+        "answers": [
+          {
+            "text": "Aplaude e grita: 'Inovador! Merece um Nobel!' 🍍🏆",
+            "points": {
+              "doritos": 0.099,
+              "suco_de_milho": 0.1754,
+              "pamonha": 0.0054,
+              "canjica": 0.0052,
+              "amido": 0.0047,
+              "milho_verde": 0.0055,
+              "broa": 0.0061
+            }
+          },
+          {
+            "text": "Chama a polícia gastronômica no 190 🚨👮",
+            "points": {
+              "broa": 0.1205,
+              "milho_verde": 0.1674,
+              "pamonha": 0.0054,
+              "canjica": 0.0052,
+              "amido": 0.0048,
+              "suco_de_milho": 0.0063,
+              "doritos": 0.0058
+            }
+          },
+          {
+            "text": "Faz um Stories chorando: 'O mundo acabou' 😭📸",
+            "points": {
+              "pamonha": 0.1191,
+              "canjica": 0.1356,
+              "amido": 0.0049,
+              "milho_verde": 0.0057,
+              "broa": 0.0064,
+              "suco_de_milho": 0.0066,
+              "doritos": 0.0062
+            }
+          },
+          {
+            "text": "Pega um pedaço e fala: 'Melhor que jiló!' 🍕😈",
+            "points": {
+              "pipoca": 0.21,
+              "amido": 0.1397,
+              "pamonha": 0.0043,
+              "canjica": 0.0041,
+              "milho_verde": 0.0043,
+              "broa": 0.0048,
+              "suco_de_milho": 0.005,
+              "doritos": 0.0046
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual é seu jeito de lidar com um mosquito te perturbando?",
+        "answers": [
+          {
+            "text": "Viro o Batman dos inseticidas 🦇🔫",
+            "points": {
+              "amido": 0.0891,
+              "broa": 0.161,
+              "pamonha": 0.0055,
+              "canjica": 0.0053,
+              "milho_verde": 0.0056,
+              "suco_de_milho": 0.0065,
+              "doritos": 0.006
+            }
+          },
+          {
+            "text": "Grito: 'TÁ COM INVEJA, ZÉ?!' 🗣️👊",
+            "points": {
+              "milho_verde": 0.1097,
+              "pamonha": 0.1927,
+              "canjica": 0.0053,
+              "amido": 0.0049,
+              "broa": 0.0062,
+              "suco_de_milho": 0.0065,
+              "doritos": 0.0061
+            }
+          },
+          {
+            "text": "Ofereço um copo de suco e viro seu melhor amigo 🧃🦟",
+            "points": {
+              "suco_de_milho": 0.1427,
+              "canjica": 0.132,
+              "pamonha": 0.0055,
+              "amido": 0.0046,
+              "milho_verde": 0.0055,
+              "broa": 0.006,
+              "doritos": 0.0059
+            }
+          },
+          {
+            "text": "Gravo um TikTok: 'Como sobreviver ao Apocalipse dos Pernilongos' 📱🌀",
+            "points": {
+              "doritos": 0.148,
+              "pipoca": 0.287,
+              "pamonha": 0.0037,
+              "canjica": 0.0036,
+              "amido": 0.0033,
+              "milho_verde": 0.0037,
+              "broa": 0.0042,
+              "suco_de_milho": 0.0044
+            }
+          }
+        ]
+      }
+    ],
+    "descriptions": {
+        "pipoca": {
+        "title": "Pipoca",
+        "emoji": "🍿💥",
+        "subtitle": "A estouradinha barulhenta",
+        "text": "Você é Pipoca! Aparece do nada, faz um escândalo, e todo mundo te aceita porque é impossível parar de te comer. Cuidado pra não acabar queimada no fundo do micro-ondas!"
+        },
+      "pamonha": {
+        "title": "Pamonha",
+        "emoji": "🌽🎀",
+        "subtitle": "A celebridade enrolada das festas",
+        "text": "Você é Pamonha! Todo mundo te elogia na hora da fome, mas ninguém te entende: é doce? É salgada? É um embrulho surpresa! Só não tente aparecer demais, ou vira pamonha caída no chão de barraca."
+      },
+      "canjica": {
+        "title": "Canjica",
+        "emoji": "🥣❄️",
+        "subtitle": "Conforto em forma de grão",
+        "text": "Você é Canjica! Aparece só no inverno, cheia de charme cremoso, e todo mundo finge que você é saudável. Dica secreta: Você é 90% açúcar, 10% milho. Shhh!"
+      },
+      "amido": {
+        "title": "Amido de Milho",
+        "emoji": "👻🥄",
+        "subtitle": "O fantasma útil da cozinha",
+        "text": "Você é Amido de Milho! Ninguém te vê, mas todo mundo te usa. Aparece do nada pra salvar molhos, engrossar caldos, e sumir antes que perguntem como essa comida não virou cola."
+      },
+      "milho_verde": {
+        "title": "Milho na Espiga",
+        "emoji": "🔥🌽",
+        "subtitle": "O astro das barraquinhas",
+        "text": "Você é Milho na Brasa! Tem cheiro de infância, gosto de farofa e o poder de deixar todo mundo com dedos engordurados. O verdadeiro influencer das feiras livres!"
+      },
+      "broa": {
+        "title": "Broa de Milho",
+        "emoji": "👵💥",
+        "subtitle": "A crocância nostálgica",
+        "text": "Você é Broa! Parece um tijolinho fofo, mas é a rainha das merendas. Aviso: Depois de 2 dias, vira arma branca. Use com café quente!"
+      },
+      "suco_de_milho": {
+        "title": "Suco de Milho",
+        "emoji": "🧃😳",
+        "subtitle": "A surpresa açucarada",
+        "text": "Você é Suco de Milho! Todo mundo te acha estranho até provar. E depois... bem, depois fica um silêncio constrangedor. Mas pelo menos você é único!"
+      },
+      "doritos": {
+        "title": "Doritos",
+        "emoji": "🧡👽",
+        "subtitle": "O extraterrestre das prateleiras",
+        "text": "Você é Doritos! Chegou do espaço, conquistou a galera com seu sabor químico-espacial, e agora é o rei das baladas e das crises existenciais às 3h."
+      }
+    }
+  }

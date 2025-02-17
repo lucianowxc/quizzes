@@ -304,6 +304,11 @@
             "name": "Qual JOIN SQL Você É?",
             "file": "quizzes/quizJoinsSQL.json",
             "description": "Descubra qual operação de JOIN do SQL combina com sua personalidade, de forma divertida e metafórica!"
+        },
+        {
+            "name": "Qual Produto derivado do Milho Você Seria?",
+            "file": "quizzes/quizMilho.json",
+            "description": "Descubra qual produto derivado do milho mais combina com a sua personalidade!"
         }
     ]
 }
