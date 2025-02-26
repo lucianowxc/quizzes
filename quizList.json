@@ -309,6 +309,11 @@
             "name": "Qual Produto derivado do Milho Você Seria?",
             "file": "quizzes/quizMilho.json",
             "description": "Descubra qual produto derivado do milho mais combina com a sua personalidade!"
+        },
+        {
+            "name": "Qual Tipo de Metal Você Seria?",
+            "file": "quizzes/quizMetais.json",
+            "description": "Descubra com qual tipo de metal você mais se identifica!"
         }
     ]
 }
