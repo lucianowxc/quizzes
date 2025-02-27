@@ -1,0 +1,505 @@
+{
+    "title": "Qual pecado capital você cometeria no carnaval?",
+    "subtitle": "Descubra qual pecado capital dominaria sua folia!",
+    "questions": [
+      {
+        "question": "Você está em um bloquinho de carnaval e alguém pisa no seu pé. O que você faz?",
+        "answers": [
+          {
+            "text": "🕺 Ignora e continua dançando, afinal, é carnaval!",
+            "points": {
+              "preguica": 0.0658,
+              "luxuria": 0.0536,
+              "soberba": 0.0043,
+              "inveja": 0.0061,
+              "ira": 0.0064,
+              "avareza": 0.0048,
+              "gula": 0.008
+            }
+          },
+          {
+            "text": "😤 Dá uma olhada de morte e segue em frente, mas fica remoendo o ocorrido.",
+            "points": {
+              "ira": 0.0668,
+              "inveja": 0.0784,
+              "soberba": 0.0036,
+              "preguica": 0.0047,
+              "avareza": 0.0041,
+              "gula": 0.0068,
+              "luxuria": 0.0046
+            }
+          },
+          {
+            "text": "🗣️ Grita: 'Ei, olha onde pisa!' e faz questão de chamar atenção.",
+            "points": {
+              "soberba": 0.0656,
+              "ira": 0.1271,
+              "inveja": 0.006,
+              "preguica": 0.0055,
+              "avareza": 0.0047,
+              "gula": 0.0078,
+              "luxuria": 0.0051
+            }
+          },
+          {
+            "text": "👣 Pisa de volta, só para garantir que a pessoa entenda o recado.",
+            "points": {
+              "ira": 0.0951,
+              "luxuria": 0.0599,
+              "soberba": 0.0042,
+              "inveja": 0.006,
+              "preguica": 0.0054,
+              "avareza": 0.0046,
+              "gula": 0.0078
+            }
+          },
+          {
+            "text": "🏠 Pensa: 'Melhor eu sair daqui antes que piore' e vai para casa.",
+            "points": {
+              "avareza": 0.0558,
+              "preguica": 0.1508,
+              "soberba": 0.0047,
+              "inveja": 0.0068,
+              "ira": 0.0071,
+              "gula": 0.0086,
+              "luxuria": 0.0057
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual é o seu plano ideal para o carnaval?",
+        "answers": [
+          {
+            "text": "🍿 Ficar em casa, assistindo aos desfiles pela TV e comendo pipoca.",
+            "points": {
+              "preguica": 0.0821,
+              "gula": 0.146,
+              "soberba": 0.0038,
+              "inveja": 0.0054,
+              "ira": 0.0057,
+              "avareza": 0.0042,
+              "luxuria": 0.0045
+            }
+          },
+          {
+            "text": "💸 Sair com os amigos, mas só para os lugares mais baratos e sem gastar muito.",
+            "points": {
+              "avareza": 0.0697,
+              "preguica": 0.0885,
+              "soberba": 0.0043,
+              "inveja": 0.0062,
+              "ira": 0.0065,
+              "gula": 0.008,
+              "luxuria": 0.0052
+            }
+          },
+          {
+            "text": "🌟 Ir para o maior bloco da cidade e ser o centro das atenções.",
+            "points": {
+              "soberba": 0.0656,
+              "luxuria": 0.0993,
+              "inveja": 0.0067,
+              "ira": 0.0071,
+              "preguica": 0.0063,
+              "avareza": 0.0053,
+              "gula": 0.0088
+            }
+          },
+          {
+            "text": "🍔 Provar todas as comidas de rua e beber até cair.",
+            "points": {
+              "gula": 0.1141,
+              "luxuria": 0.1331,
+              "soberba": 0.004,
+              "inveja": 0.0057,
+              "ira": 0.006,
+              "preguica": 0.0052,
+              "avareza": 0.0044
+            }
+          },
+          {
+            "text": "👗 Ficar de olho nas fantasias dos outros e planejar a sua para o próximo ano.",
+            "points": {
+              "inveja": 0.0914,
+              "avareza": 0.0928,
+              "soberba": 0.0043,
+              "ira": 0.0065,
+              "preguica": 0.0057,
+              "gula": 0.008,
+              "luxuria": 0.0053
+            }
+          }
+        ]
+      },
+      {
+        "question": "Alguém elogia sua fantasia, mas você sabe que a dela é melhor. O que você faz?",
+        "answers": [
+          {
+            "text": "😬 Agradece e elogia a fantasia dela de volta, mas por dentro está morrendo de inveja.",
+            "points": {
+              "inveja": 0.0914,
+              "soberba": 0.0673,
+              "ira": 0.0063,
+              "preguica": 0.0055,
+              "avareza": 0.0047,
+              "gula": 0.0079,
+              "luxuria": 0.0052
+            }
+          },
+          {
+            "text": "🤔 Diz: 'Obrigado, mas a sua é incrível! Como você conseguiu fazer isso?'",
+            "points": {
+              "inveja": 0.0733,
+              "luxuria": 0.0529,
+              "soberba": 0.0041,
+              "ira": 0.0061,
+              "preguica": 0.0054,
+              "avareza": 0.0045,
+              "gula": 0.0077
+            }
+          },
+          {
+            "text": "💅 Ignora o elogio e começa a falar sobre como sua fantasia é única e especial.",
+            "points": {
+              "soberba": 0.0656,
+              "ira": 0.0804,
+              "inveja": 0.0059,
+              "preguica": 0.0054,
+              "avareza": 0.0047,
+              "gula": 0.0079,
+              "luxuria": 0.0052
+            }
+          },
+          {
+            "text": "📝 Pensa: 'Por que eu não fiz algo assim?' e começa a planejar uma fantasia melhor para o próximo ano.",
+            "points": {
+              "inveja": 0.0914,
+              "avareza": 0.0928,
+              "soberba": 0.0043,
+              "ira": 0.0065,
+              "preguica": 0.0057,
+              "gula": 0.008,
+              "luxuria": 0.0053
+            }
+          },
+          {
+            "text": "😏 Diz: 'Obrigado, mas eu nem me esforcei tanto assim.'",
+            "points": {
+              "preguica": 0.0658,
+              "soberba": 0.0791,
+              "inveja": 0.0064,
+              "ira": 0.0068,
+              "avareza": 0.0051,
+              "gula": 0.0084,
+              "luxuria": 0.0056
+            }
+          }
+        ]
+      },
+      {
+        "question": "Você está em um trio elétrico e alguém tenta puxar conversa. O que você faz?",
+        "answers": [
+          {
+            "text": "🎶 Ignora e continua curtindo a música, afinal, você não veio pra conversar.",
+            "points": {
+              "preguica": 0.0658,
+              "soberba": 0.0791,
+              "inveja": 0.0064,
+              "ira": 0.0068,
+              "avareza": 0.0051,
+              "gula": 0.0084,
+              "luxuria": 0.0056
+            }
+          },
+          {
+            "text": "💬 Puxa um papo rápido, mas já começa a olhar em volta para ver se tem alguém mais interessante.",
+            "points": {
+              "luxuria": 0.0743,
+              "inveja": 0.1051,
+              "soberba": 0.004,
+              "ira": 0.0059,
+              "preguica": 0.0051,
+              "avareza": 0.0044,
+              "gula": 0.0074
+            }
+          },
+          {
+            "text": "🙄 Dá uma resposta seca e vira as costas, porque ninguém merece perder o foco da festa.",
+            "points": {
+              "ira": 0.0951,
+              "soberba": 0.0913,
+              "inveja": 0.0061,
+              "preguica": 0.0055,
+              "avareza": 0.0048,
+              "gula": 0.0079,
+              "luxuria": 0.0053
+            }
+          },
+          {
+            "text": "😏 Aproveita para fazer uma piada sarcástica e deixar a pessoa sem graça.",
+            "points": {
+              "soberba": 0.0527,
+              "ira": 0.1358,
+              "inveja": 0.006,
+              "preguica": 0.0056,
+              "avareza": 0.0047,
+              "gula": 0.0079,
+              "luxuria": 0.0052
+            }
+          },
+          {
+            "text": "🍻 Puxa um papo animado e já convida a pessoa para tomar uma cerveja com você.",
+            "points": {
+              "luxuria": 0.0743,
+              "gula": 0.1559,
+              "soberba": 0.0038,
+              "inveja": 0.0055,
+              "ira": 0.0057,
+              "preguica": 0.0049,
+              "avareza": 0.0043
+            }
+          }
+        ]
+      },
+      {
+        "question": "Seu amigo sugere um bloquinho alternativo, mas você prefere o mainstream. O que você faz?",
+        "answers": [
+          {
+            "text": "😒 Vai no alternativo, mas fica reclamando o tempo todo que o outro seria melhor.",
+            "points": {
+              "inveja": 0.0733,
+              "ira": 0.1116,
+              "soberba": 0.0038,
+              "preguica": 0.005,
+              "avareza": 0.0043,
+              "gula": 0.0071,
+              "luxuria": 0.0047
+            }
+          },
+          {
+            "text": "👑 Convence todo mundo a ir para o bloquinho mainstream, porque você sabe que é o melhor.",
+            "points": {
+              "soberba": 0.0656,
+              "luxuria": 0.0771,
+              "inveja": 0.0066,
+              "ira": 0.0069,
+              "preguica": 0.0061,
+              "avareza": 0.0052,
+              "gula": 0.0087
+            }
+          },
+          {
+            "text": "🤫 Diz que vai no alternativo, mas no último minuto aparece no mainstream sozinho.",
+            "points": {
+              "avareza": 0.0558,
+              "soberba": 0.0993,
+              "inveja": 0.0069,
+              "ira": 0.0073,
+              "preguica": 0.0064,
+              "gula": 0.009,
+              "luxuria": 0.0059
+            }
+          },
+          {
+            "text": "🔄 Divide o grupo: metade vai para um bloquinho, metade para o outro. Afinal, você não quer perder nada.",
+            "points": {
+              "inveja": 0.0642,
+              "gula": 0.1225,
+              "soberba": 0.0037,
+              "ira": 0.0054,
+              "preguica": 0.0047,
+              "avareza": 0.0041,
+              "luxuria": 0.0044
+            }
+          },
+          {
+            "text": "🛋️ Desiste de ambos e fica em casa, porque você já está cansado só de pensar na multidão.",
+            "points": {
+              "preguica": 0.0821,
+              "avareza": 0.0931,
+              "soberba": 0.0045,
+              "inveja": 0.0065,
+              "ira": 0.0069,
+              "gula": 0.0083,
+              "luxuria": 0.0055
+            }
+          }
+        ]
+      },
+      {
+        "question": "Você encontra uma carteira cheia de dinheiro no chão durante o carnaval. O que você faz?",
+        "answers": [
+          {
+            "text": "💰 Guarda a carteira e usa o dinheiro para pagar suas bebidas. Afinal, sorte é sorte!",
+            "points": {
+              "avareza": 0.0697,
+              "gula": 0.1501,
+              "soberba": 0.0039,
+              "inveja": 0.0056,
+              "ira": 0.0058,
+              "preguica": 0.0051,
+              "luxuria": 0.0046
+            }
+          },
+          {
+            "text": "🔄 Devolve a carteira, mas fica pensando em como poderia ter gastado aquele dinheiro.",
+            "points": {
+              "inveja": 0.0733,
+              "avareza": 0.1007,
+              "soberba": 0.0046,
+              "ira": 0.0068,
+              "preguica": 0.0059,
+              "gula": 0.0084,
+              "luxuria": 0.0055
+            }
+          },
+          {
+            "text": "💸 Pega o dinheiro e deixa a carteira no chão, porque você não tem tempo para ser herói.",
+            "points": {
+              "ira": 0.0668,
+              "avareza": 0.1218,
+              "soberba": 0.0048,
+              "inveja": 0.007,
+              "preguica": 0.0063,
+              "gula": 0.0088,
+              "luxuria": 0.0058
+            }
+          },
+          {
+            "text": "🦸 Devolve a carteira e se gaba para todo mundo sobre o seu bom caráter.",
+            "points": {
+              "soberba": 0.0656,
+              "luxuria": 0.0771,
+              "inveja": 0.0066,
+              "ira": 0.0069,
+              "preguica": 0.0061,
+              "avareza": 0.0052,
+              "gula": 0.0087
+            }
+          },
+          {
+            "text": "🚶 Ignora a carteira e segue em frente, porque você não quer problemas.",
+            "points": {
+              "preguica": 0.0821,
+              "avareza": 0.0931,
+              "soberba": 0.0045,
+              "inveja": 0.0065,
+              "ira": 0.0069,
+              "gula": 0.0083,
+              "luxuria": 0.0055
+            }
+          }
+        ]
+      },
+      {
+        "question": "O carnaval acabou, e você está exausto. O que você faz no dia seguinte?",
+        "answers": [
+          {
+            "text": "🛌 Passa o dia inteiro na cama, recuperando as energias.",
+            "points": {
+              "preguica": 0.0821,
+              "gula": 0.1118,
+              "soberba": 0.0038,
+              "inveja": 0.0054,
+              "ira": 0.0057,
+              "avareza": 0.0041,
+              "luxuria": 0.0045
+            }
+          },
+          {
+            "text": "😤 Reclama para todo mundo que o carnaval deveria durar mais uma semana.",
+            "points": {
+              "ira": 0.0762,
+              "luxuria": 0.0891,
+              "soberba": 0.0043,
+              "inveja": 0.006,
+              "preguica": 0.0056,
+              "avareza": 0.0047,
+              "gula": 0.0078
+            }
+          },
+          {
+            "text": "📅 Começa a planejar o próximo carnaval, porque este já foi melhor que o dos outros.",
+            "points": {
+              "soberba": 0.0656,
+              "inveja": 0.1231,
+              "ira": 0.0062,
+              "preguica": 0.0055,
+              "avareza": 0.0047,
+              "gula": 0.0079,
+              "luxuria": 0.0052
+            }
+          },
+          {
+            "text": "📱 Faz um post nas redes sociais mostrando como você aproveitou mais que todo mundo.",
+            "points": {
+              "soberba": 0.0656,
+              "luxuria": 0.1181,
+              "inveja": 0.007,
+              "ira": 0.0073,
+              "preguica": 0.0064,
+              "avareza": 0.0055,
+              "gula": 0.009
+            }
+          },
+          {
+            "text": "📉 Calcula quanto gastou e já começa a economizar para o próximo ano.",
+            "points": {
+              "avareza": 0.0697,
+              "preguica": 0.1147,
+              "soberba": 0.0044,
+              "inveja": 0.0062,
+              "ira": 0.0066,
+              "gula": 0.008,
+              "luxuria": 0.0053
+            }
+          }
+        ]
+      }
+    ],
+    "descriptions": {
+      "soberba": {
+        "title": "Soberba",
+        "emoji": "👑",
+        "subtitle": "O Rei do Carnaval",
+        "text": "Você é o tipo de pessoa que quer ser o centro das atenções, não é? No carnaval, você seria aquela pessoa que acha que seu bloco é o melhor da cidade e que todos deveriam seguir seu exemplo. Afinal, quem precisa de humildade quando você é a estrela?"
+      },
+      "inveja": {
+        "title": "Inveja",
+        "emoji": "💚",
+        "subtitle": "O Colecionador de Fantasias Alheias",
+        "text": "No carnaval, você seria aquela pessoa que fica olhando as fantasias dos outros e pensando: 'Por que eu não pensei nisso antes?'. Você até tenta se divertir, mas não consegue evitar aquele gostinho de querer o que é dos outros."
+      },
+      "ira": {
+        "title": "Ira",
+        "emoji": "💥",
+        "subtitle": "O Estouro da Folia",
+        "text": "Você é do tipo que não segura a emoção. No carnaval, seria aquela pessoa que briga por causa de um esbarrão no bloquinho ou porque alguém pisou no seu pé. Mas, no fundo, todo mundo sabe que é só a paixão pela festa falando mais alto."
+      },
+      "preguica": {
+        "title": "Preguiça",
+        "emoji": "🛌",
+        "subtitle": "O Rei do Sofá",
+        "text": "Enquanto todo mundo está pulando e dançando, você prefere ficar deitado no sofá, assistindo aos desfiles pela TV. Afinal, para que se esforçar se você pode curtir o carnaval sem sair de casa?"
+      },
+      "avareza": {
+        "title": "Avareza",
+        "emoji": "💰",
+        "subtitle": "O Economista da Folia",
+        "text": "No carnaval, você seria aquela pessoa que calcula cada centavo gasto com bebida e comida. Afinal, por que gastar tanto se você pode se divertir sem abrir mão da sua carteira?"
+      },
+      "gula": {
+        "title": "Gula",
+        "emoji": "🍗",
+        "subtitle": "O Devorador de Carnaval",
+        "text": "Para você, o carnaval é sinônimo de comida e bebida. Enquanto todo mundo está dançando, você está na fila do food truck, provando tudo o que vê pela frente. Afinal, a festa também está no estômago!"
+      },
+      "luxuria": {
+        "title": "Luxúria",
+        "emoji": "🔥",
+        "subtitle": "O Sedutor da Folia",
+        "text": "No carnaval, você é aquela pessoa que vive de paqueras e flertes. Afinal, a festa é o momento perfeito para soltar a imaginação e se deixar levar pelos desejos. Quem precisa de freios quando o clima é de folia?"
+      }
+    }
+  }
