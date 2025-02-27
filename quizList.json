@@ -317,7 +317,7 @@
         },
         {
             "name": "Se você ganhasse um bônus de dinheiro, o que deveria fazer?",
-            "file": "quizzes/quizBonusDinheiro.json",
+            "file": "quizzes/quizBonus.json",
             "description": "Descubra seu alter-ego financeiro (e se prepare para rir das consequências)!"
         }
     ]
