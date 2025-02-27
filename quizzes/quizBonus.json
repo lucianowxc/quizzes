@@ -1,0 +1,455 @@
+{
+  "title": "Se você ganhasse um bônus de dinheiro, o que deveria fazer?",
+  "subtitle": "Descubra seu alter-ego financeiro (e se prepare para rir das consequências)",
+  "questions": [
+    {
+      "question": "Seu chefe te surpreende com um bônus... Sua primeira reação é:",
+      "answers": [
+        {
+          "text": "💰 Investir tudo em criptomoedas exóticas (Dogecoin conta?)",
+          "points": {
+            "ApostadorTigrinho": 0.0875,
+            "FestaAmanhecer": 0.0694,
+            "InvestidorConservador": 0.0135,
+            "ViajanteImpulsivo": 0.0127,
+            "Philanthropist": 0.0152,
+            "LuxoLover": 0.0132,
+            "IndecisoCronico": 0.0137,
+            "DilemaExistencial": 0.0081
+          }
+        },
+        {
+          "text": "🌍 Reservar passagem para Tóquio - amanhã mesmo!",
+          "points": {
+            "ViajanteImpulsivo": 0.0743,
+            "DilemaExistencial": 0.0946,
+            "InvestidorConservador": 0.0131,
+            "FestaAmanhecer": 0.0118,
+            "Philanthropist": 0.0144,
+            "ApostadorTigrinho": 0.0139,
+            "LuxoLover": 0.0128,
+            "IndecisoCronico": 0.0131
+          }
+        },
+        {
+          "text": "📊 Criar uma planilha com 15 cenários de risco/proteção",
+          "points": {
+            "InvestidorConservador": 0.0841,
+            "Philanthropist": 0.0614,
+            "FestaAmanhecer": 0.0116,
+            "ViajanteImpulsivo": 0.0124,
+            "ApostadorTigrinho": 0.0139,
+            "LuxoLover": 0.0128,
+            "IndecisoCronico": 0.0133,
+            "DilemaExistencial": 0.0081
+          }
+        },
+        {
+          "text": "🍹 Pedir 27 caipirinhas simultaneamente no iFood",
+          "points": {
+            "FestaAmanhecer": 0.0658,
+            "LuxoLover": 0.1087,
+            "InvestidorConservador": 0.014,
+            "ViajanteImpulsivo": 0.0131,
+            "Philanthropist": 0.0157,
+            "ApostadorTigrinho": 0.015,
+            "IndecisoCronico": 0.0138,
+            "DilemaExistencial": 0.0083
+          }
+        }
+      ]
+    },
+    {
+      "question": "Um amigo pede R$ 10.000 emprestados. Você:",
+      "answers": [
+        {
+          "text": "🤝 Transfere na hora (confiança > contratos)",
+          "points": {
+            "Philanthropist": 0.1055,
+            "DilemaExistencial": 0.1326,
+            "InvestidorConservador": 0.0129,
+            "FestaAmanhecer": 0.0116,
+            "ViajanteImpulsivo": 0.0121,
+            "ApostadorTigrinho": 0.0134,
+            "LuxoLover": 0.0123,
+            "IndecisoCronico": 0.0126
+          }
+        },
+        {
+          "text": "⚖️ Exige garantia hipotecária + aval do gato",
+          "points": {
+            "InvestidorConservador": 0.0841,
+            "IndecisoCronico": 0.0857,
+            "FestaAmanhecer": 0.012,
+            "ViajanteImpulsivo": 0.0128,
+            "Philanthropist": 0.0151,
+            "ApostadorTigrinho": 0.0144,
+            "LuxoLover": 0.0132,
+            "DilemaExistencial": 0.0083
+          }
+        },
+        {
+          "text": "🎭 Inventa que foi sequestrado por aliens para fugir",
+          "points": {
+            "FestaAmanhecer": 0.0481,
+            "ViajanteImpulsivo": 0.0913,
+            "InvestidorConservador": 0.0137,
+            "Philanthropist": 0.0152,
+            "ApostadorTigrinho": 0.0145,
+            "LuxoLover": 0.0132,
+            "IndecisoCronico": 0.0139,
+            "DilemaExistencial": 0.0082
+          }
+        },
+        {
+          "text": "💸 Pede R$ 20.000 de volta na próxima semana",
+          "points": {
+            "ApostadorTigrinho": 0.0715,
+            "LuxoLover": 0.0993,
+            "InvestidorConservador": 0.0136,
+            "FestaAmanhecer": 0.0122,
+            "ViajanteImpulsivo": 0.0131,
+            "Philanthropist": 0.0156,
+            "IndecisoCronico": 0.0137,
+            "DilemaExistencial": 0.0082
+          }
+        }
+      ]
+    },
+    {
+      "question": "Encontrou R$ 500 esquecidos na rua. O que faz?",
+      "answers": [
+        {
+          "text": "🕵️♂️ Virar detetive e procurar o dono (até no LinkedIn)",
+          "points": {
+            "Philanthropist": 0.1055,
+            "IndecisoCronico": 0.0996,
+            "InvestidorConservador": 0.0133,
+            "FestaAmanhecer": 0.0121,
+            "ViajanteImpulsivo": 0.0126,
+            "ApostadorTigrinho": 0.014,
+            "LuxoLover": 0.0128,
+            "DilemaExistencial": 0.0083
+          }
+        },
+        {
+          "text": "🎰 Dobrar o valor em uma roleta online *agora*",
+          "points": {
+            "ApostadorTigrinho": 0.0875,
+            "FestaAmanhecer": 0.0979,
+            "InvestidorConservador": 0.0139,
+            "ViajanteImpulsivo": 0.0132,
+            "Philanthropist": 0.0158,
+            "LuxoLover": 0.0135,
+            "IndecisoCronico": 0.0139,
+            "DilemaExistencial": 0.0082
+          }
+        },
+        {
+          "text": "🍣 Reservar o jantar mais caro da cidade (tudo pelo Instagram)",
+          "points": {
+            "LuxoLover": 0.0745,
+            "ViajanteImpulsivo": 0.0853,
+            "InvestidorConservador": 0.0136,
+            "FestaAmanhecer": 0.0123,
+            "Philanthropist": 0.0153,
+            "ApostadorTigrinho": 0.0144,
+            "IndecisoCronico": 0.0136,
+            "DilemaExistencial": 0.0082
+          }
+        },
+        {
+          "text": "🌱 Plantar uma árvore frutífera e vender os pêssegos em 2030",
+          "points": {
+            "InvestidorConservador": 0.0841,
+            "DilemaExistencial": 0.0921,
+            "FestaAmanhecer": 0.0115,
+            "ViajanteImpulsivo": 0.0122,
+            "Philanthropist": 0.0144,
+            "ApostadorTigrinho": 0.0136,
+            "LuxoLover": 0.0126,
+            "IndecisoCronico": 0.013
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase define sua relação com dinheiro?",
+      "answers": [
+        {
+          "text": "💸 'Dinheiro foi feito para torrar, o universo cuida do resto'",
+          "points": {
+            "FestaAmanhecer": 0.0658,
+            "ViajanteImpulsivo": 0.1286,
+            "InvestidorConservador": 0.0143,
+            "Philanthropist": 0.0157,
+            "ApostadorTigrinho": 0.0148,
+            "LuxoLover": 0.0136,
+            "IndecisoCronico": 0.0141,
+            "DilemaExistencial": 0.0083
+          }
+        },
+        {
+          "text": "📈 'Se não está rendendo 200% ao ano, não me interessa'",
+          "points": {
+            "ApostadorTigrinho": 0.0875,
+            "InvestidorConservador": 0.0876,
+            "FestaAmanhecer": 0.0117,
+            "ViajanteImpulsivo": 0.0124,
+            "Philanthropist": 0.0147,
+            "LuxoLover": 0.0126,
+            "IndecisoCronico": 0.0132,
+            "DilemaExistencial": 0.0081
+          }
+        },
+        {
+          "text": "🤷 'Dinheiro? Ah, deixa na mesa que eu decido depois...'",
+          "points": {
+            "IndecisoCronico": 0.0816,
+            "DilemaExistencial": 0.1566,
+            "InvestidorConservador": 0.0132,
+            "FestaAmanhecer": 0.0119,
+            "ViajanteImpulsivo": 0.0125,
+            "Philanthropist": 0.0145,
+            "ApostadorTigrinho": 0.0139,
+            "LuxoLover": 0.0127
+          }
+        },
+        {
+          "text": "🎁 'Compro presentes caros até pro porteiro do prédio'",
+          "points": {
+            "Philanthropist": 0.1055,
+            "LuxoLover": 0.0932,
+            "InvestidorConservador": 0.0133,
+            "FestaAmanhecer": 0.0119,
+            "ViajanteImpulsivo": 0.0126,
+            "ApostadorTigrinho": 0.014,
+            "IndecisoCronico": 0.0132,
+            "DilemaExistencial": 0.0083
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua casa pegou fogo, mas você salva apenas UM objeto:",
+      "answers": [
+        {
+          "text": "🔥 A coleção de velas perfumadas de R$ 300 cada",
+          "points": {
+            "LuxoLover": 0.0745,
+            "FestaAmanhecer": 0.0766,
+            "InvestidorConservador": 0.0138,
+            "ViajanteImpulsivo": 0.013,
+            "Philanthropist": 0.0156,
+            "ApostadorTigrinho": 0.0148,
+            "IndecisoCronico": 0.0138,
+            "DilemaExistencial": 0.0082
+          }
+        },
+        {
+          "text": "💼 O HD com seus bitcoins minerados em 2012",
+          "points": {
+            "ApostadorTigrinho": 0.0875,
+            "InvestidorConservador": 0.0497,
+            "FestaAmanhecer": 0.0116,
+            "ViajanteImpulsivo": 0.0126,
+            "Philanthropist": 0.015,
+            "LuxoLover": 0.0128,
+            "IndecisoCronico": 0.0133,
+            "DilemaExistencial": 0.0081
+          }
+        },
+        {
+          "text": "🌍 Mapa-múndi com 87 países riscados a caneta",
+          "points": {
+            "ViajanteImpulsivo": 0.0743,
+            "DilemaExistencial": 0.1377,
+            "InvestidorConservador": 0.0131,
+            "FestaAmanhecer": 0.0118,
+            "Philanthropist": 0.0144,
+            "ApostadorTigrinho": 0.0137,
+            "LuxoLover": 0.0126,
+            "IndecisoCronico": 0.0131
+          }
+        },
+        {
+          "text": "📉 A planilha de gastos dos últimos 15 anos (impressa)",
+          "points": {
+            "InvestidorConservador": 0.0841,
+            "IndecisoCronico": 0.0698,
+            "FestaAmanhecer": 0.0119,
+            "ViajanteImpulsivo": 0.0127,
+            "Philanthropist": 0.015,
+            "ApostadorTigrinho": 0.0144,
+            "LuxoLover": 0.0131,
+            "DilemaExistencial": 0.0082
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você vê um anúncio: *'Ganhe R$ 1 milhão em 5 minutos!'*. O que faz?",
+      "answers": [
+        {
+          "text": "🐅 Aposto TUDO no Jogo do Tigrinho AGORA (confia)",
+          "points": {
+            "ApostadorTigrinho": 0.0875,
+            "FestaAmanhecer": 0.08,
+            "InvestidorConservador": 0.0136,
+            "ViajanteImpulsivo": 0.0129,
+            "Philanthropist": 0.0153,
+            "LuxoLover": 0.0133,
+            "IndecisoCronico": 0.0137,
+            "DilemaExistencial": 0.0081
+          }
+        },
+        {
+          "text": "📚 Leio os 45 termos de uso em letras miúdas",
+          "points": {
+            "InvestidorConservador": 0.0841,
+            "IndecisoCronico": 0.1315,
+            "FestaAmanhecer": 0.0124,
+            "ViajanteImpulsivo": 0.0131,
+            "Philanthropist": 0.0156,
+            "ApostadorTigrinho": 0.0148,
+            "LuxoLover": 0.0135,
+            "DilemaExistencial": 0.0083
+          }
+        },
+        {
+          "text": "🎁 Doo metade e gasto o resto em rinhas de axolote",
+          "points": {
+            "Philanthropist": 0.066,
+            "ViajanteImpulsivo": 0.1097,
+            "InvestidorConservador": 0.0136,
+            "FestaAmanhecer": 0.0123,
+            "ApostadorTigrinho": 0.0144,
+            "LuxoLover": 0.0131,
+            "IndecisoCronico": 0.0137,
+            "DilemaExistencial": 0.0082
+          }
+        },
+        {
+          "text": "💃 Contrato um flash mob pra dançar *Despacito* na praça",
+          "points": {
+            "FestaAmanhecer": 0.0658,
+            "LuxoLover": 0.1087,
+            "InvestidorConservador": 0.014,
+            "ViajanteImpulsivo": 0.0131,
+            "Philanthropist": 0.0157,
+            "ApostadorTigrinho": 0.015,
+            "IndecisoCronico": 0.0138,
+            "DilemaExistencial": 0.0083
+          }
+        }
+      ]
+    },
+    {
+      "question": "Um guru financeiro místico te dá UM conselho. Qual você segue?",
+      "answers": [
+        {
+          "text": "🔮 'Invista em ouro astral... e em rinhas de axolotes dourados!'",
+          "points": {
+            "ApostadorTigrinho": 0.0875,
+            "Philanthropist": 0.1244,
+            "InvestidorConservador": 0.013,
+            "FestaAmanhecer": 0.0117,
+            "ViajanteImpulsivo": 0.0125,
+            "LuxoLover": 0.0124,
+            "IndecisoCronico": 0.0128,
+            "DilemaExistencial": 0.0082
+          }
+        },
+        {
+          "text": "🌌 'Viaje para Plutão! Lá, Bitcoin vale 10x mais (e o oxigênio é opcional)'",
+          "points": {
+            "ViajanteImpulsivo": 0.0743,
+            "FestaAmanhecer": 0.1067,
+            "InvestidorConservador": 0.014,
+            "Philanthropist": 0.0157,
+            "ApostadorTigrinho": 0.0148,
+            "LuxoLover": 0.0136,
+            "IndecisoCronico": 0.0141,
+            "DilemaExistencial": 0.0082
+          }
+        },
+        {
+          "text": "💼 'Enterre seu dinheiro no jardim e chore nele toda lua cheia'",
+          "points": {
+            "InvestidorConservador": 0.0687,
+            "IndecisoCronico": 0.1458,
+            "FestaAmanhecer": 0.0128,
+            "ViajanteImpulsivo": 0.0135,
+            "Philanthropist": 0.0161,
+            "ApostadorTigrinho": 0.0151,
+            "LuxoLover": 0.0138,
+            "DilemaExistencial": 0.0084
+          }
+        },
+        {
+          "text": "👗 'Compre uma capa de invisibilidade... de grife, pra ninguém ver sua conta!'",
+          "points": {
+            "LuxoLover": 0.0745,
+            "DilemaExistencial": 0.1181,
+            "InvestidorConservador": 0.0132,
+            "FestaAmanhecer": 0.0119,
+            "ViajanteImpulsivo": 0.0125,
+            "Philanthropist": 0.0146,
+            "ApostadorTigrinho": 0.014,
+            "IndecisoCronico": 0.0129
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "InvestidorConservador": {
+      "title": "Tesouro Direto Humano",
+      "emoji": "🏦",
+      "subtitle": "Seu lema: 'Rendimento fixo ou morte!'",
+      "text": "Você transformaria até o troco do pão em CDB! Seus netos terão uma herança incrível... se conseguirem herdar seu Excel primeiro."
+    },
+    "FestaAmanhecer": {
+      "title": "Festa até o Amanhecer",
+      "emoji": "🎉",
+      "subtitle": "Vida é curta, celebração é longa!",
+      "text": "Seu bônus viraria uma festa épica com fogos de artifício em forma de nota de dólar. Amanhã? Isso é problema do Futuro Você™."
+    },
+    "ViajanteImpulsivo": {
+      "title": "Mochileiro Global",
+      "emoji": "✈️",
+      "subtitle": "7 países em 7 dias? Challenge accepted!",
+      "text": "Você estaria na primeira classe para Bali antes mesmo do dinheiro cair na conta. O jet lag é só um estado de espírito!"
+    },
+    "Philanthropist": {
+      "title": "Madame Filantropa",
+      "emoji": "🎗️",
+      "subtitle": "Sua conta bancária: 100% solidária",
+      "text": "Você adotaria um orfanato, financiaria startups de abelhas e ainda sobraria para doar picolés em cruzamentos movimentados."
+    },
+    "ApostadorTigrinho": {
+      "title": "Mestre do Tigrinho",
+      "emoji": "🐅🎰",
+      "subtitle": "Seu lema: *'Triplicar ou morrer tentando!'*",
+      "text": "Você é o terror das cassinos online! Seu bônus já estaria apostado em rinhas de tigres virtuais, enquanto canta *'eu sou o tigrão, baby!'*. Aposta mínima? Nunca ouvi falar."
+    },
+    "LuxoLover": {
+      "title": "Beyoncé de Butique",
+      "emoji": "🛍️",
+      "subtitle": "Se não tem logo visível, não compro!",
+      "text": "Seu bônus viraria uma bolsa que custa mais que seu carro. Mas quem precisa de transporte quando se está tão estiloso?"
+    },
+    "DilemaExistencial": {
+      "title": "Filósofo Quebrado",
+      "emoji": "🤯",
+      "subtitle": "Pensar demais = agir de menos",
+      "text": "Você ficaria debatendo se dinheiro é uma construção social... enquanto o bônus expira. Parabéns pela profundidade existencial!"
+    },
+    "IndecisoCronico": {
+      "title": "Burro das Finanças",
+      "emoji": "🤔",
+      "subtitle": "Paralisia por análise premium!",
+      "text": "Você pesquisaria 87 opções por 6 meses... até o dinheiro perder valor pela inflação. Parabéns pela consistência!"
+    }
+  }
+}

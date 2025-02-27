@@ -2,316 +2,624 @@
     "title": "Qual Tipo de Metal Você Seria?",
     "subtitle": "Descubra qual tipo de metal você seria!",
     "questions": [
-        {
-            "question": "Qual é sua estratégia para uma segunda-feira?",
-            "answers": [
-                {
-                    "text": "Planejo tudo e viro uma máquina de produtividade 📝",
-                    "points": {
-                        "Ferro": 1,
-                        "Power Metal": 0.4
-                    }
-                },
-                {
-                    "text": "Desisto e volto pra cama até quarta-feira 🛌",
-                    "points": {
-                        "Hélio": 0.8,
-                        "Nu Metal": 0.6
-                    }
-                },
-                {
-                    "text": "Grito no banheiro como um vocalista de banda 🚽",
-                    "points": {
-                        "Death Metal": 1,
-                        "Chumbo": 0.3
-                    }
-                },
-                {
-                    "text": "Invento uma crise pra justificar meu caos 🎭",
-                    "points": {
-                        "Mercurio": 0.9,
-                        "Metalcore": 0.7
-                    }
-                }
-            ]
-        },
-        {
-            "question": "O que você leva para um piquenique?",
-            "answers": [
-                {
-                    "text": "Um termômetro pra medir a temperatura da salada 🌡️",
-                    "points": {
-                        "Mercurio": 1,
-                        "Heavy Metal": 0.2
-                    }
-                },
-                {
-                    "text": "Uma panela de ferro pra fazer churrasco 🍖",
-                    "points": {
-                        "Ferro": 1,
-                        "Folk Metal": 0.5
-                    }
-                },
-                {
-                    "text": "Um alto-falante tocando *Slipknot* no volume máximo 🔊",
-                    "points": {
-                        "Death Metal": 0.8,
-                        "Metalcore": 1
-                    }
-                },
-                {
-                    "text": "Nada, porque esqueci tudo em casa 🏠",
-                    "points": {
-                        "Hélio": 1,
-                        "Nu Metal": 0.4
-                    }
-                }
-            ]
-        },
-        {
-            "question": "Como você reage quando alguém pisa no seu pé?",
-            "answers": [
-                {
-                    "text": "Sorrio e finjo que não doeu (mas doeu) 😬",
-                    "points": {
-                        "Ouro": 0.7,
-                        "Power Metal": 0.5
-                    }
-                },
-                {
-                    "text": "Solto um berro que assusta até o cachorro 🐕",
-                    "points": {
-                        "Death Metal": 1,
-                        "Urânio": 0.3
-                    }
-                },
-                {
-                    "text": "Invento uma teoria sobre a gravidade 🪐",
-                    "points": {
-                        "Alumínio": 0.6,
-                        "Heavy Metal": 0.8
-                    }
-                },
-                {
-                    "text": "Desapareço antes de precisar reagir 💨",
-                    "points": {
-                        "Hélio": 1,
-                        "Folk Metal": 0.4
-                    }
-                }
-            ]
-        },
-        {
-            "question": "Qual é seu talento secreto?",
-            "answers": [
-                {
-                    "text": "Fazer torradas queimadas parecerem gourmet 🍞",
-                    "points": {
-                        "Chumbo": 0.9,
-                        "Nu Metal": 0.7
-                    }
-                },
-                {
-                    "text": "Decorar a tabela periódica de cabeça 🧠",
-                    "points": {
-                        "Ferro": 0.8,
-                        "Power Metal": 0.6
-                    }
-                },
-                {
-                    "text": "Imitar o som de uma guitarra com a boca 🎸",
-                    "points": {
-                        "Heavy Metal": 1,
-                        "Metalcore": 0.5
-                    }
-                },
-                {
-                    "text": "Dormir em qualquer lugar, a qualquer hora 😴",
-                    "points": {
-                        "Hélio": 1,
-                        "Folk Metal": 0.3
-                    }
-                }
-            ]
-        },
-        {
-            "question": "Qual é seu jeito de economizar dinheiro?",
-            "answers": [
-                {
-                    "text": "Guardo moedas em um cofre de chumbo 🏦",
-                    "points": {
-                        "Chumbo": 1,
-                        "Death Metal": 0.4
-                    }
-                },
-                {
-                    "text": "Vendo fotos autografadas de mim mesmo 📸",
-                    "points": {
-                        "Ouro": 0.9,
-                        "Power Metal": 0.7
-                    }
-                },
-                {
-                    "text": "Reciclo latinhas pra comprar ingressos de show ♻️",
-                    "points": {
-                        "Alumínio": 1,
-                        "Nu Metal": 0.6
-                    }
-                },
-                {
-                    "text": "Esqueço minha senha do banco (problema resolvido) 🤷",
-                    "points": {
-                        "Hélio": 1,
-                        "Folk Metal": 0.3
-                    }
-                }
-            ]
-        },
-        {
-            "question": "O que você faz em uma fila interminável?",
-            "answers": [
-                {
-                    "text": "Organizo mentalmente a tabela periódica 🧪",
-                    "points": {
-                        "Ferro": 0.8,
-                        "Heavy Metal": 0.5
-                    }
-                },
-                {
-                    "text": "Crio uma playlist de *metal* no celular 🎧",
-                    "points": {
-                        "Death Metal": 1,
-                        "Metalcore": 0.7
-                    }
-                },
-                {
-                    "text": "Penso em 1001 formas de fugir dali 🏃",
-                    "points": {
-                        "Mercurio": 0.9,
-                        "Hélio": 0.6
-                    }
-                },
-                {
-                    "text": "Durmo em pé como um camelo 🐪",
-                    "points": {
-                        "Alumínio": 0.7,
-                        "Nu Metal": 0.8
-                    }
-                }
-            ]
-        },
-        {
-            "question": "Qual seria seu apelido na escola?",
-            "answers": [
-                {
-                    "text": "‘Professor Química’ (por causa do cheiro) 👨🔬",
-                    "points": {
-                        "Mercurio": 1,
-                        "Chumbo": 0.5
-                    }
-                },
-                {
-                    "text": "‘Metaleiro da Sala’ 🎸",
-                    "points": {
-                        "Heavy Metal": 1,
-                        "Death Metal": 0.7
-                    }
-                },
-                {
-                    "text": "‘Rei das Latas’ 👑",
-                    "points": {
-                        "Alumínio": 1,
-                        "Folk Metal": 0.4
-                    }
-                },
-                {
-                    "text": "‘Nuvem’ (porque sumia rápido) ☁️",
-                    "points": {
-                        "Hélio": 1,
-                        "Nu Metal": 0.6
-                    }
-                }
-            ]
-        }
+      {
+        "question": "Qual é sua estratégia para uma segunda-feira?",
+        "answers": [
+          {
+            "text": "Planejo tudo e viro uma máquina de produtividade 📝",
+            "points": {
+              "Ferro": 0.1109,
+              "Power Metal": 0.0957,
+              "Mercurio": 0.0052,
+              "Ouro": 0.009,
+              "Urânio": 0.0119,
+              "Alumínio": 0.006,
+              "Chumbo": 0.0053,
+              "Hélio": 0.0035,
+              "Heavy Metal": 0.0046,
+              "Death Metal": 0.0037,
+              "Metalcore": 0.0041,
+              "Folk Metal": 0.0047,
+              "Nu Metal": 0.0033
+            }
+          },
+          {
+            "text": "Desisto e volto pra cama até quarta-feira 🛌",
+            "points": {
+              "Hélio": 0.0533,
+              "Nu Metal": 0.0745,
+              "Mercurio": 0.0068,
+              "Ferro": 0.0071,
+              "Ouro": 0.0116,
+              "Urânio": 0.0152,
+              "Alumínio": 0.0077,
+              "Chumbo": 0.0068,
+              "Heavy Metal": 0.0058,
+              "Death Metal": 0.0048,
+              "Metalcore": 0.0052,
+              "Power Metal": 0.0065,
+              "Folk Metal": 0.006
+            }
+          },
+          {
+            "text": "Grito no banheiro como um vocalista de banda 🚽",
+            "points": {
+              "Death Metal": 0.0711,
+              "Chumbo": 0.0962,
+              "Mercurio": 0.0055,
+              "Ferro": 0.0058,
+              "Ouro": 0.0095,
+              "Urânio": 0.0126,
+              "Alumínio": 0.0065,
+              "Hélio": 0.0036,
+              "Heavy Metal": 0.0048,
+              "Metalcore": 0.0043,
+              "Power Metal": 0.0055,
+              "Folk Metal": 0.005,
+              "Nu Metal": 0.0036
+            }
+          },
+          {
+            "text": "Invento uma crise pra justificar meu caos 🎭",
+            "points": {
+              "Mercurio": 0.0963,
+              "Metalcore": 0.106,
+              "Ferro": 0.0061,
+              "Ouro": 0.0101,
+              "Urânio": 0.0133,
+              "Alumínio": 0.0067,
+              "Chumbo": 0.006,
+              "Hélio": 0.0039,
+              "Heavy Metal": 0.0052,
+              "Death Metal": 0.0043,
+              "Power Metal": 0.0056,
+              "Folk Metal": 0.0053,
+              "Nu Metal": 0.0037
+            }
+          }
+        ]
+      },
+      {
+        "question": "O que você leva para um piquenique?",
+        "answers": [
+          {
+            "text": "Um termômetro pra medir a temperatura da salada 🌡️",
+            "points": {
+              "Mercurio": 0.1069,
+              "Heavy Metal": 0.0584,
+              "Ferro": 0.0054,
+              "Ouro": 0.0089,
+              "Urânio": 0.0117,
+              "Alumínio": 0.0059,
+              "Chumbo": 0.0053,
+              "Hélio": 0.0034,
+              "Death Metal": 0.0036,
+              "Metalcore": 0.0041,
+              "Power Metal": 0.0051,
+              "Folk Metal": 0.0048,
+              "Nu Metal": 0.0034
+            }
+          },
+          {
+            "text": "Uma panela de ferro pra fazer churrasco 🍖",
+            "points": {
+              "Ferro": 0.1109,
+              "Folk Metal": 0.1004,
+              "Mercurio": 0.0056,
+              "Ouro": 0.0095,
+              "Urânio": 0.0125,
+              "Alumínio": 0.0063,
+              "Chumbo": 0.0056,
+              "Hélio": 0.0037,
+              "Heavy Metal": 0.0048,
+              "Death Metal": 0.0039,
+              "Metalcore": 0.0043,
+              "Power Metal": 0.0053,
+              "Nu Metal": 0.0035
+            }
+          },
+          {
+            "text": "Um alto-falante tocando *Slipknot* no volume máximo 🔊",
+            "points": {
+              "Death Metal": 0.057,
+              "Metalcore": 0.1318,
+              "Mercurio": 0.0069,
+              "Ferro": 0.0072,
+              "Ouro": 0.0117,
+              "Urânio": 0.0153,
+              "Alumínio": 0.0078,
+              "Chumbo": 0.0069,
+              "Hélio": 0.0044,
+              "Heavy Metal": 0.0059,
+              "Power Metal": 0.0064,
+              "Folk Metal": 0.0059,
+              "Nu Metal": 0.0042
+            }
+          },
+          {
+            "text": "Nada, porque esqueci tudo em casa 🏠",
+            "points": {
+              "Hélio": 0.0665,
+              "Nu Metal": 0.066,
+              "Mercurio": 0.0067,
+              "Ferro": 0.007,
+              "Ouro": 0.0114,
+              "Urânio": 0.0149,
+              "Alumínio": 0.0076,
+              "Chumbo": 0.0067,
+              "Heavy Metal": 0.0056,
+              "Death Metal": 0.0047,
+              "Metalcore": 0.0051,
+              "Power Metal": 0.0064,
+              "Folk Metal": 0.006
+            }
+          }
+        ]
+      },
+      {
+        "question": "Como você reage quando alguém pisa no seu pé?",
+        "answers": [
+          {
+            "text": "Sorrio e finjo que não doeu (mas doeu) 😬",
+            "points": {
+              "Ouro": 0.1271,
+              "Power Metal": 0.0938,
+              "Mercurio": 0.0045,
+              "Ferro": 0.0047,
+              "Urânio": 0.0102,
+              "Alumínio": 0.0051,
+              "Chumbo": 0.0046,
+              "Hélio": 0.0029,
+              "Heavy Metal": 0.0039,
+              "Death Metal": 0.0032,
+              "Metalcore": 0.0036,
+              "Folk Metal": 0.0041,
+              "Nu Metal": 0.003
+            }
+          },
+          {
+            "text": "Solto um berro que assusta até o cachorro 🐕",
+            "points": {
+              "Death Metal": 0.0711,
+              "Urânio": 0.2082,
+              "Mercurio": 0.0046,
+              "Ferro": 0.0047,
+              "Ouro": 0.0077,
+              "Alumínio": 0.005,
+              "Chumbo": 0.0044,
+              "Hélio": 0.0028,
+              "Heavy Metal": 0.0036,
+              "Metalcore": 0.0034,
+              "Power Metal": 0.004,
+              "Folk Metal": 0.0037,
+              "Nu Metal": 0.0027
+            }
+          },
+          {
+            "text": "Invento uma teoria sobre a gravidade 🪐",
+            "points": {
+              "Alumínio": 0.0713,
+              "Heavy Metal": 0.1128,
+              "Mercurio": 0.0056,
+              "Ferro": 0.0058,
+              "Ouro": 0.0096,
+              "Urânio": 0.0126,
+              "Chumbo": 0.0057,
+              "Hélio": 0.0037,
+              "Death Metal": 0.004,
+              "Metalcore": 0.0044,
+              "Power Metal": 0.0054,
+              "Folk Metal": 0.0051,
+              "Nu Metal": 0.0036
+            }
+          },
+          {
+            "text": "Desapareço antes de precisar reagir 💨",
+            "points": {
+              "Hélio": 0.0665,
+              "Folk Metal": 0.0928,
+              "Mercurio": 0.0062,
+              "Ferro": 0.0065,
+              "Ouro": 0.0107,
+              "Urânio": 0.0139,
+              "Alumínio": 0.0071,
+              "Chumbo": 0.0063,
+              "Heavy Metal": 0.0052,
+              "Death Metal": 0.0044,
+              "Metalcore": 0.0048,
+              "Power Metal": 0.0059,
+              "Nu Metal": 0.0039
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual é seu talento secreto?",
+        "answers": [
+          {
+            "text": "Fazer torradas queimadas parecerem gourmet 🍞",
+            "points": {
+              "Chumbo": 0.0931,
+              "Nu Metal": 0.0908,
+              "Mercurio": 0.0064,
+              "Ferro": 0.0066,
+              "Ouro": 0.0108,
+              "Urânio": 0.0142,
+              "Alumínio": 0.0071,
+              "Hélio": 0.004,
+              "Heavy Metal": 0.0055,
+              "Death Metal": 0.0045,
+              "Metalcore": 0.0049,
+              "Power Metal": 0.006,
+              "Folk Metal": 0.0056
+            }
+          },
+          {
+            "text": "Decorar a tabela periódica de cabeça 🧠",
+            "points": {
+              "Ferro": 0.0889,
+              "Power Metal": 0.1111,
+              "Mercurio": 0.0053,
+              "Ouro": 0.0092,
+              "Urânio": 0.0121,
+              "Alumínio": 0.0062,
+              "Chumbo": 0.0054,
+              "Hélio": 0.0035,
+              "Heavy Metal": 0.0047,
+              "Death Metal": 0.0039,
+              "Metalcore": 0.0042,
+              "Folk Metal": 0.0048,
+              "Nu Metal": 0.0035
+            }
+          },
+          {
+            "text": "Imitar o som de uma guitarra com a boca 🎸",
+            "points": {
+              "Heavy Metal": 0.0873,
+              "Metalcore": 0.0964,
+              "Mercurio": 0.0059,
+              "Ferro": 0.0062,
+              "Ouro": 0.0103,
+              "Urânio": 0.0135,
+              "Alumínio": 0.0069,
+              "Chumbo": 0.006,
+              "Hélio": 0.0039,
+              "Death Metal": 0.0043,
+              "Power Metal": 0.0057,
+              "Folk Metal": 0.0053,
+              "Nu Metal": 0.0038
+            }
+          },
+          {
+            "text": "Dormir em qualquer lugar, a qualquer hora 😴",
+            "points": {
+              "Hélio": 0.0665,
+              "Folk Metal": 0.0789,
+              "Mercurio": 0.0061,
+              "Ferro": 0.0064,
+              "Ouro": 0.0106,
+              "Urânio": 0.0137,
+              "Alumínio": 0.0071,
+              "Chumbo": 0.0062,
+              "Heavy Metal": 0.0052,
+              "Death Metal": 0.0043,
+              "Metalcore": 0.0048,
+              "Power Metal": 0.0059,
+              "Nu Metal": 0.0039
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual é seu jeito de economizar dinheiro?",
+        "answers": [
+          {
+            "text": "Guardo moedas em um cofre de chumbo 🏦",
+            "points": {
+              "Chumbo": 0.1034,
+              "Death Metal": 0.0798,
+              "Mercurio": 0.0055,
+              "Ferro": 0.0058,
+              "Ouro": 0.0097,
+              "Urânio": 0.0127,
+              "Alumínio": 0.0065,
+              "Hélio": 0.0037,
+              "Heavy Metal": 0.0048,
+              "Metalcore": 0.0043,
+              "Power Metal": 0.0054,
+              "Folk Metal": 0.005,
+              "Nu Metal": 0.0036
+            }
+          },
+          {
+            "text": "Vendo fotos autografadas de mim mesmo 📸",
+            "points": {
+              "Ouro": 0.1629,
+              "Power Metal": 0.1294,
+              "Mercurio": 0.0047,
+              "Ferro": 0.0049,
+              "Urânio": 0.0107,
+              "Alumínio": 0.0054,
+              "Chumbo": 0.0048,
+              "Hélio": 0.0032,
+              "Heavy Metal": 0.0041,
+              "Death Metal": 0.0034,
+              "Metalcore": 0.0037,
+              "Folk Metal": 0.0042,
+              "Nu Metal": 0.003
+            }
+          },
+          {
+            "text": "Reciclo latinhas pra comprar ingressos de show ♻️",
+            "points": {
+              "Alumínio": 0.1181,
+              "Nu Metal": 0.0802,
+              "Mercurio": 0.006,
+              "Ferro": 0.0063,
+              "Ouro": 0.0103,
+              "Urânio": 0.0135,
+              "Chumbo": 0.006,
+              "Hélio": 0.0039,
+              "Heavy Metal": 0.0052,
+              "Death Metal": 0.0043,
+              "Metalcore": 0.0047,
+              "Power Metal": 0.0058,
+              "Folk Metal": 0.0054
+            }
+          },
+          {
+            "text": "Esqueço minha senha do banco (problema resolvido) 🤷",
+            "points": {
+              "Hélio": 0.0665,
+              "Folk Metal": 0.0789,
+              "Mercurio": 0.0061,
+              "Ferro": 0.0064,
+              "Ouro": 0.0106,
+              "Urânio": 0.0137,
+              "Alumínio": 0.0071,
+              "Chumbo": 0.0062,
+              "Heavy Metal": 0.0052,
+              "Death Metal": 0.0043,
+              "Metalcore": 0.0048,
+              "Power Metal": 0.0059,
+              "Nu Metal": 0.0039
+            }
+          }
+        ]
+      },
+      {
+        "question": "O que você faz em uma fila interminável?",
+        "answers": [
+          {
+            "text": "Organizo mentalmente a tabela periódica 🧪",
+            "points": {
+              "Ferro": 0.0889,
+              "Heavy Metal": 0.0926,
+              "Mercurio": 0.0053,
+              "Ouro": 0.009,
+              "Urânio": 0.0119,
+              "Alumínio": 0.0059,
+              "Chumbo": 0.0053,
+              "Hélio": 0.0034,
+              "Death Metal": 0.0037,
+              "Metalcore": 0.0042,
+              "Power Metal": 0.0051,
+              "Folk Metal": 0.0049,
+              "Nu Metal": 0.0034
+            }
+          },
+          {
+            "text": "Crio uma playlist de *metal* no celular 🎧",
+            "points": {
+              "Death Metal": 0.0711,
+              "Metalcore": 0.1167,
+              "Mercurio": 0.0065,
+              "Ferro": 0.0069,
+              "Ouro": 0.0112,
+              "Urânio": 0.0147,
+              "Alumínio": 0.0075,
+              "Chumbo": 0.0065,
+              "Hélio": 0.0043,
+              "Heavy Metal": 0.0056,
+              "Power Metal": 0.0061,
+              "Folk Metal": 0.0057,
+              "Nu Metal": 0.0041
+            }
+          },
+          {
+            "text": "Penso em 1001 formas de fugir dali 🏃",
+            "points": {
+              "Mercurio": 0.0963,
+              "Hélio": 0.0841,
+              "Ferro": 0.0061,
+              "Ouro": 0.0102,
+              "Urânio": 0.0133,
+              "Alumínio": 0.0067,
+              "Chumbo": 0.006,
+              "Heavy Metal": 0.0051,
+              "Death Metal": 0.0042,
+              "Metalcore": 0.0046,
+              "Power Metal": 0.0057,
+              "Folk Metal": 0.0054,
+              "Nu Metal": 0.0038
+            }
+          },
+          {
+            "text": "Durmo em pé como um camelo 🐪",
+            "points": {
+              "Alumínio": 0.083,
+              "Nu Metal": 0.0834,
+              "Mercurio": 0.0063,
+              "Ferro": 0.0066,
+              "Ouro": 0.0108,
+              "Urânio": 0.0142,
+              "Chumbo": 0.0063,
+              "Hélio": 0.0041,
+              "Heavy Metal": 0.0054,
+              "Death Metal": 0.0044,
+              "Metalcore": 0.0049,
+              "Power Metal": 0.0062,
+              "Folk Metal": 0.0057
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual seria seu apelido na escola?",
+        "answers": [
+          {
+            "text": "‘Professor Química’ (por causa do cheiro) 👨🔬",
+            "points": {
+              "Mercurio": 0.1069,
+              "Chumbo": 0.1212,
+              "Ferro": 0.0053,
+              "Ouro": 0.0088,
+              "Urânio": 0.0116,
+              "Alumínio": 0.006,
+              "Hélio": 0.0034,
+              "Heavy Metal": 0.0044,
+              "Death Metal": 0.0037,
+              "Metalcore": 0.004,
+              "Power Metal": 0.005,
+              "Folk Metal": 0.0047,
+              "Nu Metal": 0.0034
+            }
+          },
+          {
+            "text": "‘Metaleiro da Sala’ 🎸",
+            "points": {
+              "Heavy Metal": 0.0873,
+              "Death Metal": 0.1108,
+              "Mercurio": 0.0062,
+              "Ferro": 0.0066,
+              "Ouro": 0.0109,
+              "Urânio": 0.0142,
+              "Alumínio": 0.0071,
+              "Chumbo": 0.0063,
+              "Hélio": 0.0041,
+              "Metalcore": 0.0048,
+              "Power Metal": 0.0059,
+              "Folk Metal": 0.0056,
+              "Nu Metal": 0.0039
+            }
+          },
+          {
+            "text": "‘Rei das Latas’ 👑",
+            "points": {
+              "Alumínio": 0.1181,
+              "Folk Metal": 0.0872,
+              "Mercurio": 0.0053,
+              "Ferro": 0.0056,
+              "Ouro": 0.0092,
+              "Urânio": 0.0121,
+              "Chumbo": 0.0053,
+              "Hélio": 0.0035,
+              "Heavy Metal": 0.0047,
+              "Death Metal": 0.0038,
+              "Metalcore": 0.0041,
+              "Power Metal": 0.0052,
+              "Nu Metal": 0.0034
+            }
+          },
+          {
+            "text": "‘Nuvem’ (porque sumia rápido) ☁️",
+            "points": {
+              "Hélio": 0.0665,
+              "Nu Metal": 0.0829,
+              "Mercurio": 0.007,
+              "Ferro": 0.0073,
+              "Ouro": 0.012,
+              "Urânio": 0.0156,
+              "Alumínio": 0.0079,
+              "Chumbo": 0.007,
+              "Heavy Metal": 0.0059,
+              "Death Metal": 0.0049,
+              "Metalcore": 0.0053,
+              "Power Metal": 0.0067,
+              "Folk Metal": 0.0062
+            }
+          }
+        ]
+      }
     ],
     "descriptions": {
-        "Mercurio": {
-            "title": "Mercurio (Hg) 🌡️",
-            "emoji": "🌡️",
-            "subtitle": "O Líquido Dramático",
-            "text": "Você é o Mercurio! Imprevisível, tóxico e sempre mudando de forma. Derrete limites do razoável e adora um drama químico."
-        },
-        "Ferro": {
-            "title": "Ferro (Fe) 🏗️",
-            "emoji": "🏗️",
-            "subtitle": "O Estático (e Chato)",
-            "text": "Você é o Ferro! Concreto, previsível e essencial. Todo mundo te usa, mas ninguém te convida para festas. *Suspiro metálico*."
-        },
-        "Ouro": {
-            "title": "Ouro (Au) 💰",
-            "emoji": "💰",
-            "subtitle": "O Metálico Vaidoso",
-            "text": "Você é o Ouro! Brilha, chama atenção e todo mundo quer um pedaço. Mas cuidado: sob pressão, você amassa fácil."
-        },
-        "Urânio": {
-            "title": "Urânio (U) ☢️",
-            "emoji": "☢️",
-            "subtitle": "O Problemático Radioativo",
-            "text": "Você é o Urânio! Intenso, perigoso e cheio de energia. Ótimo para destruir coisas... e relacionamentos."
-        },
-        "Alumínio": {
-            "title": "Alumínio (Al) 🥤",
-            "emoji": "🥤",
-            "subtitle": "O Reciclável Descartável",
-            "text": "Você é o Alumínio! Leve, útil e... esquecido na geladeira. Pelo menos você é ótimo para virar latinha."
-        },
-        "Chumbo": {
-            "title": "Chumbo (Pb) 🧠",
-            "emoji": "🧠",
-            "subtitle": "O Tóxico Nostálgico",
-            "text": "Você é o Chumbo! Pesado, tóxico e obsoleto. Já foi útil em gasolina, mas hoje só causa dor de cabeça."
-        },
-        "Hélio": {
-            "title": "Hélio (He) 🎈",
-            "emoji": "🎈",
-            "subtitle": "O Leve e Irresponsável",
-            "text": "Você é o Hélio! Leve, divertido e totalmente inútil em crises. Pelo menos faz vozinha de pato!"
-        },
-        "Heavy Metal": {
-            "title": "Heavy Metal 🤘",
-            "emoji": "🤘",
-            "subtitle": "O Clássico Desgrenhado",
-            "text": "Você é o Heavy Metal! Tem barba, jaqueta de couro e um coração cheio de riffs. Só não lava o cabelo desde 1982."
-        },
-        "Death Metal": {
-            "title": "Death Metal 💀",
-            "emoji": "💀",
-            "subtitle": "O Extremo Gritador",
-            "text": "Você é o Death Metal! Grita, growla e assusta os vizinhos. Seu hobby? Colecionar caveiras e desespero."
-        },
-        "Metalcore": {
-            "title": "Metalcore 🎸",
-            "emoji": "🎸",
-            "subtitle": "O Adolescente Revoltado",
-            "text": "Você é o Metalcore! Combina breakdowns pesados com choramingos emocionais. Sua mãe não te entende."
-        },
-        "Power Metal": {
-            "title": "Power Metal ⚡",
-            "emoji": "⚡",
-            "subtitle": "O Herói de Fantasia",
-            "text": "Você é o Power Metal! Canta sobre dragões, espadas e castelos. Nunca saiu do quarto, mas tem um capuz épico."
-        },
-        "Folk Metal": {
-            "title": "Folk Metal 🍺",
-            "emoji": "🍺",
-            "subtitle": "O Bêbado Medieval",
-            "text": "Você é o Folk Metal! Toca gaita de foles, bebe hidromel e dança como um viking... depois da terceira cerveja."
-        },
-        "Nu Metal": {
-            "title": "Nu Metal 😠",
-            "emoji": "😠",
-            "subtitle": "O Teen dos Anos 2000",
-            "text": "Você é o Nu Metal! Usa calça cargo, raiva contida e um boné virado. Sua fase de *Linkin Park* nunca acabou."
-        }
+      "Mercurio": {
+        "title": "Mercurio (Hg) 🌡️",
+        "emoji": "🌡️",
+        "subtitle": "O Líquido Dramático",
+        "text": "Você é o Mercurio! Imprevisível, tóxico e sempre mudando de forma. Derrete limites do razoável e adora um drama químico."
+      },
+      "Ferro": {
+        "title": "Ferro (Fe) 🏗️",
+        "emoji": "🏗️",
+        "subtitle": "O Estático (e Chato)",
+        "text": "Você é o Ferro! Concreto, previsível e essencial. Todo mundo te usa, mas ninguém te convida para festas. *Suspiro metálico*."
+      },
+      "Ouro": {
+        "title": "Ouro (Au) 💰",
+        "emoji": "💰",
+        "subtitle": "O Metálico Vaidoso",
+        "text": "Você é o Ouro! Brilha, chama atenção e todo mundo quer um pedaço. Mas cuidado: sob pressão, você amassa fácil."
+      },
+      "Urânio": {
+        "title": "Urânio (U) ☢️",
+        "emoji": "☢️",
+        "subtitle": "O Problemático Radioativo",
+        "text": "Você é o Urânio! Intenso, perigoso e cheio de energia. Ótimo para destruir coisas... e relacionamentos."
+      },
+      "Alumínio": {
+        "title": "Alumínio (Al) 🥤",
+        "emoji": "🥤",
+        "subtitle": "O Reciclável Descartável",
+        "text": "Você é o Alumínio! Leve, útil e... esquecido na geladeira. Pelo menos você é ótimo para virar latinha."
+      },
+      "Chumbo": {
+        "title": "Chumbo (Pb) 🧠",
+        "emoji": "🧠",
+        "subtitle": "O Tóxico Nostálgico",
+        "text": "Você é o Chumbo! Pesado, tóxico e obsoleto. Já foi útil em gasolina, mas hoje só causa dor de cabeça."
+      },
+      "Hélio": {
+        "title": "Hélio (He) 🎈",
+        "emoji": "🎈",
+        "subtitle": "O Leve e Irresponsável",
+        "text": "Você é o Hélio! Leve, divertido e totalmente inútil em crises. Pelo menos faz vozinha de pato!"
+      },
+      "Heavy Metal": {
+        "title": "Heavy Metal 🤘",
+        "emoji": "🤘",
+        "subtitle": "O Clássico Desgrenhado",
+        "text": "Você é o Heavy Metal! Tem barba, jaqueta de couro e um coração cheio de riffs. Só não lava o cabelo desde 1982."
+      },
+      "Death Metal": {
+        "title": "Death Metal 💀",
+        "emoji": "💀",
+        "subtitle": "O Extremo Gritador",
+        "text": "Você é o Death Metal! Grita, growla e assusta os vizinhos. Seu hobby? Colecionar caveiras e desespero."
+      },
+      "Metalcore": {
+        "title": "Metalcore 🎸",
+        "emoji": "🎸",
+        "subtitle": "O Adolescente Revoltado",
+        "text": "Você é o Metalcore! Combina breakdowns pesados com choramingos emocionais. Sua mãe não te entende."
+      },
+      "Power Metal": {
+        "title": "Power Metal ⚡",
+        "emoji": "⚡",
+        "subtitle": "O Herói de Fantasia",
+        "text": "Você é o Power Metal! Canta sobre dragões, espadas e castelos. Nunca saiu do quarto, mas tem um capuz épico."
+      },
+      "Folk Metal": {
+        "title": "Folk Metal 🍺",
+        "emoji": "🍺",
+        "subtitle": "O Bêbado Medieval",
+        "text": "Você é o Folk Metal! Toca gaita de foles, bebe hidromel e dança como um viking... depois da terceira cerveja."
+      },
+      "Nu Metal": {
+        "title": "Nu Metal 😠",
+        "emoji": "😠",
+        "subtitle": "O Teen dos Anos 2000",
+        "text": "Você é o Nu Metal! Usa calça cargo, raiva contida e um boné virado. Sua fase de *Linkin Park* nunca acabou."
+      }
     }
-}
+  }
