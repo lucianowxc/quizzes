@@ -1,0 +1,588 @@
+{
+    "title": "Qual dinossauro é você?",
+    "subtitle": "Descubra qual dinossauro combina mais com a sua personalidade!",
+    "descriptions": {
+      "t_rex": {
+        "title": "Tyrannosaurus Rex",
+        "emoji": "🦖",
+        "subtitle": "O chefão impiedoso",
+        "text": "Você é o T-Rex! Dominante, intimidador e nada discreto. Quando você entra em um lugar, todos percebem. Você pode ser um pouco mandão e impaciente, mas ninguém duvida do seu poder. Apenas cuidado para não subestimar os pequenos!"
+      },
+      "triceratops": {
+        "title": "Triceratops",
+        "emoji": "🛡️",
+        "subtitle": "O teimoso resiliente",
+        "text": "Você é o Triceratops! Cabeça dura no melhor sentido da palavra. Você não foge de um confronto e é incrivelmente leal aos seus. Pode parecer calmo, mas se alguém te desafia... bom, é melhor essa pessoa estar preparada!"
+      },
+      "velociraptor": {
+        "title": "Velociraptor",
+        "emoji": "⚡",
+        "subtitle": "O estrategista veloz",
+        "text": "Você é um Velociraptor! Inteligente, ágil e sempre um passo à frente dos outros. Você trabalha bem em equipe, mas também sabe agir sozinho quando necessário. Ninguém te pega desprevenido!"
+      },
+      "brachiosaurus": {
+        "title": "Brachiosaurus",
+        "emoji": "🌿",
+        "subtitle": "O tranquilo grandão",
+        "text": "Você é um Brachiosaurus! Calmo, gentil e gigante. Você prefere evitar conflitos e curtir a vida no seu ritmo. Pode parecer ingênuo, mas sua presença por si só já impõe respeito."
+      },
+      "ankylosaurus": {
+        "title": "Ankylosaurus",
+        "emoji": "💥",
+        "subtitle": "O tanque defensivo",
+        "text": "Você é um Ankylosaurus! Forte, resistente e quase inabalável. Você não ataca sem motivo, mas se alguém mexe com você, vai se arrepender. Melhor ser amigo do que inimigo!"
+      },
+      "dilophosaurus": {
+        "title": "Dilophosaurus",
+        "emoji": "🎭",
+        "subtitle": "O imprevisível enganador",
+        "text": "Você é um Dilophosaurus! Ninguém nunca sabe o que esperar de você. Pode parecer amigável, mas quando menos se espera, você surpreende. Criativo e astuto, você usa sua inteligência para se destacar."
+      },
+      "spinosaurus": {
+        "title": "Spinosaurus",
+        "emoji": "🔥",
+        "subtitle": "O solitário feroz",
+        "text": "Você é um Spinosaurus! Independente, forte e destemido. Você prefere fazer as coisas do seu jeito e não liga muito para a opinião dos outros. Quem tenta te enfrentar, geralmente se arrepende."
+      },
+      "stegosaurus": {
+        "title": "Stegosaurus",
+        "emoji": "👀",
+        "subtitle": "O introspectivo resistente",
+        "text": "Você é um Stegosaurus! Reservado e tranquilo, mas quando pressionado, se defende com força. Pode parecer distraído, mas na verdade está sempre observando e absorvendo tudo ao seu redor."
+      },
+      "pterodactylus": {
+        "title": "Pterodactylus",
+        "emoji": "🕊️",
+        "subtitle": "O aventureiro dos céus",
+        "text": "Você é um Pterodactylus! Livre, dinâmico e sempre em busca de novas alturas. Você não gosta de ficar preso a nada e sempre encontra um jeito de escapar de situações complicadas."
+      },
+      "apatosaurus": {
+        "title": "Apatosaurus",
+        "emoji": "🌄",
+        "subtitle": "O pacífico grandalhão",
+        "text": "Você é um Apatosaurus! Tranquilo e paciente, você não tem pressa para nada. Prefere apreciar a jornada ao invés de correr para o destino. Seu jeito calmo esconde uma força incrível."
+      }
+    },
+    "questions": [
+      {
+        "question": "Como você lida com um desafio inesperado?",
+        "answers": [
+          {
+            "text": "🦖 Encaro de frente e mostro quem manda!",
+            "points": {
+              "t_rex": 0.0613,
+              "spinosaurus": 0.0672,
+              "triceratops": 0.0237,
+              "velociraptor": 0.014,
+              "brachiosaurus": 0.0139,
+              "ankylosaurus": 0.0132,
+              "dilophosaurus": 0.0116,
+              "stegosaurus": 0.0105,
+              "pterodactylus": 0.0143,
+              "apatosaurus": 0.0136
+            }
+          },
+          {
+            "text": "⚡ Penso rápido e encontro uma saída estratégica.",
+            "points": {
+              "velociraptor": 0.0606,
+              "dilophosaurus": 0.0773,
+              "t_rex": 0.0138,
+              "triceratops": 0.0139,
+              "brachiosaurus": 0.0137,
+              "ankylosaurus": 0.013,
+              "spinosaurus": 0.0111,
+              "stegosaurus": 0.0104,
+              "pterodactylus": 0.014,
+              "apatosaurus": 0.0134
+            }
+          },
+          {
+            "text": "🌿 Se não me afeta diretamente, sigo meu caminho.",
+            "points": {
+              "brachiosaurus": 0.0592,
+              "apatosaurus": 0.107,
+              "t_rex": 0.0134,
+              "triceratops": 0.0134,
+              "velociraptor": 0.0135,
+              "ankylosaurus": 0.0126,
+              "dilophosaurus": 0.0113,
+              "spinosaurus": 0.011,
+              "stegosaurus": 0.0103,
+              "pterodactylus": 0.0136
+            }
+          },
+          {
+            "text": "💥 Melhor se afastar antes que eu revide.",
+            "points": {
+              "ankylosaurus": 0.0516,
+              "stegosaurus": 0.0612,
+              "t_rex": 0.0145,
+              "triceratops": 0.0146,
+              "velociraptor": 0.0149,
+              "brachiosaurus": 0.0146,
+              "dilophosaurus": 0.0119,
+              "spinosaurus": 0.0116,
+              "pterodactylus": 0.0147,
+              "apatosaurus": 0.0141
+            }
+          }
+        ]
+      },
+      {
+        "question": "Se você pudesse ter uma habilidade especial, qual seria?",
+        "answers": [
+          {
+            "text": "🦷 Mandíbula de aço, pra acabar com qualquer problema.",
+            "points": {
+              "t_rex": 0.713,
+              "spinosaurus": 0.0672,
+              "triceratops": 0.0137,
+              "velociraptor": 0.014,
+              "brachiosaurus": 0.0139,
+              "ankylosaurus": 0.0132,
+              "dilophosaurus": 0.0116,
+              "stegosaurus": 0.0105,
+              "pterodactylus": 0.0143,
+              "apatosaurus": 0.0136
+            }
+          },
+          {
+            "text": "🏃 Velocidade absurda pra escapar ou atacar.",
+            "points": {
+              "velociraptor": 0.0706,
+              "dilophosaurus": 0.0773,
+              "t_rex": 0.0138,
+              "triceratops": 0.0139,
+              "brachiosaurus": 0.0137,
+              "ankylosaurus": 0.013,
+              "spinosaurus": 0.0111,
+              "stegosaurus": 0.0104,
+              "pterodactylus": 0.014,
+              "apatosaurus": 0.0134
+            }
+          },
+          {
+            "text": "🦴 Armadura natural, ninguém me derruba.",
+            "points": {
+              "ankylosaurus": 0.0516,
+              "stegosaurus": 0.0612,
+              "t_rex": 0.0145,
+              "triceratops": 0.0146,
+              "velociraptor": 0.0149,
+              "brachiosaurus": 0.0146,
+              "dilophosaurus": 0.0119,
+              "spinosaurus": 0.0116,
+              "pterodactylus": 0.0147,
+              "apatosaurus": 0.0141
+            }
+          },
+          {
+            "text": "🕊️ Voar livremente e ir para onde quiser.",
+            "points": {
+              "pterodactylus": 0.0578,
+              "t_rex": 0.0124,
+              "triceratops": 0.0125,
+              "velociraptor": 0.0128,
+              "brachiosaurus": 0.0127,
+              "ankylosaurus": 0.0123,
+              "dilophosaurus": 0.011,
+              "spinosaurus": 0.0109,
+              "stegosaurus": 0.0102,
+              "apatosaurus": 0.0129
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual o seu habitat ideal?",
+        "answers": [
+          {
+            "text": "🌋 Um território perigoso e desafiador.",
+            "points": {
+              "t_rex": 0.0713,
+              "spinosaurus": 0.0672,
+              "triceratops": 0.0137,
+              "velociraptor": 0.014,
+              "brachiosaurus": 0.0139,
+              "ankylosaurus": 0.0132,
+              "dilophosaurus": 0.0116,
+              "stegosaurus": 0.0105,
+              "pterodactylus": 0.0143,
+              "apatosaurus": 0.0136
+            }
+          },
+          {
+            "text": "🏜️ Planícies abertas para correr livremente.",
+            "points": {
+              "velociraptor": 0.0606,
+              "triceratops": 0.1297,
+              "t_rex": 0.0129,
+              "brachiosaurus": 0.0127,
+              "ankylosaurus": 0.0122,
+              "dilophosaurus": 0.0108,
+              "spinosaurus": 0.0106,
+              "stegosaurus": 0.0101,
+              "pterodactylus": 0.0129,
+              "apatosaurus": 0.0124
+            }
+          },
+          {
+            "text": "🌊 Próximo à água, bem refrescante.",
+            "points": {
+              "spinosaurus": 0.033,
+              "apatosaurus": 0.1043,
+              "t_rex": 0.014,
+              "triceratops": 0.014,
+              "velociraptor": 0.0143,
+              "brachiosaurus": 0.014,
+              "ankylosaurus": 0.0133,
+              "dilophosaurus": 0.0118,
+              "stegosaurus": 0.0106,
+              "pterodactylus": 0.0142
+            }
+          },
+          {
+            "text": "🏞️ Um lugar tranquilo e cheio de verde.",
+            "points": {
+              "brachiosaurus": 0.0592,
+              "stegosaurus": 0.0625,
+              "t_rex": 0.0143,
+              "triceratops": 0.0144,
+              "velociraptor": 0.0147,
+              "ankylosaurus": 0.0135,
+              "dilophosaurus": 0.0118,
+              "spinosaurus": 0.0114,
+              "pterodactylus": 0.0146,
+              "apatosaurus": 0.0138
+            }
+          }
+        ]
+      },
+      {
+        "question": "Como você reage quando te subestimam?",
+        "answers": [
+          {
+            "text": "😤 Provo que estão errados na marra!",
+            "points": {
+              "t_rex": 0.0713,
+              "spinosaurus": 0.0672,
+              "triceratops": 0.0137,
+              "velociraptor": 0.014,
+              "brachiosaurus": 0.0139,
+              "ankylosaurus": 0.0132,
+              "dilophosaurus": 0.0116,
+              "stegosaurus": 0.0105,
+              "pterodactylus": 0.0143,
+              "apatosaurus": 0.0136
+            }
+          },
+          {
+            "text": "🤭 Deixo acharem que têm vantagem... e depois surpreendo.",
+            "points": {
+              "velociraptor": 0.0606,
+              "dilophosaurus": 0.0773,
+              "t_rex": 0.0138,
+              "triceratops": 0.0139,
+              "brachiosaurus": 0.0137,
+              "ankylosaurus": 0.013,
+              "spinosaurus": 0.0111,
+              "stegosaurus": 0.0104,
+              "pterodactylus": 0.014,
+              "apatosaurus": 0.0134
+            }
+          },
+          {
+            "text": "😌 Não perco meu tempo com gente que não me entende.",
+            "points": {
+              "apatosaurus": 0.0483,
+              "brachiosaurus": 0.1352,
+              "t_rex": 0.0132,
+              "triceratops": 0.013,
+              "velociraptor": 0.0132,
+              "ankylosaurus": 0.0124,
+              "dilophosaurus": 0.011,
+              "spinosaurus": 0.0108,
+              "stegosaurus": 0.0101,
+              "pterodactylus": 0.0132
+            }
+          },
+          {
+            "text": "💪 Ignoro, mas se insistirem, vão se arrepender.",
+            "points": {
+              "ankylosaurus": 0.0516,
+              "triceratops": 0.1361,
+              "t_rex": 0.0131,
+              "velociraptor": 0.0131,
+              "brachiosaurus": 0.0128,
+              "dilophosaurus": 0.0109,
+              "spinosaurus": 0.0106,
+              "stegosaurus": 0.01,
+              "pterodactylus": 0.013,
+              "apatosaurus": 0.0126
+            }
+          }
+        ]
+      },
+      {
+        "question": "Se você pudesse ter uma habilidade especial, qual seria?",
+        "answers": [
+          {
+            "text": "🦷 Mandíbula de aço, pra acabar com qualquer problema.",
+            "points": {
+              "t_rex": 0.0813,
+              "spinosaurus": 0.0672,
+              "triceratops": 0.0137,
+              "velociraptor": 0.014,
+              "brachiosaurus": 0.0139,
+              "ankylosaurus": 0.0132,
+              "dilophosaurus": 0.0116,
+              "stegosaurus": 0.0105,
+              "pterodactylus": 0.0143,
+              "apatosaurus": 0.0136
+            }
+          },
+          {
+            "text": "🏃 Velocidade absurda pra escapar ou atacar.",
+            "points": {
+              "velociraptor": 0.0606,
+              "dilophosaurus": 0.0773,
+              "t_rex": 0.0138,
+              "triceratops": 0.0139,
+              "brachiosaurus": 0.0137,
+              "ankylosaurus": 0.013,
+              "spinosaurus": 0.0111,
+              "stegosaurus": 0.0104,
+              "pterodactylus": 0.014,
+              "apatosaurus": 0.0134
+            }
+          },
+          {
+            "text": "🦴 Armadura natural, ninguém me derruba.",
+            "points": {
+              "ankylosaurus": 0.0516,
+              "stegosaurus": 0.0612,
+              "t_rex": 0.0145,
+              "triceratops": 0.0146,
+              "velociraptor": 0.0149,
+              "brachiosaurus": 0.0146,
+              "dilophosaurus": 0.0119,
+              "spinosaurus": 0.0116,
+              "pterodactylus": 0.0147,
+              "apatosaurus": 0.0141
+            }
+          },
+          {
+            "text": "🕊️ Voar livremente e ir para onde quiser.",
+            "points": {
+              "pterodactylus": 0.0578,
+              "t_rex": 0.0124,
+              "triceratops": 0.0125,
+              "velociraptor": 0.0128,
+              "brachiosaurus": 0.0127,
+              "ankylosaurus": 0.0123,
+              "dilophosaurus": 0.011,
+              "spinosaurus": 0.0109,
+              "stegosaurus": 0.0102,
+              "apatosaurus": 0.0129
+            }
+          }
+        ]
+      },
+      {
+        "question": "O que te irrita mais?",
+        "answers": [
+          {
+            "text": "👑 Gente querendo mandar em mim!",
+            "points": {
+              "t_rex": 0.0713,
+              "spinosaurus": 0.0672,
+              "triceratops": 0.0137,
+              "velociraptor": 0.014,
+              "brachiosaurus": 0.0139,
+              "ankylosaurus": 0.0132,
+              "dilophosaurus": 0.0116,
+              "stegosaurus": 0.0105,
+              "pterodactylus": 0.0143,
+              "apatosaurus": 0.0136
+            }
+          },
+          {
+            "text": "🐌 Lerdeza e falta de inteligência.",
+            "points": {
+              "velociraptor": 0.0906,
+              "dilophosaurus": 0.0773,
+              "t_rex": 0.0238,
+              "triceratops": 0.0139,
+              "brachiosaurus": 0.0137,
+              "ankylosaurus": 0.013,
+              "spinosaurus": 0.0111,
+              "stegosaurus": 0.0104,
+              "pterodactylus": 0.014,
+              "apatosaurus": 0.0134
+            }
+          },
+          {
+            "text": "🚧 Quando não me deixam em paz.",
+            "points": {
+              "brachiosaurus": 0.0592,
+              "apatosaurus": 0.107,
+              "t_rex": 0.0134,
+              "triceratops": 0.0134,
+              "velociraptor": 0.0135,
+              "ankylosaurus": 0.0126,
+              "dilophosaurus": 0.0113,
+              "spinosaurus": 0.011,
+              "stegosaurus": 0.0103,
+              "pterodactylus": 0.0136
+            }
+          },
+          {
+            "text": "🤬 Falta de respeito e intrometidos.",
+            "points": {
+              "triceratops": 0.0627,
+              "ankylosaurus": 0.0874,
+              "stegosaurus": 0.0964,
+              "t_rex": 0.0144,
+              "velociraptor": 0.0145,
+              "brachiosaurus": 0.0142,
+              "dilophosaurus": 0.0116,
+              "spinosaurus": 0.0113,
+              "pterodactylus": 0.014,
+              "apatosaurus": 0.0132
+            }
+          }
+        ]
+      },
+      {
+        "question": "Se fosse um dinossauro em um filme, qual seria seu papel?",
+        "answers": [
+          {
+            "text": "🎬 O vilão icônico que todos temem.",
+            "points": {
+              "t_rex": 0.0613,
+              "spinosaurus": 0.0672,
+              "triceratops": 0.0137,
+              "velociraptor": 0.014,
+              "brachiosaurus": 0.0139,
+              "ankylosaurus": 0.0132,
+              "dilophosaurus": 0.0116,
+              "stegosaurus": 0.0105,
+              "pterodactylus": 0.0143,
+              "apatosaurus": 0.0136
+            }
+          },
+          {
+            "text": "🏆 O estrategista que engana os adversários.",
+            "points": {
+              "velociraptor": 0.0606,
+              "dilophosaurus": 0.0773,
+              "t_rex": 0.0138,
+              "triceratops": 0.0139,
+              "brachiosaurus": 0.0137,
+              "ankylosaurus": 0.013,
+              "spinosaurus": 0.0111,
+              "stegosaurus": 0.0104,
+              "pterodactylus": 0.014,
+              "apatosaurus": 0.0134
+            }
+          },
+          {
+            "text": "🛡️ O herói durão que protege os fracos.",
+            "points": {
+              "triceratops": 0.0627,
+              "ankylosaurus": 0.1203,
+              "t_rex": 0.0131,
+              "velociraptor": 0.0131,
+              "brachiosaurus": 0.0129,
+              "dilophosaurus": 0.0108,
+              "spinosaurus": 0.0106,
+              "stegosaurus": 0.01,
+              "pterodactylus": 0.013,
+              "apatosaurus": 0.0126
+            }
+          },
+          {
+            "text": "🌄 O gigante gentil que prefere ficar na dele.",
+            "points": {
+              "brachiosaurus": 0.0592,
+              "apatosaurus": 0.068,
+              "pterodactylus": 0.1328,
+              "stegosaurus": 0.1396,
+              "t_rex": 0.0142,
+              "triceratops": 0.0141,
+              "velociraptor": 0.0144,
+              "ankylosaurus": 0.0132,
+              "dilophosaurus": 0.0116,
+              "spinosaurus": 0.0112
+            }
+          }
+        ]
+      },
+      {
+        "question": "Se você vivesse no mundo de hoje, como se descreveria?",
+        "answers": [
+          {
+            "text": "👑 \"O rei/rainha do meu próprio território!\"",
+            "points": {
+              "t_rex": 0.0613,
+              "spinosaurus": 0.0672,
+              "triceratops": 0.0137,
+              "velociraptor": 0.014,
+              "brachiosaurus": 0.0139,
+              "ankylosaurus": 0.0132,
+              "dilophosaurus": 0.0116,
+              "stegosaurus": 0.0105,
+              "pterodactylus": 0.0143,
+              "apatosaurus": 0.0136
+            }
+          },
+          {
+            "text": "🎭 \"Mente afiada, sempre um passo à frente.\"",
+            "points": {
+              "velociraptor": 0.0606,
+              "dilophosaurus": 0.0773,
+              "t_rex": 0.0138,
+              "triceratops": 0.0139,
+              "brachiosaurus": 0.0137,
+              "ankylosaurus": 0.013,
+              "spinosaurus": 0.0111,
+              "stegosaurus": 0.0104,
+              "pterodactylus": 0.014,
+              "apatosaurus": 0.0134
+            }
+          },
+          {
+            "text": "🌿 \"Tranquilo, curtindo meu espaço sem pressa.\"",
+            "points": {
+              "apatosaurus": 0.0483,
+              "brachiosaurus": 0.0951,
+              "pterodactylus": 0.1946,
+              "t_rex": 0.0135,
+              "triceratops": 0.0132,
+              "velociraptor": 0.0134,
+              "ankylosaurus": 0.0125,
+              "dilophosaurus": 0.0112,
+              "spinosaurus": 0.0109,
+              "stegosaurus": 0.0102
+            }
+          },
+          {
+            "text": "🛡️ \"Firme, leal e pronto para qualquer coisa.\"",
+            "points": {
+              "triceratops": 0.0627,
+              "ankylosaurus": 0.0874,
+              "stegosaurus": 0.0964,
+              "t_rex": 0.0144,
+              "velociraptor": 0.0145,
+              "brachiosaurus": 0.0142,
+              "dilophosaurus": 0.0116,
+              "spinosaurus": 0.0113,
+              "pterodactylus": 0.014,
+              "apatosaurus": 0.0132
+            }
+          }
+        ]
+      }
+    ]
+  }
