@@ -329,6 +329,11 @@
             "name": "Qual pecado capital você cometeria no carnaval?",
             "file": "quizzes/quizCarnaval.json",
             "description": "Descubra qual pecado capital dominaria sua folia no carnaval! Será que você é o Rei da Soberba ou o Devorador da Gula? Faça o teste e descubra!"
+        },
+        {
+            "name": "Qual dragão famoso você seria?",
+            "file": "quizzes/quizDragoes.json",
+            "description": "Descubra qual dragão lendário combina com sua personalidade (e prepare suas asas para o resultado!)"
         }
     ]
 }

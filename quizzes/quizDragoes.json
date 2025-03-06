@@ -1,0 +1,588 @@
+{
+    "title": "Qual Dragão famoso você seria?",
+    "subtitle": "Descubra qual dragão lendário combina com sua personalidade (e prepare suas asas para o resultado!) 🐉",
+    "descriptions": {
+      "smaug": {
+        "title": "Smaug (O Hobbit)",
+        "emoji": "💰",
+        "subtitle": "O Senhor da Montanha Solitária",
+        "text": "Você é Smaug! Astuto, ambicioso e um pouco... *ahem*... apegado ao seu ouro. Ninguém mexe no seu tesouro e sai ileso!"
+      },
+      "drogon": {
+        "title": "Drogon (Game of Thrones)",
+        "emoji": "🔥",
+        "subtitle": "A Chama da Revolução",
+        "text": "Você é Drogon! Imprevisível, poderoso e leal apenas àqueles que merecem. Melhor não estar no seu caminho quando você está com fome!"
+      },
+      "banguela": {
+        "title": "Banguela (Como Treinar o Seu Dragão)",
+        "emoji": "🐉✨",
+        "subtitle": "O Alfa Noturno",
+        "text": "Você é Banguela! Leal, estrategista e com um coração maior que suas asas. Sua equipe é sua família, e você protege ela com unhas (e dentes)!"
+      },
+      "dragão_branco": {
+        "title": "Dragão Branco de Olhos Azuis (Yu-Gi-Oh!)",
+        "emoji": "❄️👁️",
+        "subtitle": "A Lenda Congelada",
+        "text": "Você é o Dragão Branco! Raro, majestoso e um pouco dramático. Seu olhar gelado derrete até os corações mais duros."
+      },
+      "dragonite": {
+        "title": "Dragonite (Pokémon)",
+        "emoji": "🍯🌪️",
+        "subtitle": "O Gigante Gentil",
+        "text": "Você é Dragonite! Forte, bondoso e sempre pronto para um abraço (ou um furacão, se necessário). Sua doçura esconde um poder colossal!"
+      },
+      "shenlong": {
+        "title": "Shenlong (Dragon Ball)",
+        "emoji": "🐲🌩️",
+        "subtitle": "O Deus dos Desejos",
+        "text": "Você é Shenlong! Místico, sábio e um pouquinho *exigente*. Só aparece quando chamado... e só concede desejos se estiver de bom humor!"
+      },
+      "mushu": {
+        "title": "Mushu (Mulan)",
+        "emoji": "🐉🎭",
+        "subtitle": "O Dragão Teatro",
+        "text": "Você é Mushu! Extrovertido, engraçado e um tanto... caótico. Sua missão? Proteger sua família (e roubar a cena sempre que possível)!"
+      },
+      "falkor": {
+        "title": "Falkor (A História Sem Fim)",
+        "emoji": "☁️🌟",
+        "subtitle": "O Dragão da Sorte",
+        "text": "Você é Falkor! Otimista, brincalhão e cheio de sorte. Nuvens tempestuosas? Não para você! Você vê oportunidades até no caos."
+      },
+      "tiamat": {
+        "title": "Tiamat (Dungeons & Dragons)",
+        "emoji": "🐉⚔️",
+        "subtitle": "A Mãe dos Dragões",
+        "text": "Você é Tiamat! Imponente, multitarefa e *ligeiramente* vingativa. Cinco cabeças pensam melhor que uma, certo?"
+      },
+      "paarthurnax": {
+        "title": "Paarthurnax (The Elder Scrolls V: Skyrim)",
+        "emoji": "🗻☯️",
+        "subtitle": "O Sábio da Montanha",
+        "text": "Você é Paarthurnax! Filosófico, pacífico e com um passado... interessante. Sua sabedoria é tão grande quanto sua paciência para meditar."
+      }
+    },
+    "questions": [
+      {
+        "question": "Um herói invade seu território. Sua primeira reação é:",
+        "answers": [
+          {
+            "text": "💰 Desafiar para um jogo de charadas (e rir da cara dele)",
+            "points": {
+              "smaug": 0.1358,
+              "mushu": 0.0992,
+              "drogon": 0.0054,
+              "banguela": 0.0059,
+              "dragão_branco": 0.0069,
+              "dragonite": 0.0067,
+              "shenlong": 0.0079,
+              "falkor": 0.0076,
+              "tiamat": 0.0075,
+              "paarthurnax": 0.0052
+            }
+          },
+          {
+            "text": "🔥 Atacar sem aviso (diplomacia? Nunca ouvi falar)",
+            "points": {
+              "drogon": 0.154,
+              "smaug": 0.0076,
+              "banguela": 0.0076,
+              "dragão_branco": 0.0088,
+              "dragonite": 0.0086,
+              "shenlong": 0.0101,
+              "mushu": 0.0083,
+              "falkor": 0.0097,
+              "tiamat": 0.0093,
+              "paarthurnax": 0.0065
+            }
+          },
+          {
+            "text": "🐉✨ Observar de longe e planejar uma estratégia",
+            "points": {
+              "banguela": 0.118,
+              "paarthurnax": 0.0955,
+              "smaug": 0.0063,
+              "drogon": 0.0058,
+              "dragão_branco": 0.0074,
+              "dragonite": 0.0072,
+              "shenlong": 0.0085,
+              "mushu": 0.007,
+              "falkor": 0.0083,
+              "tiamat": 0.008
+            }
+          },
+          {
+            "text": "🗻☯️ Perguntar: 'Você veio para lutar ou aprender?'",
+            "points": {
+              "paarthurnax": 0.1387,
+              "smaug": 0.0081,
+              "drogon": 0.0074,
+              "banguela": 0.0081,
+              "dragão_branco": 0.0095,
+              "dragonite": 0.0092,
+              "shenlong": 0.0107,
+              "mushu": 0.0089,
+              "falkor": 0.0102,
+              "tiamat": 0.0099
+            }
+          }
+        ]
+      },
+      {
+        "question": "Como você resolve conflitos na sua comunidade?",
+        "answers": [
+          {
+            "text": "🍯🌪️ Ajudo todos a se unirem (com um abraço coletivo)",
+            "points": {
+              "dragonite": 0.1686,
+              "falkor": 0.0711,
+              "smaug": 0.0058,
+              "drogon": 0.0054,
+              "banguela": 0.006,
+              "dragão_branco": 0.0069,
+              "shenlong": 0.0078,
+              "mushu": 0.0065,
+              "tiamat": 0.0074,
+              "paarthurnax": 0.0051
+            }
+          },
+          {
+            "text": "❄️👁️ Congelo o problema até todos se acalmarem",
+            "points": {
+              "dragão_branco": 0.194,
+              "smaug": 0.0067,
+              "drogon": 0.0061,
+              "banguela": 0.0067,
+              "dragonite": 0.0076,
+              "shenlong": 0.0089,
+              "mushu": 0.0074,
+              "falkor": 0.0086,
+              "tiamat": 0.0082,
+              "paarthurnax": 0.0058
+            }
+          },
+          {
+            "text": "🐲🌩️ Apareço só quando me chamam (e cobro um favor)",
+            "points": {
+              "shenlong": 0.2175,
+              "smaug": 0.0061,
+              "drogon": 0.0056,
+              "banguela": 0.0061,
+              "dragão_branco": 0.0072,
+              "dragonite": 0.007,
+              "mushu": 0.0068,
+              "falkor": 0.008,
+              "tiamat": 0.0077,
+              "paarthurnax": 0.0053
+            }
+          },
+          {
+            "text": "⚔️ Divido o grupo e assumo o controle",
+            "points": {
+              "tiamat": 0.1611,
+              "drogon": 0.0815,
+              "smaug": 0.0058,
+              "banguela": 0.0058,
+              "dragão_branco": 0.0068,
+              "dragonite": 0.0066,
+              "shenlong": 0.0077,
+              "mushu": 0.0064,
+              "falkor": 0.0075,
+              "paarthurnax": 0.005
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual dessas atividades combina mais com você?",
+        "answers": [
+          {
+            "text": "🎭 Fazer piadas para distrair os inimigos",
+            "points": {
+              "mushu": 0.1803,
+              "smaug": 0.0069,
+              "drogon": 0.0063,
+              "banguela": 0.007,
+              "dragão_branco": 0.0082,
+              "dragonite": 0.0079,
+              "shenlong": 0.0092,
+              "falkor": 0.0089,
+              "tiamat": 0.0086,
+              "paarthurnax": 0.0059
+            }
+          },
+          {
+            "text": "🌟 Ensinar lições de vida a jovens aventureiros",
+            "points": {
+              "falkor": 0.1256,
+              "paarthurnax": 0.1061,
+              "smaug": 0.006,
+              "drogon": 0.0055,
+              "banguela": 0.0061,
+              "dragão_branco": 0.0071,
+              "dragonite": 0.0069,
+              "shenlong": 0.0081,
+              "mushu": 0.0068,
+              "tiamat": 0.0076
+            }
+          },
+          {
+            "text": "☁️ Voar por horas só para sentir o vento",
+            "points": {
+              "banguela": 0.118,
+              "dragonite": 0.1278,
+              "smaug": 0.0057,
+              "drogon": 0.0053,
+              "dragão_branco": 0.0067,
+              "shenlong": 0.0076,
+              "mushu": 0.0063,
+              "falkor": 0.0074,
+              "tiamat": 0.0072,
+              "paarthurnax": 0.005
+            }
+          },
+          {
+            "text": "💎 Colecionar objetos raros (de preferência brilhantes)",
+            "points": {
+              "smaug": 0.1693,
+              "drogon": 0.0065,
+              "banguela": 0.0072,
+              "dragão_branco": 0.0083,
+              "dragonite": 0.0081,
+              "shenlong": 0.0095,
+              "mushu": 0.0079,
+              "falkor": 0.0092,
+              "tiamat": 0.0089,
+              "paarthurnax": 0.0061
+            }
+          }
+        ]
+      },
+      {
+        "question": "O que você mais valoriza em um aliado?",
+        "answers": [
+          {
+            "text": "🔥 Força bruta e coragem sem limites",
+            "points": {
+              "drogon": 0.1387,
+              "tiamat": 0.0742,
+              "smaug": 0.0063,
+              "banguela": 0.0064,
+              "dragão_branco": 0.0074,
+              "dragonite": 0.0072,
+              "shenlong": 0.0085,
+              "mushu": 0.007,
+              "falkor": 0.0083,
+              "paarthurnax": 0.0055
+            }
+          },
+          {
+            "text": "✨ Lealdade acima de tudo",
+            "points": {
+              "banguela": 0.1678,
+              "smaug": 0.0072,
+              "drogon": 0.0066,
+              "dragão_branco": 0.0084,
+              "dragonite": 0.0082,
+              "shenlong": 0.0095,
+              "mushu": 0.0079,
+              "falkor": 0.0093,
+              "tiamat": 0.0089,
+              "paarthurnax": 0.0062
+            }
+          },
+          {
+            "text": "🌩️ Sabedoria para resolver problemas",
+            "points": {
+              "shenlong": 0.153,
+              "paarthurnax": 0.09,
+              "smaug": 0.0057,
+              "drogon": 0.0053,
+              "banguela": 0.0059,
+              "dragão_branco": 0.0069,
+              "dragonite": 0.0067,
+              "mushu": 0.0065,
+              "falkor": 0.0075,
+              "tiamat": 0.0073
+            }
+          },
+          {
+            "text": "🎭 Um bom senso de humor (mesmo em crise)",
+            "points": {
+              "mushu": 0.1803,
+              "smaug": 0.0069,
+              "drogon": 0.0063,
+              "banguela": 0.007,
+              "dragão_branco": 0.0082,
+              "dragonite": 0.0079,
+              "shenlong": 0.0092,
+              "falkor": 0.0089,
+              "tiamat": 0.0086,
+              "paarthurnax": 0.0059
+            }
+          }
+        ]
+      },
+      {
+        "question": "Como você reage a uma ameaça ao seu poder?",
+        "answers": [
+          {
+            "text": "⚔️ Envio cinco exércitos diferentes resolverem",
+            "points": {
+              "tiamat": 0.2009,
+              "smaug": 0.0064,
+              "drogon": 0.0059,
+              "banguela": 0.0065,
+              "dragão_branco": 0.0076,
+              "dragonite": 0.0074,
+              "shenlong": 0.0087,
+              "mushu": 0.0072,
+              "falkor": 0.0084,
+              "paarthurnax": 0.0057
+            }
+          },
+          {
+            "text": "❄️ Congelo o problema até ele se render",
+            "points": {
+              "dragão_branco": 0.1556,
+              "smaug": 0.093,
+              "drogon": 0.0052,
+              "banguela": 0.0058,
+              "dragonite": 0.0065,
+              "shenlong": 0.0076,
+              "mushu": 0.0063,
+              "falkor": 0.0073,
+              "tiamat": 0.0071,
+              "paarthurnax": 0.005
+            }
+          },
+          {
+            "text": "☯️ Convido o inimigo para um debate filosófico",
+            "points": {
+              "paarthurnax": 0.1387,
+              "smaug": 0.0081,
+              "drogon": 0.0074,
+              "banguela": 0.0081,
+              "dragão_branco": 0.0095,
+              "dragonite": 0.0092,
+              "shenlong": 0.0107,
+              "mushu": 0.0089,
+              "falkor": 0.0102,
+              "tiamat": 0.0099
+            }
+          },
+          {
+            "text": "🌟 Dou sorte aos meus amigos para lidarem com isso",
+            "points": {
+              "falkor": 0.2078,
+              "smaug": 0.0063,
+              "drogon": 0.0058,
+              "banguela": 0.0064,
+              "dragão_branco": 0.0074,
+              "dragonite": 0.0073,
+              "shenlong": 0.0085,
+              "mushu": 0.007,
+              "tiamat": 0.0079,
+              "paarthurnax": 0.0055
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual ambiente você prefere para relaxar?",
+        "answers": [
+          {
+            "text": "🏔️ O pico mais alto de uma montanha isolada",
+            "points": {
+              "smaug": 0.1022,
+              "dragão_branco": 0.1497,
+              "drogon": 0.0052,
+              "banguela": 0.0057,
+              "dragonite": 0.0064,
+              "shenlong": 0.0075,
+              "mushu": 0.0063,
+              "falkor": 0.0073,
+              "tiamat": 0.0071,
+              "paarthurnax": 0.0049
+            }
+          },
+          {
+            "text": "🌋 Um vulcão ativo (com lava de fundo musical)",
+            "points": {
+              "drogon": 0.154,
+              "smaug": 0.0076,
+              "banguela": 0.0076,
+              "dragão_branco": 0.0088,
+              "dragonite": 0.0086,
+              "shenlong": 0.0101,
+              "mushu": 0.0083,
+              "falkor": 0.0097,
+              "tiamat": 0.0093,
+              "paarthurnax": 0.0065
+            }
+          },
+          {
+            "text": "🍃 Uma floresta cheia de criaturas para proteger",
+            "points": {
+              "dragonite": 0.1501,
+              "banguela": 0.0909,
+              "smaug": 0.0058,
+              "drogon": 0.0054,
+              "dragão_branco": 0.0068,
+              "shenlong": 0.0077,
+              "mushu": 0.0064,
+              "falkor": 0.0075,
+              "tiamat": 0.0073,
+              "paarthurnax": 0.0051
+            }
+          },
+          {
+            "text": "☁️ Nuvens macias (de preferência com formato de dragão)",
+            "points": {
+              "falkor": 0.2078,
+              "smaug": 0.0063,
+              "drogon": 0.0058,
+              "banguela": 0.0064,
+              "dragão_branco": 0.0074,
+              "dragonite": 0.0073,
+              "shenlong": 0.0085,
+              "mushu": 0.007,
+              "tiamat": 0.0079,
+              "paarthurnax": 0.0055
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual frase você mais diria em uma reunião de dragões?",
+        "answers": [
+          {
+            "text": "💎 'Isso vai custar o dobro do meu tesouro...'",
+            "points": {
+              "smaug": 0.1693,
+              "drogon": 0.0065,
+              "banguela": 0.0072,
+              "dragão_branco": 0.0083,
+              "dragonite": 0.0081,
+              "shenlong": 0.0095,
+              "mushu": 0.0079,
+              "falkor": 0.0092,
+              "tiamat": 0.0089,
+              "paarthurnax": 0.0061
+            }
+          },
+          {
+            "text": "🌪️ 'Quem quer um abraço? (Não responda não)'",
+            "points": {
+              "dragonite": 0.1872,
+              "smaug": 0.0067,
+              "drogon": 0.0062,
+              "banguela": 0.0068,
+              "dragão_branco": 0.008,
+              "shenlong": 0.009,
+              "mushu": 0.0075,
+              "falkor": 0.0087,
+              "tiamat": 0.0084,
+              "paarthurnax": 0.0059
+            }
+          },
+          {
+            "text": "👑 'Respeitem minha autoridade ou ardam!'",
+            "points": {
+              "tiamat": 0.181,
+              "drogon": 0.0514,
+              "smaug": 0.006,
+              "banguela": 0.006,
+              "dragão_branco": 0.007,
+              "dragonite": 0.0068,
+              "shenlong": 0.008,
+              "mushu": 0.0067,
+              "falkor": 0.0078,
+              "paarthurnax": 0.0052
+            }
+          },
+          {
+            "text": "🌀 'Já pensaram em... *ignorar* as regras?'",
+            "points": {
+              "mushu": 0.1803,
+              "smaug": 0.0069,
+              "drogon": 0.0063,
+              "banguela": 0.007,
+              "dragão_branco": 0.0082,
+              "dragonite": 0.0079,
+              "shenlong": 0.0092,
+              "falkor": 0.0089,
+              "tiamat": 0.0086,
+              "paarthurnax": 0.0059
+            }
+          }
+        ]
+      },
+      {
+        "question": "Qual é seu maior objetivo de vida?",
+        "answers": [
+          {
+            "text": "🌄 Proteger meu território e quem eu amo",
+            "points": {
+              "banguela": 0.1678,
+              "smaug": 0.0072,
+              "drogon": 0.0066,
+              "dragão_branco": 0.0084,
+              "dragonite": 0.0082,
+              "shenlong": 0.0095,
+              "mushu": 0.0079,
+              "falkor": 0.0093,
+              "tiamat": 0.0089,
+              "paarthurnax": 0.0062
+            }
+          },
+          {
+            "text": "🏆 Ser lembrado como o dragão mais poderoso",
+            "points": {
+              "drogon": 0.1082,
+              "dragão_branco": 0.1344,
+              "smaug": 0.0058,
+              "banguela": 0.0058,
+              "dragonite": 0.0066,
+              "shenlong": 0.0077,
+              "mushu": 0.0064,
+              "falkor": 0.0074,
+              "tiamat": 0.0072,
+              "paarthurnax": 0.005
+            }
+          },
+          {
+            "text": "🕊️ Encontrar paz interior (e um bom chá)",
+            "points": {
+              "paarthurnax": 0.1387,
+              "smaug": 0.0081,
+              "drogon": 0.0074,
+              "banguela": 0.0081,
+              "dragão_branco": 0.0095,
+              "dragonite": 0.0092,
+              "shenlong": 0.0107,
+              "mushu": 0.0089,
+              "falkor": 0.0102,
+              "tiamat": 0.0099
+            }
+          },
+          {
+            "text": "🎉 Virar lenda em *todas* as dimensões",
+            "points": {
+              "shenlong": 0.2175,
+              "smaug": 0.0061,
+              "drogon": 0.0056,
+              "banguela": 0.0061,
+              "dragão_branco": 0.0072,
+              "dragonite": 0.007,
+              "mushu": 0.0068,
+              "falkor": 0.008,
+              "tiamat": 0.0077,
+              "paarthurnax": 0.0053
+            }
+          }
+        ]
+      }
+    ]
+  }
