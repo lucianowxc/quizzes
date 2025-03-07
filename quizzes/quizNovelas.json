@@ -1,0 +1,754 @@
+{
+    "title": "Você seria um personagem de qual novela das oito?",
+    "subtitle": "Descubra qual novela clássica da Globo combina com sua personalidade! ✨",
+    "questions": [
+      {
+        "question": "🌴 Onde você passaria suas férias dos sonhos?",
+        "answers": [
+          {
+            "text": "Praia paradisíaca com amigos animados 🏖️",
+            "points": {
+              "paraiso_tropical": 0.0518,
+              "america": 0.0685,
+              "celebridade": 0.0746,
+              "senhora_destino": 0.0053,
+              "laços_familia": 0.0064,
+              "mulheres_apaixonadas": 0.0047,
+              "a_favorita": 0.004,
+              "caminho_indias": 0.005,
+              "avenida_brasil": 0.0061,
+              "o_clone": 0.0042,
+              "belissima": 0.0041
+            }
+          },
+          {
+            "text": "Resort luxuoso cheio de celebridades ✨",
+            "points": {
+              "celebridade": 0.0828,
+              "belissima": 0.0948,
+              "senhora_destino": 0.0058,
+              "laços_familia": 0.007,
+              "mulheres_apaixonadas": 0.0052,
+              "a_favorita": 0.0045,
+              "caminho_indias": 0.0054,
+              "paraiso_tropical": 0.0045,
+              "avenida_brasil": 0.0068,
+              "o_clone": 0.0048,
+              "america": 0.0048
+            }
+          },
+          {
+            "text": "Cidade histórica cheia de mistérios 🏰",
+            "points": {
+              "laços_familia": 0.0738,
+              "o_clone": 0.062,
+              "senhora_destino": 0.005,
+              "celebridade": 0.0049,
+              "mulheres_apaixonadas": 0.0045,
+              "a_favorita": 0.0039,
+              "caminho_indias": 0.0048,
+              "paraiso_tropical": 0.004,
+              "avenida_brasil": 0.006,
+              "belissima": 0.004,
+              "america": 0.0043
+            }
+          },
+          {
+            "text": "Chácara aconchegante com a família 🌾",
+            "points": {
+              "mulheres_apaixonadas": 0.0683,
+              "senhora_destino": 0.0807,
+              "celebridade": 0.0046,
+              "laços_familia": 0.006,
+              "a_favorita": 0.0037,
+              "caminho_indias": 0.0047,
+              "paraiso_tropical": 0.0039,
+              "avenida_brasil": 0.0059,
+              "o_clone": 0.0041,
+              "belissima": 0.004,
+              "america": 0.0043
+            }
+          },
+          {
+            "text": "Metrópole movimentada e cheia de oportunidades 🌆",
+            "points": {
+              "a_favorita": 0.0653,
+              "belissima": 0.0844,
+              "senhora_destino": 0.0061,
+              "celebridade": 0.0057,
+              "laços_familia": 0.0074,
+              "mulheres_apaixonadas": 0.0055,
+              "caminho_indias": 0.0057,
+              "paraiso_tropical": 0.0048,
+              "avenida_brasil": 0.0071,
+              "o_clone": 0.005,
+              "america": 0.005
+            }
+          }
+        ]
+      },
+      {
+        "question": "💥 Como você lida com um conflito no trabalho?",
+        "answers": [
+          {
+            "text": "Tento mediar a paz e entender todos os lados 🤝",
+            "points": {
+              "senhora_destino": 0.0793,
+              "o_clone": 0.0865,
+              "celebridade": 0.0054,
+              "laços_familia": 0.007,
+              "mulheres_apaixonadas": 0.0051,
+              "a_favorita": 0.0044,
+              "caminho_indias": 0.0054,
+              "paraiso_tropical": 0.0046,
+              "avenida_brasil": 0.0068,
+              "belissima": 0.0045,
+              "america": 0.0047
+            }
+          },
+          {
+            "text": "Faço uma jogada ousada para sair por cima 🎭",
+            "points": {
+              "a_favorita": 0.0653,
+              "belissima": 0.1015,
+              "senhora_destino": 0.0064,
+              "celebridade": 0.006,
+              "laços_familia": 0.0078,
+              "mulheres_apaixonadas": 0.0057,
+              "caminho_indias": 0.0059,
+              "paraiso_tropical": 0.005,
+              "avenida_brasil": 0.0073,
+              "o_clone": 0.0052,
+              "america": 0.0051
+            }
+          },
+          {
+            "text": "Uso meu charme para desarmar a situação 😏",
+            "points": {
+              "celebridade": 0.0664,
+              "paraiso_tropical": 0.0788,
+              "senhora_destino": 0.0055,
+              "laços_familia": 0.0067,
+              "mulheres_apaixonadas": 0.0048,
+              "a_favorita": 0.0042,
+              "caminho_indias": 0.0052,
+              "avenida_brasil": 0.0064,
+              "o_clone": 0.0044,
+              "belissima": 0.0044,
+              "america": 0.0046
+            }
+          },
+          {
+            "text": "Bato de frente e defendo meu ponto até o fim ⚔️",
+            "points": {
+              "mulheres_apaixonadas": 0.0533,
+              "avenida_brasil": 0.1114,
+              "senhora_destino": 0.0051,
+              "celebridade": 0.0048,
+              "laços_familia": 0.0062,
+              "a_favorita": 0.004,
+              "caminho_indias": 0.0048,
+              "paraiso_tropical": 0.004,
+              "o_clone": 0.0042,
+              "belissima": 0.004,
+              "america": 0.0043
+            }
+          },
+          {
+            "text": "Recorro aos amigos para ajudar a resolver 👫",
+            "points": {
+              "america": 0.0519,
+              "caminho_indias": 0.0841,
+              "senhora_destino": 0.0054,
+              "celebridade": 0.0051,
+              "laços_familia": 0.0066,
+              "mulheres_apaixonadas": 0.0048,
+              "a_favorita": 0.0042,
+              "paraiso_tropical": 0.0042,
+              "avenida_brasil": 0.0063,
+              "o_clone": 0.0045,
+              "belissima": 0.0043
+            }
+          }
+        ]
+      },
+      {
+        "question": "🎉 Qual tema de festa combina com você?",
+        "answers": [
+          {
+            "text": "Festa à fantasia com máscaras intrigantes 🎭",
+            "points": {
+              "laços_familia": 0.0945,
+              "o_clone": 0.0798,
+              "senhora_destino": 0.0053,
+              "celebridade": 0.0051,
+              "mulheres_apaixonadas": 0.0047,
+              "a_favorita": 0.0041,
+              "caminho_indias": 0.005,
+              "paraiso_tropical": 0.0042,
+              "avenida_brasil": 0.0062,
+              "belissima": 0.0041,
+              "america": 0.0044
+            }
+          },
+          {
+            "text": "Carnaval com cores, dança e alegria 🎉",
+            "points": {
+              "caminho_indias": 0.0787,
+              "america": 0.0982,
+              "senhora_destino": 0.0057,
+              "celebridade": 0.0056,
+              "laços_familia": 0.0072,
+              "mulheres_apaixonadas": 0.0052,
+              "a_favorita": 0.0045,
+              "paraiso_tropical": 0.0045,
+              "avenida_brasil": 0.0067,
+              "o_clone": 0.0048,
+              "belissima": 0.0046
+            }
+          },
+          {
+            "text": "Jantar sofisticado em um castelo 🕯️",
+            "points": {
+              "belissima": 0.0496,
+              "a_favorita": 0.0701,
+              "senhora_destino": 0.0057,
+              "celebridade": 0.0054,
+              "laços_familia": 0.0069,
+              "mulheres_apaixonadas": 0.0052,
+              "caminho_indias": 0.0054,
+              "paraiso_tropical": 0.0046,
+              "avenida_brasil": 0.0068,
+              "o_clone": 0.0048,
+              "america": 0.0049
+            }
+          },
+          {
+            "text": "Churrasco no campo com música sertaneja 🐄",
+            "points": {
+              "mulheres_apaixonadas": 0.0758,
+              "senhora_destino": 0.0056,
+              "celebridade": 0.0054,
+              "laços_familia": 0.0072,
+              "a_favorita": 0.0046,
+              "caminho_indias": 0.0056,
+              "paraiso_tropical": 0.0047,
+              "avenida_brasil": 0.007,
+              "o_clone": 0.005,
+              "belissima": 0.0049,
+              "america": 0.0053
+            }
+          },
+          {
+            "text": "Festa na praia com DJ e luzes neon 🌊",
+            "points": {
+              "paraiso_tropical": 0.0582,
+              "america": 0.1035,
+              "senhora_destino": 0.0062,
+              "celebridade": 0.0059,
+              "laços_familia": 0.0075,
+              "mulheres_apaixonadas": 0.0055,
+              "a_favorita": 0.0048,
+              "caminho_indias": 0.0059,
+              "avenida_brasil": 0.007,
+              "o_clone": 0.005,
+              "belissima": 0.0048
+            }
+          }
+        ]
+      },
+      {
+        "question": "💼 Seu chefe te oferece um cargo importante. O que você faz?",
+        "answers": [
+          {
+            "text": "Aceito, mas luto pelos direitos da equipe ✊",
+            "points": {
+              "senhora_destino": 0.0793,
+              "mulheres_apaixonadas": 0.0802,
+              "celebridade": 0.0047,
+              "laços_familia": 0.0061,
+              "a_favorita": 0.0038,
+              "caminho_indias": 0.0048,
+              "paraiso_tropical": 0.004,
+              "avenida_brasil": 0.006,
+              "o_clone": 0.0043,
+              "belissima": 0.0041,
+              "america": 0.0044
+            }
+          },
+          {
+            "text": "Transformo a oportunidade em um trampolim para fama 🚀",
+            "points": {
+              "belissima": 0.0619,
+              "celebridade": 0.1334,
+              "senhora_destino": 0.0057,
+              "laços_familia": 0.0069,
+              "mulheres_apaixonadas": 0.0051,
+              "a_favorita": 0.0045,
+              "caminho_indias": 0.0054,
+              "paraiso_tropical": 0.0045,
+              "avenida_brasil": 0.0066,
+              "o_clone": 0.0047,
+              "america": 0.0047
+            }
+          },
+          {
+            "text": "Negocio algo em troca que beneficie meus interesses 💎",
+            "points": {
+              "a_favorita": 0.0524,
+              "o_clone": 0.078,
+              "senhora_destino": 0.006,
+              "celebridade": 0.0056,
+              "laços_familia": 0.0073,
+              "mulheres_apaixonadas": 0.0053,
+              "caminho_indias": 0.0055,
+              "paraiso_tropical": 0.0047,
+              "avenida_brasil": 0.0069,
+              "belissima": 0.0046,
+              "america": 0.0049
+            }
+          },
+          {
+            "text": "Descubro se há segredos por trás da oferta 🕵️",
+            "points": {
+              "avenida_brasil": 0.0847,
+              "paraiso_tropical": 0.0949,
+              "senhora_destino": 0.0056,
+              "celebridade": 0.0053,
+              "laços_familia": 0.0067,
+              "mulheres_apaixonadas": 0.005,
+              "a_favorita": 0.0043,
+              "caminho_indias": 0.0052,
+              "o_clone": 0.0044,
+              "belissima": 0.0043,
+              "america": 0.0045
+            }
+          },
+          {
+            "text": "Divido a responsabilidade com quem confio 🤲",
+            "points": {
+              "america": 0.0454,
+              "caminho_indias": 0.0891,
+              "senhora_destino": 0.0054,
+              "celebridade": 0.0051,
+              "laços_familia": 0.0066,
+              "mulheres_apaixonadas": 0.0048,
+              "a_favorita": 0.0042,
+              "paraiso_tropical": 0.0042,
+              "avenida_brasil": 0.0064,
+              "o_clone": 0.0045,
+              "belissima": 0.0043
+            }
+          }
+        ]
+      },
+      {
+        "question": "🌧️ Como reage a uma traição de alguém próximo?",
+        "answers": [
+          {
+            "text": "Perdoo, mas nunca esqueço o aprendizado 🌈",
+            "points": {
+              "senhora_destino": 0.0706,
+              "o_clone": 0.082,
+              "celebridade": 0.0053,
+              "laços_familia": 0.0069,
+              "mulheres_apaixonadas": 0.005,
+              "a_favorita": 0.0044,
+              "caminho_indias": 0.0054,
+              "paraiso_tropical": 0.0046,
+              "avenida_brasil": 0.0067,
+              "belissima": 0.0045,
+              "america": 0.0047
+            }
+          },
+          {
+            "text": "Planejo uma vingança épica e discreta 🔪",
+            "points": {
+              "avenida_brasil": 0.094,
+              "a_favorita": 0.1117,
+              "senhora_destino": 0.0056,
+              "celebridade": 0.0053,
+              "laços_familia": 0.0068,
+              "mulheres_apaixonadas": 0.005,
+              "caminho_indias": 0.0052,
+              "paraiso_tropical": 0.0043,
+              "o_clone": 0.0045,
+              "belissima": 0.0043,
+              "america": 0.0045
+            }
+          },
+          {
+            "text": "Confronto a pessoa com paixão e drama 💔",
+            "points": {
+              "laços_familia": 0.0945,
+              "paraiso_tropical": 0.0795,
+              "senhora_destino": 0.0052,
+              "celebridade": 0.0049,
+              "mulheres_apaixonadas": 0.0047,
+              "a_favorita": 0.004,
+              "caminho_indias": 0.0049,
+              "avenida_brasil": 0.0061,
+              "o_clone": 0.0043,
+              "belissima": 0.0042,
+              "america": 0.0043
+            }
+          },
+          {
+            "text": "Uso humor para superar a situação 😂",
+            "points": {
+              "caminho_indias": 0.0553,
+              "america": 0.0825,
+              "senhora_destino": 0.0057,
+              "celebridade": 0.0054,
+              "laços_familia": 0.007,
+              "mulheres_apaixonadas": 0.0051,
+              "a_favorita": 0.0045,
+              "paraiso_tropical": 0.0045,
+              "avenida_brasil": 0.0066,
+              "o_clone": 0.0047,
+              "belissima": 0.0046
+            }
+          },
+          {
+            "text": "Reúno a família para resolver juntos 👨👩👧👦",
+            "points": {
+              "mulheres_apaixonadas": 0.0758,
+              "senhora_destino": 0.0056,
+              "celebridade": 0.0054,
+              "laços_familia": 0.0072,
+              "a_favorita": 0.0046,
+              "caminho_indias": 0.0056,
+              "paraiso_tropical": 0.0047,
+              "avenida_brasil": 0.007,
+              "o_clone": 0.005,
+              "belissima": 0.0049,
+              "america": 0.0053
+            }
+          }
+        ]
+      },
+      {
+        "question": "🏡 Qual ambiente reflete seu estilo de vida?",
+        "answers": [
+          {
+            "text": "Casa simples, mas cheia de histórias e fotos 📜",
+            "points": {
+              "senhora_destino": 0.0706,
+              "o_clone": 0.0646,
+              "celebridade": 0.0051,
+              "laços_familia": 0.0065,
+              "mulheres_apaixonadas": 0.0047,
+              "a_favorita": 0.0041,
+              "caminho_indias": 0.0051,
+              "paraiso_tropical": 0.0043,
+              "avenida_brasil": 0.0064,
+              "belissima": 0.0043,
+              "america": 0.0045
+            }
+          },
+          {
+            "text": "Mansão com piscina, obras de arte e festas 🖼️",
+            "points": {
+              "belissima": 0.0619,
+              "celebridade": 0.1334,
+              "senhora_destino": 0.0057,
+              "laços_familia": 0.0069,
+              "mulheres_apaixonadas": 0.0051,
+              "a_favorita": 0.0045,
+              "caminho_indias": 0.0054,
+              "paraiso_tropical": 0.0045,
+              "avenida_brasil": 0.0066,
+              "o_clone": 0.0047,
+              "america": 0.0047
+            }
+          },
+          {
+            "text": "Apartamento moderno com detalhes exóticos 🌵",
+            "points": {
+              "caminho_indias": 0.0709,
+              "o_clone": 0.0927,
+              "senhora_destino": 0.0059,
+              "celebridade": 0.0056,
+              "laços_familia": 0.0071,
+              "mulheres_apaixonadas": 0.0052,
+              "a_favorita": 0.0046,
+              "paraiso_tropical": 0.0046,
+              "avenida_brasil": 0.0067,
+              "belissima": 0.0045,
+              "america": 0.0048
+            }
+          },
+          {
+            "text": "Sítio com animais e natureza ao redor 🌻",
+            "points": {
+              "america": 0.0454,
+              "mulheres_apaixonadas": 0.0872,
+              "senhora_destino": 0.0053,
+              "celebridade": 0.0051,
+              "laços_familia": 0.0066,
+              "a_favorita": 0.0041,
+              "caminho_indias": 0.0051,
+              "paraiso_tropical": 0.0043,
+              "avenida_brasil": 0.0064,
+              "o_clone": 0.0045,
+              "belissima": 0.0045
+            }
+          },
+          {
+            "text": "Loft industrial decorado com ousadia 🔥",
+            "points": {
+              "paraiso_tropical": 0.0518,
+              "a_favorita": 0.0906,
+              "senhora_destino": 0.006,
+              "celebridade": 0.0056,
+              "laços_familia": 0.0072,
+              "mulheres_apaixonadas": 0.0053,
+              "caminho_indias": 0.0056,
+              "avenida_brasil": 0.0067,
+              "o_clone": 0.0048,
+              "belissima": 0.0045,
+              "america": 0.005
+            }
+          }
+        ]
+      },
+      {
+        "question": "❤️ O que as pessoas mais elogiam em você?",
+        "answers": [
+          {
+            "text": "Coragem para enfrentar injustiças 🦸",
+            "points": {
+              "senhora_destino": 0.0881,
+              "avenida_brasil": 0.1166,
+              "celebridade": 0.0047,
+              "laços_familia": 0.0061,
+              "mulheres_apaixonadas": 0.0043,
+              "a_favorita": 0.0039,
+              "caminho_indias": 0.0047,
+              "paraiso_tropical": 0.0039,
+              "o_clone": 0.0041,
+              "belissima": 0.0039,
+              "america": 0.0042
+            }
+          },
+          {
+            "text": "Ambição e capacidade de alcançar o topo 💫",
+            "points": {
+              "belissima": 0.0558,
+              "a_favorita": 0.1017,
+              "senhora_destino": 0.0062,
+              "celebridade": 0.0059,
+              "laços_familia": 0.0077,
+              "mulheres_apaixonadas": 0.0055,
+              "caminho_indias": 0.0058,
+              "paraiso_tropical": 0.0049,
+              "avenida_brasil": 0.0072,
+              "o_clone": 0.0051,
+              "america": 0.0052
+            }
+          },
+          {
+            "text": "Sensualidade e poder de persuasão 🔥",
+            "points": {
+              "celebridade": 0.0828,
+              "paraiso_tropical": 0.0977,
+              "senhora_destino": 0.0058,
+              "laços_familia": 0.007,
+              "mulheres_apaixonadas": 0.0051,
+              "a_favorita": 0.0045,
+              "caminho_indias": 0.0054,
+              "avenida_brasil": 0.0065,
+              "o_clone": 0.0045,
+              "belissima": 0.0045,
+              "america": 0.0046
+            }
+          },
+          {
+            "text": "Lealdade e coração generoso 💖",
+            "points": {
+              "mulheres_apaixonadas": 0.0683,
+              "america": 0.0697,
+              "senhora_destino": 0.0057,
+              "celebridade": 0.0054,
+              "laços_familia": 0.0069,
+              "a_favorita": 0.0043,
+              "caminho_indias": 0.0054,
+              "paraiso_tropical": 0.0045,
+              "avenida_brasil": 0.0067,
+              "o_clone": 0.0047,
+              "belissima": 0.0046
+            }
+          },
+          {
+            "text": "Habilidade para unir pessoas diferentes 🤝",
+            "points": {
+              "laços_familia": 0.0842,
+              "caminho_indias": 0.1114,
+              "senhora_destino": 0.0051,
+              "celebridade": 0.0049,
+              "mulheres_apaixonadas": 0.0046,
+              "a_favorita": 0.004,
+              "paraiso_tropical": 0.0039,
+              "avenida_brasil": 0.0059,
+              "o_clone": 0.0042,
+              "belissima": 0.004,
+              "america": 0.0043
+            }
+          }
+        ]
+      },
+      {
+        "question": "🌟 Qual frase você diria em um momento decisivo?",
+        "answers": [
+          {
+            "text": "*\"Ninguém vai calar a minha voz!\"* 🗣️",
+            "points": {
+              "senhora_destino": 0.0881,
+              "avenida_brasil": 0.1166,
+              "celebridade": 0.0047,
+              "laços_familia": 0.0061,
+              "mulheres_apaixonadas": 0.0043,
+              "a_favorita": 0.0039,
+              "caminho_indias": 0.0047,
+              "paraiso_tropical": 0.0039,
+              "o_clone": 0.0041,
+              "belissima": 0.0039,
+              "america": 0.0042
+            }
+          },
+          {
+            "text": "*\"O jogo só acaba quando eu vencer.\"* ♟️",
+            "points": {
+              "a_favorita": 0.0589,
+              "belissima": 0.1039,
+              "senhora_destino": 0.0065,
+              "celebridade": 0.0061,
+              "laços_familia": 0.0078,
+              "mulheres_apaixonadas": 0.0057,
+              "caminho_indias": 0.006,
+              "paraiso_tropical": 0.0051,
+              "avenida_brasil": 0.0074,
+              "o_clone": 0.0052,
+              "america": 0.0052
+            }
+          },
+          {
+            "text": "*\"Amor ou ódio, nada será como antes.\"* 💘",
+            "points": {
+              "o_clone": 0.0653,
+              "paraiso_tropical": 0.1027,
+              "senhora_destino": 0.0061,
+              "celebridade": 0.0059,
+              "laços_familia": 0.0074,
+              "mulheres_apaixonadas": 0.0054,
+              "a_favorita": 0.0048,
+              "caminho_indias": 0.0057,
+              "avenida_brasil": 0.0069,
+              "belissima": 0.0046,
+              "america": 0.0049
+            }
+          },
+          {
+            "text": "*\"Rir é o melhor jeito de enfrentar a vida!\"* 😆",
+            "points": {
+              "america": 0.0454,
+              "caminho_indias": 0.0891,
+              "senhora_destino": 0.0054,
+              "celebridade": 0.0051,
+              "laços_familia": 0.0066,
+              "mulheres_apaixonadas": 0.0048,
+              "a_favorita": 0.0042,
+              "paraiso_tropical": 0.0042,
+              "avenida_brasil": 0.0064,
+              "o_clone": 0.0045,
+              "belissima": 0.0043
+            }
+          },
+          {
+            "text": "*\"Família é a nossa maior riqueza.\"* 👨👩👧👦",
+            "points": {
+              "mulheres_apaixonadas": 0.0758,
+              "laços_familia": 0.1607,
+              "senhora_destino": 0.005,
+              "celebridade": 0.0047,
+              "a_favorita": 0.0039,
+              "caminho_indias": 0.0046,
+              "paraiso_tropical": 0.0039,
+              "avenida_brasil": 0.0058,
+              "o_clone": 0.0041,
+              "belissima": 0.0039,
+              "america": 0.0041
+            }
+          }
+        ]
+      }
+    ],
+    "descriptions": {
+      "senhora_destino": {
+        "title": "Senhora do Destino (2004)",
+        "emoji": "⚖️",
+        "subtitle": "Justiça e superação!",
+        "text": "Você é um herói do povo! Sua história mistura luta social, reviravoltas dramáticas e um coração gigante."
+      },
+      "celebridade": {
+        "title": "Celebridade (2003)",
+        "emoji": "📸",
+        "subtitle": "Fama, trapaça e glamour!",
+        "text": "Você vive entre holofotes e segredos. Sua trama tem escândalos, ambição e um toque de ironia."
+      },
+      "laços_familia": {
+        "title": "Laços de Família (2000)",
+        "emoji": "🎭",
+        "subtitle": "Drama intenso e amor proibido!",
+        "text": "Seu enredo tem conflitos familiares, paixões secretas e diálogos que marcaram época!"
+      },
+      "mulheres_apaixonadas": {
+        "title": "Mulheres Apaixonadas (2003)",
+        "emoji": "👩❤️👩",
+        "subtitle": "Protagonismo feminino!",
+        "text": "Você é forte, emotivo(a) e valoriza amizades. Prepare-se para chorar e rir com seu grupo!"
+      },
+      "a_favorita": {
+        "title": "A Favorita (2008)",
+        "emoji": "🕵️♀️",
+        "subtitle": "Vingança e poder!",
+        "text": "Você é astuto(a) e sabe jogar sujo. Sua história tem tramas paralelas e reviravoltas dignas de um thriller!"
+      },
+      "caminho_indias": {
+        "title": "Caminho das Índias (2009)",
+        "emoji": "🪔",
+        "subtitle": "Amor além das fronteiras!",
+        "text": "Seu enredo mistura cultura indiana, conflitos sociais e um triângulo amoroso de tirar o fôlego!"
+      },
+      "paraiso_tropical": {
+        "title": "Paraíso Tropical (2007)",
+        "emoji": "🌅",
+        "subtitle": "Política e paixão na praia!",
+        "text": "Você vive entre tramas políticas e relacionamentos intensos, tudo sob o sol do Rio de Janeiro."
+      },
+      "avenida_brasil": {
+        "title": "Avenida Brasil (2012)",
+        "emoji": "🗑️",
+        "subtitle": "Vingança com sabor de lixão!",
+        "text": "Você é implacável e sabe guardar rancor. Sua história tem reviravoltas ácidas e um toque de humor negro."
+      },
+      "o_clone": {
+        "title": "O Clone (2001)",
+        "emoji": "🌌",
+        "subtitle": "Amor proibido e dilemas culturais!",
+        "text": "Você vive entre tradição e modernidade, enfrentando paixões intensas e escolhas impossíveis."
+      },
+      "belissima": {
+        "title": "Belíssima (2005)",
+        "emoji": "💎",
+        "subtitle": "Glamour e ambição sem limites!",
+        "text": "Você é ousado(a) e sabe que o poder se conquista com estilo. Sua trama tem luxo, traição e muito drama!"
+      },
+      "america": {
+        "title": "América (2005)",
+        "emoji": "🐂",
+        "subtitle": "Aventura e amor em terra estrangeira!",
+        "text": "Sua história é cheia de energia juvenil, desafios em solo americano e romances que atravessam fronteiras."
+      }
+    }
+  }

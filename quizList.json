@@ -339,6 +339,11 @@
             "name": "Qual Vencedor de Survivor Você Seria?",
             "file": "quizzes/quizSurvivor.json",
             "description": "Descubra qual lenda da estratégia, drama e traições combina com seu estilo!"
+        },
+        {
+            "name": "Você seria um personagem de qual novela das oito?",
+            "file": "quizzes/quizNovelas.json",
+            "description": "Descubra qual novela clássica da Globo combina com sua personalidade! ✨"
         }
     ]
 }
