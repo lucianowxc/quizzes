@@ -337,7 +337,7 @@
         },
         {
             "name": "Qual Vencedor de Survivor Você Seria?",
-            "file": "quizzes/quizSurvivorVencedores.json",
+            "file": "quizzes/quizSurvivor.json",
             "description": "Descubra qual lenda da estratégia, drama e traições combina com seu estilo!"
         }
     ]
