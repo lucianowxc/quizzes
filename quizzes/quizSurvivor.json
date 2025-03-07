@@ -1,0 +1,792 @@
+{
+    "title": "Qual Vencedor de Survivor Você Seria?",
+    "subtitle": "Descubra qual lenda da ilha combina com seu estilo de jogo!",
+    "questions": [
+        {
+            "question": "Seu tribo perdeu imunidade pela 3ª vez seguida. Você:",
+            "answers": [
+                {
+                    "text": "🏕️ Construo um abrigo perfeito para ganhar aliados",
+                    "points": {
+                        "kim": 0.0571,
+                        "sandra": 0.0509,
+                        "boston_rob": 0.0063,
+                        "parvati": 0.0044,
+                        "tony": 0.0035,
+                        "sarah": 0.0037,
+                        "natalie": 0.0029,
+                        "richard_hatch": 0.0055,
+                        "jt_thomas": 0.0054,
+                        "todd_herzog": 0.0058,
+                        "yul_kwon": 0.0051,
+                        "jeremy_collins": 0.0066,
+                        "michelle_fitzgerald": 0.006,
+                        "dee_valladares": 0.0048
+                    }
+                },
+                {
+                    "text": "🗣️ Convoco reunião secreta para mudar o voto",
+                    "points": {
+                        "parvati": 0.0696,
+                        "tony": 0.0847,
+                        "boston_rob": 0.0069,
+                        "sandra": 0.0037,
+                        "kim": 0.0045,
+                        "sarah": 0.004,
+                        "natalie": 0.0031,
+                        "richard_hatch": 0.006,
+                        "jt_thomas": 0.0058,
+                        "todd_herzog": 0.0062,
+                        "yul_kwon": 0.0055,
+                        "jeremy_collins": 0.007,
+                        "michelle_fitzgerald": 0.0065,
+                        "dee_valladares": 0.0051
+                    }
+                },
+                {
+                    "text": "🤫 Fico quieto e deixo os outros se queimarem",
+                    "points": {
+                        "sandra": 0.0543,
+                        "sarah": 0.0791,
+                        "boston_rob": 0.0069,
+                        "parvati": 0.0048,
+                        "kim": 0.0044,
+                        "tony": 0.0037,
+                        "natalie": 0.0031,
+                        "richard_hatch": 0.0059,
+                        "jt_thomas": 0.0057,
+                        "todd_herzog": 0.0061,
+                        "yul_kwon": 0.0053,
+                        "jeremy_collins": 0.0069,
+                        "michelle_fitzgerald": 0.0064,
+                        "dee_valladares": 0.0049
+                    }
+                },
+                {
+                    "text": "💥 Desafio o líder atual para um duelo de fogo",
+                    "points": {
+                        "natalie": 0.0431,
+                        "boston_rob": 0.1179,
+                        "parvati": 0.0041,
+                        "sandra": 0.0032,
+                        "kim": 0.0038,
+                        "tony": 0.0032,
+                        "sarah": 0.0036,
+                        "richard_hatch": 0.005,
+                        "jt_thomas": 0.0049,
+                        "todd_herzog": 0.0052,
+                        "yul_kwon": 0.0047,
+                        "jeremy_collins": 0.0059,
+                        "michelle_fitzgerald": 0.0055,
+                        "dee_valladares": 0.0043
+                    }
+                },
+                {
+                    "text": "🍹 Convido todos para um drink e observo as alianças",
+                    "points": {
+                        "richard_hatch": 0.0558,
+                        "dee_valladares": 0.103,
+                        "boston_rob": 0.0065,
+                        "parvati": 0.0046,
+                        "sandra": 0.0036,
+                        "kim": 0.0043,
+                        "tony": 0.0037,
+                        "sarah": 0.004,
+                        "natalie": 0.003,
+                        "jt_thomas": 0.0057,
+                        "todd_herzog": 0.0059,
+                        "yul_kwon": 0.0053,
+                        "jeremy_collins": 0.0067,
+                        "michelle_fitzgerald": 0.0062
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Na final, o júri pergunta sobre suas traições. Sua resposta:",
+            "answers": [
+                {
+                    "text": "😇 'Foi tudo estratégia, pessoal!' (sorriso de anjo)",
+                    "points": {
+                        "kim": 0.0508,
+                        "sarah": 0.0813,
+                        "boston_rob": 0.0068,
+                        "parvati": 0.0048,
+                        "sandra": 0.0038,
+                        "tony": 0.0038,
+                        "natalie": 0.0032,
+                        "richard_hatch": 0.0059,
+                        "jt_thomas": 0.0057,
+                        "todd_herzog": 0.0062,
+                        "yul_kwon": 0.0054,
+                        "jeremy_collins": 0.0069,
+                        "michelle_fitzgerald": 0.0064,
+                        "dee_valladares": 0.005
+                    }
+                },
+                {
+                    "text": "😎 'Perguntem ao meu ídolo escondido!' (mostra troféu)",
+                    "points": {
+                        "parvati": 0.0696,
+                        "tony": 0.0698,
+                        "boston_rob": 0.0065,
+                        "sandra": 0.0035,
+                        "kim": 0.0042,
+                        "sarah": 0.0038,
+                        "natalie": 0.0031,
+                        "richard_hatch": 0.0057,
+                        "jt_thomas": 0.0055,
+                        "todd_herzog": 0.006,
+                        "yul_kwon": 0.0053,
+                        "jeremy_collins": 0.0067,
+                        "michelle_fitzgerald": 0.0063,
+                        "dee_valladares": 0.0049
+                    }
+                },
+                {
+                    "text": "🤠 'Fiz pelo bem do tribo, y'all!' (sotaque country)",
+                    "points": {
+                        "jt_thomas": 0.0761,
+                        "jeremy_collins": 0.1002,
+                        "boston_rob": 0.0057,
+                        "parvati": 0.004,
+                        "sandra": 0.0032,
+                        "kim": 0.0037,
+                        "tony": 0.0032,
+                        "sarah": 0.0033,
+                        "natalie": 0.0027,
+                        "richard_hatch": 0.005,
+                        "todd_herzog": 0.0051,
+                        "yul_kwon": 0.0045,
+                        "michelle_fitzgerald": 0.0053,
+                        "dee_valladares": 0.0041
+                    }
+                },
+                {
+                    "text": "💔 'Doía mais em mim do que em vocês!' (lágrima)",
+                    "points": {
+                        "sarah": 0.056,
+                        "natalie": 0.045,
+                        "boston_rob": 0.0069,
+                        "parvati": 0.0048,
+                        "sandra": 0.0039,
+                        "kim": 0.0046,
+                        "tony": 0.0038,
+                        "richard_hatch": 0.0061,
+                        "jt_thomas": 0.0059,
+                        "todd_herzog": 0.0062,
+                        "yul_kwon": 0.0055,
+                        "jeremy_collins": 0.0071,
+                        "michelle_fitzgerald": 0.0066,
+                        "dee_valladares": 0.0052
+                    }
+                },
+                {
+                    "text": "🔥 'Sem mim, esse júri seria chato pra caramba!'",
+                    "points": {
+                        "tony": 0.0525,
+                        "natalie": 0.0557,
+                        "boston_rob": 0.0074,
+                        "parvati": 0.0052,
+                        "sandra": 0.0041,
+                        "kim": 0.005,
+                        "sarah": 0.0045,
+                        "richard_hatch": 0.0064,
+                        "jt_thomas": 0.0063,
+                        "todd_herzog": 0.0066,
+                        "yul_kwon": 0.0059,
+                        "jeremy_collins": 0.0075,
+                        "michelle_fitzgerald": 0.007,
+                        "dee_valladares": 0.0055
+                    }
+                }
+            ]
+        },
+        {
+            "question": "O que você NUNCA faria em Survivor?",
+            "answers": [
+                {
+                    "text": "🙅♂️ Deixar de roubar comida do acampamento",
+                    "points": {
+                        "tony": 0.0525,
+                        "natalie": 0.0727,
+                        "boston_rob": 0.0081,
+                        "parvati": 0.0057,
+                        "sandra": 0.0044,
+                        "kim": 0.0054,
+                        "sarah": 0.0047,
+                        "richard_hatch": 0.007,
+                        "jt_thomas": 0.0068,
+                        "todd_herzog": 0.0071,
+                        "yul_kwon": 0.0062,
+                        "jeremy_collins": 0.0081,
+                        "michelle_fitzgerald": 0.0074,
+                        "dee_valladares": 0.0059
+                    }
+                },
+                {
+                    "text": "💔 Trair meu melhor aliado do dia 1",
+                    "points": {
+                        "kim": 0.0571,
+                        "sandra": 0.083,
+                        "boston_rob": 0.0072,
+                        "parvati": 0.005,
+                        "tony": 0.0038,
+                        "sarah": 0.0041,
+                        "natalie": 0.0032,
+                        "richard_hatch": 0.0061,
+                        "jt_thomas": 0.0059,
+                        "todd_herzog": 0.0063,
+                        "yul_kwon": 0.0056,
+                        "jeremy_collins": 0.0071,
+                        "michelle_fitzgerald": 0.0065,
+                        "dee_valladares": 0.005
+                    }
+                },
+                {
+                    "text": "🤔 Usar lógica de xadrez para confundir rivais",
+                    "points": {
+                        "yul_kwon": 0.0695,
+                        "todd_herzog": 0.1128,
+                        "boston_rob": 0.006,
+                        "parvati": 0.0042,
+                        "sandra": 0.0033,
+                        "kim": 0.004,
+                        "tony": 0.0034,
+                        "sarah": 0.0036,
+                        "natalie": 0.0029,
+                        "richard_hatch": 0.0053,
+                        "jt_thomas": 0.0052,
+                        "jeremy_collins": 0.0061,
+                        "michelle_fitzgerald": 0.0056,
+                        "dee_valladares": 0.0045
+                    }
+                },
+                {
+                    "text": "😴 Dormir durante conversa estratégica",
+                    "points": {
+                        "sarah": 0.056,
+                        "natalie": 0.06,
+                        "boston_rob": 0.0073,
+                        "parvati": 0.0051,
+                        "sandra": 0.004,
+                        "kim": 0.0048,
+                        "tony": 0.0041,
+                        "richard_hatch": 0.0063,
+                        "jt_thomas": 0.0062,
+                        "todd_herzog": 0.0065,
+                        "yul_kwon": 0.0057,
+                        "jeremy_collins": 0.0073,
+                        "michelle_fitzgerald": 0.0068,
+                        "dee_valladares": 0.0053
+                    }
+                },
+                {
+                    "text": "🤝 Recusar acordo de fogo cruzado",
+                    "points": {
+                        "boston_rob": 0.1005,
+                        "sandra": 0.0531,
+                        "parvati": 0.0039,
+                        "kim": 0.0037,
+                        "tony": 0.003,
+                        "sarah": 0.0034,
+                        "natalie": 0.0027,
+                        "richard_hatch": 0.005,
+                        "jt_thomas": 0.0048,
+                        "todd_herzog": 0.0051,
+                        "yul_kwon": 0.0045,
+                        "jeremy_collins": 0.0058,
+                        "michelle_fitzgerald": 0.0055,
+                        "dee_valladares": 0.0043
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Na ilha deserta, seu item secreto é:",
+            "answers": [
+                {
+                    "text": "📜 Contrato de aliança pré-assinado",
+                    "points": {
+                        "boston_rob": 0.0906,
+                        "richard_hatch": 0.121,
+                        "parvati": 0.0039,
+                        "sandra": 0.0031,
+                        "kim": 0.0037,
+                        "tony": 0.003,
+                        "sarah": 0.0033,
+                        "natalie": 0.0026,
+                        "jt_thomas": 0.0046,
+                        "todd_herzog": 0.005,
+                        "yul_kwon": 0.0043,
+                        "jeremy_collins": 0.0056,
+                        "michelle_fitzgerald": 0.0052,
+                        "dee_valladares": 0.0041
+                    }
+                },
+                {
+                    "text": "💄 Batom vermelho (arma de manipulação)",
+                    "points": {
+                        "parvati": 0.0696,
+                        "dee_valladares": 0.1065,
+                        "boston_rob": 0.0068,
+                        "sandra": 0.0037,
+                        "kim": 0.0044,
+                        "tony": 0.0037,
+                        "sarah": 0.004,
+                        "natalie": 0.0032,
+                        "richard_hatch": 0.0059,
+                        "jt_thomas": 0.0057,
+                        "todd_herzog": 0.0061,
+                        "yul_kwon": 0.0054,
+                        "jeremy_collins": 0.0069,
+                        "michelle_fitzgerald": 0.0064
+                    }
+                },
+                {
+                    "text": "📚 Livro de Sun Tzu para estratégias",
+                    "points": {
+                        "yul_kwon": 0.0695,
+                        "kim": 0.0813,
+                        "boston_rob": 0.0063,
+                        "parvati": 0.0044,
+                        "sandra": 0.0036,
+                        "tony": 0.0034,
+                        "sarah": 0.0038,
+                        "natalie": 0.003,
+                        "richard_hatch": 0.0056,
+                        "jt_thomas": 0.0054,
+                        "todd_herzog": 0.0058,
+                        "jeremy_collins": 0.0065,
+                        "michelle_fitzgerald": 0.006,
+                        "dee_valladares": 0.0047
+                    }
+                },
+                {
+                    "text": "🤫 Gravador para vazamentos seletivos",
+                    "points": {
+                        "todd_herzog": 0.0799,
+                        "sarah": 0.0815,
+                        "boston_rob": 0.0066,
+                        "parvati": 0.0046,
+                        "sandra": 0.0036,
+                        "kim": 0.0042,
+                        "tony": 0.0036,
+                        "natalie": 0.003,
+                        "richard_hatch": 0.0057,
+                        "jt_thomas": 0.0056,
+                        "yul_kwon": 0.0051,
+                        "jeremy_collins": 0.0066,
+                        "michelle_fitzgerald": 0.0061,
+                        "dee_valladares": 0.0048
+                    }
+                },
+                {
+                    "text": "👶 Foto de família (arma emocional)",
+                    "points": {
+                        "jeremy_collins": 0.088,
+                        "michelle_fitzgerald": 0.0977,
+                        "boston_rob": 0.0055,
+                        "parvati": 0.0038,
+                        "sandra": 0.0031,
+                        "kim": 0.0036,
+                        "tony": 0.003,
+                        "sarah": 0.0034,
+                        "natalie": 0.0026,
+                        "richard_hatch": 0.0049,
+                        "jt_thomas": 0.0047,
+                        "todd_herzog": 0.005,
+                        "yul_kwon": 0.0043,
+                        "dee_valladares": 0.0039
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Sua maior falha no jogo seria:",
+            "answers": [
+                {
+                    "text": "😍 Me apaixonar por um aliado",
+                    "points": {
+                        "dee_valladares": 0.0497,
+                        "jt_thomas": 0.1079,
+                        "boston_rob": 0.0062,
+                        "parvati": 0.0045,
+                        "sandra": 0.0035,
+                        "kim": 0.0041,
+                        "tony": 0.0035,
+                        "sarah": 0.0037,
+                        "natalie": 0.003,
+                        "richard_hatch": 0.0056,
+                        "todd_herzog": 0.0057,
+                        "yul_kwon": 0.005,
+                        "jeremy_collins": 0.0064,
+                        "michelle_fitzgerald": 0.0059
+                    }
+                },
+                {
+                    "text": "🤯 Subestimar alguém 'invisível'",
+                    "points": {
+                        "michelle_fitzgerald": 0.0803,
+                        "sandra": 0.0833,
+                        "boston_rob": 0.0066,
+                        "parvati": 0.0047,
+                        "kim": 0.0042,
+                        "tony": 0.0036,
+                        "sarah": 0.0038,
+                        "natalie": 0.0031,
+                        "richard_hatch": 0.0057,
+                        "jt_thomas": 0.0055,
+                        "todd_herzog": 0.0058,
+                        "yul_kwon": 0.0052,
+                        "jeremy_collins": 0.0066,
+                        "dee_valladares": 0.0048
+                    }
+                },
+                {
+                    "text": "🔥 Provocar rivais demais por diversão",
+                    "points": {
+                        "tony": 0.0525,
+                        "natalie": 0.0557,
+                        "boston_rob": 0.0074,
+                        "parvati": 0.0052,
+                        "sandra": 0.0041,
+                        "kim": 0.005,
+                        "sarah": 0.0045,
+                        "richard_hatch": 0.0064,
+                        "jt_thomas": 0.0063,
+                        "todd_herzog": 0.0066,
+                        "yul_kwon": 0.0059,
+                        "jeremy_collins": 0.0075,
+                        "michelle_fitzgerald": 0.007,
+                        "dee_valladares": 0.0055
+                    }
+                },
+                {
+                    "text": "🤝 Confiar em contratos verbais",
+                    "points": {
+                        "richard_hatch": 0.0794,
+                        "sarah": 0.057,
+                        "boston_rob": 0.006,
+                        "parvati": 0.0043,
+                        "sandra": 0.0034,
+                        "kim": 0.004,
+                        "tony": 0.0034,
+                        "natalie": 0.0028,
+                        "jt_thomas": 0.0051,
+                        "todd_herzog": 0.0055,
+                        "yul_kwon": 0.0048,
+                        "jeremy_collins": 0.0062,
+                        "michelle_fitzgerald": 0.0058,
+                        "dee_valladares": 0.0045
+                    }
+                },
+                {
+                    "text": "🧐 Analisar demais cada decisão",
+                    "points": {
+                        "yul_kwon": 0.0626,
+                        "kim": 0.0676,
+                        "boston_rob": 0.006,
+                        "parvati": 0.0042,
+                        "sandra": 0.0034,
+                        "tony": 0.0033,
+                        "sarah": 0.0037,
+                        "natalie": 0.0029,
+                        "richard_hatch": 0.0054,
+                        "jt_thomas": 0.0053,
+                        "todd_herzog": 0.0056,
+                        "jeremy_collins": 0.0063,
+                        "michelle_fitzgerald": 0.0059,
+                        "dee_valladares": 0.0046
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Na reunião do tribo, você:",
+            "answers": [
+                {
+                    "text": "🪓 Corto lenha sozinho para ganhar mérito",
+                    "points": {
+                        "jt_thomas": 0.061,
+                        "jeremy_collins": 0.1248,
+                        "boston_rob": 0.0059,
+                        "parvati": 0.0041,
+                        "sandra": 0.0032,
+                        "kim": 0.0038,
+                        "tony": 0.0033,
+                        "sarah": 0.0035,
+                        "natalie": 0.0028,
+                        "richard_hatch": 0.0051,
+                        "todd_herzog": 0.0052,
+                        "yul_kwon": 0.0045,
+                        "michelle_fitzgerald": 0.0053,
+                        "dee_valladares": 0.0041
+                    }
+                },
+                {
+                    "text": "👯♀️ Organizo aulas de dança para unir o grupo",
+                    "points": {
+                        "dee_valladares": 0.062,
+                        "parvati": 0.1017,
+                        "boston_rob": 0.0064,
+                        "sandra": 0.0035,
+                        "kim": 0.0042,
+                        "tony": 0.0035,
+                        "sarah": 0.0038,
+                        "natalie": 0.003,
+                        "richard_hatch": 0.0056,
+                        "jt_thomas": 0.0054,
+                        "todd_herzog": 0.0059,
+                        "yul_kwon": 0.0051,
+                        "jeremy_collins": 0.0066,
+                        "michelle_fitzgerald": 0.0061
+                    }
+                },
+                {
+                    "text": "🧠 Viro conselheiro psicológico de todos",
+                    "points": {
+                        "todd_herzog": 0.0799,
+                        "yul_kwon": 0.0909,
+                        "boston_rob": 0.0059,
+                        "parvati": 0.0041,
+                        "sandra": 0.0032,
+                        "kim": 0.004,
+                        "tony": 0.0033,
+                        "sarah": 0.0036,
+                        "natalie": 0.0028,
+                        "richard_hatch": 0.0053,
+                        "jt_thomas": 0.0051,
+                        "jeremy_collins": 0.0061,
+                        "michelle_fitzgerald": 0.0056,
+                        "dee_valladares": 0.0044
+                    }
+                },
+                {
+                    "text": "🕵️♂️ Sumo para bisbilhotar acampamentos",
+                    "points": {
+                        "tony": 0.0525,
+                        "richard_hatch": 0.0892,
+                        "boston_rob": 0.0062,
+                        "parvati": 0.0044,
+                        "sandra": 0.0035,
+                        "kim": 0.0042,
+                        "sarah": 0.0037,
+                        "natalie": 0.0029,
+                        "jt_thomas": 0.0053,
+                        "todd_herzog": 0.0056,
+                        "yul_kwon": 0.005,
+                        "jeremy_collins": 0.0064,
+                        "michelle_fitzgerald": 0.0059,
+                        "dee_valladares": 0.0047
+                    }
+                },
+                {
+                    "text": "🌴 Durmo. Priorizo energia para desafios!",
+                    "points": {
+                        "natalie": 0.0389,
+                        "michelle_fitzgerald": 0.0764,
+                        "boston_rob": 0.0061,
+                        "parvati": 0.0043,
+                        "sandra": 0.0035,
+                        "kim": 0.0042,
+                        "tony": 0.0034,
+                        "sarah": 0.0038,
+                        "richard_hatch": 0.0055,
+                        "jt_thomas": 0.0053,
+                        "todd_herzog": 0.0057,
+                        "yul_kwon": 0.0051,
+                        "jeremy_collins": 0.0065,
+                        "dee_valladares": 0.0047
+                    }
+                }
+            ]
+        },
+        {
+            "question": "Seu lema em Survivor é:",
+            "answers": [
+                {
+                    "text": "🔥 'Queimem as urnas, eu trago o caos!'",
+                    "points": {
+                        "tony": 0.0525,
+                        "natalie": 0.0672,
+                        "boston_rob": 0.0078,
+                        "parvati": 0.0056,
+                        "sandra": 0.0043,
+                        "kim": 0.0053,
+                        "sarah": 0.0046,
+                        "richard_hatch": 0.0067,
+                        "jt_thomas": 0.0066,
+                        "todd_herzog": 0.007,
+                        "yul_kwon": 0.0062,
+                        "jeremy_collins": 0.0079,
+                        "michelle_fitzgerald": 0.0073,
+                        "dee_valladares": 0.0057
+                    }
+                },
+                {
+                    "text": "🤐 'Fale pouco, sorria sempre, corte quando necessário'",
+                    "points": {
+                        "michelle_fitzgerald": 0.0803,
+                        "sandra": 0.0986,
+                        "boston_rob": 0.0069,
+                        "parvati": 0.0048,
+                        "kim": 0.0044,
+                        "tony": 0.0038,
+                        "sarah": 0.004,
+                        "natalie": 0.0032,
+                        "richard_hatch": 0.0059,
+                        "jt_thomas": 0.0057,
+                        "todd_herzog": 0.0061,
+                        "yul_kwon": 0.0053,
+                        "jeremy_collins": 0.0068,
+                        "dee_valladares": 0.0049
+                    }
+                },
+                {
+                    "text": "💞 'Amor > Estratégia (até o dia do corte)'",
+                    "points": {
+                        "dee_valladares": 0.0558,
+                        "jt_thomas": 0.1043,
+                        "boston_rob": 0.0061,
+                        "parvati": 0.0043,
+                        "sandra": 0.0035,
+                        "kim": 0.0041,
+                        "tony": 0.0034,
+                        "sarah": 0.0037,
+                        "natalie": 0.0029,
+                        "richard_hatch": 0.0056,
+                        "todd_herzog": 0.0057,
+                        "yul_kwon": 0.005,
+                        "jeremy_collins": 0.0064,
+                        "michelle_fitzgerald": 0.0059
+                    }
+                },
+                {
+                    "text": "🧩 'Controle o tabuleiro, não as peças'",
+                    "points": {
+                        "yul_kwon": 0.0695,
+                        "kim": 0.0813,
+                        "boston_rob": 0.0063,
+                        "parvati": 0.0044,
+                        "sandra": 0.0036,
+                        "tony": 0.0034,
+                        "sarah": 0.0038,
+                        "natalie": 0.003,
+                        "richard_hatch": 0.0056,
+                        "jt_thomas": 0.0054,
+                        "todd_herzog": 0.0058,
+                        "jeremy_collins": 0.0065,
+                        "michelle_fitzgerald": 0.006,
+                        "dee_valladares": 0.0047
+                    }
+                },
+                {
+                    "text": "🤪 'Se não for divertido, pra que jogar?'",
+                    "points": {
+                        "todd_herzog": 0.064,
+                        "parvati": 0.071,
+                        "boston_rob": 0.0055,
+                        "sandra": 0.003,
+                        "kim": 0.0037,
+                        "tony": 0.0031,
+                        "sarah": 0.0034,
+                        "natalie": 0.0027,
+                        "richard_hatch": 0.005,
+                        "jt_thomas": 0.0049,
+                        "yul_kwon": 0.0046,
+                        "jeremy_collins": 0.0059,
+                        "michelle_fitzgerald": 0.0054,
+                        "dee_valladares": 0.0043
+                    }
+                }
+            ]
+        }
+    ],
+    "descriptions": {
+        "boston_rob": {
+            "title": "Boston Rob Mariano",
+            "emoji": "🤝🔥",
+            "subtitle": "O Mestre das Alianças",
+            "text": "Você é o estrategista implacável! Controla o jogo desde o primeiro dia. Seu lema: 'Confiança é para os fracos, contratos são para os fortes!'"
+        },
+        "parvati": {
+            "title": "Parvati Shallow",
+            "emoji": "💋🕶️",
+            "subtitle": "A Rainha da Manipulação",
+            "text": "Domina o jogo social com charme mortal! Cuidado: seus sorrisos são mais perigosos que cobras na ilha!"
+        },
+        "sandra": {
+            "title": "Sandra Diaz-Twine",
+            "emoji": "🍹🏆",
+            "subtitle": "A Rainha que Nunca é Alvo",
+            "text": "Sobrevive sendo 'a pessoa que ninguém quer eliminar'. Seu segredo? 'Não preciso ser forte, só preciso não ser a pior opção!'"
+        },
+        "kim": {
+            "title": "Kim Spradlin",
+            "emoji": "👑🤯",
+            "subtitle": "A Ditadora do Consenso",
+            "text": "Transforma rivais em fãs clubes disfarçados! Lidera sem parecer ameaçadora."
+        },
+        "tony": {
+            "title": "Tony Vlachos",
+            "emoji": "🦹♂️🔧",
+            "subtitle": "O Agente Caótico",
+            "text": "Vence pelo caos controlado! Faz 100 promessas por hora enquanto constrói 'spy bunkers'."
+        },
+        "sarah": {
+            "title": "Sarah Lacina",
+            "emoji": "👮♀️💔",
+            "subtitle": "A Traiçoeira Leal",
+            "text": "Chora de verdade enquanto apunhala pelas costas! Usa relacionamentos reais para traições épicas."
+        },
+        "natalie": {
+            "title": "Natalie Anderson",
+            "emoji": "💪⚡",
+            "subtitle": "A Competidora Nuclear",
+            "text": "Chega quebrando recordes e egos. 'Se não posso ser amada, que sejam meus troféus que brilhem!'"
+        },
+        "richard_hatch": {
+            "title": "Richard Hatch",
+            "emoji": "🐍🏊♂️",
+            "subtitle": "O Pioneiro sem Calças",
+            "text": "Reinventou o jogo! 'Se estão olhando para minha estratégia, é porque não estão olhando para minhas calças!'"
+        },
+        "jt_thomas": {
+            "title": "JT Thomas",
+            "emoji": "🤠✉️",
+            "subtitle": "O Cowboy Diplomata",
+            "text": "Conquista até os mais desconfiados com sorrisos de interior... até escrever aquela carta catastrófica!"
+        },
+        "todd_herzog": {
+            "title": "Todd Herzog",
+            "emoji": "🎭🍸",
+            "subtitle": "O Mestre do Tribal Final",
+            "text": "Entrega performances de Oscar no tribal final. Cuidado com os coquetéis pós-vitória!"
+        },
+        "yul_kwon": {
+            "title": "Yul Kwon",
+            "emoji": "🕵️♂️⚖️",
+            "subtitle": "O Estrategista Filosófico",
+            "text": "Transforma o 'super ídolo' em arma psicológica. 'Por que eliminar inimigos se posso fazê-los duvidar?'"
+        },
+        "jeremy_collins": {
+            "title": "Jeremy Collins",
+            "emoji": "👨👧👦🛡️",
+            "subtitle": "O Protetor de Carnes",
+            "text": "Mantém alvos maiores por perto enquanto sussurra: 'Família primeiro... mas o milhão é meu!'"
+        },
+        "michelle_fitzgerald": {
+            "title": "Michelle Fitzgerald",
+            "emoji": "🌺🎯",
+            "subtitle": "A Sombra Letal",
+            "text": "Faz o júri dizer: 'Nossa, ela realmente estava aqui o tempo todo?!' Vence sem fazer barulho!"
+        },
+        "dee_valladares": {
+            "title": "Dee Valladares",
+            "emoji": "💃🎮",
+            "subtitle": "A Manipuladora Carismática",
+            "text": "Faz aliados acharem que são Romeo & Julieta... enquanto planeja seu solilóquio final!"
+        }
+    }
+}

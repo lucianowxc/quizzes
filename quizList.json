@@ -334,6 +334,11 @@
             "name": "Qual dragão famoso você seria?",
             "file": "quizzes/quizDragoes.json",
             "description": "Descubra qual dragão lendário combina com sua personalidade (e prepare suas asas para o resultado!)"
+        },
+        {
+            "name": "Qual Vencedor de Survivor Você Seria?",
+            "file": "quizzes/quizSurvivorVencedores.json",
+            "description": "Descubra qual lenda da estratégia, drama e traições combina com seu estilo!"
         }
     ]
 }
