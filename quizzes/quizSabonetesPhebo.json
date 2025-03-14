@@ -1,0 +1,833 @@
+{
+  "title": "Qual Sabor de Sabonete Phebo Você Seria?",
+  "subtitle": "Descubra qual sabor de sabonete Phebo mais se parece com você!",
+  "descriptions": {
+    "toque_de_lavanda": {
+      "title": "Toque de Lavanda",
+      "emoji": "🌸",
+      "subtitle": "Calmante e Relaxante",
+      "text": "Você é o toque de lavanda! Sua presença traz calma e relaxamento, perfeito para momentos de tranquilidade."
+    },
+    "frescor_da_manha": {
+      "title": "Frescor da Manhã",
+      "emoji": "🌞",
+      "subtitle": "Revigorante e Energizante",
+      "text": "Você é o frescor da manhã! Sempre pronto para começar o dia com energia e disposição."
+    },
+    "amazonian": {
+      "title": "Amazonian",
+      "emoji": "🌿",
+      "subtitle": "Exótico e Misterioso",
+      "text": "Você é o Amazonian! Sua essência exótica e misteriosa traz um toque de aventura e natureza."
+    },
+    "brisa_tropical": {
+      "title": "Brisa Tropical",
+      "emoji": "🍃",
+      "subtitle": "Leve e Refrescante",
+      "text": "Você é a brisa tropical! Sua leveza e frescor são perfeitos para dias quentes e ensolarados."
+    },
+    "odor_de_rosas": {
+      "title": "Odor de Rosas",
+      "emoji": "🌹",
+      "subtitle": "Romântico e Elegante",
+      "text": "Você é o odor de rosas! Sua fragrância romântica e elegante encanta a todos ao seu redor."
+    },
+    "naturelle": {
+      "title": "Naturelle",
+      "emoji": "🍃",
+      "subtitle": "Natural e Puro",
+      "text": "Você é o Naturelle! Sua essência natural e pura é perfeita para quem busca simplicidade e autenticidade."
+    },
+    "raiz_do_oriente": {
+      "title": "Raiz do Oriente",
+      "emoji": "🌏",
+      "subtitle": "Profundo e Envolvente",
+      "text": "Você é a raiz do oriente! Sua fragrância profunda e envolvente traz um toque de mistério e sofisticação."
+    },
+    "flores_de_primavera": {
+      "title": "Flores de Primavera",
+      "emoji": "🌼",
+      "subtitle": "Delicado e Alegre",
+      "text": "Você é as flores de primavera! Sua presença delicada e alegre ilumina qualquer ambiente."
+    },
+    "limao_siciliano": {
+      "title": "Limão Siciliano",
+      "emoji": "🍋",
+      "subtitle": "Cítrico e Refrescante",
+      "text": "Você é o limão siciliano! Sua fragrância cítrica e refrescante é perfeita para quem busca energia e vitalidade."
+    },
+    "lima_da_persia": {
+      "title": "Lima da Pérsia",
+      "emoji": "🍈",
+      "subtitle": "Exótico e Revigorante",
+      "text": "Você é a lima da Pérsia! Sua essência exótica e revigorante traz um toque de frescor e aventura."
+    },
+    "nectarina": {
+      "title": "Nectarina",
+      "emoji": "🍑",
+      "subtitle": "Doce e Suave",
+      "text": "Você é a nectarina! Sua fragrância doce e suave é perfeita para momentos de relaxamento e bem-estar."
+    }
+  },
+  "questions": [
+    {
+      "question": "Qual é a sua atividade favorita para relaxar?",
+      "answers": [
+        {
+          "text": "🌸 Meditar ao ar livre",
+          "points": {
+            "toque_de_lavanda": 0.0715,
+            "naturelle": 0.0889,
+            "frescor_da_manha": 0.007,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "raiz_do_oriente": 0.0045,
+            "flores_de_primavera": 0.0078,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0087
+          }
+        },
+        {
+          "text": "🌞 Caminhar pela manhã",
+          "points": {
+            "frescor_da_manha": 0.1101,
+            "flores_de_primavera": 0.1348,
+            "toque_de_lavanda": 0.0035,
+            "amazonian": 0.0037,
+            "brisa_tropical": 0.0043,
+            "odor_de_rosas": 0.0075,
+            "naturelle": 0.0036,
+            "raiz_do_oriente": 0.0035,
+            "limao_siciliano": 0.0067,
+            "lima_da_persia": 0.0051,
+            "nectarina": 0.0066
+          }
+        },
+        {
+          "text": "🌿 Explorar a natureza",
+          "points": {
+            "amazonian": 0.0761,
+            "raiz_do_oriente": 0.0833,
+            "toque_de_lavanda": 0.0047,
+            "frescor_da_manha": 0.0073,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "naturelle": 0.0047,
+            "flores_de_primavera": 0.0077,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0086
+          }
+        },
+        {
+          "text": "🍃 Sentir a brisa do mar",
+          "points": {
+            "brisa_tropical": 0.0842,
+            "lima_da_persia": 0.1155,
+            "toque_de_lavanda": 0.0041,
+            "frescor_da_manha": 0.0064,
+            "amazonian": 0.0044,
+            "odor_de_rosas": 0.0087,
+            "naturelle": 0.004,
+            "raiz_do_oriente": 0.0041,
+            "flores_de_primavera": 0.0069,
+            "limao_siciliano": 0.0078,
+            "nectarina": 0.0076
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é o seu tipo de fragrância favorito?",
+      "answers": [
+        {
+          "text": "🌹 Floral e romântico",
+          "points": {
+            "odor_de_rosas": 0.1482,
+            "flores_de_primavera": 0.1511,
+            "toque_de_lavanda": 0.0031,
+            "frescor_da_manha": 0.0048,
+            "amazonian": 0.0034,
+            "brisa_tropical": 0.0037,
+            "naturelle": 0.003,
+            "raiz_do_oriente": 0.003,
+            "limao_siciliano": 0.0058,
+            "lima_da_persia": 0.0044,
+            "nectarina": 0.0057
+          }
+        },
+        {
+          "text": "🍃 Natural e puro",
+          "points": {
+            "naturelle": 0.0688,
+            "toque_de_lavanda": 0.0968,
+            "frescor_da_manha": 0.0068,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0054,
+            "odor_de_rosas": 0.0097,
+            "raiz_do_oriente": 0.0044,
+            "flores_de_primavera": 0.0076,
+            "limao_siciliano": 0.0085,
+            "lima_da_persia": 0.0065,
+            "nectarina": 0.0085
+          }
+        },
+        {
+          "text": "🌏 Profundo e envolvente",
+          "points": {
+            "raiz_do_oriente": 0.0672,
+            "amazonian": 0.1105,
+            "toque_de_lavanda": 0.0042,
+            "frescor_da_manha": 0.0066,
+            "brisa_tropical": 0.0052,
+            "odor_de_rosas": 0.0093,
+            "naturelle": 0.0043,
+            "flores_de_primavera": 0.0073,
+            "limao_siciliano": 0.0082,
+            "lima_da_persia": 0.0062,
+            "nectarina": 0.0081
+          }
+        },
+        {
+          "text": "🍋 Cítrico e refrescante",
+          "points": {
+            "limao_siciliano": 0.1264,
+            "nectarina": 0.1525,
+            "toque_de_lavanda": 0.0034,
+            "frescor_da_manha": 0.0051,
+            "amazonian": 0.0037,
+            "brisa_tropical": 0.004,
+            "odor_de_rosas": 0.0071,
+            "naturelle": 0.0034,
+            "raiz_do_oriente": 0.0033,
+            "flores_de_primavera": 0.0056,
+            "lima_da_persia": 0.0047
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você descreveria sua personalidade?",
+      "answers": [
+        {
+          "text": "🌸 Calma e relaxante",
+          "points": {
+            "toque_de_lavanda": 0.0715,
+            "naturelle": 0.0889,
+            "frescor_da_manha": 0.007,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "raiz_do_oriente": 0.0045,
+            "flores_de_primavera": 0.0078,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0087
+          }
+        },
+        {
+          "text": "🌞 Energética e revigorante",
+          "points": {
+            "frescor_da_manha": 0.1101,
+            "limao_siciliano": 0.1484,
+            "toque_de_lavanda": 0.0034,
+            "amazonian": 0.0037,
+            "brisa_tropical": 0.0041,
+            "odor_de_rosas": 0.0074,
+            "naturelle": 0.0034,
+            "raiz_do_oriente": 0.0034,
+            "flores_de_primavera": 0.0059,
+            "lima_da_persia": 0.0049,
+            "nectarina": 0.0064
+          }
+        },
+        {
+          "text": "🌿 Exótica e misteriosa",
+          "points": {
+            "amazonian": 0.0761,
+            "raiz_do_oriente": 0.0833,
+            "toque_de_lavanda": 0.0047,
+            "frescor_da_manha": 0.0073,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "naturelle": 0.0047,
+            "flores_de_primavera": 0.0077,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0086
+          }
+        },
+        {
+          "text": "🍃 Leve e refrescante",
+          "points": {
+            "brisa_tropical": 0.0842,
+            "lima_da_persia": 0.1155,
+            "toque_de_lavanda": 0.0041,
+            "frescor_da_manha": 0.0064,
+            "amazonian": 0.0044,
+            "odor_de_rosas": 0.0087,
+            "naturelle": 0.004,
+            "raiz_do_oriente": 0.0041,
+            "flores_de_primavera": 0.0069,
+            "limao_siciliano": 0.0078,
+            "nectarina": 0.0076
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é o seu lugar favorito para passar o tempo?",
+      "answers": [
+        {
+          "text": "🌸 Jardim florido",
+          "points": {
+            "flores_de_primavera": 0.114,
+            "odor_de_rosas": 0.1792,
+            "toque_de_lavanda": 0.0032,
+            "frescor_da_manha": 0.0049,
+            "amazonian": 0.0034,
+            "brisa_tropical": 0.0039,
+            "naturelle": 0.0032,
+            "raiz_do_oriente": 0.0031,
+            "limao_siciliano": 0.0059,
+            "lima_da_persia": 0.0045,
+            "nectarina": 0.0058
+          }
+        },
+        {
+          "text": "🌞 Praia ensolarada",
+          "points": {
+            "brisa_tropical": 0.0842,
+            "limao_siciliano": 0.1521,
+            "toque_de_lavanda": 0.0037,
+            "frescor_da_manha": 0.0057,
+            "amazonian": 0.0039,
+            "odor_de_rosas": 0.0078,
+            "naturelle": 0.0037,
+            "raiz_do_oriente": 0.0036,
+            "flores_de_primavera": 0.0061,
+            "lima_da_persia": 0.0053,
+            "nectarina": 0.0068
+          }
+        },
+        {
+          "text": "🌿 Floresta tropical",
+          "points": {
+            "amazonian": 0.0761,
+            "raiz_do_oriente": 0.0833,
+            "toque_de_lavanda": 0.0047,
+            "frescor_da_manha": 0.0073,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "naturelle": 0.0047,
+            "flores_de_primavera": 0.0077,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0086
+          }
+        },
+        {
+          "text": "🍃 Montanha tranquila",
+          "points": {
+            "naturelle": 0.0688,
+            "toque_de_lavanda": 0.0968,
+            "frescor_da_manha": 0.0068,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0054,
+            "odor_de_rosas": 0.0097,
+            "raiz_do_oriente": 0.0044,
+            "flores_de_primavera": 0.0076,
+            "limao_siciliano": 0.0085,
+            "lima_da_persia": 0.0065,
+            "nectarina": 0.0085
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua bebida favorita?",
+      "answers": [
+        {
+          "text": "🌸 Chá de lavanda",
+          "points": {
+            "toque_de_lavanda": 0.0715,
+            "naturelle": 0.0889,
+            "frescor_da_manha": 0.007,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "raiz_do_oriente": 0.0045,
+            "flores_de_primavera": 0.0078,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0087
+          }
+        },
+        {
+          "text": "🌞 Suco de laranja",
+          "points": {
+            "frescor_da_manha": 0.1101,
+            "nectarina": 0.1433,
+            "toque_de_lavanda": 0.0035,
+            "amazonian": 0.0039,
+            "brisa_tropical": 0.0042,
+            "odor_de_rosas": 0.0075,
+            "naturelle": 0.0035,
+            "raiz_do_oriente": 0.0035,
+            "flores_de_primavera": 0.006,
+            "limao_siciliano": 0.0066,
+            "lima_da_persia": 0.005
+          }
+        },
+        {
+          "text": "🌿 Smoothie verde",
+          "points": {
+            "amazonian": 0.0761,
+            "raiz_do_oriente": 0.0833,
+            "toque_de_lavanda": 0.0047,
+            "frescor_da_manha": 0.0073,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "naturelle": 0.0047,
+            "flores_de_primavera": 0.0077,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0086
+          }
+        },
+        {
+          "text": "🍃 Água de coco",
+          "points": {
+            "brisa_tropical": 0.0842,
+            "lima_da_persia": 0.1155,
+            "toque_de_lavanda": 0.0041,
+            "frescor_da_manha": 0.0064,
+            "amazonian": 0.0044,
+            "odor_de_rosas": 0.0087,
+            "naturelle": 0.004,
+            "raiz_do_oriente": 0.0041,
+            "flores_de_primavera": 0.0069,
+            "limao_siciliano": 0.0078,
+            "nectarina": 0.0076
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você gosta de começar o seu dia?",
+      "answers": [
+        {
+          "text": "🌸 Com uma meditação",
+          "points": {
+            "toque_de_lavanda": 0.0715,
+            "naturelle": 0.0889,
+            "frescor_da_manha": 0.007,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "raiz_do_oriente": 0.0045,
+            "flores_de_primavera": 0.0078,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0087
+          }
+        },
+        {
+          "text": "🌞 Com uma corrida matinal",
+          "points": {
+            "frescor_da_manha": 0.1101,
+            "flores_de_primavera": 0.1348,
+            "toque_de_lavanda": 0.0035,
+            "amazonian": 0.0037,
+            "brisa_tropical": 0.0043,
+            "odor_de_rosas": 0.0075,
+            "naturelle": 0.0036,
+            "raiz_do_oriente": 0.0035,
+            "limao_siciliano": 0.0067,
+            "lima_da_persia": 0.0051,
+            "nectarina": 0.0066
+          }
+        },
+        {
+          "text": "🌿 Com uma caminhada na natureza",
+          "points": {
+            "amazonian": 0.0761,
+            "raiz_do_oriente": 0.0833,
+            "toque_de_lavanda": 0.0047,
+            "frescor_da_manha": 0.0073,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "naturelle": 0.0047,
+            "flores_de_primavera": 0.0077,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0086
+          }
+        },
+        {
+          "text": "🍃 Com um mergulho no mar",
+          "points": {
+            "brisa_tropical": 0.0842,
+            "lima_da_persia": 0.1155,
+            "toque_de_lavanda": 0.0041,
+            "frescor_da_manha": 0.0064,
+            "amazonian": 0.0044,
+            "odor_de_rosas": 0.0087,
+            "naturelle": 0.004,
+            "raiz_do_oriente": 0.0041,
+            "flores_de_primavera": 0.0069,
+            "limao_siciliano": 0.0078,
+            "nectarina": 0.0076
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é o seu aroma favorito?",
+      "answers": [
+        {
+          "text": "🌸 Lavanda",
+          "points": {
+            "toque_de_lavanda": 0.0715,
+            "naturelle": 0.0889,
+            "frescor_da_manha": 0.007,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "raiz_do_oriente": 0.0045,
+            "flores_de_primavera": 0.0078,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0087
+          }
+        },
+        {
+          "text": "🌞 Citrus",
+          "points": {
+            "frescor_da_manha": 0.1101,
+            "limao_siciliano": 0.1484,
+            "toque_de_lavanda": 0.0034,
+            "amazonian": 0.0037,
+            "brisa_tropical": 0.0041,
+            "odor_de_rosas": 0.0074,
+            "naturelle": 0.0034,
+            "raiz_do_oriente": 0.0034,
+            "flores_de_primavera": 0.0059,
+            "lima_da_persia": 0.0049,
+            "nectarina": 0.0064
+          }
+        },
+        {
+          "text": "🌿 Herbal",
+          "points": {
+            "amazonian": 0.0761,
+            "raiz_do_oriente": 0.0833,
+            "toque_de_lavanda": 0.0047,
+            "frescor_da_manha": 0.0073,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "naturelle": 0.0047,
+            "flores_de_primavera": 0.0077,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0086
+          }
+        },
+        {
+          "text": "🍃 Frutas tropicais",
+          "points": {
+            "brisa_tropical": 0.0842,
+            "nectarina": 0.147,
+            "toque_de_lavanda": 0.0037,
+            "frescor_da_manha": 0.0059,
+            "amazonian": 0.0042,
+            "odor_de_rosas": 0.008,
+            "naturelle": 0.0038,
+            "raiz_do_oriente": 0.0037,
+            "flores_de_primavera": 0.0064,
+            "limao_siciliano": 0.007,
+            "lima_da_persia": 0.0054
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua estação do ano favorita?",
+      "answers": [
+        {
+          "text": "🌸 Primavera",
+          "points": {
+            "flores_de_primavera": 0.114,
+            "odor_de_rosas": 0.1792,
+            "toque_de_lavanda": 0.0032,
+            "frescor_da_manha": 0.0049,
+            "amazonian": 0.0034,
+            "brisa_tropical": 0.0039,
+            "naturelle": 0.0032,
+            "raiz_do_oriente": 0.0031,
+            "limao_siciliano": 0.0059,
+            "lima_da_persia": 0.0045,
+            "nectarina": 0.0058
+          }
+        },
+        {
+          "text": "🌞 Verão",
+          "points": {
+            "brisa_tropical": 0.0842,
+            "lima_da_persia": 0.1155,
+            "toque_de_lavanda": 0.0041,
+            "frescor_da_manha": 0.0064,
+            "amazonian": 0.0044,
+            "odor_de_rosas": 0.0087,
+            "naturelle": 0.004,
+            "raiz_do_oriente": 0.0041,
+            "flores_de_primavera": 0.0069,
+            "limao_siciliano": 0.0078,
+            "nectarina": 0.0076
+          }
+        },
+        {
+          "text": "🌿 Outono",
+          "points": {
+            "amazonian": 0.0761,
+            "raiz_do_oriente": 0.0833,
+            "toque_de_lavanda": 0.0047,
+            "frescor_da_manha": 0.0073,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "naturelle": 0.0047,
+            "flores_de_primavera": 0.0077,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0086
+          }
+        },
+        {
+          "text": "🍃 Inverno",
+          "points": {
+            "naturelle": 0.0688,
+            "toque_de_lavanda": 0.0968,
+            "frescor_da_manha": 0.0068,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0054,
+            "odor_de_rosas": 0.0097,
+            "raiz_do_oriente": 0.0044,
+            "flores_de_primavera": 0.0076,
+            "limao_siciliano": 0.0085,
+            "lima_da_persia": 0.0065,
+            "nectarina": 0.0085
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é o seu aroma favorito?",
+      "answers": [
+        {
+          "text": "🌸 Lavanda",
+          "points": {
+            "toque_de_lavanda": 0.0715,
+            "naturelle": 0.0889,
+            "frescor_da_manha": 0.007,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "raiz_do_oriente": 0.0045,
+            "flores_de_primavera": 0.0078,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0087
+          }
+        },
+        {
+          "text": "🌞 Citrus",
+          "points": {
+            "frescor_da_manha": 0.1101,
+            "limao_siciliano": 0.1484,
+            "toque_de_lavanda": 0.0034,
+            "amazonian": 0.0037,
+            "brisa_tropical": 0.0041,
+            "odor_de_rosas": 0.0074,
+            "naturelle": 0.0034,
+            "raiz_do_oriente": 0.0034,
+            "flores_de_primavera": 0.0059,
+            "lima_da_persia": 0.0049,
+            "nectarina": 0.0064
+          }
+        },
+        {
+          "text": "🌿 Herbal",
+          "points": {
+            "amazonian": 0.0761,
+            "raiz_do_oriente": 0.0833,
+            "toque_de_lavanda": 0.0047,
+            "frescor_da_manha": 0.0073,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "naturelle": 0.0047,
+            "flores_de_primavera": 0.0077,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0086
+          }
+        },
+        {
+          "text": "🍃 Frutas tropicais",
+          "points": {
+            "brisa_tropical": 0.0842,
+            "nectarina": 0.147,
+            "toque_de_lavanda": 0.0037,
+            "frescor_da_manha": 0.0059,
+            "amazonian": 0.0042,
+            "odor_de_rosas": 0.008,
+            "naturelle": 0.0038,
+            "raiz_do_oriente": 0.0037,
+            "flores_de_primavera": 0.0064,
+            "limao_siciliano": 0.007,
+            "lima_da_persia": 0.0054
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua estação do ano favorita?",
+      "answers": [
+        {
+          "text": "🌸 Primavera",
+          "points": {
+            "flores_de_primavera": 0.114,
+            "odor_de_rosas": 0.1792,
+            "toque_de_lavanda": 0.0032,
+            "frescor_da_manha": 0.0049,
+            "amazonian": 0.0034,
+            "brisa_tropical": 0.0039,
+            "naturelle": 0.0032,
+            "raiz_do_oriente": 0.0031,
+            "limao_siciliano": 0.0059,
+            "lima_da_persia": 0.0045,
+            "nectarina": 0.0058
+          }
+        },
+        {
+          "text": "🌞 Verão",
+          "points": {
+            "brisa_tropical": 0.0842,
+            "lima_da_persia": 0.1155,
+            "toque_de_lavanda": 0.0041,
+            "frescor_da_manha": 0.0064,
+            "amazonian": 0.0044,
+            "odor_de_rosas": 0.0087,
+            "naturelle": 0.004,
+            "raiz_do_oriente": 0.0041,
+            "flores_de_primavera": 0.0069,
+            "limao_siciliano": 0.0078,
+            "nectarina": 0.0076
+          }
+        },
+        {
+          "text": "🌿 Outono",
+          "points": {
+            "amazonian": 0.0761,
+            "raiz_do_oriente": 0.0833,
+            "toque_de_lavanda": 0.0047,
+            "frescor_da_manha": 0.0073,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "naturelle": 0.0047,
+            "flores_de_primavera": 0.0077,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0086
+          }
+        },
+        {
+          "text": "🍃 Inverno",
+          "points": {
+            "naturelle": 0.0688,
+            "toque_de_lavanda": 0.0968,
+            "frescor_da_manha": 0.0068,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0054,
+            "odor_de_rosas": 0.0097,
+            "raiz_do_oriente": 0.0044,
+            "flores_de_primavera": 0.0076,
+            "limao_siciliano": 0.0085,
+            "lima_da_persia": 0.0065,
+            "nectarina": 0.0085
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é o seu tipo de música favorito?",
+      "answers": [
+        {
+          "text": "🌸 Música clássica",
+          "points": {
+            "toque_de_lavanda": 0.0715,
+            "naturelle": 0.0889,
+            "frescor_da_manha": 0.007,
+            "amazonian": 0.0048,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "raiz_do_oriente": 0.0045,
+            "flores_de_primavera": 0.0078,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0087
+          }
+        },
+        {
+          "text": "🌞 Pop",
+          "points": {
+            "frescor_da_manha": 0.1101,
+            "nectarina": 0.1433,
+            "toque_de_lavanda": 0.0035,
+            "amazonian": 0.0039,
+            "brisa_tropical": 0.0042,
+            "odor_de_rosas": 0.0075,
+            "naturelle": 0.0035,
+            "raiz_do_oriente": 0.0035,
+            "flores_de_primavera": 0.006,
+            "limao_siciliano": 0.0066,
+            "lima_da_persia": 0.005
+          }
+        },
+        {
+          "text": "🌿 World music",
+          "points": {
+            "amazonian": 0.0761,
+            "raiz_do_oriente": 0.0833,
+            "toque_de_lavanda": 0.0047,
+            "frescor_da_manha": 0.0073,
+            "brisa_tropical": 0.0055,
+            "odor_de_rosas": 0.0098,
+            "naturelle": 0.0047,
+            "flores_de_primavera": 0.0077,
+            "limao_siciliano": 0.0087,
+            "lima_da_persia": 0.0066,
+            "nectarina": 0.0086
+          }
+        },
+        {
+          "text": "🍃 Reggae",
+          "points": {
+            "brisa_tropical": 0.0842,
+            "lima_da_persia": 0.1155,
+            "toque_de_lavanda": 0.0041,
+            "frescor_da_manha": 0.0064,
+            "amazonian": 0.0044,
+            "odor_de_rosas": 0.0087,
+            "naturelle": 0.004,
+            "raiz_do_oriente": 0.0041,
+            "flores_de_primavera": 0.0069,
+            "limao_siciliano": 0.0078,
+            "nectarina": 0.0076
+          }
+        }
+      ]
+    }
+  ]
+}
