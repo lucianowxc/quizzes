@@ -354,6 +354,6 @@
             "name": "Qual Animal da nota de Real você seria?",
             "file": "quizzes/quizAnimalNota.json",
             "description": "Descubra qual bicho das cédulas brasileiras combina com sua personalidade!"
-        },
+        }
     ]
 }
