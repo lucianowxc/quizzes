@@ -5,64 +5,568 @@
     {
       "question": "Seu domingo perfeito inclui:",
       "answers": [
-        { "text": "🌳 Fazer brunch em um jardim privativo (de preferência com avião passando)", "points": { "jardins": 0.7, "itaim_bibi": 0.3 } },
-        { "text": "🐉 Comer yakisoba na feira da Liberdade e fingir que entende japonês", "points": { "liberdade": 1, "paraiso": 0.3 } },
-        { "text": "🎨 Visitar 3 galerias de arte e reclamar que 'está muito comercial'", "points": { "vila_madalena": 1, "pinheiros": 0.7 } },
-        { "text": "🍕 Brigar com alguém sobre qual pizzaria tem o melhor forno a lenha", "points": { "mooca": 1, "centro": 0.2 } }
+        {
+          "text": "🌳 Fazer brunch em um jardim privativo (de preferência com avião passando)",
+          "points": {
+            "jardins": 0.0206,
+            "itaim_bibi": 0.0189,
+            "liberdade": 0.0142,
+            "vila_madalena": 0.0146,
+            "mooca": 0.0149,
+            "pinheiros": 0.0149,
+            "centro": 0.0155,
+            "santa_cecilia": 0.0156,
+            "tatuape": 0.0166,
+            "itaquera": 0.0164,
+            "butanta": 0.0172,
+            "tucuruvi": 0.0183,
+            "barra_funda": 0.0185,
+            "paraiso": 0.0191
+          }
+        },
+        {
+          "text": "🐉 Comer yakisoba na feira da Liberdade e fingir que entende japonês",
+          "points": {
+            "liberdade": 0.0285,
+            "paraiso": 0.0245,
+            "jardins": 0.0161,
+            "vila_madalena": 0.0162,
+            "mooca": 0.0164,
+            "itaim_bibi": 0.0161,
+            "pinheiros": 0.0168,
+            "centro": 0.0174,
+            "santa_cecilia": 0.0172,
+            "tatuape": 0.0179,
+            "itaquera": 0.0178,
+            "butanta": 0.0181,
+            "tucuruvi": 0.019,
+            "barra_funda": 0.0192
+          }
+        },
+        {
+          "text": "🎨 Visitar 3 galerias de arte e reclamar que 'está muito comercial'",
+          "points": {
+            "vila_madalena": 0.0237,
+            "pinheiros": 0.0311,
+            "jardins": 0.0156,
+            "liberdade": 0.016,
+            "mooca": 0.0159,
+            "itaim_bibi": 0.0155,
+            "centro": 0.0164,
+            "santa_cecilia": 0.0166,
+            "tatuape": 0.0178,
+            "itaquera": 0.0171,
+            "butanta": 0.0181,
+            "tucuruvi": 0.0187,
+            "barra_funda": 0.0189,
+            "paraiso": 0.0193
+          }
+        },
+        {
+          "text": "🍕 Brigar com alguém sobre qual pizzaria tem o melhor forno a lenha",
+          "points": {
+            "mooca": 0.0229,
+            "centro": 0.0236,
+            "jardins": 0.0151,
+            "liberdade": 0.0154,
+            "vila_madalena": 0.0157,
+            "itaim_bibi": 0.0152,
+            "pinheiros": 0.0161,
+            "santa_cecilia": 0.0161,
+            "tatuape": 0.0169,
+            "itaquera": 0.0166,
+            "butanta": 0.0173,
+            "tucuruvi": 0.0183,
+            "barra_funda": 0.0185,
+            "paraiso": 0.0191
+          }
+        }
       ]
     },
     {
       "question": "Qual frase você mais usou na última semana?",
       "answers": [
-        { "text": "💸 'Isso aqui em NY é muito mais barato!' (você nunca foi pra NY)", "points": { "jardins": 0.8, "itaim_bibi": 1 } },
-        { "text": "📚 'Estou relendo Dostoiévski... na versão original, claro'", "points": { "pinheiros": 1, "vila_madalena": 0.6 } },
-        { "text": "⚽ 'O VAR tá roubando nosso time de novo!'", "points": { "mooca": 1, "itaquera": 0.4 } },
-        { "text": "🚇 'Melhor lugar da cidade: a 500m do metrô!'", "points": { "paraiso": 1, "liberdade": 0.5 } }
+        {
+          "text": "💸 'Isso aqui em NY é muito mais barato!' (você nunca foi pra NY)",
+          "points": {
+            "jardins": 0.0219,
+            "itaim_bibi": 0.0281,
+            "liberdade": 0.0152,
+            "vila_madalena": 0.0154,
+            "mooca": 0.0157,
+            "pinheiros": 0.0155,
+            "centro": 0.0163,
+            "santa_cecilia": 0.0165,
+            "tatuape": 0.018,
+            "itaquera": 0.0171,
+            "butanta": 0.0185,
+            "tucuruvi": 0.0191,
+            "barra_funda": 0.0192,
+            "paraiso": 0.0198
+          }
+        },
+        {
+          "text": "📚 'Estou relendo Dostoiévski... na versão original, claro'",
+          "points": {
+            "pinheiros": 0.0212,
+            "vila_madalena": 0.0334,
+            "jardins": 0.0154,
+            "liberdade": 0.0158,
+            "mooca": 0.0157,
+            "itaim_bibi": 0.0155,
+            "centro": 0.0163,
+            "santa_cecilia": 0.0163,
+            "tatuape": 0.0175,
+            "itaquera": 0.0169,
+            "butanta": 0.0239,
+            "tucuruvi": 0.0186,
+            "barra_funda": 0.0188,
+            "paraiso": 0.0194
+          }
+        },
+        {
+          "text": "⚽ 'O VAR tá roubando nosso time de novo!'",
+          "points": {
+            "mooca": 0.0229,
+            "itaquera": 0.0242,
+            "jardins": 0.0154,
+            "liberdade": 0.0157,
+            "vila_madalena": 0.0161,
+            "itaim_bibi": 0.0156,
+            "pinheiros": 0.0163,
+            "centro": 0.0169,
+            "santa_cecilia": 0.0171,
+            "tatuape": 0.0181,
+            "butanta": 0.0176,
+            "tucuruvi": 0.0185,
+            "barra_funda": 0.0186,
+            "paraiso": 0.0193
+          }
+        },
+        {
+          "text": "🚇 'Melhor lugar da cidade: a 500m do metrô!'",
+          "points": {
+            "paraiso": 0.0218,
+            "liberdade": 0.0418,
+            "jardins": 0.0164,
+            "vila_madalena": 0.0163,
+            "mooca": 0.0165,
+            "itaim_bibi": 0.0161,
+            "pinheiros": 0.0168,
+            "centro": 0.0174,
+            "santa_cecilia": 0.0173,
+            "tatuape": 0.018,
+            "itaquera": 0.0178,
+            "butanta": 0.0242,
+            "tucuruvi": 0.019,
+            "barra_funda": 0.0192
+          }
+        }
       ]
     },
     {
       "question": "Qual é seu maior medo?",
       "answers": [
-        { "text": "😱 Ficar sem celular no meio da Paulista", "points": { "paraiso": 1, "itaim_bibi": 0.8 } },
-        { "text": "👻 Ver um influencer fazendo TikTok na sua frente", "points": { "vila_madalena": 1, "jardins": 0.7 } },
-        { "text": "🛒 Acabar em um shopping no domingo", "points": { "mooca": 0.9, "centro": 0.5 } },
-        { "text": "💀 Descobrir que o café especial é da Melitta", "points": { "pinheiros": 1, "liberdade": 0.3 } }
+        {
+          "text": "😱 Ficar sem celular no meio da Paulista",
+          "points": {
+            "paraiso": 0.0218,
+            "itaim_bibi": 0.0319,
+            "jardins": 0.0163,
+            "liberdade": 0.0166,
+            "vila_madalena": 0.0169,
+            "mooca": 0.0171,
+            "pinheiros": 0.0169,
+            "centro": 0.0176,
+            "santa_cecilia": 0.0177,
+            "tatuape": 0.0188,
+            "itaquera": 0.0182,
+            "butanta": 0.0191,
+            "tucuruvi": 0.0197,
+            "barra_funda": 0.0197
+          }
+        },
+        {
+          "text": "👻 Ver um influencer fazendo TikTok na sua frente",
+          "points": {
+            "vila_madalena": 0.0237,
+            "jardins": 0.0361,
+            "liberdade": 0.0153,
+            "mooca": 0.0152,
+            "itaim_bibi": 0.0149,
+            "pinheiros": 0.0158,
+            "centro": 0.0163,
+            "santa_cecilia": 0.0165,
+            "tatuape": 0.0177,
+            "itaquera": 0.017,
+            "butanta": 0.0179,
+            "tucuruvi": 0.0186,
+            "barra_funda": 0.0188,
+            "paraiso": 0.0192
+          }
+        },
+        {
+          "text": "🛒 Acabar em um shopping no domingo",
+          "points": {
+            "mooca": 0.0218,
+            "centro": 0.0305,
+            "jardins": 0.0155,
+            "liberdade": 0.0158,
+            "vila_madalena": 0.0161,
+            "itaim_bibi": 0.0154,
+            "pinheiros": 0.0163,
+            "santa_cecilia": 0.0163,
+            "tatuape": 0.0171,
+            "itaquera": 0.0168,
+            "butanta": 0.0176,
+            "tucuruvi": 0.0184,
+            "barra_funda": 0.0186,
+            "paraiso": 0.0191
+          }
+        },
+        {
+          "text": "💀 Descobrir que o café especial é da Melitta",
+          "points": {
+            "pinheiros": 0.0212,
+            "liberdade": 0.0317,
+            "jardins": 0.0152,
+            "vila_madalena": 0.0153,
+            "mooca": 0.0156,
+            "itaim_bibi": 0.0154,
+            "centro": 0.0159,
+            "santa_cecilia": 0.0161,
+            "tatuape": 0.0229,
+            "itaquera": 0.0168,
+            "butanta": 0.018,
+            "tucuruvi": 0.0183,
+            "barra_funda": 0.0185,
+            "paraiso": 0.019
+          }
+        }
       ]
     },
     {
       "question": "Qual é seu estilo de transporte preferido?",
       "answers": [
-        { "text": "🚁 Helicóptero (para evitar o trânsito da Marginal)", "points": { "jardins": 0.9, "itaim_bibi": 0.6 } },
-        { "text": "🚇 Metrô lotado com ar condicionado quebrado", "points": { "centro": 1, "itaquera": 0.5 } },
-        { "text": "🚲 Bicicleta com adesivo de 'Salve o Planeta'", "points": { "pinheiros": 1, "vila_madalena": 0.4 } },
-        { "text": "🚶 Caminhar (mas só até a padaria)", "points": { "tucuruvi": 1, "mooca": 0.3 } }
+        {
+          "text": "🚁 Helicóptero (para evitar o trânsito da Marginal)",
+          "points": {
+            "jardins": 0.0232,
+            "itaim_bibi": 0.0245,
+            "liberdade": 0.0148,
+            "vila_madalena": 0.0151,
+            "mooca": 0.0154,
+            "pinheiros": 0.0154,
+            "centro": 0.0161,
+            "santa_cecilia": 0.0162,
+            "tatuape": 0.0175,
+            "itaquera": 0.0169,
+            "butanta": 0.018,
+            "tucuruvi": 0.0188,
+            "barra_funda": 0.0189,
+            "paraiso": 0.0193
+          }
+        },
+        {
+          "text": "🚇 Metrô lotado com ar condicionado quebrado",
+          "points": {
+            "centro": 0.0242,
+            "itaquera": 0.0271,
+            "jardins": 0.0159,
+            "liberdade": 0.0161,
+            "vila_madalena": 0.0163,
+            "mooca": 0.0167,
+            "itaim_bibi": 0.0163,
+            "pinheiros": 0.0171,
+            "santa_cecilia": 0.017,
+            "tatuape": 0.0303,
+            "butanta": 0.0179,
+            "tucuruvi": 0.0187,
+            "barra_funda": 0.0188,
+            "paraiso": 0.0191
+          }
+        },
+        {
+          "text": "🚲 Bicicleta com adesivo de 'Salve o Planeta'",
+          "points": {
+            "pinheiros": 0.0212,
+            "vila_madalena": 0.0291,
+            "jardins": 0.0152,
+            "liberdade": 0.0155,
+            "mooca": 0.0155,
+            "itaim_bibi": 0.0153,
+            "centro": 0.016,
+            "santa_cecilia": 0.0162,
+            "tatuape": 0.0232,
+            "itaquera": 0.0169,
+            "butanta": 0.0178,
+            "tucuruvi": 0.0185,
+            "barra_funda": 0.0187,
+            "paraiso": 0.0192
+          }
+        },
+        {
+          "text": "🚶 Caminhar (mas só até a padaria)",
+          "points": {
+            "tucuruvi": 0.0258,
+            "mooca": 0.0284,
+            "jardins": 0.0162,
+            "liberdade": 0.0164,
+            "vila_madalena": 0.0166,
+            "itaim_bibi": 0.0161,
+            "pinheiros": 0.0169,
+            "centro": 0.0173,
+            "santa_cecilia": 0.0173,
+            "tatuape": 0.0179,
+            "itaquera": 0.0178,
+            "butanta": 0.0181,
+            "barra_funda": 0.0183,
+            "paraiso": 0.0187
+          }
+        }
       ]
     },
     {
       "question": "Qual é o seu pet ideal?",
       "answers": [
-        { "text": "🐕 Um vira-lata caramelo (pra postar foto com #AdotarÉAMelhorEscolha)", "points": { "vila_madalena": 1, "pinheiros": 0.5 } },
-        { "text": "🐈 Um gato siamês (pra combinar com o sofá de design)", "points": { "jardins": 1, "itaim_bibi": 0.6 } },
-        { "text": "🐦 Um papagaio que repete as fofocas dos vizinhos", "points": { "tucuruvi": 1, "mooca": 0.4 } },
-        { "text": "🐟 Um peixe (porque você nunca está em casa)", "points": { "barra_funda": 1, "santa_cecilia": 0.7 } }
+        {
+          "text": "🐕 Um vira-lata caramelo (pra postar foto com #AdotarÉAMelhorEscolha)",
+          "points": {
+            "vila_madalena": 0.0237,
+            "pinheiros": 0.0277,
+            "jardins": 0.0153,
+            "liberdade": 0.0157,
+            "mooca": 0.0157,
+            "itaim_bibi": 0.0154,
+            "centro": 0.0162,
+            "santa_cecilia": 0.0163,
+            "tatuape": 0.0174,
+            "itaquera": 0.0169,
+            "butanta": 0.0178,
+            "tucuruvi": 0.0185,
+            "barra_funda": 0.0187,
+            "paraiso": 0.0193
+          }
+        },
+        {
+          "text": "🐈 Um gato siamês (pra combinar com o sofá de design)",
+          "points": {
+            "jardins": 0.0245,
+            "itaim_bibi": 0.0254,
+            "liberdade": 0.015,
+            "vila_madalena": 0.0152,
+            "mooca": 0.0156,
+            "pinheiros": 0.0155,
+            "centro": 0.0162,
+            "santa_cecilia": 0.0163,
+            "tatuape": 0.0176,
+            "itaquera": 0.017,
+            "butanta": 0.0181,
+            "tucuruvi": 0.0188,
+            "barra_funda": 0.0189,
+            "paraiso": 0.0195
+          }
+        },
+        {
+          "text": "🐦 Um papagaio que repete as fofocas dos vizinhos",
+          "points": {
+            "tucuruvi": 0.0258,
+            "mooca": 0.0315,
+            "jardins": 0.0162,
+            "liberdade": 0.0165,
+            "vila_madalena": 0.0168,
+            "itaim_bibi": 0.0162,
+            "pinheiros": 0.017,
+            "centro": 0.0174,
+            "santa_cecilia": 0.0174,
+            "tatuape": 0.0181,
+            "itaquera": 0.0179,
+            "butanta": 0.0182,
+            "barra_funda": 0.0183,
+            "paraiso": 0.0187
+          }
+        },
+        {
+          "text": "🐟 Um peixe (porque você nunca está em casa)",
+          "points": {
+            "barra_funda": 0.0216,
+            "santa_cecilia": 0.0446,
+            "jardins": 0.017,
+            "liberdade": 0.0173,
+            "vila_madalena": 0.0174,
+            "mooca": 0.0177,
+            "itaim_bibi": 0.0172,
+            "pinheiros": 0.0179,
+            "centro": 0.0183,
+            "tatuape": 0.0187,
+            "itaquera": 0.0179,
+            "butanta": 0.0367,
+            "tucuruvi": 0.0195,
+            "paraiso": 0.0191
+          }
+        }
       ]
     },
     {
       "question": "Qual é o seu programa de fim de semana?",
       "answers": [
-        { "text": "🍷 Degustação de vinhos em um terraço com vista", "points": { "jardins": 1, "itaim_bibi": 0.5 } },
-        { "text": "🎤 Karaokê em um bar escondido da Liberdade", "points": { "liberdade": 1, "centro": 0.3 } },
-        { "text": "⚽ Churrasco com os amigos e jogo do Corinthians", "points": { "mooca": 1, "itaquera": 0.8 } },
-        { "text": "🎧 Festa underground em um galpão abandonado", "points": { "barra_funda": 1, "santa_cecilia": 0.6 } }
+        {
+          "text": "🍷 Degustação de vinhos em um terraço com vista",
+          "points": {
+            "jardins": 0.0245,
+            "itaim_bibi": 0.0241,
+            "liberdade": 0.0149,
+            "vila_madalena": 0.0151,
+            "mooca": 0.0155,
+            "pinheiros": 0.0154,
+            "centro": 0.0161,
+            "santa_cecilia": 0.0163,
+            "tatuape": 0.0175,
+            "itaquera": 0.0169,
+            "butanta": 0.0179,
+            "tucuruvi": 0.0188,
+            "barra_funda": 0.0189,
+            "paraiso": 0.0194
+          }
+        },
+        {
+          "text": "🎤 Karaokê em um bar escondido da Liberdade",
+          "points": {
+            "liberdade": 0.0285,
+            "centro": 0.0277,
+            "jardins": 0.0156,
+            "vila_madalena": 0.0155,
+            "mooca": 0.0159,
+            "itaim_bibi": 0.0156,
+            "pinheiros": 0.0164,
+            "santa_cecilia": 0.0162,
+            "tatuape": 0.0168,
+            "itaquera": 0.0167,
+            "butanta": 0.0172,
+            "tucuruvi": 0.0181,
+            "barra_funda": 0.0184,
+            "paraiso": 0.0188
+          }
+        },
+        {
+          "text": "⚽ Churrasco com os amigos e jogo do Corinthians",
+          "points": {
+            "mooca": 0.0229,
+            "itaquera": 0.0307,
+            "jardins": 0.0161,
+            "liberdade": 0.0164,
+            "vila_madalena": 0.0166,
+            "itaim_bibi": 0.0159,
+            "pinheiros": 0.0168,
+            "centro": 0.0173,
+            "santa_cecilia": 0.0174,
+            "tatuape": 0.0218,
+            "butanta": 0.0183,
+            "tucuruvi": 0.0189,
+            "barra_funda": 0.0189,
+            "paraiso": 0.0195
+          }
+        },
+        {
+          "text": "🎧 Festa underground em um galpão abandonado",
+          "points": {
+            "barra_funda": 0.0216,
+            "santa_cecilia": 0.0419,
+            "jardins": 0.017,
+            "liberdade": 0.0172,
+            "vila_madalena": 0.0175,
+            "mooca": 0.0177,
+            "itaim_bibi": 0.0173,
+            "pinheiros": 0.0182,
+            "centro": 0.0185,
+            "tatuape": 0.0182,
+            "itaquera": 0.0181,
+            "butanta": 0.0189,
+            "tucuruvi": 0.0191,
+            "paraiso": 0.0188
+          }
+        }
       ]
     },
     {
       "question": "Qual é o seu maior sonho?",
       "answers": [
-        { "text": "🌎 Morar em outro país (mas só se for NYC ou Paris)", "points": { "jardins": 1, "itaim_bibi": 0.7 } },
-        { "text": "🏆 Ver seu time ganhar o campeonato (e zoar os rivais)", "points": { "mooca": 1, "itaquera": 0.8 } },
-        { "text": "🎨 Abrir um café com galeria de arte no fundo", "points": { "vila_madalena": 1, "pinheiros": 0.6 } },
-        { "text": "🚀 Ficar rico e nunca mais pegar metrô lotado", "points": { "centro": 1, "barra_funda": 0.5 } }
+        {
+          "text": "🌎 Morar em outro país (mas só se for NYC ou Paris)",
+          "points": {
+            "jardins": 0.0245,
+            "itaim_bibi": 0.0267,
+            "liberdade": 0.015,
+            "vila_madalena": 0.0153,
+            "mooca": 0.0157,
+            "pinheiros": 0.0156,
+            "centro": 0.0163,
+            "santa_cecilia": 0.0164,
+            "tatuape": 0.0178,
+            "itaquera": 0.017,
+            "butanta": 0.0183,
+            "tucuruvi": 0.0189,
+            "barra_funda": 0.019,
+            "paraiso": 0.0196
+          }
+        },
+        {
+          "text": "🏆 Ver seu time ganhar o campeonato (e zoar os rivais)",
+          "points": {
+            "mooca": 0.0229,
+            "itaquera": 0.0308,
+            "jardins": 0.0161,
+            "liberdade": 0.0165,
+            "vila_madalena": 0.0166,
+            "itaim_bibi": 0.0159,
+            "pinheiros": 0.0168,
+            "centro": 0.0174,
+            "santa_cecilia": 0.0174,
+            "tatuape": 0.0187,
+            "butanta": 0.0182,
+            "tucuruvi": 0.0188,
+            "barra_funda": 0.0189,
+            "paraiso": 0.0195
+          }
+        },
+        {
+          "text": "🎨 Abrir um café com galeria de arte no fundo",
+          "points": {
+            "vila_madalena": 0.0237,
+            "pinheiros": 0.0294,
+            "jardins": 0.0155,
+            "liberdade": 0.0158,
+            "mooca": 0.0158,
+            "itaim_bibi": 0.0154,
+            "centro": 0.0163,
+            "santa_cecilia": 0.0165,
+            "tatuape": 0.0176,
+            "itaquera": 0.017,
+            "butanta": 0.0181,
+            "tucuruvi": 0.0187,
+            "barra_funda": 0.0188,
+            "paraiso": 0.0193
+          }
+        },
+        {
+          "text": "🚀 Ficar rico e nunca mais pegar metrô lotado",
+          "points": {
+            "centro": 0.0242,
+            "barra_funda": 0.0297,
+            "jardins": 0.0165,
+            "liberdade": 0.0168,
+            "vila_madalena": 0.017,
+            "mooca": 0.0173,
+            "itaim_bibi": 0.017,
+            "pinheiros": 0.0177,
+            "santa_cecilia": 0.0175,
+            "tatuape": 0.0201,
+            "itaquera": 0.0179,
+            "butanta": 0.0197,
+            "tucuruvi": 0.0193,
+            "paraiso": 0.0189
+          }
+        }
       ]
     }
   ],
