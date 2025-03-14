@@ -1,0 +1,197 @@
+{
+  "title": "Qual Animal da Nota de Real Você Seria?",
+  "subtitle": "Descubra qual bicho das cédulas brasileiras combina com sua personalidade!",
+  "questions": [
+    {
+      "question": "Quando surge um problema, sua primeira reação é:",
+      "answers": [
+        {
+          "text": "🎉 Chamar os amigos para ajudar (nada se resolve sozinho!)",
+          "points": { "arara": 1, "mico": 0.5 }
+        },
+        {
+          "text": "🔍 Analisar silenciosamente antes de agir (melhor prevenir que remediar)",
+          "points": { "onça": 1, "tartaruga": 0.7 }
+        },
+        {
+          "text": "🤔 Pedir conselhos a 3 pessoas diferentes (visões múltiplas = solução perfeita)",
+          "points": { "garca": 1, "mico": 0.3 }
+        },
+        {
+          "text": "🌊 Deixar rolar e ver no que dá (às vezes o problema se resolve sozinho, né?)",
+          "points": { "tartaruga": 1, "garoupa": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Seu plano de final de semana ideal inclui:",
+      "answers": [
+        {
+          "text": "🪩 Festa com música alta e gente nova (quanto mais, melhor!)",
+          "points": { "arara": 1, "mico": 0.4 }
+        },
+        {
+          "text": "🏞️ Uma trilha em silêncio na natureza (só eu e os pássaros)",
+          "points": { "onça": 1, "lobo": 0.7 }
+        },
+        {
+          "text": "☕ Cafézinho com os amigos de sempre (nada como os clássicos)",
+          "points": { "garca": 1, "tartaruga": 0.3 }
+        },
+        {
+          "text": "🎮 Video game + experimentar uma receita aleatória do TikTok",
+          "points": { "mico": 1, "arara": 0.6 }
+        }
+      ]
+    },
+    {
+      "question": "Em uma discussão, você:",
+      "answers": [
+        {
+          "text": "💥 Defende sua opinião até o fim (não recuo nem que a onça apareça!)",
+          "points": { "onça": 1, "arara": 0.5 }
+        },
+        {
+          "text": "🕊️ Medeia o conflito (alguém tem que ser a voz da razão)",
+          "points": { "garca": 1, "tartaruga": 0.4 }
+        },
+        {
+          "text": "😅 Ri para descontrair (briga? Só se for de dança!)",
+          "points": { "arara": 1, "mico": 0.7 }
+        },
+        {
+          "text": "📚 Ouve todos, depois dá uma solução por escrito (de preferência com emojis)",
+          "points": { "tartaruga": 1, "lobo": 0.4 }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase combina com você?",
+      "answers": [
+        {
+          "text": "🌟 'Sou a alma da festa!' (odeio silêncio prolongado)",
+          "points": { "arara": 1, "mico": 0.6 }
+        },
+        {
+          "text": "🧠 'Penso 10x antes de falar' (prefiro planejar cada passo)",
+          "points": { "onça": 1, "lobo": 0.8 }
+        },
+        {
+          "text": "🤝 'Equilíbrio acima de tudo' (nada de extremos)",
+          "points": { "garca": 1, "garoupa": 0.5 }
+        },
+        {
+          "text": "🌿 'Deixa a vida me levar... devagar' (pressão? Não obrigado)",
+          "points": { "tartaruga": 1, "garoupa": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "Seu chefe te pede um projeto urgente. Você:",
+      "answers": [
+        {
+          "text": "💼 Aceita na hora (adoro um desafio relâmpago!)",
+          "points": { "arara": 1, "mico": 0.4 }
+        },
+        {
+          "text": "📅 Negocia prazos (nada de trabalho mal feito)",
+          "points": { "lobo": 1, "tartaruga": 0.7 }
+        },
+        {
+          "text": "🤫 Faz sem alarde (eficácia > reconhecimento)",
+          "points": { "onça": 1, "garca": 0.3 }
+        },
+        {
+          "text": "🔄 Terceiriza partes (timework faz o sonho funcionar)",
+          "points": { "garoupa": 1, "mico": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Num churrasco, você está:",
+      "answers": [
+        {
+          "text": "🔥 No centro da mesa contando histórias (o entretenimento oficial)",
+          "points": { "arara": 1, "mico": 0.6 }
+        },
+        {
+          "text": "🌳 Na sombra observando (só participo se valer a pena)",
+          "points": { "lobo": 1, "onça": 0.5 }
+        },
+        {
+          "text": "🍖 Ajudando a assar a carne (mão na massa é meu lema)",
+          "points": { "garoupa": 1, "tartaruga": 0.4 }
+        },
+        {
+          "text": "🥤 Circulando entre grupos (não quero deixar ninguém de fora)",
+          "points": { "garca": 1, "mico": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é seu superpoder secreto?",
+      "answers": [
+        {
+          "text": "🎤 Convencer até uma pedra a dançar (carisma nível 1000)",
+          "points": { "arara": 1, "mico": 0.7 }
+        },
+        {
+          "text": "🕵️♂️ Saber tudo sobre todos sem levantar suspeitas (ninja da observação)",
+          "points": { "onça": 1, "lobo": 0.9 }
+        },
+        {
+          "text": "🧘♀️ Manter a calma até no caos (mestre da paciência)",
+          "points": { "tartaruga": 1, "garoupa": 0.6 }
+        },
+        {
+          "text": "🎲 Improvisar soluções com o que tem (estilo MacGyver)",
+          "points": { "mico": 1, "garoupa": 0.4 }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "arara": {
+      "title": "Arara da Nota de R$10",
+      "emoji": "🦜",
+      "subtitle": "O Animado Colorido",
+      "text": "Você é a Arara! Extrovertido, adora socializar e chama atenção com sua energia contagiante. Seu lema: 'Por que voar baixo se o céu é tão grande?'"
+    },
+    "onça": {
+      "title": "Onça-Pintada da Nota de R$50",
+      "emoji": "🐆",
+      "subtitle": "O Estratégico Discreto",
+      "text": "Você é a Onça! Observador, estratégico e valoriza seu espaço. Age com precisão e só mostra suas garras quando necessário. Mistério é seu sobrenome."
+    },
+    "garca": {
+      "title": "Garça da Nota de R$5",
+      "emoji": "🦢",
+      "subtitle": "A Diplomata Elegante",
+      "text": "Você é a Garça! Equilibrada, paciente e mantém a postura até na confusão. Sabe navegar entre diferentes grupos sem levantar poeira."
+    },
+    "mico": {
+      "title": "Mico-Leão-Dourado da Nota de R$20",
+      "emoji": "🐒",
+      "subtitle": "O Curioso Irresistível",
+      "text": "Você é o Mico! Curioso, ágil e sempre encontra soluções criativas. Adora explorar novidades, mesmo que isso signifique pendurar-se de cabeça para baixo."
+    },
+    "tartaruga": {
+      "title": "Tartaruga Marinha da Nota de R$2",
+      "emoji": "🐢",
+      "subtitle": "A Sábia Calma",
+      "text": "Você é a Tartaruga! Paciente, persistente e valoriza cada passo. Sabe que a pressa é inimiga da perfeição e prefere maratonas a sprints."
+    },
+    "garoupa": {
+      "title": "Garoupa da Nota de R$100",
+      "emoji": "🐟",
+      "subtitle": "O Adaptável Profundo",
+      "text": "Você é a Garoupa! Tranquilo, mas sabe se impor quando preciso. Vive bem em qualquer maré e tem uma presença que não passa despercebida."
+    },
+    "lobo": {
+      "title": "Lobo-Guará da Nota de R$200",
+      "emoji": "🐺",
+      "subtitle": "O Observador Elegante",
+      "text": "Você é o Lobo-Guará! Independente, tem estilo único e evita confusão. Prefere observar de longe, mas quando age, é com precisão."
+    }
+  }
+}
