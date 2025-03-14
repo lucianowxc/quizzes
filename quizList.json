@@ -344,6 +344,11 @@
             "name": "Você seria um personagem de qual novela das oito?",
             "file": "quizzes/quizNovelas.json",
             "description": "Descubra qual novela clássica da Globo combina com sua personalidade! ✨"
+        },
+        {
+            "name": "Qual Sabor de Sabonete Phebo Você Seria?",
+            "file": "quizzes/quizSabonetesPhebo.json",
+            "description": "Descubra qual sabor de sabonete Phebo mais se parece com você!"
         }
     ]
 }
