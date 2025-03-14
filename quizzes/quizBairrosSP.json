@@ -1,0 +1,149 @@
+{
+  "title": "Qual Bairro de São Paulo Te Representa?",
+  "subtitle": "Descubra qual bairro combina com sua personalidade (e seus estereótipos)!",
+  "questions": [
+    {
+      "question": "Seu domingo perfeito inclui:",
+      "answers": [
+        { "text": "🌳 Fazer brunch em um jardim privativo (de preferência com avião passando)", "points": { "jardins": 0.7, "itaim_bibi": 0.3 } },
+        { "text": "🐉 Comer yakisoba na feira da Liberdade e fingir que entende japonês", "points": { "liberdade": 1, "paraiso": 0.3 } },
+        { "text": "🎨 Visitar 3 galerias de arte e reclamar que 'está muito comercial'", "points": { "vila_madalena": 1, "pinheiros": 0.7 } },
+        { "text": "🍕 Brigar com alguém sobre qual pizzaria tem o melhor forno a lenha", "points": { "mooca": 1, "centro": 0.2 } }
+      ]
+    },
+    {
+      "question": "Qual frase você mais usou na última semana?",
+      "answers": [
+        { "text": "💸 'Isso aqui em NY é muito mais barato!' (você nunca foi pra NY)", "points": { "jardins": 0.8, "itaim_bibi": 1 } },
+        { "text": "📚 'Estou relendo Dostoiévski... na versão original, claro'", "points": { "pinheiros": 1, "vila_madalena": 0.6 } },
+        { "text": "⚽ 'O VAR tá roubando nosso time de novo!'", "points": { "mooca": 1, "itaquera": 0.4 } },
+        { "text": "🚇 'Melhor lugar da cidade: a 500m do metrô!'", "points": { "paraiso": 1, "liberdade": 0.5 } }
+      ]
+    },
+    {
+      "question": "Qual é seu maior medo?",
+      "answers": [
+        { "text": "😱 Ficar sem celular no meio da Paulista", "points": { "paraiso": 1, "itaim_bibi": 0.8 } },
+        { "text": "👻 Ver um influencer fazendo TikTok na sua frente", "points": { "vila_madalena": 1, "jardins": 0.7 } },
+        { "text": "🛒 Acabar em um shopping no domingo", "points": { "mooca": 0.9, "centro": 0.5 } },
+        { "text": "💀 Descobrir que o café especial é da Melitta", "points": { "pinheiros": 1, "liberdade": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é seu estilo de transporte preferido?",
+      "answers": [
+        { "text": "🚁 Helicóptero (para evitar o trânsito da Marginal)", "points": { "jardins": 0.9, "itaim_bibi": 0.6 } },
+        { "text": "🚇 Metrô lotado com ar condicionado quebrado", "points": { "centro": 1, "itaquera": 0.5 } },
+        { "text": "🚲 Bicicleta com adesivo de 'Salve o Planeta'", "points": { "pinheiros": 1, "vila_madalena": 0.4 } },
+        { "text": "🚶 Caminhar (mas só até a padaria)", "points": { "tucuruvi": 1, "mooca": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu pet ideal?",
+      "answers": [
+        { "text": "🐕 Um vira-lata caramelo (pra postar foto com #AdotarÉAMelhorEscolha)", "points": { "vila_madalena": 1, "pinheiros": 0.5 } },
+        { "text": "🐈 Um gato siamês (pra combinar com o sofá de design)", "points": { "jardins": 1, "itaim_bibi": 0.6 } },
+        { "text": "🐦 Um papagaio que repete as fofocas dos vizinhos", "points": { "tucuruvi": 1, "mooca": 0.4 } },
+        { "text": "🐟 Um peixe (porque você nunca está em casa)", "points": { "barra_funda": 1, "santa_cecilia": 0.7 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu programa de fim de semana?",
+      "answers": [
+        { "text": "🍷 Degustação de vinhos em um terraço com vista", "points": { "jardins": 1, "itaim_bibi": 0.5 } },
+        { "text": "🎤 Karaokê em um bar escondido da Liberdade", "points": { "liberdade": 1, "centro": 0.3 } },
+        { "text": "⚽ Churrasco com os amigos e jogo do Corinthians", "points": { "mooca": 1, "itaquera": 0.8 } },
+        { "text": "🎧 Festa underground em um galpão abandonado", "points": { "barra_funda": 1, "santa_cecilia": 0.6 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu maior sonho?",
+      "answers": [
+        { "text": "🌎 Morar em outro país (mas só se for NYC ou Paris)", "points": { "jardins": 1, "itaim_bibi": 0.7 } },
+        { "text": "🏆 Ver seu time ganhar o campeonato (e zoar os rivais)", "points": { "mooca": 1, "itaquera": 0.8 } },
+        { "text": "🎨 Abrir um café com galeria de arte no fundo", "points": { "vila_madalena": 1, "pinheiros": 0.6 } },
+        { "text": "🚀 Ficar rico e nunca mais pegar metrô lotado", "points": { "centro": 1, "barra_funda": 0.5 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "jardins": {
+      "title": "Jardins",
+      "emoji": "🌳🍷",
+      "subtitle": "O Elegante Clássico",
+      "text": "Você é o morador dos Jardins que acha que 'barzinho bom' tem que ter carta de vinhos. Seu trauma? O Uber demorar 5 minutos na frente do Iguatemi."
+    },
+    "liberdade": {
+      "title": "Liberdade",
+      "emoji": "🐉🍜",
+      "subtitle": "Fusion Cultural",
+      "text": "Você é Liberdade: metade otaku, metade foodie. Já discutiu sobre o melhor lamen enquanto comprava uma caneca do Naruto na feirinha."
+    },
+    "vila_madalena": {
+      "title": "Vila Madalena",
+      "emoji": "🎨🍺",
+      "subtitle": "Alternativo Artístico",
+      "text": "Você é a alma da Vila: tem tatuagem que ninguém entende, frequenta botecos sem maquininha e já tentou fazer cerâmica (desistiu no dia 2)."
+    },
+    "mooca": {
+      "title": "Mooca",
+      "emoji": "🍕⚽",
+      "subtitle": "Tradicionalista Raiz",
+      "text": "Você é Mooca! Pizza só é boa se for no estilo italiano *de verdade*. E seu sangue ferve se alguém fala mal do seu time."
+    },
+    "itaim_bibi": {
+      "title": "Itaim Bibi",
+      "emoji": "💼🥑",
+      "subtitle": "Workaholic Fitness",
+      "text": "Você é Itaim Bibi: malha às 6h, trabalha 12h/dia e só frequenta lugares com 'conceito' (de preferência com kombucha no cardápio)."
+    },
+    "pinheiros": {
+      "title": "Pinheiros",
+      "emoji": "🌆🍹",
+      "subtitle": "Trendy Multicamadas",
+      "text": "Você é Pinheiros: mistura boteco velho com coworking hipster. Sabe todos os lugares *instagramáveis*, mas nunca posta nada."
+    },
+    "centro": {
+      "title": "Centro",
+      "emoji": "🏛️🚧",
+      "subtitle": "Caos Histórico",
+      "text": "Você é o Centro! Já sobreviveu a 3 golpes na 25 de Março, sabe onde comprar *tudo* por R$10 e acha normal sirene às 3h."
+    },
+    "santa_cecilia": {
+      "title": "Santa Cecília",
+      "emoji": "🎭🍻",
+      "subtitle": "Boêmio Underground",
+      "text": "Você é Santa Cecília: frequenta bares que nem Google Maps conhece e já foi em 3 peças de teatro experimental este mês."
+    },
+    "tatuape": {
+      "title": "Tatuapé",
+      "emoji": "👨👩👧👦🏢",
+      "subtitle": "Família e Concreto",
+      "text": "Você é Tatuapé! Sabe todas as promoções do shopping, ama um churrasco no domingo e tem orgulho de nunca ter ido à Paulista."
+    },
+    "itaquera": {
+      "title": "Itaquera",
+      "emoji": "🥁⚽",
+      "subtitle": "Samba e Corinthians",
+      "text": "Você é Itaquera: domingo é dia de feijoada, samba no coreto e orgulho de dizer que o metrô acabou com seu sossego."
+    },
+    "butanta": {
+      "title": "Butantã",
+      "emoji": "🧪🍺",
+      "subtitle": "Universitário Noturno",
+      "text": "Você é Butantã: divide apartamento com 5 pessoas, vive de happy hour e já confundiu a USP com um parque de diversões."
+    },
+    "tucuruvi": {
+      "title": "Tucuruvi",
+      "emoji": "🌳👵",
+      "subtitle": "Sossego Vintage",
+      "text": "Você é Tucuruvi: adora um café na padaria das 8h, sabe todas as fofocas do bairro e tem medo de prédios altos."
+    },
+    "barra_funda": {
+      "title": "Barra Funda",
+      "emoji": "🏭🎧",
+      "subtitle": "Industrial Festivo",
+      "text": "Você é Barra Funda: já foi em rave em galpão abandonado, conhece todos os DJs underground e acha normal o som de trem às 4h."
+    }
+  }
+}
