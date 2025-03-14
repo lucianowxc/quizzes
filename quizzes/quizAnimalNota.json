@@ -7,19 +7,51 @@
       "answers": [
         {
           "text": "🎉 Chamar os amigos para ajudar (nada se resolve sozinho!)",
-          "points": { "arara": 1, "mico": 0.5 }
+          "points": {
+            "arara": 0.0929,
+            "mico": 0.0847,
+            "onça": 0.0081,
+            "garca": 0.0096,
+            "tartaruga": 0.0062,
+            "garoupa": 0.0077,
+            "lobo": 0.0078
+          }
         },
         {
           "text": "🔍 Analisar silenciosamente antes de agir (melhor prevenir que remediar)",
-          "points": { "onça": 1, "tartaruga": 0.7 }
+          "points": {
+            "onça": 0.1173,
+            "tartaruga": 0.1335,
+            "arara": 0.0054,
+            "garca": 0.0084,
+            "mico": 0.0039,
+            "garoupa": 0.0067,
+            "lobo": 0.0068
+          }
         },
         {
           "text": "🤔 Pedir conselhos a 3 pessoas diferentes (visões múltiplas = solução perfeita)",
-          "points": { "garca": 1, "mico": 0.3 }
+          "points": {
+            "garca": 0.1397,
+            "mico": 0.0592,
+            "arara": 0.0051,
+            "onça": 0.0066,
+            "tartaruga": 0.005,
+            "garoupa": 0.0063,
+            "lobo": 0.0064
+          }
         },
         {
           "text": "🌊 Deixar rolar e ver no que dá (às vezes o problema se resolve sozinho, né?)",
-          "points": { "tartaruga": 1, "garoupa": 0.5 }
+          "points": {
+            "tartaruga": 0.0891,
+            "garoupa": 0.1427,
+            "arara": 0.0053,
+            "onça": 0.0067,
+            "garca": 0.0081,
+            "mico": 0.0039,
+            "lobo": 0.0064
+          }
         }
       ]
     },
@@ -28,19 +60,51 @@
       "answers": [
         {
           "text": "🪩 Festa com música alta e gente nova (quanto mais, melhor!)",
-          "points": { "arara": 1, "mico": 0.4 }
+          "points": {
+            "arara": 0.0929,
+            "mico": 0.0752,
+            "onça": 0.0079,
+            "garca": 0.0094,
+            "tartaruga": 0.0061,
+            "garoupa": 0.0075,
+            "lobo": 0.0077
+          }
         },
         {
           "text": "🏞️ Uma trilha em silêncio na natureza (só eu e os pássaros)",
-          "points": { "onça": 1, "lobo": 0.7 }
+          "points": {
+            "onça": 0.1173,
+            "lobo": 0.1628,
+            "arara": 0.0051,
+            "garca": 0.0076,
+            "mico": 0.0037,
+            "tartaruga": 0.0049,
+            "garoupa": 0.0061
+          }
         },
         {
           "text": "☕ Cafézinho com os amigos de sempre (nada como os clássicos)",
-          "points": { "garca": 1, "tartaruga": 0.3 }
+          "points": {
+            "garca": 0.1397,
+            "tartaruga": 0.0795,
+            "arara": 0.0048,
+            "onça": 0.0061,
+            "mico": 0.0035,
+            "garoupa": 0.0058,
+            "lobo": 0.006
+          }
         },
         {
           "text": "🎮 Video game + experimentar uma receita aleatória do TikTok",
-          "points": { "mico": 1, "arara": 0.6 }
+          "points": {
+            "mico": 0.0661,
+            "arara": 0.15,
+            "onça": 0.0073,
+            "garca": 0.0088,
+            "tartaruga": 0.0056,
+            "garoupa": 0.007,
+            "lobo": 0.0072
+          }
         }
       ]
     },
@@ -49,19 +113,51 @@
       "answers": [
         {
           "text": "💥 Defende sua opinião até o fim (não recuo nem que a onça apareça!)",
-          "points": { "onça": 1, "arara": 0.5 }
+          "points": {
+            "onça": 0.1173,
+            "arara": 0.1155,
+            "garca": 0.0077,
+            "mico": 0.0036,
+            "tartaruga": 0.0051,
+            "garoupa": 0.0062,
+            "lobo": 0.0065
+          }
         },
         {
           "text": "🕊️ Medeia o conflito (alguém tem que ser a voz da razão)",
-          "points": { "garca": 1, "tartaruga": 0.4 }
+          "points": {
+            "garca": 0.1397,
+            "tartaruga": 0.0943,
+            "arara": 0.0048,
+            "onça": 0.0061,
+            "mico": 0.0035,
+            "garoupa": 0.0059,
+            "lobo": 0.0061
+          }
         },
         {
           "text": "😅 Ri para descontrair (briga? Só se for de dança!)",
-          "points": { "arara": 1, "mico": 0.7 }
+          "points": {
+            "arara": 0.0929,
+            "mico": 0.1018,
+            "onça": 0.0084,
+            "garca": 0.0101,
+            "tartaruga": 0.0064,
+            "garoupa": 0.0079,
+            "lobo": 0.0081
+          }
         },
         {
           "text": "📚 Ouve todos, depois dá uma solução por escrito (de preferência com emojis)",
-          "points": { "tartaruga": 1, "lobo": 0.4 }
+          "points": {
+            "tartaruga": 0.0891,
+            "lobo": 0.1291,
+            "arara": 0.0052,
+            "onça": 0.0066,
+            "garca": 0.0079,
+            "mico": 0.0038,
+            "garoupa": 0.0062
+          }
         }
       ]
     },
@@ -70,19 +166,51 @@
       "answers": [
         {
           "text": "🌟 'Sou a alma da festa!' (odeio silêncio prolongado)",
-          "points": { "arara": 1, "mico": 0.6 }
+          "points": {
+            "arara": 0.0929,
+            "mico": 0.0935,
+            "onça": 0.0082,
+            "garca": 0.0098,
+            "tartaruga": 0.0062,
+            "garoupa": 0.0078,
+            "lobo": 0.008
+          }
         },
         {
           "text": "🧠 'Penso 10x antes de falar' (prefiro planejar cada passo)",
-          "points": { "onça": 1, "lobo": 0.8 }
+          "points": {
+            "onça": 0.1173,
+            "lobo": 0.1761,
+            "arara": 0.0051,
+            "garca": 0.0078,
+            "mico": 0.0037,
+            "tartaruga": 0.005,
+            "garoupa": 0.0062
+          }
         },
         {
           "text": "🤝 'Equilíbrio acima de tudo' (nada de extremos)",
-          "points": { "garca": 1, "garoupa": 0.5 }
+          "points": {
+            "garca": 0.1397,
+            "garoupa": 0.129,
+            "arara": 0.0046,
+            "onça": 0.0059,
+            "mico": 0.0033,
+            "tartaruga": 0.0046,
+            "lobo": 0.0057
+          }
         },
         {
           "text": "🌿 'Deixa a vida me levar... devagar' (pressão? Não obrigado)",
-          "points": { "tartaruga": 1, "garoupa": 0.3 }
+          "points": {
+            "tartaruga": 0.0891,
+            "garoupa": 0.1086,
+            "arara": 0.0053,
+            "onça": 0.0067,
+            "garca": 0.0081,
+            "mico": 0.0038,
+            "lobo": 0.0065
+          }
         }
       ]
     },
@@ -91,19 +219,51 @@
       "answers": [
         {
           "text": "💼 Aceita na hora (adoro um desafio relâmpago!)",
-          "points": { "arara": 1, "mico": 0.4 }
+          "points": {
+            "arara": 0.0929,
+            "mico": 0.0752,
+            "onça": 0.0079,
+            "garca": 0.0094,
+            "tartaruga": 0.0061,
+            "garoupa": 0.0075,
+            "lobo": 0.0077
+          }
         },
         {
           "text": "📅 Negocia prazos (nada de trabalho mal feito)",
-          "points": { "lobo": 1, "tartaruga": 0.7 }
+          "points": {
+            "lobo": 0.1098,
+            "tartaruga": 0.1467,
+            "arara": 0.0054,
+            "onça": 0.0069,
+            "garca": 0.0082,
+            "mico": 0.0039,
+            "garoupa": 0.0066
+          }
         },
         {
           "text": "🤫 Faz sem alarde (eficácia > reconhecimento)",
-          "points": { "onça": 1, "garca": 0.3 }
+          "points": {
+            "onça": 0.1173,
+            "garca": 0.1279,
+            "arara": 0.0043,
+            "mico": 0.0032,
+            "tartaruga": 0.0043,
+            "garoupa": 0.0053,
+            "lobo": 0.0055
+          }
         },
         {
           "text": "🔄 Terceiriza partes (timework faz o sonho funcionar)",
-          "points": { "garoupa": 1, "mico": 0.5 }
+          "points": {
+            "garoupa": 0.1086,
+            "mico": 0.0946,
+            "arara": 0.0059,
+            "onça": 0.0075,
+            "garca": 0.0089,
+            "tartaruga": 0.0057,
+            "lobo": 0.0071
+          }
         }
       ]
     },
@@ -112,19 +272,51 @@
       "answers": [
         {
           "text": "🔥 No centro da mesa contando histórias (o entretenimento oficial)",
-          "points": { "arara": 1, "mico": 0.6 }
+          "points": {
+            "arara": 0.0929,
+            "mico": 0.0935,
+            "onça": 0.0082,
+            "garca": 0.0098,
+            "tartaruga": 0.0062,
+            "garoupa": 0.0078,
+            "lobo": 0.008
+          }
         },
         {
           "text": "🌳 Na sombra observando (só participo se valer a pena)",
-          "points": { "lobo": 1, "onça": 0.5 }
+          "points": {
+            "lobo": 0.1098,
+            "onça": 0.1591,
+            "arara": 0.0046,
+            "garca": 0.0071,
+            "mico": 0.0033,
+            "tartaruga": 0.0045,
+            "garoupa": 0.0056
+          }
         },
         {
           "text": "🍖 Ajudando a assar a carne (mão na massa é meu lema)",
-          "points": { "garoupa": 1, "tartaruga": 0.4 }
+          "points": {
+            "garoupa": 0.1086,
+            "tartaruga": 0.111,
+            "arara": 0.0052,
+            "onça": 0.0066,
+            "garca": 0.0078,
+            "mico": 0.0037,
+            "lobo": 0.0064
+          }
         },
         {
           "text": "🥤 Circulando entre grupos (não quero deixar ninguém de fora)",
-          "points": { "garca": 1, "mico": 0.3 }
+          "points": {
+            "garca": 0.1397,
+            "mico": 0.0592,
+            "arara": 0.0051,
+            "onça": 0.0066,
+            "tartaruga": 0.005,
+            "garoupa": 0.0063,
+            "lobo": 0.0064
+          }
         }
       ]
     },
@@ -133,19 +325,51 @@
       "answers": [
         {
           "text": "🎤 Convencer até uma pedra a dançar (carisma nível 1000)",
-          "points": { "arara": 1, "mico": 0.7 }
+          "points": {
+            "arara": 0.0929,
+            "mico": 0.1018,
+            "onça": 0.0084,
+            "garca": 0.0101,
+            "tartaruga": 0.0064,
+            "garoupa": 0.0079,
+            "lobo": 0.0081
+          }
         },
         {
           "text": "🕵️♂️ Saber tudo sobre todos sem levantar suspeitas (ninja da observação)",
-          "points": { "onça": 1, "lobo": 0.9 }
+          "points": {
+            "onça": 0.1173,
+            "lobo": 0.1891,
+            "arara": 0.0052,
+            "garca": 0.0079,
+            "mico": 0.0037,
+            "tartaruga": 0.0051,
+            "garoupa": 0.0062
+          }
         },
         {
           "text": "🧘♀️ Manter a calma até no caos (mestre da paciência)",
-          "points": { "tartaruga": 1, "garoupa": 0.6 }
+          "points": {
+            "tartaruga": 0.0891,
+            "garoupa": 0.1575,
+            "arara": 0.0053,
+            "onça": 0.0069,
+            "garca": 0.0082,
+            "mico": 0.0039,
+            "lobo": 0.0065
+          }
         },
         {
           "text": "🎲 Improvisar soluções com o que tem (estilo MacGyver)",
-          "points": { "mico": 1, "garoupa": 0.4 }
+          "points": {
+            "mico": 0.0661,
+            "garoupa": 0.1339,
+            "arara": 0.0056,
+            "onça": 0.0071,
+            "garca": 0.0085,
+            "tartaruga": 0.0054,
+            "lobo": 0.0068
+          }
         }
       ]
     }
