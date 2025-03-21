@@ -1,0 +1,88 @@
+{
+  "title": "Quem é você na rosa dos ventos?",
+  "subtitle": "Descubra qual ponto cardinal combina com sua personalidade (e suas manias)!",
+  "questions": [
+    {
+      "question": "Se você fosse um vento, qual seria sua missão? 🌬️",
+      "answers": [
+        { "text": "Destruir barreiras (e deixar um rastro de caos) 🌪️", "points": { "nordeste": 0.7, "sudoeste": 0.3, "leste": 0.5 } },
+        { "text": "Espalhar folhas secas no chão de quem reclama demais 🍂", "points": { "sul": 0.9, "noroeste": 0.4, "oeste": 0.2 } },
+        { "text": "Gelar o café de quem fala alto de manhã ☕❄️", "points": { "norte": 1, "sudeste": 0.3, "nordeste": 0.1 } },
+        { "text": "Soprar a internet do inimigo (justiça poética) 📵", "points": { "sudoeste": 0.8, "leste": 0.6, "sudeste": 0.4 } }
+      ]
+    },
+    {
+      "question": "Seus amigos cancelaram um plano de última hora. Você... 😒",
+      "answers": [
+        { "text": "Aproveita pra maratonar séries (e posta story indireta) 🍿📱", "points": { "sul": 0.8, "sudoeste": 0.6, "noroeste": 0.3 } },
+        { "text": "Convoca um plano B mais épico (e obriga todo mundo a ir) 💥", "points": { "leste": 1, "nordeste": 0.7, "norte": 0.4 } },
+        { "text": "Desiste e fica filosofando sobre a natureza humana 🧘♂️", "points": { "noroeste": 0.9, "oeste": 0.5, "sul": 0.2 } },
+        { "text": "Manda meme de desprezo e bloqueia por 2 horas 🖕😆", "points": { "sudoeste": 1, "sudeste": 0.5, "nordeste": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual frase te define em uma festa? 🎉",
+      "answers": [
+        { "text": "“Cadê a comida?” (prioridades claras) 🍗", "points": { "sul": 0.8, "sudoeste": 0.7, "oeste": 0.4 } },
+        { "text": "“Isso aqui precisa de um cronograma!” 📅", "points": { "norte": 1, "sudeste": 0.6, "leste": 0.3 } },
+        { "text": "“Vou dançar até o chão tremer!” 💃🕺", "points": { "leste": 0.9, "nordeste": 0.7, "sudeste": 0.5 } },
+        { "text": "“Já é segunda? Tô vazando.” 🦉🚪", "points": { "noroeste": 0.8, "oeste": 0.6, "sul": 0.5 } }
+      ]
+    },
+    {
+      "question": "Qual superpoder você escolheria para sobreviver a um dia chuvoso? 🌧️",
+      "answers": [
+        { "text": "Controlar o tempo (literalmente) ⏳", "points": { "norte": 1, "sudeste": 0.4, "nordeste": 0.3 } },
+        { "text": "Fazer café quente surgir do nada ☕✨", "points": { "sul": 0.9, "noroeste": 0.5, "sudoeste": 0.2 } },
+        { "text": "Transformar poça em areia de praia 🏖️", "points": { "leste": 0.8, "sudeste": 0.6, "sul": 0.3 } },
+        { "text": "Inventar um guarda-chuva que vira espada 🗡️🌂", "points": { "oeste": 1, "nordeste": 0.5, "sudoeste": 0.4 } }
+      ]
+    },
+    {
+      "question": "Você se perdeu no meio do nada. O que faz? 🗺️",
+      "answers": [
+        { "text": "Cria um app de navegação no tédio 📱", "points": { "leste": 1, "nordeste": 0.6, "norte": 0.3 } },
+        { "text": "Aproveita pra tirar um cochilo sob uma árvore 😴", "points": { "sul": 1, "sudoeste": 0.5, "noroeste": 0.3 } },
+        { "text": "Segue o som de água e vira lenda local 🌊🗿", "points": { "oeste": 0.9, "noroeste": 0.7, "sudeste": 0.2 } },
+        { "text": "Culpa os outros por não terem te avisado 🙄", "points": { "sudeste": 0.8, "sudoeste": 0.7, "nordeste": 0.4 } }
+      ]
+    },
+    {
+      "question": "Qual paisagem combina com sua alma? 🌄",
+      "answers": [
+        { "text": "Glaciar imenso (tudo sob controle) 🏔️", "points": { "norte": 1, "nordeste": 0.3, "noroeste": 0.2 } },
+        { "text": "Praia deserta com rede e coqueiro 🏝️", "points": { "sul": 0.9, "sudoeste": 0.6, "oeste": 0.4 } },
+        { "text": "Cidade futurista com hoverboards 🚀", "points": { "leste": 1, "sudeste": 0.7, "nordeste": 0.5 } },
+        { "text": "Deserto com um único cacto sobrevivente 🌵", "points": { "oeste": 0.9, "sudoeste": 0.8, "noroeste": 0.3 } }
+      ]
+    },
+    {
+      "question": "Um alienígena pede para explicar a humanidade em uma palavra. Você diz: 👽",
+      "answers": [
+        { "text": "“Eficiência!” (e entrega um PowerPoint) 📊", "points": { "norte": 1, "sudeste": 0.6, "leste": 0.3 } },
+        { "text": "“Bagunça... mas *dá pra viver*” 🤷♂️", "points": { "sul": 0.9, "sudoeste": 0.7, "noroeste": 0.2 } },
+        { "text": "“Inovação! (mas esquece os erros da história)” 🚀", "points": { "leste": 1, "nordeste": 0.8, "sudeste": 0.4 } },
+        { "text": "“Sobrevivência. E café. Muito café.” ☕🔥", "points": { "oeste": 0.9, "noroeste": 0.5, "sudoeste": 0.3 } }
+      ]
+    },
+    {
+      "question": "Como você quer ser lembrado(a) daqui a 100 anos? ⏳",
+      "answers": [
+        { "text": "“A pessoa que resolveu tudo (menos a vida pessoal)” 🏆", "points": { "norte": 1, "sudeste": 0.5, "nordeste": 0.3 } },
+        { "text": "“Aquela que descobriu como dormir 12h por dia” 😴", "points": { "sul": 0.9, "sudoeste": 0.6, "oeste": 0.2 } },
+        { "text": "“O inventor do abraço sem contato físico” 🤖", "points": { "leste": 1, "nordeste": 0.7, "noroeste": 0.4 } },
+        { "text": "“O sobrevivente que virou meme histórico” 🦸♂️", "points": { "oeste": 1, "sudoeste": 0.8, "noroeste": 0.3 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "norte": { "title": "NORTE", "emoji": "🧊", "subtitle": "O Líder Glacial", "text": "Você é o Norte! Um líder nato, sempre guiando os outros com determinação fria e estratégia impecável. Mas cuidado: às vezes, sua frieza pode congelar até um vulcão em erupção. ❄️" },
+    "sul": { "title": "SUL", "emoji": "🌴", "subtitle": "O Relaxado Tropical", "text": "Você é o Sul! Adora um bom descanso na rede, curte o calor humano e detesta pressa. Seu lema é: 'Por que resolver hoje o que pode ser adiado para nunca?' 🏖️" },
+    "leste": { "title": "LESTE", "emoji": "🌅", "subtitle": "O Visionário do Amanhecer", "text": "Você é o Leste! Sempre buscando novidades, inovação e aventuras. Seu espírito é como o sol nascente: brilhante, mas impaciente. 🌄" },
+    "oeste": { "title": "OESTE", "emoji": "🌵", "subtitle": "O Desbravador Resiliente", "text": "Você é o Oeste! Um sobrevivente nato, que enfrenta desafios com coragem (e um estoque secreto de água no deserto). Só não esqueça de sair do modo *cowboy* às vezes. 🤠" },
+    "nordeste": { "title": "NORDESTE", "emoji": "🌀", "subtitle": "O Estratégico Caótico", "text": "Você é o Nordeste! Mistura a ambição do Norte com a criatividade do Leste. Resultado? Ideias geniais... e um pouco *demais*. Cuidado com os furacões que você mesmo cria! 🌪️" },
+    "noroeste": { "title": "NOROESTE", "emoji": "⛰️", "subtitle": "O Místico das Montanhas", "text": "Você é o Noroeste! Equilibra a racionalidade do Norte com a espiritualidade do Oeste. Sabe escalar montanhas e meditar no topo. 🧘♂️" },
+    "sudeste": { "title": "SUDESTE", "emoji": "🌆", "subtitle": "O Urbanista Apressado", "text": "Você é o Sudeste! Mistura o calor do Sul com a agitação do Leste. Adora uma metrópole, mas vive reclamando do trânsito. 🚗💨" },
+    "sudoeste": { "title": "SUDOESTE", "emoji": "🦂", "subtitle": "O Sobrevivente Sarcástico", "text": "Você é o Sudoeste! Junta o relaxamento do Sul com a teimosia do Oeste. Sabe rir das próprias derrotas... e das dos outros também. 😈" }
+  }
+}
