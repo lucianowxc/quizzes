@@ -5,64 +5,484 @@
     {
       "question": "Seu chefe marca reunião às 18h de sexta. Sua reação:",
       "answers": [
-        { "text": "Leva pão e geleia pra transformar em happy hour 🥪", "points": { "damasco": 0.6, "laranja": 0.4 } },
-        { "text": "Manda meme de ‘isso é assédio moral’ no grupo 🦹", "points": { "pimenta_vermelha": 0.7, "goiaba": 0.3 } },
-        { "text": "Cria uma apresentação sobre gestão de tempo 📊", "points": { "mirtilo": 0.5, "cebola_caramelizada": 0.5 } },
-        { "text": "‘Desmaia’ misteriosamente às 17:55 🩺", "points": { "menta_hortela": 0.7, "framboesa": 0.3 } }
+        {
+          "text": "Leva pão e geleia pra transformar em happy hour 🥪",
+          "points": {
+            "damasco": 0.1041,
+            "laranja": 0.1264,
+            "amora": 0.0054,
+            "framboesa": 0.0062,
+            "frutas_vermelhas": 0.0051,
+            "goiaba": 0.0045,
+            "mirtilo": 0.005,
+            "morango": 0.0103,
+            "cebola_caramelizada": 0.0044,
+            "pimenta_vermelha": 0.0046,
+            "menta_hortela": 0.0049
+          }
+        },
+        {
+          "text": "Manda meme de ‘isso é assédio moral’ no grupo 🦹",
+          "points": {
+            "pimenta_vermelha": 0.0851,
+            "goiaba": 0.087,
+            "amora": 0.0065,
+            "damasco": 0.0074,
+            "framboesa": 0.0074,
+            "frutas_vermelhas": 0.0061,
+            "laranja": 0.0067,
+            "mirtilo": 0.0059,
+            "morango": 0.0124,
+            "cebola_caramelizada": 0.0053,
+            "menta_hortela": 0.0058
+          }
+        },
+        {
+          "text": "Cria uma apresentação sobre gestão de tempo 📊",
+          "points": {
+            "mirtilo": 0.0673,
+            "cebola_caramelizada": 0.1029,
+            "amora": 0.0065,
+            "damasco": 0.0075,
+            "framboesa": 0.0075,
+            "frutas_vermelhas": 0.0061,
+            "goiaba": 0.0054,
+            "laranja": 0.0069,
+            "morango": 0.0126,
+            "pimenta_vermelha": 0.0056,
+            "menta_hortela": 0.0058
+          }
+        },
+        {
+          "text": "‘Desmaia’ misteriosamente às 17:55 🩺",
+          "points": {
+            "menta_hortela": 0.0883,
+            "framboesa": 0.1224,
+            "amora": 0.0058,
+            "damasco": 0.0067,
+            "frutas_vermelhas": 0.0054,
+            "goiaba": 0.0048,
+            "laranja": 0.0059,
+            "mirtilo": 0.0054,
+            "morango": 0.011,
+            "cebola_caramelizada": 0.0046,
+            "pimenta_vermelha": 0.005
+          }
+        }
       ]
     },
     {
       "question": "Qual frase te define numa festa? 🎉",
       "answers": [
-        { "text": "‘Alguém quer jogar Uno?’ 🃏", "points": { "morango": 0.6, "cebola_caramelizada": 0.4 } },
-        { "text": "‘Isso aqui precisa de karaokê!’ 🎤", "points": { "laranja": 0.8, "frutas_vermelhas": 0.2 } },
-        { "text": "‘Vou investigar a procedência desse canapé’ 🔍", "points": { "mirtilo": 0.7, "amora": 0.3 } },
-        { "text": "‘Saio em 15 minutos’ (some em 2h) 👻", "points": { "menta_hortela": 0.6, "goiaba": 0.4 } }
+        {
+          "text": "‘Alguém quer jogar Uno?’ 🃏",
+          "points": {
+            "morango": 0.1644,
+            "cebola_caramelizada": 0.0879,
+            "amora": 0.005,
+            "damasco": 0.0058,
+            "framboesa": 0.0057,
+            "frutas_vermelhas": 0.0047,
+            "goiaba": 0.0042,
+            "laranja": 0.0053,
+            "mirtilo": 0.0048,
+            "pimenta_vermelha": 0.0044,
+            "menta_hortela": 0.0046
+          }
+        },
+        {
+          "text": "‘Isso aqui precisa de karaokê!’ 🎤",
+          "points": {
+            "laranja": 0.1202,
+            "frutas_vermelhas": 0.0817,
+            "amora": 0.0059,
+            "damasco": 0.0067,
+            "framboesa": 0.0068,
+            "goiaba": 0.0049,
+            "mirtilo": 0.0054,
+            "morango": 0.0112,
+            "cebola_caramelizada": 0.0048,
+            "pimenta_vermelha": 0.005,
+            "menta_hortela": 0.0053
+          }
+        },
+        {
+          "text": "‘Vou investigar a procedência desse canapé’ 🔍",
+          "points": {
+            "mirtilo": 0.0937,
+            "amora": 0.1092,
+            "damasco": 0.0067,
+            "framboesa": 0.0067,
+            "frutas_vermelhas": 0.0054,
+            "goiaba": 0.0049,
+            "laranja": 0.0061,
+            "morango": 0.0112,
+            "cebola_caramelizada": 0.0047,
+            "pimenta_vermelha": 0.0051,
+            "menta_hortela": 0.0053
+          }
+        },
+        {
+          "text": "‘Saio em 15 minutos’ (some em 2h) 👻",
+          "points": {
+            "menta_hortela": 0.0758,
+            "goiaba": 0.0997,
+            "amora": 0.0064,
+            "damasco": 0.0073,
+            "framboesa": 0.0074,
+            "frutas_vermelhas": 0.006,
+            "laranja": 0.0066,
+            "mirtilo": 0.0059,
+            "morango": 0.0123,
+            "cebola_caramelizada": 0.0052,
+            "pimenta_vermelha": 0.0055
+          }
+        }
       ]
     },
     {
       "question": "Seu app de relacionamento ideal tem: 💘",
       "answers": [
-        { "text": "Filtro por signo e MBTI ♍️", "points": { "amora": 0.6, "framboesa": 0.4 } },
-        { "text": "Botão de ‘pedir pizza juntos’ 🍕", "points": { "frutas_vermelhas": 0.7, "damasco": 0.3 } },
-        { "text": "Modo ‘só quero ver memes’ 🤡", "points": { "pimenta_vermelha": 0.6, "menta_hortela": 0.4 } },
-        { "text": "Alerta de ‘parentes próximos’ 🚨", "points": { "cebola_caramelizada": 0.6, "goiaba": 0.4 } }
+        {
+          "text": "Filtro por signo e MBTI ♍️",
+          "points": {
+            "amora": 0.0925,
+            "framboesa": 0.1433,
+            "damasco": 0.0061,
+            "frutas_vermelhas": 0.0049,
+            "goiaba": 0.0044,
+            "laranja": 0.0055,
+            "mirtilo": 0.0049,
+            "morango": 0.0101,
+            "cebola_caramelizada": 0.0044,
+            "pimenta_vermelha": 0.0046,
+            "menta_hortela": 0.0048
+          }
+        },
+        {
+          "text": "Botão de ‘pedir pizza juntos’ 🍕",
+          "points": {
+            "frutas_vermelhas": 0.0964,
+            "damasco": 0.1243,
+            "amora": 0.0056,
+            "framboesa": 0.0064,
+            "goiaba": 0.0046,
+            "laranja": 0.0058,
+            "mirtilo": 0.0051,
+            "morango": 0.0106,
+            "cebola_caramelizada": 0.0045,
+            "pimenta_vermelha": 0.0048,
+            "menta_hortela": 0.005
+          }
+        },
+        {
+          "text": "Modo ‘só quero ver memes’ 🤡",
+          "points": {
+            "pimenta_vermelha": 0.0731,
+            "menta_hortela": 0.1004,
+            "amora": 0.0064,
+            "damasco": 0.0073,
+            "framboesa": 0.0073,
+            "frutas_vermelhas": 0.006,
+            "goiaba": 0.0054,
+            "laranja": 0.0067,
+            "mirtilo": 0.0061,
+            "morango": 0.0126,
+            "cebola_caramelizada": 0.0054
+          }
+        },
+        {
+          "text": "Alerta de ‘parentes próximos’ 🚨",
+          "points": {
+            "cebola_caramelizada": 0.07,
+            "goiaba": 0.1023,
+            "amora": 0.0065,
+            "damasco": 0.0074,
+            "framboesa": 0.0074,
+            "frutas_vermelhas": 0.0061,
+            "laranja": 0.0067,
+            "mirtilo": 0.0061,
+            "morango": 0.0124,
+            "pimenta_vermelha": 0.0055,
+            "menta_hortela": 0.0058
+          }
+        }
       ]
     },
     {
       "question": "Seu método de lidar com o caos diário é:",
       "answers": [
-        { "text": "Meditação, cházinho e journaling 🧘♂️", "points": { "menta_hortela": 0.7, "mirtilo": 0.3 } },
-        { "text": "Crio drama pra distrair todo mundo 🎭", "points": { "pimenta_vermelha": 0.8, "goiaba": 0.2 } },
-        { "text": "Transformo tudo em meme e vou pra cima 🚀", "points": { "laranja": 0.6, "frutas_vermelhas": 0.4 } },
-        { "text": "Escondo pão com geleia na gaveta da mesa 🗄️", "points": { "cebola_caramelizada": 0.7, "damasco": 0.3 } }
+        {
+          "text": "Meditação, cházinho e journaling 🧘♂️",
+          "points": {
+            "menta_hortela": 0.0883,
+            "mirtilo": 0.0974,
+            "amora": 0.0062,
+            "damasco": 0.007,
+            "framboesa": 0.0071,
+            "frutas_vermelhas": 0.0057,
+            "goiaba": 0.0052,
+            "laranja": 0.0064,
+            "morango": 0.0119,
+            "cebola_caramelizada": 0.0051,
+            "pimenta_vermelha": 0.0054
+          }
+        },
+        {
+          "text": "Crio drama pra distrair todo mundo 🎭",
+          "points": {
+            "pimenta_vermelha": 0.0971,
+            "goiaba": 0.0718,
+            "amora": 0.0065,
+            "damasco": 0.0074,
+            "framboesa": 0.0075,
+            "frutas_vermelhas": 0.0061,
+            "laranja": 0.0068,
+            "mirtilo": 0.0061,
+            "morango": 0.0126,
+            "cebola_caramelizada": 0.0054,
+            "menta_hortela": 0.0058
+          }
+        },
+        {
+          "text": "Transformo tudo em meme e vou pra cima 🚀",
+          "points": {
+            "laranja": 0.0906,
+            "frutas_vermelhas": 0.1148,
+            "amora": 0.0059,
+            "damasco": 0.0066,
+            "framboesa": 0.0067,
+            "goiaba": 0.0049,
+            "mirtilo": 0.0053,
+            "morango": 0.0111,
+            "cebola_caramelizada": 0.0048,
+            "pimenta_vermelha": 0.0049,
+            "menta_hortela": 0.0052
+          }
+        },
+        {
+          "text": "Escondo pão com geleia na gaveta da mesa 🗄️",
+          "points": {
+            "cebola_caramelizada": 0.0815,
+            "damasco": 0.1262,
+            "amora": 0.0059,
+            "framboesa": 0.0066,
+            "frutas_vermelhas": 0.0053,
+            "goiaba": 0.0048,
+            "laranja": 0.006,
+            "mirtilo": 0.0055,
+            "morango": 0.0112,
+            "pimenta_vermelha": 0.005,
+            "menta_hortela": 0.0053
+          }
+        }
       ]
     },
     {
       "question": "Seu plano ideal de sábado à tarde:",
       "answers": [
-        { "text": "Brunch fotogênico com 17 histórias no Instagram 🥑", "points": { "framboesa": 0.5, "frutas_vermelhas": 0.5 } },
-        { "text": "Trilha com direito a discurso sobre sustentabilidade 🌳", "points": { "goiaba": 0.8, "amora": 0.2 } },
-        { "text": "Maratonar reality show com meias sujas no sofá 📺", "points": { "morango": 0.7, "cebola_caramelizada": 0.3 } },
-        { "text": "Planejar a dominação mundial (em grupo do WhatsApp) 🌍", "points": { "pimenta_vermelha": 0.7, "mirtilo": 0.3 } }
+        {
+          "text": "Brunch fotogênico com 17 histórias no Instagram 🥑",
+          "points": {
+            "framboesa": 0.0863,
+            "frutas_vermelhas": 0.1279,
+            "amora": 0.0057,
+            "damasco": 0.0066,
+            "goiaba": 0.0046,
+            "laranja": 0.0058,
+            "mirtilo": 0.0051,
+            "morango": 0.0108,
+            "cebola_caramelizada": 0.0046,
+            "pimenta_vermelha": 0.0048,
+            "menta_hortela": 0.005
+          }
+        },
+        {
+          "text": "Trilha com direito a discurso sobre sustentabilidade 🌳",
+          "points": {
+            "goiaba": 0.0977,
+            "amora": 0.0926,
+            "damasco": 0.0071,
+            "framboesa": 0.007,
+            "frutas_vermelhas": 0.0057,
+            "laranja": 0.0063,
+            "mirtilo": 0.0056,
+            "morango": 0.0117,
+            "cebola_caramelizada": 0.005,
+            "pimenta_vermelha": 0.0053,
+            "menta_hortela": 0.0055
+          }
+        },
+        {
+          "text": "Maratonar reality show com meias sujas no sofá 📺",
+          "points": {
+            "morango": 0.1914,
+            "cebola_caramelizada": 0.0743,
+            "amora": 0.0049,
+            "damasco": 0.0055,
+            "framboesa": 0.0056,
+            "frutas_vermelhas": 0.0045,
+            "goiaba": 0.004,
+            "laranja": 0.0051,
+            "mirtilo": 0.0046,
+            "pimenta_vermelha": 0.0042,
+            "menta_hortela": 0.0044
+          }
+        },
+        {
+          "text": "Planejar a dominação mundial (em grupo do WhatsApp) 🌍",
+          "points": {
+            "pimenta_vermelha": 0.0851,
+            "mirtilo": 0.0952,
+            "amora": 0.0063,
+            "damasco": 0.0071,
+            "framboesa": 0.0072,
+            "frutas_vermelhas": 0.0058,
+            "goiaba": 0.0052,
+            "laranja": 0.0066,
+            "morango": 0.0121,
+            "cebola_caramelizada": 0.0052,
+            "menta_hortela": 0.0056
+          }
+        }
       ]
     },
     {
       "question": "Qual snack te define melhor? 🍴",
       "answers": [
-        { "text": "Torrada queimada com avocado (de 2016) 🥑", "points": { "menta_hortela": 0.6, "damasco": 0.4 } },
-        { "text": "Salgadinho de festa infantil escondido no bolso 🎉", "points": { "cebola_caramelizada": 0.6, "framboesa": 0.4 } },
-        { "text": "Mix de nuts que ninguém pediu 🥜", "points": { "mirtilo": 0.7, "amora": 0.3 } },
-        { "text": "Pimenta Carolina Reaper pra 'testar os amigos' 🔥", "points": { "pimenta_vermelha": 0.8, "laranja": 0.2 } }
+        {
+          "text": "Torrada queimada com avocado (de 2016) 🥑",
+          "points": {
+            "menta_hortela": 0.0758,
+            "damasco": 0.1386,
+            "amora": 0.0058,
+            "framboesa": 0.0065,
+            "frutas_vermelhas": 0.0053,
+            "goiaba": 0.0047,
+            "laranja": 0.0059,
+            "mirtilo": 0.0052,
+            "morango": 0.0109,
+            "cebola_caramelizada": 0.0046,
+            "pimenta_vermelha": 0.0049
+          }
+        },
+        {
+          "text": "Salgadinho de festa infantil escondido no bolso 🎉",
+          "points": {
+            "cebola_caramelizada": 0.07,
+            "framboesa": 0.1403,
+            "amora": 0.0059,
+            "damasco": 0.0066,
+            "frutas_vermelhas": 0.0054,
+            "goiaba": 0.0048,
+            "laranja": 0.006,
+            "mirtilo": 0.0053,
+            "morango": 0.0111,
+            "pimenta_vermelha": 0.0049,
+            "menta_hortela": 0.0051
+          }
+        },
+        {
+          "text": "Mix de nuts que ninguém pediu 🥜",
+          "points": {
+            "mirtilo": 0.0937,
+            "amora": 0.1092,
+            "damasco": 0.0067,
+            "framboesa": 0.0067,
+            "frutas_vermelhas": 0.0054,
+            "goiaba": 0.0049,
+            "laranja": 0.0061,
+            "morango": 0.0112,
+            "cebola_caramelizada": 0.0047,
+            "pimenta_vermelha": 0.0051,
+            "menta_hortela": 0.0053
+          }
+        },
+        {
+          "text": "Pimenta Carolina Reaper pra 'testar os amigos' 🔥",
+          "points": {
+            "pimenta_vermelha": 0.0971,
+            "laranja": 0.0881,
+            "amora": 0.0062,
+            "damasco": 0.0071,
+            "framboesa": 0.0071,
+            "frutas_vermelhas": 0.0057,
+            "goiaba": 0.0052,
+            "mirtilo": 0.0058,
+            "morango": 0.0119,
+            "cebola_caramelizada": 0.0051,
+            "menta_hortela": 0.0055
+          }
+        }
       ]
     },
     {
       "question": "Se ganhasse na loteria, você:",
       "answers": [
-        { "text": "Fundaria uma ONG de gatos filosofantes 🐈", "points": { "goiaba": 0.7, "amora": 0.3 } },
-        { "text": "Comprava uma ilha e sumia do mapa 🏝️", "points": { "mirtilo": 0.6, "menta_hortela": 0.4 } },
-        { "text": "Fazia live diária: 'Como gastar 1 milhão em besteiras' 💸", "points": { "frutas_vermelhas": 0.8, "laranja": 0.2 } },
-        { "text": "Virava influencer de teorias da conspiração 👽", "points": { "pimenta_vermelha": 0.8, "cebola_caramelizada": 0.2 } }
+        {
+          "text": "Fundaria uma ONG de gatos filosofantes 🐈",
+          "points": {
+            "goiaba": 0.0856,
+            "amora": 0.1129,
+            "damasco": 0.0069,
+            "framboesa": 0.0068,
+            "frutas_vermelhas": 0.0055,
+            "laranja": 0.0061,
+            "mirtilo": 0.0056,
+            "morango": 0.0114,
+            "cebola_caramelizada": 0.0049,
+            "pimenta_vermelha": 0.0051,
+            "menta_hortela": 0.0054
+          }
+        },
+        {
+          "text": "Comprava uma ilha e sumia do mapa 🏝️",
+          "points": {
+            "mirtilo": 0.0804,
+            "menta_hortela": 0.1032,
+            "amora": 0.0062,
+            "damasco": 0.0071,
+            "framboesa": 0.0071,
+            "frutas_vermelhas": 0.0058,
+            "goiaba": 0.0052,
+            "laranja": 0.0065,
+            "morango": 0.0119,
+            "cebola_caramelizada": 0.0051,
+            "pimenta_vermelha": 0.0054
+          }
+        },
+        {
+          "text": "Fazia live diária: 'Como gastar 1 milhão em besteiras' 💸",
+          "points": {
+            "frutas_vermelhas": 0.11,
+            "laranja": 0.0895,
+            "amora": 0.006,
+            "damasco": 0.0068,
+            "framboesa": 0.0068,
+            "goiaba": 0.0049,
+            "mirtilo": 0.0055,
+            "morango": 0.0113,
+            "cebola_caramelizada": 0.0048,
+            "pimenta_vermelha": 0.0051,
+            "menta_hortela": 0.0053
+          }
+        },
+        {
+          "text": "Virava influencer de teorias da conspiração 👽",
+          "points": {
+            "pimenta_vermelha": 0.0971,
+            "cebola_caramelizada": 0.0684,
+            "amora": 0.0066,
+            "damasco": 0.0076,
+            "framboesa": 0.0076,
+            "frutas_vermelhas": 0.0061,
+            "goiaba": 0.0055,
+            "laranja": 0.0069,
+            "mirtilo": 0.0062,
+            "morango": 0.0128,
+            "menta_hortela": 0.0059
+          }
+        }
       ]
     }
   ],
