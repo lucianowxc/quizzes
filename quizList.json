@@ -370,6 +370,11 @@
             "name": "Qual Sabor de Geleia Queensberry Você Seria?",
             "file": "quizzes/quizGeleiasQueensberry.json",
             "description": "Descubra qual geleia combina com sua personalidade (e prepare o pãozinho!)"
+        },
+        {
+            "name": "Quem é você na rosa dos ventos?",
+            "file": "quizzes/quizRosaDosVentos.json",
+            "description": "Descubra qual ponto cardinal combina com sua personalidade (e suas manias)!"
         }
     ]
 }
