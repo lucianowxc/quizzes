@@ -488,57 +488,68 @@
   ],
   "descriptions": {
     "amora": {
-      "title": "Amora Selvagem 🌑",
+      "title": "Amora Selvagem",
+      "emoji": "🌑",
       "subtitle": "O Misterioso Intenso",
       "text": "Você tem um ar enigmático que atrai os curiosos. Como a geleia de amora, é doce com um toque de profundidade que ninguém decifra totalmente."
     },
     "damasco": {
-      "title": "Damasco Dourado 🌞",
+      "title": "Damasco Dourado",
+      "emoji": "🌞",
       "subtitle": "O Otimista Radiante",
       "text": "Seu jeito ensolarado anima qualquer ambiente! Como o damasco, você é aquele amigo que todo mundo quer ter no café da manhã (e na vida)."
     },
     "framboesa": {
-      "title": "Framboesa Pura ❤️",
+      "title": "Framboesa Pura",
+      "emoji": "❤️",
       "subtitle": "O Clássico com Atitude",
       "text": "Doce, mas não empalhoso! Você é tradicional o suficiente para agradar, mas tem um lado ácido que surpreende."
     },
     "frutas_vermelhas": {
-      "title": "Frutas Vermelhas 🍒",
+      "title": "Frutas Vermelhas",
+      "emoji": "🍒",
       "subtitle": "O Popstar Versátil",
       "text": "Você faz sucesso em qualquer situação! Como o mix de frutas vermelhas, é impossível alguém não gostar de você (a não ser alérgicos, mas isso é problema deles)."
     },
     "goiaba": {
-      "title": "Goiaba Tropical 🦜",
+      "title": "Goiaba Tropical",
+      "emoji": "🦜",
       "subtitle": "O Exótico Autêntico",
       "text": "Você não segue tendências, você as cria! Como a goiaba, tem personalidade marcante e adora um drama (no bom sentido, claro)."
     },
     "laranja": {
-      "title": "Laranja Valencia 🍊",
+      "title": "Laranja Valencia",
+      "emoji": "🍊",
       "subtitle": "O Energético Natural",
       "text": "Sua vibe é contagiante! Você é aquela pessoa que chega com um ‘bom dia’ animado e deixa todo mundo com inveja da disposição."
     },
     "mirtilo": {
-      "title": "Mirtilo Antioxidante 🔮",
+      "title": "Mirtilo Antioxidante",
+      "emoji": "🔮",
       "subtitle": "O Sábio Moderno",
       "text": "Você é o conselheiro do grupo! Como o mirtilo, todo mundo te procura pra dar uma ‘rejuvenescida’ nas ideias."
     },
     "morango": {
-      "title": "Morango Clássico 🍓",
+      "title": "Morango Clássico",
+      "emoji": "🍓",
       "subtitle": "O Ícone Atemporal",
       "text": "Você nunca sai de moda! Como a geleia de morango, pode até ser chamado de ‘básico’, mas no fundo todo mundo te ama."
     },
     "cebola_caramelizada": {
-      "title": "Cebola Caramelizada 🧅",
+      "title": "Cebola Caramelizada",
+      "emoji": "🧅",
       "subtitle": "O Complexo Inesperado",
       "text": "Você é aquela pessoa que todo mundo subestima até conhecer melhor! Como a cebola caramelizada, tem camadas de doçura escondidas."
     },
     "pimenta_vermelha": {
-      "title": "Pimenta Vermelha 🌶️",
+      "title": "Pimenta Vermelha",
+      "emoji": "🌶️",
       "subtitle": "O Tempero da Vida",
       "text": "Você adora polêmica! Como a geleia de pimenta, deixa conversas monótonas pegando fogo em 3 segundos."
     },
     "menta_hortela": {
-      "title": "Menta com Hortelã 🌿",
+      "title": "Menta com Hortelã",
+      "emoji": "🌿",
       "subtitle": "O Refrescante Contraditório",
       "text": "Você é aquele amigo ‘zen’ que na verdade adora uma fofoquinha. Como a menta, deixa um gostinho de ‘quero mais’ em qualquer situação."
     }
