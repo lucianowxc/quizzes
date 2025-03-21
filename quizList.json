@@ -359,6 +359,12 @@
             "name": "Qual bairro de SP mais combina com sua personalidade?",
             "file": "quizzes/quizBairrosSP.json",
             "description": "Descubra qual bairro de SP combina mais com você!"
+        },
+        {
+ 
+            "name": "Metaquiz: Qual Quiz de Sexta Você É? 🎉",
+            "file": "quizzes/metaquizSexta.json",
+            "description": "Descubra qual quiz absurdo combina com sua vibe caótica e desespero de sexta-feira!"
         }
     ]
 }
