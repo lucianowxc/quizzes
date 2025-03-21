@@ -1,0 +1,128 @@
+{
+  "title": "Metaquiz: Qual Quiz de Sexta Você É? 🎉",
+  "subtitle": "Descubra qual quiz absurdo combina com sua vibe caótica!",
+  "questions": [
+    {
+      "question": "Como você reage quando alguém pergunta 'qual seu signo?' numa festa? 🌌",
+      "answers": [
+        { "text": "Invento um signo novo: Sou de Capricórnio com Ascendente em Fome", "points": { "pacoca": 1, "detergente": 0.5, "nugget": 0.3 }},
+        { "text": "Grito 'Sou de Áries, e você vai morrer hoje' e saio correndo 🏃♂️", "points": { "pragas_egito": 1, "survivor": 0.7 }},
+        { "text": "Respondo com meu signo astrológico, zodiacal e do Super-Homem ♉", "points": { "civilization": 1, "sabonete_phebo": 0.5 }},
+        { "text": "Fujo para a cozinha e como todos os salgadinhos 🍟", "points": { "nugget": 1, "morte_idademedia": 0.8 }}
+      ]
+    },
+    {
+      "question": "Qual é sua habilidade secreta em reuniões de Zoom? 💻",
+      "answers": [
+        { "text": "Fingir que minha internet travou quando me perguntam algo 🚫", "points": { "survivor": 1, "civilization": 0.6 }},
+        { "text": "Fazer um meme da cara do chefe e postar no grupo 🎭", "points": { "pragas_egito": 1, "nugget": 0.4 }},
+        { "text": "Lavar louça com a câmera desligada 🍽️", "points": { "detergente": 1, "sabonete_phebo": 0.7 }},
+        { "text": "Dormir de olho aberto como um lagarto 🦎", "points": { "morte_idademedia": 1, "pacoca": 0.5 }}
+      ]
+    },
+    {
+      "question": "Qual frase te define numa sexta-feira à noite? 🌃",
+      "answers": [
+        { "text": "'Vou ficar em casa' (mentira, estou no 3º bar já) 🍻", "points": { "morte_idademedia": 1, "nugget": 0.6 }},
+        { "text": "'Prefiro Netflix' (tradução: maratonar 15h de TikTok) 📱", "points": { "sabonete_phebo": 1, "pacoca": 0.8 }},
+        { "text": "'To indo pra balada' (mas só fico olhando as pessoas) 👀", "points": { "detergente": 1, "civilization": 0.4 }},
+        { "text": "'Vou conquistar o mundo' (e termino dormindo no sofá) 🗺️", "points": { "survivor": 1, "pragas_egito": 0.7 }}
+      ]
+    },
+    {
+      "question": "Qual é seu plano para o sábado de manhã? 🌅",
+      "answers": [
+        { "text": "Dormir até meio-dia e acordar com crise existencial 🛌", "points": { "morte_idademedia": 1, "sabonete_phebo": 0.6 }},
+        { "text": "Fazer uma trilha (mas desisto no primeiro morro) 🏞️", "points": { "survivor": 1, "civilization": 0.4 }},
+        { "text": "Criar um culto ao café e recrutar vizinhos ☕", "points": { "pragas_egito": 1, "pacoca": 0.8 }},
+        { "text": "Lavar o cachorro e terminar mais molhado que ele 🐕", "points": { "detergente": 1, "nugget": 0.5 }}
+      ]
+    },
+    {
+      "question": "Como você reage se um alienígena pousar na sua frente? 👽",
+      "answers": [
+        { "text": "Ofereço um nugget e pergunto se ele usa Uber 🚕", "points": { "nugget": 1, "civilization": 0.7 }},
+        { "text": "Grito: 'Isso é coisa do ChatGPT!' e fujo 🤖", "points": { "survivor": 1, "pragas_egito": 0.6 }},
+        { "text": "Tento vender meu sabonete Phebo pra ele 🧼", "points": { "sabonete_phebo": 1, "detergente": 0.4 }},
+        { "text": "Pergunto se ele conhece o Thanos e peço autógrafo 💀", "points": { "morte_idademedia": 1, "pacoca": 0.5 }}
+      ]
+    },
+    {
+      "question": "Qual objeto você salvaria do fogo? 🔥",
+      "answers": [
+        { "text": "Minha coleção de memes impressos de 2012 🖨️", "points": { "civilization": 1, "nugget": 0.3 }},
+        { "text": "O último pacote de paçoca escondido no armário 🥜", "points": { "pacoca": 1, "survivor": 0.5 }},
+        { "text": "Meu diploma (pra provar que sou inteligente) 📜", "points": { "sabonete_phebo": 1, "morte_idademedia": 0.7 }},
+        { "text": "A garrafa de detergente que brilha no escuro 🌟", "points": { "detergente": 1, "pragas_egito": 0.6 }}
+      ]
+    },
+    {
+      "question": "Qual seria seu superpoder inútil? 🦸",
+      "answers": [
+        { "text": "Derreter sorvete só com o olhar 🍦", "points": { "detergente": 1, "morte_idademedia": 0.8 }},
+        { "text": "Fazer plantas morrerem de ansiedade 🌱", "points": { "pragas_egito": 1, "survivor": 0.4 }},
+        { "text": "Transformar ar em piadas sem graça 💨", "points": { "pacoca": 1, "nugget": 0.6 }},
+        { "text": "Ter 1000 seguidores... na conta da luz ⚡", "points": { "civilization": 1, "sabonete_phebo": 0.3 }}
+      ]
+    },
+    {
+      "question": "O que você faz quando a internet cai? 📵",
+      "answers": [
+        { "text": "Choro no banho e canto música do Justin Bieber 🚿", "points": { "sabonete_phebo": 1, "pacoca": 0.5 }},
+        { "text": "Invento uma teoria da conspiração sobre ETs 📡", "points": { "pragas_egito": 1, "civilization": 0.7 }},
+        { "text": "Limpo a casa (mentira, fico olhando a parede) 🧹", "points": { "detergente": 1, "morte_idademedia": 0.6 }},
+        { "text": "Desafio o gato para uma partida de xadrez ♟️", "points": { "survivor": 1, "nugget": 0.4 }}
+      ]
+    }
+  ],
+  "descriptions": {
+    "detergente": {
+      "title": "Qual sabor de detergente você seria? 🧼",
+      "emoji": "🌀",
+      "subtitle": "Você é o Limão Siciliano com Toque de Lavanda",
+      "text": "Seu destino é brilhar na pia! Você é aquele que limpa corações sujos com um toque de frescor. Seu quiz ideal é sobre detergentes, porque você adora resolver bagunças... ou criá-las."
+    },
+    "pacoca": {
+      "title": "Qual Paçoca Você é? 🥜",
+      "emoji": "🤏",
+      "subtitle": "Paçoca Esfarelada com Personalidade",
+      "text": "Você é aquele que desaba sob pressão, mas todo mundo ama. Seu quiz é sobre paçocas, porque sua vida é doce, mas um pouco caótica."
+    },
+    "pragas_egito": {
+      "title": "Qual Praga do Egito Você Seria? 🐸",
+      "emoji": "🌑",
+      "subtitle": "Invasão de Rãs Sarcásticas",
+      "text": "Você é o caos personificado. Seu quiz ideal envolve pragas bíblicas, porque você adora perturbar a paz dos outros (com estilo)."
+    },
+    "survivor": {
+      "title": "Qual Vencedor de Survivor Você Seria? 🏝️",
+      "emoji": "🔪",
+      "subtitle": "Mestre das Traições",
+      "text": "Você sobrevive a reuniões de família e churrascos sem carne. Seu quiz é sobre Survivor, porque sua vida é um jogo de estratégia (e drama)."
+    },
+    "civilization": {
+      "title": "Qual Líder do Civilization VI Você É? 🏛️",
+      "emoji": "🎲",
+      "subtitle": "Gandhi Nuclear da Vida Real",
+      "text": "Você é o tipo que domina o mundo no Excel. Seu quiz é sobre líderes históricos, porque você planeja conquistas até no banho."
+    },
+    "sabonete_phebo": {
+      "title": "Qual Sabonete Phebo Você Seria? 🧴",
+      "emoji": "🌹",
+      "subtitle": "Alfazema do Desespero",
+      "text": "Você cheira a nostalgia e crise existencial. Seu quiz é sobre sabonetes, porque sua vida é uma mistura de aromas e arrependimentos."
+    },
+    "morte_idademedia": {
+      "title": "Qual Sua Causa de Morte na Idade Média? ⚰️",
+      "emoji": "🦠",
+      "subtitle": "Peste Negra com Drama",
+      "text": "Você morreria de tédio em 1400. Seu quiz é sobre tragédias medievais, porque sua vida precisa de mais emoção (ou menos)."
+    },
+    "nugget": {
+      "title": "Qual Formato de Nugget Você Seria? 🐔",
+      "emoji": "💥",
+      "subtitle": "Nugget Among Us Suspeito",
+      "text": "Você é crocante por fora e vazio por dentro. Seu quiz é sobre nuggets, porque você é basicamente uma surpresa frita."
+    }
+  }
+}
