@@ -365,6 +365,11 @@
             "name": "Metaquiz: Qual Quiz de Sexta Você É? 🎉",
             "file": "quizzes/metaQuiz.json",
             "description": "Descubra qual quiz absurdo combina com sua vibe caótica e desespero de sexta-feira!"
+        },
+        {
+            "name": "Qual Sabor de Geleia Queensberry Você Seria?",
+            "file": "quizzes/quizGeleiasQueensberry.json",
+            "description": "Descubra qual geleia combina com sua personalidade (e prepare o pãozinho!)"
         }
     ]
 }
