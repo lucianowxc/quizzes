@@ -1,0 +1,126 @@
+{
+  "title": "Qual Sabor de Geleia Queensberry Você Seria? 🍯",
+  "subtitle": "Descubra qual geleia combina com sua personalidade (e prepare o pãozinho!)",
+  "questions": [
+    {
+      "question": "Seu chefe marca reunião às 18h de sexta. Sua reação:",
+      "answers": [
+        { "text": "Leva pão e geleia pra transformar em happy hour 🥪", "points": { "damasco": 0.6, "laranja": 0.4 } },
+        { "text": "Manda meme de ‘isso é assédio moral’ no grupo 🦹", "points": { "pimenta_vermelha": 0.7, "goiaba": 0.3 } },
+        { "text": "Cria uma apresentação sobre gestão de tempo 📊", "points": { "mirtilo": 0.5, "cebola_caramelizada": 0.5 } },
+        { "text": "‘Desmaia’ misteriosamente às 17:55 🩺", "points": { "menta_hortela": 0.7, "framboesa": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual frase te define numa festa? 🎉",
+      "answers": [
+        { "text": "‘Alguém quer jogar Uno?’ 🃏", "points": { "morango": 0.6, "cebola_caramelizada": 0.4 } },
+        { "text": "‘Isso aqui precisa de karaokê!’ 🎤", "points": { "laranja": 0.8, "frutas_vermelhas": 0.2 } },
+        { "text": "‘Vou investigar a procedência desse canapé’ 🔍", "points": { "mirtilo": 0.7, "amora": 0.3 } },
+        { "text": "‘Saio em 15 minutos’ (some em 2h) 👻", "points": { "menta_hortela": 0.6, "goiaba": 0.4 } }
+      ]
+    },
+    {
+      "question": "Seu app de relacionamento ideal tem: 💘",
+      "answers": [
+        { "text": "Filtro por signo e MBTI ♍️", "points": { "amora": 0.6, "framboesa": 0.4 } },
+        { "text": "Botão de ‘pedir pizza juntos’ 🍕", "points": { "frutas_vermelhas": 0.7, "damasco": 0.3 } },
+        { "text": "Modo ‘só quero ver memes’ 🤡", "points": { "pimenta_vermelha": 0.6, "menta_hortela": 0.4 } },
+        { "text": "Alerta de ‘parentes próximos’ 🚨", "points": { "cebola_caramelizada": 0.6, "goiaba": 0.4 } }
+      ]
+    },
+    {
+      "question": "Seu método de lidar com o caos diário é:",
+      "answers": [
+        { "text": "Meditação, cházinho e journaling 🧘♂️", "points": { "menta_hortela": 0.7, "mirtilo": 0.3 } },
+        { "text": "Crio drama pra distrair todo mundo 🎭", "points": { "pimenta_vermelha": 0.8, "goiaba": 0.2 } },
+        { "text": "Transformo tudo em meme e vou pra cima 🚀", "points": { "laranja": 0.6, "frutas_vermelhas": 0.4 } },
+        { "text": "Escondo pão com geleia na gaveta da mesa 🗄️", "points": { "cebola_caramelizada": 0.7, "damasco": 0.3 } }
+      ]
+    },
+    {
+      "question": "Seu plano ideal de sábado à tarde:",
+      "answers": [
+        { "text": "Brunch fotogênico com 17 histórias no Instagram 🥑", "points": { "framboesa": 0.5, "frutas_vermelhas": 0.5 } },
+        { "text": "Trilha com direito a discurso sobre sustentabilidade 🌳", "points": { "goiaba": 0.8, "amora": 0.2 } },
+        { "text": "Maratonar reality show com meias sujas no sofá 📺", "points": { "morango": 0.7, "cebola_caramelizada": 0.3 } },
+        { "text": "Planejar a dominação mundial (em grupo do WhatsApp) 🌍", "points": { "pimenta_vermelha": 0.7, "mirtilo": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual snack te define melhor? 🍴",
+      "answers": [
+        { "text": "Torrada queimada com avocado (de 2016) 🥑", "points": { "menta_hortela": 0.6, "damasco": 0.4 } },
+        { "text": "Salgadinho de festa infantil escondido no bolso 🎉", "points": { "cebola_caramelizada": 0.6, "framboesa": 0.4 } },
+        { "text": "Mix de nuts que ninguém pediu 🥜", "points": { "mirtilo": 0.7, "amora": 0.3 } },
+        { "text": "Pimenta Carolina Reaper pra 'testar os amigos' 🔥", "points": { "pimenta_vermelha": 0.8, "laranja": 0.2 } }
+      ]
+    },
+    {
+      "question": "Se ganhasse na loteria, você:",
+      "answers": [
+        { "text": "Fundaria uma ONG de gatos filosofantes 🐈", "points": { "goiaba": 0.7, "amora": 0.3 } },
+        { "text": "Comprava uma ilha e sumia do mapa 🏝️", "points": { "mirtilo": 0.6, "menta_hortela": 0.4 } },
+        { "text": "Fazia live diária: 'Como gastar 1 milhão em besteiras' 💸", "points": { "frutas_vermelhas": 0.8, "laranja": 0.2 } },
+        { "text": "Virava influencer de teorias da conspiração 👽", "points": { "pimenta_vermelha": 0.8, "cebola_caramelizada": 0.2 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "amora": {
+      "title": "Amora Selvagem 🌑",
+      "subtitle": "O Misterioso Intenso",
+      "text": "Você tem um ar enigmático que atrai os curiosos. Como a geleia de amora, é doce com um toque de profundidade que ninguém decifra totalmente."
+    },
+    "damasco": {
+      "title": "Damasco Dourado 🌞",
+      "subtitle": "O Otimista Radiante",
+      "text": "Seu jeito ensolarado anima qualquer ambiente! Como o damasco, você é aquele amigo que todo mundo quer ter no café da manhã (e na vida)."
+    },
+    "framboesa": {
+      "title": "Framboesa Pura ❤️",
+      "subtitle": "O Clássico com Atitude",
+      "text": "Doce, mas não empalhoso! Você é tradicional o suficiente para agradar, mas tem um lado ácido que surpreende."
+    },
+    "frutas_vermelhas": {
+      "title": "Frutas Vermelhas 🍒",
+      "subtitle": "O Popstar Versátil",
+      "text": "Você faz sucesso em qualquer situação! Como o mix de frutas vermelhas, é impossível alguém não gostar de você (a não ser alérgicos, mas isso é problema deles)."
+    },
+    "goiaba": {
+      "title": "Goiaba Tropical 🦜",
+      "subtitle": "O Exótico Autêntico",
+      "text": "Você não segue tendências, você as cria! Como a goiaba, tem personalidade marcante e adora um drama (no bom sentido, claro)."
+    },
+    "laranja": {
+      "title": "Laranja Valencia 🍊",
+      "subtitle": "O Energético Natural",
+      "text": "Sua vibe é contagiante! Você é aquela pessoa que chega com um ‘bom dia’ animado e deixa todo mundo com inveja da disposição."
+    },
+    "mirtilo": {
+      "title": "Mirtilo Antioxidante 🔮",
+      "subtitle": "O Sábio Moderno",
+      "text": "Você é o conselheiro do grupo! Como o mirtilo, todo mundo te procura pra dar uma ‘rejuvenescida’ nas ideias."
+    },
+    "morango": {
+      "title": "Morango Clássico 🍓",
+      "subtitle": "O Ícone Atemporal",
+      "text": "Você nunca sai de moda! Como a geleia de morango, pode até ser chamado de ‘básico’, mas no fundo todo mundo te ama."
+    },
+    "cebola_caramelizada": {
+      "title": "Cebola Caramelizada 🧅",
+      "subtitle": "O Complexo Inesperado",
+      "text": "Você é aquela pessoa que todo mundo subestima até conhecer melhor! Como a cebola caramelizada, tem camadas de doçura escondidas."
+    },
+    "pimenta_vermelha": {
+      "title": "Pimenta Vermelha 🌶️",
+      "subtitle": "O Tempero da Vida",
+      "text": "Você adora polêmica! Como a geleia de pimenta, deixa conversas monótonas pegando fogo em 3 segundos."
+    },
+    "menta_hortela": {
+      "title": "Menta com Hortelã 🌿",
+      "subtitle": "O Refrescante Contraditório",
+      "text": "Você é aquele amigo ‘zen’ que na verdade adora uma fofoquinha. Como a menta, deixa um gostinho de ‘quero mais’ em qualquer situação."
+    }
+  }
+}
