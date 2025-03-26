@@ -5,264 +5,584 @@
     {
       "question": "Em um grupo novo, alguém pergunta: *'Quem é você?'. Sua resposta:*",
       "answers": [
-        { 
-          "text": "🦸 *'Sou o Collezione Geek, prazer! Quer ver meus bonecos?'*", 
-          "points": { 
-            "Estou fazendo rifa...": 1, 
-            "QUE BOM SABER...": 0.4 
-          } 
+        {
+          "text": "🦸 *'Sou o Collezione Geek, prazer! Quer ver meus bonecos?'*",
+          "points": {
+            "Estou fazendo rifa...": 0.1424,
+            "QUE BOM SABER...": 0.082,
+            "tenho uns d10 mijos...": 0.005,
+            "pronto massager...": 0.0061,
+            "o lalal oh oh oh...": 0.0051,
+            "MEU DEUS": 0.0037,
+            "ACHO QUE APRENDI...": 0.0052,
+            "MAL O CAPS": 0.0058,
+            "não entendi...": 0.0039,
+            "Booom dia!": 0.0039,
+            "Mas eu melhorei!": 0.005,
+            "Vou ser maromba...": 0.0062
+          }
         },
-        { 
-          "text": "🤖 *'BOOOM DIA! (agendado todo dia às 9h, pode confiar)'*", 
-          "points": { 
-            "Booom dia!": 1, 
-            "MEU DEUS": 0.3 
-          } 
+        {
+          "text": "🤖 *'BOOOM DIA! (agendado todo dia às 9h, pode confiar)'*",
+          "points": {
+            "Booom dia!": 0.0746,
+            "MEU DEUS": 0.0721,
+            "tenho uns d10 mijos...": 0.0062,
+            "QUE BOM SABER...": 0.0044,
+            "pronto massager...": 0.0075,
+            "o lalal oh oh oh...": 0.0063,
+            "ACHO QUE APRENDI...": 0.0063,
+            "MAL O CAPS": 0.007,
+            "não entendi...": 0.0048,
+            "Mas eu melhorei!": 0.006,
+            "Estou fazendo rifa...": 0.0093,
+            "Vou ser maromba...": 0.0075
+          }
         },
-        { 
-          "text": "🎉 *'VAMOS SER AMIGOS? 🎉🎉🎉'*", 
-          "points": { 
-            "o lalal oh oh oh...": 1, 
-            "Vou ser maromba...": 0.2 
-          } 
+        {
+          "text": "🎉 *'VAMOS SER AMIGOS? 🎉🎉🎉'*",
+          "points": {
+            "o lalal oh oh oh...": 0.1023,
+            "Vou ser maromba...": 0.0809,
+            "tenho uns d10 mijos...": 0.0051,
+            "QUE BOM SABER...": 0.0036,
+            "pronto massager...": 0.0062,
+            "MEU DEUS": 0.0038,
+            "ACHO QUE APRENDI...": 0.0052,
+            "MAL O CAPS": 0.0058,
+            "não entendi...": 0.004,
+            "Booom dia!": 0.004,
+            "Mas eu melhorei!": 0.0051,
+            "Estou fazendo rifa...": 0.0079
+          }
         },
-        { 
-          "text": "🤷 *'não entendi... explica de novo?'*", 
-          "points": { 
-            "não entendi...": 1, 
-            "MAL O CAPS": 0.5 
-          } 
+        {
+          "text": "🤷 *'não entendi... explica de novo?'*",
+          "points": {
+            "não entendi...": 0.0759,
+            "MAL O CAPS": 0.141,
+            "tenho uns d10 mijos...": 0.0054,
+            "QUE BOM SABER...": 0.0039,
+            "pronto massager...": 0.0067,
+            "o lalal oh oh oh...": 0.0055,
+            "MEU DEUS": 0.0041,
+            "ACHO QUE APRENDI...": 0.0057,
+            "Booom dia!": 0.0042,
+            "Mas eu melhorei!": 0.0053,
+            "Estou fazendo rifa...": 0.0083,
+            "Vou ser maromba...": 0.0067
+          }
         }
       ]
     },
     {
       "question": "No trabalho, alguém comenta: *'Iberê, você gemeu MUITO na massagem...'*",
       "answers": [
-        { 
-          "text": "💆 *'PRONTO MASSAGER AGENDADDA PROS INVEJOSOS!'*", 
-          "points": { 
-            "pronto massager...": 1, 
-            "QUE BOM SABER...": 0.6 
-          } 
+        {
+          "text": "💆 *'PRONTO MASSAGER AGENDADDA PROS INVEJOSOS!'*",
+          "points": {
+            "pronto massager...": 0.1244,
+            "QUE BOM SABER...": 0.108,
+            "tenho uns d10 mijos...": 0.0055,
+            "o lalal oh oh oh...": 0.0054,
+            "MEU DEUS": 0.004,
+            "ACHO QUE APRENDI...": 0.0056,
+            "MAL O CAPS": 0.0062,
+            "não entendi...": 0.0043,
+            "Booom dia!": 0.0043,
+            "Mas eu melhorei!": 0.0053,
+            "Estou fazendo rifa...": 0.0084,
+            "Vou ser maromba...": 0.0067
+          }
         },
-        { 
-          "text": "😱 *'MEU DEUS, FOI SEM QUERER... MAS REPETIA!'*", 
-          "points": { 
-            "MEU DEUS": 1, 
-            "o lalal oh oh oh...": 0.4 
-          } 
+        {
+          "text": "😱 *'MEU DEUS, FOI SEM QUERER... MAS REPETIA!'*",
+          "points": {
+            "MEU DEUS": 0.0751,
+            "o lalal oh oh oh...": 0.1202,
+            "tenho uns d10 mijos...": 0.0055,
+            "QUE BOM SABER...": 0.004,
+            "pronto massager...": 0.0068,
+            "ACHO QUE APRENDI...": 0.0056,
+            "MAL O CAPS": 0.0062,
+            "não entendi...": 0.0042,
+            "Booom dia!": 0.0042,
+            "Mas eu melhorei!": 0.0053,
+            "Estou fazendo rifa...": 0.0084,
+            "Vou ser maromba...": 0.0068
+          }
         },
-        { 
-          "text": "🤖 *'É SÓ MEU ALERTA DE BOOOM DIA! 🤖✨'*", 
-          "points": { 
-            "Booom dia!": 1, 
-            "ACHO QUE APRENDI...": 0.3 
-          } 
+        {
+          "text": "🤖 *'É SÓ MEU ALERTA DE BOOOM DIA! 🤖✨'*",
+          "points": {
+            "Booom dia!": 0.0746,
+            "ACHO QUE APRENDI...": 0.0971,
+            "tenho uns d10 mijos...": 0.0057,
+            "QUE BOM SABER...": 0.0041,
+            "pronto massager...": 0.0069,
+            "o lalal oh oh oh...": 0.0058,
+            "MEU DEUS": 0.0043,
+            "MAL O CAPS": 0.0064,
+            "não entendi...": 0.0044,
+            "Mas eu melhorei!": 0.0055,
+            "Estou fazendo rifa...": 0.0086,
+            "Vou ser maromba...": 0.0069
+          }
         },
-        { 
-          "text": "💧 *'Ah, mas tenho uns mijos pra relaxar...'*", 
-          "points": { 
-            "tenho uns d10 mijos...": 1, 
-            "não entendi...": 0.5 
-          } 
+        {
+          "text": "💧 *'Ah, mas tenho uns mijos pra relaxar...'*",
+          "points": {
+            "tenho uns d10 mijos...": 0.1053,
+            "não entendi...": 0.0903,
+            "QUE BOM SABER...": 0.0042,
+            "pronto massager...": 0.007,
+            "o lalal oh oh oh...": 0.0058,
+            "MEU DEUS": 0.0043,
+            "ACHO QUE APRENDI...": 0.0059,
+            "MAL O CAPS": 0.0066,
+            "Booom dia!": 0.0044,
+            "Mas eu melhorei!": 0.0057,
+            "Estou fazendo rifa...": 0.0088,
+            "Vou ser maromba...": 0.0071
+          }
         }
       ]
     },
     {
       "question": "Alguém posta: *'Alguém aqui manja de COBOL?'. Você responde:*",
       "answers": [
-        { 
-          "text": "👨💻 *'ACHO QUE APRENDI... MAS MELHOREI!'*", 
-          "points": { 
-            "ACHO QUE APRENDI...": 1, 
-            "Mas eu melhorei!": 0.7 
-          } 
+        {
+          "text": "👨💻 *'ACHO QUE APRENDI... MAS MELHOREI!'*",
+          "points": {
+            "ACHO QUE APRENDI...": 0.1026,
+            "Mas eu melhorei!": 0.1442,
+            "tenho uns d10 mijos...": 0.0059,
+            "QUE BOM SABER...": 0.0041,
+            "pronto massager...": 0.007,
+            "o lalal oh oh oh...": 0.0057,
+            "MEU DEUS": 0.0043,
+            "MAL O CAPS": 0.0064,
+            "não entendi...": 0.0044,
+            "Booom dia!": 0.0044,
+            "Estou fazendo rifa...": 0.0083,
+            "Vou ser maromba...": 0.0067
+          }
         },
-        { 
-          "text": "🔥 *'QUE BOM SABER QUE TÁ TODO MUNDO PERDIDO!'*", 
-          "points": { 
-            "QUE BOM SABER...": 1, 
-            "pronto massager...": 0.3 
-          } 
+        {
+          "text": "🔥 *'QUE BOM SABER QUE TÁ TODO MUNDO PERDIDO!'*",
+          "points": {
+            "QUE BOM SABER...": 0.0745,
+            "pronto massager...": 0.1188,
+            "tenho uns d10 mijos...": 0.0052,
+            "o lalal oh oh oh...": 0.0052,
+            "MEU DEUS": 0.0038,
+            "ACHO QUE APRENDI...": 0.0054,
+            "MAL O CAPS": 0.0059,
+            "não entendi...": 0.004,
+            "Booom dia!": 0.004,
+            "Mas eu melhorei!": 0.0051,
+            "Estou fazendo rifa...": 0.008,
+            "Vou ser maromba...": 0.0064
+          }
         },
-        { 
-          "text": "🤔 *'não entendi... explica com mais detalhes?'*", 
-          "points": { 
-            "não entendi...": 1, 
-            "MAL O CAPS": 0.5 
-          } 
+        {
+          "text": "🤔 *'não entendi... explica com mais detalhes?'*",
+          "points": {
+            "não entendi...": 0.0759,
+            "MAL O CAPS": 0.141,
+            "tenho uns d10 mijos...": 0.0054,
+            "QUE BOM SABER...": 0.0039,
+            "pronto massager...": 0.0067,
+            "o lalal oh oh oh...": 0.0055,
+            "MEU DEUS": 0.0041,
+            "ACHO QUE APRENDI...": 0.0057,
+            "Booom dia!": 0.0042,
+            "Mas eu melhorei!": 0.0053,
+            "Estou fazendo rifa...": 0.0083,
+            "Vou ser maromba...": 0.0067
+          }
         },
-        { 
-          "text": "🎤 *'O LALAL OH OH OH... ISSO É TERROR!'*", 
-          "points": { 
-            "o lalal oh oh oh...": 1, 
-            "MEU DEUS": 0.8 
-          } 
+        {
+          "text": "🎤 *'O LALAL OH OH OH... ISSO É TERROR!'*",
+          "points": {
+            "o lalal oh oh oh...": 0.1023,
+            "MEU DEUS": 0.1256,
+            "tenho uns d10 mijos...": 0.0062,
+            "QUE BOM SABER...": 0.0045,
+            "pronto massager...": 0.0076,
+            "ACHO QUE APRENDI...": 0.0062,
+            "MAL O CAPS": 0.007,
+            "não entendi...": 0.0047,
+            "Booom dia!": 0.0047,
+            "Mas eu melhorei!": 0.0059,
+            "Estou fazendo rifa...": 0.0092,
+            "Vou ser maromba...": 0.0074
+          }
         }
       ]
     },
     {
       "question": "Na Collezione Geek, um cliente reclama: *'Esse boneco veio sem braço!'. Você:*",
       "answers": [
-        { 
-          "text": "🤖 *'É EDIÇÃO QUE BOM SABER QUE VOCÊ NOTOU!'*", 
-          "points": { 
-            "QUE BOM SABER...": 1, 
-            "Estou fazendo rifa...": 0.4 
-          } 
+        {
+          "text": "🤖 *'É EDIÇÃO QUE BOM SABER QUE VOCÊ NOTOU!'*",
+          "points": {
+            "QUE BOM SABER...": 0.0745,
+            "Estou fazendo rifa...": 0.1588,
+            "tenho uns d10 mijos...": 0.005,
+            "pronto massager...": 0.0059,
+            "o lalal oh oh oh...": 0.005,
+            "MEU DEUS": 0.0036,
+            "ACHO QUE APRENDI...": 0.005,
+            "MAL O CAPS": 0.0056,
+            "não entendi...": 0.0039,
+            "Booom dia!": 0.0038,
+            "Mas eu melhorei!": 0.0048,
+            "Vou ser maromba...": 0.006
+          }
         },
-        { 
-          "text": "💧 *'TOMA UM MIJO DE BRINDE PRA IMPROVISAR!'*", 
-          "points": { 
-            "tenho uns d10 mijos...": 1, 
-            "não entendi...": 0.3 
-          } 
+        {
+          "text": "💧 *'TOMA UM MIJO DE BRINDE PRA IMPROVISAR!'*",
+          "points": {
+            "tenho uns d10 mijos...": 0.1053,
+            "não entendi...": 0.0666,
+            "QUE BOM SABER...": 0.0039,
+            "pronto massager...": 0.0067,
+            "o lalal oh oh oh...": 0.0056,
+            "MEU DEUS": 0.0041,
+            "ACHO QUE APRENDI...": 0.0057,
+            "MAL O CAPS": 0.0064,
+            "Booom dia!": 0.0043,
+            "Mas eu melhorei!": 0.0055,
+            "Estou fazendo rifa...": 0.0085,
+            "Vou ser maromba...": 0.0069
+          }
         },
-        { 
-          "text": "💼 *'TROCO POR UM CURSO DE COMO VIRAR GERENTE!'*", 
-          "points": { 
-            "Vou ser maromba...": 1, 
-            "Booom dia!": 0.5 
-          } 
+        {
+          "text": "💼 *'TROCO POR UM CURSO DE COMO VIRAR GERENTE!'*",
+          "points": {
+            "Vou ser maromba...": 0.1136,
+            "Booom dia!": 0.0945,
+            "tenho uns d10 mijos...": 0.0057,
+            "QUE BOM SABER...": 0.004,
+            "pronto massager...": 0.0068,
+            "o lalal oh oh oh...": 0.0057,
+            "MEU DEUS": 0.0042,
+            "ACHO QUE APRENDI...": 0.0058,
+            "MAL O CAPS": 0.0064,
+            "não entendi...": 0.0045,
+            "Mas eu melhorei!": 0.0055,
+            "Estou fazendo rifa...": 0.0086
+          }
         },
-        { 
-          "text": "😅 *'MAL O CAPS... MAS O BONECO É MUDO!'*", 
-          "points": { 
-            "MAL O CAPS": 1, 
-            "Mas eu melhorei!": 0.6 
-          } 
+        {
+          "text": "😅 *'MAL O CAPS... MAS O BONECO É MUDO!'*",
+          "points": {
+            "MAL O CAPS": 0.112,
+            "Mas eu melhorei!": 0.1293,
+            "tenho uns d10 mijos...": 0.0056,
+            "QUE BOM SABER...": 0.0039,
+            "pronto massager...": 0.0067,
+            "o lalal oh oh oh...": 0.0056,
+            "MEU DEUS": 0.0041,
+            "ACHO QUE APRENDI...": 0.0056,
+            "não entendi...": 0.0042,
+            "Booom dia!": 0.0042,
+            "Estou fazendo rifa...": 0.0081,
+            "Vou ser maromba...": 0.0065
+          }
         }
       ]
     },
     {
       "question": "No karaokê, a música trava no meio. Todo mundo olha pra você. O que faz?",
       "answers": [
-        { 
-          "text": "🎤 *'CONTINUA A CAPELA: O LALAL OH OH OH...'*", 
-          "points": { 
-            "o lalal oh oh oh...": 1, 
-            "MEU DEUS": 0.5 
-          } 
+        {
+          "text": "🎤 *'CONTINUA A CAPELA: O LALAL OH OH OH...'*",
+          "points": {
+            "o lalal oh oh oh...": 0.1023,
+            "MEU DEUS": 0.0948,
+            "tenho uns d10 mijos...": 0.0059,
+            "QUE BOM SABER...": 0.0042,
+            "pronto massager...": 0.0071,
+            "ACHO QUE APRENDI...": 0.0059,
+            "MAL O CAPS": 0.0066,
+            "não entendi...": 0.0045,
+            "Booom dia!": 0.0044,
+            "Mas eu melhorei!": 0.0057,
+            "Estou fazendo rifa...": 0.0088,
+            "Vou ser maromba...": 0.0071
+          }
         },
-        { 
-          "text": "🔥 *'QUE BOM SABER QUE TRAVOU MAIS QUE MEU PC!'*", 
-          "points": { 
-            "QUE BOM SABER...": 1, 
-            "ACHO QUE APRENDI...": 0.3 
-          } 
+        {
+          "text": "🔥 *'QUE BOM SABER QUE TRAVOU MAIS QUE MEU PC!'*",
+          "points": {
+            "QUE BOM SABER...": 0.0745,
+            "ACHO QUE APRENDI...": 0.0988,
+            "tenho uns d10 mijos...": 0.0057,
+            "pronto massager...": 0.0067,
+            "o lalal oh oh oh...": 0.0056,
+            "MEU DEUS": 0.0042,
+            "MAL O CAPS": 0.0064,
+            "não entendi...": 0.0043,
+            "Booom dia!": 0.0044,
+            "Mas eu melhorei!": 0.0055,
+            "Estou fazendo rifa...": 0.0085,
+            "Vou ser maromba...": 0.0068
+          }
         },
-        { 
-          "text": "💆 *'PRONTO MASSAGER AGENDADDA PRA RELAXAR!'*", 
-          "points": { 
-            "pronto massager...": 1, 
-            "Booom dia!": 0.4 
-          } 
+        {
+          "text": "💆 *'PRONTO MASSAGER AGENDADDA PRA RELAXAR!'*",
+          "points": {
+            "pronto massager...": 0.1244,
+            "Booom dia!": 0.0846,
+            "tenho uns d10 mijos...": 0.0053,
+            "QUE BOM SABER...": 0.0039,
+            "o lalal oh oh oh...": 0.0053,
+            "MEU DEUS": 0.0039,
+            "ACHO QUE APRENDI...": 0.0054,
+            "MAL O CAPS": 0.0061,
+            "não entendi...": 0.0042,
+            "Mas eu melhorei!": 0.0052,
+            "Estou fazendo rifa...": 0.008,
+            "Vou ser maromba...": 0.0064
+          }
         },
-        { 
-          "text": "💧 *'VAMOS BRINCAR DE... MIJAR O TRAUMA!'*", 
-          "points": { 
-            "tenho uns d10 mijos...": 1, 
-            "não entendi...": 0.2 
-          } 
+        {
+          "text": "💧 *'VAMOS BRINCAR DE... MIJAR O TRAUMA!'*",
+          "points": {
+            "tenho uns d10 mijos...": 0.1053,
+            "não entendi...": 0.0519,
+            "QUE BOM SABER...": 0.0039,
+            "pronto massager...": 0.0066,
+            "o lalal oh oh oh...": 0.0055,
+            "MEU DEUS": 0.004,
+            "ACHO QUE APRENDI...": 0.0056,
+            "MAL O CAPS": 0.0063,
+            "Booom dia!": 0.0042,
+            "Mas eu melhorei!": 0.0054,
+            "Estou fazendo rifa...": 0.0085,
+            "Vou ser maromba...": 0.0069
+          }
         }
       ]
     },
     {
       "question": "Alguém pergunta: *'Por que você fala sozinho no trabalho?'. Você:*",
       "answers": [
-        { 
-          "text": "🤖 *'É O BOT DO BOOOM DIA TESTANDO! 🤖✨'*", 
-          "points": { 
-            "Booom dia!": 1, 
-            "QUE BOM SABER...": 0.5 
-          } 
+        {
+          "text": "🤖 *'É O BOT DO BOOOM DIA TESTANDO! 🤖✨'*",
+          "points": {
+            "Booom dia!": 0.0746,
+            "QUE BOM SABER...": 0.0959,
+            "tenho uns d10 mijos...": 0.0063,
+            "pronto massager...": 0.0076,
+            "o lalal oh oh oh...": 0.0063,
+            "MEU DEUS": 0.0047,
+            "ACHO QUE APRENDI...": 0.0065,
+            "MAL O CAPS": 0.0072,
+            "não entendi...": 0.0049,
+            "Mas eu melhorei!": 0.006,
+            "Estou fazendo rifa...": 0.0095,
+            "Vou ser maromba...": 0.0077
+          }
         },
-        { 
-          "text": "🤷 *'não entendi... você também fala?'*", 
-          "points": { 
-            "não entendi...": 1, 
-            "MEU DEUS": 0.3 
-          } 
+        {
+          "text": "🤷 *'não entendi... você também fala?'*",
+          "points": {
+            "não entendi...": 0.0759,
+            "MEU DEUS": 0.0719,
+            "tenho uns d10 mijos...": 0.0062,
+            "QUE BOM SABER...": 0.0044,
+            "pronto massager...": 0.0075,
+            "o lalal oh oh oh...": 0.0062,
+            "ACHO QUE APRENDI...": 0.0063,
+            "MAL O CAPS": 0.007,
+            "Booom dia!": 0.0047,
+            "Mas eu melhorei!": 0.006,
+            "Estou fazendo rifa...": 0.0093,
+            "Vou ser maromba...": 0.0074
+          }
         },
-        { 
-          "text": "🎲 *'TÔ ENSAIANDO PRO RPG DOS MIJOS!'*", 
-          "points": { 
-            "tenho uns d10 mijos...": 1, 
-            "o lalal oh oh oh...": 0.4 
-          } 
+        {
+          "text": "🎲 *'TÔ ENSAIANDO PRO RPG DOS MIJOS!'*",
+          "points": {
+            "tenho uns d10 mijos...": 0.1053,
+            "o lalal oh oh oh...": 0.1059,
+            "QUE BOM SABER...": 0.0037,
+            "pronto massager...": 0.0062,
+            "MEU DEUS": 0.0038,
+            "ACHO QUE APRENDI...": 0.0053,
+            "MAL O CAPS": 0.0059,
+            "não entendi...": 0.0041,
+            "Booom dia!": 0.0041,
+            "Mas eu melhorei!": 0.0051,
+            "Estou fazendo rifa...": 0.008,
+            "Vou ser maromba...": 0.0064
+          }
         },
-        { 
-          "text": "💪 *'TREINO PRA VIRAR GERENTE COMUNICATIVO!'*", 
-          "points": { 
-            "Vou ser maromba...": 1, 
-            "Booom dia!": 0.6 
-          } 
+        {
+          "text": "💪 *'TREINO PRA VIRAR GERENTE COMUNICATIVO!'*",
+          "points": {
+            "Vou ser maromba...": 0.1136,
+            "Booom dia!": 0.1056,
+            "tenho uns d10 mijos...": 0.0058,
+            "QUE BOM SABER...": 0.004,
+            "pronto massager...": 0.0069,
+            "o lalal oh oh oh...": 0.0058,
+            "MEU DEUS": 0.0043,
+            "ACHO QUE APRENDI...": 0.0059,
+            "MAL O CAPS": 0.0066,
+            "não entendi...": 0.0046,
+            "Mas eu melhorei!": 0.0056,
+            "Estou fazendo rifa...": 0.0087
+          }
         }
       ]
     },
     {
       "question": "No metrô, um estranho pergunta: *'O que é COBOL?'. Sua explicação:*",
       "answers": [
-        { 
-          "text": "👨💻 *'ACHO QUE APRENDI... OU FOI UM DELÍRIO?'*", 
-          "points": { 
-            "ACHO QUE APRENDI...": 1, 
-            "MEU DEUS": 0.3 
-          } 
+        {
+          "text": "👨💻 *'ACHO QUE APRENDI... OU FOI UM DELÍRIO?'*",
+          "points": {
+            "ACHO QUE APRENDI...": 0.1026,
+            "MEU DEUS": 0.073,
+            "tenho uns d10 mijos...": 0.0056,
+            "QUE BOM SABER...": 0.0041,
+            "pronto massager...": 0.0068,
+            "o lalal oh oh oh...": 0.0057,
+            "MAL O CAPS": 0.0063,
+            "não entendi...": 0.0043,
+            "Booom dia!": 0.0043,
+            "Mas eu melhorei!": 0.0054,
+            "Estou fazendo rifa...": 0.0085,
+            "Vou ser maromba...": 0.0068
+          }
         },
-        { 
-          "text": "🔠 *'MAL O CAPS, MAS É TIPO UM IDIOMA DAS CAVERNAS!'*", 
-          "points": { 
-            "MAL O CAPS": 1, 
-            "Vou ser maromba...": 0.2 
-          } 
+        {
+          "text": "🔠 *'MAL O CAPS, MAS É TIPO UM IDIOMA DAS CAVERNAS!'*",
+          "points": {
+            "MAL O CAPS": 0.112,
+            "Vou ser maromba...": 0.0817,
+            "tenho uns d10 mijos...": 0.0049,
+            "QUE BOM SABER...": 0.0035,
+            "pronto massager...": 0.006,
+            "o lalal oh oh oh...": 0.0049,
+            "MEU DEUS": 0.0037,
+            "ACHO QUE APRENDI...": 0.0051,
+            "não entendi...": 0.0039,
+            "Booom dia!": 0.0039,
+            "Mas eu melhorei!": 0.0048,
+            "Estou fazendo rifa...": 0.0076
+          }
         },
-        { 
-          "text": "🤷 *'não entendi... MAS MELHOREI MINHA EXPLICAÇÃO!'*", 
-          "points": { 
-            "não entendi...": 1, 
-            "Mas eu melhorei!": 0.7 
-          } 
+        {
+          "text": "🤷 *'não entendi... MAS MELHOREI MINHA EXPLICAÇÃO!'*",
+          "points": {
+            "não entendi...": 0.0759,
+            "Mas eu melhorei!": 0.1407,
+            "tenho uns d10 mijos...": 0.0063,
+            "QUE BOM SABER...": 0.0046,
+            "pronto massager...": 0.0076,
+            "o lalal oh oh oh...": 0.0063,
+            "MEU DEUS": 0.0047,
+            "ACHO QUE APRENDI...": 0.0064,
+            "MAL O CAPS": 0.0071,
+            "Booom dia!": 0.0047,
+            "Estou fazendo rifa...": 0.0091,
+            "Vou ser maromba...": 0.0073
+          }
         },
-        { 
-          "text": "💼 *'É O CÓDIGO SECRETO PRA VIRAR GERENTE EXECUTIVO!'*", 
-          "points": { 
-            "Vou ser maromba...": 1, 
-            "pronto massager...": 0.4 
-          } 
+        {
+          "text": "💼 *'É O CÓDIGO SECRETO PRA VIRAR GERENTE EXECUTIVO!'*",
+          "points": {
+            "Vou ser maromba...": 0.1136,
+            "pronto massager...": 0.1325,
+            "tenho uns d10 mijos...": 0.0048,
+            "QUE BOM SABER...": 0.0034,
+            "o lalal oh oh oh...": 0.0048,
+            "MEU DEUS": 0.0035,
+            "ACHO QUE APRENDI...": 0.0049,
+            "MAL O CAPS": 0.0054,
+            "não entendi...": 0.0037,
+            "Booom dia!": 0.0037,
+            "Mas eu melhorei!": 0.0047,
+            "Estou fazendo rifa...": 0.0073
+          }
         }
       ]
     },
     {
       "question": "Alguém comenta: *'Nunca vi alguém vender action figures como você!'. Sua resposta:*",
       "answers": [
-        { 
-          "text": "🎫 *'ESTOU FAZENDO RIFA PRA VENDER OS BONEQUINHOS!'*", 
-          "points": { 
-            "Estou fazendo rifa...": 1, 
-            "QUE BOM SABER...": 0.4 
-          } 
+        {
+          "text": "🎫 *'ESTOU FAZENDO RIFA PRA VENDER OS BONEQUINHOS!'*",
+          "points": {
+            "Estou fazendo rifa...": 0.1424,
+            "QUE BOM SABER...": 0.082,
+            "tenho uns d10 mijos...": 0.005,
+            "pronto massager...": 0.0061,
+            "o lalal oh oh oh...": 0.0051,
+            "MEU DEUS": 0.0037,
+            "ACHO QUE APRENDI...": 0.0052,
+            "MAL O CAPS": 0.0058,
+            "não entendi...": 0.0039,
+            "Booom dia!": 0.0039,
+            "Mas eu melhorei!": 0.005,
+            "Vou ser maromba...": 0.0062
+          }
         },
-        { 
-          "text": "🌞 *'BOOOM DIA! (agendado, tá?) 🌞🤖'*", 
-          "points": { 
-            "Booom dia!": 1, 
-            "Mas eu melhorei!": 0.6 
-          } 
+        {
+          "text": "🌞 *'BOOOM DIA! (agendado, tá?) 🌞🤖'*",
+          "points": {
+            "Booom dia!": 0.0746,
+            "Mas eu melhorei!": 0.1292,
+            "tenho uns d10 mijos...": 0.0063,
+            "QUE BOM SABER...": 0.0044,
+            "pronto massager...": 0.0075,
+            "o lalal oh oh oh...": 0.0063,
+            "MEU DEUS": 0.0045,
+            "ACHO QUE APRENDI...": 0.0063,
+            "MAL O CAPS": 0.007,
+            "não entendi...": 0.0048,
+            "Estou fazendo rifa...": 0.009,
+            "Vou ser maromba...": 0.0073
+          }
         },
-        { 
-          "text": "😱 *'MEU DEUS, VOCÊ QUER UM TUTORIAL EM COBOL?'*", 
-          "points": { 
-            "MEU DEUS": 1, 
-            "ACHO QUE APRENDI...": 0.5 
-          } 
+        {
+          "text": "😱 *'MEU DEUS, VOCÊ QUER UM TUTORIAL EM COBOL?'*",
+          "points": {
+            "MEU DEUS": 0.0751,
+            "ACHO QUE APRENDI...": 0.1348,
+            "tenho uns d10 mijos...": 0.0057,
+            "QUE BOM SABER...": 0.0041,
+            "pronto massager...": 0.0068,
+            "o lalal oh oh oh...": 0.0057,
+            "MAL O CAPS": 0.0063,
+            "não entendi...": 0.0044,
+            "Booom dia!": 0.0044,
+            "Mas eu melhorei!": 0.0054,
+            "Estou fazendo rifa...": 0.0084,
+            "Vou ser maromba...": 0.0067
+          }
         },
-        { 
-          "text": "💧 *'AH, MAS TENHO UNS MIJOS PRA FECHAR NEGÓCIO!'*", 
-          "points": { 
-            "tenho uns d10 mijos...": 1, 
-            "não entendi...": 0.3 
-          } 
+        {
+          "text": "💧 *'AH, MAS TENHO UNS MIJOS PRA FECHAR NEGÓCIO!'*",
+          "points": {
+            "tenho uns d10 mijos...": 0.1053,
+            "não entendi...": 0.0666,
+            "QUE BOM SABER...": 0.0039,
+            "pronto massager...": 0.0067,
+            "o lalal oh oh oh...": 0.0056,
+            "MEU DEUS": 0.0041,
+            "ACHO QUE APRENDI...": 0.0057,
+            "MAL O CAPS": 0.0064,
+            "Booom dia!": 0.0043,
+            "Mas eu melhorei!": 0.0055,
+            "Estou fazendo rifa...": 0.0085,
+            "Vou ser maromba...": 0.0069
+          }
         }
       ]
     }
