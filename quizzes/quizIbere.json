@@ -1,0 +1,344 @@
+{
+  "title": "Qual frase do Iberê você seria?",
+  "subtitle": "Um quiz para celebrar o mestre das conexões inusitadas!",
+  "questions": [
+    {
+      "question": "Em um grupo novo, alguém pergunta: *'Quem é você?'. Sua resposta:*",
+      "answers": [
+        { 
+          "text": "🦸 *'Sou o Collezione Geek, prazer! Quer ver meus bonecos?'*", 
+          "points": { 
+            "Estou fazendo rifa...": 1, 
+            "QUE BOM SABER...": 0.4 
+          } 
+        },
+        { 
+          "text": "🤖 *'BOOOM DIA! (agendado todo dia às 9h, pode confiar)'*", 
+          "points": { 
+            "Booom dia!": 1, 
+            "MEU DEUS": 0.3 
+          } 
+        },
+        { 
+          "text": "🎉 *'VAMOS SER AMIGOS? 🎉🎉🎉'*", 
+          "points": { 
+            "o lalal oh oh oh...": 1, 
+            "Vou ser maromba...": 0.2 
+          } 
+        },
+        { 
+          "text": "🤷 *'não entendi... explica de novo?'*", 
+          "points": { 
+            "não entendi...": 1, 
+            "MAL O CAPS": 0.5 
+          } 
+        }
+      ]
+    },
+    {
+      "question": "No trabalho, alguém comenta: *'Iberê, você gemeu MUITO na massagem...'*",
+      "answers": [
+        { 
+          "text": "💆 *'PRONTO MASSAGER AGENDADDA PROS INVEJOSOS!'*", 
+          "points": { 
+            "pronto massager...": 1, 
+            "QUE BOM SABER...": 0.6 
+          } 
+        },
+        { 
+          "text": "😱 *'MEU DEUS, FOI SEM QUERER... MAS REPETIA!'*", 
+          "points": { 
+            "MEU DEUS": 1, 
+            "o lalal oh oh oh...": 0.4 
+          } 
+        },
+        { 
+          "text": "🤖 *'É SÓ MEU ALERTA DE BOOOM DIA! 🤖✨'*", 
+          "points": { 
+            "Booom dia!": 1, 
+            "ACHO QUE APRENDI...": 0.3 
+          } 
+        },
+        { 
+          "text": "💧 *'Ah, mas tenho uns mijos pra relaxar...'*", 
+          "points": { 
+            "tenho uns d10 mijos...": 1, 
+            "não entendi...": 0.5 
+          } 
+        }
+      ]
+    },
+    {
+      "question": "Alguém posta: *'Alguém aqui manja de COBOL?'. Você responde:*",
+      "answers": [
+        { 
+          "text": "👨💻 *'ACHO QUE APRENDI... MAS MELHOREI!'*", 
+          "points": { 
+            "ACHO QUE APRENDI...": 1, 
+            "Mas eu melhorei!": 0.7 
+          } 
+        },
+        { 
+          "text": "🔥 *'QUE BOM SABER QUE TÁ TODO MUNDO PERDIDO!'*", 
+          "points": { 
+            "QUE BOM SABER...": 1, 
+            "pronto massager...": 0.3 
+          } 
+        },
+        { 
+          "text": "🤔 *'não entendi... explica com mais detalhes?'*", 
+          "points": { 
+            "não entendi...": 1, 
+            "MAL O CAPS": 0.5 
+          } 
+        },
+        { 
+          "text": "🎤 *'O LALAL OH OH OH... ISSO É TERROR!'*", 
+          "points": { 
+            "o lalal oh oh oh...": 1, 
+            "MEU DEUS": 0.8 
+          } 
+        }
+      ]
+    },
+    {
+      "question": "Na Collezione Geek, um cliente reclama: *'Esse boneco veio sem braço!'. Você:*",
+      "answers": [
+        { 
+          "text": "🤖 *'É EDIÇÃO QUE BOM SABER QUE VOCÊ NOTOU!'*", 
+          "points": { 
+            "QUE BOM SABER...": 1, 
+            "Estou fazendo rifa...": 0.4 
+          } 
+        },
+        { 
+          "text": "💧 *'TOMA UM MIJO DE BRINDE PRA IMPROVISAR!'*", 
+          "points": { 
+            "tenho uns d10 mijos...": 1, 
+            "não entendi...": 0.3 
+          } 
+        },
+        { 
+          "text": "💼 *'TROCO POR UM CURSO DE COMO VIRAR GERENTE!'*", 
+          "points": { 
+            "Vou ser maromba...": 1, 
+            "Booom dia!": 0.5 
+          } 
+        },
+        { 
+          "text": "😅 *'MAL O CAPS... MAS O BONECO É MUDO!'*", 
+          "points": { 
+            "MAL O CAPS": 1, 
+            "Mas eu melhorei!": 0.6 
+          } 
+        }
+      ]
+    },
+    {
+      "question": "No karaokê, a música trava no meio. Todo mundo olha pra você. O que faz?",
+      "answers": [
+        { 
+          "text": "🎤 *'CONTINUA A CAPELA: O LALAL OH OH OH...'*", 
+          "points": { 
+            "o lalal oh oh oh...": 1, 
+            "MEU DEUS": 0.5 
+          } 
+        },
+        { 
+          "text": "🔥 *'QUE BOM SABER QUE TRAVOU MAIS QUE MEU PC!'*", 
+          "points": { 
+            "QUE BOM SABER...": 1, 
+            "ACHO QUE APRENDI...": 0.3 
+          } 
+        },
+        { 
+          "text": "💆 *'PRONTO MASSAGER AGENDADDA PRA RELAXAR!'*", 
+          "points": { 
+            "pronto massager...": 1, 
+            "Booom dia!": 0.4 
+          } 
+        },
+        { 
+          "text": "💧 *'VAMOS BRINCAR DE... MIJAR O TRAUMA!'*", 
+          "points": { 
+            "tenho uns d10 mijos...": 1, 
+            "não entendi...": 0.2 
+          } 
+        }
+      ]
+    },
+    {
+      "question": "Alguém pergunta: *'Por que você fala sozinho no trabalho?'. Você:*",
+      "answers": [
+        { 
+          "text": "🤖 *'É O BOT DO BOOOM DIA TESTANDO! 🤖✨'*", 
+          "points": { 
+            "Booom dia!": 1, 
+            "QUE BOM SABER...": 0.5 
+          } 
+        },
+        { 
+          "text": "🤷 *'não entendi... você também fala?'*", 
+          "points": { 
+            "não entendi...": 1, 
+            "MEU DEUS": 0.3 
+          } 
+        },
+        { 
+          "text": "🎲 *'TÔ ENSAIANDO PRO RPG DOS MIJOS!'*", 
+          "points": { 
+            "tenho uns d10 mijos...": 1, 
+            "o lalal oh oh oh...": 0.4 
+          } 
+        },
+        { 
+          "text": "💪 *'TREINO PRA VIRAR GERENTE COMUNICATIVO!'*", 
+          "points": { 
+            "Vou ser maromba...": 1, 
+            "Booom dia!": 0.6 
+          } 
+        }
+      ]
+    },
+    {
+      "question": "No metrô, um estranho pergunta: *'O que é COBOL?'. Sua explicação:*",
+      "answers": [
+        { 
+          "text": "👨💻 *'ACHO QUE APRENDI... OU FOI UM DELÍRIO?'*", 
+          "points": { 
+            "ACHO QUE APRENDI...": 1, 
+            "MEU DEUS": 0.3 
+          } 
+        },
+        { 
+          "text": "🔠 *'MAL O CAPS, MAS É TIPO UM IDIOMA DAS CAVERNAS!'*", 
+          "points": { 
+            "MAL O CAPS": 1, 
+            "Vou ser maromba...": 0.2 
+          } 
+        },
+        { 
+          "text": "🤷 *'não entendi... MAS MELHOREI MINHA EXPLICAÇÃO!'*", 
+          "points": { 
+            "não entendi...": 1, 
+            "Mas eu melhorei!": 0.7 
+          } 
+        },
+        { 
+          "text": "💼 *'É O CÓDIGO SECRETO PRA VIRAR GERENTE EXECUTIVO!'*", 
+          "points": { 
+            "Vou ser maromba...": 1, 
+            "pronto massager...": 0.4 
+          } 
+        }
+      ]
+    },
+    {
+      "question": "Alguém comenta: *'Nunca vi alguém vender action figures como você!'. Sua resposta:*",
+      "answers": [
+        { 
+          "text": "🎫 *'ESTOU FAZENDO RIFA PRA VENDER OS BONEQUINHOS!'*", 
+          "points": { 
+            "Estou fazendo rifa...": 1, 
+            "QUE BOM SABER...": 0.4 
+          } 
+        },
+        { 
+          "text": "🌞 *'BOOOM DIA! (agendado, tá?) 🌞🤖'*", 
+          "points": { 
+            "Booom dia!": 1, 
+            "Mas eu melhorei!": 0.6 
+          } 
+        },
+        { 
+          "text": "😱 *'MEU DEUS, VOCÊ QUER UM TUTORIAL EM COBOL?'*", 
+          "points": { 
+            "MEU DEUS": 1, 
+            "ACHO QUE APRENDI...": 0.5 
+          } 
+        },
+        { 
+          "text": "💧 *'AH, MAS TENHO UNS MIJOS PRA FECHAR NEGÓCIO!'*", 
+          "points": { 
+            "tenho uns d10 mijos...": 1, 
+            "não entendi...": 0.3 
+          } 
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "tenho uns d10 mijos...": {
+      "title": "Tenho uns d10 mijos em casa só pra comer cru...",
+      "emoji": "💧🎲",
+      "subtitle": "A Lenda do Mijo Estratégico",
+      "text": "Você é a frase que transforma um erro de digitação em uma jogada de mestre. Iberê aprova a criatividade!"
+    },
+    "QUE BOM SABER...": {
+      "title": "QUE BOM SABER QUE EU GERO BASTANTE REAÇÕES...",
+      "emoji": "🔥",
+      "subtitle": "O Viralizador Acidental",
+      "text": "Você é a frase que deixa todo mundo sem reação (ou com várias). O caos é sua arte!"
+    },
+    "pronto massager...": {
+      "title": "pronto massager agendadda",
+      "emoji": "💆🔊",
+      "subtitle": "O Dia do Gemido Épico",
+      "text": "Você é a frase que ecoou pelos corredores e deixou todo mundo sem graça (mas rindo por dentro)."
+    },
+    "o lalal oh oh oh...": {
+      "title": "o lalal oh oh oh oh oh, mas ue terorr oh oh oh oh ohoh",
+      "emoji": "🎶😱",
+      "subtitle": "O Hino do Karaokê Caótico",
+      "text": "Você é a frase que só faz sentido no universo paralelo do Iberê (e talvez em um exorcismo)."
+    },
+    "MEU DEUS": {
+      "title": "MEU DEUS",
+      "emoji": "🙏✨",
+      "subtitle": "A Reação Universal",
+      "text": "Você é a frase que resume desde um bug em COBOL até uma promoção na Collezione Geek."
+    },
+    "ACHO QUE APRENDI...": {
+      "title": "ACHO QUE APRENDI O COBOL",
+      "emoji": "👨💻🦾",
+      "subtitle": "O Grito do Programador Renascido",
+      "text": "Você é a frase que simboliza vitórias épicas contra linguagens de 60 anos. Parabéns!"
+    },
+    "MAL O CAPS": {
+      "title": "MAL O CAPS",
+      "emoji": "🔠😅",
+      "subtitle": "O Clássico do Teclado Rebelde",
+      "text": "Você é a frase que justifica qualquer erro técnico (ou social) com estilo."
+    },
+    "não entendi...": {
+      "title": "não entendi",
+      "emoji": "🤔❓",
+      "subtitle": "O Curioso das Perguntas Sem Fim",
+      "text": "Você é a frase que transforma qualquer assunto em uma aula particular. Iberê não descansa até entender TUDO!"
+    },
+    "Booom dia!": {
+      "title": "Booom dia! (Agendado: 9h 🤖)",
+      "emoji": "🌞🤖",
+      "subtitle": "O Alerta Automático do Iberê",
+      "text": "Você é a frase que todo mundo reconhece: pontual como um robô, divertido como um meme. As respostas são sempre emojis de 🤖!"
+    },
+    "Mas eu melhorei!": {
+      "title": "Mas eu melhorei!",
+      "emoji": "📈✨",
+      "subtitle": "O Hino da Superação",
+      "text": "Você é a frase que prova que, no fim, tudo vira história pra contar na Collezione Geek."
+    },
+    "Estou fazendo rifa...": {
+      "title": "Estou fazendo rifa pra vender os bonequinhos",
+      "emoji": "🦸♂️🎫",
+      "subtitle": "O Codinome Geek",
+      "text": "Você é a frase que revela o alter-ego do Iberê: metade vendedor, metade colecionador de histórias!"
+    },
+    "Vou ser maromba...": {
+      "title": "Vou ser maromba pra virar gerente executivo",
+      "emoji": "💪👔",
+      "subtitle": "A Filosofia Corporativa do Iberê",
+      "text": "Você é a frase que desafia a lógica, mas faz todo sentido no universo paralelo dele."
+    }
+  }
+}
