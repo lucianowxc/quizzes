@@ -11,6 +11,11 @@
             "description": "Veja qual Power Ranger melhor representa você!"
         },
         {
+            "name": "Qual frase do Iberê você seria?",
+            "file": "quizzes/quizIbere.json",
+            "description": "Descubra qual frase icônica do Iberê combina com você! Um quiz cheio de inside jokes, hiperfocos e... mijos estratégicos!"
+        },
+        {
             "name": "Qual Andar Você Seria?",
             "file": "quizzes/quizAndar.json",
             "description": "Descubra qual andar do prédio mais se parece com a sua personalidade!"
