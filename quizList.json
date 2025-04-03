@@ -380,6 +380,11 @@
             "name": "Quem é você na rosa dos ventos?",
             "file": "quizzes/quizRosaDosVentos.json",
             "description": "Descubra qual ponto cardinal combina com sua personalidade (e suas manias)!"
+        },
+        {
+            "name": "Qual Será Sua Causa de Morte num Mundo Pós-Apocalíptico?",
+            "file": "quizzes/quizCausaMortePosApocaliptico.json",
+            "description": "Descubra se você morreria abraçado por um mutante, viraria sopa enlatada ou seria traído por uma IA!"
         }
     ]
 }
