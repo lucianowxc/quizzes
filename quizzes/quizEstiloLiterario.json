@@ -1,0 +1,224 @@
+{
+  "title": "A qual estilo literário você pertence?",
+  "subtitle": "Descubra seu lugar na história da literatura com um toque de ironia moderna!",
+  "questions": [
+    {
+      "question": "Como você descreveria o amor?",
+      "answers": [
+        { 
+          "text": "🌊 Uma força cósmica que destrói e renova",
+          "points": { "romantismo": 1, "simbolismo": 0.6 }
+        },
+        { 
+          "text": "🧮 Uma série de compromissos práticos",
+          "points": { "realismo": 1, "naturalismo": 0.5 }
+        },
+        { 
+          "text": "🍃 Um jogo pastoral entre pastores e ninfas",
+          "points": { "arcadismo": 1, "pos_moderno": 0.3 }
+        },
+        { 
+          "text": "❓ Um conceito a ser desconstruído",
+          "points": { "pos_moderno": 0.8, "existencialismo": 0.4 }
+        }
+      ]
+    },
+    {
+      "question": "Seu cenário ideal é:",
+      "answers": [
+        { 
+          "text": "🌋 Um penhasco sob tempestade, com protagonista gritando versos",
+          "points": { "romantismo": 1, "simbolismo": 0.5 }
+        },
+        { 
+          "text": "🏙️ Um cortiço com discussões sobre o preço do pão",
+          "points": { "realismo": 1, "naturalismo": 0.8 }
+        },
+        { 
+          "text": "🐑 Um campo com pastores discutindo mitologia grega",
+          "points": { "arcadismo": 1, "simbolismo": 0.3 }
+        },
+        { 
+          "text": "🖥️ Uma realidade virtual com referências a *todos* os estilos",
+          "points": { "pos_moderno": 1, "modernismo": 0.6 }
+        }
+      ]
+    },
+    {
+      "question": "Qual objeto define sua escrita?",
+      "answers": [
+        { 
+          "text": "💔 Um coração esculpido em mármore (rachado)",
+          "points": { "romantismo": 1, "existencialismo": 0.4 }
+        },
+        { 
+          "text": "⚖️ Uma balança de mercado usada como símbolo",
+          "points": { "realismo": 1, "naturalismo": 0.7 }
+        },
+        { 
+          "text": "🌿 Um cajado de pastor com entalhes clássicos",
+          "points": { "arcadismo": 1, "simbolismo": 0.3 }
+        },
+        { 
+          "text": "🔀 Um quebra-cabeça com peças de épocas diferentes",
+          "points": { "pos_moderno": 1, "modernismo": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Seu personagem típico é:",
+      "answers": [
+        { 
+          "text": "🎻 Um artista torturado por um amor impossível",
+          "points": { "romantismo": 1, "simbolismo": 0.6 }
+        },
+        { 
+          "text": "👨🏭 Um operário que luta contra vícios e dívidas",
+          "points": { "naturalismo": 1, "realismo": 0.8 }
+        },
+        { 
+          "text": "🐑 Um pastor que escreve odes a uma amada imaginária",
+          "points": { "arcadismo": 1, "pos_moderno": 0.2 }
+        },
+        { 
+          "text": "👾 Um hacker que remixa poemas do século XIX",
+          "points": { "pos_moderno": 1, "modernismo": 0.7 }
+        }
+      ]
+    },
+    {
+      "question": "Como você resolveria um conflito?",
+      "answers": [
+        { 
+          "text": "⚔️ Com um duelo poético ao pôr do sol",
+          "points": { "romantismo": 1, "simbolismo": 0.4 }
+        },
+        { 
+          "text": "📉 Analisando causas sociais e econômicas",
+          "points": { "realismo": 1, "naturalismo": 0.8 }
+        },
+        { 
+          "text": "🏞️ Fugindo para um vale isolado escrever odes",
+          "points": { "arcadismo": 1, "existencialismo": 0.3 }
+        },
+        { 
+          "text": "🤷♀️ Transformando o conflito em uma piada autorreferente",
+          "points": { "pos_moderno": 1, "modernismo": 0.6 }
+        }
+      ]
+    },
+    {
+      "question": "Qual elemento é essencial na sua obra?",
+      "answers": [
+        { 
+          "text": "🌧️ Chuva torrencial simbolizando dor interna",
+          "points": { "romantismo": 1, "simbolismo": 0.7 }
+        },
+        { 
+          "text": "🕯️ Iluminação a gás revelando sujeira moral",
+          "points": { "naturalismo": 1, "realismo": 0.6 }
+        },
+        { 
+          "text": "🕊️ Uma pomba representando paz (mas ela está morta)",
+          "points": { "existencialismo": 1, "pos_moderno": 0.5 }
+        },
+        { 
+          "text": "🌾 Cena pastoral interrompida por um *plot twist* absurdo",
+          "points": { "arcadismo": 0.8, "modernismo": 0.7 }
+        }
+      ]
+    },
+    {
+      "question": "Seu protagonista descobre um segredo chocante:",
+      "answers": [
+        { 
+          "text": "💔 Foi traído por seu amor platônico",
+          "points": { "romantismo": 1, "simbolismo": 0.5 }
+        },
+        { 
+          "text": "📉 Sua família está falida há 3 gerações",
+          "points": { "realismo": 1, "naturalismo": 0.9 }
+        },
+        { 
+          "text": "🌌 A vida é um sonho de um deus bêbado",
+          "points": { "existencialismo": 1, "pos_moderno": 0.6 }
+        },
+        { 
+          "text": "🎭 Toda sua existência é uma paródia literária",
+          "points": { "pos_moderno": 1, "modernismo": 0.7 }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase define seu estilo?",
+      "answers": [
+        { 
+          "text": "🌹 'Morro de amor, mas escrevo com o sangue das rosas'",
+          "points": { "romantismo": 1, "simbolismo": 0.4 }
+        },
+        { 
+          "text": "📜 'A realidade não precisa de enfeites, só de testemunhas'",
+          "points": { "realismo": 1, "naturalismo": 0.8 }
+        },
+        { 
+          "text": "🐑 'Sob o carvalho, celebramos a simplicidade... e o vinho'",
+          "points": { "arcadismo": 1, "existencialismo": 0.2 }
+        },
+        { 
+          "text": "🌀 'Nada é original, mas tudo pode virar colagem'",
+          "points": { "pos_moderno": 1, "modernismo": 0.9 }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "romantismo": {
+      "title": "Romantismo",
+      "emoji": "🌹",
+      "subtitle": "Paixão, Natureza e Drama Existencial",
+      "text": "Você é pura emoção! Escreveria poemas sob tempestades e ama conflitos entre o indivíduo e a sociedade. Seus personagens têm corações maiores que a lógica."
+    },
+    "realismo": {
+      "title": "Realismo",
+      "emoji": "🖋️",
+      "subtitle": "Crueldade Poética do Cotidiano",
+      "text": "Você observa o mundo sem filtros. Seus personagens são gente comum, com problemas reais: dívidas, amores fracassados e jantar esfriando no prato."
+    },
+    "arcadismo": {
+      "title": "Arcadismo",
+      "emoji": "🌳",
+      "subtitle": "Pastores, Odes e Fugere Urbem",
+      "text": "Você busca simplicidade na natureza. Seus versos falam de ovelhas, riachos e amores platônicos (mas só até o pôr do sol, porque mosquitos existem)."
+    },
+    "naturalismo": {
+      "title": "Naturalismo",
+      "emoji": "🐀",
+      "subtitle": "Ciência, Determinismo e... Ratos",
+      "text": "Você enxerga o ser humano como vítima do ambiente. Seus protagonistas são operários, animais simbólicos e dramas hereditários. Tudo muito *iluminado* a gás."
+    },
+    "simbolismo": {
+      "title": "Simbolismo",
+      "emoji": "🌌",
+      "subtitle": "Mistério, Nuances e Flores do Mal",
+      "text": "Você comunica o inefável. Suas metáforas são labirintos, e o crepúsculo é sua musa. Críticos te chamam de 'difícil', mas você só ri em sonetos."
+    },
+    "modernismo": {
+      "title": "Modernismo",
+      "emoji": "🎨",
+      "subtitle": "Quebra de Tradições e Oswald de Andrade",
+      "text": "Você mistura coloquialismo com experimentalismo. Seus textos têm ritmo de jazz, palavrões cultos e uma pitada de antropofagia literária."
+    },
+    "existencialismo": {
+      "title": "Existencialismo",
+      "emoji": "☕",
+      "subtitle": "Angústia, Liberdade e Café Amargo",
+      "text": "Você questiona o sentido da existência em cafés fumacentos. Seus personagens filosofam enquanto a vida escorre pelo ralo da metafísica."
+    },
+    "pos_moderno": {
+      "title": "Pós-Moderno",
+      "emoji": "🌀",
+      "subtitle": "Ironia, Intertextos e Realidades Múltiplas",
+      "text": "Você desconstói narrativas como quem desembrulha um presente vazio. Seus leitores nunca sabem se estão rindo ou chorando (nem você)."
+    }
+  }
+}
