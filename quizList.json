@@ -385,6 +385,11 @@
             "name": "Qual Será Sua Causa de Morte num Mundo Pós-Apocalíptico?",
             "file": "quizzes/quizCausaMortePosApocaliptico.json",
             "description": "Descubra se você morreria abraçado por um mutante, viraria sopa enlatada ou seria traído por uma IA!"
+        },
+        {
+            "name": "A qual estilo literário você pertence?",
+            "file": "quizzes/quizEstiloLiterario.json",
+            "description": "Descubra seu lugar na história da literatura com uma pitada de ironia contemporânea!"
         }
     ]
 }
