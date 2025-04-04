@@ -5,168 +5,456 @@
     {
       "question": "Como você descreveria o amor?",
       "answers": [
-        { 
+        {
           "text": "🌊 Uma força cósmica que destrói e renova",
-          "points": { "romantismo": 1, "simbolismo": 0.6 }
+          "points": {
+            "romantismo": 0.107,
+            "simbolismo": 0.1156,
+            "realismo": 0.0057,
+            "arcadismo": 0.0074,
+            "naturalismo": 0.0049,
+            "modernismo": 0.0054,
+            "existencialismo": 0.0088,
+            "pos_moderno": 0.005
+          }
         },
-        { 
+        {
           "text": "🧮 Uma série de compromissos práticos",
-          "points": { "realismo": 1, "naturalismo": 0.5 }
+          "points": {
+            "realismo": 0.0945,
+            "naturalismo": 0.1015,
+            "romantismo": 0.0066,
+            "arcadismo": 0.0076,
+            "simbolismo": 0.0054,
+            "modernismo": 0.0056,
+            "existencialismo": 0.0092,
+            "pos_moderno": 0.0052
+          }
         },
-        { 
+        {
           "text": "🍃 Um jogo pastoral entre pastores e ninfas",
-          "points": { "arcadismo": 1, "pos_moderno": 0.3 }
+          "points": {
+            "arcadismo": 0.1211,
+            "pos_moderno": 0.0721,
+            "romantismo": 0.0059,
+            "realismo": 0.0052,
+            "naturalismo": 0.0045,
+            "simbolismo": 0.0049,
+            "modernismo": 0.0051,
+            "existencialismo": 0.0084
+          }
         },
-        { 
+        {
           "text": "❓ Um conceito a ser desconstruído",
-          "points": { "pos_moderno": 0.8, "existencialismo": 0.4 }
+          "points": {
+            "pos_moderno": 0.0646,
+            "existencialismo": 0.1412,
+            "romantismo": 0.0052,
+            "realismo": 0.0048,
+            "arcadismo": 0.0062,
+            "naturalismo": 0.0041,
+            "simbolismo": 0.0045,
+            "modernismo": 0.0046
+          }
         }
       ]
     },
     {
       "question": "Seu cenário ideal é:",
       "answers": [
-        { 
+        {
           "text": "🌋 Um penhasco sob tempestade, com protagonista gritando versos",
-          "points": { "romantismo": 1, "simbolismo": 0.5 }
+          "points": {
+            "romantismo": 0.107,
+            "simbolismo": 0.1044,
+            "realismo": 0.0056,
+            "arcadismo": 0.0073,
+            "naturalismo": 0.0048,
+            "modernismo": 0.0053,
+            "existencialismo": 0.0087,
+            "pos_moderno": 0.0049
+          }
         },
-        { 
+        {
           "text": "🏙️ Um cortiço com discussões sobre o preço do pão",
-          "points": { "realismo": 1, "naturalismo": 0.8 }
+          "points": {
+            "realismo": 0.0945,
+            "naturalismo": 0.1321,
+            "romantismo": 0.0071,
+            "arcadismo": 0.0079,
+            "simbolismo": 0.0057,
+            "modernismo": 0.0058,
+            "existencialismo": 0.0096,
+            "pos_moderno": 0.0055
+          }
         },
-        { 
+        {
           "text": "🐑 Um campo com pastores discutindo mitologia grega",
-          "points": { "arcadismo": 1, "simbolismo": 0.3 }
+          "points": {
+            "arcadismo": 0.1211,
+            "simbolismo": 0.0768,
+            "romantismo": 0.0058,
+            "realismo": 0.0052,
+            "naturalismo": 0.0044,
+            "modernismo": 0.005,
+            "existencialismo": 0.0082,
+            "pos_moderno": 0.0047
+          }
         },
-        { 
+        {
           "text": "🖥️ Uma realidade virtual com referências a *todos* os estilos",
-          "points": { "pos_moderno": 1, "modernismo": 0.6 }
+          "points": {
+            "pos_moderno": 0.0806,
+            "modernismo": 0.1248,
+            "romantismo": 0.0068,
+            "realismo": 0.0062,
+            "arcadismo": 0.0078,
+            "naturalismo": 0.0052,
+            "simbolismo": 0.0057,
+            "existencialismo": 0.0094
+          }
         }
       ]
     },
     {
       "question": "Qual objeto define sua escrita?",
       "answers": [
-        { 
+        {
           "text": "💔 Um coração esculpido em mármore (rachado)",
-          "points": { "romantismo": 1, "existencialismo": 0.4 }
+          "points": {
+            "romantismo": 0.107,
+            "existencialismo": 0.1481,
+            "realismo": 0.0045,
+            "arcadismo": 0.0058,
+            "naturalismo": 0.0039,
+            "simbolismo": 0.0043,
+            "modernismo": 0.0044,
+            "pos_moderno": 0.0041
+          }
         },
-        { 
+        {
           "text": "⚖️ Uma balança de mercado usada como símbolo",
-          "points": { "realismo": 1, "naturalismo": 0.7 }
+          "points": {
+            "realismo": 0.0945,
+            "naturalismo": 0.1223,
+            "romantismo": 0.0069,
+            "arcadismo": 0.0079,
+            "simbolismo": 0.0056,
+            "modernismo": 0.0057,
+            "existencialismo": 0.0094,
+            "pos_moderno": 0.0054
+          }
         },
-        { 
+        {
           "text": "🌿 Um cajado de pastor com entalhes clássicos",
-          "points": { "arcadismo": 1, "simbolismo": 0.3 }
+          "points": {
+            "arcadismo": 0.1211,
+            "simbolismo": 0.0768,
+            "romantismo": 0.0058,
+            "realismo": 0.0052,
+            "naturalismo": 0.0044,
+            "modernismo": 0.005,
+            "existencialismo": 0.0082,
+            "pos_moderno": 0.0047
+          }
         },
-        { 
+        {
           "text": "🔀 Um quebra-cabeça com peças de épocas diferentes",
-          "points": { "pos_moderno": 1, "modernismo": 0.5 }
+          "points": {
+            "pos_moderno": 0.0806,
+            "modernismo": 0.1131,
+            "romantismo": 0.0067,
+            "realismo": 0.0061,
+            "arcadismo": 0.0078,
+            "naturalismo": 0.0052,
+            "simbolismo": 0.0056,
+            "existencialismo": 0.0093
+          }
         }
       ]
     },
     {
       "question": "Seu personagem típico é:",
       "answers": [
-        { 
+        {
           "text": "🎻 Um artista torturado por um amor impossível",
-          "points": { "romantismo": 1, "simbolismo": 0.6 }
+          "points": {
+            "romantismo": 0.107,
+            "simbolismo": 0.1156,
+            "realismo": 0.0057,
+            "arcadismo": 0.0074,
+            "naturalismo": 0.0049,
+            "modernismo": 0.0054,
+            "existencialismo": 0.0088,
+            "pos_moderno": 0.005
+          }
         },
-        { 
+        {
           "text": "👨🏭 Um operário que luta contra vícios e dívidas",
-          "points": { "naturalismo": 1, "realismo": 0.8 }
+          "points": {
+            "naturalismo": 0.0791,
+            "realismo": 0.1702,
+            "romantismo": 0.0065,
+            "arcadismo": 0.0074,
+            "simbolismo": 0.0054,
+            "modernismo": 0.0055,
+            "existencialismo": 0.0089,
+            "pos_moderno": 0.0051
+          }
         },
-        { 
+        {
           "text": "🐑 Um pastor que escreve odes a uma amada imaginária",
-          "points": { "arcadismo": 1, "pos_moderno": 0.2 }
+          "points": {
+            "arcadismo": 0.1211,
+            "pos_moderno": 0.0567,
+            "romantismo": 0.0058,
+            "realismo": 0.0052,
+            "naturalismo": 0.0044,
+            "simbolismo": 0.0049,
+            "modernismo": 0.0051,
+            "existencialismo": 0.0083
+          }
         },
-        { 
+        {
           "text": "👾 Um hacker que remixa poemas do século XIX",
-          "points": { "pos_moderno": 1, "modernismo": 0.7 }
+          "points": {
+            "pos_moderno": 0.0806,
+            "modernismo": 0.1357,
+            "romantismo": 0.0071,
+            "realismo": 0.0063,
+            "arcadismo": 0.008,
+            "naturalismo": 0.0053,
+            "simbolismo": 0.0058,
+            "existencialismo": 0.0095
+          }
         }
       ]
     },
     {
       "question": "Como você resolveria um conflito?",
       "answers": [
-        { 
+        {
           "text": "⚔️ Com um duelo poético ao pôr do sol",
-          "points": { "romantismo": 1, "simbolismo": 0.4 }
+          "points": {
+            "romantismo": 0.107,
+            "simbolismo": 0.0921,
+            "realismo": 0.0055,
+            "arcadismo": 0.0071,
+            "naturalismo": 0.0047,
+            "modernismo": 0.0052,
+            "existencialismo": 0.0086,
+            "pos_moderno": 0.0049
+          }
         },
-        { 
+        {
           "text": "📉 Analisando causas sociais e econômicas",
-          "points": { "realismo": 1, "naturalismo": 0.8 }
+          "points": {
+            "realismo": 0.0945,
+            "naturalismo": 0.1321,
+            "romantismo": 0.0071,
+            "arcadismo": 0.0079,
+            "simbolismo": 0.0057,
+            "modernismo": 0.0058,
+            "existencialismo": 0.0096,
+            "pos_moderno": 0.0055
+          }
         },
-        { 
+        {
           "text": "🏞️ Fugindo para um vale isolado escrever odes",
-          "points": { "arcadismo": 1, "existencialismo": 0.3 }
+          "points": {
+            "arcadismo": 0.1211,
+            "existencialismo": 0.1232,
+            "romantismo": 0.0049,
+            "realismo": 0.0044,
+            "naturalismo": 0.0038,
+            "simbolismo": 0.0042,
+            "modernismo": 0.0043,
+            "pos_moderno": 0.0041
+          }
         },
-        { 
+        {
           "text": "🤷♀️ Transformando o conflito em uma piada autorreferente",
-          "points": { "pos_moderno": 1, "modernismo": 0.6 }
+          "points": {
+            "pos_moderno": 0.0806,
+            "modernismo": 0.1248,
+            "romantismo": 0.0068,
+            "realismo": 0.0062,
+            "arcadismo": 0.0078,
+            "naturalismo": 0.0052,
+            "simbolismo": 0.0057,
+            "existencialismo": 0.0094
+          }
         }
       ]
     },
     {
       "question": "Qual elemento é essencial na sua obra?",
       "answers": [
-        { 
+        {
           "text": "🌧️ Chuva torrencial simbolizando dor interna",
-          "points": { "romantismo": 1, "simbolismo": 0.7 }
+          "points": {
+            "romantismo": 0.107,
+            "simbolismo": 0.1263,
+            "realismo": 0.0058,
+            "arcadismo": 0.0076,
+            "naturalismo": 0.0049,
+            "modernismo": 0.0055,
+            "existencialismo": 0.009,
+            "pos_moderno": 0.0051
+          }
         },
-        { 
+        {
           "text": "🕯️ Iluminação a gás revelando sujeira moral",
-          "points": { "naturalismo": 1, "realismo": 0.6 }
+          "points": {
+            "naturalismo": 0.0791,
+            "realismo": 0.1454,
+            "romantismo": 0.0063,
+            "arcadismo": 0.0072,
+            "simbolismo": 0.0052,
+            "modernismo": 0.0053,
+            "existencialismo": 0.0087,
+            "pos_moderno": 0.0051
+          }
         },
-        { 
+        {
           "text": "🕊️ Uma pomba representando paz (mas ela está morta)",
-          "points": { "existencialismo": 1, "pos_moderno": 0.5 }
+          "points": {
+            "existencialismo": 0.1403,
+            "pos_moderno": 0.1125,
+            "romantismo": 0.0055,
+            "realismo": 0.0049,
+            "arcadismo": 0.0064,
+            "naturalismo": 0.0042,
+            "simbolismo": 0.0047,
+            "modernismo": 0.0047
+          }
         },
-        { 
+        {
           "text": "🌾 Cena pastoral interrompida por um *plot twist* absurdo",
-          "points": { "arcadismo": 0.8, "modernismo": 0.7 }
+          "points": {
+            "arcadismo": 0.0972,
+            "modernismo": 0.1153,
+            "romantismo": 0.0064,
+            "realismo": 0.0057,
+            "naturalismo": 0.0047,
+            "simbolismo": 0.0053,
+            "existencialismo": 0.0087,
+            "pos_moderno": 0.005
+          }
         }
       ]
     },
     {
       "question": "Seu protagonista descobre um segredo chocante:",
       "answers": [
-        { 
+        {
           "text": "💔 Foi traído por seu amor platônico",
-          "points": { "romantismo": 1, "simbolismo": 0.5 }
+          "points": {
+            "romantismo": 0.107,
+            "simbolismo": 0.1044,
+            "realismo": 0.0056,
+            "arcadismo": 0.0073,
+            "naturalismo": 0.0048,
+            "modernismo": 0.0053,
+            "existencialismo": 0.0087,
+            "pos_moderno": 0.0049
+          }
         },
-        { 
+        {
           "text": "📉 Sua família está falida há 3 gerações",
-          "points": { "realismo": 1, "naturalismo": 0.9 }
+          "points": {
+            "realismo": 0.0945,
+            "naturalismo": 0.1415,
+            "romantismo": 0.0071,
+            "arcadismo": 0.0081,
+            "simbolismo": 0.0058,
+            "modernismo": 0.0059,
+            "existencialismo": 0.0098,
+            "pos_moderno": 0.0055
+          }
         },
-        { 
+        {
           "text": "🌌 A vida é um sonho de um deus bêbado",
-          "points": { "existencialismo": 1, "pos_moderno": 0.6 }
+          "points": {
+            "existencialismo": 0.1403,
+            "pos_moderno": 0.1259,
+            "romantismo": 0.0057,
+            "realismo": 0.005,
+            "arcadismo": 0.0064,
+            "naturalismo": 0.0042,
+            "simbolismo": 0.0047,
+            "modernismo": 0.0048
+          }
         },
-        { 
+        {
           "text": "🎭 Toda sua existência é uma paródia literária",
-          "points": { "pos_moderno": 1, "modernismo": 0.7 }
+          "points": {
+            "pos_moderno": 0.0806,
+            "modernismo": 0.1357,
+            "romantismo": 0.0071,
+            "realismo": 0.0063,
+            "arcadismo": 0.008,
+            "naturalismo": 0.0053,
+            "simbolismo": 0.0058,
+            "existencialismo": 0.0095
+          }
         }
       ]
     },
     {
       "question": "Qual frase define seu estilo?",
       "answers": [
-        { 
+        {
           "text": "🌹 'Morro de amor, mas escrevo com o sangue das rosas'",
-          "points": { "romantismo": 1, "simbolismo": 0.4 }
+          "points": {
+            "romantismo": 0.107,
+            "simbolismo": 0.0921,
+            "realismo": 0.0055,
+            "arcadismo": 0.0071,
+            "naturalismo": 0.0047,
+            "modernismo": 0.0052,
+            "existencialismo": 0.0086,
+            "pos_moderno": 0.0049
+          }
         },
-        { 
+        {
           "text": "📜 'A realidade não precisa de enfeites, só de testemunhas'",
-          "points": { "realismo": 1, "naturalismo": 0.8 }
+          "points": {
+            "realismo": 0.0945,
+            "naturalismo": 0.1321,
+            "romantismo": 0.0071,
+            "arcadismo": 0.0079,
+            "simbolismo": 0.0057,
+            "modernismo": 0.0058,
+            "existencialismo": 0.0096,
+            "pos_moderno": 0.0055
+          }
         },
-        { 
+        {
           "text": "🐑 'Sob o carvalho, celebramos a simplicidade... e o vinho'",
-          "points": { "arcadismo": 1, "existencialismo": 0.2 }
+          "points": {
+            "arcadismo": 0.1211,
+            "existencialismo": 0.097,
+            "romantismo": 0.005,
+            "realismo": 0.0045,
+            "naturalismo": 0.0039,
+            "simbolismo": 0.0043,
+            "modernismo": 0.0044,
+            "pos_moderno": 0.0042
+          }
         },
-        { 
+        {
           "text": "🌀 'Nada é original, mas tudo pode virar colagem'",
-          "points": { "pos_moderno": 1, "modernismo": 0.9 }
+          "points": {
+            "pos_moderno": 0.0806,
+            "modernismo": 0.1565,
+            "romantismo": 0.0073,
+            "realismo": 0.0064,
+            "arcadismo": 0.0083,
+            "naturalismo": 0.0054,
+            "simbolismo": 0.0059,
+            "existencialismo": 0.0098
+          }
         }
       ]
     }
