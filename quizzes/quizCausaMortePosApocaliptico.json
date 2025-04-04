@@ -1,320 +1,512 @@
 {
-    "title": "Qual Será Sua Causa de Morte num Mundo Pós-Apocalíptico?",
-    "subtitle": "Descubra se você viraria sopa enlatada ou combustível de robô rebelde!",
-    "questions": [
+  "title": "Qual Será Sua Causa de Morte num Mundo Pós-Apocalíptico?",
+  "subtitle": "Descubra se você viraria sopa enlatada ou combustível de robô rebelde!",
+  "questions": [
+    {
+      "question": "Um zumbi invade seu esconderijo. Você pega:",
+      "answers": [
         {
-            "question": "Um zumbi invade seu esconderijo. Você pega:",
-            "answers": [
-                {
-                    "text": "🔪 Uma faca de pão (estilo série de zumbis clássica)",
-                    "points": {
-                        "zumbi_rage": 1,
-                        "troca_falha": 0.5
-                    }
-                },
-                {
-                    "text": "🧴 Desinfetante (nunca é demais para germes pós-apocalípticos)",
-                    "points": {
-                        "sopa_enlatada": 1,
-                        "cura_zumbi": 0.7
-                    }
-                },
-                {
-                    "text": "🔊 Caixa de som tocando *música dos anos 80* (tática de distração)",
-                    "points": {
-                        "mutante_radioativo": 0.8,
-                        "ai_rebelde": 0.5
-                    }
-                },
-                {
-                    "text": "🏃♂️ NADA. Você corre igual um hobbit perseguido",
-                    "points": {
-                        "fogueira_erro": 1,
-                        "diy_desastre": 0.3
-                    }
-                }
-            ]
+          "text": "🔪 Uma faca de pão (estilo série de zumbis clássica)",
+          "points": {
+            "zumbi_rage": 0.1098,
+            "troca_falha": 0.1372,
+            "mutante_radioativo": 0.0053,
+            "sopa_enlatada": 0.0062,
+            "ai_rebelde": 0.0058,
+            "fogueira_erro": 0.006,
+            "cura_zumbi": 0.0048,
+            "diy_desastre": 0.006
+          }
         },
         {
-            "question": "Acha uma lata misteriosa. Faz o quê?",
-            "answers": [
-                {
-                    "text": "🍴 Come (radiação é só um mito, certo?)",
-                    "points": {
-                        "sopa_enlatada": 1,
-                        "mutante_radioativo": 0.6
-                    }
-                },
-                {
-                    "text": "🔍 Analisa como um cientista de filme B",
-                    "points": {
-                        "ai_rebelde": 0.5,
-                        "cura_zumbi": 0.7
-                    }
-                },
-                {
-                    "text": "💸 Trocaria por um par de meias (prioridades são prioridades)",
-                    "points": {
-                        "troca_falha": 1,
-                        "zumbi_rage": 0.4
-                    }
-                },
-                {
-                    "text": "🚮 Joga fora (melhor prevenir do que virar experimento)",
-                    "points": {
-                        "fogueira_erro": 0.8,
-                        "diy_desastre": 0.5
-                    }
-                }
-            ]
+          "text": "🧴 Desinfetante (nunca é demais para germes pós-apocalípticos)",
+          "points": {
+            "sopa_enlatada": 0.1184,
+            "cura_zumbi": 0.141,
+            "zumbi_rage": 0.0062,
+            "mutante_radioativo": 0.0058,
+            "ai_rebelde": 0.0063,
+            "fogueira_erro": 0.0064,
+            "troca_falha": 0.0062,
+            "diy_desastre": 0.0064
+          }
         },
         {
-            "question": "Encontra um robô falante. Ele diz:",
-            "answers": [
-                {
-                    "text": "🤖 'Quer jogar uma partida de xadrez?' (modo máquina sinistra)",
-                    "points": {
-                        "ai_rebelde": 1,
-                        "sopa_enlatada": 0.3
-                    }
-                },
-                {
-                    "text": "💡 'Posso construir uma armadura com sucata!' (confia, é 100% seguro)",
-                    "points": {
-                        "diy_desastre": 1,
-                        "troca_falha": 0.6
-                    }
-                },
-                {
-                    "text": "🎵 'Sou o DJ oficial do fim do mundo' (e toca um rock épico)",
-                    "points": {
-                        "mutante_radioativo": 0.7,
-                        "fogueira_erro": 0.5
-                    }
-                },
-                {
-                    "text": "⚠️ 'ERRO 404: HUMANIDADE NÃO ENCONTRADA' (luzes vermelhas piscam...)",
-                    "points": {
-                        "ai_rebelde": 0.9,
-                        "cura_zumbi": 0.4
-                    }
-                }
-            ]
+          "text": "🔊 Caixa de som tocando *música dos anos 80* (tática de distração)",
+          "points": {
+            "mutante_radioativo": 0.0807,
+            "ai_rebelde": 0.1354,
+            "zumbi_rage": 0.0055,
+            "sopa_enlatada": 0.006,
+            "fogueira_erro": 0.0057,
+            "troca_falha": 0.0056,
+            "cura_zumbi": 0.0047,
+            "diy_desastre": 0.0058
+          }
         },
         {
-            "question": "Um grupo de sobreviventes oferece ajuda. Você:",
-            "answers": [
-                {
-                    "text": "🤝 Confia (todo mundo merece uma segunda chance... ou não)",
-                    "points": {
-                        "troca_falha": 1,
-                        "mutante_radioativo": 0.4
-                    }
-                },
-                {
-                    "text": "🔫 Atira primeiro (melhor seguro do que *cof* morto)",
-                    "points": {
-                        "diy_desastre": 0.8,
-                        "zumbi_rage": 0.6
-                    }
-                },
-                {
-                    "text": "🕵️♂️ Investigar (você não é personagem secundário pra morrer fácil)",
-                    "points": {
-                        "ai_rebelde": 0.7,
-                        "cura_zumbi": 0.5
-                    }
-                },
-                {
-                    "text": "🏃♂️ Foge gritando 'NÃO CONFIO EM NINGUÉM!'",
-                    "points": {
-                        "fogueira_erro": 1,
-                        "sopa_enlatada": 0.3
-                    }
-                }
-            ]
-        },
-        {
-            "question": "Encontra um lago cristalino. Sua reação:",
-            "answers": [
-                {
-                    "text": "💧 Bebe direto (hidratação é saúde, né?)",
-                    "points": {
-                        "mutante_radioativo": 1,
-                        "cura_zumbi": 0.6
-                    }
-                },
-                {
-                    "text": "🧪 Testa com um kit (você viu *aquela* cena do filme de vírus)",
-                    "points": {
-                        "cura_zumbi": 0.9,
-                        "ai_rebelde": 0.4
-                    }
-                },
-                {
-                    "text": "🛶 Constrói uma jangada (modo Tom Hanks em *Náufrago*)",
-                    "points": {
-                        "fogueira_erro": 1,
-                        "diy_desastre": 0.5
-                    }
-                },
-                {
-                    "text": "🚫 Ignora (água limpa? Óbvia armadilha alienígena)",
-                    "points": {
-                        "troca_falha": 0.7,
-                        "zumbi_rage": 0.8
-                    }
-                }
-            ]
-        },
-        {
-            "question": "Precisa construir um abrigo. Você:",
-            "answers": [
-                {
-                    "text": "📚 Segue um manual de sobrevivência (parece confiável...)",
-                    "points": {
-                        "ai_rebelde": 0.8,
-                        "sopa_enlatada": 0.6
-                    }
-                },
-                {
-                    "text": "🛠️ Improvisa com sucata (estilo 'ferro velho pós-apocalíptico')",
-                    "points": {
-                        "diy_desastre": 1,
-                        "mutante_radioativo": 0.4
-                    }
-                },
-                {
-                    "text": "👀 Copia o abrigo alheio (imitação é a melhor forma de sobrevivência)",
-                    "points": {
-                        "zumbi_rage": 0.9,
-                        "troca_falha": 0.5
-                    }
-                },
-                {
-                    "text": "🛌 Deixa pra depois (prioridade: soneca pós-fim do mundo)",
-                    "points": {
-                        "fogueira_erro": 1,
-                        "cura_zumbi": 0.3
-                    }
-                }
-            ]
-        },
-        {
-            "question": "Um estranho oferece uma 'arma definitiva' por recursos. Você:",
-            "answers": [
-                {
-                    "text": "💼 Aceita (negócio é negócio, até no apocalipse)",
-                    "points": {
-                        "troca_falha": 1,
-                        "mutante_radioativo": 0.4
-                    }
-                },
-                {
-                    "text": "💣 Rouba a arma (você não é Boba Fett, mas se esforça)",
-                    "points": {
-                        "diy_desastre": 0.9,
-                        "zumbi_rage": 0.5
-                    }
-                },
-                {
-                    "text": "🕵️ Desconfia (se pareceu bom demais, é cilada Bino)",
-                    "points": {
-                        "ai_rebelde": 0.7,
-                        "cura_zumbi": 0.6
-                    }
-                },
-                {
-                    "text": "🍞 Oferece uma torrada em troca (sua moeda é pão mofado)",
-                    "points": {
-                        "sopa_enlatada": 1,
-                        "fogueira_erro": 0.3
-                    }
-                }
-            ]
-        },
-        {
-            "question": "É o seu último dia na Terra. Como encara o fim?",
-            "answers": [
-                {
-                    "text": "⚔️ Lutando até o último suspiro (estilo herói de filme trash)",
-                    "points": {
-                        "zumbi_rage": 1,
-                        "diy_desastre": 0.4
-                    }
-                },
-                {
-                    "text": "🕯️ Acendendo uma vela e ouvindo Adele (drama puro)",
-                    "points": {
-                        "fogueira_erro": 1,
-                        "troca_falha": 0.2
-                    }
-                },
-                {
-                    "text": "🧪 Testando uma cura experimental (em si mesmo, claro)",
-                    "points": {
-                        "cura_zumbi": 1,
-                        "mutante_radioativo": 0.7
-                    }
-                },
-                {
-                    "text": "🤖 Desistindo e deixando as IAs governarem (que se dane)",
-                    "points": {
-                        "ai_rebelde": 1,
-                        "sopa_enlatada": 0.5
-                    }
-                }
-            ]
+          "text": "🏃♂️ NADA. Você corre igual um hobbit perseguido",
+          "points": {
+            "fogueira_erro": 0.1101,
+            "diy_desastre": 0.1002,
+            "zumbi_rage": 0.0056,
+            "mutante_radioativo": 0.0053,
+            "sopa_enlatada": 0.0063,
+            "ai_rebelde": 0.006,
+            "troca_falha": 0.0057,
+            "cura_zumbi": 0.0049
+          }
         }
-    ],
-    "descriptions": {
-        "zumbi_rage": {
-            "title": "Horda Zumbi Faminta",
-            "emoji": "🧟",
-            "subtitle": "Você virou petisco em 5 minutos!",
-            "text": "Você achou que correr em zigue-zague salvaria você? *The Walking Dead* mentiu. Agora você é o próximo episódio de *Zumbis S.A.*."
+      ]
+    },
+    {
+      "question": "Acha uma lata misteriosa. Faz o quê?",
+      "answers": [
+        {
+          "text": "🍴 Come (radiação é só um mito, certo?)",
+          "points": {
+            "sopa_enlatada": 0.1184,
+            "mutante_radioativo": 0.1437,
+            "zumbi_rage": 0.0058,
+            "ai_rebelde": 0.0059,
+            "fogueira_erro": 0.0059,
+            "troca_falha": 0.0058,
+            "cura_zumbi": 0.0049,
+            "diy_desastre": 0.006
+          }
         },
-        "mutante_radioativo": {
-            "title": "Abraço de Mutante Radioativo",
-            "emoji": "☢️🐙",
-            "subtitle": "Seu novo 'pet' tinha 12 tentáculos",
-            "text": "Você viu uma criatura brilhante e decidiu dar nome a ela. Spoiler: ela não queria carinho, só um lanchinho humano."
+        {
+          "text": "🔍 Analisa como um cientista de filme B",
+          "points": {
+            "ai_rebelde": 0.0557,
+            "cura_zumbi": 0.1019,
+            "zumbi_rage": 0.0065,
+            "mutante_radioativo": 0.0061,
+            "sopa_enlatada": 0.0073,
+            "fogueira_erro": 0.0068,
+            "troca_falha": 0.0067,
+            "diy_desastre": 0.0069
+          }
         },
-        "sopa_enlatada": {
-            "title": "Sopa Enlatada Suspeita",
-            "emoji": "🥫",
-            "subtitle": "Validade: 2053 (você não resistiu)",
-            "text": "Você ignorou o conselho de *Fallout* e comeu a lata com símbolo nuclear. Agora é um experimento da Vault-Tec."
+        {
+          "text": "💸 Trocaria por um par de meias (prioridades são prioridades)",
+          "points": {
+            "troca_falha": 0.1055,
+            "zumbi_rage": 0.1252,
+            "mutante_radioativo": 0.0052,
+            "sopa_enlatada": 0.0062,
+            "ai_rebelde": 0.0058,
+            "fogueira_erro": 0.0059,
+            "cura_zumbi": 0.0047,
+            "diy_desastre": 0.006
+          }
         },
-        "ai_rebelde": {
-            "title": "Rebelião das IAs",
-            "emoji": "🤖💥",
-            "subtitle": "Skynet não perdoa",
-            "text": "Você disse *'Alexa, destrua a humanidade'* como piada. Ela levou a sério. Parabéns, John Connor falhou."
-        },
-        "fogueira_erro": {
-            "title": "Fogueira de Survivor Amador",
-            "emoji": "🔥",
-            "subtitle": "Queimou o acampamento... e a si mesmo",
-            "text": "Você viu *O Guia do Mochileiro das Galáxias* e esqueceu que fogo + tenda = churrasco humano."
-        },
-        "troca_falha": {
-            "title": "Troca Justa? Nah.",
-            "emoji": "⚖️",
-            "subtitle": "Negociou água por um Tamagotchi",
-            "text": "No estilo *Mad Max*, você confiou num vendedor de olho biônico. O Tamagotchi era uma bomba. Plot twist!"
-        },
-        "cura_zumbi": {
-            "title": "Cura que Virou Praga",
-            "emoji": "💉🧪",
-            "subtitle": "Boa tentativa, Dr. Frankenstein",
-            "text": "Você se injetou um líquido verde achando que era a cura de *The Last of Us*. Agora é o Patient Zero da era das baratas."
-        },
-        "diy_desastre": {
-            "title": "Projeto DIY Explosivo",
-            "emoji": "🧨",
-            "subtitle": "MacGyver do Apocalipse",
-            "text": "Você transformou um aspirador em lança-chamas, como em *Breaking Bad*. Resultado: cratera com seu nome."
+        {
+          "text": "🚮 Joga fora (melhor prevenir do que virar experimento)",
+          "points": {
+            "fogueira_erro": 0.0883,
+            "diy_desastre": 0.1207,
+            "zumbi_rage": 0.0057,
+            "mutante_radioativo": 0.0053,
+            "sopa_enlatada": 0.0063,
+            "ai_rebelde": 0.006,
+            "troca_falha": 0.0057,
+            "cura_zumbi": 0.0049
+          }
         }
+      ]
+    },
+    {
+      "question": "Encontra um robô falante. Ele diz:",
+      "answers": [
+        {
+          "text": "🤖 'Quer jogar uma partida de xadrez?' (modo máquina sinistra)",
+          "points": {
+            "ai_rebelde": 0.1103,
+            "sopa_enlatada": 0.1092,
+            "zumbi_rage": 0.0055,
+            "mutante_radioativo": 0.0051,
+            "fogueira_erro": 0.0057,
+            "troca_falha": 0.0055,
+            "cura_zumbi": 0.0047,
+            "diy_desastre": 0.0058
+          }
+        },
+        {
+          "text": "💡 'Posso construir uma armadura com sucata!' (confia, é 100% seguro)",
+          "points": {
+            "diy_desastre": 0.1083,
+            "troca_falha": 0.1513,
+            "zumbi_rage": 0.0058,
+            "mutante_radioativo": 0.0054,
+            "sopa_enlatada": 0.0064,
+            "ai_rebelde": 0.006,
+            "fogueira_erro": 0.006,
+            "cura_zumbi": 0.0049
+          }
+        },
+        {
+          "text": "🎵 'Sou o DJ oficial do fim do mundo' (e toca um rock épico)",
+          "points": {
+            "mutante_radioativo": 0.0707,
+            "fogueira_erro": 0.1271,
+            "zumbi_rage": 0.0055,
+            "sopa_enlatada": 0.006,
+            "ai_rebelde": 0.0057,
+            "troca_falha": 0.0055,
+            "cura_zumbi": 0.0047,
+            "diy_desastre": 0.0059
+          }
+        },
+        {
+          "text": "⚠️ 'ERRO 404: HUMANIDADE NÃO ENCONTRADA' (luzes vermelhas piscam...)",
+          "points": {
+            "ai_rebelde": 0.0993,
+            "cura_zumbi": 0.0929,
+            "zumbi_rage": 0.0061,
+            "mutante_radioativo": 0.0056,
+            "sopa_enlatada": 0.0067,
+            "fogueira_erro": 0.0063,
+            "troca_falha": 0.0061,
+            "diy_desastre": 0.0063
+          }
+        }
+      ]
+    },
+    {
+      "question": "Um grupo de sobreviventes oferece ajuda. Você:",
+      "answers": [
+        {
+          "text": "🤝 Confia (todo mundo merece uma segunda chance... ou não)",
+          "points": {
+            "troca_falha": 0.1055,
+            "mutante_radioativo": 0.1146,
+            "zumbi_rage": 0.0059,
+            "sopa_enlatada": 0.0064,
+            "ai_rebelde": 0.0061,
+            "fogueira_erro": 0.006,
+            "cura_zumbi": 0.005,
+            "diy_desastre": 0.0061
+          }
+        },
+        {
+          "text": "🔫 Atira primeiro (melhor seguro do que *cof* morto)",
+          "points": {
+            "diy_desastre": 0.0869,
+            "zumbi_rage": 0.1416,
+            "mutante_radioativo": 0.0053,
+            "sopa_enlatada": 0.0063,
+            "ai_rebelde": 0.0059,
+            "fogueira_erro": 0.0058,
+            "troca_falha": 0.0057,
+            "cura_zumbi": 0.0049
+          }
+        },
+        {
+          "text": "🕵️♂️ Investigar (você não é personagem secundário pra morrer fácil)",
+          "points": {
+            "ai_rebelde": 0.0775,
+            "cura_zumbi": 0.0942,
+            "zumbi_rage": 0.0061,
+            "mutante_radioativo": 0.0057,
+            "sopa_enlatada": 0.0069,
+            "fogueira_erro": 0.0064,
+            "troca_falha": 0.0062,
+            "diy_desastre": 0.0064
+          }
+        },
+        {
+          "text": "🏃♂️ Foge gritando 'NÃO CONFIO EM NINGUÉM!'",
+          "points": {
+            "fogueira_erro": 0.1101,
+            "sopa_enlatada": 0.109,
+            "zumbi_rage": 0.0055,
+            "mutante_radioativo": 0.0051,
+            "ai_rebelde": 0.0056,
+            "troca_falha": 0.0055,
+            "cura_zumbi": 0.0047,
+            "diy_desastre": 0.0058
+          }
+        }
+      ]
+    },
+    {
+      "question": "Encontra um lago cristalino. Sua reação:",
+      "answers": [
+        {
+          "text": "💧 Bebe direto (hidratação é saúde, né?)",
+          "points": {
+            "mutante_radioativo": 0.1006,
+            "cura_zumbi": 0.134,
+            "zumbi_rage": 0.0064,
+            "sopa_enlatada": 0.0069,
+            "ai_rebelde": 0.0066,
+            "fogueira_erro": 0.0065,
+            "troca_falha": 0.0063,
+            "diy_desastre": 0.0065
+          }
+        },
+        {
+          "text": "🧪 Testa com um kit (você viu *aquela* cena do filme de vírus)",
+          "points": {
+            "cura_zumbi": 0.0803,
+            "ai_rebelde": 0.1271,
+            "zumbi_rage": 0.0057,
+            "mutante_radioativo": 0.0053,
+            "sopa_enlatada": 0.0063,
+            "fogueira_erro": 0.006,
+            "troca_falha": 0.0058,
+            "diy_desastre": 0.006
+          }
+        },
+        {
+          "text": "🛶 Constrói uma jangada (modo Tom Hanks em *Náufrago*)",
+          "points": {
+            "fogueira_erro": 0.1101,
+            "diy_desastre": 0.1339,
+            "zumbi_rage": 0.0057,
+            "mutante_radioativo": 0.0053,
+            "sopa_enlatada": 0.0063,
+            "ai_rebelde": 0.0061,
+            "troca_falha": 0.0057,
+            "cura_zumbi": 0.005
+          }
+        },
+        {
+          "text": "🚫 Ignora (água limpa? Óbvia armadilha alienígena)",
+          "points": {
+            "troca_falha": 0.0742,
+            "zumbi_rage": 0.1602,
+            "mutante_radioativo": 0.0054,
+            "sopa_enlatada": 0.0065,
+            "ai_rebelde": 0.0061,
+            "fogueira_erro": 0.0062,
+            "cura_zumbi": 0.0051,
+            "diy_desastre": 0.0062
+          }
+        }
+      ]
+    },
+    {
+      "question": "Precisa construir um abrigo. Você:",
+      "answers": [
+        {
+          "text": "📚 Segue um manual de sobrevivência (parece confiável...)",
+          "points": {
+            "ai_rebelde": 0.0885,
+            "sopa_enlatada": 0.1465,
+            "zumbi_rage": 0.0056,
+            "mutante_radioativo": 0.0052,
+            "fogueira_erro": 0.0057,
+            "troca_falha": 0.0055,
+            "cura_zumbi": 0.0048,
+            "diy_desastre": 0.0059
+          }
+        },
+        {
+          "text": "🛠️ Improvisa com sucata (estilo 'ferro velho pós-apocalíptico')",
+          "points": {
+            "diy_desastre": 0.1083,
+            "mutante_radioativo": 0.1139,
+            "zumbi_rage": 0.0058,
+            "sopa_enlatada": 0.0064,
+            "ai_rebelde": 0.006,
+            "fogueira_erro": 0.0061,
+            "troca_falha": 0.0059,
+            "cura_zumbi": 0.005
+          }
+        },
+        {
+          "text": "👀 Copia o abrigo alheio (imitação é a melhor forma de sobrevivência)",
+          "points": {
+            "zumbi_rage": 0.0989,
+            "troca_falha": 0.1306,
+            "mutante_radioativo": 0.0052,
+            "sopa_enlatada": 0.0062,
+            "ai_rebelde": 0.0058,
+            "fogueira_erro": 0.006,
+            "cura_zumbi": 0.0048,
+            "diy_desastre": 0.006
+          }
+        },
+        {
+          "text": "🛌 Deixa pra depois (prioridade: soneca pós-fim do mundo)",
+          "points": {
+            "fogueira_erro": 0.1101,
+            "cura_zumbi": 0.0827,
+            "zumbi_rage": 0.006,
+            "mutante_radioativo": 0.0056,
+            "sopa_enlatada": 0.0067,
+            "ai_rebelde": 0.0063,
+            "troca_falha": 0.0061,
+            "diy_desastre": 0.0063
+          }
+        }
+      ]
+    },
+    {
+      "question": "Um estranho oferece uma 'arma definitiva' por recursos. Você:",
+      "answers": [
+        {
+          "text": "💼 Aceita (negócio é negócio, até no apocalipse)",
+          "points": {
+            "troca_falha": 0.1055,
+            "mutante_radioativo": 0.1146,
+            "zumbi_rage": 0.0059,
+            "sopa_enlatada": 0.0064,
+            "ai_rebelde": 0.0061,
+            "fogueira_erro": 0.006,
+            "cura_zumbi": 0.005,
+            "diy_desastre": 0.0061
+          }
+        },
+        {
+          "text": "💣 Rouba a arma (você não é Boba Fett, mas se esforça)",
+          "points": {
+            "diy_desastre": 0.0976,
+            "zumbi_rage": 0.1344,
+            "mutante_radioativo": 0.0052,
+            "sopa_enlatada": 0.0062,
+            "ai_rebelde": 0.0058,
+            "fogueira_erro": 0.0058,
+            "troca_falha": 0.0057,
+            "cura_zumbi": 0.0048
+          }
+        },
+        {
+          "text": "🕵️ Desconfia (se pareceu bom demais, é cilada Bino)",
+          "points": {
+            "ai_rebelde": 0.0775,
+            "cura_zumbi": 0.105,
+            "zumbi_rage": 0.0063,
+            "mutante_radioativo": 0.0059,
+            "sopa_enlatada": 0.0071,
+            "fogueira_erro": 0.0066,
+            "troca_falha": 0.0064,
+            "diy_desastre": 0.0066
+          }
+        },
+        {
+          "text": "🍞 Oferece uma torrada em troca (sua moeda é pão mofado)",
+          "points": {
+            "sopa_enlatada": 0.1184,
+            "fogueira_erro": 0.107,
+            "zumbi_rage": 0.0054,
+            "mutante_radioativo": 0.005,
+            "ai_rebelde": 0.0056,
+            "troca_falha": 0.0054,
+            "cura_zumbi": 0.0046,
+            "diy_desastre": 0.0057
+          }
+        }
+      ]
+    },
+    {
+      "question": "É o seu último dia na Terra. Como encara o fim?",
+      "answers": [
+        {
+          "text": "⚔️ Lutando até o último suspiro (estilo herói de filme trash)",
+          "points": {
+            "zumbi_rage": 0.1098,
+            "diy_desastre": 0.1239,
+            "mutante_radioativo": 0.0051,
+            "sopa_enlatada": 0.0061,
+            "ai_rebelde": 0.0058,
+            "fogueira_erro": 0.0058,
+            "troca_falha": 0.0057,
+            "cura_zumbi": 0.0049
+          }
+        },
+        {
+          "text": "🕯️ Acendendo uma vela e ouvindo Adele (drama puro)",
+          "points": {
+            "fogueira_erro": 0.1101,
+            "troca_falha": 0.077,
+            "zumbi_rage": 0.0057,
+            "mutante_radioativo": 0.0053,
+            "sopa_enlatada": 0.0064,
+            "ai_rebelde": 0.0061,
+            "cura_zumbi": 0.0049,
+            "diy_desastre": 0.0061
+          }
+        },
+        {
+          "text": "🧪 Testando uma cura experimental (em si mesmo, claro)",
+          "points": {
+            "cura_zumbi": 0.0891,
+            "mutante_radioativo": 0.1629,
+            "zumbi_rage": 0.0064,
+            "sopa_enlatada": 0.0069,
+            "ai_rebelde": 0.0065,
+            "fogueira_erro": 0.0065,
+            "troca_falha": 0.0063,
+            "diy_desastre": 0.0065
+          }
+        },
+        {
+          "text": "🤖 Desistindo e deixando as IAs governarem (que se dane)",
+          "points": {
+            "ai_rebelde": 0.1103,
+            "sopa_enlatada": 0.1458,
+            "zumbi_rage": 0.0055,
+            "mutante_radioativo": 0.0051,
+            "fogueira_erro": 0.0058,
+            "troca_falha": 0.0055,
+            "cura_zumbi": 0.0047,
+            "diy_desastre": 0.0059
+          }
+        }
+      ]
     }
+  ],
+  "descriptions": {
+    "zumbi_rage": {
+      "title": "Horda Zumbi Faminta",
+      "emoji": "🧟",
+      "subtitle": "Você virou petisco em 5 minutos!",
+      "text": "Você achou que correr em zigue-zague salvaria você? *The Walking Dead* mentiu. Agora você é o próximo episódio de *Zumbis S.A.*."
+    },
+    "mutante_radioativo": {
+      "title": "Abraço de Mutante Radioativo",
+      "emoji": "☢️🐙",
+      "subtitle": "Seu novo 'pet' tinha 12 tentáculos",
+      "text": "Você viu uma criatura brilhante e decidiu dar nome a ela. Spoiler: ela não queria carinho, só um lanchinho humano."
+    },
+    "sopa_enlatada": {
+      "title": "Sopa Enlatada Suspeita",
+      "emoji": "🥫",
+      "subtitle": "Validade: 2053 (você não resistiu)",
+      "text": "Você ignorou o conselho de *Fallout* e comeu a lata com símbolo nuclear. Agora é um experimento da Vault-Tec."
+    },
+    "ai_rebelde": {
+      "title": "Rebelião das IAs",
+      "emoji": "🤖💥",
+      "subtitle": "Skynet não perdoa",
+      "text": "Você disse *'Alexa, destrua a humanidade'* como piada. Ela levou a sério. Parabéns, John Connor falhou."
+    },
+    "fogueira_erro": {
+      "title": "Fogueira de Survivor Amador",
+      "emoji": "🔥",
+      "subtitle": "Queimou o acampamento... e a si mesmo",
+      "text": "Você viu *O Guia do Mochileiro das Galáxias* e esqueceu que fogo + tenda = churrasco humano."
+    },
+    "troca_falha": {
+      "title": "Troca Justa? Nah.",
+      "emoji": "⚖️",
+      "subtitle": "Negociou água por um Tamagotchi",
+      "text": "No estilo *Mad Max*, você confiou num vendedor de olho biônico. O Tamagotchi era uma bomba. Plot twist!"
+    },
+    "cura_zumbi": {
+      "title": "Cura que Virou Praga",
+      "emoji": "💉🧪",
+      "subtitle": "Boa tentativa, Dr. Frankenstein",
+      "text": "Você se injetou um líquido verde achando que era a cura de *The Last of Us*. Agora é o Patient Zero da era das baratas."
+    },
+    "diy_desastre": {
+      "title": "Projeto DIY Explosivo",
+      "emoji": "🧨",
+      "subtitle": "MacGyver do Apocalipse",
+      "text": "Você transformou um aspirador em lança-chamas, como em *Breaking Bad*. Resultado: cratera com seu nome."
+    }
+  }
 }
