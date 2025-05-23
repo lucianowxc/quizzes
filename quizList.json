@@ -390,6 +390,11 @@
             "name": "A qual estilo literário você pertence?",
             "file": "quizzes/quizEstiloLiterario.json",
             "description": "Descubra seu lugar na história da literatura com uma pitada de ironia contemporânea!"
-        }
+        },
+        {
+            "name": "Qual Sam Você Seria?",
+            "file": "quizzes/quizSams.json",
+            "description": "Descubra qual versão de Sam combina com sua personalidade!"
+         }
     ]
 }
