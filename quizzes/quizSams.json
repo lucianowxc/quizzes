@@ -1,0 +1,140 @@
+{
+  "title": "Qual Sam Você Seria? 🌟",
+  "subtitle": "Descubra qual versão de Sam combina com seu jeito único!",
+  "questions": [
+    {
+      "question": "Qual seu estilo de fim de semana ideal?",
+      "answers": [
+        { "text": "🕵️♀️ Missões estratégicas com amigos", "points": { "tres_espias": 1, "mobile_sam": 0.3 } },
+        { "text": "🎤 Criar conteúdo divertido online", "points": { "icarly": 1, "slime_sam": 0.4 } },
+        { "text": "🌆 Jantar descontraído na cidade", "points": { "samantha": 1, "sam_club": 0.2 } },
+        { "text": "🌱 Cuidar da horta e relaxar", "points": { "stardew": 1, "samwise": 0.5 } }
+      ]
+    },
+    {
+      "question": "Seu pet ideal seria:",
+      "answers": [
+        { "text": "🐓 Um animal de fazenda", "points": { "stardew": 1, "samwise": 0.6 } },
+        { "text": "📚 Um companheiro tranquilo", "points": { "sam_tarly": 1, "mobile_sam": 0.3 } },
+        { "text": "🐩 Um cachorro cheio de estilo", "points": { "samantha": 1, "sam_club": 0.4 } },
+        { "text": "🦠 Algo fora do comum", "points": { "slime_sam": 1, "tres_espias": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual item é essencial na sua mochila?",
+      "answers": [
+        { "text": "🔦 Lanterna multifuncional", "points": { "tres_espias": 1, "samu": 0.4 } },
+        { "text": "📱 Tablet com jogos estratégicos", "points": { "mobile_sam": 1, "icarly": 0.3 } },
+        { "text": "📖 Livro de histórias inspiradoras", "points": { "sam_tarly": 1, "samwise": 0.5 } },
+        { "text": "🍫 Snacks para compartilhar", "points": { "sam_club": 1, "stardew": 0.4 } }
+      ]
+    },
+    {
+      "question": "Como você resolve conflitos?",
+      "answers": [
+        { "text": "⚡ Ação direta e objetiva", "points": { "tres_espias": 1, "samu": 0.5 } },
+        { "text": "🗣️ Diálogo e mediação", "points": { "samwise": 1, "sam_tarly": 0.6 } },
+        { "text": "🎭 Humor para descontrair", "points": { "slime_sam": 1, "icarly": 0.7 } },
+        { "text": "💼 Busco soluções práticas", "points": { "mobile_sam": 1, "sam_club": 0.4 } }
+      ]
+    },
+    {
+      "question": "Qual é seu tipo de hobby favorito?",
+      "answers": [
+        { "text": "🧩 Quebra-cabeças complexos", "points": { "mobile_sam": 1, "sam_tarly": 0.6 } },
+        { "text": "🎵 Tocar um instrumento musical", "points": { "stardew": 1, "sam_club": 0.3 } },
+        { "text": "✈️ Planejar viagens detalhadas", "points": { "samantha": 1, "tres_espias": 0.4 } },
+        { "text": "🎨 Projetos criativos DIY", "points": { "slime_sam": 1, "icarly": 0.7 } }
+      ]
+    },
+    {
+      "question": "Em trabalho em equipe, você é mais:",
+      "answers": [
+        { "text": "📋 O organizador de tarefas", "points": { "sam_club": 1, "mobile_sam": 0.5 } },
+        { "text": "💡 O gerador de ideias", "points": { "icarly": 1, "slime_sam": 0.6 } },
+        { "text": "🤝 O mediador do grupo", "points": { "samwise": 1, "samu": 0.4 } },
+        { "text": "🔍 O analista de dados", "points": { "sam_tarly": 1, "tres_espias": 0.3 } }
+      ]
+    },
+    {
+      "question": "Como lida com imprevistos?",
+      "answers": [
+        { "text": "📊 Reviso o plano rapidamente", "points": { "mobile_sam": 1, "tres_espias": 0.7 } },
+        { "text": "🛠️ Uso o que tenho à mão", "points": { "samu": 1, "stardew": 0.5 } },
+        { "text": "😄 Transformo em oportunidade", "points": { "slime_sam": 1, "icarly": 0.6 } },
+        { "text": "🤔 Peço conselhos práticos", "points": { "samwise": 1, "samantha": 0.4 } }
+      ]
+    },
+    {
+      "question": "Qual frase te define melhor?",
+      "answers": [
+        { "text": "‘Sempre há um jeito’", "points": { "samu": 1, "samwise": 0.8 } },
+        { "text": "‘Dados não mentem’", "points": { "sam_tarly": 1, "mobile_sam": 0.6 } },
+        { "text": "‘Inovação é a chave’", "points": { "slime_sam": 1, "tres_espias": 0.5 } },
+        { "text": "‘Menos conversa, mais ação’", "points": { "sam_club": 1, "samantha": 0.3 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "tres_espias": {
+      "title": "Sam",
+      "emoji": "👩💻🦸♀️",
+      "subtitle": "Três Espiãs Demais - Estratégia e estilo em ação",
+      "text": "Você combina habilidades técnicas com liderança natural. Seu jeito prático e focado em soluções faz de você peça-chave em qualquer missão."
+    },
+    "icarly": {
+      "title": "Sam",
+      "emoji": "🎥🌟",
+      "subtitle": "iCarly - Criatividade descomplicada",
+      "text": "Sua espontaneidade e talento para transformar ideias simples em projetos divertidos inspiram todos ao seu redor."
+    },
+    "samantha": {
+      "title": "Sam",
+      "emoji": "👠✨",
+      "subtitle": "Sex and the City - Confiança social",
+      "text": "Você navega ambientes sociais com charme e inteligência emocional, sempre buscando conexões genuínas por trás das aparências."
+    },
+    "stardew": {
+      "title": "Sam",
+      "emoji": "🎸🌱",
+      "subtitle": "Stardew Valley - Equilíbrio entre tradição e modernidade",
+      "text": "Você valoriza raízes familiares e simplicidade, mas traz um toque contemporâneo para tudo que faz, seja na roça ou na cidade."
+    },
+    "samwise": {
+      "title": "Sam",
+      "emoji": "🧙♂️🛡️",
+      "subtitle": "Senhor dos Anéis - Lealdade inabalável",
+      "text": "Sua força está na constância e na capacidade de encontrar esperança mesmo nos desafios mais difíceis. Um verdadeiro alicerce para quem está ao seu redor."
+    },
+    "sam_tarly": {
+      "title": "Sam",
+      "emoji": "📚🕯️",
+      "subtitle": "Game of Thrones - Sabedoria aplicada",
+      "text": "Você transforma conhecimento em ação prática. Sua abordagem metódica e perseverança silenciosa resolvem problemas que outros consideram impossíveis."
+    },
+    "sam_club": {
+      "title": "Sam",
+      "emoji": "🛒📦",
+      "subtitle": "Sam's Club - Otimização em escala",
+      "text": "Seu olhar para logística e eficiência faz de você especialista em gerenciar recursos, seja em projetos grandes ou pequenas tarefas do dia a dia."
+    },
+    "mobile_sam": {
+      "title": "Sam",
+      "emoji": "📱⚙️",
+      "subtitle": "Civilization IV - Visão estratégica",
+      "text": "Você une pensamento crítico e adaptabilidade, encontrando padrões onde outros veem caos. Seu forte é planejar a longo prazo sem perder detalhes."
+    },
+    "samu": {
+      "title": "Sam",
+      "emoji": "🚑💡",
+      "subtitle": "Samu - Soluções imediatas",
+      "text": "Sua capacidade de manter a calma e agir com precisão em situações críticas faz diferença onde quer que esteja. Pragmatismo é sua segunda natureza."
+    },
+    "slime_sam": {
+      "title": "Sam",
+      "emoji": "👾🎨",
+      "subtitle": "Slime Sam Sapeca - Inovação fora da caixa",
+      "text": "Você desafia convenções com abordagens originais, provando que até nas situações mais rígidas há espaço para criatividade e novas perspectivas."
+    }
+  }
+}
