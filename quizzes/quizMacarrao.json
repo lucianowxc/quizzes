@@ -1,0 +1,131 @@
+{
+  "title": "Qual tipo de macarrão você seria?",
+  "subtitle": "Descubra qual massa combina com o seu humor hoje!",
+  "questions": [
+    {
+      "question": "Acordar hoje foi...",
+      "answers": [
+        { "text": "😴 Uma batalha épica contra o despertador", "points": { "parafuso": 0.8, "spaghetti": 0.2, "lasanha": 1 } },
+        { "text": "🚀 Fácil! Já acordei com 1000 planos", "points": { "penne": 1, "fettuccine": 0.7 } },
+        { "text": "� Só mais 5 minutinhos... cai no sono de novo", "points": { "cabelo_de_anjo": 1, "macarrao_de_arroz": 0.6 } },
+        { "text": "🧘‍♀️ Zen. Meditei por 10 minutos", "points": { "macarrao_de_arroz": 1, "cabelo_de_anjo": 0.5 } }
+      ]
+    },
+    {
+      "question": "Seu chefe pede um relatório URGENTE às 18h. Você:",
+      "answers": [
+        { "text": "😤 Tá de brincadeira? Já tô com o pé na porta!", "points": { "spaghetti": 1, "parafuso": 0.8 } },
+        { "text": "📝 Faz rapidão e ainda sugere um extra", "points": { "penne": 1, "fettuccine": 0.7 } },
+        { "text": "🫠 Derrete igual manteiga no micro-ondas", "points": { "cabelo_de_anjo": 1, "lasanha": 0.8 } },
+        { "text": "🍃 Respira fundo e prioriza o que dá", "points": { "macarrao_de_arroz": 1, "parafuso": 0.6 } }
+      ]
+    },
+    {
+      "question": "Seu crush te chama pra sair HOJE. Sua reação:",
+      "answers": [
+        { "text": "😎 Claro! Mas só se for pra comer macarrão", "points": { "spaghetti": 1, "fettuccine": 0.8 } },
+        { "text": "🥴 Ai, meu cabelo tá ruim, roupa suja...", "points": { "cabelo_de_anjo": 1, "lasanha": 0.7 } },
+        { "text": "🚀 Já tá escolhendo o restaurante", "points": { "penne": 1, "parafuso": 0.8 } },
+        { "text": "🤔 Talvez amanhã? Hoje tô meio meh", "points": { "macarrao_de_arroz": 1, "cabelo_de_anjo": 0.5 } }
+      ]
+    },
+    {
+      "question": "O dia tá corrido. Seu almoço é:",
+      "answers": [
+        { "text": "🍔 Um fast-food engolido em 5 minutos", "points": { "parafuso": 1, "penne": 0.8 } },
+        { "text": "🥗 Uma salada gourmet postada no Instagram", "points": { "spaghetti": 1, "fettuccine": 0.7 } },
+        { "text": "🍜 Macarrão instantâneo no micro-ondas", "points": { "lasanha": 1, "macarrao_de_arroz": 0.6 } },
+        { "text": "🍚 O que tiver na geladeira tá valendo", "points": { "macarrao_de_arroz": 1, "parafuso": 0.8 } }
+      ]
+    },
+    {
+      "question": "Seu amigo cancela o rolê. Você:",
+      "answers": [
+        { "text": "🔥 Arranja outra coisa melhor em 10 min", "points": { "parafuso": 1, "penne": 0.8 } },
+        { "text": "😢 Chora ouvindo Adele no escuro", "points": { "cabelo_de_anjo": 1, "spaghetti": 0.7 } },
+        { "text": "🛋️ Ainda bem! Netflix e pijama", "points": { "lasanha": 1, "macarrao_de_arroz": 0.6 } },
+        { "text": "🎮 Liga o videogame e nem lembra mais", "points": { "penne": 1, "fettuccine": 0.5 } }
+      ]
+    },
+    {
+      "question": "O que te define hoje?",
+      "answers": [
+        { "text": "🎢 Montanha-russa de emoções", "points": { "spaghetti": 1, "lasanha": 0.9 } },
+        { "text": "✨ Vibração alta e energia contagiante", "points": { "penne": 1, "fettuccine": 0.8 } },
+        { "text": "🕯️ Calmaria quase espiritual", "points": { "macarrao_de_arroz": 1, "cabelo_de_anjo": 0.7 } },
+        { "text": "🧩 Depende do momento", "points": { "parafuso": 1, "macarrao_de_arroz": 0.7 } }
+      ]
+    },
+    {
+      "question": "Seu look do dia é:",
+      "answers": [
+        { "text": "👖 Confortável e prático", "points": { "parafuso": 1, "penne": 0.7 } },
+        { "text": "👗 Estiloso até pra ir na padaria", "points": { "spaghetti": 1, "fettuccine": 0.8 } },
+        { "text": "🧥 Roupa limpa já é vitória", "points": { "macarrao_de_arroz": 1, "lasanha": 0.5 } },
+        { "text": "🧦 Meias misturadas e zero preocupação", "points": { "cabelo_de_anjo": 1, "lasanha": 0.6 } }
+      ]
+    },
+    {
+      "question": "À noite, seu plano ideal é:",
+      "answers": [
+        { "text": "🍝 Jantar com amigos e muitas risadas", "points": { "spaghetti": 1, "parafuso": 0.8 } },
+        { "text": "🧖‍♀️ Spa caseiro, máscara facial e chá", "points": { "cabelo_de_anjo": 1, "macarrao_de_arroz": 0.7 } },
+        { "text": "📖 Livro + cobertor + iluminação dramática", "points": { "fettuccine": 1, "lasanha": 0.8 } },
+        { "text": "🎉 Alguém tem festa? Tô dentro!", "points": { "penne": 1, "fettuccine": 0.8 } }
+      ]
+    },
+    {
+      "question": "Frase que mais combina com seu dia:",
+      "answers": [
+        { "text": "💥 No pain, no gain!", "points": { "penne": 1, "fettuccine": 0.8 } },
+        { "text": "✨ A simplicidade é o último grau de sofisticação", "points": { "macarrao_de_arroz": 1, "cabelo_de_anjo": 0.7 } },
+        { "text": "🌀 Nem tudo precisa fazer sentido", "points": { "parafuso": 1, "lasanha": 0.7 } },
+        { "text": "🎁 A vida é uma caixinha de surpresas", "points": { "spaghetti": 1, "lasanha": 0.8 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "parafuso": {
+      "title": "Parafuso (Fusilli)",
+      "emoji": "🌀",
+      "subtitle": "Adaptável e cheio de energia!",
+      "text": "Você é adaptável e desenrola qualquer situação! Seu humor é prático e otimista. Segura os molhos mais complexos da vida com leveza, mas cuidado pra não se enrolar demais."
+    },
+    "spaghetti": {
+      "title": "Spaghetti",
+      "emoji": "🍝",
+      "subtitle": "Clássico e um pouco dramático!",
+      "text": "Clássico, direto e um pouco dramático! Você vive dias intensos e emaranhados, mas sempre com sabor. Dica: não quebre antes da hora. Até o spaghetti mais reto tem seu charme!"
+    },
+    "cabelo_de_anjo": {
+      "title": "Cabelo de Anjo (Capellini)",
+      "emoji": "👼",
+      "subtitle": "Delicadeza em pessoa!",
+      "text": "Delicadeza em pessoa! Você prefere dias leves, sem estresse. Seu humor é suave como um fio de massa fininha. Mas atenção: às vezes é preciso engrossar o caldo pra não sumar no prato."
+    },
+    "macarrao_de_arroz": {
+      "title": "Macarrão de Arroz",
+      "emoji": "🍚",
+      "subtitle": "Versátil e zen!",
+      "text": "Versátil e zen! Você se adapta a qualquer molho (situação). Seu dia é cheio de jogo de cintura. Só não vire um *noodle* invisível — mostre seu sabor!"
+    },
+    "penne": {
+      "title": "Penne",
+      "emoji": "🧩",
+      "subtitle": "Prático e cheio de energia!",
+      "text": "Prático e cheio de energia! Você resolve tudo com eficiência. Seu formato tubular guarda as emoções, mas deixe o molho entrar. Dica: não vire um canudinho entupido de preocupações!"
+    },
+    "fettuccine": {
+      "title": "Fettuccine",
+      "emoji": "🏹",
+      "subtitle": "Intenso e cheio de personalidade!",
+      "text": "Intenso e cheio de personalidade! Você gosta de dias substanciosos e não foge do alho e óleo. Seu humor é rico como um bom molho Alfredo. Só não pese demais na dramaticidade!"
+    },
+    "lasanha": {
+      "title": "Lasanha",
+      "emoji": "💣",
+      "subtitle": "Camadas, baby!",
+      "text": "Camadas, baby! Seu dia é complexo e cheio de emoções sobrepostas. Você é reconfortante, mas pode explodir se aquecer demais. Dica: não deixe o queijo gratinar sua paciência!"
+    }
+  }
+}
