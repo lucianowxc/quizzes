@@ -395,6 +395,11 @@
             "name": "Qual Sam Você Seria?",
             "file": "quizzes/quizSams.json",
             "description": "Descubra qual versão de Sam combina com sua personalidade!"
-         }
+        },
+        {
+            "name": "Qual tipo de macarrão você seria?",
+            "file": "quizzes/quizMacarrao.json",
+            "description": "Descubra qual massa combina com o seu humor hoje através deste teste divertido!"
+        }
     ]
 }
