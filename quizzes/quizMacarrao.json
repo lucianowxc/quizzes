@@ -5,82 +5,478 @@
     {
       "question": "Acordar hoje foi...",
       "answers": [
-        { "text": "😴 Uma batalha épica contra o despertador", "points": { "parafuso": 0.8, "spaghetti": 0.2, "lasanha": 1 } },
-        { "text": "🚀 Fácil! Já acordei com 1000 planos", "points": { "penne": 1, "fettuccine": 0.7 } },
-        { "text": "� Só mais 5 minutinhos... cai no sono de novo", "points": { "cabelo_de_anjo": 1, "macarrao_de_arroz": 0.6 } },
-        { "text": "🧘‍♀️ Zen. Meditei por 10 minutos", "points": { "macarrao_de_arroz": 1, "cabelo_de_anjo": 0.5 } }
+        {
+          "text": "😴 Uma batalha épica contra o despertador",
+          "points": {
+            "parafuso": 0.0673,
+            "spaghetti": 0.0422,
+            "lasanha": 0.1374,
+            "cabelo_de_anjo": 0.007,
+            "macarrao_de_arroz": 0.0058,
+            "penne": 0.007,
+            "fettuccine": 0.0058
+          }
+        },
+        {
+          "text": "🚀 Fácil! Já acordei com 1000 planos",
+          "points": {
+            "penne": 0.0945,
+            "fettuccine": 0.1219,
+            "parafuso": 0.0057,
+            "spaghetti": 0.0084,
+            "cabelo_de_anjo": 0.0066,
+            "macarrao_de_arroz": 0.0055,
+            "lasanha": 0.005
+          }
+        },
+        {
+          "text": "� Só mais 5 minutinhos... cai no sono de novo",
+          "points": {
+            "cabelo_de_anjo": 0.0962,
+            "macarrao_de_arroz": 0.1177,
+            "parafuso": 0.0053,
+            "spaghetti": 0.0079,
+            "penne": 0.0061,
+            "fettuccine": 0.0052,
+            "lasanha": 0.0048
+          }
+        },
+        {
+          "text": "🧘‍♀️ Zen. Meditei por 10 minutos",
+          "points": {
+            "macarrao_de_arroz": 0.0795,
+            "cabelo_de_anjo": 0.1295,
+            "parafuso": 0.0051,
+            "spaghetti": 0.0076,
+            "penne": 0.0059,
+            "fettuccine": 0.0049,
+            "lasanha": 0.0045
+          }
+        }
       ]
     },
     {
       "question": "Seu chefe pede um relatório URGENTE às 18h. Você:",
       "answers": [
-        { "text": "😤 Tá de brincadeira? Já tô com o pé na porta!", "points": { "spaghetti": 1, "parafuso": 0.8 } },
-        { "text": "📝 Faz rapidão e ainda sugere um extra", "points": { "penne": 1, "fettuccine": 0.7 } },
-        { "text": "🫠 Derrete igual manteiga no micro-ondas", "points": { "cabelo_de_anjo": 1, "lasanha": 0.8 } },
-        { "text": "🍃 Respira fundo e prioriza o que dá", "points": { "macarrao_de_arroz": 1, "parafuso": 0.6 } }
+        {
+          "text": "😤 Tá de brincadeira? Já tô com o pé na porta!",
+          "points": {
+            "spaghetti": 0.1215,
+            "parafuso": 0.1371,
+            "cabelo_de_anjo": 0.0059,
+            "macarrao_de_arroz": 0.0048,
+            "penne": 0.0059,
+            "fettuccine": 0.0049,
+            "lasanha": 0.0046
+          }
+        },
+        {
+          "text": "📝 Faz rapidão e ainda sugere um extra",
+          "points": {
+            "penne": 0.0945,
+            "fettuccine": 0.1219,
+            "parafuso": 0.0057,
+            "spaghetti": 0.0084,
+            "cabelo_de_anjo": 0.0066,
+            "macarrao_de_arroz": 0.0055,
+            "lasanha": 0.005
+          }
+        },
+        {
+          "text": "🫠 Derrete igual manteiga no micro-ondas",
+          "points": {
+            "cabelo_de_anjo": 0.0962,
+            "lasanha": 0.1228,
+            "parafuso": 0.0059,
+            "spaghetti": 0.0087,
+            "macarrao_de_arroz": 0.0057,
+            "penne": 0.0069,
+            "fettuccine": 0.0057
+          }
+        },
+        {
+          "text": "🍃 Respira fundo e prioriza o que dá",
+          "points": {
+            "macarrao_de_arroz": 0.0795,
+            "parafuso": 0.1253,
+            "spaghetti": 0.008,
+            "cabelo_de_anjo": 0.0064,
+            "penne": 0.0063,
+            "fettuccine": 0.0053,
+            "lasanha": 0.0049
+          }
+        }
       ]
     },
     {
       "question": "Seu crush te chama pra sair HOJE. Sua reação:",
       "answers": [
-        { "text": "😎 Claro! Mas só se for pra comer macarrão", "points": { "spaghetti": 1, "fettuccine": 0.8 } },
-        { "text": "🥴 Ai, meu cabelo tá ruim, roupa suja...", "points": { "cabelo_de_anjo": 1, "lasanha": 0.7 } },
-        { "text": "🚀 Já tá escolhendo o restaurante", "points": { "penne": 1, "parafuso": 0.8 } },
-        { "text": "🤔 Talvez amanhã? Hoje tô meio meh", "points": { "macarrao_de_arroz": 1, "cabelo_de_anjo": 0.5 } }
+        {
+          "text": "😎 Claro! Mas só se for pra comer macarrão",
+          "points": {
+            "spaghetti": 0.1215,
+            "fettuccine": 0.1266,
+            "parafuso": 0.0054,
+            "cabelo_de_anjo": 0.0062,
+            "macarrao_de_arroz": 0.0052,
+            "penne": 0.0062,
+            "lasanha": 0.0047
+          }
+        },
+        {
+          "text": "🥴 Ai, meu cabelo tá ruim, roupa suja...",
+          "points": {
+            "cabelo_de_anjo": 0.0962,
+            "lasanha": 0.1138,
+            "parafuso": 0.0058,
+            "spaghetti": 0.0085,
+            "macarrao_de_arroz": 0.0055,
+            "penne": 0.0067,
+            "fettuccine": 0.0056
+          }
+        },
+        {
+          "text": "🚀 Já tá escolhendo o restaurante",
+          "points": {
+            "penne": 0.0945,
+            "parafuso": 0.1426,
+            "spaghetti": 0.0079,
+            "cabelo_de_anjo": 0.0062,
+            "macarrao_de_arroz": 0.0053,
+            "fettuccine": 0.0052,
+            "lasanha": 0.0049
+          }
+        },
+        {
+          "text": "🤔 Talvez amanhã? Hoje tô meio meh",
+          "points": {
+            "macarrao_de_arroz": 0.0795,
+            "cabelo_de_anjo": 0.1295,
+            "parafuso": 0.0051,
+            "spaghetti": 0.0076,
+            "penne": 0.0059,
+            "fettuccine": 0.0049,
+            "lasanha": 0.0045
+          }
+        }
       ]
     },
     {
       "question": "O dia tá corrido. Seu almoço é:",
       "answers": [
-        { "text": "🍔 Um fast-food engolido em 5 minutos", "points": { "parafuso": 1, "penne": 0.8 } },
-        { "text": "🥗 Uma salada gourmet postada no Instagram", "points": { "spaghetti": 1, "fettuccine": 0.7 } },
-        { "text": "🍜 Macarrão instantâneo no micro-ondas", "points": { "lasanha": 1, "macarrao_de_arroz": 0.6 } },
-        { "text": "🍚 O que tiver na geladeira tá valendo", "points": { "macarrao_de_arroz": 1, "parafuso": 0.8 } }
+        {
+          "text": "🍔 Um fast-food engolido em 5 minutos",
+          "points": {
+            "parafuso": 0.084,
+            "penne": 0.1641,
+            "spaghetti": 0.0076,
+            "cabelo_de_anjo": 0.0061,
+            "macarrao_de_arroz": 0.0051,
+            "fettuccine": 0.0051,
+            "lasanha": 0.0047
+          }
+        },
+        {
+          "text": "🥗 Uma salada gourmet postada no Instagram",
+          "points": {
+            "spaghetti": 0.1215,
+            "fettuccine": 0.117,
+            "parafuso": 0.0052,
+            "cabelo_de_anjo": 0.0061,
+            "macarrao_de_arroz": 0.0051,
+            "penne": 0.0061,
+            "lasanha": 0.0046
+          }
+        },
+        {
+          "text": "🍜 Macarrão instantâneo no micro-ondas",
+          "points": {
+            "lasanha": 0.0711,
+            "macarrao_de_arroz": 0.1273,
+            "parafuso": 0.0057,
+            "spaghetti": 0.0084,
+            "cabelo_de_anjo": 0.0067,
+            "penne": 0.0066,
+            "fettuccine": 0.0055
+          }
+        },
+        {
+          "text": "🍚 O que tiver na geladeira tá valendo",
+          "points": {
+            "macarrao_de_arroz": 0.0795,
+            "parafuso": 0.1464,
+            "spaghetti": 0.0083,
+            "cabelo_de_anjo": 0.0066,
+            "penne": 0.0065,
+            "fettuccine": 0.0054,
+            "lasanha": 0.005
+          }
+        }
       ]
     },
     {
       "question": "Seu amigo cancela o rolê. Você:",
       "answers": [
-        { "text": "🔥 Arranja outra coisa melhor em 10 min", "points": { "parafuso": 1, "penne": 0.8 } },
-        { "text": "😢 Chora ouvindo Adele no escuro", "points": { "cabelo_de_anjo": 1, "spaghetti": 0.7 } },
-        { "text": "🛋️ Ainda bem! Netflix e pijama", "points": { "lasanha": 1, "macarrao_de_arroz": 0.6 } },
-        { "text": "🎮 Liga o videogame e nem lembra mais", "points": { "penne": 1, "fettuccine": 0.5 } }
+        {
+          "text": "🔥 Arranja outra coisa melhor em 10 min",
+          "points": {
+            "parafuso": 0.084,
+            "penne": 0.1641,
+            "spaghetti": 0.0076,
+            "cabelo_de_anjo": 0.0061,
+            "macarrao_de_arroz": 0.0051,
+            "fettuccine": 0.0051,
+            "lasanha": 0.0047
+          }
+        },
+        {
+          "text": "😢 Chora ouvindo Adele no escuro",
+          "points": {
+            "cabelo_de_anjo": 0.0962,
+            "spaghetti": 0.1921,
+            "parafuso": 0.0044,
+            "macarrao_de_arroz": 0.0043,
+            "penne": 0.0051,
+            "fettuccine": 0.0042,
+            "lasanha": 0.004
+          }
+        },
+        {
+          "text": "🛋️ Ainda bem! Netflix e pijama",
+          "points": {
+            "lasanha": 0.0711,
+            "macarrao_de_arroz": 0.1273,
+            "parafuso": 0.0057,
+            "spaghetti": 0.0084,
+            "cabelo_de_anjo": 0.0067,
+            "penne": 0.0066,
+            "fettuccine": 0.0055
+          }
+        },
+        {
+          "text": "🎮 Liga o videogame e nem lembra mais",
+          "points": {
+            "penne": 0.0945,
+            "fettuccine": 0.1014,
+            "parafuso": 0.0055,
+            "spaghetti": 0.0081,
+            "cabelo_de_anjo": 0.0064,
+            "macarrao_de_arroz": 0.0053,
+            "lasanha": 0.0048
+          }
+        }
       ]
     },
     {
       "question": "O que te define hoje?",
       "answers": [
-        { "text": "🎢 Montanha-russa de emoções", "points": { "spaghetti": 1, "lasanha": 0.9 } },
-        { "text": "✨ Vibração alta e energia contagiante", "points": { "penne": 1, "fettuccine": 0.8 } },
-        { "text": "🕯️ Calmaria quase espiritual", "points": { "macarrao_de_arroz": 1, "cabelo_de_anjo": 0.7 } },
-        { "text": "🧩 Depende do momento", "points": { "parafuso": 1, "macarrao_de_arroz": 0.7 } }
+        {
+          "text": "🎢 Montanha-russa de emoções",
+          "points": {
+            "spaghetti": 0.1215,
+            "lasanha": 0.1243,
+            "parafuso": 0.0057,
+            "cabelo_de_anjo": 0.0066,
+            "macarrao_de_arroz": 0.0054,
+            "penne": 0.0065,
+            "fettuccine": 0.0055
+          }
+        },
+        {
+          "text": "✨ Vibração alta e energia contagiante",
+          "points": {
+            "penne": 0.0945,
+            "fettuccine": 0.1314,
+            "parafuso": 0.0058,
+            "spaghetti": 0.0084,
+            "cabelo_de_anjo": 0.0067,
+            "macarrao_de_arroz": 0.0056,
+            "lasanha": 0.005
+          }
+        },
+        {
+          "text": "🕯️ Calmaria quase espiritual",
+          "points": {
+            "macarrao_de_arroz": 0.0795,
+            "cabelo_de_anjo": 0.1548,
+            "parafuso": 0.0053,
+            "spaghetti": 0.0077,
+            "penne": 0.006,
+            "fettuccine": 0.005,
+            "lasanha": 0.0046
+          }
+        },
+        {
+          "text": "🧩 Depende do momento",
+          "points": {
+            "parafuso": 0.084,
+            "macarrao_de_arroz": 0.1289,
+            "spaghetti": 0.0082,
+            "cabelo_de_anjo": 0.0065,
+            "penne": 0.0065,
+            "fettuccine": 0.0055,
+            "lasanha": 0.005
+          }
+        }
       ]
     },
     {
       "question": "Seu look do dia é:",
       "answers": [
-        { "text": "👖 Confortável e prático", "points": { "parafuso": 1, "penne": 0.7 } },
-        { "text": "👗 Estiloso até pra ir na padaria", "points": { "spaghetti": 1, "fettuccine": 0.8 } },
-        { "text": "🧥 Roupa limpa já é vitória", "points": { "macarrao_de_arroz": 1, "lasanha": 0.5 } },
-        { "text": "🧦 Meias misturadas e zero preocupação", "points": { "cabelo_de_anjo": 1, "lasanha": 0.6 } }
+        {
+          "text": "👖 Confortável e prático",
+          "points": {
+            "parafuso": 0.084,
+            "penne": 0.1525,
+            "spaghetti": 0.0075,
+            "cabelo_de_anjo": 0.006,
+            "macarrao_de_arroz": 0.005,
+            "fettuccine": 0.005,
+            "lasanha": 0.0047
+          }
+        },
+        {
+          "text": "👗 Estiloso até pra ir na padaria",
+          "points": {
+            "spaghetti": 0.1215,
+            "fettuccine": 0.1266,
+            "parafuso": 0.0054,
+            "cabelo_de_anjo": 0.0062,
+            "macarrao_de_arroz": 0.0052,
+            "penne": 0.0062,
+            "lasanha": 0.0047
+          }
+        },
+        {
+          "text": "🧥 Roupa limpa já é vitória",
+          "points": {
+            "macarrao_de_arroz": 0.0795,
+            "lasanha": 0.0962,
+            "parafuso": 0.0059,
+            "spaghetti": 0.0086,
+            "cabelo_de_anjo": 0.007,
+            "penne": 0.0069,
+            "fettuccine": 0.0057
+          }
+        },
+        {
+          "text": "🧦 Meias misturadas e zero preocupação",
+          "points": {
+            "cabelo_de_anjo": 0.0962,
+            "lasanha": 0.1045,
+            "parafuso": 0.0057,
+            "spaghetti": 0.0083,
+            "macarrao_de_arroz": 0.0054,
+            "penne": 0.0066,
+            "fettuccine": 0.0055
+          }
+        }
       ]
     },
     {
       "question": "À noite, seu plano ideal é:",
       "answers": [
-        { "text": "🍝 Jantar com amigos e muitas risadas", "points": { "spaghetti": 1, "parafuso": 0.8 } },
-        { "text": "🧖‍♀️ Spa caseiro, máscara facial e chá", "points": { "cabelo_de_anjo": 1, "macarrao_de_arroz": 0.7 } },
-        { "text": "📖 Livro + cobertor + iluminação dramática", "points": { "fettuccine": 1, "lasanha": 0.8 } },
-        { "text": "🎉 Alguém tem festa? Tô dentro!", "points": { "penne": 1, "fettuccine": 0.8 } }
+        {
+          "text": "🍝 Jantar com amigos e muitas risadas",
+          "points": {
+            "spaghetti": 0.1215,
+            "parafuso": 0.1371,
+            "cabelo_de_anjo": 0.0059,
+            "macarrao_de_arroz": 0.0048,
+            "penne": 0.0059,
+            "fettuccine": 0.0049,
+            "lasanha": 0.0046
+          }
+        },
+        {
+          "text": "🧖‍♀️ Spa caseiro, máscara facial e chá",
+          "points": {
+            "cabelo_de_anjo": 0.0962,
+            "macarrao_de_arroz": 0.1281,
+            "parafuso": 0.0054,
+            "spaghetti": 0.008,
+            "penne": 0.0063,
+            "fettuccine": 0.0052,
+            "lasanha": 0.0049
+          }
+        },
+        {
+          "text": "📖 Livro + cobertor + iluminação dramática",
+          "points": {
+            "fettuccine": 0.0781,
+            "lasanha": 0.1328,
+            "parafuso": 0.0061,
+            "spaghetti": 0.0089,
+            "cabelo_de_anjo": 0.0071,
+            "macarrao_de_arroz": 0.006,
+            "penne": 0.007
+          }
+        },
+        {
+          "text": "🎉 Alguém tem festa? Tô dentro!",
+          "points": {
+            "penne": 0.0945,
+            "fettuccine": 0.1314,
+            "parafuso": 0.0058,
+            "spaghetti": 0.0084,
+            "cabelo_de_anjo": 0.0067,
+            "macarrao_de_arroz": 0.0056,
+            "lasanha": 0.005
+          }
+        }
       ]
     },
     {
       "question": "Frase que mais combina com seu dia:",
       "answers": [
-        { "text": "💥 No pain, no gain!", "points": { "penne": 1, "fettuccine": 0.8 } },
-        { "text": "✨ A simplicidade é o último grau de sofisticação", "points": { "macarrao_de_arroz": 1, "cabelo_de_anjo": 0.7 } },
-        { "text": "🌀 Nem tudo precisa fazer sentido", "points": { "parafuso": 1, "lasanha": 0.7 } },
-        { "text": "🎁 A vida é uma caixinha de surpresas", "points": { "spaghetti": 1, "lasanha": 0.8 } }
+        {
+          "text": "💥 No pain, no gain!",
+          "points": {
+            "penne": 0.0945,
+            "fettuccine": 0.1314,
+            "parafuso": 0.0058,
+            "spaghetti": 0.0084,
+            "cabelo_de_anjo": 0.0067,
+            "macarrao_de_arroz": 0.0056,
+            "lasanha": 0.005
+          }
+        },
+        {
+          "text": "✨ A simplicidade é o último grau de sofisticação",
+          "points": {
+            "macarrao_de_arroz": 0.0795,
+            "cabelo_de_anjo": 0.1548,
+            "parafuso": 0.0053,
+            "spaghetti": 0.0077,
+            "penne": 0.006,
+            "fettuccine": 0.005,
+            "lasanha": 0.0046
+          }
+        },
+        {
+          "text": "🌀 Nem tudo precisa fazer sentido",
+          "points": {
+            "parafuso": 0.084,
+            "lasanha": 0.1146,
+            "spaghetti": 0.0088,
+            "cabelo_de_anjo": 0.0069,
+            "macarrao_de_arroz": 0.0058,
+            "penne": 0.007,
+            "fettuccine": 0.0058
+          }
+        },
+        {
+          "text": "🎁 A vida é uma caixinha de surpresas",
+          "points": {
+            "spaghetti": 0.1215,
+            "lasanha": 0.1159,
+            "parafuso": 0.0055,
+            "cabelo_de_anjo": 0.0064,
+            "macarrao_de_arroz": 0.0053,
+            "penne": 0.0065,
+            "fettuccine": 0.0054
+          }
+        }
       ]
     }
   ],
