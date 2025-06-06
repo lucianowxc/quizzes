@@ -1,0 +1,113 @@
+{
+  "title": "Qual Elemento Químico Combina Com Você?",
+  "subtitle": "Descubra seu elemento gêmeo na tabela periódica!",
+  "questions": [
+    {
+      "question": "Num grupo de amigos, você geralmente:",
+      "answers": [
+        {"text": "Crio o ambiente para todos se sentirem bem 💧", "points": {"hidrogenio": 0.8, "carbono": 0.6}},
+        {"text": "Levo humor e descontração 🎈", "points": {"helio": 0.9}},
+        {"text": "Sou a fonte de energia para atividades 🔋", "points": {"litio": 0.8}},
+        {"text": "Ajudo a resolver problemas complexos 🧩", "points": {"boro": 0.7}}
+      ]
+    },
+    {
+      "question": "Seu jeito de enfrentar desafios é:",
+      "answers": [
+        {"text": "Com paciência e persistência 💎", "points": {"berilio": 0.9}},
+        {"text": "Buscando soluções inovadoras ⚡", "points": {"nitrogenio": 0.8}},
+        {"text": "Adaptando-me conforme a situação 🧩", "points": {"boro": 0.7}},
+        {"text": "Mantendo a calma e serenidade 🔋", "points": {"litio": 0.6}}
+      ]
+    },
+    {
+      "question": "O que você mais valoriza nas relações?",
+      "answers": [
+        {"text": "Conexões autênticas e profundas 🌱", "points": {"carbono": 0.9}},
+        {"text": "Liberdade para ser você mesmo 🎈", "points": {"helio": 0.7}},
+        {"text": "A possibilidade de crescer juntos 💧", "points": {"hidrogenio": 0.8}},
+        {"text": "A emoção de descobrir coisas novas ⚡", "points": {"nitrogenio": 0.6}}
+      ]
+    },
+    {
+      "question": "Seu presente ideal seria:",
+      "answers": [
+        {"text": "Algo prático que eu precise 💎", "points": {"berilio": 0.8}},
+        {"text": "Uma experiência inesquecível ⚡", "points": {"nitrogenio": 0.9}},
+        {"text": "Um momento especial com quem amo 🌱", "points": {"carbono": 0.7}},
+        {"text": "Uma aventura divertida 🎈", "points": {"helio": 0.6}}
+      ]
+    },
+    {
+      "question": "Num dia livre, você prefere:",
+      "answers": [
+        {"text": "Explorar lugares novos ⚡", "points": {"nitrogenio": 0.8}},
+        {"text": "Ajudar alguém importante 🌱", "points": {"carbono": 0.7}},
+        {"text": "Relaxar sem compromissos 🎈", "points": {"helio": 0.9}},
+        {"text": "Aprender algo útil 💎", "points": {"berilio": 0.6}}
+      ]
+    },
+    {
+      "question": "Qual frase te define melhor?",
+      "answers": [
+        {"text": "Tudo está conectado de alguma forma 🌱", "points": {"carbono": 0.8}},
+        {"text": "A vida é muito curta para ser séria 🎈", "points": {"helio": 0.9}},
+        {"text": "Cada desafio esconde uma lição 💎", "points": {"berilio": 0.7}},
+        {"text": "Inovar é respirar ⚡", "points": {"nitrogenio": 0.8}}
+      ]
+    },
+    {
+      "question": "Como você reage a mudanças?",
+      "answers": [
+        {"text": "Me adapto naturalmente 💧", "points": {"hidrogenio": 0.8}},
+        {"text": "Vejo oportunidades onde outros veem caos ⚡", "points": {"nitrogenio": 0.9}},
+        {"text": "Busco estabilidade primeiro 🔋", "points": {"litio": 0.7}},
+        {"text": "Analiso cuidadosamente antes de agir 🧩", "points": {"boro": 0.6}}
+      ]
+    }
+  ],
+  "descriptions": {
+    "hidrogenio": {
+      "title": "Hidrogênio (H)",
+      "subtitle": "O Primeiro Elemento",
+      "emoji": "💧",
+      "text": "Você é o início de tudo! Como o hidrogênio (#1 na tabela periódica), é simples mas essencial. Sua capacidade de se adaptar e conectar faz de você a base invisível que mantém tudo unido."
+    },
+    "helio": {
+      "title": "Hélio (He)",
+      "subtitle": "O Segundo Elemento",
+      "emoji": "🎈",
+      "text": "Você flutua acima do comum! Como o hélio (#2), traz leveza e alegria. Seu jeito único de ver o mundo é tão especial quanto um gás nobre - raro e valioso."
+    },
+    "litio": {
+      "title": "Lítio (Li)",
+      "subtitle": "O Terceiro Elemento",
+      "emoji": "🔋",
+      "text": "Você equilibra energias! Como o lítio (#3), regula o ambiente ao seu redor. As pessoas se sentem recarregadas perto de você, como uma bateria que nunca acaba."
+    },
+    "berilio": {
+      "title": "Berílio (Be)",
+      "subtitle": "O Quarto Elemento",
+      "emoji": "💎",
+      "text": "Você é forte e brilhante! Como o berílio (#4), combina resistência com valor. Seu caráter sólido e princípios claros inspiram confiança em qualquer situação."
+    },
+    "boro": {
+      "title": "Boro (B)",
+      "subtitle": "O Quinto Elemento",
+      "emoji": "🧩",
+      "text": "Você é o mestre das conexões! Como o boro (#5), une peças diferentes criando estruturas incríveis. Seu talento para resolver quebra-cabeças sociais é admirável."
+    },
+    "carbono": {
+      "title": "Carbono (C)",
+      "subtitle": "O Sexto Elemento",
+      "emoji": "🌱",
+      "text": "Você é a base das relações! Como o carbono (#6), forma ligações fortes e duradouras. Seu jeito acolhedor faz com que todos ao seu redor floresçam."
+    },
+    "nitrogenio": {
+      "title": "Nitrogênio (N)",
+      "subtitle": "O Sétimo Elemento",
+      "emoji": "⚡",
+      "text": "Você traz o sopro da renovação! Como o nitrogênio (#7), é essencial para transformações. Sua mente inovadora e energia contagiante inspiram mudanças positivas."
+    }
+  }
+}
