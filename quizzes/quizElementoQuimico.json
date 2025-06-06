@@ -5,64 +5,372 @@
     {
       "question": "Num grupo de amigos, você geralmente:",
       "answers": [
-        {"text": "Crio o ambiente para todos se sentirem bem 💧", "points": {"hidrogenio": 0.8, "carbono": 0.6}},
-        {"text": "Levo humor e descontração 🎈", "points": {"helio": 0.9}},
-        {"text": "Sou a fonte de energia para atividades 🔋", "points": {"litio": 0.8}},
-        {"text": "Ajudo a resolver problemas complexos 🧩", "points": {"boro": 0.7}}
+        {
+          "text": "Crio o ambiente para todos se sentirem bem 💧",
+          "points": {
+            "hidrogenio": 0.2523,
+            "carbono": 0.2149,
+            "helio": 0.0061,
+            "litio": 0.0098,
+            "berilio": 0.0076,
+            "boro": 0.0103,
+            "nitrogenio": 0.0053
+          }
+        },
+        {
+          "text": "Levo humor e descontração 🎈",
+          "points": {
+            "helio": 0.1926,
+            "hidrogenio": 0.012,
+            "litio": 0.0131,
+            "berilio": 0.01,
+            "boro": 0.0134,
+            "carbono": 0.0078,
+            "nitrogenio": 0.0068
+          }
+        },
+        {
+          "text": "Sou a fonte de energia para atividades 🔋",
+          "points": {
+            "litio": 0.2777,
+            "hidrogenio": 0.0081,
+            "helio": 0.0055,
+            "berilio": 0.007,
+            "boro": 0.0095,
+            "carbono": 0.0056,
+            "nitrogenio": 0.0049
+          }
+        },
+        {
+          "text": "Ajudo a resolver problemas complexos 🧩",
+          "points": {
+            "boro": 0.253,
+            "hidrogenio": 0.0077,
+            "helio": 0.0053,
+            "litio": 0.0087,
+            "berilio": 0.0068,
+            "carbono": 0.0054,
+            "nitrogenio": 0.0048
+          }
+        }
       ]
     },
     {
       "question": "Seu jeito de enfrentar desafios é:",
       "answers": [
-        {"text": "Com paciência e persistência 💎", "points": {"berilio": 0.9}},
-        {"text": "Buscando soluções inovadoras ⚡", "points": {"nitrogenio": 0.8}},
-        {"text": "Adaptando-me conforme a situação 🧩", "points": {"boro": 0.7}},
-        {"text": "Mantendo a calma e serenidade 🔋", "points": {"litio": 0.6}}
+        {
+          "text": "Com paciência e persistência 💎",
+          "points": {
+            "berilio": 0.2415,
+            "hidrogenio": 0.01,
+            "helio": 0.0068,
+            "litio": 0.0112,
+            "boro": 0.0115,
+            "carbono": 0.0068,
+            "nitrogenio": 0.006
+          }
+        },
+        {
+          "text": "Buscando soluções inovadoras ⚡",
+          "points": {
+            "nitrogenio": 0.1479,
+            "hidrogenio": 0.013,
+            "helio": 0.0087,
+            "litio": 0.0142,
+            "berilio": 0.0107,
+            "boro": 0.0144,
+            "carbono": 0.0084
+          }
+        },
+        {
+          "text": "Adaptando-me conforme a situação 🧩",
+          "points": {
+            "boro": 0.253,
+            "hidrogenio": 0.0077,
+            "helio": 0.0053,
+            "litio": 0.0087,
+            "berilio": 0.0068,
+            "carbono": 0.0054,
+            "nitrogenio": 0.0048
+          }
+        },
+        {
+          "text": "Mantendo a calma e serenidade 🔋",
+          "points": {
+            "litio": 0.2091,
+            "hidrogenio": 0.0078,
+            "helio": 0.0054,
+            "berilio": 0.0068,
+            "boro": 0.0093,
+            "carbono": 0.0055,
+            "nitrogenio": 0.0049
+          }
+        }
       ]
     },
     {
       "question": "O que você mais valoriza nas relações?",
       "answers": [
-        {"text": "Conexões autênticas e profundas 🌱", "points": {"carbono": 0.9}},
-        {"text": "Liberdade para ser você mesmo 🎈", "points": {"helio": 0.7}},
-        {"text": "A possibilidade de crescer juntos 💧", "points": {"hidrogenio": 0.8}},
-        {"text": "A emoção de descobrir coisas novas ⚡", "points": {"nitrogenio": 0.6}}
+        {
+          "text": "Conexões autênticas e profundas 🌱",
+          "points": {
+            "carbono": 0.1916,
+            "hidrogenio": 0.0119,
+            "helio": 0.0081,
+            "litio": 0.0132,
+            "berilio": 0.0101,
+            "boro": 0.0135,
+            "nitrogenio": 0.0069
+          }
+        },
+        {
+          "text": "Liberdade para ser você mesmo 🎈",
+          "points": {
+            "helio": 0.1503,
+            "hidrogenio": 0.0114,
+            "litio": 0.0125,
+            "berilio": 0.0096,
+            "boro": 0.0128,
+            "carbono": 0.0075,
+            "nitrogenio": 0.0065
+          }
+        },
+        {
+          "text": "A possibilidade de crescer juntos 💧",
+          "points": {
+            "hidrogenio": 0.2523,
+            "helio": 0.0059,
+            "litio": 0.0097,
+            "berilio": 0.0075,
+            "boro": 0.0102,
+            "carbono": 0.006,
+            "nitrogenio": 0.0053
+          }
+        },
+        {
+          "text": "A emoção de descobrir coisas novas ⚡",
+          "points": {
+            "nitrogenio": 0.1115,
+            "hidrogenio": 0.0121,
+            "helio": 0.0081,
+            "litio": 0.0133,
+            "berilio": 0.0102,
+            "boro": 0.0136,
+            "carbono": 0.0079
+          }
+        }
       ]
     },
     {
       "question": "Seu presente ideal seria:",
       "answers": [
-        {"text": "Algo prático que eu precise 💎", "points": {"berilio": 0.8}},
-        {"text": "Uma experiência inesquecível ⚡", "points": {"nitrogenio": 0.9}},
-        {"text": "Um momento especial com quem amo 🌱", "points": {"carbono": 0.7}},
-        {"text": "Uma aventura divertida 🎈", "points": {"helio": 0.6}}
+        {
+          "text": "Algo prático que eu precise 💎",
+          "points": {
+            "berilio": 0.215,
+            "hidrogenio": 0.0099,
+            "helio": 0.0067,
+            "litio": 0.011,
+            "boro": 0.0114,
+            "carbono": 0.0067,
+            "nitrogenio": 0.0059
+          }
+        },
+        {
+          "text": "Uma experiência inesquecível ⚡",
+          "points": {
+            "nitrogenio": 0.1662,
+            "hidrogenio": 0.0133,
+            "helio": 0.0089,
+            "litio": 0.0145,
+            "berilio": 0.011,
+            "boro": 0.0148,
+            "carbono": 0.0085
+          }
+        },
+        {
+          "text": "Um momento especial com quem amo 🌱",
+          "points": {
+            "carbono": 0.1496,
+            "hidrogenio": 0.0115,
+            "helio": 0.0077,
+            "litio": 0.0126,
+            "berilio": 0.0097,
+            "boro": 0.013,
+            "nitrogenio": 0.0066
+          }
+        },
+        {
+          "text": "Uma aventura divertida 🎈",
+          "points": {
+            "helio": 0.1291,
+            "hidrogenio": 0.011,
+            "litio": 0.012,
+            "berilio": 0.0093,
+            "boro": 0.0125,
+            "carbono": 0.0073,
+            "nitrogenio": 0.0064
+          }
+        }
       ]
     },
     {
       "question": "Num dia livre, você prefere:",
       "answers": [
-        {"text": "Explorar lugares novos ⚡", "points": {"nitrogenio": 0.8}},
-        {"text": "Ajudar alguém importante 🌱", "points": {"carbono": 0.7}},
-        {"text": "Relaxar sem compromissos 🎈", "points": {"helio": 0.9}},
-        {"text": "Aprender algo útil 💎", "points": {"berilio": 0.6}}
+        {
+          "text": "Explorar lugares novos ⚡",
+          "points": {
+            "nitrogenio": 0.1479,
+            "hidrogenio": 0.013,
+            "helio": 0.0087,
+            "litio": 0.0142,
+            "berilio": 0.0107,
+            "boro": 0.0144,
+            "carbono": 0.0084
+          }
+        },
+        {
+          "text": "Ajudar alguém importante 🌱",
+          "points": {
+            "carbono": 0.1496,
+            "hidrogenio": 0.0115,
+            "helio": 0.0077,
+            "litio": 0.0126,
+            "berilio": 0.0097,
+            "boro": 0.013,
+            "nitrogenio": 0.0066
+          }
+        },
+        {
+          "text": "Relaxar sem compromissos 🎈",
+          "points": {
+            "helio": 0.1926,
+            "hidrogenio": 0.012,
+            "litio": 0.0131,
+            "berilio": 0.01,
+            "boro": 0.0134,
+            "carbono": 0.0078,
+            "nitrogenio": 0.0068
+          }
+        },
+        {
+          "text": "Aprender algo útil 💎",
+          "points": {
+            "berilio": 0.1619,
+            "hidrogenio": 0.0095,
+            "helio": 0.0065,
+            "litio": 0.0106,
+            "boro": 0.0109,
+            "carbono": 0.0064,
+            "nitrogenio": 0.0057
+          }
+        }
       ]
     },
     {
       "question": "Qual frase te define melhor?",
       "answers": [
-        {"text": "Tudo está conectado de alguma forma 🌱", "points": {"carbono": 0.8}},
-        {"text": "A vida é muito curta para ser séria 🎈", "points": {"helio": 0.9}},
-        {"text": "Cada desafio esconde uma lição 💎", "points": {"berilio": 0.7}},
-        {"text": "Inovar é respirar ⚡", "points": {"nitrogenio": 0.8}}
+        {
+          "text": "Tudo está conectado de alguma forma 🌱",
+          "points": {
+            "carbono": 0.1706,
+            "hidrogenio": 0.0117,
+            "helio": 0.0079,
+            "litio": 0.0129,
+            "berilio": 0.0099,
+            "boro": 0.0133,
+            "nitrogenio": 0.0067
+          }
+        },
+        {
+          "text": "A vida é muito curta para ser séria 🎈",
+          "points": {
+            "helio": 0.1926,
+            "hidrogenio": 0.012,
+            "litio": 0.0131,
+            "berilio": 0.01,
+            "boro": 0.0134,
+            "carbono": 0.0078,
+            "nitrogenio": 0.0068
+          }
+        },
+        {
+          "text": "Cada desafio esconde uma lição 💎",
+          "points": {
+            "berilio": 0.1885,
+            "hidrogenio": 0.0097,
+            "helio": 0.0066,
+            "litio": 0.0108,
+            "boro": 0.0112,
+            "carbono": 0.0066,
+            "nitrogenio": 0.0058
+          }
+        },
+        {
+          "text": "Inovar é respirar ⚡",
+          "points": {
+            "nitrogenio": 0.1479,
+            "hidrogenio": 0.013,
+            "helio": 0.0087,
+            "litio": 0.0142,
+            "berilio": 0.0107,
+            "boro": 0.0144,
+            "carbono": 0.0084
+          }
+        }
       ]
     },
     {
       "question": "Como você reage a mudanças?",
       "answers": [
-        {"text": "Me adapto naturalmente 💧", "points": {"hidrogenio": 0.8}},
-        {"text": "Vejo oportunidades onde outros veem caos ⚡", "points": {"nitrogenio": 0.9}},
-        {"text": "Busco estabilidade primeiro 🔋", "points": {"litio": 0.7}},
-        {"text": "Analiso cuidadosamente antes de agir 🧩", "points": {"boro": 0.6}}
+        {
+          "text": "Me adapto naturalmente 💧",
+          "points": {
+            "hidrogenio": 0.2523,
+            "helio": 0.0059,
+            "litio": 0.0097,
+            "berilio": 0.0075,
+            "boro": 0.0102,
+            "carbono": 0.006,
+            "nitrogenio": 0.0053
+          }
+        },
+        {
+          "text": "Vejo oportunidades onde outros veem caos ⚡",
+          "points": {
+            "nitrogenio": 0.1662,
+            "hidrogenio": 0.0133,
+            "helio": 0.0089,
+            "litio": 0.0145,
+            "berilio": 0.011,
+            "boro": 0.0148,
+            "carbono": 0.0085
+          }
+        },
+        {
+          "text": "Busco estabilidade primeiro 🔋",
+          "points": {
+            "litio": 0.2434,
+            "hidrogenio": 0.008,
+            "helio": 0.0054,
+            "berilio": 0.007,
+            "boro": 0.0094,
+            "carbono": 0.0056,
+            "nitrogenio": 0.0049
+          }
+        },
+        {
+          "text": "Analiso cuidadosamente antes de agir 🧩",
+          "points": {
+            "boro": 0.2173,
+            "hidrogenio": 0.0076,
+            "helio": 0.0052,
+            "litio": 0.0086,
+            "berilio": 0.0067,
+            "carbono": 0.0053,
+            "nitrogenio": 0.0047
+          }
+        }
       ]
     }
   ],
