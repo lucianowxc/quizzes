@@ -1,405 +1,409 @@
 {
-    "quizzes": [
-        {
-            "name": "Qual Pokémon Inicial Mais Combina com Você?",
-            "file": "quizzes/quizDataPkmn.json",
-            "description": "Descubra qual Pokémon inicial mais combina com a sua personalidade!"
-        },
-        {
-            "name": "Qual Power Ranger Melhor Te Representa?",
-            "file": "quizzes/quizDataPowerRanger.json",
-            "description": "Veja qual Power Ranger melhor representa você!"
-        },
-        {
-            "name": "Qual frase do Iberê você seria?",
-            "file": "quizzes/quizIbere.json",
-            "description": "Descubra qual frase icônica do Iberê combina com você! Um quiz cheio de inside jokes, hiperfocos e... mijos estratégicos!"
-        },
-        {
-            "name": "Qual Andar Você Seria?",
-            "file": "quizzes/quizAndar.json",
-            "description": "Descubra qual andar do prédio mais se parece com a sua personalidade!"
-        },
-        {
-            "name": "Qual Princesa Disney Te Representa?",
-            "file": "quizzes/quizPrincesa.json",
-            "description": "Descubra qual princesa Disney é a sua cara!"
-        },
-        {
-            "name": "Qual personagem de Naruto você seria?",
-            "file": "quizzes/quizNaruto.json",
-            "description": "Encontre o personagem de Naruto que mais se parece com você!"
-        },
-        {
-            "name": "Com qual ditado popular brasileiro você mais se identifica?",
-            "file": "quizzes/quizDitados.json",
-            "description": "Descubra qual ditado popular brasileiro mais combina com você!"
-        },
-        {
-            "name": "Qual estado brasileiro você seria?",
-            "file": "quizzes/quizEstados.json",
-            "description": "Veja qual estado brasileiro mais se parece com você!"
-        },
-        {
-            "name": "De acordo com as suas escolhas de filmes, vamos escolher qual escolha de moda combina contigo",
-            "file": "quizzes/quizRoupas.json",
-            "description": "Descubra qual estilo de moda combina com você baseado nas suas escolhas de filmes!"
-        },
-        {
-            "name": "Qual personagem da Turma da Mônica você é?",
-            "file": "quizzes/quizTurmaMonica.json",
-            "description": "Descubra qual personagem da Turma da Mônica mais se parece com você!"
-        },
-        {
-            "name": "Qual Algoritmo Clássico da Ciência da Computação Você é?",
-            "file": "quizzes/quizAlgoritmosClassicos.json",
-            "description": "Descubra qual algoritmo clássico da Ciência da Computação mais se parece com você!"
-        },
-        {
-            "name": "Quem é você na festa da firma?",
-            "file": "quizzes/quizFestaFirma.json",
-            "description": "Descubra qual arquétipo você representa na festa da firma!"
-        },
-        {
-            "name": "Qual linguagem de programação esotérica você seria?",
-            "file": "quizzes/quizLinguagensEsotericas.json",
-            "description": "Descubra qual linguagem de programação esotérica mais se parece com você!"
-        },
-        {
-            "name": "Qual Personagem de Filme de Terror Você é?",
-            "file": "quizzes/quizPersonagensDeTerror.json",
-            "description": "Descubra que personagem você seria em um filme de terror! Responda ao nosso quiz e desvende seu alter ego sombrio."
-        },
-        {
-            "name": "Qual verso da música 'Smash Mouth - All Star' você seria?",
-            "file": "quizzes/quizVersosAllStar.json",
-            "description": "Descubra qual verso da música 'Smash Mouth - All Star' mais se parece com você!"
-        },
-        {
-            "name": "Qual Diva Pop dos Anos 2000 Você é?",
-            "file": "quizzes/quizDivasPopAnos2000.json",
-            "description": "Descubra qual diva pop dos anos 2000 mais se parece com você!"
-        },
-        {
-            "name": "Que tipo de triângulo você seria?",
-            "file": "quizzes/quizTriangulos.json",
-            "description": "Descubra que tipo de triângulo mais se parece com você!"
-        },
-        {
-            "name": "Qual elemento da tabela periódica você seria?",
-            "file": "quizzes/quizElementosTabelaPeriodica.json",
-            "description": "Descubra qual elemento da tabela periódica mais se parece com você!"
-        },
-        {
-            "name": "Qual sabor exótico de pizza você seria?",
-            "file": "quizzes/quizSaborPizzaExotico.json",
-            "description": "Descubra qual sabor exótico de pizza mais se parece com você!"
-        },
-        {
-            "name": "Qual Sotaque Brasileiro é o Mais Legal?",
-            "file": "quizzes/quizSotaquesBrasil.json",
-            "description": "Descubra qual sotaque brasileiro é o mais legal!"
-        },
-        {
-            "name": "Qual personagem de Mario Kart 8 Deluxe representa sua personalidade?",
-            "file": "quizzes/quizMarioKart8.json",
-            "description": "Descubra qual personagem de Mario Kart 8 Deluxe mais se parece com você! Responda às perguntas e veja se você é um protagonista corajoso, um vilão implacável, ou talvez um bebê competitivo!"
-        },
-        {
-            "name": "Qual Artigo da Constituição de 1988 é você?",
-            "file": "quizzes/quizArtigosConstituicao.json",
-            "description": "Descubra qual artigo da Constituição de 1988 mais se parece com você!"
-        },
-        {
-            "name": "Qual personagem clássico da novela 'Malhação' você seria?",
-            "file": "quizzes/quizPersonagensMalhacao.json",
-            "description": "Descubra qual personagem clássico da novela 'Malhação' mais se parece com você!"
-        },
-        {
-            "name": "Qual hino emo você seria?",
-            "file": "quizzes/quizHinosEmo.json",
-            "description": "Descubra qual hino emo mais se parece com você e reviva os momentos mais nostálgicos da sua adolescência!"
-        },
-        {
-            "name": "Qual mascote brasileiro você é?",
-            "file": "quizzes/quizMascotes.json",
-            "description": "Descubra qual mascote brasileiro se parece com você! Será que você é o carismático Dollynho ou o influente Baianinho? Faça o quiz e descubra!"
-        },
-        {
-            "name": "Qual dessas músicas Summer Eletrohits mais combina com a sua personalidade?",
-            "file": "quizzes/quizSummerEletrohits.json",
-            "description": "Descubra qual música do Summer Eletrohits mais se parece com você!"
-        },
-        {
-            "name": "Qual das três espiãs demais você é?",
-            "file": "quizzes/quizTresEspiasDemais.json",
-            "description": "Descubra qual das três espiãs demais mais se parece com você!"
-        },
-        {
-            "name": "Qual Gossip Girl Você Seria?",
-            "file": "quizzes/quizGossipGirl.json",
-            "description": "Descubra qual personagem feminina de Gossip Girl mais se parece com você!"
-        },
-        {
-            "name": "Qual Papa Controverso da Igreja Católica Você Seria?",
-            "file": "quizzes/quizPapaControverso.json",
-            "description": "Descubra qual papa controverso da Igreja Católica mais se parece com você! Desde os escândalos de Rodrigo Borgia até as manobras políticas de Júlio II, veja qual figura histórica da Igreja reflete sua personalidade."
-        },
-        {
-            "name": "Com qual cantora pop você mais se identifica?",
-            "file": "quizzes/quizCantorasPop.json",
-            "description": "Descubra com qual cantora pop você mais se identifica!"
-        },
-        {
-            "name": "Qual Paçoca Você é?",
-            "file": "quizzes/quizPacocas.json",
-            "description": "Descubra qual tipo de paçoca representa a sua alma! Será que você é a compacta paçoca rolha ou a descontraída paçoca esfarelada?"
-        },
-        {
-            "name": "Que personagem de The Office te representa?",
-            "file": "quizzes/quizTheOffice.json",
-            "description": "Descubra qual personagem de 'The Office' mais combina com sua personalidade. Prepare-se para muito drama, ironia e humor ácido!"
-        },
-        {
-            "name": "Qual Linguagem de Programação Você Seria?",
-            "file": "quizzes/quizLinguagensProgramacao.json",
-            "description": "Descubra qual linguagem de programação mais se parece com você, com dilemas existenciais e metáforas tecnológicas!"
-        },
-        {
-            "name": "Que musical você seria?",
-            "file": "quizzes/quizMusicais.json",
-            "description": "Descubra qual musical mais se parece com você!"
-        },
-        {
-            "name": "Qual sabor de detergente você seria?",
-            "file": "quizzes/quizDetergente.json",
-            "description": "Descubra qual sabor de detergente reflete melhor a sua personalidade!"
-        },
-        {
-            "name": "Qual Tipo de Gato Você É?",
-            "file": "quizzes/quizGatos.json",
-            "description": "Descubra qual tipo de gato mais se parece com você!"
-        },
-        {
-            "name": "Qual drink eu deveria tomar hoje?",
-            "file": "quizzes/quizDrinks.json",
-            "description": "Descubra qual drink combina com o seu humor e preferências!"
-        },
-        {
-            "name": "Qual formato de nugget você seria?",
-            "file": "quizzes/quizNugget.json",
-            "description": "Descubra qual formato de nugget mais se parece com você! Será que você é o clássico, o dinossauro, ou talvez o misterioso Among Us? Faça o quiz e descubra!"
-        },
-        {
-            "name": "Qual é o Brasão do Digimon que Você Carrega?",
-            "file": "quizzes/quizDigimon.json",
-            "description": "Descubra qual brasão do Digimon mais se alinha com sua personalidade e valores!"
-        },
-        {
-            "name": "Que personagem de Dragon Ball Z você seria?",
-            "file": "quizzes/quizDragonBallZ.json",
-            "description": "Descubra qual personagem de Dragon Ball Z mais se parece com você!"
-        },
-        {
-            "name": "Qual cidade do Brasil combina com você?",
-            "file": "quizzes/quizCidades.json",
-            "description": "Descubra qual cidade do Brasil mais se parece com você!"
-        },
-        {
-            "name": "Planeje uma refeição e te diremos qual inovação gastronômica brasileira você é",
-            "file": "quizzes/quizCulinariaBrasileira.json",
-            "description": "Descubra qual inovação gastronômica brasileira mais se parece com você ao planejar uma refeição completa!"
-        },
-        {
-            "name": "Qual praga do Egito você seria?",
-            "file": "quizzes/quizPragasDoEgito.json",
-            "description": "Descubra qual das dez pragas do Egito você seria! Será que você é a escuridão que cobre tudo ou a invasão de rãs? Faça o quiz e descubra!"
-        },
-        {
-            "name": "Qual produto do mineiro do queijo você deve comprar hoje?",
-            "file": "quizzes/quizMineiroDoQueijo.json",
-            "description": "Descubra qual produto do Mineiro do Queijo mais se parece com você!"
-        },
-        {
-            "name": "Qual líder de Sid Meier's Civilization VI devo escolher?",
-            "file": "quizzes/quizLideresCiv6.json",
-            "description": "Descubra qual líder histórico do Civilization VI reflete seu estilo de jogo e conquiste o mundo!"
-        },
-        {
-            "name": "Por que você perderia sua CNH?",
-            "file": "quizzes/quizInfracoesTransito.json",
-            "description": "Descubra qual infração de trânsito mais se parece com você e por que você perderia sua CNH!"
-        },
-        {
-            "name": "Qual linha de metrô você é?",
-            "file": "quizzes/quizMetro.json",
-            "description": "Entre o transporte e o caos, qual linha representa sua personalidade?"
-        },
-        {
-            "name": "Que tipo de inseto você seria?",
-            "file": "quizzes/quizInsetos.json",
-            "description": "Descubra que tipo de inseto mais se parece com você! Será que você é uma borboleta graciosa, uma formiga trabalhadora, ou talvez uma barata resiliente? Faça o quiz e descubra!"
-        },
-        {
-            "name": "Qual é o seu perfume?",
-            "file": "quizzes/quizPerfumes.json",
-            "description": "Descubra a fragrância que mais combina com a sua personalidade e estilo de vida!"
-        },
-        {
-            "name": "Qual flor do dia você é?",
-            "file": "quizzes/quizFlorDoDia.json",
-            "description": "Descubra qual flor você representa hoje!"
-        },
-        {
-            "name": "Quem é você na vila do Chaves?",
-            "file": "quizzes/quizChaves.json",
-            "description": "Descubra qual personagem da vila do Chaves mais se parece com você! (baseado no Quizur https://pt.quizur.com/quiz/quem-voce-e-na-vila-do-chaves-yKTY)"
-        },
-        {
-            "name": "Qual função sintática você é?",
-            "file": "quizzes/quizFuncaoSintatica.json",
-            "description": "Descubra qual função sintática mais combina com a sua personalidade!"
-        },
-        {
-            "name": "Qual eletrodoméstico você seria?",
-            "file": "quizzes/quizEletrodomestico.json",
-            "description": "Veja qual eletrodoméstico mais se parece com você!"
-        },
-        {
-            "name": "Qual código de erro você é?",
-            "file": "quizzes/quizCodigoErro.json",
-            "description": "Descubra qual código de erro mais representa você!"
-        },
-        {
-            "name": "Qual figura de linguagem você é?",
-            "file": "quizzes/quizFiguraLinguagem.json",
-            "description": "Veja qual figura de linguagem mais combina com a sua personalidade!"
-        },
-        {
-            "name": "Qual Ministro do STF Você Seria?",
-            "file": "quizzes/quizSTF.json",
-            "description": "Descubra qual ministro do Supremo Tribunal Federal mais combina com sua personalidade e estilo de decisão!"
-        },
-        {
-            "name": "Qual tipo de deck você deve escolher no Magic: The Gathering?",
-            "file": "quizzes/quizDeckMTG.json",
-            "description": "Descubra seu estilo de jogo no Magic: The Gathering e veja qual tipo de deck mais combina com você!"
-        },
-        {
-            "name": "Qual salgadinho da Elma Chips você seria?",
-            "file": "quizzes/quizElmaChips.json",
-            "description": "Descubra qual salgadinho combina com sua personalidade!"
-        },
-        {
-            "name": "Qual Carro da Corrida Maluca Você Seria?",
-            "file": "quizzes/quizCorridaMaluca.json",
-            "description": "Descubra qual carro mais combina com sua personalidade (ou falta dela)! Prepare-se para piadas, trapaças e muita confusão no estilo Corrida Maluca!"
-        },
-        {
-            "name": "Em qual região de Pokemon você deveria viver?",
-            "file": "quizzes/quizRegiaoPokemon.json",
-            "description": "Descubra qual região do mundo Pokemon é a sua cara!"
-        },
-        {
-            "name": "Qual seria a causa da sua morte na Idade Média?",
-            "file": "quizzes/quizIdadeMedia.json",
-            "description": "Descubra qual seria a causa da sua morte na Idade Média! Será que você morreria de peste negra, fome ou guerra? Faça o quiz e descubra!"
-        },
-        {
-            "name": "Qual JOIN SQL Você É?",
-            "file": "quizzes/quizJoinsSQL.json",
-            "description": "Descubra qual operação de JOIN do SQL combina com sua personalidade, de forma divertida e metafórica!"
-        },
-        {
-            "name": "Qual Produto derivado do Milho Você Seria?",
-            "file": "quizzes/quizMilho.json",
-            "description": "Descubra qual produto derivado do milho mais combina com a sua personalidade!"
-        },
-        {
-            "name": "Qual Tipo de Metal Você Seria?",
-            "file": "quizzes/quizMetais.json",
-            "description": "Descubra com qual tipo de metal você mais se identifica!"
-        },
-        {
-            "name": "Se você ganhasse um bônus de dinheiro, o que deveria fazer?",
-            "file": "quizzes/quizBonus.json",
-            "description": "Descubra seu alter-ego financeiro (e se prepare para rir das consequências)!"
-        },
-        {
-            "name": "Qual dinossauro é você?",
-            "file": "quizzes/quizDino.json",
-            "description": "Descubra qual dinossauro combina mais com a sua personalidade!"
-        },
-        {
-            "name": "Qual pecado capital você cometeria no carnaval?",
-            "file": "quizzes/quizCarnaval.json",
-            "description": "Descubra qual pecado capital dominaria sua folia no carnaval! Será que você é o Rei da Soberba ou o Devorador da Gula? Faça o teste e descubra!"
-        },
-        {
-            "name": "Qual dragão famoso você seria?",
-            "file": "quizzes/quizDragoes.json",
-            "description": "Descubra qual dragão lendário combina com sua personalidade (e prepare suas asas para o resultado!)"
-        },
-        {
-            "name": "Qual Vencedor de Survivor Você Seria?",
-            "file": "quizzes/quizSurvivor.json",
-            "description": "Descubra qual lenda da estratégia, drama e traições combina com seu estilo!"
-        },
-        {
-            "name": "Você seria um personagem de qual novela das oito?",
-            "file": "quizzes/quizNovelas.json",
-            "description": "Descubra qual novela clássica da Globo combina com sua personalidade! ✨"
-        },
-        {
-            "name": "Qual Sabor de Sabonete Phebo Você Seria?",
-            "file": "quizzes/quizSabonetesPhebo.json",
-            "description": "Descubra qual sabor de sabonete Phebo mais se parece com você!"
-        },
-        {
-            "name": "Qual Animal da nota de Real você seria?",
-            "file": "quizzes/quizAnimalNota.json",
-            "description": "Descubra qual bicho das cédulas brasileiras combina com sua personalidade!"
-        },
-        {
-            "name": "Qual bairro de SP mais combina com sua personalidade?",
-            "file": "quizzes/quizBairrosSP.json",
-            "description": "Descubra qual bairro de SP combina mais com você!"
-        },
-        {
- 
-            "name": "Metaquiz: Qual Quiz de Sexta Você É? 🎉",
-            "file": "quizzes/metaQuiz.json",
-            "description": "Descubra qual quiz absurdo combina com sua vibe caótica e desespero de sexta-feira!"
-        },
-        {
-            "name": "Qual Sabor de Geleia Queensberry Você Seria?",
-            "file": "quizzes/quizGeleiasQueensberry.json",
-            "description": "Descubra qual geleia combina com sua personalidade (e prepare o pãozinho!)"
-        },
-        {
-            "name": "Quem é você na rosa dos ventos?",
-            "file": "quizzes/quizRosaDosVentos.json",
-            "description": "Descubra qual ponto cardinal combina com sua personalidade (e suas manias)!"
-        },
-        {
-            "name": "Qual Será Sua Causa de Morte num Mundo Pós-Apocalíptico?",
-            "file": "quizzes/quizCausaMortePosApocaliptico.json",
-            "description": "Descubra se você morreria abraçado por um mutante, viraria sopa enlatada ou seria traído por uma IA!"
-        },
-        {
-            "name": "A qual estilo literário você pertence?",
-            "file": "quizzes/quizEstiloLiterario.json",
-            "description": "Descubra seu lugar na história da literatura com uma pitada de ironia contemporânea!"
-        },
-        {
-            "name": "Qual Sam Você Seria?",
-            "file": "quizzes/quizSams.json",
-            "description": "Descubra qual versão de Sam combina com sua personalidade!"
-        },
-        {
-            "name": "Qual tipo de macarrão você seria?",
-            "file": "quizzes/quizMacarrao.json",
-            "description": "Descubra qual massa combina com o seu humor hoje através deste teste divertido!"
-        }
-    ]
+  "quizzes": [
+    {
+      "name": "Qual Pokémon Inicial Mais Combina com Você?",
+      "file": "quizzes/quizDataPkmn.json",
+      "description": "Descubra qual Pokémon inicial mais combina com a sua personalidade!"
+    },
+    {
+      "name"       : "Qual Power Ranger Melhor Te Representa?",
+      "file"       : "quizzes/quizDataPowerRanger.json",
+      "description": "Veja qual Power Ranger melhor representa você!"
+    },
+    {
+      "name": "Qual frase do Iberê você seria?",
+      "file": "quizzes/quizIbere.json",
+      "description": "Descubra qual frase icônica do Iberê combina com você! Um quiz cheio de inside jokes, hiperfocos e... mijos estratégicos!"
+    },
+    {
+      "name": "Qual Andar Você Seria?",
+      "file": "quizzes/quizAndar.json",
+      "description": "Descubra qual andar do prédio mais se parece com a sua personalidade!"
+    },
+    {
+      "name"       : "Qual Princesa Disney Te Representa?",
+      "file"       : "quizzes/quizPrincesa.json",
+      "description": "Descubra qual princesa Disney é a sua cara!"
+    },
+    {
+      "name": "Qual personagem de Naruto você seria?",
+      "file": "quizzes/quizNaruto.json",
+      "description": "Encontre o personagem de Naruto que mais se parece com você!"
+    },
+    {
+      "name": "Com qual ditado popular brasileiro você mais se identifica?",
+      "file": "quizzes/quizDitados.json",
+      "description": "Descubra qual ditado popular brasileiro mais combina com você!"
+    },
+    {
+      "name"       : "Qual estado brasileiro você seria?",
+      "file"       : "quizzes/quizEstados.json",
+      "description": "Veja qual estado brasileiro mais se parece com você!"
+    },
+    {
+      "name": "De acordo com as suas escolhas de filmes, vamos escolher qual escolha de moda combina contigo",
+      "file": "quizzes/quizRoupas.json",
+      "description": "Descubra qual estilo de moda combina com você baseado nas suas escolhas de filmes!"
+    },
+    {
+      "name": "Qual personagem da Turma da Mônica você é?",
+      "file": "quizzes/quizTurmaMonica.json",
+      "description": "Descubra qual personagem da Turma da Mônica mais se parece com você!"
+    },
+    {
+      "name": "Qual Algoritmo Clássico da Ciência da Computação Você é?",
+      "file": "quizzes/quizAlgoritmosClassicos.json",
+      "description": "Descubra qual algoritmo clássico da Ciência da Computação mais se parece com você!"
+    },
+    {
+      "name": "Quem é você na festa da firma?",
+      "file": "quizzes/quizFestaFirma.json",
+      "description": "Descubra qual arquétipo você representa na festa da firma!"
+    },
+    {
+      "name": "Qual linguagem de programação esotérica você seria?",
+      "file": "quizzes/quizLinguagensEsotericas.json",
+      "description": "Descubra qual linguagem de programação esotérica mais se parece com você!"
+    },
+    {
+      "name": "Qual Personagem de Filme de Terror Você é?",
+      "file": "quizzes/quizPersonagensDeTerror.json",
+      "description": "Descubra que personagem você seria em um filme de terror! Responda ao nosso quiz e desvende seu alter ego sombrio."
+    },
+    {
+      "name": "Qual verso da música 'Smash Mouth - All Star' você seria?",
+      "file": "quizzes/quizVersosAllStar.json",
+      "description": "Descubra qual verso da música 'Smash Mouth - All Star' mais se parece com você!"
+    },
+    {
+      "name": "Qual Diva Pop dos Anos 2000 Você é?",
+      "file": "quizzes/quizDivasPopAnos2000.json",
+      "description": "Descubra qual diva pop dos anos 2000 mais se parece com você!"
+    },
+    {
+      "name"       : "Que tipo de triângulo você seria?",
+      "file"       : "quizzes/quizTriangulos.json",
+      "description": "Descubra que tipo de triângulo mais se parece com você!"
+    },
+    {
+      "name": "Qual elemento da tabela periódica você seria?",
+      "file": "quizzes/quizElementosTabelaPeriodica.json",
+      "description": "Descubra qual elemento da tabela periódica mais se parece com você!"
+    },
+    {
+      "name": "Qual sabor exótico de pizza você seria?",
+      "file": "quizzes/quizSaborPizzaExotico.json",
+      "description": "Descubra qual sabor exótico de pizza mais se parece com você!"
+    },
+    {
+      "name"       : "Qual Sotaque Brasileiro é o Mais Legal?",
+      "file"       : "quizzes/quizSotaquesBrasil.json",
+      "description": "Descubra qual sotaque brasileiro é o mais legal!"
+    },
+    {
+      "name": "Qual personagem de Mario Kart 8 Deluxe representa sua personalidade?",
+      "file": "quizzes/quizMarioKart8.json",
+      "description": "Descubra qual personagem de Mario Kart 8 Deluxe mais se parece com você! Responda às perguntas e veja se você é um protagonista corajoso, um vilão implacável, ou talvez um bebê competitivo!"
+    },
+    {
+      "name": "Qual Artigo da Constituição de 1988 é você?",
+      "file": "quizzes/quizArtigosConstituicao.json",
+      "description": "Descubra qual artigo da Constituição de 1988 mais se parece com você!"
+    },
+    {
+      "name": "Qual personagem clássico da novela 'Malhação' você seria?",
+      "file": "quizzes/quizPersonagensMalhacao.json",
+      "description": "Descubra qual personagem clássico da novela 'Malhação' mais se parece com você!"
+    },
+    {
+      "name": "Qual hino emo você seria?",
+      "file": "quizzes/quizHinosEmo.json",
+      "description": "Descubra qual hino emo mais se parece com você e reviva os momentos mais nostálgicos da sua adolescência!"
+    },
+    {
+      "name": "Qual mascote brasileiro você é?",
+      "file": "quizzes/quizMascotes.json",
+      "description": "Descubra qual mascote brasileiro se parece com você! Será que você é o carismático Dollynho ou o influente Baianinho? Faça o quiz e descubra!"
+    },
+    {
+      "name": "Qual dessas músicas Summer Eletrohits mais combina com a sua personalidade?",
+      "file": "quizzes/quizSummerEletrohits.json",
+      "description": "Descubra qual música do Summer Eletrohits mais se parece com você!"
+    },
+    {
+      "name": "Qual das três espiãs demais você é?",
+      "file": "quizzes/quizTresEspiasDemais.json",
+      "description": "Descubra qual das três espiãs demais mais se parece com você!"
+    },
+    {
+      "name": "Qual Gossip Girl Você Seria?",
+      "file": "quizzes/quizGossipGirl.json",
+      "description": "Descubra qual personagem feminina de Gossip Girl mais se parece com você!"
+    },
+    {
+      "name": "Qual Papa Controverso da Igreja Católica Você Seria?",
+      "file": "quizzes/quizPapaControverso.json",
+      "description": "Descubra qual papa controverso da Igreja Católica mais se parece com você! Desde os escândalos de Rodrigo Borgia até as manobras políticas de Júlio II, veja qual figura histórica da Igreja reflete sua personalidade."
+    },
+    {
+      "name"       : "Com qual cantora pop você mais se identifica?",
+      "file"       : "quizzes/quizCantorasPop.json",
+      "description": "Descubra com qual cantora pop você mais se identifica!"
+    },
+    {
+      "name": "Qual Paçoca Você é?",
+      "file": "quizzes/quizPacocas.json",
+      "description": "Descubra qual tipo de paçoca representa a sua alma! Será que você é a compacta paçoca rolha ou a descontraída paçoca esfarelada?"
+    },
+    {
+      "name": "Que personagem de The Office te representa?",
+      "file": "quizzes/quizTheOffice.json",
+      "description": "Descubra qual personagem de 'The Office' mais combina com sua personalidade. Prepare-se para muito drama, ironia e humor ácido!"
+    },
+    {
+      "name": "Qual Linguagem de Programação Você Seria?",
+      "file": "quizzes/quizLinguagensProgramacao.json",
+      "description": "Descubra qual linguagem de programação mais se parece com você, com dilemas existenciais e metáforas tecnológicas!"
+    },
+    {
+      "name"       : "Que musical você seria?",
+      "file"       : "quizzes/quizMusicais.json",
+      "description": "Descubra qual musical mais se parece com você!"
+    },
+    {
+      "name": "Qual sabor de detergente você seria?",
+      "file": "quizzes/quizDetergente.json",
+      "description": "Descubra qual sabor de detergente reflete melhor a sua personalidade!"
+    },
+    {
+      "name"       : "Qual Tipo de Gato Você É?",
+      "file"       : "quizzes/quizGatos.json",
+      "description": "Descubra qual tipo de gato mais se parece com você!"
+    },
+    {
+      "name": "Qual drink eu deveria tomar hoje?",
+      "file": "quizzes/quizDrinks.json",
+      "description": "Descubra qual drink combina com o seu humor e preferências!"
+    },
+    {
+      "name": "Qual formato de nugget você seria?",
+      "file": "quizzes/quizNugget.json",
+      "description": "Descubra qual formato de nugget mais se parece com você! Será que você é o clássico, o dinossauro, ou talvez o misterioso Among Us? Faça o quiz e descubra!"
+    },
+    {
+      "name": "Qual é o Brasão do Digimon que Você Carrega?",
+      "file": "quizzes/quizDigimon.json",
+      "description": "Descubra qual brasão do Digimon mais se alinha com sua personalidade e valores!"
+    },
+    {
+      "name": "Que personagem de Dragon Ball Z você seria?",
+      "file": "quizzes/quizDragonBallZ.json",
+      "description": "Descubra qual personagem de Dragon Ball Z mais se parece com você!"
+    },
+    {
+      "name"       : "Qual cidade do Brasil combina com você?",
+      "file"       : "quizzes/quizCidades.json",
+      "description": "Descubra qual cidade do Brasil mais se parece com você!"
+    },
+    {
+      "name": "Planeje uma refeição e te diremos qual inovação gastronômica brasileira você é",
+      "file": "quizzes/quizCulinariaBrasileira.json",
+      "description": "Descubra qual inovação gastronômica brasileira mais se parece com você ao planejar uma refeição completa!"
+    },
+    {
+      "name": "Qual praga do Egito você seria?",
+      "file": "quizzes/quizPragasDoEgito.json",
+      "description": "Descubra qual das dez pragas do Egito você seria! Será que você é a escuridão que cobre tudo ou a invasão de rãs? Faça o quiz e descubra!"
+    },
+    {
+      "name": "Qual produto do mineiro do queijo você deve comprar hoje?",
+      "file": "quizzes/quizMineiroDoQueijo.json",
+      "description": "Descubra qual produto do Mineiro do Queijo mais se parece com você!"
+    },
+    {
+      "name": "Qual líder de Sid Meier's Civilization VI devo escolher?",
+      "file": "quizzes/quizLideresCiv6.json",
+      "description": "Descubra qual líder histórico do Civilization VI reflete seu estilo de jogo e conquiste o mundo!"
+    },
+    {
+      "name": "Por que você perderia sua CNH?",
+      "file": "quizzes/quizInfracoesTransito.json",
+      "description": "Descubra qual infração de trânsito mais se parece com você e por que você perderia sua CNH!"
+    },
+    {
+      "name": "Qual linha de metrô você é?",
+      "file": "quizzes/quizMetro.json",
+      "description": "Entre o transporte e o caos, qual linha representa sua personalidade?"
+    },
+    {
+      "name": "Que tipo de inseto você seria?",
+      "file": "quizzes/quizInsetos.json",
+      "description": "Descubra que tipo de inseto mais se parece com você! Será que você é uma borboleta graciosa, uma formiga trabalhadora, ou talvez uma barata resiliente? Faça o quiz e descubra!"
+    },
+    {
+      "name": "Qual é o seu perfume?",
+      "file": "quizzes/quizPerfumes.json",
+      "description": "Descubra a fragrância que mais combina com a sua personalidade e estilo de vida!"
+    },
+    {
+      "name"       : "Qual flor do dia você é?",
+      "file"       : "quizzes/quizFlorDoDia.json",
+      "description": "Descubra qual flor você representa hoje!"
+    },
+    {
+      "name": "Quem é você na vila do Chaves?",
+      "file": "quizzes/quizChaves.json",
+      "description": "Descubra qual personagem da vila do Chaves mais se parece com você! (baseado no Quizur https://pt.quizur.com/quiz/quem-voce-e-na-vila-do-chaves-yKTY)"
+    },
+    {
+      "name": "Qual função sintática você é?",
+      "file": "quizzes/quizFuncaoSintatica.json",
+      "description": "Descubra qual função sintática mais combina com a sua personalidade!"
+    },
+    {
+      "name"       : "Qual eletrodoméstico você seria?",
+      "file"       : "quizzes/quizEletrodomestico.json",
+      "description": "Veja qual eletrodoméstico mais se parece com você!"
+    },
+    {
+      "name"       : "Qual código de erro você é?",
+      "file"       : "quizzes/quizCodigoErro.json",
+      "description": "Descubra qual código de erro mais representa você!"
+    },
+    {
+      "name": "Qual figura de linguagem você é?",
+      "file": "quizzes/quizFiguraLinguagem.json",
+      "description": "Veja qual figura de linguagem mais combina com a sua personalidade!"
+    },
+    {
+      "name": "Qual Ministro do STF Você Seria?",
+      "file": "quizzes/quizSTF.json",
+      "description": "Descubra qual ministro do Supremo Tribunal Federal mais combina com sua personalidade e estilo de decisão!"
+    },
+    {
+      "name": "Qual tipo de deck você deve escolher no Magic: The Gathering?",
+      "file": "quizzes/quizDeckMTG.json",
+      "description": "Descubra seu estilo de jogo no Magic: The Gathering e veja qual tipo de deck mais combina com você!"
+    },
+    {
+      "name"       : "Qual salgadinho da Elma Chips você seria?",
+      "file"       : "quizzes/quizElmaChips.json",
+      "description": "Descubra qual salgadinho combina com sua personalidade!"
+    },
+    {
+      "name": "Qual Carro da Corrida Maluca Você Seria?",
+      "file": "quizzes/quizCorridaMaluca.json",
+      "description": "Descubra qual carro mais combina com sua personalidade (ou falta dela)! Prepare-se para piadas, trapaças e muita confusão no estilo Corrida Maluca!"
+    },
+    {
+      "name"       : "Em qual região de Pokemon você deveria viver?",
+      "file"       : "quizzes/quizRegiaoPokemon.json",
+      "description": "Descubra qual região do mundo Pokemon é a sua cara!"
+    },
+    {
+      "name": "Qual seria a causa da sua morte na Idade Média?",
+      "file": "quizzes/quizIdadeMedia.json",
+      "description": "Descubra qual seria a causa da sua morte na Idade Média! Será que você morreria de peste negra, fome ou guerra? Faça o quiz e descubra!"
+    },
+    {
+      "name": "Qual JOIN SQL Você É?",
+      "file": "quizzes/quizJoinsSQL.json",
+      "description": "Descubra qual operação de JOIN do SQL combina com sua personalidade, de forma divertida e metafórica!"
+    },
+    {
+      "name": "Qual Produto derivado do Milho Você Seria?",
+      "file": "quizzes/quizMilho.json",
+      "description": "Descubra qual produto derivado do milho mais combina com a sua personalidade!"
+    },
+    {
+      "name": "Qual Tipo de Metal Você Seria?",
+      "file": "quizzes/quizMetais.json",
+      "description": "Descubra com qual tipo de metal você mais se identifica!"
+    },
+    {
+      "name": "Se você ganhasse um bônus de dinheiro, o que deveria fazer?",
+      "file": "quizzes/quizBonus.json",
+      "description": "Descubra seu alter-ego financeiro (e se prepare para rir das consequências)!"
+    },
+    {
+      "name": "Qual dinossauro é você?",
+      "file": "quizzes/quizDino.json",
+      "description": "Descubra qual dinossauro combina mais com a sua personalidade!"
+    },
+    {
+      "name": "Qual pecado capital você cometeria no carnaval?",
+      "file": "quizzes/quizCarnaval.json",
+      "description": "Descubra qual pecado capital dominaria sua folia no carnaval! Será que você é o Rei da Soberba ou o Devorador da Gula? Faça o teste e descubra!"
+    },
+    {
+      "name": "Qual dragão famoso você seria?",
+      "file": "quizzes/quizDragoes.json",
+      "description": "Descubra qual dragão lendário combina com sua personalidade (e prepare suas asas para o resultado!)"
+    },
+    {
+      "name": "Qual Vencedor de Survivor Você Seria?",
+      "file": "quizzes/quizSurvivor.json",
+      "description": "Descubra qual lenda da estratégia, drama e traições combina com seu estilo!"
+    },
+    {
+      "name": "Você seria um personagem de qual novela das oito?",
+      "file": "quizzes/quizNovelas.json",
+      "description": "Descubra qual novela clássica da Globo combina com sua personalidade! ✨"
+    },
+    {
+      "name": "Qual Sabor de Sabonete Phebo Você Seria?",
+      "file": "quizzes/quizSabonetesPhebo.json",
+      "description": "Descubra qual sabor de sabonete Phebo mais se parece com você!"
+    },
+    {
+      "name": "Qual Animal da nota de Real você seria?",
+      "file": "quizzes/quizAnimalNota.json",
+      "description": "Descubra qual bicho das cédulas brasileiras combina com sua personalidade!"
+    },
+    {
+      "name"       : "Qual bairro de SP mais combina com sua personalidade?",
+      "file"       : "quizzes/quizBairrosSP.json",
+      "description": "Descubra qual bairro de SP combina mais com você!"
+    },
+    {
+      "name": "Metaquiz: Qual Quiz de Sexta Você É? 🎉",
+      "file": "quizzes/metaQuiz.json",
+      "description": "Descubra qual quiz absurdo combina com sua vibe caótica e desespero de sexta-feira!"
+    },
+    {
+      "name": "Qual Sabor de Geleia Queensberry Você Seria?",
+      "file": "quizzes/quizGeleiasQueensberry.json",
+      "description": "Descubra qual geleia combina com sua personalidade (e prepare o pãozinho!)"
+    },
+    {
+      "name": "Quem é você na rosa dos ventos?",
+      "file": "quizzes/quizRosaDosVentos.json",
+      "description": "Descubra qual ponto cardinal combina com sua personalidade (e suas manias)!"
+    },
+    {
+      "name": "Qual Será Sua Causa de Morte num Mundo Pós-Apocalíptico?",
+      "file": "quizzes/quizCausaMortePosApocaliptico.json",
+      "description": "Descubra se você morreria abraçado por um mutante, viraria sopa enlatada ou seria traído por uma IA!"
+    },
+    {
+      "name": "A qual estilo literário você pertence?",
+      "file": "quizzes/quizEstiloLiterario.json",
+      "description": "Descubra seu lugar na história da literatura com uma pitada de ironia contemporânea!"
+    },
+    {
+      "name": "Qual Sam Você Seria?",
+      "file": "quizzes/quizSams.json",
+      "description": "Descubra qual versão de Sam combina com sua personalidade!"
+    },
+    {
+      "name": "Qual tipo de macarrão você seria?",
+      "file": "quizzes/quizMacarrao.json",
+      "description": "Descubra qual massa combina com o seu humor hoje através deste teste divertido!"
+    },
+    {
+      "name": "Qual Elemento Químico Você Seria?",
+      "file": "quizzes/quizElementoQuimico.json",
+      "description": "Descubra qual dos 7 primeiros elementos da tabela periódica combina com sua personalidade!"
+    }
+  ]
 }
