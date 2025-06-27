@@ -404,6 +404,11 @@
       "name": "Qual Elemento Químico Você Seria?",
       "file": "quizzes/quizElementoQuimico.json",
       "description": "Descubra qual dos 7 primeiros elementos da tabela periódica combina com sua personalidade!"
+    },
+    {
+      "name": "Qual Disco Inusitado de Apresentador da TV Brasileira Você Seria?",
+      "file": "quizzes/quizDiscosApresentadores.json",
+      "description": "Descubra qual álbum musical surpreendente de apresentador da TV combina com sua personalidade!"
     }
   ]
 }
