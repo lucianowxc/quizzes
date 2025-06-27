@@ -8,34 +8,61 @@
         {
           "text": "Fico com o controle do som e escolho as melhores playlists",
           "points": {
-            "silvio_santos": 0.2,
-            "faustao": 1,
-            "gilberto_barros": 0.5,
-            "marilia_gabriela": 0.7
+            "silvio_santos": 0.0171,
+            "faustao": 0.0753,
+            "gilberto_barros": 0.0608,
+            "marilia_gabriela": 0.1468,
+            "ana_maria_braga": 0.0066,
+            "celso_portiolli": 0.0054,
+            "xuxa": 0.0047,
+            "gugu_liberato": 0.0052,
+            "roberto_justus": 0.0055,
+            "susana_vieira": 0.0055
           }
         },
         {
           "text": "Cuido da churrasqueira com técnicas milimétricas",
           "points": {
-            "ana_maria_braga": 1,
-            "roberto_justus": 0.8,
-            "susana_vieira": 0.3
+            "ana_maria_braga": 0.0941,
+            "roberto_justus": 0.1068,
+            "susana_vieira": 0.0926,
+            "silvio_santos": 0.0051,
+            "celso_portiolli": 0.0048,
+            "faustao": 0.0044,
+            "xuxa": 0.0042,
+            "gugu_liberato": 0.0047,
+            "gilberto_barros": 0.004,
+            "marilia_gabriela": 0.0044
           }
         },
         {
           "text": "Organizo brincadeiras e desafios pra turma toda",
           "points": {
-            "celso_portiolli": 1,
-            "xuxa": 0.9,
-            "gugu_liberato": 0.6
+            "celso_portiolli": 0.0771,
+            "xuxa": 0.0997,
+            "gugu_liberato": 0.1434,
+            "silvio_santos": 0.0056,
+            "ana_maria_braga": 0.0065,
+            "faustao": 0.0047,
+            "roberto_justus": 0.0053,
+            "gilberto_barros": 0.0042,
+            "susana_vieira": 0.0053,
+            "marilia_gabriela": 0.0048
           }
         },
         {
           "text": "Chego quando tudo estiver pronto e conto histórias incríveis",
           "points": {
-            "gilberto_barros": 0.8,
-            "marilia_gabriela": 1,
-            "silvio_santos": 0.4
+            "gilberto_barros": 0.049,
+            "marilia_gabriela": 0.1105,
+            "silvio_santos": 0.1361,
+            "ana_maria_braga": 0.006,
+            "celso_portiolli": 0.0049,
+            "faustao": 0.0044,
+            "xuxa": 0.0043,
+            "gugu_liberato": 0.0048,
+            "roberto_justus": 0.0051,
+            "susana_vieira": 0.0051
           }
         }
       ]
@@ -46,31 +73,61 @@
         {
           "text": "Convencer qualquer pessoa em 30 segundos",
           "points": {
-            "silvio_santos": 1,
-            "roberto_justus": 0.8,
-            "celso_portiolli": 0.5
+            "silvio_santos": 0.0823,
+            "roberto_justus": 0.1043,
+            "celso_portiolli": 0.1367,
+            "ana_maria_braga": 0.0058,
+            "faustao": 0.0043,
+            "xuxa": 0.0042,
+            "gugu_liberato": 0.0046,
+            "gilberto_barros": 0.0039,
+            "susana_vieira": 0.0049,
+            "marilia_gabriela": 0.0045
           }
         },
         {
           "text": "Ter energia infinita pra dançar 10h seguidas",
           "points": {
-            "faustao": 1,
-            "xuxa": 0.9,
-            "gugu_liberato": 0.7
+            "faustao": 0.0685,
+            "xuxa": 0.0969,
+            "gugu_liberato": 0.1565,
+            "silvio_santos": 0.0058,
+            "ana_maria_braga": 0.0067,
+            "celso_portiolli": 0.0054,
+            "roberto_justus": 0.0054,
+            "gilberto_barros": 0.0044,
+            "susana_vieira": 0.0054,
+            "marilia_gabriela": 0.005
           }
         },
         {
           "text": "Curar ressaca emocional com conselhos certeiros",
           "points": {
-            "ana_maria_braga": 1,
-            "susana_vieira": 0.8
+            "ana_maria_braga": 0.0941,
+            "susana_vieira": 0.1202,
+            "silvio_santos": 0.0056,
+            "celso_portiolli": 0.0053,
+            "faustao": 0.0048,
+            "xuxa": 0.0046,
+            "gugu_liberato": 0.0051,
+            "roberto_justus": 0.0053,
+            "gilberto_barros": 0.0044,
+            "marilia_gabriela": 0.0049
           }
         },
         {
           "text": "Ler 100 livros numa sentada e discutir cada um",
           "points": {
-            "marilia_gabriela": 1,
-            "gilberto_barros": 0.3
+            "marilia_gabriela": 0.0672,
+            "gilberto_barros": 0.0642,
+            "silvio_santos": 0.0057,
+            "ana_maria_braga": 0.0066,
+            "celso_portiolli": 0.0055,
+            "faustao": 0.0048,
+            "xuxa": 0.0049,
+            "gugu_liberato": 0.0054,
+            "roberto_justus": 0.0057,
+            "susana_vieira": 0.0057
           }
         }
       ]
@@ -81,31 +138,61 @@
         {
           "text": "Um carnaval privativo com direito a trio elétrico",
           "points": {
-            "silvio_santos": 1,
-            "faustao": 0.9,
-            "gilberto_barros": 0.6
+            "silvio_santos": 0.0823,
+            "faustao": 0.1021,
+            "gilberto_barros": 0.122,
+            "ana_maria_braga": 0.0066,
+            "celso_portiolli": 0.0054,
+            "xuxa": 0.0046,
+            "gugu_liberato": 0.0051,
+            "roberto_justus": 0.0055,
+            "susana_vieira": 0.0055,
+            "marilia_gabriela": 0.0051
           }
         },
         {
           "text": "Coquetel sofisticado com jazz ao vivo",
           "points": {
-            "roberto_justus": 1,
-            "marilia_gabriela": 0.8
+            "roberto_justus": 0.0751,
+            "marilia_gabriela": 0.1212,
+            "silvio_santos": 0.0059,
+            "ana_maria_braga": 0.0067,
+            "celso_portiolli": 0.0055,
+            "faustao": 0.005,
+            "xuxa": 0.0049,
+            "gugu_liberato": 0.0054,
+            "gilberto_barros": 0.0047,
+            "susana_vieira": 0.0058
           }
         },
         {
           "text": "Festa temática com direito a concurso de fantasias",
           "points": {
-            "xuxa": 1,
-            "celso_portiolli": 0.7
+            "xuxa": 0.066,
+            "celso_portiolli": 0.1228,
+            "silvio_santos": 0.0056,
+            "ana_maria_braga": 0.0064,
+            "faustao": 0.0049,
+            "gugu_liberato": 0.0051,
+            "roberto_justus": 0.0054,
+            "gilberto_barros": 0.0045,
+            "susana_vieira": 0.0056,
+            "marilia_gabriela": 0.0051
           }
         },
         {
           "text": "Reunião em casa com karaokê emocionante",
           "points": {
-            "gugu_liberato": 1,
-            "ana_maria_braga": 0.5,
-            "susana_vieira": 0.8
+            "gugu_liberato": 0.072,
+            "ana_maria_braga": 0.0861,
+            "susana_vieira": 0.151,
+            "silvio_santos": 0.0055,
+            "celso_portiolli": 0.005,
+            "faustao": 0.0046,
+            "xuxa": 0.0044,
+            "roberto_justus": 0.005,
+            "gilberto_barros": 0.0042,
+            "marilia_gabriela": 0.0046
           }
         }
       ]
@@ -116,29 +203,61 @@
         {
           "text": "“Isso vai virar um meme!”",
           "points": {
-            "celso_portiolli": 1,
-            "faustao": 0.7
+            "celso_portiolli": 0.0771,
+            "faustao": 0.1122,
+            "silvio_santos": 0.0056,
+            "ana_maria_braga": 0.0065,
+            "xuxa": 0.0046,
+            "gugu_liberato": 0.0052,
+            "roberto_justus": 0.0054,
+            "gilberto_barros": 0.0045,
+            "susana_vieira": 0.0055,
+            "marilia_gabriela": 0.005
           }
         },
         {
           "text": "“Vou fazer uma versão brega dessa música!”",
           "points": {
-            "gilberto_barros": 1,
-            "gugu_liberato": 0.8
+            "gilberto_barros": 0.0611,
+            "gugu_liberato": 0.1314,
+            "silvio_santos": 0.0059,
+            "ana_maria_braga": 0.007,
+            "celso_portiolli": 0.0057,
+            "faustao": 0.0051,
+            "xuxa": 0.005,
+            "roberto_justus": 0.0057,
+            "susana_vieira": 0.0057,
+            "marilia_gabriela": 0.0052
           }
         },
         {
           "text": "“Isso merece uma trilha sonora épica”",
           "points": {
-            "xuxa": 1,
-            "silvio_santos": 0.6
+            "xuxa": 0.066,
+            "silvio_santos": 0.1207,
+            "ana_maria_braga": 0.0061,
+            "celso_portiolli": 0.0051,
+            "faustao": 0.0045,
+            "gugu_liberato": 0.0049,
+            "roberto_justus": 0.0051,
+            "gilberto_barros": 0.0043,
+            "susana_vieira": 0.0053,
+            "marilia_gabriela": 0.0049
           }
         },
         {
           "text": "“Minha vida daria um álbum conceitual”",
           "points": {
-            "marilia_gabriela": 1,
-            "roberto_justus": 0.5
+            "marilia_gabriela": 0.0672,
+            "roberto_justus": 0.1032,
+            "silvio_santos": 0.0055,
+            "ana_maria_braga": 0.0063,
+            "celso_portiolli": 0.0052,
+            "faustao": 0.0047,
+            "xuxa": 0.0046,
+            "gugu_liberato": 0.0051,
+            "gilberto_barros": 0.0044,
+            "susana_vieira": 0.0055
           }
         }
       ]
@@ -149,29 +268,61 @@
         {
           "text": "Jogo um jingle animado pra quebrar o clima",
           "points": {
-            "silvio_santos": 1,
-            "celso_portiolli": 0.7
+            "silvio_santos": 0.0823,
+            "celso_portiolli": 0.1215,
+            "ana_maria_braga": 0.0061,
+            "faustao": 0.0045,
+            "xuxa": 0.0044,
+            "gugu_liberato": 0.0049,
+            "roberto_justus": 0.0051,
+            "gilberto_barros": 0.0043,
+            "susana_vieira": 0.0053,
+            "marilia_gabriela": 0.0048
           }
         },
         {
           "text": "Transformo tudo em dança terapêutica",
           "points": {
-            "faustao": 1,
-            "xuxa": 0.9
+            "faustao": 0.0685,
+            "xuxa": 0.1242,
+            "silvio_santos": 0.0061,
+            "ana_maria_braga": 0.0071,
+            "celso_portiolli": 0.0058,
+            "gugu_liberato": 0.0055,
+            "roberto_justus": 0.0059,
+            "gilberto_barros": 0.0048,
+            "susana_vieira": 0.006,
+            "marilia_gabriela": 0.0055
           }
         },
         {
           "text": "Recito mensagens positivas como mantra",
           "points": {
-            "ana_maria_braga": 1,
-            "susana_vieira": 0.8
+            "ana_maria_braga": 0.0941,
+            "susana_vieira": 0.1202,
+            "silvio_santos": 0.0056,
+            "celso_portiolli": 0.0053,
+            "faustao": 0.0048,
+            "xuxa": 0.0046,
+            "gugu_liberato": 0.0051,
+            "roberto_justus": 0.0053,
+            "gilberto_barros": 0.0044,
+            "marilia_gabriela": 0.0049
           }
         },
         {
           "text": "Faço uma playlist temática pra resolver",
           "points": {
-            "gugu_liberato": 1,
-            "gilberto_barros": 0.6
+            "gugu_liberato": 0.072,
+            "gilberto_barros": 0.0969,
+            "silvio_santos": 0.0058,
+            "ana_maria_braga": 0.0069,
+            "celso_portiolli": 0.0056,
+            "faustao": 0.005,
+            "xuxa": 0.0049,
+            "roberto_justus": 0.0057,
+            "susana_vieira": 0.0057,
+            "marilia_gabriela": 0.0052
           }
         }
       ]
@@ -182,29 +333,61 @@
         {
           "text": "Roupas coloridas que brilham no escuro",
           "points": {
-            "xuxa": 1,
-            "faustao": 0.7
+            "xuxa": 0.066,
+            "faustao": 0.1101,
+            "silvio_santos": 0.0059,
+            "ana_maria_braga": 0.0068,
+            "celso_portiolli": 0.0055,
+            "gugu_liberato": 0.0053,
+            "roberto_justus": 0.0057,
+            "gilberto_barros": 0.0047,
+            "susana_vieira": 0.0058,
+            "marilia_gabriela": 0.0053
           }
         },
         {
           "text": "Elegância clássica que nunca sai de moda",
           "points": {
-            "roberto_justus": 1,
-            "marilia_gabriela": 0.8
+            "roberto_justus": 0.0751,
+            "marilia_gabriela": 0.1212,
+            "silvio_santos": 0.0059,
+            "ana_maria_braga": 0.0067,
+            "celso_portiolli": 0.0055,
+            "faustao": 0.005,
+            "xuxa": 0.0049,
+            "gugu_liberato": 0.0054,
+            "gilberto_barros": 0.0047,
+            "susana_vieira": 0.0058
           }
         },
         {
           "text": "Conforto acima de tudo, mas com estilo",
           "points": {
-            "ana_maria_braga": 1,
-            "susana_vieira": 0.6
+            "ana_maria_braga": 0.0941,
+            "susana_vieira": 0.1017,
+            "silvio_santos": 0.0053,
+            "celso_portiolli": 0.005,
+            "faustao": 0.0046,
+            "xuxa": 0.0044,
+            "gugu_liberato": 0.0049,
+            "roberto_justus": 0.0051,
+            "gilberto_barros": 0.0043,
+            "marilia_gabriela": 0.0047
           }
         },
         {
           "text": "Algo que vire assunto no Twitter",
           "points": {
-            "celso_portiolli": 1,
-            "gilberto_barros": 0.5
+            "celso_portiolli": 0.0771,
+            "gilberto_barros": 0.0824,
+            "silvio_santos": 0.0057,
+            "ana_maria_braga": 0.0066,
+            "faustao": 0.0048,
+            "xuxa": 0.0048,
+            "gugu_liberato": 0.0052,
+            "roberto_justus": 0.0056,
+            "susana_vieira": 0.0056,
+            "marilia_gabriela": 0.0052
           }
         }
       ]
@@ -215,29 +398,61 @@
         {
           "text": "Anos 70 - Disco music e muita festa",
           "points": {
-            "silvio_santos": 1,
-            "gugu_liberato": 0.8
+            "silvio_santos": 0.0823,
+            "gugu_liberato": 0.1216,
+            "ana_maria_braga": 0.0065,
+            "celso_portiolli": 0.0055,
+            "faustao": 0.0048,
+            "xuxa": 0.0047,
+            "roberto_justus": 0.0055,
+            "gilberto_barros": 0.0044,
+            "susana_vieira": 0.0055,
+            "marilia_gabriela": 0.0051
           }
         },
         {
           "text": "Anos 80 - Pop eletrizante e cores neon",
           "points": {
-            "xuxa": 1,
-            "gilberto_barros": 0.7
+            "xuxa": 0.066,
+            "gilberto_barros": 0.0974,
+            "silvio_santos": 0.0063,
+            "ana_maria_braga": 0.0072,
+            "celso_portiolli": 0.006,
+            "faustao": 0.0053,
+            "gugu_liberato": 0.0058,
+            "roberto_justus": 0.0061,
+            "susana_vieira": 0.0061,
+            "marilia_gabriela": 0.0055
           }
         },
         {
           "text": "Anos 90 - Brega romântico pra chorar",
           "points": {
-            "celso_portiolli": 1,
-            "faustao": 0.6
+            "celso_portiolli": 0.0771,
+            "faustao": 0.103,
+            "silvio_santos": 0.0055,
+            "ana_maria_braga": 0.0064,
+            "xuxa": 0.0045,
+            "gugu_liberato": 0.005,
+            "roberto_justus": 0.0053,
+            "gilberto_barros": 0.0044,
+            "susana_vieira": 0.0054,
+            "marilia_gabriela": 0.005
           }
         },
         {
           "text": "Anos 2000 - Experimentalismo sem medo",
           "points": {
-            "ana_maria_braga": 1,
-            "roberto_justus": 0.5
+            "ana_maria_braga": 0.0941,
+            "roberto_justus": 0.0931,
+            "silvio_santos": 0.0051,
+            "celso_portiolli": 0.0048,
+            "faustao": 0.0043,
+            "xuxa": 0.0043,
+            "gugu_liberato": 0.0048,
+            "gilberto_barros": 0.0041,
+            "susana_vieira": 0.0051,
+            "marilia_gabriela": 0.0046
           }
         }
       ]
@@ -248,29 +463,61 @@
         {
           "text": "Criar um jingle que todo Brasil cante",
           "points": {
-            "silvio_santos": 1,
-            "gilberto_barros": 0.7
+            "silvio_santos": 0.0823,
+            "gilberto_barros": 0.0965,
+            "ana_maria_braga": 0.0067,
+            "celso_portiolli": 0.0055,
+            "faustao": 0.005,
+            "xuxa": 0.0049,
+            "gugu_liberato": 0.0054,
+            "roberto_justus": 0.0057,
+            "susana_vieira": 0.0058,
+            "marilia_gabriela": 0.0054
           }
         },
         {
           "text": "Fazer todos dançarem até esquecerem os problemas",
           "points": {
-            "faustao": 1,
-            "xuxa": 0.9
+            "faustao": 0.0685,
+            "xuxa": 0.1242,
+            "silvio_santos": 0.0061,
+            "ana_maria_braga": 0.0071,
+            "celso_portiolli": 0.0058,
+            "gugu_liberato": 0.0055,
+            "roberto_justus": 0.0059,
+            "gilberto_barros": 0.0048,
+            "susana_vieira": 0.006,
+            "marilia_gabriela": 0.0055
           }
         },
         {
           "text": "Lançar uma filosofia de vida em formato de álbum",
           "points": {
-            "ana_maria_braga": 1,
-            "susana_vieira": 0.6
+            "ana_maria_braga": 0.0941,
+            "susana_vieira": 0.1017,
+            "silvio_santos": 0.0053,
+            "celso_portiolli": 0.005,
+            "faustao": 0.0046,
+            "xuxa": 0.0044,
+            "gugu_liberato": 0.0049,
+            "roberto_justus": 0.0051,
+            "gilberto_barros": 0.0043,
+            "marilia_gabriela": 0.0047
           }
         },
         {
           "text": "Provar que apresentador também é artista",
           "points": {
-            "marilia_gabriela": 1,
-            "roberto_justus": 0.8
+            "marilia_gabriela": 0.0672,
+            "roberto_justus": 0.1332,
+            "silvio_santos": 0.0058,
+            "ana_maria_braga": 0.0066,
+            "celso_portiolli": 0.0054,
+            "faustao": 0.0049,
+            "xuxa": 0.0047,
+            "gugu_liberato": 0.0053,
+            "gilberto_barros": 0.0046,
+            "susana_vieira": 0.0057
           }
         }
       ]
