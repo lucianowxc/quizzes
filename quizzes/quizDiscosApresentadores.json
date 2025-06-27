@@ -1,0 +1,341 @@
+{
+  "title": "Qual Disco Inusitado de Apresentador da TV Brasileira Você Seria?",
+  "subtitle": "Descubra qual álbum musical surpreendente combina com seu estilo!",
+  "questions": [
+    {
+      "question": "Num churrasco, qual é o seu papel?",
+      "answers": [
+        {
+          "text": "Fico com o controle do som e escolho as melhores playlists",
+          "points": {
+            "silvio_santos": 0.2,
+            "faustao": 1,
+            "gilberto_barros": 0.5,
+            "marilia_gabriela": 0.7
+          }
+        },
+        {
+          "text": "Cuido da churrasqueira com técnicas milimétricas",
+          "points": {
+            "ana_maria_braga": 1,
+            "roberto_justus": 0.8,
+            "susana_vieira": 0.3
+          }
+        },
+        {
+          "text": "Organizo brincadeiras e desafios pra turma toda",
+          "points": {
+            "celso_portiolli": 1,
+            "xuxa": 0.9,
+            "gugu_liberato": 0.6
+          }
+        },
+        {
+          "text": "Chego quando tudo estiver pronto e conto histórias incríveis",
+          "points": {
+            "gilberto_barros": 0.8,
+            "marilia_gabriela": 1,
+            "silvio_santos": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual superpoder você gostaria de ter?",
+      "answers": [
+        {
+          "text": "Convencer qualquer pessoa em 30 segundos",
+          "points": {
+            "silvio_santos": 1,
+            "roberto_justus": 0.8,
+            "celso_portiolli": 0.5
+          }
+        },
+        {
+          "text": "Ter energia infinita pra dançar 10h seguidas",
+          "points": {
+            "faustao": 1,
+            "xuxa": 0.9,
+            "gugu_liberato": 0.7
+          }
+        },
+        {
+          "text": "Curar ressaca emocional com conselhos certeiros",
+          "points": {
+            "ana_maria_braga": 1,
+            "susana_vieira": 0.8
+          }
+        },
+        {
+          "text": "Ler 100 livros numa sentada e discutir cada um",
+          "points": {
+            "marilia_gabriela": 1,
+            "gilberto_barros": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu estilo de festa ideal é:",
+      "answers": [
+        {
+          "text": "Um carnaval privativo com direito a trio elétrico",
+          "points": {
+            "silvio_santos": 1,
+            "faustao": 0.9,
+            "gilberto_barros": 0.6
+          }
+        },
+        {
+          "text": "Coquetel sofisticado com jazz ao vivo",
+          "points": {
+            "roberto_justus": 1,
+            "marilia_gabriela": 0.8
+          }
+        },
+        {
+          "text": "Festa temática com direito a concurso de fantasias",
+          "points": {
+            "xuxa": 1,
+            "celso_portiolli": 0.7
+          }
+        },
+        {
+          "text": "Reunião em casa com karaokê emocionante",
+          "points": {
+            "gugu_liberato": 1,
+            "ana_maria_braga": 0.5,
+            "susana_vieira": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas frases você já soltou?",
+      "answers": [
+        {
+          "text": "“Isso vai virar um meme!”",
+          "points": {
+            "celso_portiolli": 1,
+            "faustao": 0.7
+          }
+        },
+        {
+          "text": "“Vou fazer uma versão brega dessa música!”",
+          "points": {
+            "gilberto_barros": 1,
+            "gugu_liberato": 0.8
+          }
+        },
+        {
+          "text": "“Isso merece uma trilha sonora épica”",
+          "points": {
+            "xuxa": 1,
+            "silvio_santos": 0.6
+          }
+        },
+        {
+          "text": "“Minha vida daria um álbum conceitual”",
+          "points": {
+            "marilia_gabriela": 1,
+            "roberto_justus": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que te define numa crise?",
+      "answers": [
+        {
+          "text": "Jogo um jingle animado pra quebrar o clima",
+          "points": {
+            "silvio_santos": 1,
+            "celso_portiolli": 0.7
+          }
+        },
+        {
+          "text": "Transformo tudo em dança terapêutica",
+          "points": {
+            "faustao": 1,
+            "xuxa": 0.9
+          }
+        },
+        {
+          "text": "Recito mensagens positivas como mantra",
+          "points": {
+            "ana_maria_braga": 1,
+            "susana_vieira": 0.8
+          }
+        },
+        {
+          "text": "Faço uma playlist temática pra resolver",
+          "points": {
+            "gugu_liberato": 1,
+            "gilberto_barros": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu visual característico é:",
+      "answers": [
+        {
+          "text": "Roupas coloridas que brilham no escuro",
+          "points": {
+            "xuxa": 1,
+            "faustao": 0.7
+          }
+        },
+        {
+          "text": "Elegância clássica que nunca sai de moda",
+          "points": {
+            "roberto_justus": 1,
+            "marilia_gabriela": 0.8
+          }
+        },
+        {
+          "text": "Conforto acima de tudo, mas com estilo",
+          "points": {
+            "ana_maria_braga": 1,
+            "susana_vieira": 0.6
+          }
+        },
+        {
+          "text": "Algo que vire assunto no Twitter",
+          "points": {
+            "celso_portiolli": 1,
+            "gilberto_barros": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual década musical combina com você?",
+      "answers": [
+        {
+          "text": "Anos 70 - Disco music e muita festa",
+          "points": {
+            "silvio_santos": 1,
+            "gugu_liberato": 0.8
+          }
+        },
+        {
+          "text": "Anos 80 - Pop eletrizante e cores neon",
+          "points": {
+            "xuxa": 1,
+            "gilberto_barros": 0.7
+          }
+        },
+        {
+          "text": "Anos 90 - Brega romântico pra chorar",
+          "points": {
+            "celso_portiolli": 1,
+            "faustao": 0.6
+          }
+        },
+        {
+          "text": "Anos 2000 - Experimentalismo sem medo",
+          "points": {
+            "ana_maria_braga": 1,
+            "roberto_justus": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua missão na vida é:",
+      "answers": [
+        {
+          "text": "Criar um jingle que todo Brasil cante",
+          "points": {
+            "silvio_santos": 1,
+            "gilberto_barros": 0.7
+          }
+        },
+        {
+          "text": "Fazer todos dançarem até esquecerem os problemas",
+          "points": {
+            "faustao": 1,
+            "xuxa": 0.9
+          }
+        },
+        {
+          "text": "Lançar uma filosofia de vida em formato de álbum",
+          "points": {
+            "ana_maria_braga": 1,
+            "susana_vieira": 0.6
+          }
+        },
+        {
+          "text": "Provar que apresentador também é artista",
+          "points": {
+            "marilia_gabriela": 1,
+            "roberto_justus": 0.8
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "silvio_santos": {
+      "title": "Silvio Santos",
+      "emoji": "🎤",
+      "subtitle": "O Rei dos Jingles",
+      "text": "Você é o mestre da persuasão! Seu disco 'Silvio Santos e Suas Colegas de Trabalho' (1974) é pura alegria com jingles contagiantes. Como Silvio, você transforma até lista de compras em hit musical."
+    },
+    "ana_maria_braga": {
+      "title": "Ana Maria Braga",
+      "emoji": "🌞",
+      "subtitle": "Rainha das Manhãs Musicais",
+      "text": "Seu álbum 'Ana Maria Braga Sou Eu' (2003) mistura mensagens inspiradoras e canções que são um abraço musical. Você sabe transformar café da manhã em show particular!"
+    },
+    "celso_portiolli": {
+      "title": "Celso Portiolli",
+      "emoji": "💿",
+      "subtitle": "O Visionário das Pistas",
+      "text": "Com 'É Tempo de Alegria' (1998), você anteviu o futuro das amizades virtuais. Seu estilo é misturar nostalgia com inovação - e sempre com um sorriso no rosto!"
+    },
+    "faustao": {
+      "title": "Faustão",
+      "emoji": "🧹",
+      "subtitle": "Rei do Axé Improvável",
+      "text": "Seu hit 'Dança da Vassoura' no álbum 'Faustão É o Tchan' (1999) define seu espírito: você não tem medo de fazer bonito (ou brega) quando o assunto é diversão!"
+    },
+    "xuxa": {
+      "title": "Xuxa",
+      "emoji": "✨",
+      "subtitle": "Rainha do Pop Adulto",
+      "text": "Seu álbum adulto (2002) prova que você sabe brilhar em qualquer fase. Das crianças aos adultos, seu talento é atemporal - e sempre com muita batida!"
+    },
+    "gugu_liberato": {
+      "title": "Gugu Liberato",
+      "emoji": "🎩",
+      "subtitle": "O Crooner do Auditório",
+      "text": "Com versões de clássicos como 'Copacabana' no álbum 'Gugu' (1998), você mostra que um bom show não precisa de firulas - só de coração e microfone!"
+    },
+    "roberto_justus": {
+      "title": "Roberto Justus",
+      "emoji": "🎻",
+      "subtitle": "O Sofisticado",
+      "text": "Seu disco 'Só Entre Nós' (2008) em inglês mostra seu lado CEO das baladas. Você prova que negócios e Beatles podem coexistir harmonicamente!"
+    },
+    "gilberto_barros": {
+      "title": "Gilberto Barros",
+      "emoji": "👨‍👦",
+      "subtitle": "O Artista Familiar",
+      "text": "Com 'Me Faz Um Carinho' (1988), você eternizou em capa de disco o que importa: amor e família (e um toque de ousadia!)."
+    },
+    "susana_vieira": {
+      "title": "Susana Vieira",
+      "emoji": "🎭",
+      "subtitle": "A Diva Inabalável",
+      "text": "Seu álbum 'Brasil enCena' (2010) após cirurgia nas cordas vocais é a prova: nada te tira do palco! Você é a diva que transforma drama em trilha sonora."
+    },
+    "marilia_gabriela": {
+      "title": "Marília Gabriela",
+      "emoji": "📚",
+      "subtitle": "A Intelectual da MPB",
+      "text": "Com canções de Rita Lee e Caetano Veloso em seu álbum (1982), você mostra que profundidade e sofisticação são seu território. Entrevistas? Só com fundo musical!"
+    }
+  }
+}
