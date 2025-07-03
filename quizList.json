@@ -26,6 +26,11 @@
       "description": "Descubra qual princesa Disney é a sua cara!"
     },
     {
+      "name": "Qual elevador quebrado da firma você seria?",
+      "file": "quizzes/quizElevadores.json",
+      "description": "Descubra qual elevador em reforma combina com seu estilo de lidar com os desafios!"
+    },
+    {
       "name": "Qual personagem de Naruto você seria?",
       "file": "quizzes/quizNaruto.json",
       "description": "Encontre o personagem de Naruto que mais se parece com você!"
