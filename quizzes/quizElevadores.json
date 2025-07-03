@@ -1,0 +1,278 @@
+{
+  "title": "Qual elevador quebrado da firma você seria?",
+  "subtitle": "Descubra qual elevador em reforma combina com seu estilo de lidar com os desafios!",
+  "questions": [
+    {
+      "question": "Quando surge um problema no trabalho, sua primeira reação é:",
+      "answers": [
+        {
+          "text": "🤔 Analisar calmamente e chamar ajuda técnica",
+          "points": {
+            "agencia": 0.7,
+            "libero": 0.2,
+            "rampa_e2": 0.1,
+            "rampa_e3": 0.0
+          }
+        },
+        {
+          "text": "⚡ Tentar resolver sozinho antes que alguém veja",
+          "points": {
+            "libero": 0.6,
+            "agencia": 0.3,
+            "rampa_e2": 0.0,
+            "rampa_e3": 0.1
+          }
+        },
+        {
+          "text": "🚀 Transformar a situação em oportunidade criativa",
+          "points": {
+            "rampa_e2": 0.8,
+            "rampa_e3": 0.1,
+            "agencia": 0.1,
+            "libero": 0.0
+          }
+        },
+        {
+          "text": "🛋️ Esperar que alguém resolva enquanto você descansa",
+          "points": {
+            "rampa_e3": 0.9,
+            "libero": 0.1,
+            "agencia": 0.0,
+            "rampa_e2": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Num dia superlotado, você prefere:",
+      "answers": [
+        {
+          "text": "👥 Aproveitar para socializar com todo mundo",
+          "points": {
+            "agencia": 0.6,
+            "rampa_e3": 0.2,
+            "libero": 0.2,
+            "rampa_e2": 0.0
+          }
+        },
+        {
+          "text": "🚷 Encontrar um cantinho vazio para recarregar",
+          "points": {
+            "rampa_e2": 0.7,
+            "rampa_e3": 0.3,
+            "agencia": 0.0,
+            "libero": 0.0
+          }
+        },
+        {
+          "text": "🎭 Alternar entre animação e isolamento sem aviso",
+          "points": {
+            "libero": 0.8,
+            "agencia": 0.1,
+            "rampa_e2": 0.1,
+            "rampa_e3": 0.0
+          }
+        },
+        {
+          "text": "🔒 Ficar na sua até o movimento passar",
+          "points": {
+            "rampa_e3": 0.9,
+            "libero": 0.1,
+            "rampa_e2": 0.0,
+            "agencia": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase te define melhor?",
+      "answers": [
+        {
+          "text": "🛠️ 'Sou confiável, mas precisando de upgrades'",
+          "points": {
+            "agencia": 0.9,
+            "rampa_e3": 0.1,
+            "libero": 0.0,
+            "rampa_e2": 0.0
+          }
+        },
+        {
+          "text": "🎭 'Minha energia é uma caixinha de surpresas'",
+          "points": {
+            "libero": 0.8,
+            "rampa_e2": 0.1,
+            "agencia": 0.1,
+            "rampa_e3": 0.0
+          }
+        },
+        {
+          "text": "🌆 'Adoro uma vista privilegiada da situação'",
+          "points": {
+            "rampa_e2": 0.7,
+            "libero": 0.2,
+            "agencia": 0.1,
+            "rampa_e3": 0.0
+          }
+        },
+        {
+          "text": "❓ 'Nem eu sei quando estou disponível'",
+          "points": {
+            "rampa_e3": 0.9,
+            "libero": 0.1,
+            "agencia": 0.0,
+            "rampa_e2": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com prazos apertados?",
+      "answers": [
+        {
+          "text": "📅 Planejo cada etapa com antecedência",
+          "points": {
+            "agencia": 0.8,
+            "rampa_e2": 0.1,
+            "libero": 0.1,
+            "rampa_e3": 0.0
+          }
+        },
+        {
+          "text": "🔥 Deixo para a última hora e entrego com adrenalina",
+          "points": {
+            "libero": 0.7,
+            "rampa_e3": 0.2,
+            "agencia": 0.1,
+            "rampa_e2": 0.0
+          }
+        },
+        {
+          "text": "🚧 Começo com tudo, mas às vezes travo no meio",
+          "points": {
+            "rampa_e2": 0.6,
+            "rampa_e3": 0.3,
+            "agencia": 0.1,
+            "libero": 0.0
+          }
+        },
+        {
+          "text": "😴 Desisto e espero uma extensão do prazo",
+          "points": {
+            "rampa_e3": 0.9,
+            "libero": 0.1,
+            "agencia": 0.0,
+            "rampa_e2": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu chefe pede algo urgente, mas você está no seu limite. Você:",
+      "answers": [
+        {
+          "text": "💪 Aceita e dá seu melhor, mesmo cansado",
+          "points": {
+            "agencia": 0.7,
+            "rampa_e2": 0.2,
+            "libero": 0.1,
+            "rampa_e3": 0.0
+          }
+        },
+        {
+          "text": "🔄 Diz que vai fazer, mas prioriza outras coisas",
+          "points": {
+            "libero": 0.6,
+            "rampa_e3": 0.3,
+            "agencia": 0.1,
+            "rampa_e2": 0.0
+          }
+        },
+        {
+          "text": "🚀 Aceita e usa isso para mostrar seu potencial",
+          "points": {
+            "rampa_e2": 0.8,
+            "agencia": 0.1,
+            "libero": 0.1,
+            "rampa_e3": 0.0
+          }
+        },
+        {
+          "text": "🚫 Finge que não viu a mensagem e vai tomar café",
+          "points": {
+            "rampa_e3": 0.9,
+            "libero": 0.1,
+            "agencia": 0.0,
+            "rampa_e2": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual superpoder você gostaria de ter?",
+      "answers": [
+        {
+          "text": "⏱️ Parar o tempo para resolver tudo com calma",
+          "points": {
+            "agencia": 0.6,
+            "rampa_e2": 0.3,
+            "libero": 0.1,
+            "rampa_e3": 0.0
+          }
+        },
+        {
+          "text": "🎭 Duplicar-se para estar em vários lugares",
+          "points": {
+            "libero": 0.7,
+            "agencia": 0.2,
+            "rampa_e2": 0.1,
+            "rampa_e3": 0.0
+          }
+        },
+        {
+          "text": "🦸‍♂️ Voar para evitar todo o trânsito e confusão",
+          "points": {
+            "rampa_e2": 0.8,
+            "rampa_e3": 0.1,
+            "agencia": 0.1,
+            "libero": 0.0
+          }
+        },
+        {
+          "text": "🛌 Dormir em qualquer lugar e acordar renovado",
+          "points": {
+            "rampa_e3": 0.9,
+            "libero": 0.1,
+            "agencia": 0.0,
+            "rampa_e2": 0.0
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "agencia": {
+      "title": "Elevador da Agência",
+      "emoji": "🏢",
+      "subtitle": "O clássico esquecido",
+      "text": "Você é o Elevador da Agência! Todo mundo já usou você alguma vez, mas hoje vive coberto de placas de 'OBRA'. Você é aquele colega de trabalho que sempre foi confiável, mas agora está um pouco desatualizado. Quando funciona, é uma lenda, mas no momento... melhor pegar as escadas."
+    },
+    "libero": {
+      "title": "Elevador da Líbero",
+      "emoji": "🔁",
+      "subtitle": "O imprevisível",
+      "text": "Você é o Elevador da Líbero! Funciona quando quer e ninguém entende seu humor. Às vezes você está disponível, outras vezes só mostra a placa de 'MANUTENÇÃO'. Assim como você, tem dias que estamos 100%, outros que só queremos um café e um abraço."
+    },
+    "rampa_e2": {
+      "title": "Elevador E2 da Rampa",
+      "emoji": "🔝",
+      "subtitle": "O sonhador das alturas",
+      "text": "Você é o E2 da Rampa! Vive preso nos andares superiores, como alguém que adora projetos ambiciosos mas às vezes se perde no caminho. Todos contam com você para acessar lugares importantes, mas hoje... só te veem pelas câmeras de segurança, parado lá no último andar."
+    },
+    "rampa_e3": {
+      "title": "Elevador E3 da Rampa",
+      "emoji": "🚪",
+      "subtitle": "O misterioso",
+      "text": "Você é o E3 da Rampa! As portas abrem, mas ninguém sabe se pode entrar. Tem dias que você aceita pessoas, outros que só mostra um vazio escuro. É como aquela reunião que poderia ser um e-mail: às vezes útil, às vezes só um vazio sem respostas."
+    }
+  }
+}
