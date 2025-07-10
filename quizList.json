@@ -238,7 +238,7 @@
     {
       "name": "Qual linha de metrô você é?",
       "file": "quizzes/quizMetro.json",
-      "description": "Entre o transporte e o caos, qual linha representa sua personalidade?"
+      "description": "Entre o transporte e o caos, qual linha representa sua personalidade!"
     },
     {
       "name": "Que tipo de inseto você seria?",
@@ -414,6 +414,11 @@
       "name": "Qual Disco Inusitado de Apresentador da TV Brasileira Você Seria?",
       "file": "quizzes/quizDiscosApresentadores.json",
       "description": "Descubra qual álbum musical surpreendente de apresentador da TV combina com sua personalidade!"
+    },
+    {
+      "name": "Qual Umamusume Clássica da Treamen Team Você É?",
+      "file": "quizzes/quizUmamusume.json",
+      "description": "Descubra qual das estrelas originais de Umamusume compartilha sua personalidade e estilo!"
     }
   ]
 }
