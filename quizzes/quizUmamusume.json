@@ -1,0 +1,368 @@
+{
+  "title": "Qual Umamusume Clássica da Treamen Team Você É?",
+  "subtitle": "Descubra qual das estrelas originais de Umamusume compartilha sua personalidade e estilo!",
+  "questions": [
+    {
+      "question": "Você se depara com uma poça de lama gigante no seu caminho. O que você faz?",
+      "answers": [
+        {
+          "text": "🥿 Desvio com elegância. Manter a aparência é fundamental.",
+          "points": {
+            "mejiro_mcqueen": 1,
+            "daiwa_scarlet": 0.8,
+            "silence_suzuka": 0.5
+          }
+        },
+        {
+          "text": "🌀 Pulo no meio e vejo o caos acontecer. Por que não?",
+          "points": {
+            "gold_ship": 1
+          }
+        },
+        {
+          "text": "🤸‍♀️ Tento dar um salto gigante por cima, provavelmente falhando e caindo de cara.",
+          "points": {
+            "special_week": 1,
+            "tokai_teio": 0.6
+          }
+        },
+        {
+          "text": "😎 Passo por cima com atitude, fingindo que era exatamente isso que eu queria fazer.",
+          "points": {
+            "vodka": 1,
+            "daiwa_scarlet": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual a sua filosofia sobre 'trabalho em equipe'?",
+      "answers": [
+        {
+          "text": "🏃‍♀️ Prefiro correr na minha própria raia, mas aprecio quem me dá apoio à distância.",
+          "points": {
+            "silence_suzuka": 1,
+            "rice_shower": 0.6
+          }
+        },
+        {
+          "text": "🌟 Uma equipe existe para me ver brilhar e me apoiar nos meus retornos triunfais!",
+          "points": {
+            "tokai_teio": 1,
+            "daiwa_scarlet": 0.7
+          }
+        },
+        {
+          "text": "💣 Equipe? Eu sou uma equipe de uma pessoa só. E de vez em quando eu sequestro os outros para serem meus 'companheiros'.",
+          "points": {
+            "gold_ship": 1
+          }
+        },
+        {
+          "text": "🤝 É a coisa mais importante! Meus amigos são minha força e eu sou a força deles!",
+          "points": {
+            "special_week": 1,
+            "vodka": 0.5,
+            "mejiro_mcqueen": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com um rival que é claramente melhor que você no momento?",
+      "answers": [
+        {
+          "text": "🔥 'Melhor'? Impossível. Eu sou a número um. É só uma questão de tempo até todos perceberem.",
+          "points": {
+            "daiwa_scarlet": 1,
+            "tokai_teio": 0.7
+          }
+        },
+        {
+          "text": "👊 Eu o declaro meu rival eterno e treino até o dia em que eu possa superá-lo com meu próprio estilo!",
+          "points": {
+            "vodka": 1,
+            "special_week": 0.5
+          }
+        },
+        {
+          "text": "🤫 Eu o admiro secretamente, me sinto um pouco mal por querer vencê-lo, mas uso isso como motivação para treinar em silêncio.",
+          "points": {
+            "rice_shower": 1,
+            "silence_suzuka": 0.4
+          }
+        },
+        {
+          "text": "♟️ Eu o observo, analiso cada movimento e planejo uma estratégia de longo prazo para garantir a minha vitória no final. A resistência vence.",
+          "points": {
+            "mejiro_mcqueen": 1,
+            "silence_suzuka": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "É hora do almoço e o refeitório está lotado. Qual é a sua estratégia?",
+      "answers": [
+        {
+          "text": "🍜 Vou direto para a fila do lámen e peço uma porção extra. Energia é tudo!",
+          "points": {
+            "special_week": 1
+          }
+        },
+        {
+          "text": "🧁 Procuro uma mesa mais afastada para poder saborear meu doce em paz, longe da multidão.",
+          "points": {
+            "mejiro_mcqueen": 1,
+            "silence_suzuka": 0.5
+          }
+        },
+        {
+          "text": "🚶‍♀️ Pego meu pão de yakisoba e como no terraço, onde é mais descolado e quieto.",
+          "points": {
+            "vodka": 1
+          }
+        },
+        {
+          "text": "🍴 Uso a multidão como disfarce para 'pegar emprestado' o prato de outra pessoa. Shhh.",
+          "points": {
+            "gold_ship": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Para você, o que significa 'vencer' uma corrida?",
+      "answers": [
+        {
+          "text": "🏆 É um espetáculo! É provar a todos que sou imbatível e criar um momento milagroso.",
+          "points": {
+            "tokai_teio": 1,
+            "daiwa_scarlet": 0.6
+          }
+        },
+        {
+          "text": "🌅 É a paisagem que só eu posso ver quando estou correndo sozinha na frente de todos.",
+          "points": {
+            "silence_suzuka": 1
+          }
+        },
+        {
+          "text": "💖 É fazer alguém importante para mim sorrir, mesmo que isso signifique 'estragar' a festa dos outros.",
+          "points": {
+            "rice_shower": 1
+          }
+        },
+        {
+          "text": "🎊 É cumprir a promessa que fiz e compartilhar essa alegria com todos que me apoiaram!",
+          "points": {
+            "special_week": 1,
+            "vodka": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você descreveria seu senso de moda?",
+      "answers": [
+        {
+          "text": "👗 Impecável. Cada detalhe é pensado para mostrar que sou a número um, tanto na pista quanto fora dela.",
+          "points": {
+            "daiwa_scarlet": 1,
+            "mejiro_mcqueen": 0.6
+          }
+        },
+        {
+          "text": "👖 Legal e confortável. Jaquetas, calças, algo com uma pegada rock'n'roll que mostre minha atitude.",
+          "points": {
+            "vodka": 1
+          }
+        },
+        {
+          "text": "👑 Clássico e refinado. Sigo a tradição e a elegância, representando o orgulho da minha família.",
+          "points": {
+            "mejiro_mcqueen": 1
+          }
+        },
+        {
+          "text": "🃏 Hoje eu decidi usar... uma cabeça de cavalo de borracha. Moda é sobre expressão, certo?",
+          "points": {
+            "gold_ship": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você sofre uma grande decepção ou um revés inesperado. Qual sua primeira reação?",
+      "answers": [
+        {
+          "text": " comeback. O palco para o milagre está montado.",
+          "points": {
+            "tokai_teio": 1
+          }
+        },
+        {
+          "text": "😥 Peço desculpas a todos, sentindo que decepcionei quem acreditava em mim. Depois, treino em dobro.",
+          "points": {
+            "rice_shower": 1
+          }
+        },
+        {
+          "text": "🧘‍♀️ Me fecho em meu próprio mundo para processar e focar na recuperação. O barulho de fora não importa.",
+          "points": {
+            "silence_suzuka": 1,
+            "mejiro_mcqueen": 0.4
+          }
+        },
+        {
+          "text": "😭 Choro um pouco, ligo para minha mãe, como um monte de cenouras e volto com o dobro de energia.",
+          "points": {
+            "special_week": 1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu treinador te dá uma ordem direta que você não entende muito bem. Você...",
+      "answers": [
+        {
+          "text": "🤔 Questiono a lógica. Meu plano costuma ser o melhor, então preciso entender o porquê.",
+          "points": {
+            "daiwa_scarlet": 1
+          }
+        },
+        {
+          "text": "🫡 Confio de olhos fechados e executo com todo o meu coração! O treinador sabe o que faz!",
+          "points": {
+            "special_week": 1,
+            "tokai_teio": 0.5
+          }
+        },
+        {
+          "text": "🤷‍♀️ Interpreto a ordem da maneira mais caótica possível e vejo no que dá.",
+          "points": {
+            "gold_ship": 1
+          }
+        },
+        {
+          "text": "🧐 Analiso se a ordem se alinha com meus objetivos de longo prazo e a honra da minha família antes de obedecer.",
+          "points": {
+            "mejiro_mcqueen": 1,
+            "rice_shower": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria o seu dia de folga perfeito?",
+      "answers": [
+        {
+          "text": "☕ Uma tarde de chá com os doces mais refinados e uma conversa agradável.",
+          "points": {
+            "mejiro_mcqueen": 1
+          }
+        },
+        {
+          "text": "🎤 Um dia de karaokê com os amigos, onde eu, claro, sou a estrela do show!",
+          "points": {
+            "tokai_teio": 1,
+            "special_week": 0.5
+          }
+        },
+        {
+          "text": "🛍️ Ir a uma loja de discos ou customizar minha jaqueta. Algo que tenha atitude.",
+          "points": {
+            "vodka": 1
+          }
+        },
+        {
+          "text": "📖 Ler um livro de figuras em um lugar calmo e talvez cuidar de algumas flores.",
+          "points": {
+            "rice_shower": 1,
+            "silence_suzuka": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "No fundo, o que realmente te move?",
+      "answers": [
+        {
+          "text": "🌌 A busca por uma sensação que só eu conheço, um estado de fluxo perfeito e solitário.",
+          "points": {
+            "silence_suzuka": 1
+          }
+        },
+        {
+          "text": "🔥 A necessidade de provar meu próprio valor, de ser a mais forte e a mais legal em meus próprios termos.",
+          "points": {
+            "vodka": 1,
+            "daiwa_scarlet": 0.4
+          }
+        },
+        {
+          "text": "💫 O desejo de ser um símbolo de esperança e superação, de inspirar a todos com meu brilho.",
+          "points": {
+            "tokai_teio": 1
+          }
+        },
+        {
+          "text": "🤯 Honestamente? A pura e genuína vontade de ver o que acontece se eu fizer uma coisa maluca.",
+          "points": {
+            "gold_ship": 1
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "special_week": {
+      "title": "Special Week",
+      "emoji": "🥕",
+      "subtitle": "A Sonhadora do Interior",
+      "text": "Você é a personificação da energia e do otimismo! Chegou com um sonho na mala e um apetite maior ainda. Às vezes, sua inocência faz você se meter em confusão, mas seu coração puro e sua determinação para dar o seu melhor sempre conquistam a todos. Só cuidado para não comer o prêmio."
+    },
+    "silence_suzuka": {
+      "title": "Silence Suzuka",
+      "emoji": "💨",
+      "subtitle": "A Velocista Silenciosa",
+      "text": "Você prefere o silêncio e a solidão da liderança. Seu foco é absoluto e seu objetivo é simples: correr na frente, sempre. As pessoas podem te achar um pouco distante, mas é porque você está em seu próprio mundo, ouvindo o som do vento. Sua elegância e talento falam mais alto que qualquer palavra."
+    },
+    "tokai_teio": {
+      "title": "Tokai Teio",
+      "emoji": "✨",
+      "subtitle": "A Imperatriz Invicta",
+      "text": "Confiança? Você tem de sobra! Com um carisma que ilumina qualquer lugar, você nasceu para ser uma estrela e não tem medo de mostrar. Mesmo quando a vida te dá uma rasteira, você se levanta com um sorriso e planeja seu retorno triunfal. Afinal, milagres são sua especialidade."
+    },
+    "mejiro_mcqueen": {
+      "title": "Mejiro McQueen",
+      "emoji": "🍰",
+      "subtitle": "A Dama da Alta Sociedade",
+      "text": "Elegância, orgulho e uma resistência de ferro. Você carrega o peso de um grande nome, mas faz isso com uma graça impecável. Seus padrões são altíssimos, tanto para você quanto para os outros. Mas por trás de toda essa postura, existe uma paixão secreta por doces e um coração leal."
+    },
+    "gold_ship": {
+      "title": "Gold Ship",
+      "emoji": "🏴‍☠️",
+      "subtitle": "A Rainha do Caos",
+      "text": "Parabéns, você é um agente do caos. Previsibilidade é seu maior inimigo. Seja dando um 'dropkick' em um amigo ou aparecendo de forma aleatória, sua mente funciona de maneiras misteriosas e hilárias. A vida ao seu lado é uma aventura constante e absolutamente nada entediante."
+    },
+    "vodka": {
+      "title": "Vodka",
+      "emoji": "🎸",
+      "subtitle": "A Rebelde com Causa",
+      "text": "Você se esforça para ser a pessoa mais 'cool' e descolada do ambiente, com uma atitude rock'n'roll e um desejo ardente de ser a número um. Pode até parecer durona por fora, mas por dentro, você é uma amiga incrivelmente leal e se importa muito com suas rivalidades. Ser 'a melhor' é o seu lema."
+    },
+    "daiwa_scarlet": {
+      "title": "Daiwa Scarlet",
+      "emoji": "💅",
+      "subtitle": "A Princesa Escarlate",
+      "text": "Você acredita que é a número um, e ai de quem duvidar! Sua confiança é inabalável e seu estilo é impecável. Você tem uma personalidade forte e competitiva, mas também um lado surpreendentemente fofo e dedicado. Você não segue o caminho, você *é* o caminho (e espera que todos notem)."
+    },
+    "rice_shower": {
+      "title": "Rice Shower",
+      "emoji": "💙",
+      "subtitle": "A Rosa Azul Melancólica",
+      "text": "Você é uma alma gentil com uma força interior surpreendente. Muitas vezes, seu sucesso acaba ofuscando os favoritos, o que te deixa com uma fama de 'vilã', mas tudo que você quer é dar o seu melhor e receber um pouco de carinho. Sua determinação floresce nos momentos mais difíceis, como uma rosa azul."
+    }
+  }
+}
