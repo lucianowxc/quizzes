@@ -1,0 +1,128 @@
+{
+  "title": "Qual promessa você fez pra quando o Bolsonaro fosse preso?",
+  "subtitle": "Descubra qual a sua promessa mais bizarra (ou nem tanto) para o dia D!",
+  "questions": [
+    {
+      "question": "Qual foi a primeira coisa que veio à sua mente quando pensou na prisão do Jair?",
+      "answers": [
+        { "text": "🕊️ 'Finalmente, vou poder respirar em paz!'", "points": { "promessa_liberdade": 1, "promessa_paz_interior": 0.7, "promessa_celebracao_epica": 0.3 } },
+        { "text": "🎉 'É HOJE que o churrasco sai!'", "points": { "promessa_celebracao_epica": 1, "promessa_gastronomica": 0.8, "promessa_sarcasmo_e_humor": 0.2 } },
+        { "text": "😏 'Pensei em um meme. Automaticamente.'", "points": { "promessa_sarcasmo_e_humor": 1, "promessa_liberdade": 0.5, "promessa_engajamento_civico": 0.1 } },
+        { "text": "🏛️ 'O que eu posso fazer pra ajudar o Brasil a seguir em frente?'", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.6, "promessa_paz_interior": 0.4 } }
+      ]
+    },
+    {
+      "question": "Se você pudesse mandar um presente para o 'novo residente' do sistema prisional, o que seria?",
+      "answers": [
+        { "text": "🧘 Um kit de meditação para encontrar a 'paz' interior.", "points": { "promessa_paz_interior": 1, "promessa_sarcasmo_e_humor": 0.7, "promessa_engajamento_civico": 0.2 } },
+        { "text": "🍕 Uma pizza brotinho (pra ele se sentir em casa).", "points": { "promessa_gastronomica": 1, "promessa_celebracao_epica": 0.5, "promessa_sarcasmo_e_humor": 0.8 } },
+        { "text": "✈️ Um mapa-múndi, pra ele sonhar com viagens que não fará.", "points": { "promessa_viagem_sonhada": 1, "promessa_liberdade": 0.6, "promessa_sarcasmo_e_humor": 0.9 } },
+        { "text": "🔄 Uma cópia da Constituição Federal, para 'revisão'.", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.7, "promessa_sarcasmo_e_humor": 0.5 } }
+      ]
+    },
+    {
+      "question": "Qual seria o *soundtrack* perfeito para o dia da prisão?",
+      "answers": [
+        { "text": "🎉 'Tá na hora do Jair já ir embora!' (clássico do carnaval)", "points": { "promessa_celebracao_epica": 1, "promessa_sarcasmo_e_humor": 0.8, "promessa_liberdade": 0.6 } },
+        { "text": "🕊️ 'Imagine' do John Lennon, pra um mundo sem ódio.", "points": { "promessa_paz_interior": 1, "promessa_liberdade": 0.9, "promessa_engajamento_civico": 0.5 } },
+        { "text": "😏 'Sai da Minha Rua' do Raimundos, com a devida licença poética.", "points": { "promessa_sarcasmo_e_humor": 1, "promessa_celebracao_epica": 0.7, "promessa_mudanca_radical": 0.4 } },
+        { "text": "🔄 Um bom e velho 'hino nacional' (cantado com fervor renovado).", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.8, "promessa_paz_interior": 0.3 } }
+      ]
+    },
+    {
+      "question": "No dia da notícia, qual rede social você abriria primeiro?",
+      "answers": [
+        { "text": "😏 Twitter (pra ver a zoeira e as threads infinitas).", "points": { "promessa_sarcasmo_e_humor": 1, "promessa_celebracao_epica": 0.6, "promessa_engajamento_civico": 0.3 } },
+        { "text": "🎉 Instagram (pra postar uma foto comemorando ou um story divertido).", "points": { "promessa_celebracao_epica": 1, "promessa_gastronomica": 0.5, "promessa_viagem_sonhada": 0.2 } },
+        { "text": "🏛️ Facebook (pra compartilhar análises políticas sérias).", "points": { "promessa_engajamento_civico": 1, "promessa_paz_interior": 0.4, "promessa_mudanca_radical": 0.7 } },
+        { "text": "🧘 WhatsApp (pra mandar figurinhas e áudios pra família).", "points": { "promessa_paz_interior": 1, "promessa_liberdade": 0.3, "promessa_gastronomica": 0.6 } }
+      ]
+    },
+    {
+      "question": "Qual seria seu destino de 'fuga' imediata após a notícia?",
+      "answers": [
+        { "text": "✈️ Uma praia paradisíaca, pra nunca mais ver a cara dele.", "points": { "promessa_viagem_sonhada": 1, "promessa_liberdade": 0.8, "promessa_paz_interior": 0.6 } },
+        { "text": "🍕 A cozinha, pra preparar algo delicioso e afogar as mágoas (ou celebrar!).", "points": { "promessa_gastronomica": 1, "promessa_celebracao_epica": 0.7, "promessa_paz_interior": 0.4 } },
+        { "text": "🕊️ O sofá, pra um dia de preguiça e alívio total.", "points": { "promessa_liberdade": 1, "promessa_paz_interior": 0.9, "promessa_sarcasmo_e_humor": 0.2 } },
+        { "text": "🔄 Um curso online sobre 'Reconstrução Nacional'.", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.9, "promessa_sarcasmo_e_humor": 0.1 } }
+      ]
+    },
+    {
+      "question": "Qual a primeira frase que sairia da sua boca, após confirmar a notícia?",
+      "answers": [
+        { "text": "😏 'Bem-feito! Era só questão de tempo.'", "points": { "promessa_sarcasmo_e_humor": 1, "promessa_mudanca_radical": 0.7, "promessa_celebracao_epica": 0.5 } },
+        { "text": "🎉 'Alô, galera! A festa é na minha casa!'", "points": { "promessa_celebracao_epica": 1, "promessa_gastronomica": 0.6, "promessa_liberdade": 0.4 } },
+        { "text": "🧘 'A humanidade tem salvação!'", "points": { "promessa_paz_interior": 1, "promessa_liberdade": 0.8, "promessa_engajamento_civico": 0.5 } },
+        { "text": "🏛️ 'Agora é hora de trabalhar para um futuro melhor.'", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.9, "promessa_paz_interior": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual seria sua 'oferenda' pessoal para o universo em agradecimento?",
+      "answers": [
+        { "text": "🔄 Doar minhas roupas velhas, pra um novo ciclo de vida.", "points": { "promessa_mudanca_radical": 1, "promessa_liberdade": 0.7, "promessa_paz_interior": 0.4 } },
+        { "text": "🍕 Pedir um delivery de tudo que tenho direito, sem culpa.", "points": { "promessa_gastronomica": 1, "promessa_celebracao_epica": 0.8, "promessa_sarcasmo_e_humor": 0.3 } },
+        { "text": "✈️ Comprar uma passagem só de ida (sem destino certo, talvez).", "points": { "promessa_viagem_sonhada": 1, "promessa_liberdade": 0.9, "promessa_mudanca_radical": 0.6 } },
+        { "text": "🧘 Um minuto de silêncio (ou de gritos de alegria controlados).", "points": { "promessa_paz_interior": 1, "promessa_liberdade": 0.5, "promessa_sarcasmo_e_humor": 0.2 } }
+      ]
+    },
+    {
+      "question": "Por fim, qual o seu sentimento predominante após a prisão?",
+      "answers": [
+        { "text": "🎉 Euforia e vontade de comemorar por uma semana.", "points": { "promessa_celebracao_epica": 1, "promessa_sarcasmo_e_humor": 0.7, "promessa_gastronomica": 0.5 } },
+        { "text": "🕊️ Alívio e a sensação de um peso tirado das costas.", "points": { "promessa_liberdade": 1, "promessa_paz_interior": 0.9, "promessa_viagem_sonhada": 0.6 } },
+        { "text": "🏛️ Esperança renovada para o futuro do país.", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.8, "promessa_paz_interior": 0.4 } },
+        { "text": "😏 Um misto de 'eu avisei' com um toque de 'agora vai, será?'", "points": { "promessa_sarcasmo_e_humor": 1, "promessa_mudanca_radical": 0.7, "promessa_engajamento_civico": 0.3 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "promessa_liberdade": {
+      "title": "A Liberdade em Pessoa",
+      "emoji": "🕊️",
+      "subtitle": "Você prometeu um ato simbólico de libertação.",
+      "text": "Sua promessa era soltar uma pomba, cortar o cabelo, ou tirar o pé da jaca de vez. Sua alma anseia por liberdade e leveza, e o fim de um ciclo seria a deixa perfeita para alçar voo. Parabéns pela leveza!"
+    },
+    "promessa_celebracao_epica": {
+      "title": "O Festeiro Inabalável",
+      "emoji": "🎉",
+      "subtitle": "Você prometeu uma festa que entraria para a história.",
+      "text": "Seu compromisso era com a farra! Um churrasco épico, uma balada que pararia a cidade, ou até mesmo um bloco de carnaval fora de época. A alegria contagiante seria sua resposta aos tempos sombrios. Prepare o glitter e a churrasqueira!"
+    },
+    "promessa_mudanca_radical": {
+      "title": "O Radical da Transformação",
+      "emoji": "🔄",
+      "subtitle": "Sua promessa envolvia uma mudança drástica de vida.",
+      "text": "Mudar de país, largar o emprego, raspar a cabeça... Sua promessa era um reset completo na vida. Você vê na virada política a chance de uma nova era pessoal. Coragem não te falta, mas cuidado com as decisões impulsivas!"
+    },
+    "promessa_engajamento_civico": {
+      "title": "O Cidadão Engajado",
+      "emoji": "🏛️",
+      "subtitle": "Você prometeu mais participação política ou social.",
+      "text": "Sua promessa era se filiar a um partido, virar voluntário, ou debater política sem perder a paciência. Sua esperança é que um novo cenário incentive um engajamento cívico ainda maior. A democracia agradece seu esforço!"
+    },
+    "promessa_gastronomica": {
+      "title": "O Devorador da Promessa",
+      "emoji": "🍕",
+      "subtitle": "Sua promessa envolvia um banquete digno de reis.",
+      "text": "Uma pizza gigante, um rodízio completo, ou aquele prato que você sempre quis provar. Sua celebração passaria pelo estômago, afinal, comida boa cura qualquer ressaca política. Bom apetite!"
+    },
+    "promessa_paz_interior": {
+      "title": "O Buda da Calma",
+      "emoji": "🧘",
+      "subtitle": "Você prometeu encontrar a paz e o equilíbrio.",
+      "text": "Meditar mais, fazer yoga, ou simplesmente parar de brigar nas redes sociais. Sua promessa era de um alívio mental, buscando a serenidade após um período de turbulência. Paz e luz para sua jornada!"
+    },
+    "promessa_viagem_sonhada": {
+      "title": "O Viajante Incansável",
+      "emoji": "✈️",
+      "subtitle": "Você prometeu embarcar na viagem dos seus sonhos.",
+      "text": "Conhecer a Patagônia, ir para a Europa, ou apenas visitar a casa da avó no interior. Sua promessa era explorar novos horizontes e fugir um pouco da realidade pós-tensão. Faça as malas, a aventura te espera!"
+    },
+    "promessa_sarcasmo_e_humor": {
+      "title": "O Mestre do Sarcasmo",
+      "emoji": "😏",
+      "subtitle": "Sua promessa era soltar a língua e fazer piada sem dó.",
+      "text": "Comentários ácidos, memes hilários, ou um show de stand-up. Você prometeu usar o humor como forma de lidar com a situação, transformando a tensão em risada. O mundo precisa de mais gente com seu senso de humor (e sua coragem)!"
+    }
+  }
+}
