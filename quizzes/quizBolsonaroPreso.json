@@ -5,73 +5,457 @@
     {
       "question": "Qual foi a primeira coisa que veio à sua mente quando pensou na prisão do Jair?",
       "answers": [
-        { "text": "🕊️ 'Finalmente, vou poder respirar em paz!'", "points": { "promessa_liberdade": 1, "promessa_paz_interior": 0.7, "promessa_celebracao_epica": 0.3 } },
-        { "text": "🎉 'É HOJE que o churrasco sai!'", "points": { "promessa_celebracao_epica": 1, "promessa_gastronomica": 0.8, "promessa_sarcasmo_e_humor": 0.2 } },
-        { "text": "😏 'Pensei em um meme. Automaticamente.'", "points": { "promessa_sarcasmo_e_humor": 1, "promessa_liberdade": 0.5, "promessa_engajamento_civico": 0.1 } },
-        { "text": "🏛️ 'O que eu posso fazer pra ajudar o Brasil a seguir em frente?'", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.6, "promessa_paz_interior": 0.4 } }
+        {
+          "text": "🕊️ 'Finalmente, vou poder respirar em paz!'",
+          "points": {
+            "promessa_liberdade": 0.0514,
+            "promessa_paz_interior": 0.0629,
+            "promessa_celebracao_epica": 0.0938,
+            "promessa_mudanca_radical": 0.0042,
+            "promessa_engajamento_civico": 0.005,
+            "promessa_gastronomica": 0.0069,
+            "promessa_viagem_sonhada": 0.0106,
+            "promessa_sarcasmo_e_humor": 0.0039
+          }
+        },
+        {
+          "text": "🎉 'É HOJE que o churrasco sai!'",
+          "points": {
+            "promessa_celebracao_epica": 0.0615,
+            "promessa_gastronomica": 0.1314,
+            "promessa_sarcasmo_e_humor": 0.0494,
+            "promessa_liberdade": 0.0038,
+            "promessa_mudanca_radical": 0.0038,
+            "promessa_engajamento_civico": 0.0044,
+            "promessa_paz_interior": 0.0033,
+            "promessa_viagem_sonhada": 0.0096
+          }
+        },
+        {
+          "text": "😏 'Pensei em um meme. Automaticamente.'",
+          "points": {
+            "promessa_sarcasmo_e_humor": 0.0456,
+            "promessa_liberdade": 0.0687,
+            "promessa_engajamento_civico": 0.043,
+            "promessa_celebracao_epica": 0.005,
+            "promessa_mudanca_radical": 0.0043,
+            "promessa_gastronomica": 0.007,
+            "promessa_paz_interior": 0.0037,
+            "promessa_viagem_sonhada": 0.0111
+          }
+        },
+        {
+          "text": "🏛️ 'O que eu posso fazer pra ajudar o Brasil a seguir em frente?'",
+          "points": {
+            "promessa_engajamento_civico": 0.0597,
+            "promessa_mudanca_radical": 0.0633,
+            "promessa_paz_interior": 0.0747,
+            "promessa_liberdade": 0.0044,
+            "promessa_celebracao_epica": 0.0053,
+            "promessa_gastronomica": 0.0072,
+            "promessa_viagem_sonhada": 0.011,
+            "promessa_sarcasmo_e_humor": 0.004
+          }
+        }
       ]
     },
     {
       "question": "Se você pudesse mandar um presente para o 'novo residente' do sistema prisional, o que seria?",
       "answers": [
-        { "text": "🧘 Um kit de meditação para encontrar a 'paz' interior.", "points": { "promessa_paz_interior": 1, "promessa_sarcasmo_e_humor": 0.7, "promessa_engajamento_civico": 0.2 } },
-        { "text": "🍕 Uma pizza brotinho (pra ele se sentir em casa).", "points": { "promessa_gastronomica": 1, "promessa_celebracao_epica": 0.5, "promessa_sarcasmo_e_humor": 0.8 } },
-        { "text": "✈️ Um mapa-múndi, pra ele sonhar com viagens que não fará.", "points": { "promessa_viagem_sonhada": 1, "promessa_liberdade": 0.6, "promessa_sarcasmo_e_humor": 0.9 } },
-        { "text": "🔄 Uma cópia da Constituição Federal, para 'revisão'.", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.7, "promessa_sarcasmo_e_humor": 0.5 } }
+        {
+          "text": "🧘 Um kit de meditação para encontrar a 'paz' interior.",
+          "points": {
+            "promessa_paz_interior": 0.0436,
+            "promessa_sarcasmo_e_humor": 0.0698,
+            "promessa_engajamento_civico": 0.0734,
+            "promessa_liberdade": 0.0043,
+            "promessa_celebracao_epica": 0.0052,
+            "promessa_mudanca_radical": 0.0045,
+            "promessa_gastronomica": 0.0072,
+            "promessa_viagem_sonhada": 0.0112
+          }
+        },
+        {
+          "text": "🍕 Uma pizza brotinho (pra ele se sentir em casa).",
+          "points": {
+            "promessa_gastronomica": 0.0823,
+            "promessa_celebracao_epica": 0.059,
+            "promessa_sarcasmo_e_humor": 0.1036,
+            "promessa_liberdade": 0.0042,
+            "promessa_mudanca_radical": 0.0042,
+            "promessa_engajamento_civico": 0.005,
+            "promessa_paz_interior": 0.0037,
+            "promessa_viagem_sonhada": 0.0108
+          }
+        },
+        {
+          "text": "✈️ Um mapa-múndi, pra ele sonhar com viagens que não fará.",
+          "points": {
+            "promessa_viagem_sonhada": 0.1249,
+            "promessa_liberdade": 0.0577,
+            "promessa_sarcasmo_e_humor": 0.115,
+            "promessa_celebracao_epica": 0.0047,
+            "promessa_mudanca_radical": 0.0039,
+            "promessa_engajamento_civico": 0.0047,
+            "promessa_gastronomica": 0.0064,
+            "promessa_paz_interior": 0.0034
+          }
+        },
+        {
+          "text": "🔄 Uma cópia da Constituição Federal, para 'revisão'.",
+          "points": {
+            "promessa_engajamento_civico": 0.0597,
+            "promessa_mudanca_radical": 0.0681,
+            "promessa_sarcasmo_e_humor": 0.0905,
+            "promessa_liberdade": 0.0044,
+            "promessa_celebracao_epica": 0.0053,
+            "promessa_gastronomica": 0.0073,
+            "promessa_paz_interior": 0.0038,
+            "promessa_viagem_sonhada": 0.0112
+          }
+        }
       ]
     },
     {
       "question": "Qual seria o *soundtrack* perfeito para o dia da prisão?",
       "answers": [
-        { "text": "🎉 'Tá na hora do Jair já ir embora!' (clássico do carnaval)", "points": { "promessa_celebracao_epica": 1, "promessa_sarcasmo_e_humor": 0.8, "promessa_liberdade": 0.6 } },
-        { "text": "🕊️ 'Imagine' do John Lennon, pra um mundo sem ódio.", "points": { "promessa_paz_interior": 1, "promessa_liberdade": 0.9, "promessa_engajamento_civico": 0.5 } },
-        { "text": "😏 'Sai da Minha Rua' do Raimundos, com a devida licença poética.", "points": { "promessa_sarcasmo_e_humor": 1, "promessa_celebracao_epica": 0.7, "promessa_mudanca_radical": 0.4 } },
-        { "text": "🔄 Um bom e velho 'hino nacional' (cantado com fervor renovado).", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.8, "promessa_paz_interior": 0.3 } }
+        {
+          "text": "🎉 'Tá na hora do Jair já ir embora!' (clássico do carnaval)",
+          "points": {
+            "promessa_celebracao_epica": 0.0615,
+            "promessa_sarcasmo_e_humor": 0.0648,
+            "promessa_liberdade": 0.114,
+            "promessa_mudanca_radical": 0.0044,
+            "promessa_engajamento_civico": 0.0052,
+            "promessa_gastronomica": 0.0073,
+            "promessa_paz_interior": 0.0038,
+            "promessa_viagem_sonhada": 0.0113
+          }
+        },
+        {
+          "text": "🕊️ 'Imagine' do John Lennon, pra um mundo sem ódio.",
+          "points": {
+            "promessa_paz_interior": 0.0436,
+            "promessa_liberdade": 0.083,
+            "promessa_engajamento_civico": 0.1247,
+            "promessa_celebracao_epica": 0.0051,
+            "promessa_mudanca_radical": 0.0043,
+            "promessa_gastronomica": 0.007,
+            "promessa_viagem_sonhada": 0.0107,
+            "promessa_sarcasmo_e_humor": 0.0039
+          }
+        },
+        {
+          "text": "😏 'Sai da Minha Rua' do Raimundos, com a devida licença poética.",
+          "points": {
+            "promessa_sarcasmo_e_humor": 0.0456,
+            "promessa_celebracao_epica": 0.0855,
+            "promessa_mudanca_radical": 0.0869,
+            "promessa_liberdade": 0.0043,
+            "promessa_engajamento_civico": 0.005,
+            "promessa_gastronomica": 0.007,
+            "promessa_paz_interior": 0.0037,
+            "promessa_viagem_sonhada": 0.0109
+          }
+        },
+        {
+          "text": "🔄 Um bom e velho 'hino nacional' (cantado com fervor renovado).",
+          "points": {
+            "promessa_engajamento_civico": 0.0597,
+            "promessa_mudanca_radical": 0.0805,
+            "promessa_paz_interior": 0.068,
+            "promessa_liberdade": 0.0045,
+            "promessa_celebracao_epica": 0.0053,
+            "promessa_gastronomica": 0.0071,
+            "promessa_viagem_sonhada": 0.0111,
+            "promessa_sarcasmo_e_humor": 0.004
+          }
+        }
       ]
     },
     {
       "question": "No dia da notícia, qual rede social você abriria primeiro?",
       "answers": [
-        { "text": "😏 Twitter (pra ver a zoeira e as threads infinitas).", "points": { "promessa_sarcasmo_e_humor": 1, "promessa_celebracao_epica": 0.6, "promessa_engajamento_civico": 0.3 } },
-        { "text": "🎉 Instagram (pra postar uma foto comemorando ou um story divertido).", "points": { "promessa_celebracao_epica": 1, "promessa_gastronomica": 0.5, "promessa_viagem_sonhada": 0.2 } },
-        { "text": "🏛️ Facebook (pra compartilhar análises políticas sérias).", "points": { "promessa_engajamento_civico": 1, "promessa_paz_interior": 0.4, "promessa_mudanca_radical": 0.7 } },
-        { "text": "🧘 WhatsApp (pra mandar figurinhas e áudios pra família).", "points": { "promessa_paz_interior": 1, "promessa_liberdade": 0.3, "promessa_gastronomica": 0.6 } }
+        {
+          "text": "😏 Twitter (pra ver a zoeira e as threads infinitas).",
+          "points": {
+            "promessa_sarcasmo_e_humor": 0.0456,
+            "promessa_celebracao_epica": 0.0802,
+            "promessa_engajamento_civico": 0.0838,
+            "promessa_liberdade": 0.004,
+            "promessa_mudanca_radical": 0.004,
+            "promessa_gastronomica": 0.0065,
+            "promessa_paz_interior": 0.0035,
+            "promessa_viagem_sonhada": 0.0103
+          }
+        },
+        {
+          "text": "🎉 Instagram (pra postar uma foto comemorando ou um story divertido).",
+          "points": {
+            "promessa_celebracao_epica": 0.0615,
+            "promessa_gastronomica": 0.0942,
+            "promessa_viagem_sonhada": 0.117,
+            "promessa_liberdade": 0.0029,
+            "promessa_mudanca_radical": 0.0029,
+            "promessa_engajamento_civico": 0.0034,
+            "promessa_paz_interior": 0.0026,
+            "promessa_sarcasmo_e_humor": 0.0028
+          }
+        },
+        {
+          "text": "🏛️ Facebook (pra compartilhar análises políticas sérias).",
+          "points": {
+            "promessa_engajamento_civico": 0.0597,
+            "promessa_paz_interior": 0.0349,
+            "promessa_mudanca_radical": 0.1062,
+            "promessa_liberdade": 0.0045,
+            "promessa_celebracao_epica": 0.0055,
+            "promessa_gastronomica": 0.0074,
+            "promessa_viagem_sonhada": 0.0114,
+            "promessa_sarcasmo_e_humor": 0.0041
+          }
+        },
+        {
+          "text": "🧘 WhatsApp (pra mandar figurinhas e áudios pra família).",
+          "points": {
+            "promessa_paz_interior": 0.0436,
+            "promessa_liberdade": 0.0335,
+            "promessa_gastronomica": 0.1483,
+            "promessa_celebracao_epica": 0.0045,
+            "promessa_mudanca_radical": 0.0038,
+            "promessa_engajamento_civico": 0.0046,
+            "promessa_viagem_sonhada": 0.0096,
+            "promessa_sarcasmo_e_humor": 0.0035
+          }
+        }
       ]
     },
     {
       "question": "Qual seria seu destino de 'fuga' imediata após a notícia?",
       "answers": [
-        { "text": "✈️ Uma praia paradisíaca, pra nunca mais ver a cara dele.", "points": { "promessa_viagem_sonhada": 1, "promessa_liberdade": 0.8, "promessa_paz_interior": 0.6 } },
-        { "text": "🍕 A cozinha, pra preparar algo delicioso e afogar as mágoas (ou celebrar!).", "points": { "promessa_gastronomica": 1, "promessa_celebracao_epica": 0.7, "promessa_paz_interior": 0.4 } },
-        { "text": "🕊️ O sofá, pra um dia de preguiça e alívio total.", "points": { "promessa_liberdade": 1, "promessa_paz_interior": 0.9, "promessa_sarcasmo_e_humor": 0.2 } },
-        { "text": "🔄 Um curso online sobre 'Reconstrução Nacional'.", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.9, "promessa_sarcasmo_e_humor": 0.1 } }
+        {
+          "text": "✈️ Uma praia paradisíaca, pra nunca mais ver a cara dele.",
+          "points": {
+            "promessa_viagem_sonhada": 0.1249,
+            "promessa_liberdade": 0.0783,
+            "promessa_paz_interior": 0.0923,
+            "promessa_celebracao_epica": 0.0045,
+            "promessa_mudanca_radical": 0.0038,
+            "promessa_engajamento_civico": 0.0045,
+            "promessa_gastronomica": 0.0062,
+            "promessa_sarcasmo_e_humor": 0.0035
+          }
+        },
+        {
+          "text": "🍕 A cozinha, pra preparar algo delicioso e afogar as mágoas (ou celebrar!).",
+          "points": {
+            "promessa_gastronomica": 0.0823,
+            "promessa_celebracao_epica": 0.0873,
+            "promessa_paz_interior": 0.0715,
+            "promessa_liberdade": 0.0039,
+            "promessa_mudanca_radical": 0.004,
+            "promessa_engajamento_civico": 0.0047,
+            "promessa_viagem_sonhada": 0.0099,
+            "promessa_sarcasmo_e_humor": 0.0036
+          }
+        },
+        {
+          "text": "🕊️ O sofá, pra um dia de preguiça e alívio total.",
+          "points": {
+            "promessa_liberdade": 0.0514,
+            "promessa_paz_interior": 0.078,
+            "promessa_sarcasmo_e_humor": 0.0595,
+            "promessa_celebracao_epica": 0.0056,
+            "promessa_mudanca_radical": 0.0047,
+            "promessa_engajamento_civico": 0.0056,
+            "promessa_gastronomica": 0.0079,
+            "promessa_viagem_sonhada": 0.012
+          }
+        },
+        {
+          "text": "🔄 Um curso online sobre 'Reconstrução Nacional'.",
+          "points": {
+            "promessa_engajamento_civico": 0.0597,
+            "promessa_mudanca_radical": 0.0947,
+            "promessa_sarcasmo_e_humor": 0.0359,
+            "promessa_liberdade": 0.0046,
+            "promessa_celebracao_epica": 0.0054,
+            "promessa_gastronomica": 0.0074,
+            "promessa_paz_interior": 0.004,
+            "promessa_viagem_sonhada": 0.0116
+          }
+        }
       ]
     },
     {
       "question": "Qual a primeira frase que sairia da sua boca, após confirmar a notícia?",
       "answers": [
-        { "text": "😏 'Bem-feito! Era só questão de tempo.'", "points": { "promessa_sarcasmo_e_humor": 1, "promessa_mudanca_radical": 0.7, "promessa_celebracao_epica": 0.5 } },
-        { "text": "🎉 'Alô, galera! A festa é na minha casa!'", "points": { "promessa_celebracao_epica": 1, "promessa_gastronomica": 0.6, "promessa_liberdade": 0.4 } },
-        { "text": "🧘 'A humanidade tem salvação!'", "points": { "promessa_paz_interior": 1, "promessa_liberdade": 0.8, "promessa_engajamento_civico": 0.5 } },
-        { "text": "🏛️ 'Agora é hora de trabalhar para um futuro melhor.'", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.9, "promessa_paz_interior": 0.3 } }
+        {
+          "text": "😏 'Bem-feito! Era só questão de tempo.'",
+          "points": {
+            "promessa_sarcasmo_e_humor": 0.0456,
+            "promessa_mudanca_radical": 0.0684,
+            "promessa_celebracao_epica": 0.1232,
+            "promessa_liberdade": 0.0041,
+            "promessa_engajamento_civico": 0.0049,
+            "promessa_gastronomica": 0.0067,
+            "promessa_paz_interior": 0.0036,
+            "promessa_viagem_sonhada": 0.0106
+          }
+        },
+        {
+          "text": "🎉 'Alô, galera! A festa é na minha casa!'",
+          "points": {
+            "promessa_celebracao_epica": 0.0615,
+            "promessa_gastronomica": 0.0992,
+            "promessa_liberdade": 0.082,
+            "promessa_mudanca_radical": 0.0037,
+            "promessa_engajamento_civico": 0.0044,
+            "promessa_paz_interior": 0.0032,
+            "promessa_viagem_sonhada": 0.0095,
+            "promessa_sarcasmo_e_humor": 0.0035
+          }
+        },
+        {
+          "text": "🧘 'A humanidade tem salvação!'",
+          "points": {
+            "promessa_paz_interior": 0.0436,
+            "promessa_liberdade": 0.0762,
+            "promessa_engajamento_civico": 0.121,
+            "promessa_celebracao_epica": 0.0051,
+            "promessa_mudanca_radical": 0.0043,
+            "promessa_gastronomica": 0.007,
+            "promessa_viagem_sonhada": 0.0107,
+            "promessa_sarcasmo_e_humor": 0.0038
+          }
+        },
+        {
+          "text": "🏛️ 'Agora é hora de trabalhar para um futuro melhor.'",
+          "points": {
+            "promessa_engajamento_civico": 0.0597,
+            "promessa_mudanca_radical": 0.0873,
+            "promessa_paz_interior": 0.07,
+            "promessa_liberdade": 0.0045,
+            "promessa_celebracao_epica": 0.0054,
+            "promessa_gastronomica": 0.0073,
+            "promessa_viagem_sonhada": 0.0111,
+            "promessa_sarcasmo_e_humor": 0.0041
+          }
+        }
       ]
     },
     {
       "question": "Qual seria sua 'oferenda' pessoal para o universo em agradecimento?",
       "answers": [
-        { "text": "🔄 Doar minhas roupas velhas, pra um novo ciclo de vida.", "points": { "promessa_mudanca_radical": 1, "promessa_liberdade": 0.7, "promessa_paz_interior": 0.4 } },
-        { "text": "🍕 Pedir um delivery de tudo que tenho direito, sem culpa.", "points": { "promessa_gastronomica": 1, "promessa_celebracao_epica": 0.8, "promessa_sarcasmo_e_humor": 0.3 } },
-        { "text": "✈️ Comprar uma passagem só de ida (sem destino certo, talvez).", "points": { "promessa_viagem_sonhada": 1, "promessa_liberdade": 0.9, "promessa_mudanca_radical": 0.6 } },
-        { "text": "🧘 Um minuto de silêncio (ou de gritos de alegria controlados).", "points": { "promessa_paz_interior": 1, "promessa_liberdade": 0.5, "promessa_sarcasmo_e_humor": 0.2 } }
+        {
+          "text": "🔄 Doar minhas roupas velhas, pra um novo ciclo de vida.",
+          "points": {
+            "promessa_mudanca_radical": 0.0511,
+            "promessa_liberdade": 0.0733,
+            "promessa_paz_interior": 0.0774,
+            "promessa_celebracao_epica": 0.0053,
+            "promessa_engajamento_civico": 0.0052,
+            "promessa_gastronomica": 0.0074,
+            "promessa_viagem_sonhada": 0.0113,
+            "promessa_sarcasmo_e_humor": 0.0041
+          }
+        },
+        {
+          "text": "🍕 Pedir um delivery de tudo que tenho direito, sem culpa.",
+          "points": {
+            "promessa_gastronomica": 0.0823,
+            "promessa_celebracao_epica": 0.0994,
+            "promessa_sarcasmo_e_humor": 0.0643,
+            "promessa_liberdade": 0.0038,
+            "promessa_mudanca_radical": 0.0039,
+            "promessa_engajamento_civico": 0.0046,
+            "promessa_paz_interior": 0.0034,
+            "promessa_viagem_sonhada": 0.0099
+          }
+        },
+        {
+          "text": "✈️ Comprar uma passagem só de ida (sem destino certo, talvez).",
+          "points": {
+            "promessa_viagem_sonhada": 0.1249,
+            "promessa_liberdade": 0.0846,
+            "promessa_mudanca_radical": 0.1094,
+            "promessa_celebracao_epica": 0.0044,
+            "promessa_engajamento_civico": 0.0043,
+            "promessa_gastronomica": 0.006,
+            "promessa_paz_interior": 0.0032,
+            "promessa_sarcasmo_e_humor": 0.0034
+          }
+        },
+        {
+          "text": "🧘 Um minuto de silêncio (ou de gritos de alegria controlados).",
+          "points": {
+            "promessa_paz_interior": 0.0436,
+            "promessa_liberdade": 0.064,
+            "promessa_sarcasmo_e_humor": 0.0518,
+            "promessa_celebracao_epica": 0.0053,
+            "promessa_mudanca_radical": 0.0045,
+            "promessa_engajamento_civico": 0.0053,
+            "promessa_gastronomica": 0.0074,
+            "promessa_viagem_sonhada": 0.0114
+          }
+        }
       ]
     },
     {
       "question": "Por fim, qual o seu sentimento predominante após a prisão?",
       "answers": [
-        { "text": "🎉 Euforia e vontade de comemorar por uma semana.", "points": { "promessa_celebracao_epica": 1, "promessa_sarcasmo_e_humor": 0.7, "promessa_gastronomica": 0.5 } },
-        { "text": "🕊️ Alívio e a sensação de um peso tirado das costas.", "points": { "promessa_liberdade": 1, "promessa_paz_interior": 0.9, "promessa_viagem_sonhada": 0.6 } },
-        { "text": "🏛️ Esperança renovada para o futuro do país.", "points": { "promessa_engajamento_civico": 1, "promessa_mudanca_radical": 0.8, "promessa_paz_interior": 0.4 } },
-        { "text": "😏 Um misto de 'eu avisei' com um toque de 'agora vai, será?'", "points": { "promessa_sarcasmo_e_humor": 1, "promessa_mudanca_radical": 0.7, "promessa_engajamento_civico": 0.3 } }
+        {
+          "text": "🎉 Euforia e vontade de comemorar por uma semana.",
+          "points": {
+            "promessa_celebracao_epica": 0.0615,
+            "promessa_sarcasmo_e_humor": 0.059,
+            "promessa_gastronomica": 0.1539,
+            "promessa_liberdade": 0.0037,
+            "promessa_mudanca_radical": 0.0037,
+            "promessa_engajamento_civico": 0.0044,
+            "promessa_paz_interior": 0.0032,
+            "promessa_viagem_sonhada": 0.0094
+          }
+        },
+        {
+          "text": "🕊️ Alívio e a sensação de um peso tirado das costas.",
+          "points": {
+            "promessa_liberdade": 0.0514,
+            "promessa_paz_interior": 0.0657,
+            "promessa_viagem_sonhada": 0.2644,
+            "promessa_celebracao_epica": 0.0038,
+            "promessa_mudanca_radical": 0.0031,
+            "promessa_engajamento_civico": 0.0037,
+            "promessa_gastronomica": 0.0052,
+            "promessa_sarcasmo_e_humor": 0.0028
+          }
+        },
+        {
+          "text": "🏛️ Esperança renovada para o futuro do país.",
+          "points": {
+            "promessa_engajamento_civico": 0.0597,
+            "promessa_mudanca_radical": 0.0777,
+            "promessa_paz_interior": 0.0798,
+            "promessa_liberdade": 0.0045,
+            "promessa_celebracao_epica": 0.0054,
+            "promessa_gastronomica": 0.0073,
+            "promessa_viagem_sonhada": 0.0112,
+            "promessa_sarcasmo_e_humor": 0.004
+          }
+        },
+        {
+          "text": "😏 Um misto de 'eu avisei' com um toque de 'agora vai, será?'",
+          "points": {
+            "promessa_sarcasmo_e_humor": 0.0456,
+            "promessa_mudanca_radical": 0.074,
+            "promessa_engajamento_civico": 0.0914,
+            "promessa_liberdade": 0.0042,
+            "promessa_celebracao_epica": 0.0051,
+            "promessa_gastronomica": 0.0068,
+            "promessa_paz_interior": 0.0036,
+            "promessa_viagem_sonhada": 0.0107
+          }
+        }
       ]
     }
   ],
