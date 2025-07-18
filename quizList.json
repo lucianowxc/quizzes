@@ -422,7 +422,7 @@
     },
     {
       "name": "Qual promessa você fez pra quando o Bolsonaro fosse preso?",
-      "file": "quizzes/quizPromessaBolsonaro.json",
+      "file": "quizzes/quizBolsonaroPreso.json",
       "description": "Descubra qual a sua promessa mais aguardada (e divertida!) para o dia em que o ex-presidente for preso."
     }
   ]
