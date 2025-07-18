@@ -419,6 +419,11 @@
       "name": "Qual Umamusume Clássica da Treamen Team Você É?",
       "file": "quizzes/quizUmamusume.json",
       "description": "Descubra qual das estrelas originais de Umamusume compartilha sua personalidade e estilo!"
+    },
+    {
+      "name": "Qual promessa você fez pra quando o Bolsonaro fosse preso?",
+      "file": "quizzes/quizPromessaBolsonaro.json",
+      "description": "Descubra qual a sua promessa mais aguardada (e divertida!) para o dia em que o ex-presidente for preso."
     }
   ]
 }
