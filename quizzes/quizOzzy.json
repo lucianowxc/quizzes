@@ -5,71 +5,491 @@
     {
       "question": "Quando a vida te joga um desafio inesperado, qual é a sua primeira reação?",
       "answers": [
-        { "text": "Entrar de cabeça e transformar o caos em energia. 🌪️", "points": { "crazy_train": 1, "bark_at_the_moon": 0.5 } },
-        { "text": "Analisar a situação a fundo, buscando as causas e as implicações ocultas. 🕵️‍♂️", "points": { "mr_crowley": 1, "paranoid": 0.6 } },
-        { "text": "Buscar conforto e apoio nas pessoas que você confia. 🫂", "points": { "mama_im_coming_home": 1, "shot_in_the_dark": 0.4 } },
-        { "text": "Arregaçar as mangas e mostrar que você é mais forte do que qualquer obstáculo. 💪", "points": { "iron_man": 1, "no_more_tears": 0.7 } },
-        { "text": "Sinto uma pontada de ansiedade, mas logo me concentro em uma solução. 🤯", "points": { "paranoid": 1, "crazy_train": 0.3 } }
+        {
+          "text": "Entrar de cabeça e transformar o caos em energia. 🌪️",
+          "points": {
+            "crazy_train": 0.0758,
+            "bark_at_the_moon": 0.0849,
+            "mr_crowley": 0.0063,
+            "mama_im_coming_home": 0.0052,
+            "shot_in_the_dark": 0.005,
+            "iron_man": 0.0058,
+            "no_more_tears": 0.0049,
+            "paranoid": 0.0047
+          }
+        },
+        {
+          "text": "Analisar a situação a fundo, buscando as causas e as implicações ocultas. 🕵️‍♂️",
+          "points": {
+            "mr_crowley": 0.0866,
+            "paranoid": 0.0837,
+            "crazy_train": 0.0057,
+            "mama_im_coming_home": 0.0053,
+            "bark_at_the_moon": 0.0048,
+            "shot_in_the_dark": 0.0052,
+            "iron_man": 0.006,
+            "no_more_tears": 0.005
+          }
+        },
+        {
+          "text": "Buscar conforto e apoio nas pessoas que você confia. 🫂",
+          "points": {
+            "mama_im_coming_home": 0.0711,
+            "shot_in_the_dark": 0.0785,
+            "crazy_train": 0.0055,
+            "mr_crowley": 0.0064,
+            "bark_at_the_moon": 0.0047,
+            "iron_man": 0.0058,
+            "no_more_tears": 0.0048,
+            "paranoid": 0.0046
+          }
+        },
+        {
+          "text": "Arregaçar as mangas e mostrar que você é mais forte do que qualquer obstáculo. 💪",
+          "points": {
+            "iron_man": 0.0752,
+            "no_more_tears": 0.099,
+            "crazy_train": 0.006,
+            "mr_crowley": 0.0068,
+            "mama_im_coming_home": 0.0057,
+            "bark_at_the_moon": 0.005,
+            "shot_in_the_dark": 0.0055,
+            "paranoid": 0.0049
+          }
+        },
+        {
+          "text": "Sinto uma pontada de ansiedade, mas logo me concentro em uma solução. 🤯",
+          "points": {
+            "paranoid": 0.0586,
+            "crazy_train": 0.0858,
+            "mr_crowley": 0.006,
+            "mama_im_coming_home": 0.005,
+            "bark_at_the_moon": 0.0044,
+            "shot_in_the_dark": 0.0048,
+            "iron_man": 0.0056,
+            "no_more_tears": 0.0048
+          }
+        }
       ]
     },
     {
       "question": "Qual é o seu refúgio preferido quando precisa recarregar as energias?",
       "answers": [
-        { "text": "Um show de rock vibrante, no meio da galera. 🤘", "points": { "crazy_train": 0.8, "bark_at_the_moon": 1 } },
-        { "text": "Um bom livro ou filme que me faça pensar e refletir. 📚", "points": { "mr_crowley": 1, "paranoid": 0.7 } },
-        { "text": "O abraço apertado de alguém querido, a sensação de estar em casa. 🏡", "points": { "mama_im_coming_home": 1, "shot_in_the_dark": 0.5 } },
-        { "text": "Um momento de superação pessoal, como um treino intenso ou um projeto desafiador. 🏆", "points": { "iron_man": 1, "no_more_tears": 0.8 } },
-        { "text": "Qualquer lugar onde eu possa sentir a liberdade e a natureza. 🌲", "points": { "bark_at_the_moon": 0.8, "crazy_train": 0.6 } }
+        {
+          "text": "Um show de rock vibrante, no meio da galera. 🤘",
+          "points": {
+            "crazy_train": 0.0608,
+            "bark_at_the_moon": 0.1127,
+            "mr_crowley": 0.0072,
+            "mama_im_coming_home": 0.0058,
+            "shot_in_the_dark": 0.0055,
+            "iron_man": 0.0065,
+            "no_more_tears": 0.0055,
+            "paranoid": 0.0051
+          }
+        },
+        {
+          "text": "Um bom livro ou filme que me faça pensar e refletir. 📚",
+          "points": {
+            "mr_crowley": 0.0866,
+            "paranoid": 0.0911,
+            "crazy_train": 0.0058,
+            "mama_im_coming_home": 0.0054,
+            "bark_at_the_moon": 0.0049,
+            "shot_in_the_dark": 0.0053,
+            "iron_man": 0.0061,
+            "no_more_tears": 0.0052
+          }
+        },
+        {
+          "text": "O abraço apertado de alguém querido, a sensação de estar em casa. 🏡",
+          "points": {
+            "mama_im_coming_home": 0.0711,
+            "shot_in_the_dark": 0.0881,
+            "crazy_train": 0.0056,
+            "mr_crowley": 0.0065,
+            "bark_at_the_moon": 0.0047,
+            "iron_man": 0.0058,
+            "no_more_tears": 0.0049,
+            "paranoid": 0.0047
+          }
+        },
+        {
+          "text": "Um momento de superação pessoal, como um treino intenso ou um projeto desafiador. 🏆",
+          "points": {
+            "iron_man": 0.0752,
+            "no_more_tears": 0.1066,
+            "crazy_train": 0.0062,
+            "mr_crowley": 0.007,
+            "mama_im_coming_home": 0.0059,
+            "bark_at_the_moon": 0.0052,
+            "shot_in_the_dark": 0.0055,
+            "paranoid": 0.005
+          }
+        },
+        {
+          "text": "Qualquer lugar onde eu possa sentir a liberdade e a natureza. 🌲",
+          "points": {
+            "bark_at_the_moon": 0.0501,
+            "crazy_train": 0.1077,
+            "mr_crowley": 0.006,
+            "mama_im_coming_home": 0.005,
+            "shot_in_the_dark": 0.0048,
+            "iron_man": 0.0056,
+            "no_more_tears": 0.0047,
+            "paranoid": 0.0045
+          }
+        }
       ]
     },
     {
       "question": "Qual traço de personalidade você mais se orgulha de ter?",
       "answers": [
-        { "text": "Minha originalidade e a forma única como vejo o mundo. ✨", "points": { "crazy_train": 0.7, "bark_at_the_moon": 0.9 } },
-        { "text": "Minha capacidade de desvendar mistérios e entender o 'porquê' das coisas. 🧠", "points": { "mr_crowley": 1, "paranoid": 0.8 } },
-        { "text": "Minha lealdade inabalável aos meus princípios e às pessoas que amo. ❤️", "points": { "mama_im_coming_home": 1, "iron_man": 0.6 } },
-        { "text": "Minha força de vontade para superar qualquer obstáculo. 🛡️", "points": { "iron_man": 1, "no_more_tears": 0.9 } },
-        { "text": "Meu otimismo e a esperança de que dias melhores virão. 🌅", "points": { "shot_in_the_dark": 1, "mama_im_coming_home": 0.7 } }
+        {
+          "text": "Minha originalidade e a forma única como vejo o mundo. ✨",
+          "points": {
+            "crazy_train": 0.0533,
+            "bark_at_the_moon": 0.1001,
+            "mr_crowley": 0.007,
+            "mama_im_coming_home": 0.0058,
+            "shot_in_the_dark": 0.0054,
+            "iron_man": 0.0063,
+            "no_more_tears": 0.0054,
+            "paranoid": 0.005
+          }
+        },
+        {
+          "text": "Minha capacidade de desvendar mistérios e entender o 'porquê' das coisas. 🧠",
+          "points": {
+            "mr_crowley": 0.0866,
+            "paranoid": 0.0982,
+            "crazy_train": 0.006,
+            "mama_im_coming_home": 0.0056,
+            "bark_at_the_moon": 0.005,
+            "shot_in_the_dark": 0.0054,
+            "iron_man": 0.0063,
+            "no_more_tears": 0.0053
+          }
+        },
+        {
+          "text": "Minha lealdade inabalável aos meus princípios e às pessoas que amo. ❤️",
+          "points": {
+            "mama_im_coming_home": 0.0711,
+            "iron_man": 0.1111,
+            "crazy_train": 0.0053,
+            "mr_crowley": 0.0062,
+            "bark_at_the_moon": 0.0045,
+            "shot_in_the_dark": 0.0049,
+            "no_more_tears": 0.0048,
+            "paranoid": 0.0045
+          }
+        },
+        {
+          "text": "Minha força de vontade para superar qualquer obstáculo. 🛡️",
+          "points": {
+            "iron_man": 0.0752,
+            "no_more_tears": 0.114,
+            "crazy_train": 0.0062,
+            "mr_crowley": 0.0071,
+            "mama_im_coming_home": 0.0059,
+            "bark_at_the_moon": 0.0052,
+            "shot_in_the_dark": 0.0057,
+            "paranoid": 0.005
+          }
+        },
+        {
+          "text": "Meu otimismo e a esperança de que dias melhores virão. 🌅",
+          "points": {
+            "shot_in_the_dark": 0.0659,
+            "mama_im_coming_home": 0.1251,
+            "crazy_train": 0.0054,
+            "mr_crowley": 0.0064,
+            "bark_at_the_moon": 0.0045,
+            "iron_man": 0.0057,
+            "no_more_tears": 0.0048,
+            "paranoid": 0.0045
+          }
+        }
       ]
     },
     {
       "question": "Quando se trata de fazer planos, você prefere...",
       "answers": [
-        { "text": "Ter um roteiro bem definido, mas estar aberto a desvios emocionantes. 🗺️", "points": { "crazy_train": 0.7, "bark_at_the_moon": 0.8 } },
-        { "text": "Analisar todas as variáveis e possíveis resultados antes de decidir. 📊", "points": { "mr_crowley": 1, "paranoid": 0.9 } },
-        { "text": "Priorizar o conforto e a segurança, mesmo que signifique menos aventura. 🛋️", "points": { "mama_im_coming_home": 1, "iron_man": 0.5 } },
-        { "text": "Ir com a intuição e deixar a vida te levar, sem muitos planos. 🍃", "points": { "bark_at_the_moon": 1, "shot_in_the_dark": 0.7 } },
-        { "text": "Estabelecer metas ambiciosas e traçar um plano de ação para alcançá-las. 🎯", "points": { "iron_man": 1, "no_more_tears": 0.8 } }
+        {
+          "text": "Ter um roteiro bem definido, mas estar aberto a desvios emocionantes. 🗺️",
+          "points": {
+            "crazy_train": 0.0533,
+            "bark_at_the_moon": 0.0931,
+            "mr_crowley": 0.0069,
+            "mama_im_coming_home": 0.0057,
+            "shot_in_the_dark": 0.0052,
+            "iron_man": 0.0061,
+            "no_more_tears": 0.0053,
+            "paranoid": 0.0049
+          }
+        },
+        {
+          "text": "Analisar todas as variáveis e possíveis resultados antes de decidir. 📊",
+          "points": {
+            "mr_crowley": 0.0866,
+            "paranoid": 0.1051,
+            "crazy_train": 0.0061,
+            "mama_im_coming_home": 0.0057,
+            "bark_at_the_moon": 0.0051,
+            "shot_in_the_dark": 0.0056,
+            "iron_man": 0.0063,
+            "no_more_tears": 0.0054
+          }
+        },
+        {
+          "text": "Priorizar o conforto e a segurança, mesmo que signifique menos aventura. 🛋️",
+          "points": {
+            "mama_im_coming_home": 0.0711,
+            "iron_man": 0.101,
+            "crazy_train": 0.0052,
+            "mr_crowley": 0.0061,
+            "bark_at_the_moon": 0.0045,
+            "shot_in_the_dark": 0.0048,
+            "no_more_tears": 0.0047,
+            "paranoid": 0.0045
+          }
+        },
+        {
+          "text": "Ir com a intuição e deixar a vida te levar, sem muitos planos. 🍃",
+          "points": {
+            "bark_at_the_moon": 0.0624,
+            "shot_in_the_dark": 0.1129,
+            "crazy_train": 0.0059,
+            "mr_crowley": 0.0069,
+            "mama_im_coming_home": 0.0056,
+            "iron_man": 0.006,
+            "no_more_tears": 0.0052,
+            "paranoid": 0.0048
+          }
+        },
+        {
+          "text": "Estabelecer metas ambiciosas e traçar um plano de ação para alcançá-las. 🎯",
+          "points": {
+            "iron_man": 0.0752,
+            "no_more_tears": 0.1066,
+            "crazy_train": 0.0062,
+            "mr_crowley": 0.007,
+            "mama_im_coming_home": 0.0059,
+            "bark_at_the_moon": 0.0052,
+            "shot_in_the_dark": 0.0055,
+            "paranoid": 0.005
+          }
+        }
       ]
     },
     {
       "question": "Qual destas frases mais te representa?",
       "answers": [
-        { "text": "A vida é uma montanha-russa, e eu adoro a adrenalina! 🎢", "points": { "crazy_train": 1, "bark_at_the_moon": 0.6 } },
-        { "text": "O conhecimento é poder, e eu busco desvendar os mistérios do universo. 🌌", "points": { "mr_crowley": 1, "paranoid": 0.8 } },
-        { "text": "Onde há amor e carinho, ali está o meu lar. ❤️", "points": { "mama_im_coming_home": 1, "shot_in_the_dark": 0.5 } },
-        { "text": "Sou inquebrável, e cada cicatriz é uma prova da minha força. ⚔️", "points": { "iron_man": 1, "no_more_tears": 0.9 } },
-        { "text": "Mesmo na escuridão, a esperança é a última que morre. ✨", "points": { "shot_in_the_dark": 1, "mama_im_coming_home": 0.7 } }
+        {
+          "text": "A vida é uma montanha-russa, e eu adoro a adrenalina! 🎢",
+          "points": {
+            "crazy_train": 0.0758,
+            "bark_at_the_moon": 0.0934,
+            "mr_crowley": 0.0065,
+            "mama_im_coming_home": 0.0053,
+            "shot_in_the_dark": 0.005,
+            "iron_man": 0.0058,
+            "no_more_tears": 0.0051,
+            "paranoid": 0.0047
+          }
+        },
+        {
+          "text": "O conhecimento é poder, e eu busco desvendar os mistérios do universo. 🌌",
+          "points": {
+            "mr_crowley": 0.0866,
+            "paranoid": 0.0982,
+            "crazy_train": 0.006,
+            "mama_im_coming_home": 0.0056,
+            "bark_at_the_moon": 0.005,
+            "shot_in_the_dark": 0.0054,
+            "iron_man": 0.0063,
+            "no_more_tears": 0.0053
+          }
+        },
+        {
+          "text": "Onde há amor e carinho, ali está o meu lar. ❤️",
+          "points": {
+            "mama_im_coming_home": 0.0711,
+            "shot_in_the_dark": 0.0881,
+            "crazy_train": 0.0056,
+            "mr_crowley": 0.0065,
+            "bark_at_the_moon": 0.0047,
+            "iron_man": 0.0058,
+            "no_more_tears": 0.0049,
+            "paranoid": 0.0047
+          }
+        },
+        {
+          "text": "Sou inquebrável, e cada cicatriz é uma prova da minha força. ⚔️",
+          "points": {
+            "iron_man": 0.0752,
+            "no_more_tears": 0.114,
+            "crazy_train": 0.0062,
+            "mr_crowley": 0.0071,
+            "mama_im_coming_home": 0.0059,
+            "bark_at_the_moon": 0.0052,
+            "shot_in_the_dark": 0.0057,
+            "paranoid": 0.005
+          }
+        },
+        {
+          "text": "Mesmo na escuridão, a esperança é a última que morre. ✨",
+          "points": {
+            "shot_in_the_dark": 0.0659,
+            "mama_im_coming_home": 0.1251,
+            "crazy_train": 0.0054,
+            "mr_crowley": 0.0064,
+            "bark_at_the_moon": 0.0045,
+            "iron_man": 0.0057,
+            "no_more_tears": 0.0048,
+            "paranoid": 0.0045
+          }
+        }
       ]
     },
     {
       "question": "Qual tipo de filme ou série mais te agrada?",
       "answers": [
-        { "text": "Filmes de ação e aventura, com muita explosão e reviravoltas. 💥", "points": { "crazy_train": 0.8, "bark_at_the_moon": 0.7 } },
-        { "text": "Suspenses psicológicos e dramas complexos que te fazem pensar. 🕵️‍♀️", "points": { "mr_crowley": 1, "paranoid": 0.9 } },
-        { "text": "Comédias românticas ou filmes emocionantes que tocam o coração. 💖", "points": { "mama_im_coming_home": 1, "shot_in_the_dark": 0.6 } },
-        { "text": "Filmes de super-heróis ou histórias de superação e resiliência. 🦸‍♂️", "points": { "iron_man": 1, "no_more_tears": 0.8 } },
-        { "text": "Documentários sobre natureza ou sobre o comportamento humano. 🌍", "points": { "paranoid": 0.7, "mr_crowley": 0.5 } }
+        {
+          "text": "Filmes de ação e aventura, com muita explosão e reviravoltas. 💥",
+          "points": {
+            "crazy_train": 0.0608,
+            "bark_at_the_moon": 0.0913,
+            "mr_crowley": 0.0067,
+            "mama_im_coming_home": 0.0055,
+            "shot_in_the_dark": 0.0051,
+            "iron_man": 0.006,
+            "no_more_tears": 0.0052,
+            "paranoid": 0.0048
+          }
+        },
+        {
+          "text": "Suspenses psicológicos e dramas complexos que te fazem pensar. 🕵️‍♀️",
+          "points": {
+            "mr_crowley": 0.0866,
+            "paranoid": 0.1051,
+            "crazy_train": 0.0061,
+            "mama_im_coming_home": 0.0057,
+            "bark_at_the_moon": 0.0051,
+            "shot_in_the_dark": 0.0056,
+            "iron_man": 0.0063,
+            "no_more_tears": 0.0054
+          }
+        },
+        {
+          "text": "Comédias românticas ou filmes emocionantes que tocam o coração. 💖",
+          "points": {
+            "mama_im_coming_home": 0.0711,
+            "shot_in_the_dark": 0.0969,
+            "crazy_train": 0.0057,
+            "mr_crowley": 0.0067,
+            "bark_at_the_moon": 0.0048,
+            "iron_man": 0.0059,
+            "no_more_tears": 0.005,
+            "paranoid": 0.0047
+          }
+        },
+        {
+          "text": "Filmes de super-heróis ou histórias de superação e resiliência. 🦸‍♂️",
+          "points": {
+            "iron_man": 0.0752,
+            "no_more_tears": 0.1066,
+            "crazy_train": 0.0062,
+            "mr_crowley": 0.007,
+            "mama_im_coming_home": 0.0059,
+            "bark_at_the_moon": 0.0052,
+            "shot_in_the_dark": 0.0055,
+            "paranoid": 0.005
+          }
+        },
+        {
+          "text": "Documentários sobre natureza ou sobre o comportamento humano. 🌍",
+          "points": {
+            "paranoid": 0.0412,
+            "mr_crowley": 0.1045,
+            "crazy_train": 0.0048,
+            "mama_im_coming_home": 0.0046,
+            "bark_at_the_moon": 0.0041,
+            "shot_in_the_dark": 0.0045,
+            "iron_man": 0.0053,
+            "no_more_tears": 0.0045
+          }
+        }
       ]
     },
     {
       "question": "Se você pudesse ter um superpoder, qual escolheria?",
       "answers": [
-        { "text": "Controlar o tempo para tornar a vida mais emocionante. ⏳", "points": { "crazy_train": 1, "bark_at_the_moon": 0.6 } },
-        { "text": "Ler mentes para entender os segredos mais profundos. 🧠", "points": { "mr_crowley": 1, "paranoid": 0.8 } },
-        { "text": "Curar todas as feridas e trazer paz ao mundo. 🕊️", "points": { "mama_im_coming_home": 1, "shot_in_the_dark": 0.7 } },
-        { "text": "Ter uma força inabalável para superar qualquer obstáculo. 💪", "points": { "iron_man": 1, "no_more_tears": 0.9 } },
-        { "text": "Ter uma sorte infinita para sempre encontrar o melhor caminho. 🍀", "points": { "shot_in_the_dark": 1, "crazy_train": 0.4 } }
+        {
+          "text": "Controlar o tempo para tornar a vida mais emocionante. ⏳",
+          "points": {
+            "crazy_train": 0.0758,
+            "bark_at_the_moon": 0.0934,
+            "mr_crowley": 0.0065,
+            "mama_im_coming_home": 0.0053,
+            "shot_in_the_dark": 0.005,
+            "iron_man": 0.0058,
+            "no_more_tears": 0.0051,
+            "paranoid": 0.0047
+          }
+        },
+        {
+          "text": "Ler mentes para entender os segredos mais profundos. 🧠",
+          "points": {
+            "mr_crowley": 0.0866,
+            "paranoid": 0.0982,
+            "crazy_train": 0.006,
+            "mama_im_coming_home": 0.0056,
+            "bark_at_the_moon": 0.005,
+            "shot_in_the_dark": 0.0054,
+            "iron_man": 0.0063,
+            "no_more_tears": 0.0053
+          }
+        },
+        {
+          "text": "Curar todas as feridas e trazer paz ao mundo. 🕊️",
+          "points": {
+            "mama_im_coming_home": 0.0711,
+            "shot_in_the_dark": 0.1051,
+            "crazy_train": 0.0058,
+            "mr_crowley": 0.0069,
+            "bark_at_the_moon": 0.0049,
+            "iron_man": 0.006,
+            "no_more_tears": 0.005,
+            "paranoid": 0.0048
+          }
+        },
+        {
+          "text": "Ter uma força inabalável para superar qualquer obstáculo. 💪",
+          "points": {
+            "iron_man": 0.0752,
+            "no_more_tears": 0.114,
+            "crazy_train": 0.0062,
+            "mr_crowley": 0.0071,
+            "mama_im_coming_home": 0.0059,
+            "bark_at_the_moon": 0.0052,
+            "shot_in_the_dark": 0.0057,
+            "paranoid": 0.005
+          }
+        },
+        {
+          "text": "Ter uma sorte infinita para sempre encontrar o melhor caminho. 🍀",
+          "points": {
+            "shot_in_the_dark": 0.0659,
+            "crazy_train": 0.0988,
+            "mr_crowley": 0.0059,
+            "mama_im_coming_home": 0.0049,
+            "bark_at_the_moon": 0.0044,
+            "iron_man": 0.0053,
+            "no_more_tears": 0.0045,
+            "paranoid": 0.0044
+          }
+        }
       ]
     }
   ],
