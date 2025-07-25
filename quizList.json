@@ -424,6 +424,12 @@
       "name": "Qual promessa você fez pra quando o Bolsonaro fosse preso?",
       "file": "quizzes/quizBolsonaroPreso.json",
       "description": "Descubra qual a sua promessa mais aguardada (e divertida!) para o dia em que o ex-presidente for preso."
+    },
+    {
+      "name": "Qual Música do Ozzy Osbourne Você Seria?",
+      "file": "quizzes/quizOzzy.json",
+      "description": "Descubra qual hino do Madman ecoa mais com a sua alma neste quiz rock and roll!"
     }
+
   ]
 }
