@@ -1,0 +1,126 @@
+{
+  "title": "Qual Música do Ozzy Osbourne Você Seria?",
+  "subtitle": "Descubra qual hino do Madman ecoa mais com a sua alma!",
+  "questions": [
+    {
+      "question": "Quando a vida te joga um desafio inesperado, qual é a sua primeira reação?",
+      "answers": [
+        { "text": "Entrar de cabeça e transformar o caos em energia. 🌪️", "points": { "crazy_train": 1, "bark_at_the_moon": 0.5 } },
+        { "text": "Analisar a situação a fundo, buscando as causas e as implicações ocultas. 🕵️‍♂️", "points": { "mr_crowley": 1, "paranoid": 0.6 } },
+        { "text": "Buscar conforto e apoio nas pessoas que você confia. 🫂", "points": { "mama_im_coming_home": 1, "shot_in_the_dark": 0.4 } },
+        { "text": "Arregaçar as mangas e mostrar que você é mais forte do que qualquer obstáculo. 💪", "points": { "iron_man": 1, "no_more_tears": 0.7 } },
+        { "text": "Sinto uma pontada de ansiedade, mas logo me concentro em uma solução. 🤯", "points": { "paranoid": 1, "crazy_train": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu refúgio preferido quando precisa recarregar as energias?",
+      "answers": [
+        { "text": "Um show de rock vibrante, no meio da galera. 🤘", "points": { "crazy_train": 0.8, "bark_at_the_moon": 1 } },
+        { "text": "Um bom livro ou filme que me faça pensar e refletir. 📚", "points": { "mr_crowley": 1, "paranoid": 0.7 } },
+        { "text": "O abraço apertado de alguém querido, a sensação de estar em casa. 🏡", "points": { "mama_im_coming_home": 1, "shot_in_the_dark": 0.5 } },
+        { "text": "Um momento de superação pessoal, como um treino intenso ou um projeto desafiador. 🏆", "points": { "iron_man": 1, "no_more_tears": 0.8 } },
+        { "text": "Qualquer lugar onde eu possa sentir a liberdade e a natureza. 🌲", "points": { "bark_at_the_moon": 0.8, "crazy_train": 0.6 } }
+      ]
+    },
+    {
+      "question": "Qual traço de personalidade você mais se orgulha de ter?",
+      "answers": [
+        { "text": "Minha originalidade e a forma única como vejo o mundo. ✨", "points": { "crazy_train": 0.7, "bark_at_the_moon": 0.9 } },
+        { "text": "Minha capacidade de desvendar mistérios e entender o 'porquê' das coisas. 🧠", "points": { "mr_crowley": 1, "paranoid": 0.8 } },
+        { "text": "Minha lealdade inabalável aos meus princípios e às pessoas que amo. ❤️", "points": { "mama_im_coming_home": 1, "iron_man": 0.6 } },
+        { "text": "Minha força de vontade para superar qualquer obstáculo. 🛡️", "points": { "iron_man": 1, "no_more_tears": 0.9 } },
+        { "text": "Meu otimismo e a esperança de que dias melhores virão. 🌅", "points": { "shot_in_the_dark": 1, "mama_im_coming_home": 0.7 } }
+      ]
+    },
+    {
+      "question": "Quando se trata de fazer planos, você prefere...",
+      "answers": [
+        { "text": "Ter um roteiro bem definido, mas estar aberto a desvios emocionantes. 🗺️", "points": { "crazy_train": 0.7, "bark_at_the_moon": 0.8 } },
+        { "text": "Analisar todas as variáveis e possíveis resultados antes de decidir. 📊", "points": { "mr_crowley": 1, "paranoid": 0.9 } },
+        { "text": "Priorizar o conforto e a segurança, mesmo que signifique menos aventura. 🛋️", "points": { "mama_im_coming_home": 1, "iron_man": 0.5 } },
+        { "text": "Ir com a intuição e deixar a vida te levar, sem muitos planos. 🍃", "points": { "bark_at_the_moon": 1, "shot_in_the_dark": 0.7 } },
+        { "text": "Estabelecer metas ambiciosas e traçar um plano de ação para alcançá-las. 🎯", "points": { "iron_man": 1, "no_more_tears": 0.8 } }
+      ]
+    },
+    {
+      "question": "Qual destas frases mais te representa?",
+      "answers": [
+        { "text": "A vida é uma montanha-russa, e eu adoro a adrenalina! 🎢", "points": { "crazy_train": 1, "bark_at_the_moon": 0.6 } },
+        { "text": "O conhecimento é poder, e eu busco desvendar os mistérios do universo. 🌌", "points": { "mr_crowley": 1, "paranoid": 0.8 } },
+        { "text": "Onde há amor e carinho, ali está o meu lar. ❤️", "points": { "mama_im_coming_home": 1, "shot_in_the_dark": 0.5 } },
+        { "text": "Sou inquebrável, e cada cicatriz é uma prova da minha força. ⚔️", "points": { "iron_man": 1, "no_more_tears": 0.9 } },
+        { "text": "Mesmo na escuridão, a esperança é a última que morre. ✨", "points": { "shot_in_the_dark": 1, "mama_im_coming_home": 0.7 } }
+      ]
+    },
+    {
+      "question": "Qual tipo de filme ou série mais te agrada?",
+      "answers": [
+        { "text": "Filmes de ação e aventura, com muita explosão e reviravoltas. 💥", "points": { "crazy_train": 0.8, "bark_at_the_moon": 0.7 } },
+        { "text": "Suspenses psicológicos e dramas complexos que te fazem pensar. 🕵️‍♀️", "points": { "mr_crowley": 1, "paranoid": 0.9 } },
+        { "text": "Comédias românticas ou filmes emocionantes que tocam o coração. 💖", "points": { "mama_im_coming_home": 1, "shot_in_the_dark": 0.6 } },
+        { "text": "Filmes de super-heróis ou histórias de superação e resiliência. 🦸‍♂️", "points": { "iron_man": 1, "no_more_tears": 0.8 } },
+        { "text": "Documentários sobre natureza ou sobre o comportamento humano. 🌍", "points": { "paranoid": 0.7, "mr_crowley": 0.5 } }
+      ]
+    },
+    {
+      "question": "Se você pudesse ter um superpoder, qual escolheria?",
+      "answers": [
+        { "text": "Controlar o tempo para tornar a vida mais emocionante. ⏳", "points": { "crazy_train": 1, "bark_at_the_moon": 0.6 } },
+        { "text": "Ler mentes para entender os segredos mais profundos. 🧠", "points": { "mr_crowley": 1, "paranoid": 0.8 } },
+        { "text": "Curar todas as feridas e trazer paz ao mundo. 🕊️", "points": { "mama_im_coming_home": 1, "shot_in_the_dark": 0.7 } },
+        { "text": "Ter uma força inabalável para superar qualquer obstáculo. 💪", "points": { "iron_man": 1, "no_more_tears": 0.9 } },
+        { "text": "Ter uma sorte infinita para sempre encontrar o melhor caminho. 🍀", "points": { "shot_in_the_dark": 1, "crazy_train": 0.4 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "crazy_train": {
+      "title": "Crazy Train",
+      "emoji": "🚆",
+      "subtitle": "Você vive a vida em alta velocidade e adora uma boa loucura!",
+      "text": "Você é como 'Crazy Train': cheio de energia, imprevisível e sempre pronto para embarcar em uma jornada emocionante. Sua mente borbulha com ideias e você não tem medo de sair dos trilhos de vez em quando para explorar o desconhecido. A rotina te entedia, e você está sempre buscando o próximo grande momento de adrenalina. Cuidado para não descarrilar!"
+    },
+    "mr_crowley": {
+      "title": "Mr. Crowley",
+      "emoji": "🔮",
+      "subtitle": "Misterioso, introspectivo e com uma aura magnética.",
+      "text": "Assim como 'Mr. Crowley', você possui uma aura de mistério e uma mente profundamente inquisitiva. Você é alguém que gosta de explorar o lado mais sombrio e complexo da existência, buscando respostas para perguntas que poucos ousam fazer. Sua presença é enigmática e cativante, e você tem uma habilidade natural para mergulhar fundo em pensamentos e emoções."
+    },
+    "mama_im_coming_home": {
+      "title": "Mama, I'm Coming Home",
+      "emoji": "🏠",
+      "subtitle": "Leal, sentimental e com um coração que sempre encontra o caminho de volta.",
+      "text": "Você é a melodia reconfortante de 'Mama, I'm Coming Home'. Sua essência é de lealdade e afeto, e você valoriza profundamente suas raízes e as pessoas que ama. Mesmo diante das adversidades ou de jornadas distantes, seu coração sempre te guia de volta para onde você se sente seguro e amado. Sua presença transmite calma e acolhimento."
+    },
+    "bark_at_the_moon": {
+      "title": "Bark at the Moon",
+      "emoji": "🐺",
+      "subtitle": "Selvagem, indomável e com um desejo de liberdade.",
+      "text": "Uivando para a lua como 'Bark at the Moon', você é um espírito livre e indomável. Você se recusa a ser contido por convenções e anseia por liberdade e aventura. Há uma energia primal em você, uma vontade de seguir seus instintos e expressar sua verdadeira natureza, mesmo que isso signifique se destacar da multidão. Sua paixão é contagiante!"
+    },
+    "shot_in_the_dark": {
+      "title": "Shot in the Dark",
+      "emoji": "🌙",
+      "subtitle": "Sonhador, esperançoso e disposto a correr riscos pelo que acredita.",
+      "text": "Você é a luz na escuridão de 'Shot in the Dark'. Com um espírito sonhador e uma fé inabalável, você está sempre disposto a dar um salto de fé e tentar a sorte, mesmo quando as chances parecem incertas. Sua esperança é uma força motriz, e você acredita que, mesmo no escuro, há uma chance para a luz e para o sucesso. Você é um otimista corajoso."
+    },
+    "iron_man": {
+      "title": "Iron Man",
+      "emoji": "🤖",
+      "subtitle": "Resiliente, determinado e com uma força inabalável.",
+      "text": "Assim como o 'Iron Man', você é a personificação da resiliência e da determinação. Você enfrentou e superou muitos desafios, emergindo mais forte a cada vez. Sua vontade é de aço, e você não desiste facilmente. As pessoas admiram sua capacidade de suportar a pressão e sua persistência em seguir em frente, não importa o que aconteça."
+    },
+    "no_more_tears": {
+      "title": "No More Tears",
+      "emoji": "💧",
+      "subtitle": "Superador, forte e pronto para deixar o passado para trás.",
+      "text": "Você é o grito de libertação de 'No More Tears'. Após enfrentar suas batalhas e dores, você emerge com uma nova força, determinado a não derramar mais lágrimas. Você aprendeu com o passado e está pronto para seguir em frente, mais sábio e resiliente. Sua jornada de superação inspira os outros a encontrar sua própria força interior."
+    },
+    "paranoid": {
+      "title": "Paranoid",
+      "emoji": "🤯",
+      "subtitle": "Intenso, perspicaz e com uma mente que nunca para.",
+      "text": "Você vibra na frequência de 'Paranoid': uma mente que está constantemente trabalhando, observando e analisando tudo ao seu redor. Sua intensidade pode ser avassaladora, mas também te torna incrivelmente perspicaz. Você tem uma sensibilidade aguçada para o ambiente e para as emoções, o que te leva a questionar e a refletir profundamente sobre a vida."
+    }
+  }
+}
