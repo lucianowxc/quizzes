@@ -1,0 +1,112 @@
+{
+  "title": "Qual Bit Significativo do Byte da Turma Byte Você É?",
+  "subtitle": "Um quiz binário para os novos funcionários!",
+  "questions": [
+    {
+      "question": "01010011 01100101 00100000 01110000 01110010 01100101 01100011 01101001 01110011 01100001 00100000 01100100 01100101 00100000 01100001 011110100010000001101001 01100100 01100101 01100001 00100000 00101000 01100110 01100001 01100011 01110101 01101100 01110100 01100001 00101001",
+      "answers": [
+        { "text": "00110001  (1 = Sim)", "points": { "bit7": 0.9, "bit6": 0.7, "bit5": 0.8, "bit3": 0.6 } },
+        { "text": "00110000  (0 = Não)", "points": { "bit0": 0.9, "bit1": 0.7, "bit2": 0.8, "bit4": 0.6 } }
+      ]
+    },
+    {
+      "question": "01010001 01110101 01100001 01101110 01100100 01101111 00100000 01101111 00100000 01000011 01010010 01010101 01000100 00100000 01100100 01100101 01110010 01110010 01100001 01110100 01100001 00101110 00101110 00101110",
+      "answers": [
+        { "text": "00110001  (1 = Commit e rezo)", "points": { "bit7": 0.8, "bit5": 1.0, "bit6": 0.7 } },
+        { "text": "00110000  (0 = Testo até cansar)", "points": { "bit4": 1.0, "bit2": 0.8, "bit3": 0.6 } }
+      ]
+    },
+    {
+      "question": "01000011 01100001 01100110 01100101 00100000 11101001 00100000 01100011 11100010 10000000 10011001 01100100 01101001 01100111 01101111 00100000 01100100 01100101 00100000 01110000 01110010 01101111 01100111 01110010 01100001 01101101 01100001 01100100 01101111 01110010 00111111",
+      "answers": [
+        { "text": "00110001  (1 = Combustível essencial)", "points": { "bit5": 1.0, "bit3": 0.9, "bit7": 0.8 } },
+        { "text": "00110000  (0 = Só água com gás)", "points": { "bit1": 0.9, "bit4": 0.7, "bit0": 0.8 } }
+      ]
+    },
+    {
+      "question": "01000101 01101101 00100000 01110101 01101101 00100000 01100100 01100101 01110011 01100001 01100110 01101001 01101111 00100000 01100100 01101111 00100000 01010100 01100101 01100001 01101101 01110011 00111010",
+      "answers": [
+        { "text": "00110001  (1 = Mando meme binário)", "points": { "bit7": 1.0, "bit6": 0.8, "bit3": 0.7 } },
+        { "text": "00110000  (0 = Escrevo texto formal)", "points": { "bit4": 1.0, "bit1": 0.8, "bit2": 0.6 } }
+      ]
+    },
+    {
+      "question": "01010001 01110101 01100001 01101110 01100100 01101111 00100000 01100001 00100000 01110000 01110010 01100001 01111010 01101111 00100000 01100001 01100011 01100001 01100010 01100001 00111010",
+      "answers": [
+        { "text": "00110001  (1 = Comemoro com pizza)", "points": { "bit5": 1.0, "bit7": 0.9, "bit3": 0.8 } },
+        { "text": "00110000  (0 = Começo próximo sprint)", "points": { "bit4": 1.0, "bit6": 0.7, "bit2": 0.6 } }
+      ]
+    },
+    {
+      "question": "01010011 01100101 01110101 00100000 01100011 11100010 10000000 10011001 01100100 01101001 01100111 01101111 00100000 01100101 01110011 01110100 11100010 10000000 10100100 00100000 01100011 01101111 01101101 00100000 01110101 01101101 00100000 01100010 01110101 01100111 00111010",
+      "answers": [
+        { "text": "00110001  (1 = Culpo o compilador)", "points": { "bit5": 1.0, "bit7": 0.8, "bit3": 0.7 } },
+        { "text": "00110000  (0 = Testo tudo de novo)", "points": { "bit4": 1.0, "bit2": 0.9, "bit1": 0.6 } }
+      ]
+    },
+    {
+      "question": "01001110 01101111 00100000 01101000 01101111 01110010 11100010 10000000 10100100 01110010 01101001 01101111 00100000 01100100 01100101 00100000 01110100 01110010 01100001 01100010 01100001 01101100 01101000 01101111 00111010",
+      "answers": [
+        { "text": "00110001  (1 = Madrugada produtiva)", "points": { "bit6": 1.0, "bit3": 0.9, "bit7": 0.7 } },
+        { "text": "00110000  (0 = Expediente tradicional)", "points": { "bit4": 1.0, "bit0": 0.8, "bit1": 0.7 } }
+      ]
+    },
+    {
+      "question": "01001111 00100000 01110001 01110101 01100101 00100000 01110100 01100101 00100000 01100100 01100101 01101001 01111000 01100001 00100000 01101101 01100001 01101001 01110011 00100000 01100001 01101110 01101001 01101101 01100001 01100100 01101111 00100000 01101110 01101111 00100000 01010100 01100101 01100001 01101101 01110011 00111111",
+      "answers": [
+        { "text": "00110001  (1 = Gatinho digitando)", "points": { "bit0": 1.0, "bit1": 0.8, "bit2": 0.7 } },
+        { "text": "00110000  (0 = Foto profissional)", "points": { "bit7": 0.9, "bit6": 0.8, "bit5": 0.7 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "bit0": {
+      "title": "Bit 0 (LSB)",
+      "emoji": "🐜",
+      "subtitle": "O Humilde Essencial",
+      "text": "Você é o bit menos significativo! Como o Bit 0, é a base que sustenta todo o byte. Discreto mas essencial - igual aquele cafézinho das 15h que salva a sprint."
+    },
+    "bit1": {
+      "title": "Bit 1",
+      "emoji": "🫶",
+      "subtitle": "O Conector",
+      "text": "Você é o Bit 1! Conecta ideias e pessoas como um protocolo de rede. É quem marca o café coletivo e sabe onde cada um guarda seus cabos no Teams."
+    },
+    "bit2": {
+      "title": "Bit 2",
+      "emoji": "⚖️",
+      "subtitle": "O Equilibrista",
+      "text": "Você é o Bit 2! Mestre do balanço trabalho-zoeira. Produtivo no horário e ainda acha tempo para memes no Teams da turma Byte."
+    },
+    "bit3": {
+      "title": "Bit 3",
+      "emoji": "💡",
+      "subtitle": "O Iluminado",
+      "text": "Você é o Bit 3! Tem as ideias mais criativas. Suas soluções parecem mágica, mas todos sabem que é café puro e noites mal dormidas."
+    },
+    "bit4": {
+      "title": "Bit 4",
+      "emoji": "🧱",
+      "subtitle": "O Estrutural",
+      "text": "Você é o Bit 4! Coluna vertebral do byte. Organiza tarefas, documenta TUDO e ainda revisa PRs antes do café esfriar."
+    },
+    "bit5": {
+      "title": "Bit 5",
+      "emoji": "🛠️",
+      "subtitle": "O Resolvedor",
+      "text": "Você é o Bit 5! Especialista em apagar incêndios. Quando o deploy quebra às 23h, seu nome ecoa no Teams com memes binários de SOS."
+    },
+    "bit6": {
+      "title": "Bit 6",
+      "emoji": "🚀",
+      "subtitle": "O Otimizador",
+      "text": "Você é o Bit 6! Transforma café em algoritmos O(1). Seu código não só funciona como ainda gera figurinhas pro Teams da galera."
+    },
+    "bit7": {
+      "title": "Bit 7 (MSB)",
+      "emoji": "👑",
+      "subtitle": "O Lendário",
+      "text": "Você é o Bit Mais Significativo! Quando fala, o byte inteiro escuta. Lendário pelos memes no Teams e código que é pura arte abstrata (funcional)."
+    }
+  }
+}
