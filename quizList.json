@@ -434,7 +434,13 @@
       "name": "Qual Bit Significativo do Byte da Turma Byte Você É?",
       "file": "quizzes/quizTurmaByte.json",
       "description": "Descubra qual bit do byte representa seu estilo na turma Byte de novos funcionários!"
+    },
+    {
+      "name": "Quem é você no Multiverso do Corolla XEI 2008?",
+      "file": "quizzes/quizCorollaXei.json",
+      "description": "Descubra qual personagem do áudio lendário do Corolla automático prata você seria! De 'cuzão' a Larissa da odonto, seu destino está aqui!"
     }
+    
 
   ]
 }
