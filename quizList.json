@@ -429,6 +429,11 @@
       "name": "Qual Música do Ozzy Osbourne Você Seria?",
       "file": "quizzes/quizOzzy.json",
       "description": "Descubra qual hino do Madman ecoa mais com a sua alma neste quiz rock and roll!"
+    },
+    {
+      "name": "Qual Bit Significativo do Byte da Turma Byte Você É?",
+      "file": "quizzes/quizTurmaByte.json",
+      "description": "Descubra qual bit do byte representa seu estilo na turma Byte de novos funcionários!"
     }
 
   ]
