@@ -1,0 +1,140 @@
+{
+  "title": "Quem é você no Multiverso do Corolla XEI 2008?",
+  "subtitle": "Baseado no áudio épico do automático prata sem tesão",
+  "questions": [
+    {
+      "question": "Na hora do rango, você é do time:",
+      "answers": [
+        { "text": "Ribs on the barbie no Outback 🥩🌴", "points": { "outback": 1.5, "coldplay": 0.5 } },
+        { "text": "Dogão com purê de batata duvidosa 🌭🤢", "points": { "corolla": 2.0 } },
+        { "text": "Ar do pneu do Corolla (dieta low carb) 💨🚘", "points": { "amigo_narrador": 3.0 } },
+        { "text": "Restos de bala Halls do porta-luvas 🍬🔍", "points": { "tenis_mizuno": 1.0 } }
+      ]
+    },
+    {
+      "question": "Seu look de sexta-feira é:",
+      "answers": [
+        { "text": "Camisa branca com coqueiro OKLAHOMA 🌴👕", "points": { "camisa_oklahoma": 2.0 } },
+        { "text": "Jaleco de odonto com mancha de café ☕🦷", "points": { "larissa": 1.5 } },
+        { "text": "Fralda adulta (pra não parar no banheiro) 👶🚽", "points": { "coldplay": 1.0 } },
+        { "text": "Só a sunga do Neymar da Shopee 🩲🔥", "points": { "amigo_narrador": 2.5 } }
+      ]
+    },
+    {
+      "question": "Seu programa ideal:",
+      "answers": [
+        { "text": "Ver Homem-Formiga 7 no shopping 🐜🎥", "points": { "corolla": 1.0 } },
+        { "text": "Fazer estágio não-remunerado na UNIP 🏫😭", "points": { "larissa": 2.0 } },
+        { "text": "Ir pro show do Coldplay e gritar 'UUUUUUH' 🗣️🌌", "points": { "coldplay": 2.5 } },
+        { "text": "Ficar no estacionamento mexendo no rádio 📻🔊", "points": { "corolla": 1.5 } },
+        { "text": "Gravar áudio xingando desconhecidos 🎤😠", "points": { "amigo_narrador": 3.0 } }
+      ]
+    },
+    {
+      "question": "Seu maior tesão é:",
+      "answers": [
+        { "text": "O câmbio automático do Corolla 2008 ⚙️😴", "points": { "corolla": 3.0 } },
+        { "text": "Quando o paciente não vomita na sua cara 🤮✨", "points": { "larissa": 1.8 } },
+        { "text": "Achar um cupom de 10% no Outback 🎟️🥩", "points": { "outback": 2.0 } },
+        { "text": "Ver alguém usando tênis diferente 👟😱", "points": { "tenis_mizuno": 2.5 } },
+        { "text": "Xingar motoboy no trânsito 🛵🖕", "points": { "amigo_narrador": 3.0 } }
+      ]
+    },
+    {
+      "question": "Na hora do romance:",
+      "answers": [
+        { "text": "Levar a Larissa pra extrair sisos 🦷💘", "points": { "larissa": 2.0 } },
+        { "text": "Botar capa de crochê no volante 🧶🚘", "points": { "corolla": 3.0 } },
+        { "text": "Pedir ribs bem passadas (quase carvão) 🥩🔥", "points": { "outback": 1.5 } },
+        { "text": "Colar adesivo "FAMÍLIA" no vidro traseiro 👨‍👩‍👧‍👦🚗", "points": { "corolla": 1.0 } },
+        { "text": "Gritar 'EMOÇÃO É PRA QUEM PODE!' 🗣️💥", "points": { "amigo_narrador": 2.5 } }
+      ]
+    },
+    {
+      "question": "Seu sonho profissional:",
+      "answers": [
+        { "text": "Ser gerente da concessionária Toyota 📊🚗", "points": { "corolla": 2.0 } },
+        { "text": "Ter consultório odontológico na UNIP 🦷🏢", "points": { "larissa": 1.5 } },
+        { "text": "Virar garçom honorário do Outback 👨‍🍳🥩", "points": { "outback": 2.0 } },
+        { "text": "Ser testador de tênis da Centauro 👟🐎", "points": { "tenis_mizuno": 1.8 } },
+        { "text": "Viralizar no TikTok com áudios raivosos 📱🔥", "points": { "amigo_narrador": 3.0 } }
+      ]
+    },
+    {
+      "question": "Seu lugar sagrado:",
+      "answers": [
+        { "text": "Banco do motorista do Corolla 🚗👑", "points": { "corolla": 3.0 } },
+        { "text": "Sala de espera da clínica odontológica 🦷⏳", "points": { "larissa": 1.5 } },
+        { "text": "Banheiro químico do show do Coldplay 🚽🎤", "points": { "coldplay": 2.0 } },
+        { "text": "Setor de camisetas turísticas da Renner 👕🌎", "points": { "camisa_oklahoma": 2.5 } },
+        { "text": "Canto escuro do estacionamento do Extra 🅿️🌑", "points": { "amigo_narrador": 2.0 } }
+      ]
+    },
+    {
+      "question": "Sua filosofia de vida:",
+      "answers": [
+        { "text": "Se não é automático, nem é carro ⚙️🚫", "points": { "corolla": 2.0 } },
+        { "text": "Dente limpo, coração puro 🦷✨", "points": { "larissa": 1.8 } },
+        { "text": "Ribs bem passadas > relacionamentos 🥩>❤️", "points": { "outback": 1.5 } },
+        { "text": "Oklahoma é um estado de espírito 🌴🧘", "points": { "camisa_oklahoma": 2.0 } },
+        { "text": "CUZÃO, SE NÃO QUER EMOÇÃO, SAI DO MEU CAMINHO! 🫵😤", "points": { "amigo_narrador": 3.0 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "corolla": {
+      "title": "O Próprio Corolla XEI 2008",
+      "emoji": "🚘💤",
+      "subtitle": "Automático prata SEM TESÃO",
+      "text": "Você É o Corolla! Confortável, previsível e com cheiro de velho. Seu maior prazer é estacionar no shopping às 10h da manhã de domingo."
+    },
+    "outback": {
+      "title": "As Ribs on the Barbie",
+      "emoji": "🥩💸",
+      "subtitle": "Ilusão gourmet em 12x sem juros",
+      "text": "Você é o Outback! Caro demais pro que oferece, mas todo mundo finge que vale a pena. Especialista em fazer pessoas tirarem foto do prato pra compensar o preço."
+    },
+    "larissa": {
+      "title": "Larissa da Odonto UNIP",
+      "emoji": "🦷💔",
+      "subtitle": "Especialista em cáries e desilusões",
+      "text": "Você é a Larissa! Sonha em ter um consultório mas por enquanto só extrai dentes de tiozões banguelas. Sabe fazer canal mas não sabe fazer relacionamento dar certo."
+    },
+    "coldplay": {
+      "title": "O Grito do Coldplay",
+      "emoji": "🗣️💫",
+      "subtitle": "OOOOOOOOOOH",
+      "text": "Você é o grito no show do Coldplay! Breve momento de êxtase num mar de gente que pagou 1/4 do salário pra ver um britânico careca de longe."
+    },
+    "amigo_narrador": {
+      "title": "O Amigo Narrador",
+      "emoji": "🎤🔥",
+      "subtitle": "CUZÃO 🫵🤨",
+      "text": "Você é o AMIGO NARRADOR! Voz da sabedoria que ninguém pediu. Mistura de filósofo de boteco e motorista de Uber revoltado. Vive num Corolla imaginário enquanto dirige um Uno 94 com GNV."
+    },
+    "tenis_mizuno": {
+      "title": "O Tênis Mizuno Preto",
+      "emoji": "👟⚫",
+      "subtitle": "Original (ou não?)",
+      "text": "Você é o tênis de corrida que nunca correu! Símbolo máximo da individualidade coletiva. Idêntico a outros 37 pares na fila do show do Coldplay."
+    },
+    "camisa_oklahoma": {
+      "title": "A Camisa do Coqueiro de Oklahoma",
+      "emoji": "👕🌴",
+      "subtitle": "Fashion geography disaster",
+      "text": "Você é a camisa que prova que Oklahoma tem praia! Mistura inexplicável de bioma e geografia que só faz sentido no vestuário brasileiro médio."
+    },
+    "unip": {
+      "title": "A UNIP",
+      "emoji": "🏫💀",
+      "subtitle": "Onde os sonhos vão morrer",
+      "text": "Você é a UNIP! Corredores com cheiro de desespero e esperanças perdidas. Forma dentistas, advogados e youtubers de conteúdo duvidoso."
+    },
+    "centauro": {
+      "title": "A Centauro",
+      "emoji": "🐎👟",
+      "subtitle": "Paraíso da mediocridade esportiva",
+      "text": "Você é a Centauro! O lugar onde sonhos fitness vão comprar tênis idênticos. O cheiro de borracha nova disfarça o aroma de conformismo."
+    }
+  }
+}
