@@ -5,79 +5,573 @@
     {
       "question": "Na hora do rango, você é do time:",
       "answers": [
-        { "text": "Ribs on the barbie no Outback 🥩🌴", "points": { "outback": 1.5, "coldplay": 0.5 } },
-        { "text": "Dogão com purê de batata duvidosa 🌭🤢", "points": { "corolla": 2.0 } },
-        { "text": "Ar do pneu do Corolla (dieta low carb) 💨🚘", "points": { "amigo_narrador": 3.0 } },
-        { "text": "Restos de bala Halls do porta-luvas 🍬🔍", "points": { "tenis_mizuno": 1.0 } }
+        {
+          "text": "Ribs on the barbie no Outback 🥩🌴",
+          "points": {
+            "outback": 0.0788,
+            "coldplay": 0.0993,
+            "corolla": 0.0106,
+            "larissa": 0.0114,
+            "amigo_narrador": 0.0104,
+            "tenis_mizuno": 0.0132,
+            "camisa_oklahoma": 0.0128,
+            "unip": 0.0188,
+            "centauro": 0.0207
+          }
+        },
+        {
+          "text": "Dogão com purê de batata duvidosa 🌭🤢",
+          "points": {
+            "corolla": 0.0622,
+            "outback": 0.0141,
+            "larissa": 0.0128,
+            "coldplay": 0.015,
+            "amigo_narrador": 0.0113,
+            "tenis_mizuno": 0.0168,
+            "camisa_oklahoma": 0.0159,
+            "unip": 0.0265,
+            "centauro": 0.0259
+          }
+        },
+        {
+          "text": "Ar do pneu do Corolla (dieta low carb) 💨🚘",
+          "points": {
+            "amigo_narrador": 0.0775,
+            "corolla": 0.0126,
+            "outback": 0.0164,
+            "larissa": 0.0147,
+            "coldplay": 0.0175,
+            "tenis_mizuno": 0.0189,
+            "camisa_oklahoma": 0.0176,
+            "unip": 0.0303,
+            "centauro": 0.0295
+          }
+        },
+        {
+          "text": "Restos de bala Halls do porta-luvas 🍬🔍",
+          "points": {
+            "tenis_mizuno": 0.068,
+            "corolla": 0.0099,
+            "outback": 0.0112,
+            "larissa": 0.0109,
+            "coldplay": 0.0119,
+            "amigo_narrador": 0.0102,
+            "camisa_oklahoma": 0.0125,
+            "unip": 0.0182,
+            "centauro": 0.0199
+          }
+        }
       ]
     },
     {
       "question": "Seu look de sexta-feira é:",
       "answers": [
-        { "text": "Camisa branca com coqueiro OKLAHOMA 🌴👕", "points": { "camisa_oklahoma": 2.0 } },
-        { "text": "Jaleco de odonto com mancha de café ☕🦷", "points": { "larissa": 1.5 } },
-        { "text": "Fralda adulta (pra não parar no banheiro) 👶🚽", "points": { "coldplay": 1.0 } },
-        { "text": "Só a sunga do Neymar da Shopee 🩲🔥", "points": { "amigo_narrador": 2.5 } }
+        {
+          "text": "Camisa branca com coqueiro OKLAHOMA 🌴👕",
+          "points": {
+            "camisa_oklahoma": 0.1161,
+            "corolla": 0.0109,
+            "outback": 0.0129,
+            "larissa": 0.0121,
+            "coldplay": 0.0134,
+            "amigo_narrador": 0.0111,
+            "tenis_mizuno": 0.0146,
+            "unip": 0.0213,
+            "centauro": 0.0233
+          }
+        },
+        {
+          "text": "Jaleco de odonto com mancha de café ☕🦷",
+          "points": {
+            "larissa": 0.0636,
+            "corolla": 0.0105,
+            "outback": 0.0127,
+            "coldplay": 0.0132,
+            "amigo_narrador": 0.0107,
+            "tenis_mizuno": 0.0149,
+            "camisa_oklahoma": 0.0144,
+            "unip": 0.023,
+            "centauro": 0.0232
+          }
+        },
+        {
+          "text": "Fralda adulta (pra não parar no banheiro) 👶🚽",
+          "points": {
+            "coldplay": 0.059,
+            "corolla": 0.0098,
+            "outback": 0.0112,
+            "larissa": 0.0107,
+            "amigo_narrador": 0.0099,
+            "tenis_mizuno": 0.0129,
+            "camisa_oklahoma": 0.0127,
+            "unip": 0.0188,
+            "centauro": 0.0205
+          }
+        },
+        {
+          "text": "Só a sunga do Neymar da Shopee 🩲🔥",
+          "points": {
+            "amigo_narrador": 0.0657,
+            "corolla": 0.0121,
+            "outback": 0.0157,
+            "larissa": 0.0141,
+            "coldplay": 0.0167,
+            "tenis_mizuno": 0.0182,
+            "camisa_oklahoma": 0.017,
+            "unip": 0.0288,
+            "centauro": 0.028
+          }
+        }
       ]
     },
     {
       "question": "Seu programa ideal:",
       "answers": [
-        { "text": "Ver Homem-Formiga 7 no shopping 🐜🎥", "points": { "corolla": 1.0 } },
-        { "text": "Fazer estágio não-remunerado na UNIP 🏫😭", "points": { "larissa": 2.0 } },
-        { "text": "Ir pro show do Coldplay e gritar 'UUUUUUH' 🗣️🌌", "points": { "coldplay": 2.5 } },
-        { "text": "Ficar no estacionamento mexendo no rádio 📻🔊", "points": { "corolla": 1.5 } },
-        { "text": "Gravar áudio xingando desconhecidos 🎤😠", "points": { "amigo_narrador": 3.0 } }
+        {
+          "text": "Ver Homem-Formiga 7 no shopping 🐜🎥",
+          "points": {
+            "corolla": 0.0346,
+            "outback": 0.0117,
+            "larissa": 0.011,
+            "coldplay": 0.0127,
+            "amigo_narrador": 0.0103,
+            "tenis_mizuno": 0.0145,
+            "camisa_oklahoma": 0.014,
+            "unip": 0.0223,
+            "centauro": 0.0217
+          }
+        },
+        {
+          "text": "Fazer estágio não-remunerado na UNIP 🏫😭",
+          "points": {
+            "larissa": 0.0825,
+            "corolla": 0.011,
+            "outback": 0.0135,
+            "coldplay": 0.0141,
+            "amigo_narrador": 0.0111,
+            "tenis_mizuno": 0.0157,
+            "camisa_oklahoma": 0.0151,
+            "unip": 0.0244,
+            "centauro": 0.0249
+          }
+        },
+        {
+          "text": "Ir pro show do Coldplay e gritar 'UUUUUUH' 🗣️🌌",
+          "points": {
+            "coldplay": 0.1374,
+            "corolla": 0.0112,
+            "outback": 0.0132,
+            "larissa": 0.0124,
+            "amigo_narrador": 0.0111,
+            "tenis_mizuno": 0.0149,
+            "camisa_oklahoma": 0.0143,
+            "unip": 0.022,
+            "centauro": 0.0247
+          }
+        },
+        {
+          "text": "Ficar no estacionamento mexendo no rádio 📻🔊",
+          "points": {
+            "corolla": 0.0484,
+            "outback": 0.013,
+            "larissa": 0.0121,
+            "coldplay": 0.0141,
+            "amigo_narrador": 0.0108,
+            "tenis_mizuno": 0.0158,
+            "camisa_oklahoma": 0.0151,
+            "unip": 0.0246,
+            "centauro": 0.024
+          }
+        },
+        {
+          "text": "Gravar áudio xingando desconhecidos 🎤😠",
+          "points": {
+            "amigo_narrador": 0.0775,
+            "corolla": 0.0126,
+            "outback": 0.0164,
+            "larissa": 0.0147,
+            "coldplay": 0.0175,
+            "tenis_mizuno": 0.0189,
+            "camisa_oklahoma": 0.0176,
+            "unip": 0.0303,
+            "centauro": 0.0295
+          }
+        }
       ]
     },
     {
       "question": "Seu maior tesão é:",
       "answers": [
-        { "text": "O câmbio automático do Corolla 2008 ⚙️😴", "points": { "corolla": 3.0 } },
-        { "text": "Quando o paciente não vomita na sua cara 🤮✨", "points": { "larissa": 1.8 } },
-        { "text": "Achar um cupom de 10% no Outback 🎟️🥩", "points": { "outback": 2.0 } },
-        { "text": "Ver alguém usando tênis diferente 👟😱", "points": { "tenis_mizuno": 2.5 } },
-        { "text": "Xingar motoboy no trânsito 🛵🖕", "points": { "amigo_narrador": 3.0 } }
+        {
+          "text": "O câmbio automático do Corolla 2008 ⚙️😴",
+          "points": {
+            "corolla": 0.09,
+            "outback": 0.0155,
+            "larissa": 0.0141,
+            "coldplay": 0.0165,
+            "amigo_narrador": 0.0119,
+            "tenis_mizuno": 0.0183,
+            "camisa_oklahoma": 0.0172,
+            "unip": 0.0293,
+            "centauro": 0.0289
+          }
+        },
+        {
+          "text": "Quando o paciente não vomita na sua cara 🤮✨",
+          "points": {
+            "larissa": 0.0749,
+            "corolla": 0.0109,
+            "outback": 0.0132,
+            "coldplay": 0.0138,
+            "amigo_narrador": 0.011,
+            "tenis_mizuno": 0.0154,
+            "camisa_oklahoma": 0.0148,
+            "unip": 0.0239,
+            "centauro": 0.0243
+          }
+        },
+        {
+          "text": "Achar um cupom de 10% no Outback 🎟️🥩",
+          "points": {
+            "outback": 0.1029,
+            "corolla": 0.0108,
+            "larissa": 0.012,
+            "coldplay": 0.0135,
+            "amigo_narrador": 0.0108,
+            "tenis_mizuno": 0.0148,
+            "camisa_oklahoma": 0.0143,
+            "unip": 0.0224,
+            "centauro": 0.0239
+          }
+        },
+        {
+          "text": "Ver alguém usando tênis diferente 👟😱",
+          "points": {
+            "tenis_mizuno": 0.1598,
+            "corolla": 0.0113,
+            "outback": 0.0132,
+            "larissa": 0.0124,
+            "coldplay": 0.0137,
+            "amigo_narrador": 0.0112,
+            "camisa_oklahoma": 0.0141,
+            "unip": 0.0211,
+            "centauro": 0.0236
+          }
+        },
+        {
+          "text": "Xingar motoboy no trânsito 🛵🖕",
+          "points": {
+            "amigo_narrador": 0.0775,
+            "corolla": 0.0126,
+            "outback": 0.0164,
+            "larissa": 0.0147,
+            "coldplay": 0.0175,
+            "tenis_mizuno": 0.0189,
+            "camisa_oklahoma": 0.0176,
+            "unip": 0.0303,
+            "centauro": 0.0295
+          }
+        }
       ]
     },
     {
       "question": "Na hora do romance:",
       "answers": [
-        { "text": "Levar a Larissa pra extrair sisos 🦷💘", "points": { "larissa": 2.0 } },
-        { "text": "Botar capa de crochê no volante 🧶🚘", "points": { "corolla": 3.0 } },
-        { "text": "Pedir ribs bem passadas (quase carvão) 🥩🔥", "points": { "outback": 1.5 } },
-        { "text": "Colar adesivo \"FAMÍLIA\" no vidro traseiro 👨‍👩‍👧‍👦🚗", "points": { "corolla": 1.0 } },
-        { "text": "Gritar 'EMOÇÃO É PRA QUEM PODE!' 🗣️💥", "points": { "amigo_narrador": 2.5 } }
+        {
+          "text": "Levar a Larissa pra extrair sisos 🦷💘",
+          "points": {
+            "larissa": 0.0825,
+            "corolla": 0.011,
+            "outback": 0.0135,
+            "coldplay": 0.0141,
+            "amigo_narrador": 0.0111,
+            "tenis_mizuno": 0.0157,
+            "camisa_oklahoma": 0.0151,
+            "unip": 0.0244,
+            "centauro": 0.0249
+          }
+        },
+        {
+          "text": "Botar capa de crochê no volante 🧶🚘",
+          "points": {
+            "corolla": 0.09,
+            "outback": 0.0155,
+            "larissa": 0.0141,
+            "coldplay": 0.0165,
+            "amigo_narrador": 0.0119,
+            "tenis_mizuno": 0.0183,
+            "camisa_oklahoma": 0.0172,
+            "unip": 0.0293,
+            "centauro": 0.0289
+          }
+        },
+        {
+          "text": "Pedir ribs bem passadas (quase carvão) 🥩🔥",
+          "points": {
+            "outback": 0.0788,
+            "corolla": 0.0104,
+            "larissa": 0.0114,
+            "coldplay": 0.0128,
+            "amigo_narrador": 0.0105,
+            "tenis_mizuno": 0.0142,
+            "camisa_oklahoma": 0.0138,
+            "unip": 0.0212,
+            "centauro": 0.0225
+          }
+        },
+        {
+          "text": "Colar adesivo \"FAMÍLIA\" no vidro traseiro 👨‍👩‍👧‍👦🚗",
+          "points": {
+            "corolla": 0.0346,
+            "outback": 0.0117,
+            "larissa": 0.011,
+            "coldplay": 0.0127,
+            "amigo_narrador": 0.0103,
+            "tenis_mizuno": 0.0145,
+            "camisa_oklahoma": 0.014,
+            "unip": 0.0223,
+            "centauro": 0.0217
+          }
+        },
+        {
+          "text": "Gritar 'EMOÇÃO É PRA QUEM PODE!' 🗣️💥",
+          "points": {
+            "amigo_narrador": 0.0657,
+            "corolla": 0.0121,
+            "outback": 0.0157,
+            "larissa": 0.0141,
+            "coldplay": 0.0167,
+            "tenis_mizuno": 0.0182,
+            "camisa_oklahoma": 0.017,
+            "unip": 0.0288,
+            "centauro": 0.028
+          }
+        }
       ]
     },
     {
       "question": "Seu sonho profissional:",
       "answers": [
-        { "text": "Ser gerente da concessionária Toyota 📊🚗", "points": { "corolla": 2.0 } },
-        { "text": "Ter consultório odontológico na UNIP 🦷🏢", "points": { "larissa": 1.5 } },
-        { "text": "Virar garçom honorário do Outback 👨‍🍳🥩", "points": { "outback": 2.0 } },
-        { "text": "Ser testador de tênis da Centauro 👟🐎", "points": { "tenis_mizuno": 1.8 } },
-        { "text": "Viralizar no TikTok com áudios raivosos 📱🔥", "points": { "amigo_narrador": 3.0 } }
+        {
+          "text": "Ser gerente da concessionária Toyota 📊🚗",
+          "points": {
+            "corolla": 0.0622,
+            "outback": 0.0141,
+            "larissa": 0.0128,
+            "coldplay": 0.015,
+            "amigo_narrador": 0.0113,
+            "tenis_mizuno": 0.0168,
+            "camisa_oklahoma": 0.0159,
+            "unip": 0.0265,
+            "centauro": 0.0259
+          }
+        },
+        {
+          "text": "Ter consultório odontológico na UNIP 🦷🏢",
+          "points": {
+            "larissa": 0.0636,
+            "corolla": 0.0105,
+            "outback": 0.0127,
+            "coldplay": 0.0132,
+            "amigo_narrador": 0.0107,
+            "tenis_mizuno": 0.0149,
+            "camisa_oklahoma": 0.0144,
+            "unip": 0.023,
+            "centauro": 0.0232
+          }
+        },
+        {
+          "text": "Virar garçom honorário do Outback 👨‍🍳🥩",
+          "points": {
+            "outback": 0.1029,
+            "corolla": 0.0108,
+            "larissa": 0.012,
+            "coldplay": 0.0135,
+            "amigo_narrador": 0.0108,
+            "tenis_mizuno": 0.0148,
+            "camisa_oklahoma": 0.0143,
+            "unip": 0.0224,
+            "centauro": 0.0239
+          }
+        },
+        {
+          "text": "Ser testador de tênis da Centauro 👟🐎",
+          "points": {
+            "tenis_mizuno": 0.1169,
+            "corolla": 0.0107,
+            "outback": 0.0124,
+            "larissa": 0.0117,
+            "coldplay": 0.013,
+            "amigo_narrador": 0.0109,
+            "camisa_oklahoma": 0.0135,
+            "unip": 0.02,
+            "centauro": 0.0222
+          }
+        },
+        {
+          "text": "Viralizar no TikTok com áudios raivosos 📱🔥",
+          "points": {
+            "amigo_narrador": 0.0775,
+            "corolla": 0.0126,
+            "outback": 0.0164,
+            "larissa": 0.0147,
+            "coldplay": 0.0175,
+            "tenis_mizuno": 0.0189,
+            "camisa_oklahoma": 0.0176,
+            "unip": 0.0303,
+            "centauro": 0.0295
+          }
+        }
       ]
     },
     {
       "question": "Seu lugar sagrado:",
       "answers": [
-        { "text": "Banco do motorista do Corolla 🚗👑", "points": { "corolla": 3.0 } },
-        { "text": "Sala de espera da clínica odontológica 🦷⏳", "points": { "larissa": 1.5 } },
-        { "text": "Banheiro químico do show do Coldplay 🚽🎤", "points": { "coldplay": 2.0 } },
-        { "text": "Setor de camisetas turísticas da Renner 👕🌎", "points": { "camisa_oklahoma": 2.5 } },
-        { "text": "Canto escuro do estacionamento do Extra 🅿️🌑", "points": { "amigo_narrador": 2.0 } }
+        {
+          "text": "Banco do motorista do Corolla 🚗👑",
+          "points": {
+            "corolla": 0.09,
+            "outback": 0.0155,
+            "larissa": 0.0141,
+            "coldplay": 0.0165,
+            "amigo_narrador": 0.0119,
+            "tenis_mizuno": 0.0183,
+            "camisa_oklahoma": 0.0172,
+            "unip": 0.0293,
+            "centauro": 0.0289
+          }
+        },
+        {
+          "text": "Sala de espera da clínica odontológica 🦷⏳",
+          "points": {
+            "larissa": 0.0636,
+            "corolla": 0.0105,
+            "outback": 0.0127,
+            "coldplay": 0.0132,
+            "amigo_narrador": 0.0107,
+            "tenis_mizuno": 0.0149,
+            "camisa_oklahoma": 0.0144,
+            "unip": 0.023,
+            "centauro": 0.0232
+          }
+        },
+        {
+          "text": "Banheiro químico do show do Coldplay 🚽🎤",
+          "points": {
+            "coldplay": 0.1112,
+            "corolla": 0.0109,
+            "outback": 0.0127,
+            "larissa": 0.012,
+            "amigo_narrador": 0.0108,
+            "tenis_mizuno": 0.0143,
+            "camisa_oklahoma": 0.0139,
+            "unip": 0.0212,
+            "centauro": 0.0236
+          }
+        },
+        {
+          "text": "Setor de camisetas turísticas da Renner 👕🌎",
+          "points": {
+            "camisa_oklahoma": 0.1435,
+            "corolla": 0.0114,
+            "outback": 0.0134,
+            "larissa": 0.0125,
+            "coldplay": 0.0139,
+            "amigo_narrador": 0.0113,
+            "tenis_mizuno": 0.0152,
+            "unip": 0.0221,
+            "centauro": 0.0243
+          }
+        },
+        {
+          "text": "Canto escuro do estacionamento do Extra 🅿️🌑",
+          "points": {
+            "amigo_narrador": 0.054,
+            "corolla": 0.0116,
+            "outback": 0.0149,
+            "larissa": 0.0135,
+            "coldplay": 0.0158,
+            "tenis_mizuno": 0.0172,
+            "camisa_oklahoma": 0.0162,
+            "unip": 0.0271,
+            "centauro": 0.0263
+          }
+        }
       ]
     },
     {
       "question": "Sua filosofia de vida:",
       "answers": [
-        { "text": "Se não é automático, nem é carro ⚙️🚫", "points": { "corolla": 2.0 } },
-        { "text": "Dente limpo, coração puro 🦷✨", "points": { "larissa": 1.8 } },
-        { "text": "Ribs bem passadas > relacionamentos 🥩>❤️", "points": { "outback": 1.5 } },
-        { "text": "Oklahoma é um estado de espírito 🌴🧘", "points": { "camisa_oklahoma": 2.0 } },
-        { "text": "CUZÃO, SE NÃO QUER EMOÇÃO, SAI DO MEU CAMINHO! 🫵😤", "points": { "amigo_narrador": 3.0 } }
+        {
+          "text": "Se não é automático, nem é carro ⚙️🚫",
+          "points": {
+            "corolla": 0.0622,
+            "outback": 0.0141,
+            "larissa": 0.0128,
+            "coldplay": 0.015,
+            "amigo_narrador": 0.0113,
+            "tenis_mizuno": 0.0168,
+            "camisa_oklahoma": 0.0159,
+            "unip": 0.0265,
+            "centauro": 0.0259
+          }
+        },
+        {
+          "text": "Dente limpo, coração puro 🦷✨",
+          "points": {
+            "larissa": 0.0749,
+            "corolla": 0.0109,
+            "outback": 0.0132,
+            "coldplay": 0.0138,
+            "amigo_narrador": 0.011,
+            "tenis_mizuno": 0.0154,
+            "camisa_oklahoma": 0.0148,
+            "unip": 0.0239,
+            "centauro": 0.0243
+          }
+        },
+        {
+          "text": "Ribs bem passadas > relacionamentos 🥩>❤️",
+          "points": {
+            "outback": 0.0788,
+            "corolla": 0.0104,
+            "larissa": 0.0114,
+            "coldplay": 0.0128,
+            "amigo_narrador": 0.0105,
+            "tenis_mizuno": 0.0142,
+            "camisa_oklahoma": 0.0138,
+            "unip": 0.0212,
+            "centauro": 0.0225
+          }
+        },
+        {
+          "text": "Oklahoma é um estado de espírito 🌴🧘",
+          "points": {
+            "camisa_oklahoma": 0.1161,
+            "corolla": 0.0109,
+            "outback": 0.0129,
+            "larissa": 0.0121,
+            "coldplay": 0.0134,
+            "amigo_narrador": 0.0111,
+            "tenis_mizuno": 0.0146,
+            "unip": 0.0213,
+            "centauro": 0.0233
+          }
+        },
+        {
+          "text": "CUZÃO, SE NÃO QUER EMOÇÃO, SAI DO MEU CAMINHO! 🫵😤",
+          "points": {
+            "amigo_narrador": 0.0775,
+            "corolla": 0.0126,
+            "outback": 0.0164,
+            "larissa": 0.0147,
+            "coldplay": 0.0175,
+            "tenis_mizuno": 0.0189,
+            "camisa_oklahoma": 0.0176,
+            "unip": 0.0303,
+            "centauro": 0.0295
+          }
+        }
       ]
     }
   ],
