@@ -439,6 +439,11 @@
       "name": "Quem é você no Multiverso do Corolla XEI 2008?",
       "file": "quizzes/quizCorollaXEI.json",
       "description": "Descubra qual personagem do áudio lendário do Corolla automático prata você seria! De 'cuzão' a Larissa da odonto, seu destino está aqui!"
+    },
+    {
+      "name": "Se Todos os Elevadores do Mundo Parassem: Qual Sua Arma Secreta?",
+      "file": "quizzes/quizElevadoresMundo.json",
+      "description": "Descubra qual seria sua arma secreta em um mundo sem elevadores através deste quiz divertido e filosófico!"
     }
     
 
