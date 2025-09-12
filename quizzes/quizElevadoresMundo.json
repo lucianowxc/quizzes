@@ -8,53 +8,53 @@
         {
           "text": "Aproveito para ouvir um podcast e aceito que chego quando chegar",
           "points": {
-            "escada_infinita": 0.9,
-            "elevador_emocional": 0.7,
-            "elevador_humano": 0.5,
-            "rampa_improvisada": 0.3,
-            "teletransporte_mental": 0.6,
-            "asa_de_icaro": 0.2,
-            "tunel_dimensional": 0.3,
-            "cabo_de_vassoura": 0.1
+            "escada_infinita": 0.027,
+            "elevador_emocional": 0.0104,
+            "elevador_humano": 0.0182,
+            "rampa_improvisada": 0.0238,
+            "teletransporte_mental": 0.0426,
+            "asa_de_icaro": 0.0363,
+            "tunel_dimensional": 0.0591,
+            "cabo_de_vassoura": 0.0393
           }
         },
         {
           "text": "Procuro rotas alternativas imediatamente, mesmo que nunca tenha ido por elas",
           "points": {
-            "rampa_improvisada": 0.9,
-            "tunel_dimensional": 0.8,
-            "asa_de_icaro": 0.6,
-            "elevador_humano": 0.4,
-            "escada_infinita": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.4
+            "rampa_improvisada": 0.0258,
+            "tunel_dimensional": 0.0266,
+            "asa_de_icaro": 0.0325,
+            "elevador_humano": 0.019,
+            "escada_infinita": 0.0306,
+            "teletransporte_mental": 0.0437,
+            "cabo_de_vassoura": 0.0411,
+            "elevador_emocional": 0.0367
           }
         },
         {
           "text": "Começo a imaginar como seria teletransportar para fora dali",
           "points": {
-            "teletransporte_mental": 0.9,
-            "elevador_emocional": 0.8,
-            "cabo_de_vassoura": 0.6,
-            "tunel_dimensional": 0.7,
-            "asa_de_icaro": 0.4,
-            "escada_infinita": 0.2,
-            "rampa_improvisada": 0.3,
-            "elevador_humano": 0.5
+            "teletransporte_mental": 0.019,
+            "elevador_emocional": 0.0114,
+            "cabo_de_vassoura": 0.0325,
+            "tunel_dimensional": 0.0428,
+            "asa_de_icaro": 0.0433,
+            "escada_infinita": 0.0308,
+            "rampa_improvisada": 0.0511,
+            "elevador_humano": 0.0698
           }
         },
         {
           "text": "Penso em como poderíamos todos compartilhar caronas para evitar isso",
           "points": {
-            "elevador_humano": 0.9,
-            "escada_infinita": 0.7,
-            "rampa_improvisada": 0.6,
-            "asa_de_icaro": 0.4,
-            "tunel_dimensional": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.8
+            "elevador_humano": 0.0165,
+            "escada_infinita": 0.028,
+            "rampa_improvisada": 0.0298,
+            "asa_de_icaro": 0.0263,
+            "tunel_dimensional": 0.0213,
+            "teletransporte_mental": 0.0359,
+            "cabo_de_vassoura": 0.0308,
+            "elevador_emocional": 0.0518
           }
         }
       ]
@@ -65,53 +65,53 @@
         {
           "text": "Organizo tudo metodicamente, uma prateleira de cada vez",
           "points": {
-            "escada_infinita": 0.9,
-            "rampa_improvisada": 0.6,
-            "elevador_humano": 0.5,
-            "teletransporte_mental": 0.2,
-            "asa_de_icaro": 0.3,
-            "tunel_dimensional": 0.4,
-            "cabo_de_vassoura": 0.1,
-            "elevador_emocional": 0.7
+            "escada_infinita": 0.027,
+            "rampa_improvisada": 0.0241,
+            "elevador_humano": 0.0169,
+            "teletransporte_mental": 0.0108,
+            "asa_de_icaro": 0.0251,
+            "tunel_dimensional": 0.0362,
+            "cabo_de_vassoura": 0.0168,
+            "elevador_emocional": 0.0438
           }
         },
         {
           "text": "Crio um sistema improvisado com caixas e divisórias inusitadas",
           "points": {
-            "rampa_improvisada": 0.9,
-            "asa_de_icaro": 0.7,
-            "tunel_dimensional": 0.6,
-            "cabo_de_vassoura": 0.5,
-            "elevador_humano": 0.4,
-            "escada_infinita": 0.3,
-            "teletransporte_mental": 0.4,
-            "elevador_emocional": 0.2
+            "rampa_improvisada": 0.0258,
+            "asa_de_icaro": 0.0272,
+            "tunel_dimensional": 0.0272,
+            "cabo_de_vassoura": 0.0372,
+            "elevador_humano": 0.0259,
+            "escada_infinita": 0.0449,
+            "teletransporte_mental": 0.0546,
+            "elevador_emocional": 0.0236
           }
         },
         {
           "text": "Imagino como seria se as coisas se organizassem sozinhas",
           "points": {
-            "teletransporte_mental": 0.9,
-            "elevador_emocional": 0.8,
-            "cabo_de_vassoura": 0.7,
-            "tunel_dimensional": 0.6,
-            "asa_de_icaro": 0.4,
-            "escada_infinita": 0.2,
-            "rampa_improvisada": 0.3,
-            "elevador_humano": 0.5
+            "teletransporte_mental": 0.019,
+            "elevador_emocional": 0.0114,
+            "cabo_de_vassoura": 0.0377,
+            "tunel_dimensional": 0.0388,
+            "asa_de_icaro": 0.0434,
+            "escada_infinita": 0.0309,
+            "rampa_improvisada": 0.0511,
+            "elevador_humano": 0.0697
           }
         },
         {
           "text": "Chamo ajuda e transformo numa atividade divertida em grupo",
           "points": {
-            "elevador_humano": 0.9,
-            "escada_infinita": 0.7,
-            "rampa_improvisada": 0.6,
-            "asa_de_icaro": 0.4,
-            "tunel_dimensional": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.8
+            "elevador_humano": 0.0165,
+            "escada_infinita": 0.028,
+            "rampa_improvisada": 0.0298,
+            "asa_de_icaro": 0.0263,
+            "tunel_dimensional": 0.0213,
+            "teletransporte_mental": 0.0359,
+            "cabo_de_vassoura": 0.0308,
+            "elevador_emocional": 0.0518
           }
         }
       ]
@@ -122,53 +122,53 @@
         {
           "text": "Faço uma lista detalhada e empacoto com dias de antecedência",
           "points": {
-            "escada_infinita": 0.9,
-            "rampa_improvisada": 0.5,
-            "elevador_humano": 0.6,
-            "teletransporte_mental": 0.2,
-            "asa_de_icaro": 0.3,
-            "tunel_dimensional": 0.4,
-            "cabo_de_vassoura": 0.1,
-            "elevador_emocional": 0.7
+            "escada_infinita": 0.027,
+            "rampa_improvisada": 0.0202,
+            "elevador_humano": 0.0192,
+            "teletransporte_mental": 0.0108,
+            "asa_de_icaro": 0.0252,
+            "tunel_dimensional": 0.0363,
+            "cabo_de_vassoura": 0.0168,
+            "elevador_emocional": 0.0441
           }
         },
         {
           "text": "Improviso na última hora, mas sempre acabo descobrindo soluções criativas",
           "points": {
-            "rampa_improvisada": 0.9,
-            "asa_de_icaro": 0.8,
-            "tunel_dimensional": 0.7,
-            "cabo_de_vassoura": 0.6,
-            "elevador_humano": 0.4,
-            "escada_infinita": 0.2,
-            "teletransporte_mental": 0.5,
-            "elevador_emocional": 0.3
+            "rampa_improvisada": 0.0258,
+            "asa_de_icaro": 0.0303,
+            "tunel_dimensional": 0.0309,
+            "cabo_de_vassoura": 0.0442,
+            "elevador_humano": 0.0267,
+            "escada_infinita": 0.0304,
+            "teletransporte_mental": 0.0609,
+            "elevador_emocional": 0.0323
           }
         },
         {
           "text": "Visualizo mentalmente cada etapa da viagem dando certo",
           "points": {
-            "teletransporte_mental": 0.9,
-            "elevador_emocional": 0.8,
-            "cabo_de_vassoura": 0.7,
-            "tunel_dimensional": 0.6,
-            "asa_de_icaro": 0.4,
-            "escada_infinita": 0.2,
-            "rampa_improvisada": 0.3,
-            "elevador_humano": 0.5
+            "teletransporte_mental": 0.019,
+            "elevador_emocional": 0.0114,
+            "cabo_de_vassoura": 0.0377,
+            "tunel_dimensional": 0.0388,
+            "asa_de_icaro": 0.0434,
+            "escada_infinita": 0.0309,
+            "rampa_improvisada": 0.0511,
+            "elevador_humano": 0.0697
           }
         },
         {
           "text": "Coordeno com todos os envolvidos para dividirmos responsabilidades",
           "points": {
-            "elevador_humano": 0.9,
-            "escada_infinita": 0.7,
-            "rampa_improvisada": 0.6,
-            "asa_de_icaro": 0.4,
-            "tunel_dimensional": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.8
+            "elevador_humano": 0.0165,
+            "escada_infinita": 0.028,
+            "rampa_improvisada": 0.0298,
+            "asa_de_icaro": 0.0263,
+            "tunel_dimensional": 0.0213,
+            "teletransporte_mental": 0.0359,
+            "cabo_de_vassoura": 0.0308,
+            "elevador_emocional": 0.0518
           }
         }
       ]
@@ -179,53 +179,53 @@
         {
           "text": "Sigo tutoriais passo a passo pacientemente até resolver",
           "points": {
-            "escada_infinita": 0.9,
-            "rampa_improvisada": 0.6,
-            "elevador_humano": 0.5,
-            "teletransporte_mental": 0.3,
-            "asa_de_icaro": 0.2,
-            "tunel_dimensional": 0.4,
-            "cabo_de_vassoura": 0.1,
-            "elevador_emocional": 0.7
+            "escada_infinita": 0.027,
+            "rampa_improvisada": 0.0241,
+            "elevador_humano": 0.0169,
+            "teletransporte_mental": 0.0158,
+            "asa_de_icaro": 0.0185,
+            "tunel_dimensional": 0.0363,
+            "cabo_de_vassoura": 0.0168,
+            "elevador_emocional": 0.044
           }
         },
         {
           "text": "Experimento soluções alternativas até algo funcionar",
           "points": {
-            "rampa_improvisada": 0.9,
-            "tunel_dimensional": 0.8,
-            "asa_de_icaro": 0.7,
-            "cabo_de_vassoura": 0.6,
-            "elevador_humano": 0.4,
-            "escada_infinita": 0.3,
-            "teletransporte_mental": 0.5,
-            "elevador_emocional": 0.2
+            "rampa_improvisada": 0.0258,
+            "tunel_dimensional": 0.026,
+            "asa_de_icaro": 0.0359,
+            "cabo_de_vassoura": 0.044,
+            "elevador_humano": 0.0266,
+            "escada_infinita": 0.0447,
+            "teletransporte_mental": 0.0656,
+            "elevador_emocional": 0.0243
           }
         },
         {
           "text": "Fecho os olhos e espero que magicamente se resolva sozinho",
           "points": {
-            "cabo_de_vassoura": 0.9,
-            "teletransporte_mental": 0.8,
-            "elevador_emocional": 0.7,
-            "tunel_dimensional": 0.6,
-            "asa_de_icaro": 0.5,
-            "rampa_improvisada": 0.4,
-            "escada_infinita": 0.2,
-            "elevador_humano": 0.3
+            "cabo_de_vassoura": 0.0268,
+            "teletransporte_mental": 0.0226,
+            "elevador_emocional": 0.0137,
+            "tunel_dimensional": 0.0385,
+            "asa_de_icaro": 0.0536,
+            "rampa_improvisada": 0.0619,
+            "escada_infinita": 0.0469,
+            "elevador_humano": 0.0518
           }
         },
         {
           "text": "Peço ajuda a conhecidos ou contrato um especialista",
           "points": {
-            "elevador_humano": 0.9,
-            "escada_infinita": 0.7,
-            "rampa_improvisada": 0.6,
-            "asa_de_icaro": 0.4,
-            "tunel_dimensional": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.8
+            "elevador_humano": 0.0165,
+            "escada_infinita": 0.028,
+            "rampa_improvisada": 0.0298,
+            "asa_de_icaro": 0.0263,
+            "tunel_dimensional": 0.0213,
+            "teletransporte_mental": 0.0359,
+            "cabo_de_vassoura": 0.0308,
+            "elevador_emocional": 0.0518
           }
         }
       ]
@@ -236,53 +236,53 @@
         {
           "text": "Divido em pequenas tarefas e vou progredindo consistentemente",
           "points": {
-            "escada_infinita": 0.9,
-            "rampa_improvisada": 0.5,
-            "elevador_humano": 0.6,
-            "teletransporte_mental": 0.2,
-            "asa_de_icaro": 0.3,
-            "tunel_dimensional": 0.4,
-            "cabo_de_vassoura": 0.1,
-            "elevador_emocional": 0.7
+            "escada_infinita": 0.027,
+            "rampa_improvisada": 0.0202,
+            "elevador_humano": 0.0192,
+            "teletransporte_mental": 0.0108,
+            "asa_de_icaro": 0.0252,
+            "tunel_dimensional": 0.0363,
+            "cabo_de_vassoura": 0.0168,
+            "elevador_emocional": 0.0441
           }
         },
         {
           "text": "Encontro atalhos e métodos não convencionais para acelerar",
           "points": {
-            "rampa_improvisada": 0.9,
-            "tunel_dimensional": 0.8,
-            "asa_de_icaro": 0.7,
-            "cabo_de_vassoura": 0.6,
-            "elevador_humano": 0.4,
-            "escada_infinita": 0.3,
-            "teletransporte_mental": 0.5,
-            "elevador_emocional": 0.2
+            "rampa_improvisada": 0.0258,
+            "tunel_dimensional": 0.026,
+            "asa_de_icaro": 0.0359,
+            "cabo_de_vassoura": 0.044,
+            "elevador_humano": 0.0266,
+            "escada_infinita": 0.0447,
+            "teletransporte_mental": 0.0656,
+            "elevador_emocional": 0.0243
           }
         },
         {
           "text": "Convenço a mim mesmo que o prazo é flexível",
           "points": {
-            "teletransporte_mental": 0.9,
-            "elevador_emocional": 0.8,
-            "cabo_de_vassoura": 0.7,
-            "tunel_dimensional": 0.6,
-            "asa_de_icaro": 0.4,
-            "escada_infinita": 0.2,
-            "rampa_improvisada": 0.3,
-            "elevador_humano": 0.5
+            "teletransporte_mental": 0.019,
+            "elevador_emocional": 0.0114,
+            "cabo_de_vassoura": 0.0377,
+            "tunel_dimensional": 0.0388,
+            "asa_de_icaro": 0.0434,
+            "escada_infinita": 0.0309,
+            "rampa_improvisada": 0.0511,
+            "elevador_humano": 0.0697
           }
         },
         {
           "text": "Mobilizo a equipe para trabalharmos juntos eficientemente",
           "points": {
-            "elevador_humano": 0.9,
-            "escada_infinita": 0.7,
-            "rampa_improvisada": 0.6,
-            "asa_de_icaro": 0.4,
-            "tunel_dimensional": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.8
+            "elevador_humano": 0.0165,
+            "escada_infinita": 0.028,
+            "rampa_improvisada": 0.0298,
+            "asa_de_icaro": 0.0263,
+            "tunel_dimensional": 0.0213,
+            "teletransporte_mental": 0.0359,
+            "cabo_de_vassoura": 0.0308,
+            "elevador_emocional": 0.0518
           }
         }
       ]
@@ -293,53 +293,53 @@
         {
           "text": "Sigo um currículo estruturado do básico ao avançado",
           "points": {
-            "escada_infinita": 0.9,
-            "rampa_improvisada": 0.5,
-            "elevador_humano": 0.6,
-            "teletransporte_mental": 0.2,
-            "asa_de_icaro": 0.3,
-            "tunel_dimensional": 0.4,
-            "cabo_de_vassoura": 0.1,
-            "elevador_emocional": 0.7
+            "escada_infinita": 0.027,
+            "rampa_improvisada": 0.0202,
+            "elevador_humano": 0.0192,
+            "teletransporte_mental": 0.0108,
+            "asa_de_icaro": 0.0252,
+            "tunel_dimensional": 0.0363,
+            "cabo_de_vassoura": 0.0168,
+            "elevador_emocional": 0.0441
           }
         },
         {
           "text": "Pulo direto para a prática e aprendo com os erros",
           "points": {
-            "rampa_improvisada": 0.9,
-            "asa_de_icaro": 0.8,
-            "tunel_dimensional": 0.7,
-            "cabo_de_vassoura": 0.6,
-            "elevador_humano": 0.4,
-            "escada_infinita": 0.3,
-            "teletransporte_mental": 0.5,
-            "elevador_emocional": 0.2
+            "rampa_improvisada": 0.0258,
+            "asa_de_icaro": 0.0302,
+            "tunel_dimensional": 0.0308,
+            "cabo_de_vassoura": 0.0441,
+            "elevador_humano": 0.0267,
+            "escada_infinita": 0.0447,
+            "teletransporte_mental": 0.0657,
+            "elevador_emocional": 0.0243
           }
         },
         {
           "text": "Assumo que já sei e confio que aprendo no caminho",
           "points": {
-            "teletransporte_mental": 0.9,
-            "elevador_emocional": 0.8,
-            "cabo_de_vassoura": 0.7,
-            "tunel_dimensional": 0.6,
-            "asa_de_icaro": 0.4,
-            "escada_infinita": 0.2,
-            "rampa_improvisada": 0.3,
-            "elevador_humano": 0.5
+            "teletransporte_mental": 0.019,
+            "elevador_emocional": 0.0114,
+            "cabo_de_vassoura": 0.0377,
+            "tunel_dimensional": 0.0388,
+            "asa_de_icaro": 0.0434,
+            "escada_infinita": 0.0309,
+            "rampa_improvisada": 0.0511,
+            "elevador_humano": 0.0697
           }
         },
         {
           "text": "Encontro um grupo de estudo ou parceiro de aprendizado",
           "points": {
-            "elevador_humano": 0.9,
-            "escada_infinita": 0.7,
-            "rampa_improvisada": 0.6,
-            "asa_de_icaro": 0.4,
-            "tunel_dimensional": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.8
+            "elevador_humano": 0.0165,
+            "escada_infinita": 0.028,
+            "rampa_improvisada": 0.0298,
+            "asa_de_icaro": 0.0263,
+            "tunel_dimensional": 0.0213,
+            "teletransporte_mental": 0.0359,
+            "cabo_de_vassoura": 0.0308,
+            "elevador_emocional": 0.0518
           }
         }
       ]
@@ -350,53 +350,54 @@
         {
           "text": "Crio um novo plano detalhado antes de continuar",
           "points": {
-            "escada_infinita": 0.9,
-            "rampa_improvisada": 0.5,
-            "elevador_humano": 0.6,
-            "teletransporte_mental": 0.2,
-            "asa_de_icaro": 0.3,
-            "tunel_dimensional": 0.4,
-            "cabo_de_vassoura": 0.1,
-            "elevador_emocional": 0.7
+            "escada_infinita": 0.027,
+            "rampa_improvisada": 0.0202,
+            "elevador_humano": 0.0192,
+            "teletransporte_mental": 0.0108,
+            "asa_de_icaro": 0.0252,
+            "tunel_dimensional": 0.0363,
+            "cabo_de_vassoura": 0.0168,
+            "elevador_emocional": 0.0441
           }
         },
         {
           "text": "Improviso soluções no momento com o que tenho disponível",
           "points": {
-            "极速飞艇开奖号码查询rampa_improvisada": 0.9,
-            "asa_de_icaro": 0.8,
-            "tunel_dimensional": 0.7,
-            "cabo_de_vassoura": 0.6,
-            "elevador_humano": 0.4,
-            "escada_infinita": 0.3,
-            "teletransporte_mental": 0.5,
-            "elevador_emocional": 0.2
+            "极速飞艇开奖号码查询rampa_improvisada": 1.25,
+            "asa_de_icaro": 0.0216,
+            "tunel_dimensional": 0.0196,
+            "cabo_de_vassoura": 0.0245,
+            "elevador_humano": 0.0124,
+            "escada_infinita": 0.0179,
+            "teletransporte_mental": 0.0236,
+            "elevador_emocional": 0.0064,
+            "rampa_improvisada": 0.001
           }
         },
         {
           "text": "Acredito que as coisas vão se resolver naturalmente",
           "points": {
-            "teletransporte_mental": 0.9,
-            "elevador_emocional": 0.8,
-            "cabo_de_vassoura": 0.7,
-            "tunel_dimensional": 0.6,
-            "asa_de_icaro": 0.4,
-            "escada_infinita": 0.2,
-            "rampa_improvisada": 0.3,
-            "elevador_humano": 0.5
+            "teletransporte_mental": 0.019,
+            "elevador_emocional": 0.0114,
+            "cabo_de_vassoura": 0.0377,
+            "tunel_dimensional": 0.0388,
+            "asa_de_icaro": 0.0434,
+            "escada_infinita": 0.0309,
+            "rampa_improvisada": 0.0511,
+            "elevador_humano": 0.0697
           }
         },
         {
           "text": "Peço opiniões e sugestões para encontrar a melhor alternativa",
           "points": {
-            "elevador_humano": 0.9,
-            "escada_infinita": 0.7,
-            "rampa_improvisada": 0.6,
-            "asa_de_icaro": 0.4,
-            "tunel_dimensional": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.8
+            "elevador_humano": 0.0165,
+            "escada_infinita": 0.028,
+            "rampa_improvisada": 0.0298,
+            "asa_de_icaro": 0.0263,
+            "tunel_dimensional": 0.0213,
+            "teletransporte_mental": 0.0359,
+            "cabo_de_vassoura": 0.0308,
+            "elevador_emocional": 0.0518
           }
         }
       ]
@@ -407,53 +408,53 @@
         {
           "text": "Pesquiso avaliações detalhadamente antes de decidir",
           "points": {
-            "escada_infinita": 0.9,
-            "rampa_improvisada": 0.5,
-            "elevador_humano": 0.6,
-            "teletransporte_mental": 0.2,
-            "asa_de_icaro": 0.3,
-            "tunel_dimensional": 0.4,
-            "cabo_de_vassoura": 0.1,
-            "elevador_emocional": 0.7
+            "escada_infinita": 0.027,
+            "rampa_improvisada": 0.0202,
+            "elevador_humano": 0.0192,
+            "teletransporte_mental": 0.0108,
+            "asa_de_icaro": 0.0252,
+            "tunel_dimensional": 0.0363,
+            "cabo_de_vassoura": 0.0168,
+            "elevador_emocional": 0.0441
           }
         },
         {
           "text": "Entro no primeiro lugar que parecer interessante",
           "points": {
-            "rampa_improvisada": 0.9,
-            "asa_de_icaro": 0.8,
-            "tunel_dimensional": 0.7,
-            "cabo_de_vassoura": 0.6,
-            "elevador_humano": 0.4,
-            "escada_infinita": 0.3,
-            "teletransporte_mental": 0.5,
-            "elevador_emocional": 0.2
+            "rampa_improvisada": 0.0258,
+            "asa_de_icaro": 0.0302,
+            "tunel_dimensional": 0.0308,
+            "cabo_de_vassoura": 0.0441,
+            "elevador_humano": 0.0267,
+            "escada_infinita": 0.0447,
+            "teletransporte_mental": 0.0657,
+            "elevador_emocional": 0.0243
           }
         },
         {
           "text": "Sigo minha intuição sem questionar",
           "points": {
-            "teletransporte_mental": 0.9,
-            "elevador_emocional": 0.8,
-            "cabo_de_vassoura": 0.7,
-            "tunel_dimensional": 0.6,
-            "asa_de_icaro": 0.4,
-            "escada_infinita": 0.2,
-            "rampa_improvisada": 0.3,
-            "elevador_humano": 0.5
+            "teletransporte_mental": 0.019,
+            "elevador_emocional": 0.0114,
+            "cabo_de_vassoura": 0.0377,
+            "tunel_dimensional": 0.0388,
+            "asa_de_icaro": 0.0434,
+            "escada_infinita": 0.0309,
+            "rampa_improvisada": 0.0511,
+            "elevador_humano": 0.0697
           }
         },
         {
           "text": "Pergunto a várias pessoas até encontrar um consenso",
           "points": {
-            "elevador_humano": 0.9,
-            "escada_infinita": 0.7,
-            "rampa_improvisada": 0.6,
-            "asa_de_icaro": 0.4,
-            "tunel_dimensional": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.8
+            "elevador_humano": 0.0165,
+            "escada_infinita": 0.028,
+            "rampa_improvisada": 0.0298,
+            "asa_de_icaro": 0.0263,
+            "tunel_dimensional": 0.0213,
+            "teletransporte_mental": 0.0359,
+            "cabo_de_vassoura": 0.0308,
+            "elevador_emocional": 0.0518
           }
         }
       ]
@@ -464,53 +465,53 @@
         {
           "text": "Sigo uma rotina consistente e gradual",
           "points": {
-            "escada_infinita": 0.9,
-            "rampa_improvisada": 0.5,
-            "elevador_humano": 0.6,
-            "teletransporte_mental": 0.2,
-            "asa_de_icaro": 0.3,
-            "tunel_dimensional": 0.4,
-            "cabo_de_vassoura": 0.1,
-            "elevador_emocional": 0.7
+            "escada_infinita": 0.027,
+            "rampa_improvisada": 0.0202,
+            "elevador_humano": 0.0192,
+            "teletransporte_mental": 0.0108,
+            "asa_de_icaro": 0.0252,
+            "tunel_dimensional": 0.0363,
+            "cabo_de_vassoura": 0.0168,
+            "elevador_emocional": 0.0441
           }
         },
         {
           "text": "Experimento diferentes atividades para não cair na rotina",
           "points": {
-            "rampa_improvisada": 0.9,
-            "asa_de_icaro": 0.8,
-            "tunel_dimensional": 0.7,
-            "cabo_de_vassoura": 0.6,
-            "elevador_humano": 0.4,
-            "escada_infinita": 0.3,
-            "teletransporte_mental": 0.5,
-            "elevador_emocional": 0.2
+            "rampa_improvisada": 0.0258,
+            "asa_de_icaro": 0.0302,
+            "tunel_dimensional": 0.0308,
+            "cabo_de_vassoura": 0.0441,
+            "elevador_humano": 0.0267,
+            "escada_infinita": 0.0447,
+            "teletransporte_mental": 0.0657,
+            "elevador_emocional": 0.0243
           }
         },
         {
           "text": "Acredito que o pensamento positivo já é exercício suficiente",
           "points": {
-            "teletransporte_mental": 0.9,
-            "elevador_emocional": 0.8,
-            "cabo_de_vassoura": 0.7,
-            "tunel_dimensional": 0.6,
-            "asa_de_icaro": 0.4,
-            "escada_infinita": 0.2,
-            "rampa_improvisada": 0.3,
-            "elevador_humano": 0.5
+            "teletransporte_mental": 0.019,
+            "elevador_emocional": 0.0114,
+            "cabo_de_vassoura": 0.0377,
+            "tunel_dimensional": 0.0388,
+            "asa_de_icaro": 0.0434,
+            "escada_infinita": 0.0309,
+            "rampa_improvisada": 0.0511,
+            "elevador_humano": 0.0697
           }
         },
         {
           "text": "Prefiro atividades em grupo ou com parceiro",
           "points": {
-            "elevador_humano": 0.9,
-            "escada_infinita": 0.7,
-            "rampa_improvisada": 0.6,
-            "asa_de_icaro": 0.4,
-            "tunel_dimensional": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.8
+            "elevador_humano": 0.0165,
+            "escada_infinita": 0.028,
+            "rampa_improvisada": 0.0298,
+            "asa_de_icaro": 0.0263,
+            "tunel_dimensional": 0.0213,
+            "teletransporte_mental": 0.0359,
+            "cabo_de_vassoura": 0.0308,
+            "elevador_emocional": 0.0518
           }
         }
       ]
@@ -521,53 +522,53 @@
         {
           "text": "Analiso prós e contras cuidadosamente antes de decidir",
           "points": {
-            "escada_infinita": 0.9,
-            "rampa_improvisada": 0.5,
-            "elevador_humano": 0.6,
-            "teletransporte_mental": 0.2,
-            "asa_de_icaro": 0.3,
-            "tunel_dimensional": 0.4,
-            "cabo_de_vassoura": 0.1,
-            "elevador_emocional": 0.7
+            "escada_infinita": 0.027,
+            "rampa_improvisada": 0.0202,
+            "elevador_humano": 0.0192,
+            "teletransporte_mental": 0.0108,
+            "asa_de_icaro": 0.0252,
+            "tunel_dimensional": 0.0363,
+            "cabo_de_vassoura": 0.0168,
+            "elevador_emocional": 0.0441
           }
         },
         {
           "text": "Sigo meu instinto e adapto conforme as coisas evoluem",
           "points": {
-            "rampa_improvisada": 0.9,
-            "asa_de_icaro": 0.8,
-            "tunel_dimensional": 0.7,
-            "cabo_de_vassoura": 0.6,
-            "elevador_humano": 0.4,
-            "escada_infinita": 0.3,
-            "teletransporte_mental": 0.5,
-            "elevador_emocional": 0.2
+            "rampa_improvisada": 0.0258,
+            "asa_de_icaro": 0.0302,
+            "tunel_dimensional": 0.0308,
+            "cabo_de_vassoura": 0.0441,
+            "elevador_humano": 0.0267,
+            "escada_infinita": 0.0447,
+            "teletransporte_mental": 0.0657,
+            "elevador_emocional": 0.0243
           }
         },
         {
           "text": "Confio que o universo vai guiar minhas escolhas",
           "points": {
-            "teletransporte_mental": 0.9,
-            "elevador_emocional": 0.8,
-            "cabo_de_vassoura": 0.7,
-            "tunel_dimensional": 0.6,
-            "asa_de_icaro": 0.4,
-            "escada_infinita": 0.2,
-            "rampa_improvisada": 0.3,
-            "elevador_humano": 0.5
+            "teletransporte_mental": 0.019,
+            "elevador_emocional": 0.0114,
+            "cabo_de_vassoura": 0.0377,
+            "tunel_dimensional": 0.0388,
+            "asa_de_icaro": 0.0434,
+            "escada_infinita": 0.0309,
+            "rampa_improvisada": 0.0511,
+            "elevador_humano": 0.0697
           }
         },
         {
           "text": "Consulto pessoas de confiança antes de decidir",
           "points": {
-            "elevador_humano": 0.9,
-            "escada_infinita": 0.7,
-            "rampa_improvisada": 0.6,
-            "asa_de_icaro": 0.4,
-            "tunel_dimensional": 0.3,
-            "teletransporte_mental": 0.5,
-            "cabo_de_vassoura": 0.2,
-            "elevador_emocional": 0.8
+            "elevador_humano": 0.0165,
+            "escada_infinita": 0.028,
+            "rampa_improvisada": 0.0298,
+            "asa_de_icaro": 0.0263,
+            "tunel_dimensional": 0.0213,
+            "teletransporte_mental": 0.0359,
+            "cabo_de_vassoura": 0.0308,
+            "elevador_emocional": 0.0518
           }
         }
       ]
