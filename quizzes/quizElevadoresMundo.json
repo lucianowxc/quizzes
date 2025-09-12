@@ -1,0 +1,626 @@
+{
+  "title": "Se Todos os Elevadores do Mundo Parassem: Qual Sua Arma Secreta?",
+  "subtitle": "Descubra como você sobreviveria em um mundo sem elevadores!",
+  "questions": [
+    {
+      "question": "Como você reage quando fica preso no trânsito?",
+      "answers": [
+        {
+          "text": "Aproveito para ouvir um podcast e aceito que chego quando chegar",
+          "points": {
+            "escada_infinita": 0.9,
+            "elevador_emocional": 0.7,
+            "elevador_humano": 0.5,
+            "rampa_improvisada": 0.3,
+            "teletransporte_mental": 0.6,
+            "asa_de_icaro": 0.2,
+            "tunel_dimensional": 极速飞艇开奖号码查询
+            "cabo_de_vassoura": 0.1
+          }
+        },
+        {
+          "text": "Procuro rotas alternativas imediatamente, mesmo que nunca tenha ido por elas",
+          "points": {
+            "rampa_improvisada": 0.9,
+            "tunel_dimensional": 0.8,
+            "asa_de_icaro": 0.6,
+            "elevador_humano": 0.4,
+            "escada_infinita": 0.3,
+            "teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.4
+          }
+        },
+        {
+          "text": "Começo a imaginar como seria teletransportar para fora dali",
+          "points": {
+            "teletransporte_mental": 0.9,
+            "elevador_emocional": 0.8,
+            "cabo_de_vassoura": 0.6,
+            "tunel_dimensional": 0.7,
+            "asa_de_icaro": 0.4,
+            "escada_infinita": 0.2,
+            "rampa_improvisada": 0.3,
+            "elevador_humano": 0.5
+          }
+        },
+        {
+          "text": "Penso em como poderíamos todos compartilhar caronas para evitar isso",
+          "points": {
+            "elevador_humano": 0.9,
+            "escada_infinita": 0.7,
+            "rampa_improvisada": 0.6,
+            "asa_de_icaro": 0.4,
+            "tunel_dimensional": 0.3,
+            "极速飞艇开奖号码查询teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é sua abordagem para organizar uma despensa bagunçada?",
+      "answers": [
+        {
+          "text": "Organizo tudo metodicamente, uma prateleira de cada vez",
+          "points": {
+            "escada_infinita": 0.9,
+            "rampa_improvisada": 0.6,
+            "elevador_humano": 0.5,
+            "teletransporte_mental": 0.2,
+            "asa_de_icaro": 0.3,
+            "tunel_dimensional": 0.4,
+            "cabo_de_vassoura": 0.1,
+            "elevador_emocional": 0.7
+          }
+        },
+        {
+          "text": "Crio um sistema improvisado com caixas e divisórias inusitadas",
+          "points": {
+            "rampa_improvisada": 0.9,
+            "asa_de_icaro": 0.7,
+            "tunel_dimensional": 0.6,
+            "cabo_de_vassoura": 0.5,
+            "elevador_humano": 0.4,
+            "escada_infinita": 0.3,
+            "teletransporte_mental": 0.4,
+            "elevador_emocional": 0.2
+          }
+        },
+        {
+          "text": "Imagino como seria se as coisas se organizassem sozinhas",
+          "points": {
+            "teletransporte_mental": 0.9,
+            "elevador_emocional": 0.8,
+            "cabo_de_vassoura": 0.7,
+            "tunel_dimensional": 0.6,
+            "asa_de_icaro": 0.4,
+            "escada_infinita": 0.2,
+            "rampa_improvisada": 0.3,
+            "elevador_humano": 0.5
+          }
+        },
+        {
+          "text": "Chamo ajuda e transformo numa atividade divertida em grupo",
+          "points": {
+            "elevador_humano": 0.9,
+            "escada_infinita": 0.7,
+            "rampa_improvisada": 0.6,
+            "asa_de_icaro": 0.4,
+            "tunel_dimensional": 0.3,
+            "teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você se prepara para uma viagem longa?",
+      "answers": [
+        {
+          "text": "Faço uma lista detalhada e empacoto com dias de antecedência",
+          "points": {
+            "escada_infinita": 0.9,
+            "rampa_improvisada": 0.5,
+            "elevador_h极速飞艇开奖号码查询umano": 0.6,
+            "teletransporte_mental": 0.2,
+            "asa_de_icaro": 0.3,
+            "tunel_dimensional": 0.4,
+            "cabo_de_vassoura": 0.1,
+            "elevador_emocional": 0.7
+          }
+        },
+        {
+          "text": "Improviso na última hora, mas sempre acabo descobrindo soluções criativas",
+          "points": {
+            "rampa_improvisada": 0.9,
+            "asa_de_icaro": 0.8,
+            "tunel_dimensional": 0.7,
+            "cabo_de_vassoura": 0.6,
+            "elevador_humano": 0.4,
+            "escada_infinita": 0.2,
+            "teletransporte_mental": 0.5,
+            "elevador_emocional": 0.3
+          }
+        },
+        {
+          "text": "Visualizo mentalmente cada etapa da viagem dando certo",
+          "points": {
+            "teletransporte_mental": 0.9,
+            "elevador_emocional": 0.8,
+            "cabo_de_vassoura": 0.7,
+            "tunel_dimensional": 0.6,
+            "asa_de_icaro": 0.4,
+            "escada_infinita": 0.2,
+            "rampa_improvisada": 0.3,
+            "elevador_humano": 0.5
+          }
+        },
+        {
+          "text": "Coordeno com todos os envolvidos para dividirmos responsabilidades",
+          "points": {
+            "elevador_humano": 0.9,
+            "escada_infinita": 0.7,
+            "rampa_improvisada": 0.6,
+            "asa_de_icaro": 0.4,
+            "tunel_dimensional": 0.3,
+            "teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você faz quando encontra um problema técnico no computador?",
+      "answers": [
+        {
+          "text": "Sigo tutoriais passo a passo pacientemente até resolver",
+          "points": {
+            "escada_infinita": 0.9,
+            "rampa_improvisada": 0.6,
+            "elevador_humano": 0.5,
+            "teletransporte_mental": 0.3,
+            "asa_de_icaro": 0.2,
+            "tunel_dimensional": 0.4,
+            "cabo_de_vassoura": 0.1,
+            "elevador_emocional": 0.7
+          }
+        },
+        {
+          "text": "Experimento soluções alternativas até algo funcionar",
+          "points": {
+            "rampa_improvisada": 0.9,
+            "tunel_dimensional": 0.8,
+            "asa_de_icaro": 0.7,
+            "cabo_de_vassoura": 0.6,
+            "elevador_humano": 0.4,
+            "escada_infinita": 0.3,
+            "teletransporte_mental": 0.5,
+            "elevador_emocional": 0.2
+          }
+        },
+        {
+          "text": "Fecho os olhos e espero que magicamente se resolva sozinho",
+          "points": {
+            "cabo_de_vassoura": 0.9,
+            "teletransporte_mental": 0.8,
+            "elevador_emocional": 0.7,
+            "tunel_dimensional": 0.6,
+            "asa_de_icaro": 0.5,
+            "rampa_improvisada": 0.4,
+            "escada_infinita": 0.2,
+            "elevador_humano": 0.3
+          }
+        },
+        {
+          "text": "Peço ajuda a conhecidos ou contrato um especialista",
+          "points": {
+            "elevador_humano": 0.9,
+            "escada_infinita": 0.7,
+            "rampa_improvisada": 0.6,
+            "asa_de_icaro": 0.4,
+            "tunel_dimensional": 0.3,
+            "teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com prazos apertados no trabalho?",
+      "answers": [
+        {
+          "text": "Divido em pequenas tarefas e vou progredindo consistentemente",
+          "points": {
+            "escada_infinita": 0.9,
+            "rampa_improvisada": 0.5,
+            "elevador_humano": 0.6,
+            "teletransporte_mental": 0.2,
+            "asa_de_icaro": 0.3,
+            "tunel_dimensional": 0.4,
+            "cabo_de_vassoura": 0.极速飞艇开奖号码查询1,
+            "elevador_emocional": 0.7
+          }
+        },
+        {
+          "text": "Encontro atalhos e métodos não convencionais para acelerar",
+          "points": {
+            "rampa_improvisada": 0.9,
+            "tunel_dimensional": 0.8,
+            "asa_de_icaro": 0.7,
+            "cabo_de_vassoura": 0.6,
+            "elevador_humano": 0.4,
+            "escada_infinita": 0.3,
+            "teletransporte_mental": 0.5,
+            "elevador_emocional": 0.2
+          }
+        },
+        {
+          "text": "Convenço a mim mesmo que o prazo é flexível",
+          "points": {
+            "teletransporte_mental": 0.9,
+            "elevador_emocional": 0.8,
+            "cabo_de_vassoura": 0.7,
+            "tunel_dimensional": 0.6,
+            "asa_de_icaro": 0.4,
+            "escada_infinita": 0.2,
+            "rampa_improvisada": 0.3,
+            "elevador_humano": 0.5
+          }
+极速飞艇开奖号码查询        },
+        {
+          "text": "Mobilizo a equipe para trabalharmos juntos eficientemente",
+          "points": {
+            "elevador_humano": 0.9,
+            "escada_infinita": 0.7,
+            "rampa_improvisada": 0.6,
+            "asa_de_icaro": 0.4,
+            "tunel_dimensional": 0.3,
+            "teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual sua estratégia para aprender algo completamente novo?",
+      "answers": [
+        {
+          "text": "Sigo um currículo estruturado do básico ao avançado",
+          "points": {
+            "escada_infinita": 0.9,
+            "rampa_improvisada": 0.5,
+            "elevador_humano": 0.6,
+            "teletransporte_mental": 0.2,
+            "asa_de_icaro": 0.3,
+            "tunel_dimensional": 0.4,
+            "cabo_de_vassoura": 0.1,
+            "elevador_emocional": 0.7
+          }
+        },
+        {
+          "text": "Pulo direto para a prática e aprendo com os erros",
+          "points": {
+            "rampa_improvisada": 0.9,
+            "asa_de_icaro": 0.8,
+            "tunel_dimensional": 0.7,
+            "cabo_de_vassoura": 0.6,
+            "elevador_humano": 0.4,
+            "escada_infinita": 0.3,
+            "teletransporte_mental": 0.5,
+            "elevador_emocional": 0.2
+          }
+        },
+        {
+          "text": "Assumo que já sei e confio que aprendo no caminho",
+          "points": {
+            "teletransporte_mental": 0.9,
+            "elevador_emocional": 0.8,
+            "cabo_de_vassoura": 0.7,
+            "tunel_dimensional": 0.6,
+            "asa_de_icaro": 0.4,
+            "escada_infinita": 0.2,
+            "rampa_improvisada": 0.3,
+            "elevador_humano": 0.5
+          }
+        },
+        {
+          "text": "Encontro um grupo de estudo ou parceiro de aprendizado",
+          "points": {
+            "elevador_humano": 0.9,
+            "escada_infinita": 0.7,
+            "rampa_improvisada": 0.6,
+            "asa_de_icaro": 0.4,
+            "tunel_dimensional": 0.3,
+            "teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você faz quando o plano original falha?",
+      "answers": [
+        {
+          "text": "Crio um novo plano detalhado antes de continuar",
+          "points": {
+            "escada_infinita": 0.9,
+            "rampa_improvisada": 0.5,
+            "elevador_humano": 0.6,
+            "teletransporte_mental": 0.2,
+            "asa_de_icaro": 0.3,
+            "tunel_dimensional": 0.4,
+            "cabo_de_vassoura": 0.1,
+            "elevador_emocional": 0.7
+          }
+        },
+        {
+          "text": "Improviso soluções no momento com o que tenho disponível",
+          "points": {
+            "极速飞艇开奖号码查询rampa_improvisada": 0.9,
+            "asa_de_icaro": 0.8,
+            "tunel_dimensional": 0.7,
+            "cabo_de_vassoura": 0.6,
+            "elevador_humano": 0.4,
+            "escada_infinita": 0.3,
+            "teletransporte_mental": 0.5,
+            "elevador_emocional": 0.2
+          }
+        },
+        {
+          "text": "Acredito que as coisas vão se resolver naturalmente",
+          "points": {
+            "teletransporte_mental": 0.9,
+            "elevador_emocional": 0.8,
+            "cabo_de_vassoura": 0.7,
+            "tunel_dimensional": 0.6,
+            "asa_de_icaro": 0.4,
+            "escada_infinita": 0.2,
+            "rampa_improvisada": 0.3,
+            "elevador_humano": 0.5
+          }
+        },
+        {
+          "text": "Peço opiniões e sugestões para encontrar a melhor alternativa",
+          "points": {
+            "elevador_humano": 0.9,
+            "escada_infinita": 0.7,
+            "rampa_improvisada": 0.6,
+            "asa_de_icaro": 0.4,
+            "tunel_dimensional": 0.3,
+            "teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você escolhe um restaurante novo para experimentar?",
+      "answers": [
+        {
+          "text": "Pesquiso avaliações detalhadamente antes de decidir",
+          "points": {
+            "escada_infinita": 0.9,
+            "rampa_improvisada": 0.5,
+            "elevador_humano": 0.6,
+            "teletransporte_mental": 0.2,
+            "asa_de_icaro": 0.3,
+            "tunel_dimensional": 0.4,
+            "cabo_de_vassoura": 0.1,
+            "elevador_emocional": 0.7
+          }
+        },
+        {
+          "text": "Entro no primeiro lugar que parecer interessante",
+          "points": {
+            "rampa_improvisada": 0.9,
+            "asa_de_icaro": 0.8,
+            "tunel_dimensional": 0.7,
+            "cabo_de_vassoura": 0.6,
+            "elevador_humano": 0.4,
+            "escada_infinita": 0.3,
+            "teletransporte_mental": 0.5,
+            "elevador_emocional": 0.2
+          }
+        },
+        {
+          "text": "Sigo minha intuição sem questionar",
+          "points": {
+            "teletransporte_mental": 0.9,
+            "elevador_emocional": 0.8,
+            "cabo_de_vassoura": 0.7,
+            "tunel_dimensional": 0.6,
+            "asa_de_icaro": 0.4,
+            "escada_infinita": 0.2,
+            "rampa_improvisada": 0.3,
+            "elevador_humano": 0.5
+          }
+        },
+        {
+          "text": "Pergunto a várias pessoas até encontrar um consenso",
+          "points": {
+            "elevador_humano": 0.9,
+            "escada_infinita": 0.7,
+            "rampa_improvisada": 0.6,
+            "asa_de_icaro": 0.4,
+            "tunel_dimensional": 0.3,
+            "teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é sua abordagem para exercícios físicos?",
+      "answers": [
+        {
+          "text": "Sigo uma rotina consistente e gradual",
+          "points": {
+            "escada_infinita": 0.9,
+            "rampa_improvisada": 0.5,
+            "elevador_humano": 0.6,
+            "teletransporte_mental": 0.2,
+            "asa_de_icaro": 0.3,
+            "tunel_dimensional": 0.4,
+            "cabo_de_vassoura": 0.1,
+            "elevador_emocional": 0.7
+          }
+        },
+        {
+          "text": "Experimento diferentes atividades para não cair na rotina",
+          "points": {
+            "rampa_improvisada": 0.9,
+            "asa_de_icaro": 0.8,
+            "tunel_dimensional": 0.7,
+            "cabo_de_vassoura": 0.6,
+            "elevador_humano": 0.4,
+            "escada_infinita": 0.3,
+            "teletransporte_mental": 0.5,
+            "elevador_emocional": 0.2
+          }
+        },
+        {
+          "极速飞艇开奖号码查询text": "Acredito que o pensamento positivo já é exercício suficiente",
+          "points": {
+            "teletransporte_mental": 0.9,
+            "elevador_emocional": 0.8,
+            "cabo_de_vassoura": 0.7,
+            "tunel_dimensional": 0.6,
+            "asa_de_icaro": 0.4,
+            "escada_infinita": 0.2,
+            "rampa_improvisada": 0.3,
+            "elevador_humano": 0.5
+          }
+        },
+        {
+          "text": "Prefiro atividades em grupo ou com parceiro",
+          "points": {
+            "elevador_humano": 0.9,
+            "escada_infinita": 0.7,
+            "rampa_improvisada": 0.6,
+            "asa_de_icaro": 0.4,
+            "tunel_dimensional": 0.3,
+            "teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você toma decisões importantes?",
+      "answers": [
+        {
+          "text": "Analiso prós e contras cuidadosamente antes de decidir",
+          "points": {
+            "escada_infinita": 0.9,
+            "rampa_improvisada": 0.5,
+            "elevador_humano": 0.6,
+            "teletransporte_mental": 0.2,
+            "asa_de_icaro": 0.3,
+            "tunel_dimensional": 0.4,
+            "cabo_de_vassoura": 0.1,
+            "elevador_emocional": 0.7
+          }
+        },
+        {
+          "text": "Sigo meu instinto e adapto conforme as coisas evoluem",
+          "points": {
+            "rampa_improvisada": 0.9,
+            "asa_de_icaro": 0.8,
+            "tunel_dimensional": 0.7,
+            "cabo_de_vassoura": 0.6,
+            "elevador_humano": 0.4,
+            "escada_infinita": 0.3,
+            "teletransporte_mental": 0.5,
+            "elevador_emocional": 0.2
+          }
+        },
+        {
+          "text": "Confio que o universo vai guiar minhas escolhas",
+          "points": {
+            "teletransporte_mental": 0.9,
+            "elevador_emocional": 0.8,
+            "极速飞艇开奖号码查询cabo_de_vassoura": 0.7,
+            "tunel_dimensional": 0.6,
+            "asa_de_icaro": 0.4,
+            "escada_infinita": 0.2,
+            "rampa_improvisada": 0.3,
+            "elevador_humano": 0.5
+          }
+        },
+        {
+          "text": "Consulto pessoas de confiança antes de decidir",
+          "points": {
+            "elevador_humano": 0.9,
+            "escada_infinita": 0.7,
+            "rampa_improvisada": 0.6,
+            "asa_de_icaro": 0.4,
+            "tunel_dimensional": 0.3,
+            "teletransporte_mental": 0.5,
+            "cabo_de_vassoura": 0.2,
+            "elevador_emocional": 0.8
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "escada_infinita": {
+      "title": "A Escada Infinita",
+      "emoji": "🌀",
+      "subtitle": "O Persistente Incansável",
+      "text": "Você encara os degraus como uma meditação ativa. Enquanto todos reclamam, você já está no 50º andar cantarolando. Sua resistência é lendária!"
+    },
+    "teletransporte_mental": {
+      "title": "Teletransporte Mental",
+      "emoji": "🧠",
+      "subtitle": "O Mestre da Ilusão",
+      "text": "Seu poder está na mente! Você convence a todos (e a si mesmo) que já chegou lá em cima. Quem precisa de elevador quando se tem autoengano?"
+    },
+    "asa_de_icaro": {
+      "title": "Asa de Ícaro",
+      "emoji": "🪽",
+      "subtitle": "O Visionário Aéreo",
+      "text": "Você construiu asas com cortinas de escritório e esperança. Às vezes dá certo, às vezes... bem, pelo menos a descida é emocionante!"
+    },
+    "elevador_humano": {
+      "title": "Elevador Humano",
+      "emoji": "👥",
+      "subtitle": "O Estrategista Social",
+      "text": "Você organiza turnos de carregamento humano. Todo mundo sobe junto, ninguém fita para trás. Sua arma é a cooperação!"
+    },
+    "rampa_improvisada": {
+      "title": "Rampa Improvisada",
+      "emoji": "🛹",
+      "subtitle": "O Pragmático Criativo",
+      "text": "Com uma prancha, dois livros e muita coragem, você transforma escadas em rampas. Skate, patins, carrinho de rolimã - tudo vale!"
+    },
+    "tunel_dimensional": {
+      "title": "Túnel Dimensional",
+      "emoji": "🕳️",
+      "subtitle": "O Teórico da Conspiração",
+      "text": "Você descobriu atalhos entre andares através de dutos de ventilação e armários de limpeza. Ninguém entende, mas funciona!"
+    },
+    "cabo_de_vassoura": {
+      "title": "Cabo de Vassoura Mágico",
+      "emoji": "🧹",
+      "subtitle": "O Otimista Encantado",
+      "text": "Você acredita que um dia vai acordar com poderes mágicos. Até lá, usa cabos de vassoura como varinhas de condomínio!"
+    },
+    "elevador_emocional": {
+      "title": "Elevador Emocional",
+      "emoji": "💫",
+      "subtitle": "O Guru Espiritual",
+      "text": "Você medita até elevar sua consciência para o andar desejado. Se o corpo não sobe, a alma alcança!"
+    }
+  }
+}
