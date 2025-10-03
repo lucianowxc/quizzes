@@ -444,6 +444,11 @@
       "name": "Se Todos os Elevadores do Mundo Parassem: Qual Sua Arma Secreta?",
       "file": "quizzes/quizElevadoresMundo.json",
       "description": "Descubra qual seria sua arma secreta em um mundo sem elevadores através deste quiz divertido e filosófico!"
+    },
+    {
+      "name": "Qual personagem de Stardew Valley seria seu par romântico ideal?",
+      "file": "quizzes/quizStardewValleyRomance.json",
+      "description": "Descubra com qual personagem de Stardew Valley você teria um romance perfeito no Vale!"
     }
     
 
