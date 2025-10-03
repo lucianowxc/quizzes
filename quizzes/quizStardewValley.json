@@ -8,39 +8,77 @@
         {
           "text": "💃 Socializando com amigos em uma festa animada",
           "points": {
-            "sam": 0.9,
-            "alex": 0.8,
-            "emily": 0.9,
-            "haley": 0.7,
-            "tretas_romanticas": 0.6
+            "sam": 0.0503,
+            "alex": 0.0537,
+            "emily": 0.0652,
+            "haley": 0.1168,
+            "tretas_romanticas": 0.1281,
+            "abigail": 0.0042,
+            "elliott": 0.0042,
+            "harvey": 0.0042,
+            "leah": 0.0047,
+            "maru": 0.0041,
+            "penny": 0.0038,
+            "sebastian": 0.0042,
+            "shane": 0.0039,
+            "solidão": 0.0053
           }
         },
         {
           "text": "📚 Lendo um livro ou estudando algo interessante",
           "points": {
-            "penny": 0.9,
-            "harvey": 0.8,
-            "elliott": 0.9,
-            "maru": 0.7,
-            "abigail": 0.6
+            "penny": 0.041,
+            "harvey": 0.0526,
+            "elliott": 0.0824,
+            "maru": 0.0995,
+            "abigail": 0.1475,
+            "alex": 0.004,
+            "emily": 0.0033,
+            "haley": 0.0048,
+            "leah": 0.0045,
+            "sam": 0.0047,
+            "sebastian": 0.0042,
+            "shane": 0.0038,
+            "solidão": 0.0051,
+            "tretas_romanticas": 0.0038
           }
         },
         {
           "text": "🎮 Jogando videogame ou no computador sozinho",
           "points": {
-            "sebastian": 0.9,
-            "abigail": 0.8,
-            "sam": 0.6,
-            "solidão": 0.7
+            "sebastian": 0.044,
+            "abigail": 0.0595,
+            "sam": 0.0781,
+            "solidão": 0.1528,
+            "alex": 0.0038,
+            "elliott": 0.0039,
+            "emily": 0.0031,
+            "haley": 0.0046,
+            "harvey": 0.0039,
+            "leah": 0.0043,
+            "maru": 0.0039,
+            "penny": 0.0037,
+            "shane": 0.0037,
+            "tretas_romanticas": 0.0036
           }
         },
         {
           "text": "🌳 Caminhando na natureza ou fazendo arte",
           "points": {
-            "leah": 0.9,
-            "emily": 0.7,
-            "elliott": 0.6,
-            "haley": 0.5
+            "leah": 0.0491,
+            "emily": 0.0427,
+            "elliott": 0.0725,
+            "haley": 0.1215,
+            "abigail": 0.004,
+            "alex": 0.004,
+            "harvey": 0.0039,
+            "maru": 0.0038,
+            "penny": 0.0037,
+            "sam": 0.0046,
+            "sebastian": 0.004,
+            "shane": 0.0039,
+            "solidão": 0.0051,
+            "tretas_romanticas": 0.0037
           }
         }
       ]
@@ -51,42 +89,96 @@
         {
           "text": "💜 Roxo - mistério e criatividade",
           "points": {
-            "abigail": 0.9,
-            "sebastian": 0.8,
-            "emily": 0.7
+            "abigail": 0.0464,
+            "sebastian": 0.0667,
+            "emily": 0.0909,
+            "alex": 0.0043,
+            "elliott": 0.0043,
+            "haley": 0.0051,
+            "harvey": 0.0043,
+            "leah": 0.0049,
+            "maru": 0.0044,
+            "penny": 0.0042,
+            "sam": 0.0052,
+            "shane": 0.0044,
+            "solidão": 0.0058,
+            "tretas_romanticas": 0.0043
           }
         },
         {
           "text": "💙 Azul - paz e tranquilidade",
           "points": {
-            "elliott": 0.8,
-            "harvey": 0.9,
-            "maru": 0.7,
-            "penny": 0.6
+            "elliott": 0.0405,
+            "harvey": 0.0635,
+            "maru": 0.0797,
+            "penny": 0.1139,
+            "abigail": 0.0042,
+            "alex": 0.0042,
+            "emily": 0.0034,
+            "haley": 0.0049,
+            "leah": 0.0046,
+            "sam": 0.0048,
+            "sebastian": 0.0042,
+            "shane": 0.004,
+            "solidão": 0.0053,
+            "tretas_romanticas": 0.004
           }
         },
         {
           "text": "💚 Verde - natureza e crescimento",
           "points": {
-            "leah": 0.9,
-            "emily": 0.6,
-            "haley": 0.5
+            "leah": 0.0491,
+            "emily": 0.0434,
+            "haley": 0.0985,
+            "abigail": 0.0039,
+            "alex": 0.0039,
+            "elliott": 0.004,
+            "harvey": 0.0039,
+            "maru": 0.0039,
+            "penny": 0.0038,
+            "sam": 0.0047,
+            "sebastian": 0.0041,
+            "shane": 0.004,
+            "solidão": 0.0053,
+            "tretas_romanticas": 0.0039
           }
         },
         {
           "text": "❤️ Vermelho - paixão e energia",
           "points": {
-            "alex": 0.8,
-            "shane": 0.7,
-            "sam": 0.6
+            "alex": 0.0407,
+            "shane": 0.0527,
+            "sam": 0.1078,
+            "abigail": 0.0039,
+            "elliott": 0.0038,
+            "emily": 0.0032,
+            "haley": 0.0046,
+            "harvey": 0.0039,
+            "leah": 0.0044,
+            "maru": 0.004,
+            "penny": 0.0038,
+            "sebastian": 0.0041,
+            "solidão": 0.0052,
+            "tretas_romanticas": 0.0039
           }
         },
         {
           "text": "🌈 Todas! Não consigo escolher uma só",
           "points": {
-            "emily": 0.8,
-            "tretas_romanticas": 0.7,
-            "haley": 0.6
+            "emily": 0.0325,
+            "tretas_romanticas": 0.0508,
+            "haley": 0.1171,
+            "abigail": 0.004,
+            "alex": 0.0041,
+            "elliott": 0.0041,
+            "harvey": 0.0041,
+            "leah": 0.0046,
+            "maru": 0.004,
+            "penny": 0.0039,
+            "sam": 0.0048,
+            "sebastian": 0.0042,
+            "shane": 0.004,
+            "solidão": 0.0054
           }
         }
       ]
@@ -97,33 +189,77 @@
         {
           "text": "🛹 Skate - liberdade e diversão",
           "points": {
-            "sam": 0.9,
-            "sebastian": 0.7,
-            "alex": 0.6
+            "sam": 0.0503,
+            "sebastian": 0.0588,
+            "alex": 0.0983,
+            "abigail": 0.0039,
+            "elliott": 0.0039,
+            "emily": 0.0032,
+            "haley": 0.0047,
+            "harvey": 0.004,
+            "leah": 0.0045,
+            "maru": 0.004,
+            "penny": 0.0039,
+            "shane": 0.0039,
+            "solidão": 0.0054,
+            "tretas_romanticas": 0.004
           }
         },
         {
           "text": "🚗 Carro - conforto e praticidade",
           "points": {
-            "alex": 0.7,
-            "harvey": 0.6,
-            "maru": 0.5
+            "alex": 0.0356,
+            "harvey": 0.0491,
+            "maru": 0.0763,
+            "abigail": 0.0039,
+            "elliott": 0.0038,
+            "emily": 0.0032,
+            "haley": 0.0047,
+            "leah": 0.0045,
+            "penny": 0.0037,
+            "sam": 0.0047,
+            "sebastian": 0.0041,
+            "shane": 0.004,
+            "solidão": 0.0053,
+            "tretas_romanticas": 0.004
           }
         },
         {
           "text": "🚶 Caminhada - observar os detalhes",
           "points": {
-            "leah": 0.8,
-            "penny": 0.7,
-            "elliott": 0.6
+            "leah": 0.0436,
+            "penny": 0.0517,
+            "elliott": 0.0944,
+            "abigail": 0.0041,
+            "alex": 0.0041,
+            "emily": 0.0033,
+            "haley": 0.0048,
+            "harvey": 0.0041,
+            "maru": 0.0042,
+            "sam": 0.0048,
+            "sebastian": 0.0042,
+            "shane": 0.0041,
+            "solidão": 0.0055,
+            "tretas_romanticas": 0.004
           }
         },
         {
           "text": "✨ Teletransporte - evita encontros desnecessários",
           "points": {
-            "sebastian": 0.8,
-            "solidão": 0.9,
-            "shane": 0.7
+            "sebastian": 0.0392,
+            "solidão": 0.0829,
+            "shane": 0.1056,
+            "abigail": 0.0041,
+            "alex": 0.004,
+            "elliott": 0.0041,
+            "emily": 0.0033,
+            "haley": 0.0049,
+            "harvey": 0.0042,
+            "leah": 0.0047,
+            "maru": 0.0042,
+            "penny": 0.0041,
+            "sam": 0.005,
+            "tretas_romanticas": 0.004
           }
         }
       ]
@@ -134,33 +270,77 @@
         {
           "text": "💪 Enfrento de frente com confiança total",
           "points": {
-            "alex": 0.9,
-            "sam": 0.7,
-            "emily": 0.6
+            "alex": 0.0457,
+            "sam": 0.0672,
+            "emily": 0.0787,
+            "abigail": 0.0042,
+            "elliott": 0.0041,
+            "haley": 0.0049,
+            "harvey": 0.0042,
+            "leah": 0.0047,
+            "maru": 0.0042,
+            "penny": 0.0041,
+            "sebastian": 0.0044,
+            "shane": 0.0043,
+            "solidão": 0.0056,
+            "tretas_romanticas": 0.0042
           }
         },
         {
           "text": "🔍 Analiso logicamente antes de agir",
           "points": {
-            "maru": 0.9,
-            "harvey": 0.8,
-            "penny": 0.6
+            "maru": 0.0435,
+            "harvey": 0.0677,
+            "penny": 0.0938,
+            "abigail": 0.0041,
+            "alex": 0.0041,
+            "elliott": 0.0042,
+            "emily": 0.0034,
+            "haley": 0.005,
+            "leah": 0.0047,
+            "sam": 0.0049,
+            "sebastian": 0.0044,
+            "shane": 0.0042,
+            "solidão": 0.0056,
+            "tretas_romanticas": 0.0042
           }
         },
         {
           "text": "🎨 Busco inspiração criativa para resolver",
           "points": {
-            "leah": 0.9,
-            "elliott": 0.8,
-            "abigail": 0.6
+            "leah": 0.0491,
+            "elliott": 0.0663,
+            "abigail": 0.1047,
+            "alex": 0.004,
+            "emily": 0.0032,
+            "haley": 0.0047,
+            "harvey": 0.0041,
+            "maru": 0.004,
+            "penny": 0.0038,
+            "sam": 0.0047,
+            "sebastian": 0.0042,
+            "shane": 0.004,
+            "solidão": 0.0053,
+            "tretas_romanticas": 0.0039
           }
         },
         {
           "text": "😓 Espero passar ou que alguém resolva",
           "points": {
-            "shane": 0.8,
-            "solidão": 0.7,
-            "tretas_romanticas": 0.6
+            "shane": 0.0368,
+            "solidão": 0.0702,
+            "tretas_romanticas": 0.0859,
+            "abigail": 0.0042,
+            "alex": 0.0042,
+            "elliott": 0.0041,
+            "emily": 0.0034,
+            "haley": 0.005,
+            "harvey": 0.0042,
+            "leah": 0.0047,
+            "maru": 0.0042,
+            "penny": 0.0041,
+            "sam": 0.005,
+            "sebastian": 0.0045
           }
         }
       ]
@@ -171,33 +351,77 @@
         {
           "text": "🎵 Tocar um instrumento musical",
           "points": {
-            "sam": 0.9,
-            "sebastian": 0.7,
-            "abigail": 0.6
+            "sam": 0.0503,
+            "sebastian": 0.0584,
+            "abigail": 0.0985,
+            "alex": 0.004,
+            "elliott": 0.004,
+            "emily": 0.0033,
+            "haley": 0.0048,
+            "harvey": 0.0041,
+            "leah": 0.0046,
+            "maru": 0.0041,
+            "penny": 0.0039,
+            "shane": 0.004,
+            "solidão": 0.0054,
+            "tretas_romanticas": 0.0039
           }
         },
         {
           "text": "🔬 Fazer experimentos científicos",
           "points": {
-            "maru": 0.9,
-            "harvey": 0.7,
-            "penny": 0.5
+            "maru": 0.0435,
+            "harvey": 0.0628,
+            "penny": 0.0823,
+            "abigail": 0.004,
+            "alex": 0.004,
+            "elliott": 0.0041,
+            "emily": 0.0034,
+            "haley": 0.0049,
+            "leah": 0.0046,
+            "sam": 0.0048,
+            "sebastian": 0.0043,
+            "shane": 0.0042,
+            "solidão": 0.0055,
+            "tretas_romanticas": 0.004
           }
         },
         {
           "text": "🏀 Esportes e atividades físicas",
           "points": {
-            "alex": 0.9,
-            "haley": 0.6,
-            "emily": 0.5
+            "alex": 0.0457,
+            "haley": 0.0636,
+            "emily": 0.0752,
+            "abigail": 0.004,
+            "elliott": 0.004,
+            "harvey": 0.004,
+            "leah": 0.0044,
+            "maru": 0.004,
+            "penny": 0.0038,
+            "sam": 0.0048,
+            "sebastian": 0.0042,
+            "shane": 0.004,
+            "solidão": 0.0054,
+            "tretas_romanticas": 0.004
           }
         },
         {
           "text": "🍳 Cozinhar e cuidar de animais",
           "points": {
-            "penny": 0.7,
-            "shane": 0.8,
-            "leah": 0.6
+            "penny": 0.0319,
+            "shane": 0.0563,
+            "leah": 0.1071,
+            "abigail": 0.0039,
+            "alex": 0.0039,
+            "elliott": 0.004,
+            "emily": 0.0033,
+            "haley": 0.0048,
+            "harvey": 0.0041,
+            "maru": 0.004,
+            "sam": 0.0048,
+            "sebastian": 0.0042,
+            "solidão": 0.0054,
+            "tretas_romanticas": 0.0039
           }
         }
       ]
@@ -208,33 +432,77 @@
         {
           "text": "🏙️ Centro da cidade com muita gente",
           "points": {
-            "sam": 0.8,
-            "alex": 0.7,
-            "haley": 0.6
+            "sam": 0.0448,
+            "alex": 0.0575,
+            "haley": 0.1058,
+            "abigail": 0.0039,
+            "elliott": 0.0039,
+            "emily": 0.0032,
+            "harvey": 0.0039,
+            "leah": 0.0044,
+            "maru": 0.0039,
+            "penny": 0.0038,
+            "sebastian": 0.0041,
+            "shane": 0.0039,
+            "solidão": 0.0052,
+            "tretas_romanticas": 0.0038
           }
         },
         {
           "text": "📚 Biblioteca ou laboratório silencioso",
           "points": {
-            "penny": 0.9,
-            "maru": 0.8,
-            "harvey": 0.7
+            "penny": 0.041,
+            "maru": 0.0636,
+            "harvey": 0.1119,
+            "abigail": 0.0041,
+            "alex": 0.0041,
+            "elliott": 0.0042,
+            "emily": 0.0034,
+            "haley": 0.005,
+            "leah": 0.0047,
+            "sam": 0.0049,
+            "sebastian": 0.0044,
+            "shane": 0.0042,
+            "solidão": 0.0056,
+            "tretas_romanticas": 0.0041
           }
         },
         {
           "text": "🌊 Praia ou floresta isolada",
           "points": {
-            "elliott": 0.9,
-            "leah": 0.8,
-            "sebastian": 0.6
+            "elliott": 0.0455,
+            "leah": 0.0756,
+            "sebastian": 0.0987,
+            "abigail": 0.0039,
+            "alex": 0.0039,
+            "emily": 0.0033,
+            "haley": 0.0047,
+            "harvey": 0.004,
+            "maru": 0.0039,
+            "penny": 0.0038,
+            "sam": 0.0047,
+            "shane": 0.004,
+            "solidão": 0.0053,
+            "tretas_romanticas": 0.004
           }
         },
         {
           "text": "💎 Loja de cristais ou espaço espiritual",
           "points": {
-            "emily": 0.9,
-            "abigail": 0.7,
-            "tretas_romanticas": 0.5
+            "emily": 0.0365,
+            "abigail": 0.0645,
+            "tretas_romanticas": 0.081,
+            "alex": 0.0042,
+            "elliott": 0.0043,
+            "haley": 0.005,
+            "harvey": 0.0043,
+            "leah": 0.0048,
+            "maru": 0.0043,
+            "penny": 0.004,
+            "sam": 0.0051,
+            "sebastian": 0.0045,
+            "shane": 0.0043,
+            "solidão": 0.0057
           }
         }
       ]
@@ -245,33 +513,77 @@
         {
           "text": "🎉 Festas e encontros com amigos",
           "points": {
-            "sam": 0.9,
-            "alex": 0.8,
-            "emily": 0.7
+            "sam": 0.0503,
+            "alex": 0.0664,
+            "emily": 0.0885,
+            "abigail": 0.0043,
+            "elliott": 0.0043,
+            "haley": 0.0051,
+            "harvey": 0.0043,
+            "leah": 0.0049,
+            "maru": 0.0043,
+            "penny": 0.0042,
+            "sebastian": 0.0045,
+            "shane": 0.0044,
+            "solidão": 0.0058,
+            "tretas_romanticas": 0.0043
           }
         },
         {
           "text": "🧘 Rotina tranquila e previsível",
           "points": {
-            "penny": 0.8,
-            "harvey": 0.7,
-            "maru": 0.6
+            "penny": 0.0364,
+            "harvey": 0.0572,
+            "maru": 0.0918,
+            "abigail": 0.0041,
+            "alex": 0.0041,
+            "elliott": 0.0041,
+            "emily": 0.0034,
+            "haley": 0.0049,
+            "leah": 0.0047,
+            "sam": 0.0049,
+            "sebastian": 0.0043,
+            "shane": 0.0042,
+            "solidão": 0.0055,
+            "tretas_romanticas": 0.0041
           }
         },
         {
           "text": "⚡ Aventuras imprevisíveis e emocionantes",
           "points": {
-            "abigail": 0.8,
-            "leah": 0.7,
-            "tretas_romanticas": 0.9
+            "abigail": 0.0412,
+            "leah": 0.0602,
+            "tretas_romanticas": 0.1019,
+            "alex": 0.0044,
+            "elliott": 0.0045,
+            "emily": 0.0036,
+            "haley": 0.0053,
+            "harvey": 0.0046,
+            "maru": 0.0045,
+            "penny": 0.0042,
+            "sam": 0.0053,
+            "sebastian": 0.0046,
+            "shane": 0.0044,
+            "solidão": 0.0059
           }
         },
         {
           "text": "🚫 Sozinho, sem compromissos sociais",
           "points": {
-            "sebastian": 0.8,
-            "shane": 0.7,
-            "solidão": 0.9
+            "sebastian": 0.0392,
+            "shane": 0.0487,
+            "solidão": 0.141,
+            "abigail": 0.0041,
+            "alex": 0.004,
+            "elliott": 0.0042,
+            "emily": 0.0033,
+            "haley": 0.0049,
+            "harvey": 0.0042,
+            "leah": 0.0046,
+            "maru": 0.0042,
+            "penny": 0.004,
+            "sam": 0.005,
+            "tretas_romanticas": 0.004
           }
         }
       ]
@@ -282,33 +594,77 @@
         {
           "text": "💝 Ler mentes e entender emoções",
           "points": {
-            "harvey": 0.7,
-            "penny": 0.8,
-            "emily": 0.6
+            "harvey": 0.0347,
+            "penny": 0.0559,
+            "emily": 0.0779,
+            "abigail": 0.0043,
+            "alex": 0.0044,
+            "elliott": 0.0044,
+            "haley": 0.0052,
+            "leah": 0.0049,
+            "maru": 0.0044,
+            "sam": 0.0052,
+            "sebastian": 0.0046,
+            "shane": 0.0044,
+            "solidão": 0.0059,
+            "tretas_romanticas": 0.0044
           }
         },
         {
           "text": "🔧 Criar qualquer invenção tecnológica",
           "points": {
-            "maru": 0.9,
-            "sebastian": 0.7,
-            "sam": 0.5
+            "maru": 0.0435,
+            "sebastian": 0.0618,
+            "sam": 0.0997,
+            "abigail": 0.0038,
+            "alex": 0.0038,
+            "elliott": 0.0039,
+            "emily": 0.0032,
+            "haley": 0.0046,
+            "harvey": 0.0039,
+            "leah": 0.0045,
+            "penny": 0.0038,
+            "shane": 0.0039,
+            "solidão": 0.0052,
+            "tretas_romanticas": 0.0039
           }
         },
         {
           "text": "🌱 Controlar a natureza e os animais",
           "points": {
-            "leah": 0.8,
-            "shane": 0.7,
-            "elliott": 0.6
+            "leah": 0.0436,
+            "shane": 0.0519,
+            "elliott": 0.096,
+            "abigail": 0.0041,
+            "alex": 0.004,
+            "emily": 0.0033,
+            "haley": 0.0047,
+            "harvey": 0.0042,
+            "maru": 0.0042,
+            "penny": 0.0039,
+            "sam": 0.0049,
+            "sebastian": 0.0044,
+            "solidão": 0.0055,
+            "tretas_romanticas": 0.004
           }
         },
         {
           "text": "🎭 Ser invisível quando quisesse",
           "points": {
-            "sebastian": 0.8,
-            "solidão": 0.9,
-            "shane": 0.6
+            "sebastian": 0.0392,
+            "solidão": 0.0845,
+            "shane": 0.0972,
+            "abigail": 0.004,
+            "alex": 0.004,
+            "elliott": 0.004,
+            "emily": 0.0033,
+            "haley": 0.0048,
+            "harvey": 0.0041,
+            "leah": 0.0046,
+            "maru": 0.0042,
+            "penny": 0.004,
+            "sam": 0.005,
+            "tretas_romanticas": 0.004
           }
         }
       ]
@@ -319,33 +675,77 @@
         {
           "text": "💐 Algo feito por você mesmo, com carinho",
           "points": {
-            "leah": 0.8,
-            "penny": 0.7,
-            "emily": 0.6
+            "leah": 0.0436,
+            "penny": 0.0519,
+            "emily": 0.0767,
+            "abigail": 0.0042,
+            "alex": 0.0042,
+            "elliott": 0.0043,
+            "haley": 0.0051,
+            "harvey": 0.0044,
+            "maru": 0.0043,
+            "sam": 0.0051,
+            "sebastian": 0.0045,
+            "shane": 0.0044,
+            "solidão": 0.0058,
+            "tretas_romanticas": 0.0043
           }
         },
         {
           "text": "🎁 Presentes caros e sofisticados",
           "points": {
-            "haley": 0.8,
-            "alex": 0.6,
-            "elliott": 0.5
+            "haley": 0.0468,
+            "alex": 0.058,
+            "elliott": 0.0858,
+            "abigail": 0.0037,
+            "emily": 0.003,
+            "harvey": 0.0037,
+            "leah": 0.0042,
+            "maru": 0.0037,
+            "penny": 0.0035,
+            "sam": 0.0045,
+            "sebastian": 0.004,
+            "shane": 0.0038,
+            "solidão": 0.0051,
+            "tretas_romanticas": 0.0037
           }
         },
         {
           "text": "🤔 Algo prático que a pessoa realmente precisa",
           "points": {
-            "maru": 0.7,
-            "harvey": 0.8,
-            "shane": 0.5
+            "maru": 0.034,
+            "harvey": 0.0629,
+            "shane": 0.0795,
+            "abigail": 0.0041,
+            "alex": 0.0041,
+            "elliott": 0.0041,
+            "emily": 0.0034,
+            "haley": 0.0049,
+            "leah": 0.0047,
+            "penny": 0.0039,
+            "sam": 0.0049,
+            "sebastian": 0.0044,
+            "solidão": 0.0056,
+            "tretas_romanticas": 0.0041
           }
         },
         {
           "text": "😅 Esqueço de dar presentes...",
           "points": {
-            "sebastian": 0.6,
-            "solidão": 0.7,
-            "tretas_romanticas": 0.5
+            "sebastian": 0.0295,
+            "solidão": 0.0639,
+            "tretas_romanticas": 0.0715,
+            "abigail": 0.004,
+            "alex": 0.004,
+            "elliott": 0.0041,
+            "emily": 0.0033,
+            "haley": 0.0048,
+            "harvey": 0.0041,
+            "leah": 0.0046,
+            "maru": 0.0042,
+            "penny": 0.0039,
+            "sam": 0.0049,
+            "shane": 0.0041
           }
         }
       ]
@@ -356,33 +756,77 @@
         {
           "text": "💖 Romântico e dedicado",
           "points": {
-            "penny": 0.8,
-            "harvey": 0.7,
-            "elliott": 0.9
+            "penny": 0.0364,
+            "harvey": 0.0534,
+            "elliott": 0.1179,
+            "abigail": 0.0043,
+            "alex": 0.0044,
+            "emily": 0.0035,
+            "haley": 0.0051,
+            "leah": 0.0049,
+            "maru": 0.0044,
+            "sam": 0.0051,
+            "sebastian": 0.0044,
+            "shane": 0.0043,
+            "solidão": 0.0057,
+            "tretas_romanticas": 0.0042
           }
         },
         {
           "text": "🎯 Direto e sincero, sem rodeios",
           "points": {
-            "alex": 0.8,
-            "shane": 0.7,
-            "leah": 0.6
+            "alex": 0.0407,
+            "shane": 0.0528,
+            "leah": 0.1059,
+            "abigail": 0.0039,
+            "elliott": 0.0038,
+            "emily": 0.0032,
+            "haley": 0.0046,
+            "harvey": 0.004,
+            "maru": 0.0039,
+            "penny": 0.0038,
+            "sam": 0.0047,
+            "sebastian": 0.0042,
+            "solidão": 0.0053,
+            "tretas_romanticas": 0.0039
           }
         },
         {
           "text": "🌈 Livre e imprevisível",
           "points": {
-            "emily": 0.8,
-            "abigail": 0.7,
-            "tretas_romanticas": 0.9
+            "emily": 0.0325,
+            "abigail": 0.056,
+            "tretas_romanticas": 0.1063,
+            "alex": 0.0046,
+            "elliott": 0.0046,
+            "haley": 0.0054,
+            "harvey": 0.0046,
+            "leah": 0.0052,
+            "maru": 0.0046,
+            "penny": 0.0044,
+            "sam": 0.0054,
+            "sebastian": 0.0048,
+            "shane": 0.0045,
+            "solidão": 0.0061
           }
         },
         {
           "text": "🚪 Prefiro ficar sozinho, é mais simples",
           "points": {
-            "sebastian": 0.7,
-            "solidão": 0.9,
-            "shane": 0.6
+            "sebastian": 0.0343,
+            "solidão": 0.081,
+            "shane": 0.0943,
+            "abigail": 0.004,
+            "alex": 0.004,
+            "elliott": 0.004,
+            "emily": 0.0033,
+            "haley": 0.0048,
+            "harvey": 0.0041,
+            "leah": 0.0046,
+            "maru": 0.0042,
+            "penny": 0.004,
+            "sam": 0.005,
+            "tretas_romanticas": 0.004
           }
         }
       ]
@@ -393,33 +837,78 @@
         {
           "text": "🍕 Pizza e comida rápida",
           "points": {
-            "sam": 0.9,
-            "sebastian": 0.7,
-            "alex": 0.6
+            "sam": 0.0503,
+            "sebastian": 0.0588,
+            "alex": 0.0983,
+            "abigail": 0.0039,
+            "elliott": 0.0039,
+            "emily": 0.0032,
+            "haley": 0.0047,
+            "harvey": 0.004,
+            "leah": 0.0045,
+            "maru": 0.004,
+            "penny": 0.0039,
+            "shane": 0.0039,
+            "solidão": 0.0054,
+            "tretas_romanticas": 0.004
           }
         },
         {
           "text": "🥗 Saladas e comida saudável",
           "points": {
-            "leah": 0.8,
-            "harvey": 0.7,
-            "penny": 0.6
+            "leah": 0.0436,
+            "harvey": 0.0563,
+            "penny": 0.0856,
+            "abigail": 0.004,
+            "alex": 0.0041,
+            "elliott": 0.0041,
+            "emily": 0.0033,
+            "haley": 0.005,
+            "maru": 0.0041,
+            "sam": 0.0049,
+            "sebastian": 0.0043,
+            "shane": 0.0042,
+            "solidão": 0.0056,
+            "tretas_romanticas": 0.0041
           }
         },
         {
           "text": "🍺 Cerveja e comidas de boteco",
           "points": {
-            "shane": 0.9,
-            "pam": 0.5,
-            "tretas_romanticas": 0.4
+            "shane": 0.0413,
+            "pam": 0.8642,
+            "tretas_romanticas": 0.0279,
+            "abigail": 0.001,
+            "alex": 0.001,
+            "elliott": 0.001,
+            "emily": 0.0008,
+            "haley": 0.0012,
+            "harvey": 0.0009,
+            "leah": 0.0011,
+            "maru": 0.0009,
+            "penny": 0.0009,
+            "sam": 0.0011,
+            "sebastian": 0.001,
+            "solidão": 0.0012
           }
         },
         {
           "text": "🍰 Doces e sobremesas elaboradas",
           "points": {
-            "haley": 0.7,
-            "emily": 0.6,
-            "abigail": 0.5
+            "haley": 0.041,
+            "emily": 0.0436,
+            "abigail": 0.0869,
+            "alex": 0.0038,
+            "elliott": 0.0038,
+            "harvey": 0.0038,
+            "leah": 0.0043,
+            "maru": 0.0038,
+            "penny": 0.0037,
+            "sam": 0.0046,
+            "sebastian": 0.0041,
+            "shane": 0.0038,
+            "solidão": 0.0052,
+            "tretas_romanticas": 0.0038
           }
         }
       ]
@@ -430,33 +919,77 @@
         {
           "text": "💕 Lealdade e estabilidade emocional",
           "points": {
-            "penny": 0.8,
-            "harvey": 0.9,
-            "maru": 0.6
+            "penny": 0.0364,
+            "harvey": 0.0699,
+            "maru": 0.0985,
+            "abigail": 0.0041,
+            "alex": 0.0042,
+            "elliott": 0.0042,
+            "emily": 0.0034,
+            "haley": 0.005,
+            "leah": 0.0048,
+            "sam": 0.0049,
+            "sebastian": 0.0044,
+            "shane": 0.0042,
+            "solidão": 0.0055,
+            "tretas_romanticas": 0.0041
           }
         },
         {
           "text": "⚡ Emoção e aventura constante",
           "points": {
-            "abigail": 0.8,
-            "sam": 0.7,
-            "tretas_romanticas": 0.9
+            "abigail": 0.0412,
+            "sam": 0.0616,
+            "tretas_romanticas": 0.1026,
+            "alex": 0.0044,
+            "elliott": 0.0045,
+            "emily": 0.0036,
+            "haley": 0.0053,
+            "harvey": 0.0045,
+            "leah": 0.005,
+            "maru": 0.0045,
+            "penny": 0.0042,
+            "sebastian": 0.0047,
+            "shane": 0.0044,
+            "solidão": 0.0059
           }
         },
         {
           "text": "🧠 Inteligência e conversas profundas",
           "points": {
-            "elliott": 0.8,
-            "maru": 0.9,
-            "sebastian": 0.7
+            "elliott": 0.0405,
+            "maru": 0.0688,
+            "sebastian": 0.112,
+            "abigail": 0.004,
+            "alex": 0.0041,
+            "emily": 0.0033,
+            "haley": 0.0048,
+            "harvey": 0.0041,
+            "leah": 0.0047,
+            "penny": 0.0039,
+            "sam": 0.0049,
+            "shane": 0.0041,
+            "solidão": 0.0055,
+            "tretas_romanticas": 0.0041
           }
         },
         {
           "text": "🤷 Honestidade, mesmo que doa",
           "points": {
-            "shane": 0.7,
-            "leah": 0.6,
-            "alex": 0.8
+            "shane": 0.0322,
+            "leah": 0.0515,
+            "alex": 0.1034,
+            "abigail": 0.004,
+            "elliott": 0.004,
+            "emily": 0.0033,
+            "haley": 0.0048,
+            "harvey": 0.0041,
+            "maru": 0.0041,
+            "penny": 0.0039,
+            "sam": 0.005,
+            "sebastian": 0.0044,
+            "solidão": 0.0056,
+            "tretas_romanticas": 0.0041
           }
         }
       ]
