@@ -1,0 +1,551 @@
+{
+  "title": "Qual personagem de Stardew Valley seria seu par romântico ideal?",
+  "subtitle": "Descubra com quem você daria match no Vale!",
+  "questions": [
+    {
+      "question": "Como você recarrega suas energias após um dia cansativo?",
+      "answers": [
+        {
+          "text": "💃 Socializando com amigos em uma festa animada",
+          "points": {
+            "sam": 0.9,
+            "alex": 0.8,
+            "emily": 0.9,
+            "haley": 0.7,
+            "tretas_romanticas": 0.6
+          }
+        },
+        {
+          "text": "📚 Lendo um livro ou estudando algo interessante",
+          "points": {
+            "penny": 0.9,
+            "harvey": 0.8,
+            "elliott": 0.9,
+            "maru": 0.7,
+            "abigail": 0.6
+          }
+        },
+        {
+          "text": "🎮 Jogando videogame ou no computador sozinho",
+          "points": {
+            "sebastian": 0.9,
+            "abigail": 0.8,
+            "sam": 0.6,
+            "solidão": 0.7
+          }
+        },
+        {
+          "text": "🌳 Caminhando na natureza ou fazendo arte",
+          "points": {
+            "leah": 0.9,
+            "emily": 0.7,
+            "elliott": 0.6,
+            "haley": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é sua cor favorita?",
+      "answers": [
+        {
+          "text": "💜 Roxo - mistério e criatividade",
+          "points": {
+            "abigail": 0.9,
+            "sebastian": 0.8,
+            "emily": 0.7
+          }
+        },
+        {
+          "text": "💙 Azul - paz e tranquilidade",
+          "points": {
+            "elliott": 0.8,
+            "harvey": 0.9,
+            "maru": 0.7,
+            "penny": 0.6
+          }
+        },
+        {
+          "text": "💚 Verde - natureza e crescimento",
+          "points": {
+            "leah": 0.9,
+            "emily": 0.6,
+            "haley": 0.5
+          }
+        },
+        {
+          "text": "❤️ Vermelho - paixão e energia",
+          "points": {
+            "alex": 0.8,
+            "shane": 0.7,
+            "sam": 0.6
+          }
+        },
+        {
+          "text": "🌈 Todas! Não consigo escolher uma só",
+          "points": {
+            "emily": 0.8,
+            "tretas_romanticas": 0.7,
+            "haley": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual meio de transporte combina mais com você?",
+      "answers": [
+        {
+          "text": "🛹 Skate - liberdade e diversão",
+          "points": {
+            "sam": 0.9,
+            "sebastian": 0.7,
+            "alex": 0.6
+          }
+        },
+        {
+          "text": "🚗 Carro - conforto e praticidade",
+          "points": {
+            "alex": 0.7,
+            "harvey": 0.6,
+            "maru": 0.5
+          }
+        },
+        {
+          "text": "🚶 Caminhada - observar os detalhes",
+          "points": {
+            "leah": 0.8,
+            "penny": 0.7,
+            "elliott": 0.6
+          }
+        },
+        {
+          "text": "✨ Teletransporte - evita encontros desnecessários",
+          "points": {
+            "sebastian": 0.8,
+            "solidão": 0.9,
+            "shane": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com problemas difíceis?",
+      "answers": [
+        {
+          "text": "💪 Enfrento de frente com confiança total",
+          "points": {
+            "alex": 0.9,
+            "sam": 0.7,
+            "emily": 0.6
+          }
+        },
+        {
+          "text": "🔍 Analiso logicamente antes de agir",
+          "points": {
+            "maru": 0.9,
+            "harvey": 0.8,
+            "penny": 0.6
+          }
+        },
+        {
+          "text": "🎨 Busco inspiração criativa para resolver",
+          "points": {
+            "leah": 0.9,
+            "elliott": 0.8,
+            "abigail": 0.6
+          }
+        },
+        {
+          "text": "😓 Espero passar ou que alguém resolva",
+          "points": {
+            "shane": 0.8,
+            "solidão": 0.7,
+            "tretas_romanticas": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual desses hobbies te atrai mais?",
+      "answers": [
+        {
+          "text": "🎵 Tocar um instrumento musical",
+          "points": {
+            "sam": 0.9,
+            "sebastian": 0.7,
+            "abigail": 0.6
+          }
+        },
+        {
+          "text": "🔬 Fazer experimentos científicos",
+          "points": {
+            "maru": 0.9,
+            "harvey": 0.7,
+            "penny": 0.5
+          }
+        },
+        {
+          "text": "🏀 Esportes e atividades físicas",
+          "points": {
+            "alex": 0.9,
+            "haley": 0.6,
+            "emily": 0.5
+          }
+        },
+        {
+          "text": "🍳 Cozinhar e cuidar de animais",
+          "points": {
+            "penny": 0.7,
+            "shane": 0.8,
+            "leah": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual ambiente te deixa mais feliz?",
+      "answers": [
+        {
+          "text": "🏙️ Centro da cidade com muita gente",
+          "points": {
+            "sam": 0.8,
+            "alex": 0.7,
+            "haley": 0.6
+          }
+        },
+        {
+          "text": "📚 Biblioteca ou laboratório silencioso",
+          "points": {
+            "penny": 0.9,
+            "maru": 0.8,
+            "harvey": 0.7
+          }
+        },
+        {
+          "text": "🌊 Praia ou floresta isolada",
+          "points": {
+            "elliott": 0.9,
+            "leah": 0.8,
+            "sebastian": 0.6
+          }
+        },
+        {
+          "text": "💎 Loja de cristais ou espaço espiritual",
+          "points": {
+            "emily": 0.9,
+            "abigail": 0.7,
+            "tretas_romanticas": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como são seus finais de semana ideais?",
+      "answers": [
+        {
+          "text": "🎉 Festas e encontros com amigos",
+          "points": {
+            "sam": 0.9,
+            "alex": 0.8,
+            "emily": 0.7
+          }
+        },
+        {
+          "text": "🧘 Rotina tranquila e previsível",
+          "points": {
+            "penny": 0.8,
+            "harvey": 0.7,
+            "maru": 0.6
+          }
+        },
+        {
+          "text": "⚡ Aventuras imprevisíveis e emocionantes",
+          "points": {
+            "abigail": 0.8,
+            "leah": 0.7,
+            "tretas_romanticas": 0.9
+          }
+        },
+        {
+          "text": "🚫 Sozinho, sem compromissos sociais",
+          "points": {
+            "sebastian": 0.8,
+            "shane": 0.7,
+            "solidão": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual superpoder você gostaria de ter?",
+      "answers": [
+        {
+          "text": "💝 Ler mentes e entender emoções",
+          "points": {
+            "harvey": 0.7,
+            "penny": 0.8,
+            "emily": 0.6
+          }
+        },
+        {
+          "text": "🔧 Criar qualquer invenção tecnológica",
+          "points": {
+            "maru": 0.9,
+            "sebastian": 0.7,
+            "sam": 0.5
+          }
+        },
+        {
+          "text": "🌱 Controlar a natureza e os animais",
+          "points": {
+            "leah": 0.8,
+            "shane": 0.7,
+            "elliott": 0.6
+          }
+        },
+        {
+          "text": "🎭 Ser invisível quando quisesse",
+          "points": {
+            "sebastian": 0.8,
+            "solidão": 0.9,
+            "shane": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual tipo de presente você mais gosta de dar?",
+      "answers": [
+        {
+          "text": "💐 Algo feito por você mesmo, com carinho",
+          "points": {
+            "leah": 0.8,
+            "penny": 0.7,
+            "emily": 0.6
+          }
+        },
+        {
+          "text": "🎁 Presentes caros e sofisticados",
+          "points": {
+            "haley": 0.8,
+            "alex": 0.6,
+            "elliott": 0.5
+          }
+        },
+        {
+          "text": "🤔 Algo prático que a pessoa realmente precisa",
+          "points": {
+            "maru": 0.7,
+            "harvey": 0.8,
+            "shane": 0.5
+          }
+        },
+        {
+          "text": "😅 Esqueço de dar presentes...",
+          "points": {
+            "sebastian": 0.6,
+            "solidão": 0.7,
+            "tretas_romanticas": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você se descreveria em relacionamentos?",
+      "answers": [
+        {
+          "text": "💖 Romântico e dedicado",
+          "points": {
+            "penny": 0.8,
+            "harvey": 0.7,
+            "elliott": 0.9
+          }
+        },
+        {
+          "text": "🎯 Direto e sincero, sem rodeios",
+          "points": {
+            "alex": 0.8,
+            "shane": 0.7,
+            "leah": 0.6
+          }
+        },
+        {
+          "text": "🌈 Livre e imprevisível",
+          "points": {
+            "emily": 0.8,
+            "abigail": 0.7,
+            "tretas_romanticas": 0.9
+          }
+        },
+        {
+          "text": "🚪 Prefiro ficar sozinho, é mais simples",
+          "points": {
+            "sebastian": 0.7,
+            "solidão": 0.9,
+            "shane": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas comidas seria sua favorita?",
+      "answers": [
+        {
+          "text": "🍕 Pizza e comida rápida",
+          "points": {
+            "sam": 0.9,
+            "sebastian": 0.7,
+            "alex": 0.6
+          }
+        },
+        {
+          "text": "🥗 Saladas e comida saudável",
+          "points": {
+            "leah": 0.8,
+            "harvey": 0.7,
+            "penny": 0.6
+          }
+        },
+        {
+          "text": "🍺 Cerveja e comidas de boteco",
+          "points": {
+            "shane": 0.9,
+            "pam": 0.5,
+            "tretas_romanticas": 0.4
+          }
+        },
+        {
+          "text": "🍰 Doces e sobremesas elaboradas",
+          "points": {
+            "haley": 0.7,
+            "emily": 0.6,
+            "abigail": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você mais valoriza em um parceiro?",
+      "answers": [
+        {
+          "text": "💕 Lealdade e estabilidade emocional",
+          "points": {
+            "penny": 0.8,
+            "harvey": 0.9,
+            "maru": 0.6
+          }
+        },
+        {
+          "text": "⚡ Emoção e aventura constante",
+          "points": {
+            "abigail": 0.8,
+            "sam": 0.7,
+            "tretas_romanticas": 0.9
+          }
+        },
+        {
+          "text": "🧠 Inteligência e conversas profundas",
+          "points": {
+            "elliott": 0.8,
+            "maru": 0.9,
+            "sebastian": 0.7
+          }
+        },
+        {
+          "text": "🤷 Honestidade, mesmo que doa",
+          "points": {
+            "shane": 0.7,
+            "leah": 0.6,
+            "alex": 0.8
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "abigail": {
+      "title": "Abigail",
+      "emoji": "🔮",
+      "subtitle": "A Aventureira Alternativa",
+      "text": "Você encontrou a Abigail! Ela adora aventuras, tocar música e tudo que é misterioso. Sempre pronta para explorar as minas e tem um espírito livre que não se prende a convenções. Cuidado - ela pode querer comer suas pedras preciosas!"
+    },
+    "alex": {
+      "title": "Alex",
+      "emoji": "🏈",
+      "subtitle": "O Atleta de Coração Sensível",
+      "text": "Seu par é o Alex! Por trás da confiança de atista, há um coração sensível e leal. Ele sonha em se tornar um jogador profissional e valoriza muito a família. Prepare-se para muitos treinos e conversas sobre esportes!"
+    },
+    "elliott": {
+      "title": "Elliott",
+      "emoji": "🌊",
+      "subtitle": "O Escritor Romântico",
+      "text": "Você e Elliott foram feitos um para o outro! Um escritor sensível que vive em uma cabana à beira-mar, apreciando a beleza das pequenas coisas. Prepare-se para poemas, declarações elaboradas e longos passeios na praia."
+    },
+    "emily": {
+      "title": "Emily",
+      "emoji": "🧵",
+      "subtitle": "A Espírito Livre e Mística",
+      "text": "Emily é sua alma gêmea! Excêntrica, alegre e espiritual, ela vê mágica em tudo. Adora dançar, cristais e moda alternativa. Sua vida com ela será cheia de cores, sonhos e talvez algumas visões proféticas!"
+    },
+    "haley": {
+      "title": "Haley",
+      "emoji": "📸",
+      "subtitle": "A Rainha do Estilo em Transformação",
+      "text": "Você combina com a Haley! No início pode parecer superficial, mas no fundo tem um coração dourado que se revela com paciência. Ela adora fotografia, moda e acaba descobrindo uma paixão pela natureza."
+    },
+    "harvey": {
+      "title": "Harvey",
+      "emoji": "🩺",
+      "subtitle": "O Médico Cuidadoso",
+      "text": "Você encontrou o Harvey! Um médico dedicado e um pouco tímido, mas incrivelmente carinhoso. Adora café, aviação e sempre se preocupa com o bem-estar dos outros. Perfeito para quem busca uma relação estável e acolhedora."
+    },
+    "leah": {
+      "title": "Leah",
+      "emoji": "🎨",
+      "subtitle": "A Artista Natureba",
+      "text": "Leah é a sua alma gêmea! Uma artista talentosa que ama a natureza e vive de forma sustentável. Independente e criativa, adora esculturas com materiais naturais e longas caminhadas na floresta."
+    },
+    "maru": {
+      "title": "Maru",
+      "emoji": "🔧",
+      "subtitle": "A Cientista Inventiva",
+      "text": "Você combina com Maru! Uma cientista brilhante e curiosa, sempre criando invenções incríveis no seu laboratório. Otimista e adora explorar as estrelas. Com ela, cada dia é uma nova descoberta tecnológica!"
+    },
+    "penny": {
+      "title": "Penny",
+      "emoji": "📚",
+      "subtitle": "A Professora Doce",
+      "text": "Seu par é Penny! Ela é gentil, reservada e adora ensinar as crianças do Vale. Valoriza a família e um lar aconchegante. Sonha com uma vida simples e cheia de amor - perfeita para construir um futuro juntos."
+    },
+    "sam": {
+      "title": "Sam",
+      "emoji": "🛹",
+      "subtitle": "O Skatista Descontraído",
+      "text": "Sam é o seu par ideal! Um espírito livre e descontraído que adora skate, música e piadas. Toca na banda local e sempre mantém um coração jovem. Prepare-se para muitas risadas e pizzas congeladas!"
+    },
+    "sebastian": {
+      "title": "Sebastian",
+      "emoji": "🐸",
+      "subtitle": "O Misterioso Programador",
+      "text": "Sebastian combina com você! Um programador introvertido que adora motos, RPGs e sapos. Pode ser fechado, mas é leal e profundo quando você conquista sua confiança. Dates incluirão sessões de RPG na sua sala escura."
+    },
+    "shane": {
+      "title": "Shane",
+      "emoji": "🐔",
+      "subtitle": "O Fazendeiro de Galinhas com Coração Dourado",
+      "text": "Shane é o seu par! Pode ser rude no início, mas no fundo é uma pessoa dourada que ama galinhas e... bem, cerveja. Com paciência e cuidado, você descobre seu lado sensível e protetor. Cuidado com os pés sujos de lama!"
+    },
+    "solidão": {
+      "title": "Solidão",
+      "emoji": "🌾",
+      "subtitle": "Sua Própria Melhor Companhia",
+      "text": "Que surpresa! Seu par romântico ideal é... você mesmo! Você valoriza sua independência e não precisa de ninguém para ser feliz. Aprecia seu próprio espaço, hobbies e a liberdade de fazer o que quiser, quando quiser. A fazenda é seu verdadeiro amor!"
+    },
+    "tretas_romanticas": {
+      "title": "Tretas Românticas",
+      "emoji": "💔",
+      "subtitle": "Mestre do Drama Amoroso",
+      "text": "Incrível! Você não tem UM par romântico ideal... você tem POTENCIAL para todos! Suas respostas indicam que você atrai - e provavelmente gosta - de um pouco de drama. Sua vida amorosa no Vale seria uma novela cheia de conflitos, ciúmes e reconciliação dramáticas. Pelo menos não vai ficar entediado!"
+    }
+  }
+}
