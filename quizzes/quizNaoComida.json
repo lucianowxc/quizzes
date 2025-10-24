@@ -1,0 +1,158 @@
+{
+  "title": "Qual Não-Comida da Infância Define Sua Personalidade Adulta?",
+  "subtitle": "Aquele 'snack' proibido revela quem você é hoje.",
+  "questions": [
+    {
+      "question": "Qual é a sua cor 'favorita' no momento em que você precisa tomar uma decisão importante?",
+      "answers": [
+        { "text": "🛑 Vermelho, pois representa a paixão e a urgência.", "points": { "pilha": 0.8, "palito_de_fosforo": 0.5, "giz_de_cera": 0.4 } },
+        { "text": "🟫 Marrom. É a cor da estabilidade e do que não precisa ser lavado.", "points": { "terra": 0.9, "tijolo": 0.5, "areia": 0.1 } },
+        { "text": "🌫️ Transparente. Assim eu evito que notem o que estou fazendo.", "points": { "pasta_de_dente": 0.7, "sabonete": 0.6, "papel": 0.3 } },
+        { "text": "🟡 Dourado. É a cor do meu futuro investimento.", "points": { "moeda": 0.9, "pilha": 0.4 } }
+      ]
+    },
+    {
+      "question": "Se você pudesse se comunicar apenas com um tipo de som, qual seria?",
+      "answers": [
+        { "text": "🔇 O som seco de um papel sendo amassado ou rasgado.", "points": { "papel": 0.9, "areia": 0.5 } },
+        { "text": "🔊 Um estalo alto de explosão que chama a atenção imediata.", "points": { "palito_de_fosforo": 1, "pilha": 0.6 } },
+        { "text": "🪙 O barulho metálico de um cofrinho chacoalhando.", "points": { "moeda": 0.8, "tijolo": 0.2 } },
+        { "text": "😭 Um gemido melodramático. Preciso expressar a profundidade da minha alma.", "points": { "sabonete": 0.9, "giz_de_cera": 0.4 } }
+      ]
+    },
+    {
+      "question": "Onde você gasta a maior parte do seu tempo livre?",
+      "answers": [
+        { "text": "🛋️ Em casa, tentando organizar a bagunça que criei (e falhando miseravelmente).", "points": { "areia": 0.7, "giz_de_cera": 0.6, "terra": 0.3 } },
+        { "text": "💻 Na internet, pesquisando 'como ficar rico rápido' e ignorando as contas a pagar.", "points": { "moeda": 0.6, "pilha": 0.8 } },
+        { "text": "🔭 Em uma 'caixa de observação', analisando o comportamento alheio para me sentir superior.", "points": { "pasta_de_dente": 0.8, "papel": 0.4, "tijolo": 0.3 } },
+        { "text": "🏕️ Em qualquer lugar que possa me sujar sem ser julgado. A vida é muito curta para desinfetar.", "points": { "terra": 0.7, "palito_de_fosforo": 0.4 } }
+      ]
+    },
+    {
+      "question": "O que você faz quando descobre que alguém está errado em um debate acalorado?",
+      "answers": [
+        { "text": "🗣️ Continuo apresentando meus fatos até que a pessoa ceda por exaustão ou pânico.", "points": { "papel": 0.8, "tijolo": 0.7, "pasta_de_dente": 0.5 } },
+        { "text": "💥 Eu perco o controle, solto uma frase explosiva e depois me arrependo (ou não).", "points": { "palito_de_fosforo": 1, "pilha": 0.6 } },
+        { "text": "🎭 Choro ou faço um drama imenso sobre como me sinto invalidado.", "points": { "sabonete": 0.9, "giz_de_cera": 0.3 } },
+        { "text": "💸 Calculo quanto tempo e dinheiro estou perdendo nessa discussão inútil.", "points": { "moeda": 0.9, "papel": 0.3 } }
+      ]
+    },
+    {
+      "question": "Se você fosse um meme, qual seria a sua vibe?",
+      "answers": [
+        { "text": "🤯 Um meme caótico, onde as cores não combinam e a legenda não faz sentido. Mas é *arte*.", "points": { "giz_de_cera": 0.9, "areia": 0.5 } },
+        { "text": "🤮 Um meme de 'bad vibe' ou cringe, que todos riem de vergonha alheia.", "points": { "terra": 0.8, "sabonete": 0.4 } },
+        { "text": "🔋 Um meme de 'stonks' ou 'investimento', com um plano arriscado que pode dar muito certo ou muito errado.", "points": { "pilha": 0.9, "moeda": 0.7 } },
+        { "text": "🧱 Um meme 'tradicionalista', que só usa fontes Arial e não entende a graça de um Doge.", "points": { "tijolo": 0.8, "papel": 0.4 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua rotina de limpeza mais 'questionável'?",
+      "answers": [
+        { "text": "🍽️ Uso meu polegar para 'limpar' um prato e o guardo de volta. Água e sabão são opcionais.", "points": { "terra": 0.9, "palito_de_fosforo": 0.2 } },
+        { "text": "🧴 Uso sabonete líquido como shampoo, pasta de dente ou para qualquer outra coisa. Um produto, mil funções.", "points": { "sabonete": 0.9, "pasta_de_dente": 0.6 } },
+        { "text": "🧹 Dou uma 'passada de pano' superficial, já que vou desarrumar tudo de novo em cinco minutos.", "points": { "areia": 0.8, "giz_de_cera": 0.4 } },
+        { "text": "🔒 Não limpo nada, mas tenho todos os comprovantes e notas fiscais organizados em ordem cronológica.", "points": { "papel": 0.7, "tijolo": 0.5 } }
+      ]
+    },
+    {
+      "question": "Você recebe uma herança inesperada. O que faz primeiro?",
+      "answers": [
+        { "text": "📈 Coloco 90% em um investimento de alto risco. A adrenalina é tudo!", "points": { "pilha": 0.9, "moeda": 0.6, "palito_de_fosforo": 0.4 } },
+        { "text": "📝 Contrato um advogado e um contador. Preciso de documentos e segurança jurídica.", "points": { "papel": 0.9, "pasta_de_dente": 0.5 } },
+        { "text": "🎨 Compro materiais de arte caríssimos e começo 10 projetos que jamais terminarei.", "points": { "giz_de_cera": 1, "areia": 0.5 } },
+        { "text": "🧳 Sumo. Compro uma passagem só de ida para um lugar isolado e sem saneamento.", "points": { "terra": 0.9, "tijolo": 0.1 } }
+      ]
+    },
+    {
+      "question": "Seus vizinhos estão fazendo barulho às 3 da manhã. Qual é sua reação?",
+      "answers": [
+        { "text": "🚪 Bato na porta, faço um escândalo e digo que vou chamar a polícia (e a mãe deles).", "points": { "palito_de_fosforo": 0.9, "sabonete": 0.7, "tijolo": 0.4 } },
+        { "text": "😌 Fico quieto e anoto todos os detalhes, datas e horas para uma 'ação futura' documentada.", "points": { "papel": 0.7, "pasta_de_dente": 0.8 } },
+        { "text": "⛏️ Saio de casa, cavo um buraco no jardim e medito sobre a insignificância da vida.", "points": { "terra": 0.8, "areia": 0.5 } },
+        { "text": "💸 Vou até lá e cobro uma 'taxa de inconveniência' pelo meu sono perdido.", "points": { "moeda": 0.9, "pilha": 0.3 } }
+      ]
+    },
+    {
+      "question": "Você está montando um móvel de uma [Loja de Móveis Populares]. O que acontece?",
+      "answers": [
+        { "text": "🪚 Ignoro o manual e digo: 'Eu sou um adulto, sei como funciona'. Resultado: sobra uma peça crucial.", "points": { "tijolo": 0.9, "palito_de_fosforo": 0.5 } },
+        { "text": "😭 Grito, choro, ligo para a sua mãe, e posto no Instagram sobre o drama da sua vida.", "points": { "sabonete": 0.9, "giz_de_cera": 0.4 } },
+        { "text": "🗑️ Perco uma peça e decido que a peça que sobrou não é importante. Fica 'areia' para outro dia.", "points": { "areia": 0.8, "terra": 0.2 } },
+        { "text": "✨ Em algum momento eu decidi que não precisava de manual, pois a criatividade me guia.", "points": { "giz_de_cera": 0.7, "pilha": 0.3 } }
+      ]
+    },
+    {
+      "question": "Se você tivesse que escolher uma ferramenta para resolver um problema complexo no trabalho, qual seria?",
+      "answers": [
+        { "text": "📏 Uma régua, para garantir que tudo seja feito de maneira previsível e sem desvios.", "points": { "tijolo": 0.8, "papel": 0.6 } },
+        { "text": "🧯 Um extintor de incêndio, porque o problema vai explodir, e eu tenho que estar pronto para o caos.", "points": { "palito_de_fosforo": 0.9, "pilha": 0.5 } },
+        { "text": "🎁 Um 'presente' (ou suborno) para fazer o problema sumir ou ser transferido para outro.", "points": { "moeda": 0.8, "pasta_de_dente": 0.7 } },
+        { "text": "🫧 Um sabão, para 'limpar' o ambiente e culpar a falta de transparência alheia.", "points": { "sabonete": 0.8, "terra": 0.4 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "terra": {
+      "title": "Terra (Pica-pau)",
+      "emoji": "🪱",
+      "subtitle": "O Desprendido (e Sujo)",
+      "text": "Você tinha os pés firmes (e a boca cheia) na terra. Adulto, você é uma pessoa que ignora totalmente as normas sociais. Acha que 'higiene' é um conceito burguês e provavelmente não lava a louça há uma semana. O que não mata, engorda... ou te dá parasitas. Lembre-se: 'terra' é figurado na maior parte das conversas adultas. "
+    },
+    "pilha": {
+      "title": "Pilha (Energizer)",
+      "emoji": "⚡",
+      "subtitle": "O 'Toma Risco' Irresponsável",
+      "text": "Você buscava a adrenalina pura e o sabor metálico do perigo. Adulto, você é a pessoa que faz 'day trade' com o aluguel, 'empresta' dinheiro do seu 401k para um esquema de pirâmide, e acha que 'termo de garantia' é para os fracos. Sua energia é inquestionável, mas o curto-circuito é iminente. Perigo! Alto teor de metais pesados na vida, e não é só no heavy metal. "
+    },
+    "papel": {
+      "title": "Papel (Xerox)",
+      "emoji": "📃",
+      "subtitle": "O Burocrata Ansioso",
+      "text": "Você apreciava a leveza e a organização fibrosa do papel. Adulto, você é aquele que tem uma pasta de 'coisas importantes' que ninguém mais entende. Seu maior hobby é preencher formulários e você entra em pânico se alguém usa uma caneta que não é a sua. Você é inofensivo, mas chato. Precisa de mais fibra na vida, e não é só a do papel. "
+    },
+    "pasta_de_dente": {
+      "title": "Pasta de Dente (Colgate)",
+      "emoji": "🫧",
+      "subtitle": "O Falso Moralista",
+      "text": "Você buscava a sensação de frescor e o disfarce rápido. Adulto, você é o defensor da moral e dos bons costumes... na frente dos outros. Você fala sobre sustentabilidade usando um copo descartável e prega a dieta saudável enquanto come um saco de salgadinhos escondido no armário. Seu hálito é fresco, mas seu caráter, nem tanto. "
+    },
+    "palito_de_fosforo": {
+      "title": "Palito de Fósforo (Fogo)",
+      "emoji": "🔥",
+      "subtitle": "O Explosivo Impulsivo",
+      "text": "Você se arriscava pelo sabor da brasa e o potencial de destruição. Adulto, você é 'pavio curto'. Você perde a calma por causa de um 'slow connection' e acha que gritar resolve as coisas. É a pessoa que faz uma 'cena' por um erro no pedido do café. Um pequeno atrito e 'BUM', a cabeça explode. Cuidado, você é facilmente inflamável! "
+    },
+    "sabonete": {
+      "title": "Sabonete (Lux)",
+      "emoji": "🧼",
+      "subtitle": "O Drama Queen/King",
+      "text": "Você curtia o cheiro, a espuma e a promessa de limpeza. Adulto, sua vida é um melodrama constante. Você cria crises onde não existem, adora um palco e vive 'lavando a alma' em público nas redes sociais, esperando validação. Tudo é um grande espetáculo de dor e sofrimento. Excesso de espuma e pouca substância. "
+    },
+    "giz_de_cera": {
+      "title": "Giz de Cera (Crayola)",
+      "emoji": "🖍️",
+      "subtitle": "O Visionário Disfuncional",
+      "text": "Você era movido pela cor e a criatividade, ignorando a toxidade. Adulto, você é o 'gênio' que só tem ideias mirabolantes, mas nunca executa nada. Vive em um mundo de cores vibrantes e projetos inacabados. Você tem $10$ domínios de internet comprados e $0$ sites publicados. Muita visão, zero follow-through. A criatividade é alta, mas o senso de realidade é baixo. "
+    },
+    "moeda": {
+      "title": "Moeda (Tostão)",
+      "emoji": "💰",
+      "subtitle": "O Materialista Mesquinho",
+      "text": "Você só pensava em lucro e no sabor metálico do capital. Adulto, você só pensa em lucro. É a pessoa que faz um cálculo de centavos para rachar a conta e se oferece para pagar com Pix só para evitar a taxa da máquina. Seu valor não está em quem você é, mas no que você possui. Totalmente voltado para o metal (o seu e o do cofrinho). "
+    },
+    "areia": {
+      "title": "Areia (Caixa de)",
+      "emoji": "⏳",
+      "subtitle": "O Disperso Inconstante",
+      "text": "Você era fascinado pela textura e a passagem do tempo em grãos. Adulto, você tem a concentração de um beija-flor hiperativo. Começa $5$ tarefas, não termina nenhuma, e vive prometendo coisas que 'o vento leva'. Você é tão inconstante quanto areia movediça. Suas prioridades mudam mais rápido que memes no Twitter. "
+    },
+    "tijolo": {
+      "title": "Tijolo (Construção)",
+      "emoji": "🧱",
+      "subtitle": "O Teimoso Rígido",
+      "text": "Você era atraído pela solidez e o peso. Adulto, você é inflexível e insiste em ser o 'sabe-tudo'. Bate o pé em discussões mesmo quando está claramente errado. Suas opiniões são tão duras quanto concreto. Tentar mudar sua mente é como bater a cabeça na parede. A solidez é admirável, mas a rigidez é exaustiva. "
+    }
+  }
+}
