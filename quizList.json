@@ -449,7 +449,13 @@
       "name": "Qual personagem de Stardew Valley seria seu par romântico ideal?",
       "file": "quizzes/quizStardewValley.json",
       "description": "Descubra com qual personagem de Stardew Valley você teria um romance perfeito no Vale!"
+    },
+    {
+      "name": "Qual Não-Comida da Infância Define Sua Personalidade Adulta?",
+      "file": "quizzes/quizNaoComida.json",
+      "description": "Descubra qual 'petisco' duvidoso que você comia quando criança revela o tipo de adulto questionável que você se tornou."
     }
+
     
 
   ]
