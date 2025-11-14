@@ -454,6 +454,11 @@
       "name": "Qual Não-Comida da Infância Define Sua Personalidade Adulta?",
       "file": "quizzes/quizNaoComida.json",
       "description": "Descubra qual 'petisco' duvidoso que você comia quando criança revela o tipo de adulto questionável que você se tornou."
+    },
+    {
+      "name": "Que programa do pacote Office você é?",
+      "file": "quizzes/quizPacoteOffice.json",
+      "description": "Descubra qual aplicativo do Office combina com sua personalidade (e seus vícios secretos corporativos)!"
     }
 
     
