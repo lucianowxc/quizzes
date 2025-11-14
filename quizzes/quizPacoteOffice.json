@@ -1,0 +1,308 @@
+{
+  "title": "Que programa do pacote office você é?",
+  "subtitle": "Descubra qual aplicativo do Office combina com sua personalidade (e seus vícios secretos)!",
+  "questions": [
+    {
+      "question": "Como você organiza uma festa do pijama?",
+      "answers": [
+        {
+          "text": "🌌 Crio uma playlist temática com horários específicos para cada atividade",
+          "points": {
+            "excel": 0.8,
+            "outlook": 0.4
+          }
+        },
+        {
+          "text": "🎪 Transformo a sala num cenário épico com obstáculos e surpresas",
+          "points": {
+            "powerpoint": 0.9,
+            "onenote": 0.3
+          }
+        },
+        {
+          "text": "📝 Escrevo um roteiro detalhado com falas e cenas memoráveis",
+          "points": {
+            "word": 0.8,
+            "access": 0.2
+          }
+        },
+        {
+          "text": "🌀 Deixo fluir naturalmente, anotando as melhores histórias depois",
+          "points": {
+            "onenote": 0.7,
+            "outlook": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um tipo de clima, qual seria?",
+      "answers": [
+        {
+          "text": "⚡ Tempestade repentina - intenso e transformador",
+          "points": {
+            "powerpoint": 0.7,
+            "word": 0.4
+          }
+        },
+        {
+          "text": "🌡 Clima estável - previsível e confiável",
+          "points": {
+            "excel": 0.8,
+            "access": 0.3
+          }
+        },
+        {
+          "text": "🌪 Ventos cruzados - conectando diferentes frentes",
+          "points": {
+            "outlook": 0.7,
+            "onenote": 0.5
+          }
+        },
+        {
+          "text": "🌈 Arco-íris após chuva - organizando o caos em beleza",
+          "points": {
+            "word": 0.6,
+            "powerpoint": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você conquistaria uma civilização alienígena?",
+      "answers": [
+        {
+          "text": "🗃️ Catalogaria todas as suas espécies e recursos primeiro",
+          "points": {
+            "access": 0.9,
+            "excel": 0.3
+          }
+        },
+        {
+          "text": "🎭 Montaria um espetáculo intergaláctico inesquecível",
+          "points": {
+            "powerpoint": 0.8,
+            "word": 0.4
+          }
+        },
+        {
+          "text": "📜 Escreveria um tratado de paz poeticamente irresistível",
+          "points": {
+            "word": 0.7,
+            "onenote": 0.5
+          }
+        },
+        {
+          "text": "🕒 Estabeleceria um sistema de comunicação sincronizado",
+          "points": {
+            "outlook": 0.8,
+            "excel": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você consertaria uma máquina do tempo quebrada?",
+      "answers": [
+        {
+          "text": "🔍 Mapearia cada engrenagem em tabelas de causa e efeito",
+          "points": {
+            "excel": 0.8,
+            "access": 0.4
+          }
+        },
+        {
+          "text": "🎨 Criaria um manual de instruções tão lindo que ninguém notaria os defeitos",
+          "points": {
+            "powerpoint": 0.7,
+            "word": 0.5
+          }
+        },
+        {
+          "text": "📚 Documentaria cada erro em relatórios detalhados para gerações futuras",
+          "points": {
+            "word": 0.8,
+            "onenote": 0.3
+          }
+        },
+        {
+          "text": "🔄 Conectaria todas as peças soltas até encontrar o padrão oculto",
+          "points": {
+            "access": 0.7,
+            "outlook": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se suas memórias fossem um museu, como seria a curadoria?",
+      "answers": [
+        {
+          "text": "🕰️ Organizaria por linha do tempo com precisão cronométrica",
+          "points": {
+            "excel": 0.7,
+            "outlook": 0.5
+          }
+        },
+        {
+          "text": "🎪 Criaria exposições temáticas com efeitos especiais e trilha sonora",
+          "points": {
+            "powerpoint": 0.9,
+            "onenote": 0.2
+          }
+        },
+        {
+          "text": "📖 Escreveria catálogos poéticos explicando cada sala",
+          "points": {
+            "word": 0.8,
+            "access": 0.3
+          }
+        },
+        {
+          "text": "🌀 Deixaria os visitantes navegarem livremente pelas conexões aleatórias",
+          "points": {
+            "onenote": 0.7,
+            "outlook": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu superpoder em um apocalipse zumbi?",
+      "answers": [
+        {
+          "text": "📈 Prever padrões de ataque através de análise de dados em tempo real",
+          "points": {
+            "excel": 0.8,
+            "access": 0.4
+          }
+        },
+        {
+          "text": "🎭 Distrair os zumbis com apresentações teatrais épicas",
+          "points": {
+            "powerpoint": 0.7,
+            "word": 0.4
+          }
+        },
+        {
+          "text": "📜 Escrever manuais de sobrevivência que inspirariam revoluções",
+          "points": {
+            "word": 0.8,
+            "onenote": 0.3
+          }
+        },
+        {
+          "text": "🕸️ Criar uma rede de comunicação que sincronizaria todos os sobreviventes",
+          "points": {
+            "outlook": 0.9,
+            "access": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você criasse uma rede social, qual seria seu recurso único?",
+      "answers": [
+        {
+          "text": "🌐 Um algoritmo que conecta pessoas por padrões de pensamento invisíveis",
+          "points": {
+            "access": 0.8,
+            "excel": 0.4
+          }
+        },
+        {
+          "text": "🎬 Ferramentas para transformar posts em minidocumentários cinematográficos",
+          "points": {
+            "powerpoint": 0.7,
+            "word": 0.5
+          }
+        },
+        {
+          "text": "📈 Dashboards em tempo real mostrando o impacto emocional de cada interação",
+          "points": {
+            "excel": 0.8,
+            "outlook": 0.3
+          }
+        },
+        {
+          "text": "🗂️ Sistema de organização que relaciona memórias de forma não-linear",
+          "points": {
+            "onenote": 0.9,
+            "access": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual desses paradoxos melhor define sua filosofia de vida?",
+      "answers": [
+        {
+          "text": "🎯 Quanto mais específico você é, mais universal se torna",
+          "points": {
+            "word": 0.7,
+            "excel": 0.4
+          }
+        },
+        {
+          "text": "💫 Para entender o todo, é preciso desmontá-lo em partes",
+          "points": {
+            "excel": 0.6,
+            "access": 0.5
+          }
+        },
+        {
+          "text": "🎭 A verdade mais profunda precisa da mentira mais convincente",
+          "points": {
+            "powerpoint": 0.8,
+            "word": 0.3
+          }
+        },
+        {
+          "text": "🕰️ O momento perfeito existe entre o planejado e o espontâneo",
+          "points": {
+            "outlook": 0.7,
+            "onenote": 0.4
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "word": {
+      "title": "Word",
+      "emoji": "📄",
+      "subtitle": "Mestre da Enrolação Criativa",
+      "text": "Você é o Word! Transforma 2 parágrafos em 20 páginas com maestria. Adora 'enriquecer o texto' com palavras bonitas que não significam nada. Seu talento? Fazer reuniões de 5 minutos durarem 2 horas através da arte sutil da enrolação profissional."
+    },
+    "excel": {
+      "title": "Excel",
+      "emoji": "📊",
+      "subtitle": "Deus das Planilhas Inúteis",
+      "text": "Você é o Excel! Cria planilhas para planejar suas planilhas. Acredita piamente que tudo na vida pode ser resolvido com uma fórmula do VLOOKUP. Sua missão secreta: transformar relacionamentos em gráficos de pizza e emoções em células coloridas."
+    },
+    "powerpoint": {
+      "title": "PowerPoint",
+      "emoji": "🎪",
+      "subtitle": "Ilusionista Corporativo",
+      "text": "Você é o PowerPoint! Faz projetos medíocres parecerem revolucionários com transições e cliparts. Sua filosofia: 'Se não convence com conteúdo, convença com animações'. Especialista em transformar derrotas em 'oportunidades de aprendizado'."
+    },
+    "outlook": {
+      "title": "Outlook",
+      "emoji": "🕒",
+      "subtitle": "Vigilante de Caixa de Entrada",
+      "text": "Você é o Outlook! Organiza emails por cor, prioridade e nível de ansiedade gerado. Adora marcar reuniões desnecessárias só para sentir que está no controle. Seu esporte favorito? CC para todo mundo 'só para manter no loop'."
+    },
+    "access": {
+      "title": "Access",
+      "emoji": "🗃️",
+      "subtitle": "Criador de Problemas Elegantes",
+      "text": "Você é o Access! Constrói sistemas tão complicados que só você entende. Adora criar 15 tabelas relacionadas para resolver problemas que uma planilha resolveria. Seu lema: 'Por que simplificar quando podemos complicar com estilo?'"
+    },
+    "onenote": {
+      "title": "OneNote",
+      "emoji": "🗒️",
+      "subtitle": "Colecionador de Informações Inúteis",
+      "text": "Você é o OneNote! Tem 47 cadernos com anotações que nunca vai ler. Adora organizar por cores, tags e seções, mas nunca encontra nada. Especialista em criar sistemas de organização que são obras de arte do caos organizado."
+    }
+  }
+}
