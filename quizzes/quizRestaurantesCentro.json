@@ -1,0 +1,421 @@
+{
+  "title": "A Máquina de Almoço do Centro",
+  "subtitle": "Descubra qual é a sua personalidade gastronômica no coração de São Paulo",
+  "questions": [
+    {
+      "question": "1. Qual é o seu critério **inadiável** na hora de escolher onde almoçar no Centro?",
+      "answers": [
+        {
+          "text": "🎪  Que o preço seja justo e que eu não gaste mais do que o estritamente necessário. *Foco é economia.*",
+          "points": {
+            "resultado12": 0.9,
+            "resultado4": 0.4
+          }
+        },
+        {
+          "text": "🌌  Preciso ter a certeza de que aceitam meu **Vale Alimentação (VA)**, não estou aqui para brincar com o meu dinheiro.",
+          "points": {
+            "resultado2": 0.8,
+            "resultado4": 0.7,
+            "resultado6": 0.5
+          }
+        },
+        {
+          "text": "🎯  Quero que a **qualidade da comida** seja inquestionável, estou disposto a pagar um pouco a mais pela excelência.",
+          "points": {
+            "resultado9": 0.8,
+            "resultado5": 0.7,
+            "resultado1": 0.4
+          }
+        },
+        {
+          "text": "🌊  A comida deve ser **saudável, fresca** e de preferência com opções vegetarianas/veganas. *Zero culpa.*",
+          "points": {
+            "resultado7": 0.8,
+            "resultado8": 0.7,
+            "resultado10": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "2. Num dia em que você está com o espírito caótico (e faminto), o que te irritaria mais?",
+      "answers": [
+        {
+          "text": "🌀  O atendimento ser tão bagunçado que eu perca a conta de quem pediu o quê. *É uma aventura, mas incomoda.*",
+          "points": {
+            "resultado1": 0.7,
+            "resultado6": 0.9
+          }
+        },
+        {
+          "text": "🤹  A qualidade do prato estar **abaixo da média** esperada, me fazendo sentir que desperdicei calorias.",
+          "points": {
+            "resultado4": 0.8,
+            "resultado7": 0.3
+          }
+        },
+        {
+          "text": "🌊  Chegar tarde demais e ter que pagar o preço cheio, perdendo a **janela de economia** da tarde.",
+          "points": {
+            "resultado3": 0.9,
+            "resultado12": 0.2
+          }
+        },
+        {
+          "text": "🎯  Sentir que a refeição foi *só mais uma* e que faltou aquele **toque especial** que te faz sorrir.",
+          "points": {
+            "resultado11": 0.6,
+            "resultado13": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "3. Se você pudesse ser conhecido por uma única coisa no seu círculo social, qual seria?",
+      "answers": [
+        {
+          "text": "🎪  O(A) que resolve tudo **rápido e na hora**, sempre oferecendo a solução mais prática e eficiente.",
+          "points": {
+            "resultado10": 0.7,
+            "resultado2": 0.5,
+            "resultado4": 0.3
+          }
+        },
+        {
+          "text": "🌌  O(A) que tem um **gosto impecável** e só aparece em lugares que honram a história ou a boa mesa.",
+          "points": {
+            "resultado9": 0.9,
+            "resultado5": 0.8
+          }
+        },
+        {
+          "text": "🍷  O(A) que sabe que **quarta-feira é dia de feijoada** (ou qualquer tradição semanal semanal que não se discute).",
+          "points": {
+            "resultado11": 0.9,
+            "resultado1": 0.2
+          }
+        },
+        {
+          "text": "🍰  O(A) que está sempre trazendo uma **doce recompensa** ou um mimo inesperado para alegrar o dia.",
+          "points": {
+            "resultado13": 0.9,
+            "resultado6": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "4. Seu dilema ético/financeiro: você está apertado, mas a comida do lugar mais barato é 'ok' (mas não fantástica). O que você faz?",
+      "answers": [
+        {
+          "text": "🎪  Aceito a realidade: se for acessível e aceitar meu VA/VR, está ótimo! O bolso fala mais alto.",
+          "points": {
+            "resultado4": 0.5,
+            "resultado12": 0.7,
+            "resultado2": 0.3
+          }
+        },
+        {
+          "text": "🌌  Procuro um PF ou buffet vegano/vegetariano. Quero comer bem e com **consciência limpa**, mesmo que seja mais simples.",
+          "points": {
+            "resultado8": 0.8,
+            "resultado7": 0.6
+          }
+        },
+        {
+          "text": "🎯  Olho a hora no relógio e espero a **promoção de horário tardio**. Fartura por preço baixo é a meta.",
+          "points": {
+            "resultado3": 0.8,
+            "resultado12": 0.4
+          }
+        },
+        {
+          "text": "🌊  Prefiro gastar um pouco mais em algo de **qualidade comprovada** e que me traga satisfação real.",
+          "points": {
+            "resultado5": 0.8,
+            "resultado9": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "5. Qual seria o seu modo de vida perfeito no Centro de SP?",
+      "answers": [
+        {
+          "text": "🌀  Onde a **energia é alta** e a desorganização faz parte do charme. Vivo no caos organizado (ou desorganizado!).",
+          "points": {
+            "resultado6": 0.9,
+            "resultado1": 0.6
+          }
+        },
+        {
+          "text": "🤹  Uma rotina regrada, com **pausas elegantes** para cafés e doces em ambientes tradicionais e inspiradores.",
+          "points": {
+            "resultado9": 0.7,
+            "resultado13": 0.7
+          }
+        },
+        {
+          "text": "🌊  **Leve e rápido**, focado em sucos, lanches e refeições que não pesam, mas dão toda a energia necessária.",
+          "points": {
+            "resultado10": 0.9,
+            "resultado7": 0.5
+          }
+        },
+        {
+          "text": "🎯  Comida de mãe/vó. Um lugar com **cheiro de casa**, onde a tradição gastronômica é o conforto diário.",
+          "points": {
+            "resultado11": 0.8,
+            "resultado2": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "6. Sua reação ao descobrir que um restaurante não aceita o seu vale-refeição/alimentação preferido:",
+      "answers": [
+        {
+          "text": "🎪  *Mudo de restaurante na hora.* Não complico, sigo para o próximo que aceita a minha bandeira.",
+          "points": {
+            "resultado2": 0.5,
+            "resultado4": 0.4
+          }
+        },
+        {
+          "text": "🌌  Se o lugar vale a pena (qualidade/tradição), eu **pago no débito/crédito** sem pensar duas vezes.",
+          "points": {
+            "resultado9": 0.8,
+            "resultado5": 0.8
+          }
+        },
+        {
+          "text": "🍷  *Ousadia!* Se não aceita VA/VR, é provável que a comida seja mais interessante. Entro pelo mistério.",
+          "points": {
+            "resultado1": 0.6,
+            "resultado3": 0.4
+          }
+        },
+        {
+          "text": "🍰  Fico triste, mas só se for um lugar especializado em **doces/café/lanchinhos** que eu estava realmente esperando.",
+          "points": {
+            "resultado13": 0.9,
+            "resultado10": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "7. Qual seria o seu 'super poder' no universo corporativo do Centro?",
+      "answers": [
+        {
+          "text": "🎪  Dominar o fluxo de caixas, filas e bufês, sempre encontrando o **caminho mais rápido** e acessível.",
+          "points": {
+            "resultado12": 0.5,
+            "resultado4": 0.6
+          }
+        },
+        {
+          "text": "🌌  A capacidade de **acalmar o caos** e trazer um ambiente de paz e consciência para a hora do almoço.",
+          "points": {
+            "resultado7": 0.8,
+            "resultado8": 0.7
+          }
+        },
+        {
+          "text": "🎯  Saber exatamente onde estão as **melhores vistas** ou o lugar mais reservado para um almoço discreto e produtivo.",
+          "points": {
+            "resultado5": 0.9,
+            "resultado9": 0.5
+          }
+        },
+        {
+          "text": "🌊  Transformar uma tarefa mundana (como pedir a conta) em um **evento divertido** e socialmente engajador.",
+          "points": {
+            "resultado1": 0.8,
+            "resultado6": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "8. Qual frase te define melhor?",
+      "answers": [
+        {
+          "text": "🌀  'Se não for para ter emoção e fartura, eu nem saio de casa!'",
+          "points": {
+            "resultado3": 0.8,
+            "resultado11": 0.5
+          }
+        },
+        {
+          "text": "🤹  'Prefiro ser a exceção à regra do que mais um na multidão.'",
+          "points": {
+            "resultado8": 0.5,
+            "resultado5": 0.4
+          }
+        },
+        {
+          "text": "🌊  'O importante é ser prático e aceitar o que vier, desde que o básico esteja garantido.'",
+          "points": {
+            "resultado2": 0.7,
+            "resultado4": 0.6
+          }
+        },
+        {
+          "text": "🎯  'Sou o conforto que você não sabia que precisava, o abraço em forma de açúcar no meio do dia.'",
+          "points": {
+            "resultado13": 0.8,
+            "resultado10": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "9. Você tem 15 minutos de folga. Qual é a sua prioridade?",
+      "answers": [
+        {
+          "text": "🎪  Focar em uma **refeição rápida**, com o máximo de proteína e carboidratos, sem frescura.",
+          "points": {
+            "resultado12": 0.6,
+            "resultado2": 0.4
+          }
+        },
+        {
+          "text": "🌌  Buscar um café ou suco **energizante e fresco** para dar um *up* na tarde.",
+          "points": {
+            "resultado10": 0.8,
+            "resultado7": 0.5
+          }
+        },
+        {
+          "text": "🍷  Aproveitar para botar o papo em dia com um colega, comendo **petiscos** em um lugar descontraído.",
+          "points": {
+            "resultado1": 0.9,
+            "resultado6": 0.5
+          }
+        },
+        {
+          "text": "🍰  Correr atrás de uma **guloseima perfeita**, que justifique a pressa e o tempo cronometrado.",
+          "points": {
+            "resultado13": 0.9,
+            "resultado9": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "10. Qual é a sua principal motivação para sair da rotina?",
+      "answers": [
+        {
+          "text": "🌀  A chance de provar algo **exótico** ou uma culinária que está fora do padrão do dia a dia.",
+          "points": {
+            "resultado8": 0.6,
+            "resultado7": 0.4
+          }
+        },
+        {
+          "text": "🤹  A busca pela **experiência completa**, que envolve ambiente, serviço e prato com qualidade superior.",
+          "points": {
+            "resultado5": 0.8,
+            "resultado9": 0.7
+          }
+        },
+        {
+          "text": "🌊  Quando um **evento tradicional** imperdível acontece, como a feijoada da quarta-feira.",
+          "points": {
+            "resultado11": 0.9,
+            "resultado3": 0.3
+          }
+        },
+        {
+          "text": "🎯  Simplesmente seguir o fluxo, sem grandes planos. Deixar a vida me levar para onde o almoço for **acessível**.",
+          "points": {
+            "resultado6": 0.7,
+            "resultado12": 0.4
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "resultado1": {
+      "title": "Boteco Central VR",
+      "subtitle": "A Boemia que Não se Curva",
+      "emoji": "🍻",
+      "text": "Você é a **boemia que não se curva** a regras burocráticas, um epicentro de energia, mesmo que a comanda esteja confusa. É o ponto de encontro perfeito para quem valoriza o sabor acima da organização e sabe que a melhor parte é a conversa, não o processo de pagamento."
+    },
+    "resultado2": {
+      "title": "Central VA",
+      "subtitle": "A Solidez Estratégica",
+      "emoji": "📍",
+      "text": "Você é a **solidez estratégica** que se mantém firme na base, confiável e sempre no lugar certo. É a escolha segura para quem prioriza a conveniência de uma boa localização e um prato honesto que cumpre o que promete, sem dramas ou surpresas no preço."
+    },
+    "resultado3": {
+      "title": "Kilo’s Grill",
+      "subtitle": "A Arte da Barganha Cronometrada",
+      "emoji": "⚖️",
+      "text": "Você é a **arte da barganha cronometrada**, o equilíbrio entre a fartura e a inteligência financeira. Sua estratégia é esperar pelo momento exato da promoção (após 14:30) para extrair o máximo valor, provando que a paciência é uma virtude (e economiza dinheiro)."
+    },
+    "resultado4": {
+      "title": "Frigideira Grill",
+      "subtitle": "O Acesso Descomplicado",
+      "emoji": "🍳",
+      "text": "Você é o **acesso descomplicado**, a opção prática que resolve o dia a dia sem exigir muito do bolso, mesmo que não seja a estrela da culinária. É a prova de que nem sempre é preciso buscar o topo da pirâmide de qualidade se o objetivo é ser eficiente, rápido e, o mais importante, aceitar o seu vale VA."
+    },
+    "resultado5": {
+      "title": "Viella",
+      "subtitle": "A Qualidade Elevada",
+      "emoji": "🍷",
+      "text": "Você é a **qualidade elevada** que se permite um luxo discreto, a sofisticação que não precisa gritar para ser notada. É a pessoa que prefere pagar um pouco mais por uma experiência com bom padrão e um ambiente agradável, valorizando o *je ne sais quoi* do seu almoço executivo."
+    },
+    "resultado6": {
+      "title": "Morena Tropical",
+      "subtitle": "A Alegria no Meio do Caos",
+      "emoji": "💃",
+      "text": "Você é a **alegria contagiante no meio do caos**, vibrante e calorosa, mesmo que a casa esteja de pernas pro ar. Seu encanto reside em ser acessível e acolhedor, mas o seu ritmo é tão intenso que o atendimento... bem, ele segue seu próprio fluxo tropical."
+    },
+    "resultado7": {
+      "title": "Alcachofra Natural",
+      "subtitle": "A Consciência Leve e Variada",
+      "emoji": "🌿",
+      "text": "Você é a **consciência leve e variada**, o refúgio saudável que oferece surpresas boas todos os dias. É a busca por um propósito alimentar que seja saboroso e nutritivo, provando que uma vida equilibrada pode ser farta e livre (literalmente, buffet livre)."
+    },
+    "resultado8": {
+      "title": "Subte Vegan",
+      "subtitle": "A Opinião Forte com Alma Gentil",
+      "emoji": "🥕",
+      "text": "Você é a **opinião forte com alma gentil**, a alternativa ética que se mantém firme em seus princípios. É o idealista que oferece conforto e bom preço, mostrando que é possível ser acessível e ter um impacto positivo, um prato de cada vez."
+    },
+    "resultado9": {
+      "title": "Café Girondino",
+      "subtitle": "A Tradição Atemporal",
+      "emoji": "🕰️",
+      "text": "Você é a **tradição atemporal**, a elegância que carrega a história do centro de São Paulo. Você prefere investir em experiências clássicas e de alto valor percebido, sendo o local de encontros importantes e celebrações de momentos especiais, como um brunch impecável."
+    },
+    "resultado10": {
+      "title": "Badaro Sucos e Lanches",
+      "subtitle": "O Herói da Fome Justa",
+      "emoji": "🥤",
+      "text": "Você é a **explosão de opções saudáveis e práticas**, o herói da fome rápida e justa. É o especialista em variedade que nunca te deixa na mão, oferecendo uma solução nutritiva e saborosa para o dia, sem comprometer o orçamento."
+    },
+    "resultado11": {
+      "title": "Mineiro",
+      "subtitle": "O Calor da Culinária Ancestral",
+      "emoji": "🤠",
+      "text": "Você é o **calor da culinária ancestral**, o apego às tradições mais saborosas e regionais. É a pessoa que tem um dia especial dedicado a um prato específico (a feijoada!) e não abre mão dele, transformando uma quarta-feira comum em um evento de conforto gastronômico."
+    },
+    "resultado12": {
+      "title": "Dezoitao",
+      "subtitle": "A Eficiência Econômica",
+      "emoji": "💰",
+      "text": "Você é a **eficiência econômica de ouro**, a calculadora que domina o custo-benefício. Sua missão é provar que é possível ter qualidade e sustento sem estourar o limite, focando no essencial: pratos bons e preço fixo e imbatível de R$18."
+    },
+    "resultado13": {
+      "title": "Orange",
+      "subtitle": "O Detalhe Doce Inesquecível",
+      "emoji": "🍰",
+      "text": "Você é o **detalhe doce e inesquecível**, a recompensa que faz o dia valer a pena. Sua força está em ser a pausa perfeita e o conforto imediato, sendo o especialista em transformar uma pausa rápida em um momento de pura felicidade concentrada no melhor bolo de chocolate."
+    }
+  }
+}
