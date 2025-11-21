@@ -459,7 +459,13 @@
       "name": "Que programa do pacote Office você é?",
       "file": "quizzes/quizPacoteOffice.json",
       "description": "Descubra qual aplicativo do Office combina com sua personalidade (e seus vícios secretos corporativos)!"
+    },
+    {
+       "name": "Qual Restaurante do Centro de SP Você Seria?",
+       "file": "quizzes/quizRestaurantesCentroSP.json",
+       "description": "Descubra qual restaurante do Centro Histórico de São Paulo mais se parece com sua personalidade: da economia à tradição, do caos à elegância!"
     }
+
 
     
 
