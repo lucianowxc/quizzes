@@ -5,73 +5,457 @@
     {
       "question": "O que você sente quando vê um grupo de adolescentes rindo alto na rua?",
       "answers": [
-        { "text": "🛹 Vontade de jogar um balde de água fria", "points": { "fiscal_calçada": 0.9, "revolucionario_praça": 0.1 } },
-        { "text": "🤳 Tento entender as gírias para usar depois (e passar vergonha)", "points": { "avo_pave": 0.8, "sugar_granny": 0.2 } },
-        { "text": "🎧 Agradeço ao meu fone por me isolar desse caos", "points": { "senhora_dos_gatos": 0.9 } },
-        { "text": "🙄 Penso: 'No meu tempo existia respeito'", "points": { "revolucionario_praça": 0.8, "inimigo_tecnologia": 0.2 } }
+        {
+          "text": "🛹 Vontade de jogar um balde de água fria",
+          "points": {
+            "fiscal_calçada": 0.1508,
+            "revolucionario_praça": 0.0751,
+            "inimigo_tecnologia": 0.0077,
+            "sugar_granny": 0.0054,
+            "entusiasta_saude": 0.0073,
+            "bruxa_do_horto": 0.0101,
+            "avo_pave": 0.0091,
+            "senhora_dos_gatos": 0.0078
+          }
+        },
+        {
+          "text": "🤳 Tento entender as gírias para usar depois (e passar vergonha)",
+          "points": {
+            "avo_pave": 0.1897,
+            "sugar_granny": 0.0712,
+            "fiscal_calçada": 0.0056,
+            "inimigo_tecnologia": 0.0069,
+            "entusiasta_saude": 0.0065,
+            "bruxa_do_horto": 0.009,
+            "senhora_dos_gatos": 0.007,
+            "revolucionario_praça": 0.007
+          }
+        },
+        {
+          "text": "🎧 Agradeço ao meu fone por me isolar desse caos",
+          "points": {
+            "senhora_dos_gatos": 0.1816,
+            "fiscal_calçada": 0.0065,
+            "inimigo_tecnologia": 0.0081,
+            "sugar_granny": 0.0056,
+            "entusiasta_saude": 0.0077,
+            "bruxa_do_horto": 0.0106,
+            "avo_pave": 0.0096,
+            "revolucionario_praça": 0.0081
+          }
+        },
+        {
+          "text": "🙄 Penso: 'No meu tempo existia respeito'",
+          "points": {
+            "revolucionario_praça": 0.1604,
+            "inimigo_tecnologia": 0.1082,
+            "fiscal_calçada": 0.0055,
+            "sugar_granny": 0.0048,
+            "entusiasta_saude": 0.0064,
+            "bruxa_do_horto": 0.0089,
+            "avo_pave": 0.0081,
+            "senhora_dos_gatos": 0.0069
+          }
+        }
       ]
     },
     {
       "question": "Qual é a sua relação atual com a tecnologia?",
       "answers": [
-        { "text": "💾 Guardo disquetes pois a nuvem é uma conspiração", "points": { "inimigo_tecnologia": 0.9 } },
-        { "text": "🔋 Meu celular só serve para postar 'Bom Dia' com flores", "points": { "avo_pave": 0.7, "fiscal_calçada": 0.3 } },
-        { "text": "⌚ Uso o smartwatch para monitorar meus 3 batimentos/min", "points": { "entusiasta_saude": 0.9 } },
-        { "text": "💳 Só uso para comprar passagens e fugir da família", "points": { "sugar_granny": 0.9 } }
+        {
+          "text": "💾 Guardo disquetes pois a nuvem é uma conspiração",
+          "points": {
+            "inimigo_tecnologia": 0.1843,
+            "fiscal_calçada": 0.0065,
+            "sugar_granny": 0.0056,
+            "entusiasta_saude": 0.0076,
+            "bruxa_do_horto": 0.0104,
+            "avo_pave": 0.0095,
+            "senhora_dos_gatos": 0.0081,
+            "revolucionario_praça": 0.0081
+          }
+        },
+        {
+          "text": "🔋 Meu celular só serve para postar 'Bom Dia' com flores",
+          "points": {
+            "avo_pave": 0.1662,
+            "fiscal_calçada": 0.1065,
+            "inimigo_tecnologia": 0.0066,
+            "sugar_granny": 0.0046,
+            "entusiasta_saude": 0.0063,
+            "bruxa_do_horto": 0.0087,
+            "senhora_dos_gatos": 0.0068,
+            "revolucionario_praça": 0.0068
+          }
+        },
+        {
+          "text": "⌚ Uso o smartwatch para monitorar meus 3 batimentos/min",
+          "points": {
+            "entusiasta_saude": 0.1711,
+            "fiscal_calçada": 0.0067,
+            "inimigo_tecnologia": 0.0083,
+            "sugar_granny": 0.0058,
+            "bruxa_do_horto": 0.0108,
+            "avo_pave": 0.0098,
+            "senhora_dos_gatos": 0.0084,
+            "revolucionario_praça": 0.0084
+          }
+        },
+        {
+          "text": "💳 Só uso para comprar passagens e fugir da família",
+          "points": {
+            "sugar_granny": 0.1273,
+            "fiscal_calçada": 0.0082,
+            "inimigo_tecnologia": 0.0101,
+            "entusiasta_saude": 0.0094,
+            "bruxa_do_horto": 0.0129,
+            "avo_pave": 0.0116,
+            "senhora_dos_gatos": 0.0098,
+            "revolucionario_praça": 0.0098
+          }
+        }
       ]
     },
     {
       "question": "Um sábado à noite perfeito envolve:",
       "answers": [
-        { "text": "🍵 Chá, silêncio e as plantas da sala", "points": { "bruxa_do_horto": 0.8, "senhora_dos_gatos": 0.2 } },
-        { "text": "🎰 Bingo clandestino ou cassino em alto mar", "points": { "sugar_granny": 0.9 } },
-        { "text": "🗄️ Organizar minha coleção de tampinhas de garrafa", "points": { "revolucionario_praça": 0.7, "inimigo_tecnologia": 0.3 } },
-        { "text": "💊 Comparar os efeitos dos remédios com os amigos", "points": { "entusiasta_saude": 0.9 } }
+        {
+          "text": "🍵 Chá, silêncio e as plantas da sala",
+          "points": {
+            "bruxa_do_horto": 0.2083,
+            "senhora_dos_gatos": 0.0988,
+            "fiscal_calçada": 0.0049,
+            "inimigo_tecnologia": 0.0061,
+            "sugar_granny": 0.0043,
+            "entusiasta_saude": 0.0057,
+            "avo_pave": 0.0073,
+            "revolucionario_praça": 0.0062
+          }
+        },
+        {
+          "text": "🎰 Bingo clandestino ou cassino em alto mar",
+          "points": {
+            "sugar_granny": 0.1273,
+            "fiscal_calçada": 0.0082,
+            "inimigo_tecnologia": 0.0101,
+            "entusiasta_saude": 0.0094,
+            "bruxa_do_horto": 0.0129,
+            "avo_pave": 0.0116,
+            "senhora_dos_gatos": 0.0098,
+            "revolucionario_praça": 0.0098
+          }
+        },
+        {
+          "text": "🗄️ Organizar minha coleção de tampinhas de garrafa",
+          "points": {
+            "revolucionario_praça": 0.1406,
+            "inimigo_tecnologia": 0.1352,
+            "fiscal_calçada": 0.0054,
+            "sugar_granny": 0.0046,
+            "entusiasta_saude": 0.0063,
+            "bruxa_do_horto": 0.0087,
+            "avo_pave": 0.0079,
+            "senhora_dos_gatos": 0.0068
+          }
+        },
+        {
+          "text": "💊 Comparar os efeitos dos remédios com os amigos",
+          "points": {
+            "entusiasta_saude": 0.1711,
+            "fiscal_calçada": 0.0067,
+            "inimigo_tecnologia": 0.0083,
+            "sugar_granny": 0.0058,
+            "bruxa_do_horto": 0.0108,
+            "avo_pave": 0.0098,
+            "senhora_dos_gatos": 0.0084,
+            "revolucionario_praça": 0.0084
+          }
+        }
       ]
     },
     {
       "question": "Como você lida com visitas inesperadas da família?",
       "answers": [
-        { "text": "🧶 Finjo que não estou e apago as luzes", "points": { "senhora_dos_gatos": 0.8, "fiscal_calçada": 0.2 } },
-        { "text": "🥘 Faço banquete, mas reclamo que ninguém ajuda", "points": { "bruxa_do_horto": 0.7, "fiscal_calçada": 0.3 } },
-        { "text": "✈️ Não lido, estou em um resort na Bahia", "points": { "sugar_granny": 0.9 } },
-        { "text": "🤡 Conto a piada do pavê antes de darem 'oi'", "points": { "avo_pave": 0.9 } }
+        {
+          "text": "🧶 Finjo que não estou e apago as luzes",
+          "points": {
+            "senhora_dos_gatos": 0.1617,
+            "fiscal_calçada": 0.0909,
+            "inimigo_tecnologia": 0.007,
+            "sugar_granny": 0.0049,
+            "entusiasta_saude": 0.0067,
+            "bruxa_do_horto": 0.0092,
+            "avo_pave": 0.0084,
+            "revolucionario_praça": 0.0072
+          }
+        },
+        {
+          "text": "🥘 Faço banquete, mas reclamo que ninguém ajuda",
+          "points": {
+            "bruxa_do_horto": 0.1826,
+            "fiscal_calçada": 0.1064,
+            "inimigo_tecnologia": 0.0063,
+            "sugar_granny": 0.0045,
+            "entusiasta_saude": 0.0061,
+            "avo_pave": 0.0076,
+            "senhora_dos_gatos": 0.0065,
+            "revolucionario_praça": 0.0065
+          }
+        },
+        {
+          "text": "✈️ Não lido, estou em um resort na Bahia",
+          "points": {
+            "sugar_granny": 0.1273,
+            "fiscal_calçada": 0.0082,
+            "inimigo_tecnologia": 0.0101,
+            "entusiasta_saude": 0.0094,
+            "bruxa_do_horto": 0.0129,
+            "avo_pave": 0.0116,
+            "senhora_dos_gatos": 0.0098,
+            "revolucionario_praça": 0.0098
+          }
+        },
+        {
+          "text": "🤡 Conto a piada do pavê antes de darem 'oi'",
+          "points": {
+            "avo_pave": 0.2131,
+            "fiscal_calçada": 0.0058,
+            "inimigo_tecnologia": 0.0072,
+            "sugar_granny": 0.005,
+            "entusiasta_saude": 0.0068,
+            "bruxa_do_horto": 0.0094,
+            "senhora_dos_gatos": 0.0073,
+            "revolucionario_praça": 0.0073
+          }
+        }
       ]
     },
     {
       "question": "O vizinho está em obra às 10h da manhã. Você:",
       "answers": [
-        { "text": "📞 Ligo para a prefeitura e o síndico", "points": { "fiscal_calçada": 0.9 } },
-        { "text": "🔮 Faço um ritual para amaldiçoar a furadeira", "points": { "bruxa_do_horto": 0.8, "senhora_dos_gatos": 0.2 } },
-        { "text": "💢 Tento postar no Facebook e posto uma selfie tremida", "points": { "inimigo_tecnologia": 0.9 } },
-        { "text": "💊 Tomo um calmante e volto a dormir", "points": { "entusiasta_saude": 0.8, "sugar_granny": 0.2 } }
+        {
+          "text": "📞 Ligo para a prefeitura e o síndico",
+          "points": {
+            "fiscal_calçada": 0.1508,
+            "inimigo_tecnologia": 0.009,
+            "sugar_granny": 0.0063,
+            "entusiasta_saude": 0.0085,
+            "bruxa_do_horto": 0.0117,
+            "avo_pave": 0.0106,
+            "senhora_dos_gatos": 0.009,
+            "revolucionario_praça": 0.009
+          }
+        },
+        {
+          "text": "🔮 Faço um ritual para amaldiçoar a furadeira",
+          "points": {
+            "bruxa_do_horto": 0.2083,
+            "senhora_dos_gatos": 0.0988,
+            "fiscal_calçada": 0.0049,
+            "inimigo_tecnologia": 0.0061,
+            "sugar_granny": 0.0043,
+            "entusiasta_saude": 0.0057,
+            "avo_pave": 0.0073,
+            "revolucionario_praça": 0.0062
+          }
+        },
+        {
+          "text": "💢 Tento postar no Facebook e posto uma selfie tremida",
+          "points": {
+            "inimigo_tecnologia": 0.1843,
+            "fiscal_calçada": 0.0065,
+            "sugar_granny": 0.0056,
+            "entusiasta_saude": 0.0076,
+            "bruxa_do_horto": 0.0104,
+            "avo_pave": 0.0095,
+            "senhora_dos_gatos": 0.0081,
+            "revolucionario_praça": 0.0081
+          }
+        },
+        {
+          "text": "💊 Tomo um calmante e volto a dormir",
+          "points": {
+            "entusiasta_saude": 0.1523,
+            "sugar_granny": 0.0765,
+            "fiscal_calçada": 0.0062,
+            "inimigo_tecnologia": 0.0077,
+            "bruxa_do_horto": 0.0099,
+            "avo_pave": 0.0089,
+            "senhora_dos_gatos": 0.0077,
+            "revolucionario_praça": 0.0076
+          }
+        }
       ]
     },
     {
       "question": "Qual é a sua 'gastança' favorita no cartão?",
       "answers": [
-        { "text": "🧤 Roupinhas de crochê que ninguém pediu", "points": { "senhora_dos_gatos": 0.7, "bruxa_do_horto": 0.3 } },
-        { "text": "💎 Joias e cremes anti-idade caríssimos", "points": { "sugar_granny": 0.9 } },
-        { "text": "🛒 Comprar o jornal para ver quem morreu", "points": { "revolucionario_praça": 0.8, "fiscal_calçada": 0.2 } },
-        { "text": "🏥 Suplementos que prometem juventude eterna", "points": { "entusiasta_saude": 0.9 } }
+        {
+          "text": "🧤 Roupinhas de crochê que ninguém pediu",
+          "points": {
+            "senhora_dos_gatos": 0.1418,
+            "bruxa_do_horto": 0.1733,
+            "fiscal_calçada": 0.0049,
+            "inimigo_tecnologia": 0.006,
+            "sugar_granny": 0.0041,
+            "entusiasta_saude": 0.0057,
+            "avo_pave": 0.0071,
+            "revolucionario_praça": 0.0061
+          }
+        },
+        {
+          "text": "💎 Joias e cremes anti-idade caríssimos",
+          "points": {
+            "sugar_granny": 0.1273,
+            "fiscal_calçada": 0.0082,
+            "inimigo_tecnologia": 0.0101,
+            "entusiasta_saude": 0.0094,
+            "bruxa_do_horto": 0.0129,
+            "avo_pave": 0.0116,
+            "senhora_dos_gatos": 0.0098,
+            "revolucionario_praça": 0.0098
+          }
+        },
+        {
+          "text": "🛒 Comprar o jornal para ver quem morreu",
+          "points": {
+            "revolucionario_praça": 0.1604,
+            "fiscal_calçada": 0.0894,
+            "inimigo_tecnologia": 0.0071,
+            "sugar_granny": 0.005,
+            "entusiasta_saude": 0.0067,
+            "bruxa_do_horto": 0.0094,
+            "avo_pave": 0.0085,
+            "senhora_dos_gatos": 0.0073
+          }
+        },
+        {
+          "text": "🏥 Suplementos que prometem juventude eterna",
+          "points": {
+            "entusiasta_saude": 0.1711,
+            "fiscal_calçada": 0.0067,
+            "inimigo_tecnologia": 0.0083,
+            "sugar_granny": 0.0058,
+            "bruxa_do_horto": 0.0108,
+            "avo_pave": 0.0098,
+            "senhora_dos_gatos": 0.0084,
+            "revolucionario_praça": 0.0084
+          }
+        }
       ]
     },
     {
       "question": "Opinião sincera sobre as 'dancinhas de TikTok':",
       "answers": [
-        { "text": "🤖 'No meu tempo a gente trabalhava'", "points": { "revolucionario_praça": 0.8, "inimigo_tecnologia": 0.2 } },
-        { "text": "👵 Anoto quem está fazendo isso para fofocar depois", "points": { "fiscal_calçada": 0.9 } },
-        { "text": "🍹 Ignoro enquanto peço outro drink", "points": { "sugar_granny": 0.9 } },
-        { "text": "🤡 Faço a dancinha mal feita para irritar meus netos", "points": { "avo_pave": 0.9 } }
+        {
+          "text": "🤖 'No meu tempo a gente trabalhava'",
+          "points": {
+            "revolucionario_praça": 0.1604,
+            "inimigo_tecnologia": 0.1082,
+            "fiscal_calçada": 0.0055,
+            "sugar_granny": 0.0048,
+            "entusiasta_saude": 0.0064,
+            "bruxa_do_horto": 0.0089,
+            "avo_pave": 0.0081,
+            "senhora_dos_gatos": 0.0069
+          }
+        },
+        {
+          "text": "👵 Anoto quem está fazendo isso para fofocar depois",
+          "points": {
+            "fiscal_calçada": 0.1508,
+            "inimigo_tecnologia": 0.009,
+            "sugar_granny": 0.0063,
+            "entusiasta_saude": 0.0085,
+            "bruxa_do_horto": 0.0117,
+            "avo_pave": 0.0106,
+            "senhora_dos_gatos": 0.009,
+            "revolucionario_praça": 0.009
+          }
+        },
+        {
+          "text": "🍹 Ignoro enquanto peço outro drink",
+          "points": {
+            "sugar_granny": 0.1273,
+            "fiscal_calçada": 0.0082,
+            "inimigo_tecnologia": 0.0101,
+            "entusiasta_saude": 0.0094,
+            "bruxa_do_horto": 0.0129,
+            "avo_pave": 0.0116,
+            "senhora_dos_gatos": 0.0098,
+            "revolucionario_praça": 0.0098
+          }
+        },
+        {
+          "text": "🤡 Faço a dancinha mal feita para irritar meus netos",
+          "points": {
+            "avo_pave": 0.2131,
+            "fiscal_calçada": 0.0058,
+            "inimigo_tecnologia": 0.0072,
+            "sugar_granny": 0.005,
+            "entusiasta_saude": 0.0068,
+            "bruxa_do_horto": 0.0094,
+            "senhora_dos_gatos": 0.0073,
+            "revolucionario_praça": 0.0073
+          }
+        }
       ]
     },
     {
       "question": "Se o seu corpo fosse um veículo, ele seria:",
       "answers": [
-        { "text": "🚜 Um trator antigo: barulhento, mas arrasta", "points": { "revolucionario_praça": 0.7, "inimigo_tecnologia": 0.3 } },
-        { "text": "🏎️ Uma Ferrari que só sai para o shopping de luxo", "points": { "sugar_granny": 0.9 } },
-        { "text": "🚑 Uma ambulância: conheço todos os hospitais", "points": { "entusiasta_saude": 0.9 } },
-        { "text": "📦 Um caminhão de mudança cheio de tralhas", "points": { "fiscal_calçada": 0.4, "senhora_dos_gatos": 0.6 } }
+        {
+          "text": "🚜 Um trator antigo: barulhento, mas arrasta",
+          "points": {
+            "revolucionario_praça": 0.1406,
+            "inimigo_tecnologia": 0.1352,
+            "fiscal_calçada": 0.0054,
+            "sugar_granny": 0.0046,
+            "entusiasta_saude": 0.0063,
+            "bruxa_do_horto": 0.0087,
+            "avo_pave": 0.0079,
+            "senhora_dos_gatos": 0.0068
+          }
+        },
+        {
+          "text": "🏎️ Uma Ferrari que só sai para o shopping de luxo",
+          "points": {
+            "sugar_granny": 0.1273,
+            "fiscal_calçada": 0.0082,
+            "inimigo_tecnologia": 0.0101,
+            "entusiasta_saude": 0.0094,
+            "bruxa_do_horto": 0.0129,
+            "avo_pave": 0.0116,
+            "senhora_dos_gatos": 0.0098,
+            "revolucionario_praça": 0.0098
+          }
+        },
+        {
+          "text": "🚑 Uma ambulância: conheço todos os hospitais",
+          "points": {
+            "entusiasta_saude": 0.1711,
+            "fiscal_calçada": 0.0067,
+            "inimigo_tecnologia": 0.0083,
+            "sugar_granny": 0.0058,
+            "bruxa_do_horto": 0.0108,
+            "avo_pave": 0.0098,
+            "senhora_dos_gatos": 0.0084,
+            "revolucionario_praça": 0.0084
+          }
+        },
+        {
+          "text": "📦 Um caminhão de mudança cheio de tralhas",
+          "points": {
+            "fiscal_calçada": 0.068,
+            "senhora_dos_gatos": 0.1848,
+            "inimigo_tecnologia": 0.0071,
+            "sugar_granny": 0.0049,
+            "entusiasta_saude": 0.0067,
+            "bruxa_do_horto": 0.0093,
+            "avo_pave": 0.0085,
+            "revolucionario_praça": 0.0072
+          }
+        }
       ]
     }
   ],
