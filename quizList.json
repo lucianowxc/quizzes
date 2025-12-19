@@ -464,7 +464,13 @@
        "name": "Qual Restaurante do Centro de SP Você Seria?",
        "file": "quizzes/quizRestaurantesCentroSP.json",
        "description": "Descubra qual restaurante do Centro Histórico de São Paulo mais se parece com sua personalidade: da economia à tradição, do caos à elegância!"
+    },
+    {
+       "name": "Qual arquétipo de velho você será?",
+       "file": "quizzes/quizVelhiceArquetipos.json",
+       "description": "Prepare o seu pijama ou o seu bilhete de cruzeiro: descubra como será sua melhor (ou pior) idade!"
     }
+
 
 
     
