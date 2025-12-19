@@ -1,0 +1,128 @@
+{
+  "title": "Qual arquétipo de velho você será?",
+  "subtitle": "Prepare o seu pijama ou o seu bilhete de cruzeiro.",
+  "questions": [
+    {
+      "question": "O que você sente quando vê um grupo de adolescentes rindo alto na rua?",
+      "answers": [
+        { "text": "🛹 Vontade de jogar um balde de água fria", "points": { "fiscal_calçada": 0.9, "revolucionario_praça": 0.1 } },
+        { "text": "🤳 Tento entender as gírias para usar depois (e passar vergonha)", "points": { "avo_pave": 0.8, "sugar_granny": 0.2 } },
+        { "text": "🎧 Agradeço ao meu fone por me isolar desse caos", "points": { "senhora_dos_gatos": 0.9 } },
+        { "text": "🙄 Penso: 'No meu tempo existia respeito'", "points": { "revolucionario_praça": 0.8, "inimigo_tecnologia": 0.2 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua relação atual com a tecnologia?",
+      "answers": [
+        { "text": "💾 Guardo disquetes pois a nuvem é uma conspiração", "points": { "inimigo_tecnologia": 0.9 } },
+        { "text": "🔋 Meu celular só serve para postar 'Bom Dia' com flores", "points": { "avo_pave": 0.7, "fiscal_calçada": 0.3 } },
+        { "text": "⌚ Uso o smartwatch para monitorar meus 3 batimentos/min", "points": { "entusiasta_saude": 0.9 } },
+        { "text": "💳 Só uso para comprar passagens e fugir da família", "points": { "sugar_granny": 0.9 } }
+      ]
+    },
+    {
+      "question": "Um sábado à noite perfeito envolve:",
+      "answers": [
+        { "text": "🍵 Chá, silêncio e as plantas da sala", "points": { "bruxa_do_horto": 0.8, "senhora_dos_gatos": 0.2 } },
+        { "text": "🎰 Bingo clandestino ou cassino em alto mar", "points": { "sugar_granny": 0.9 } },
+        { "text": "🗄️ Organizar minha coleção de tampinhas de garrafa", "points": { "revolucionario_praça": 0.7, "inimigo_tecnologia": 0.3 } },
+        { "text": "💊 Comparar os efeitos dos remédios com os amigos", "points": { "entusiasta_saude": 0.9 } }
+      ]
+    },
+    {
+      "question": "Como você lida com visitas inesperadas da família?",
+      "answers": [
+        { "text": "🧶 Finjo que não estou e apago as luzes", "points": { "senhora_dos_gatos": 0.8, "fiscal_calçada": 0.2 } },
+        { "text": "🥘 Faço banquete, mas reclamo que ninguém ajuda", "points": { "bruxa_do_horto": 0.7, "fiscal_calçada": 0.3 } },
+        { "text": "✈️ Não lido, estou em um resort na Bahia", "points": { "sugar_granny": 0.9 } },
+        { "text": "🤡 Conto a piada do pavê antes de darem 'oi'", "points": { "avo_pave": 0.9 } }
+      ]
+    },
+    {
+      "question": "O vizinho está em obra às 10h da manhã. Você:",
+      "answers": [
+        { "text": "📞 Ligo para a prefeitura e o síndico", "points": { "fiscal_calçada": 0.9 } },
+        { "text": "🔮 Faço um ritual para amaldiçoar a furadeira", "points": { "bruxa_do_horto": 0.8, "senhora_dos_gatos": 0.2 } },
+        { "text": "💢 Tento postar no Facebook e posto uma selfie tremida", "points": { "inimigo_tecnologia": 0.9 } },
+        { "text": "💊 Tomo um calmante e volto a dormir", "points": { "entusiasta_saude": 0.8, "sugar_granny": 0.2 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua 'gastança' favorita no cartão?",
+      "answers": [
+        { "text": "🧤 Roupinhas de crochê que ninguém pediu", "points": { "senhora_dos_gatos": 0.7, "bruxa_do_horto": 0.3 } },
+        { "text": "💎 Joias e cremes anti-idade caríssimos", "points": { "sugar_granny": 0.9 } },
+        { "text": "🛒 Comprar o jornal para ver quem morreu", "points": { "revolucionario_praça": 0.8, "fiscal_calçada": 0.2 } },
+        { "text": "🏥 Suplementos que prometem juventude eterna", "points": { "entusiasta_saude": 0.9 } }
+      ]
+    },
+    {
+      "question": "Opinião sincera sobre as 'dancinhas de TikTok':",
+      "answers": [
+        { "text": "🤖 'No meu tempo a gente trabalhava'", "points": { "revolucionario_praça": 0.8, "inimigo_tecnologia": 0.2 } },
+        { "text": "👵 Anoto quem está fazendo isso para fofocar depois", "points": { "fiscal_calçada": 0.9 } },
+        { "text": "🍹 Ignoro enquanto peço outro drink", "points": { "sugar_granny": 0.9 } },
+        { "text": "🤡 Faço a dancinha mal feita para irritar meus netos", "points": { "avo_pave": 0.9 } }
+      ]
+    },
+    {
+      "question": "Se o seu corpo fosse um veículo, ele seria:",
+      "answers": [
+        { "text": "🚜 Um trator antigo: barulhento, mas arrasta", "points": { "revolucionario_praça": 0.7, "inimigo_tecnologia": 0.3 } },
+        { "text": "🏎️ Uma Ferrari que só sai para o shopping de luxo", "points": { "sugar_granny": 0.9 } },
+        { "text": "🚑 Uma ambulância: conheço todos os hospitais", "points": { "entusiasta_saude": 0.9 } },
+        { "text": "📦 Um caminhão de mudança cheio de tralhas", "points": { "fiscal_calçada": 0.4, "senhora_dos_gatos": 0.6 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "fiscal_calçada": {
+      "title": "A Fofoqueira do Vão",
+      "emoji": "👵",
+      "subtitle": "O Google Maps Humano",
+      "text": "Seu hobby será observar a vida passar do portão, julgando o vizinho e o horário que os jovens chegam. Nada escapa ao seu radar."
+    },
+    "inimigo_tecnologia": {
+      "title": "O Inimigo do Wi-Fi",
+      "emoji": "📠",
+      "subtitle": "O Terror do Suporte Técnico",
+      "text": "Você enviará áudios de 10 minutos segurando o celular como um rádio e culpará 'o sistema' por cada senha que esqueceu."
+    },
+    "sugar_granny": {
+      "title": "A 'Sugar Granny' Viajante",
+      "emoji": "🍹",
+      "subtitle": "Gastando a Herança",
+      "text": "Você será a velha rica. Chapéu gigante, Chardonnay na mão e zero paciência para drama. Sua herança vai virar milhas aéreas."
+    },
+    "entusiasta_saude": {
+      "title": "O Sommelier de Remédios",
+      "emoji": "💊",
+      "subtitle": "Farmácia em Casa",
+      "text": "Sua conversa favorita será sobre qual genérico funciona melhor para o joelho. Terá um organizador de comprimidos complexo."
+    },
+    "bruxa_do_horto": {
+      "title": "A Bruxa das Plantas",
+      "emoji": "🌿",
+      "subtitle": "Mãe de Samambaia",
+      "text": "Conversará mais com orquídeas do que com humanos. Sua casa parecerá Jumanji e terá um chá para curar até mau-olhado."
+    },
+    "avo_pave": {
+      "title": "O Mestre do Pavê",
+      "emoji": "🤡",
+      "subtitle": "Humor de Quinta Série",
+      "text": "Sua missão será repetir as mesmas 3 piadas em todo almoço até que seus netos peçam emancipação por danos morais."
+    },
+    "senhora_dos_gatos": {
+      "title": "A Protetora dos Felinos",
+      "emoji": "🐈",
+      "subtitle": "7 Vidas e 1 Pensão",
+      "text": "Desistiu da humanidade. Vive em um castelo de pelos, chamando 12 gatos de filhos enquanto ignora os filhos reais."
+    },
+    "revolucionario_praça": {
+      "title": "O Filósofo do Banco",
+      "emoji": "🗞️",
+      "subtitle": "Saudades do que não viveu",
+      "text": "Explicará como 'no seu tempo' as coisas funcionavam, ignorando que o mundo mudou e ninguém te perguntou nada."
+    }
+  }
+}
