@@ -221,8 +221,7 @@ Aqui está o **Guia Oficial de Melhores Práticas para Criação de Quizzes**, i
       "question": "Texto da pergunta",
       "answers": [
         {
-          "text": "Resposta 1",
-          "emoji": "🎲", // Emoji não literal
+          "text": "🎲  Resposta 1",
           "points": {
             "resultado1": 0.7, // Pontos fracionados
             "resultado3": 0.3   // Múltiplas associações
@@ -294,13 +293,11 @@ Aqui está o **Guia Oficial de Melhores Práticas para Criação de Quizzes**, i
   "question": "Como você reage a imprevistos?",
   "answers": [
     {
-      "text": "Improviso soluções criativas",
-      "emoji": "🤸", // Emoji não óbvio (em vez de 🎵)
+      "text": "🤸  Improviso soluções criativas",
       "points": {"violino": 0.7, "bateria": 0.3}
     },
     {
-      "text": "Mantenho o ritmo natural",
-      "emoji": "🌊", 
+      "text": "🌊  Mantenho o ritmo natural",
       "points": {"violão": 0.9}
     }
   ]
