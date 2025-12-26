@@ -1,0 +1,158 @@
+{
+  "title": "Qual deve ser sua meta em 2026?",
+  "subtitle": "Esqueça as promessas genéricas. Descubra qual grande arquétipo de vida aguarda você!",
+  "questions": [
+    {
+      "question": "Se o seu 2025 fosse um filme que acabou de passar nos créditos, qual seria o gênero?",
+      "answers": [
+        { "text": "🎪 Um documentário sobre como equilibrar 15 pratos girando", "points": { "arquiteto_caos": 0.8, "atleta_existencial": 0.2 } },
+        { "text": "🌌 Uma ficção científica onde eu era o robô assistente", "points": { "monge_high_tech": 0.9 } },
+        { "text": "🎬 Um épico de aventura, mas eu ainda estou no prólogo", "points": { "explorador_fronteiras": 0.7, "visionario_comunidade": 0.3 } },
+        { "text": "🎨 Um filme cult francês: muita reflexão e pouco orçamento", "points": { "alquimista_financeiro": 0.6, "colecionador_momentos": 0.4 } },
+        { "text": "🍿 Uma comédia romântica com a minha própria rotina", "points": { "colecionador_momentos": 0.8, "arquiteto_caos": 0.2 } }
+      ]
+    },
+    {
+      "question": "O que você faria se recebesse um 'mês sabático remunerado' amanhã?",
+      "answers": [
+        { "text": "🌋 Iria para um lugar onde o sinal de celular é uma lenda urbana", "points": { "monge_high_tech": 0.8, "colecionador_momentos": 0.2 } },
+        { "text": "🎢 Criaria um roteiro de 30 cidades em 30 dias (haja café!)", "points": { "explorador_fronteiras": 0.9 } },
+        { "text": "🏗️ Estudaria como automatizar minha vida para nunca mais voltar", "points": { "alquimista_financeiro": 0.7, "arquiteto_caos": 0.3 } },
+        { "text": "🤝 Organizaria um festival para reunir todas as pessoas que gosto", "points": { "visionario_comunidade": 0.9 } },
+        { "text": "🏃 Entraria em um retiro de performance física e mental", "points": { "atleta_existencial": 0.8, "monge_high_tech": 0.1 } }
+      ]
+    },
+    {
+      "question": "Sua conta bancária e sua saúde mental estão conversando num bar. Sobre o que elas falam?",
+      "answers": [
+        { "text": "💸 'A gente precisa parar de gastar com terapia para pagar o boleto'", "points": { "alquimista_financeiro": 0.9 } },
+        { "text": "🧘 'Estamos em paz, mas um pouco entediadas, não acha?'", "points": { "explorador_fronteiras": 0.5, "atleta_existencial": 0.5 } },
+        { "text": "🌪️ 'Socorro, é cada susto que a gente passa que nem o Pix resolve'", "points": { "arquiteto_caos": 0.7, "monge_high_tech": 0.3 } },
+        { "text": "🥂 'Estamos investindo em memórias, o resto é detalhe'", "points": { "colecionador_momentos": 0.9 } },
+        { "text": "📣 'Como podemos ajudar o resto da galera a ficar bem também?'", "points": { "visionario_comunidade": 0.8, "alquimista_financeiro": 0.2 } }
+      ]
+    },
+    {
+      "question": "Se pudesse baixar uma nova 'habilidade' instantaneamente, qual seria?",
+      "answers": [
+        { "text": "🌀 Ignorar dramas inúteis sem sentir um pingo de culpa", "points": { "monge_high_tech": 0.7, "arquiteto_caos": 0.3 } },
+        { "text": "🎙️ Falar todas as línguas para negociar em qualquer lugar", "points": { "explorador_fronteiras": 0.8, "visionario_comunidade": 0.2 } },
+        { "text": "🧠 Entender padrões complexos de investimento e mercado", "points": { "alquimista_financeiro": 0.9 } },
+        { "text": "🖌️ Expressar sentimentos complexos através da arte", "points": { "artista_da_vida": 0.9 } },
+        { "text": "📚 Absorver o conteúdo de um livro apenas tocando na capa", "points": { "curador_conhecimento": 0.9 } }
+      ]
+    },
+    {
+      "question": "Um gênio oferece 'tempo ilimitado', mas só para uma destas opções:",
+      "answers": [
+        { "text": "⏳ Ficar no ócio criativo olhando para o teto sem pressão", "points": { "artista_da_vida": 0.7, "colecionador_momentos": 0.3 } },
+        { "text": "🏋️ Treinar até meu corpo atingir o estado de uma estátua grega", "points": { "atleta_existencial": 0.9 } },
+        { "text": "🏗️ Construir um império ou fundação que dure 100 anos", "points": { "ancora_geracional": 0.9 } },
+        { "text": "🗺️ Viajar por cada vilarejo obscuro deste planeta", "points": { "explorador_fronteiras": 0.9 } },
+        { "text": "💬 Ouvir a história de vida de cada pessoa que eu encontrar", "points": { "visionario_comunidade": 0.7, "colecionador_momentos": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu maior 'pecado' de produtividade atualmente?",
+      "answers": [
+        { "text": "📱 Entrar no TikTok por 5 min e sair 3 anos depois", "points": { "monge_high_tech": 0.8 } },
+        { "text": "🤔 Planejar tanto que esqueço de realmente começar", "points": { "arquiteto_caos": 0.6, "curador_conhecimento": 0.4 } },
+        { "text": "💸 Gastar em 'experiências' o que deveria ser o aluguel", "points": { "colecionador_momentos": 0.7, "alquimista_financeiro": 0.1 } },
+        { "text": "😴 Priorizar o meu sono de beleza acima de reuniões matinais", "points": { "atleta_existencial": 0.6, "artista_da_vida": 0.4 } },
+        { "text": "🧱 Querer carregar o mundo (e a família) nas costas", "points": { "ancora_geracional": 0.8, "visionario_comunidade": 0.2 } }
+      ]
+    },
+    {
+      "question": "Se o seu 2026 tivesse um 'Patrocinador Oficial', qual seria?",
+      "answers": [
+        { "text": "🏔️ Uma marca de equipamentos de alpinismo extremo", "points": { "atleta_existencial": 0.8, "explorador_fronteiras": 0.2 } },
+        { "text": "🕯️ Uma grife de velas aromáticas e silêncio absoluto", "points": { "monge_high_tech": 0.9 } },
+        { "text": "🏦 Um banco suíço especializado em liberdade geográfica", "points": { "alquimista_financeiro": 0.8, "explorador_fronteiras": 0.2 } },
+        { "text": "🎨 Uma fábrica de tintas com cores inéditas", "points": { "artista_da_vida": 0.9 } },
+        { "text": "🧱 Uma empresa de engenharia de pontes e monumentos", "points": { "ancora_geracional": 0.7, "visionario_comunidade": 0.3 } }
+      ]
+    },
+    {
+      "question": "Como quer ser lembrado em uma conversa de bar no fim de 2026?",
+      "answers": [
+        { "text": "🌟 'Aquela pessoa que teve coragem de mudar tudo'", "points": { "explorador_fronteiras": 0.7, "arquiteto_caos": 0.3 } },
+        { "text": "👑 'Quem virou a chave e hoje vive com total soberania'", "points": { "alquimista_financeiro": 0.6, "artista_da_vida": 0.4 } },
+        { "text": "🧘 'A pessoa mais centrada e equilibrada do grupo'", "points": { "monge_high_tech": 0.8, "curador_conhecimento": 0.2 } },
+        { "text": "🤝 'Quem uniu a galera e fez algo histórico acontecer'", "points": { "visionario_comunidade": 0.9 } },
+        { "text": "🧠 'A mente profunda que sempre tem o conselho certo'", "points": { "curador_conhecimento": 0.8, "ancora_geracional": 0.2 } }
+      ]
+    },
+    {
+      "question": "Escolha um 'Portal de Saída' para o final deste quiz:",
+      "answers": [
+        { "text": "🚀 Um salto no escuro com 100% de confiança", "points": { "arquiteto_caos": 0.9 } },
+        { "text": "🌳 Plantar uma semente e vê-la crescer com paciência", "points": { "ancora_geracional": 0.9 } },
+        { "text": "🌊 Mergulhar em um oceano de novas possibilidades", "points": { "colecionador_momentos": 0.5, "artista_da_vida": 0.5 } },
+        { "text": "🧗 Escalar a montanha mais alta que eu encontrar", "points": { "atleta_existencial": 0.9 } },
+        { "text": "📡 Conectar meu sinal com o resto do universo", "points": { "visionario_comunidade": 0.6, "monge_high_tech": 0.4 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "arquiteto_caos": {
+      "title": "O Arquiteto do Caos",
+      "emoji": "🌪️",
+      "subtitle": "Domínio da Incerteza",
+      "text": "Em 2026, você vai parar de tentar controlar o vento e vai aprender a ajustar as velas. Sua meta é a antifragilidade: crescer no caos."
+    },
+    "monge_high_tech": {
+      "title": "O Monge High-Tech",
+      "emoji": "🧘",
+      "subtitle": "Equilíbrio Digital",
+      "text": "Sua meta é o silêncio produtivo. Menos ruído algorítmico, mais foco no que é humano, profundo e essencial."
+    },
+    "explorador_fronteiras": {
+      "title": "O Explorador de Fronteiras",
+      "emoji": "🧭",
+      "subtitle": "Expansão Geográfica",
+      "text": "Sua meta é o movimento. 2026 será o ano de expandir seu território físico e mental, descobrindo que o mundo é sua casa."
+    },
+    "colecionador_momentos": {
+      "title": "O Colecionador de 'Agoras'",
+      "emoji": "🎞️",
+      "subtitle": "Presença Radical",
+      "text": "Sua meta é deletar a pressa. Você vai focar em experiências que não podem ser compradas ou baixadas, apenas sentidas."
+    },
+    "alquimista_financeiro": {
+      "title": "O Alquimista da Prosperidade",
+      "emoji": "💎",
+      "subtitle": "Fluxo de Valor",
+      "text": "Sua meta é a soberania financeira. Menos sobre acúmulo de bens e muito mais sobre a liberdade total de dizer 'não'."
+    },
+    "atleta_existencial": {
+      "title": "O Atleta Existencial",
+      "emoji": "🎢",
+      "subtitle": "Vitalidade Plena",
+      "text": "Sua meta é tratar sua energia como seu bem mais precioso. 2026 é o ano do seu pico de performance física e mental."
+    },
+    "visionario_comunidade": {
+      "title": "O Visionário de Tribos",
+      "emoji": "🛰️",
+      "subtitle": "Conexão Global",
+      "text": "Sua meta é o impacto coletivo. Você será o elo que une pessoas e propósitos, criando uma rede de valor inestimável."
+    },
+    "curador_conhecimento": {
+      "title": "O Curador de Saberes",
+      "emoji": "🏛️",
+      "subtitle": "Mestria Intelectual",
+      "text": "Sua meta é a profundidade. Em vez de saber um pouco de tudo, você vai se tornar mestre em algo que realmente importa."
+    },
+    "artista_da_vida": {
+      "title": "O Artista da Própria Vida",
+      "emoji": "🎨",
+      "subtitle": "Expressão Criativa",
+      "text": "Sua meta é transformar sua rotina em uma obra de arte. Menos obrigações externas, mais projetos autorais e paixão genuína."
+    },
+    "ancora_geracional": {
+      "title": "A Âncora Geracional",
+      "emoji": "🌳",
+      "subtitle": "Construção de Legado",
+      "text": "Sua meta é construir algo que dure. 2026 é sobre bases sólidas para o futuro da sua família, carreira ou comunidade."
+    }
+  }
+}
