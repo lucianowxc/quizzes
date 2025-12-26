@@ -1,0 +1,104 @@
+{
+  "title": "Qual evento de final de ano você é?",
+  "subtitle": "Dezembro tem muitas festas, mas só uma tem o Martelo da Diplomacia.",
+  "questions": [
+    {
+      "question": "O Natal passou e o Ano Novo está chegando. O que você faz no dia 27/12?",
+      "answers": [
+        { "text": "🍗 Como o resto do peru de Natal escondido", "points": { "aniversario_carol": 1 } },
+        { "text": "👔 Começo a planejar as metas de 2026 no Jira", "points": { "aniversario_carol": 1 } },
+        { "text": "🎤 Procuro o karaokê mais próximo para brilhar", "points": { "aniversario_carol": 1 } },
+        { "text": "🔨 Esqueço o calendário e foco no aniversário da Carol", "points": { "aniversario_carol": 1 } },
+        { "text": "🃏 Organizo meus cards de Pokémon por tipo e raridade", "points": { "aniversario_carol": 1 } }
+      ]
+    },
+    {
+      "question": "Papai Noel te deu um deck de Pokémon TCG ruim. Qual sua reação?",
+      "answers": [
+        { "text": "🙏 Agradeço com educação, mas morrendo por dentro", "points": { "aniversario_carol": 1 } },
+        { "text": "🔨 Uso o Martelo da Diplomacia e digo que o deck é tenebroso", "points": { "aniversario_carol": 1 } },
+        { "text": "💻 Re-programo as regras do jogo pra eu ganhar", "points": { "aniversario_carol": 1 } },
+        { "text": "🍣 Peço um japonês chique pra esquecer a tristeza", "points": { "aniversario_carol": 1 } },
+        { "text": "🌟 Sou animada e transformo o deck ruim em meta", "points": { "aniversario_carol": 1 } }
+      ]
+    },
+    {
+      "question": "Na ceia de Natal, alguém começa um debate político chato. Como você age?",
+      "answers": [
+        { "text": "😴 Finjo um desmaio repentino", "points": { "aniversario_carol": 1 } },
+        { "text": "🎤 Puxo um karaokê improvisado de música de anime", "points": { "aniversario_carol": 1 } },
+        { "text": "🔨 Aplico a sinceridade da Carol e encerro a discussão", "points": { "aniversario_carol": 1 } },
+        { "text": "🍷 Bebo meu vinho em um restaurante chique longe dali", "points": { "aniversario_carol": 1 } },
+        { "text": "👾 Começo a explicar como funciona o ataque do Pikachu", "points": { "aniversario_carol": 1 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua 'vibe' oficial para a semana entre o Natal e o Réveillon?",
+      "answers": [
+        { "text": "🕯️ Silêncio total e modo offline", "points": { "aniversario_carol": 1 } },
+        { "text": "🥳 Festa ininterrupta, sou o ápice da animação", "points": { "aniversario_carol": 1 } },
+        { "text": "🔨 Dia 27 é o único feriado que eu reconheço", "points": { "aniversario_carol": 1 } },
+        { "text": "💻 Resolvendo bugs que ninguém mais quer ver", "points": { "aniversario_carol": 1 } },
+        { "text": "🍽️ Fazendo um tour gastronômico pelos melhores menus", "points": { "aniversario_carol": 1 } }
+      ]
+    },
+    {
+      "question": "O que é pior: código sem comentário ou uva passa no arroz?",
+      "answers": [
+        { "text": "💻 Código sem comentário é um crime contra a humanidade", "points": { "aniversario_carol": 1 } },
+        { "text": "🍚 Uva passa é um erro de design gastronômico", "points": { "aniversario_carol": 1 } },
+        { "text": "🔨 Pior é não dar parabéns pra Carol no dia 27", "points": { "aniversario_carol": 1 } },
+        { "text": "🎤 Pior é karaokê sem microfone de qualidade", "points": { "aniversario_carol": 1 } },
+        { "text": "🃏 Pior é perder pra um deck de iniciante", "points": { "aniversario_carol": 1 } }
+      ]
+    },
+    {
+      "question": "Você foi convidado para o Aniversário da Carol. Como você se prepara?",
+      "answers": [
+        { "text": "🧥 Escolho minha melhor roupa de nerdola chique", "points": { "aniversario_carol": 1 } },
+        { "text": "🎤 Treino as notas agudas para o momento do palco", "points": { "aniversario_carol": 1 } },
+        { "text": "🃏 Afio minhas estratégias de TCG para o duelo", "points": { "aniversario_carol": 1 } },
+        { "text": "🧠 Preparo meu psicológico para a sinceridade dela", "points": { "aniversario_carol": 1 } },
+        { "text": "🔨 Já chego segurando o Martelo da Diplomacia pra ela", "points": { "aniversario_carol": 1 } }
+      ]
+    },
+    {
+      "question": "No dia 31 de dezembro, você olha para trás e percebe que...",
+      "answers": [
+        { "text": "🥳 O melhor dia do ano foi o 27/12", "points": { "aniversario_carol": 1 } },
+        { "text": "💻 Sobrevivi a mais um ano de deploys caóticos", "points": { "aniversario_carol": 1 } },
+        { "text": "🍽️ Comi muito bem e não me arrependo", "points": { "aniversario_carol": 1 } },
+        { "text": "🔨 Fui sincero demais, mas fui feliz", "points": { "aniversario_carol": 1 } },
+        { "text": "🌟 Sou uma pessoa maravilhosa por causa das minhas amizades", "points": { "aniversario_carol": 1 } }
+      ]
+    },
+    {
+      "question": "Qual dessas é a maior 'habilidade Pokémon' da Carol?",
+      "answers": [
+        { "text": "⚡ Super-Animação: Recupera HP de todos os amigos", "points": { "aniversario_carol": 1 } },
+        { "text": "🧠 Prestatividade: Resolve o puzzle de qualquer um", "points": { "aniversario_carol": 1 } },
+        { "text": "🔨 Martelo Diplomático: Derruba falsidade com um golpe", "points": { "aniversario_carol": 1 } },
+        { "text": "🎤 Voz de Sereia: Domina o Karaokê local", "points": { "aniversario_carol": 1 } },
+        { "text": "🍣 Paladar Crítico: Sabe onde está o melhor Sashimi", "points": { "aniversario_carol": 1 } }
+      ]
+    },
+    {
+      "question": "Quem é a estrela que brilha mais que o fogos de artifício?",
+      "answers": [
+        { "text": "🎄 A árvore de Natal (Já foi)", "points": { "aniversario_carol": 1 } },
+        { "text": "🎆 A virada de ano (Ainda não chegou)", "points": { "aniversario_carol": 1 } },
+        { "text": "🔨 A CAROL (Sempre foi ela)", "points": { "aniversario_carol": 1 } },
+        { "text": "🎤 O dono do karaokê (Ele queria...)", "points": { "aniversario_carol": 1 } },
+        { "text": "👾 Um Mewtwo brilhante (Chega perto)", "points": { "aniversario_carol": 1 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "aniversario_carol": {
+      "title": "O Aniversário da Carol (27/12)",
+      "emoji": "🔨",
+      "subtitle": "O Grande Evento do Final de Ano",
+      "text": "Você não é o Natal nem o Ano Novo, você é o brilho genuíno do dia 27 de dezembro! Assim como a Carol, você é uma pessoa maravilhosa, super prestativa e a alma mais animada de qualquer grupo. Você ama o mundo nerd, domina o código e o Pokémon TCG, e não dispensa um restaurante chique ou um karaokê épico. Mas cuidado: se a conversa perder o sentido, você não hesita em usar o 'Martelo da Diplomacia' para trazer a sinceridade necessária para o ambiente. Parabéns por ser esse evento inesquecível!"
+    }
+  }
+}
