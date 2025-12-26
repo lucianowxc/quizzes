@@ -469,7 +469,13 @@
        "name": "Qual arquétipo de velho você será?",
        "file": "quizzes/quizVelhiceArquetipos.json",
        "description": "Prepare o seu pijama ou o seu bilhete de cruzeiro: descubra como será sua melhor (ou pior) idade!"
+    },
+    {
+       "name": "Qual deve ser sua meta em 2026?",
+       "file": "quizzes/meta2026.json",
+       "description": "Descubra qual grande movimento de vida aguarda você no futuro através de 10 arquétipos existenciais criativos!"
     }
+
 
 
 
