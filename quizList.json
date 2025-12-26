@@ -474,7 +474,13 @@
        "name": "Qual deve ser sua meta em 2026?",
        "file": "quizzes/meta2026.json",
        "description": "Descubra qual grande movimento de vida aguarda você no futuro através de 10 arquétipos existenciais criativos!"
+    },
+    {
+       "name": "Qual expressão para a loucura você seria?",
+       "file": "quizzes/expressaoLoucura.json",
+       "description": "Descubra se você só pirou na batatinha ou se já está dando bom dia a cavalo neste quiz absurdista!"
     }
+
 
 
 
