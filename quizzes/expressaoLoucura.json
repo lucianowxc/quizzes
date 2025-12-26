@@ -1,0 +1,146 @@
+{
+  "title": "Qual expressão para a loucura você seria?",
+  "subtitle": "Descubra se você só pirou na batatinha ou se já está dando bom dia a cavalo.",
+  "questions": [
+    {
+      "question": "A cafeteira quebra na segunda-feira de manhã. Qual sua reação imediata?",
+      "answers": [
+        { "text": "🗣️ Chuto o balde e começo um monólogo contra o capitalismo", "points": { "perdeu_estribeiras": 0.9, "tirou_o_juizo": 0.1 } },
+        { "text": "🐴 Peço desculpas à cafeteira por ter sido muito exigente", "points": { "bom_dia_cavalo": 0.9 } },
+        { "text": "🥔 Tento passar o café usando uma meia e muita esperança", "points": { "pirou_batatinha": 0.8, "miolo_mole": 0.2 } },
+        { "text": "☁️ Fico olhando a água fria e penso: 'E se a água for café?'", "points": { "viajou_maionese": 0.9 } },
+        { "text": "💸 Compro uma máquina de 5 mil reais em 12x sem pensar", "points": { "rasgou_dinheiro": 0.9 } }
+      ]
+    },
+    {
+      "question": "Você está numa reunião importante e percebe que está sendo ignorado. O que faz?",
+      "answers": [
+        { "text": "🧨 Começo a cantar o hino nacional em ritmo de samba", "points": { "tirou_o_juizo": 0.8, "parafuso_a_menos": 0.2 } },
+        { "text": "🚪 Saio da sala sem falar nada e vou morar no mato", "points": { "perdeu_estribeiras": 0.7, "viajou_maionese": 0.3 } },
+        { "text": "🍬 Começo a distribuir balas imaginárias para os colegas", "points": { "pirou_batatinha": 0.9 } },
+        { "text": "😵 Pergunto para a cadeira se ela concorda com meu ponto", "points": { "bom_dia_cavalo": 0.8, "parafuso_a_menos": 0.2 } },
+        { "text": "🤡 Sorrio e concordo com o chefe, mesmo ele me demitindo", "points": { "miolo_mole": 0.9 } }
+      ]
+    },
+    {
+      "question": "Como está o seu nível de estresse hoje de 0 a 'Coringa'?",
+      "answers": [
+        { "text": "🌋 Um 'bom dia' no WhatsApp me faz querer trocar de nome", "points": { "perdeu_estribeiras": 0.8, "bom_dia_cavalo": 0.2 } },
+        { "text": "🎈 Tô tão zen que se o mundo acabar eu viro fumaça", "points": { "viajou_maionese": 0.7, "miolo_mole": 0.3 } },
+        { "text": "🔩 Sinto que falta só um empurrãozinho para eu latir", "points": { "parafuso_a_menos": 0.9 } },
+        { "text": "🔥 Já aceitei que a sanidade é uma construção social", "points": { "tirou_o_juizo": 0.9 } },
+        { "text": "🍟 Minha meta de vida agora é virar um monge das batatas", "points": { "pirou_batatinha": 0.9 } }
+      ]
+    },
+    {
+      "question": "Você entra no mercado para comprar pão e sai com uma piscina inflável. Por quê?",
+      "answers": [
+        { "text": "🛸 Eu vi um brilho no corredor 4 e segui meu destino", "points": { "viajou_maionese": 0.8, "pirou_batatinha": 0.2 } },
+        { "text": "💸 Estava na promoção e eu claramente mereço esse mimo", "points": { "rasgou_dinheiro": 0.9 } },
+        { "text": "😵 Eu esqueci o que era um pão no meio do caminho", "points": { "miolo_mole": 0.8, "bom_dia_cavalo": 0.2 } },
+        { "text": "🧨 O caixa demorou 1 minuto e eu peguei o que vi na frente", "points": { "perdeu_estribeiras": 0.7, "parafuso_a_menos": 0.3 } },
+        { "text": "🧚 A piscina me disse que o verão será apocalíptico", "points": { "tirou_o_juizo": 0.7, "pirou_batatinha": 0.3 } }
+      ]
+    },
+    {
+      "question": "Seu computador trava no meio de um trabalho importante. Qual o seu 'mood'?",
+      "answers": [
+        { "text": "💻 Começo a explicar para o monitor as leis da robótica", "points": { "bom_dia_cavalo": 0.8, "parafuso_a_menos": 0.2 } },
+        { "text": "🤬 Digito tão forte que crio um novo alfabeto de ódio", "points": { "perdeu_estribeiras": 0.9 } },
+        { "text": "🧘 Dou uma risada macabra e vou fazer um chá de casca de ovo", "points": { "tirou_o_juizo": 0.8, "pirou_batatinha": 0.2 } },
+        { "text": "🥪 Olho para a tela e começo a ver formatos de bichinhos", "points": { "viajou_maionese": 0.9 } },
+        { "text": "🤡 Pergunto se o computador quer que eu pague um boleto para ele", "points": { "rasgou_dinheiro": 0.6, "miolo_mole": 0.4 } }
+      ]
+    },
+    {
+      "question": "Como você lida com áudios de 5 minutos no WhatsApp?",
+      "answers": [
+        { "text": "⏩ Coloco em 2x e ouço enquanto planejo minha fuga do país", "points": { "parafuso_a_menos": 0.6, "viajou_maionese": 0.4 } },
+        { "text": "👂 Ouço tudo, respondo 'top' e esqueço o que foi dito", "points": { "miolo_mole": 0.9 } },
+        { "text": "🔇 Apago o chat e finjo que mudei de número", "points": { "perdeu_estribeiras": 0.8, "tirou_o_juizo": 0.2 } },
+        { "text": "🏇 Respondo com um áudio de 10 minutos sobre física quântica", "points": { "pirou_batatinha": 0.9 } },
+        { "text": "🐴 Respondo: 'Sim, concordo com tudo', para um áudio de briga", "points": { "bom_dia_cavalo": 0.9 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua 'teoria da conspiração' favorita no momento?",
+      "answers": [
+        { "text": "🦜 Os pombos são câmeras do governo vigiando meu sono", "points": { "pirou_batatinha": 0.8, "tirou_o_juizo": 0.2 } },
+        { "text": "🧦 O fundo da máquina de lavar é um portal para outra dimensão", "points": { "viajou_maionese": 0.9 } },
+        { "text": "🏢 Se eu trabalhar muito, vou ficar rico (a mais absurda)", "points": { "rasgou_dinheiro": 0.7, "bom_dia_cavalo": 0.3 } },
+        { "text": "🔨 As quinas dos móveis conspiram contra o meu dedinho", "points": { "perdeu_estribeiras": 0.8, "parafuso_a_menos": 0.2 } },
+        { "text": "🌈 O mundo acabou em 2012 e isso aqui é um teste", "points": { "tirou_o_juizo": 0.9 } }
+      ]
+    },
+    {
+      "question": "Você ganha na loteria. Qual a primeira atitude 'questionável'?",
+      "answers": [
+        { "text": "🏰 Compro um castelo de areia com seguro contra maré alta", "points": { "rasgou_dinheiro": 0.9 } },
+        { "text": "🦒 Contrato uma girafa para ser meu segurança particular", "points": { "pirou_batatinha": 0.8, "parafuso_a_menos": 0.2 } },
+        { "text": "🌋 Gasto tudo em ingressos para um show de harpa no vulcão", "points": { "viajou_maionese": 0.9 } },
+        { "text": "🧱 Compro a empresa só para demitir a impressora", "points": { "perdeu_estribeiras": 0.9 } },
+        { "text": "🤡 Dou o prêmio para a primeira pessoa que me der um 'oi'", "points": { "miolo_mole": 0.9 } }
+      ]
+    },
+    {
+      "question": "Escolha um mantra para os dias em que nada faz sentido:",
+      "answers": [
+        { "text": "🍄 'Batatinha quando nasce, se esparrama pelo chão...'", "points": { "pirou_batatinha": 0.9 } },
+        { "text": "🌌 'Eu não estou aqui, isso é apenas um holograma'", "points": { "viajou_maionese": 0.9 } },
+        { "text": "🐴 'Bom dia, sol! Bom dia, poste! Bom dia, estresse!'", "points": { "bom_dia_cavalo": 0.9 } },
+        { "text": "🧨 'Quem tem limite é município, eu tenho é coragem'", "points": { "perdeu_estribeiras": 0.7, "tirou_o_juizo": 0.3 } },
+        { "text": "🔩 'Falta um parafuso, mas a gambiarra segura'", "points": { "parafuso_a_menos": 0.9 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "pirou_batatinha": {
+      "title": "Pirou na Batatinha",
+      "emoji": "🥔",
+      "subtitle": "O Delírio Inofensivo",
+      "text": "Você não é perigoso, só vive em uma realidade paralela onde as leis da lógica pediram demissão. Suas ideias fazem sentido apenas para você (e talvez para os pombos)."
+    },
+    "viajou_maionese": {
+      "title": "Viajou na Maionese",
+      "emoji": "🥪",
+      "subtitle": "O Astronauta do Nada",
+      "text": "Você entra em transe no meio de conversas importantes e volta com uma teoria sobre o formato das nuvens. Sua mente é um foguete sem GPS cruzando o vácuo."
+    },
+    "perdeu_estribeiras": {
+      "title": "Perdeu as Estribeiras",
+      "emoji": "🏇",
+      "subtitle": "O Vulcão em Erupção",
+      "text": "Sua paciência é um fio de cabelo no meio de um furacão. Quando o limite chega, você vira a mesa, chuta o balde e depois pergunta quem o colocou ali."
+    },
+    "bom_dia_cavalo": {
+      "title": "Dando Bom Dia a Cavalo",
+      "emoji": "🐴",
+      "subtitle": "A Simpatia Desesperada",
+      "text": "Você atingiu o nível máximo de estafa mental. É a loucura da exaustão urbana: educado com postes, gentil com cafeteiras e ignorando o próprio caos."
+    },
+    "rasgou_dinheiro": {
+      "title": "Rasgou Dinheiro",
+      "emoji": "💸",
+      "subtitle": "O Caos Financeiro",
+      "text": "Sua lucidez foi embora junto com o seu senso de valor. Você toma decisões financeiras tão surreais que o seu gerente do banco já desistiu de você."
+    },
+    "parafuso_a_menos": {
+      "title": "Parafuso a Menos",
+      "emoji": "🔩",
+      "subtitle": "O Defeito de Fábrica",
+      "text": "Falta uma peça, mas o motor continua rodando (com um barulho estranho). Você é excêntrico por natureza e a sanidade parece um conceito opcional."
+    },
+    "miolo_mole": {
+      "title": "Miolo Mole",
+      "emoji": "🍞",
+      "subtitle": "A Inocência Crônica",
+      "text": "Sua loucura é doce e distraída. Você acredita em quase tudo, se perde no próprio quintal e vive em um estado de 'delay' constante e feliz."
+    },
+    "tirou_o_juizo": {
+      "title": "Tirou o Juízo",
+      "emoji": "⚖️",
+      "subtitle": "O Caso Perdido",
+      "text": "Seu juízo saiu para comprar pão em 2012 e nunca mais deu sinal de vida. Você já aceitou o absurdo e agora só assiste ao mundo pegando fogo enquanto ri."
+    }
+  }
+}
