@@ -479,7 +479,13 @@
        "name": "Qual expressão para a loucura você seria?",
        "file": "quizzes/expressaoLoucura.json",
        "description": "Descubra se você só pirou na batatinha ou se já está dando bom dia a cavalo neste quiz absurdista!"
+    },
+    {
+       "name": "Qual evento de final de ano você é?",
+       "file": "quizzes/quiz2712.json",
+       "description": "Descubra seu papel nas festas de dezembro e veja se você aguenta o tranco do Martelo da Diplomacia! 🔨"
     }
+
 
 
 
