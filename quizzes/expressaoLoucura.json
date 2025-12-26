@@ -5,91 +5,631 @@
     {
       "question": "A cafeteira quebra na segunda-feira de manhã. Qual sua reação imediata?",
       "answers": [
-        { "text": "🗣️ Chuto o balde e começo um monólogo contra o capitalismo", "points": { "perdeu_estribeiras": 0.9, "tirou_o_juizo": 0.1 } },
-        { "text": "🐴 Peço desculpas à cafeteira por ter sido muito exigente", "points": { "bom_dia_cavalo": 0.9 } },
-        { "text": "🥔 Tento passar o café usando uma meia e muita esperança", "points": { "pirou_batatinha": 0.8, "miolo_mole": 0.2 } },
-        { "text": "☁️ Fico olhando a água fria e penso: 'E se a água for café?'", "points": { "viajou_maionese": 0.9 } },
-        { "text": "💸 Compro uma máquina de 5 mil reais em 12x sem pensar", "points": { "rasgou_dinheiro": 0.9 } }
+        {
+          "text": "🗣️ Chuto o balde e começo um monólogo contra o capitalismo",
+          "points": {
+            "perdeu_estribeiras": 0.1142,
+            "tirou_o_juizo": 0.0574,
+            "pirou_batatinha": 0.0055,
+            "viajou_maionese": 0.0057,
+            "bom_dia_cavalo": 0.0069,
+            "rasgou_dinheiro": 0.0092,
+            "parafuso_a_menos": 0.007,
+            "miolo_mole": 0.0075
+          }
+        },
+        {
+          "text": "🐴 Peço desculpas à cafeteira por ter sido muito exigente",
+          "points": {
+            "bom_dia_cavalo": 0.1278,
+            "pirou_batatinha": 0.0059,
+            "viajou_maionese": 0.0062,
+            "perdeu_estribeiras": 0.0066,
+            "rasgou_dinheiro": 0.01,
+            "parafuso_a_menos": 0.0074,
+            "miolo_mole": 0.008,
+            "tirou_o_juizo": 0.0073
+          }
+        },
+        {
+          "text": "🥔 Tento passar o café usando uma meia e muita esperança",
+          "points": {
+            "pirou_batatinha": 0.0942,
+            "miolo_mole": 0.096,
+            "viajou_maionese": 0.0053,
+            "perdeu_estribeiras": 0.0056,
+            "bom_dia_cavalo": 0.0064,
+            "rasgou_dinheiro": 0.0086,
+            "parafuso_a_menos": 0.0065,
+            "tirou_o_juizo": 0.0063
+          }
+        },
+        {
+          "text": "☁️ Fico olhando a água fria e penso: 'E se a água for café?'",
+          "points": {
+            "viajou_maionese": 0.1096,
+            "pirou_batatinha": 0.0064,
+            "perdeu_estribeiras": 0.0069,
+            "bom_dia_cavalo": 0.008,
+            "rasgou_dinheiro": 0.0108,
+            "parafuso_a_menos": 0.0081,
+            "miolo_mole": 0.0086,
+            "tirou_o_juizo": 0.0079
+          }
+        },
+        {
+          "text": "💸 Compro uma máquina de 5 mil reais em 12x sem pensar",
+          "points": {
+            "rasgou_dinheiro": 0.171,
+            "pirou_batatinha": 0.0048,
+            "viajou_maionese": 0.005,
+            "perdeu_estribeiras": 0.0055,
+            "bom_dia_cavalo": 0.0061,
+            "parafuso_a_menos": 0.0063,
+            "miolo_mole": 0.0068,
+            "tirou_o_juizo": 0.0063
+          }
+        }
       ]
     },
     {
       "question": "Você está numa reunião importante e percebe que está sendo ignorado. O que faz?",
       "answers": [
-        { "text": "🧨 Começo a cantar o hino nacional em ritmo de samba", "points": { "tirou_o_juizo": 0.8, "parafuso_a_menos": 0.2 } },
-        { "text": "🚪 Saio da sala sem falar nada e vou morar no mato", "points": { "perdeu_estribeiras": 0.7, "viajou_maionese": 0.3 } },
-        { "text": "🍬 Começo a distribuir balas imaginárias para os colegas", "points": { "pirou_batatinha": 0.9 } },
-        { "text": "😵 Pergunto para a cadeira se ela concorda com meu ponto", "points": { "bom_dia_cavalo": 0.8, "parafuso_a_menos": 0.2 } },
-        { "text": "🤡 Sorrio e concordo com o chefe, mesmo ele me demitindo", "points": { "miolo_mole": 0.9 } }
+        {
+          "text": "🧨 Começo a cantar o hino nacional em ritmo de samba",
+          "points": {
+            "tirou_o_juizo": 0.1099,
+            "parafuso_a_menos": 0.0889,
+            "pirou_batatinha": 0.005,
+            "viajou_maionese": 0.0053,
+            "perdeu_estribeiras": 0.0055,
+            "bom_dia_cavalo": 0.0063,
+            "rasgou_dinheiro": 0.0085,
+            "miolo_mole": 0.0067
+          }
+        },
+        {
+          "text": "🚪 Saio da sala sem falar nada e vou morar no mato",
+          "points": {
+            "perdeu_estribeiras": 0.0891,
+            "viajou_maionese": 0.0902,
+            "pirou_batatinha": 0.0053,
+            "bom_dia_cavalo": 0.0065,
+            "rasgou_dinheiro": 0.0087,
+            "parafuso_a_menos": 0.0067,
+            "miolo_mole": 0.0071,
+            "tirou_o_juizo": 0.0066
+          }
+        },
+        {
+          "text": "🍬 Começo a distribuir balas imaginárias para os colegas",
+          "points": {
+            "pirou_batatinha": 0.1058,
+            "viajou_maionese": 0.0067,
+            "perdeu_estribeiras": 0.007,
+            "bom_dia_cavalo": 0.0081,
+            "rasgou_dinheiro": 0.011,
+            "parafuso_a_menos": 0.0082,
+            "miolo_mole": 0.0088,
+            "tirou_o_juizo": 0.008
+          }
+        },
+        {
+          "text": "😵 Pergunto para a cadeira se ela concorda com meu ponto",
+          "points": {
+            "bom_dia_cavalo": 0.1137,
+            "parafuso_a_menos": 0.0875,
+            "pirou_batatinha": 0.0049,
+            "viajou_maionese": 0.0053,
+            "perdeu_estribeiras": 0.0054,
+            "rasgou_dinheiro": 0.0083,
+            "miolo_mole": 0.0067,
+            "tirou_o_juizo": 0.0061
+          }
+        },
+        {
+          "text": "🤡 Sorrio e concordo com o chefe, mesmo ele me demitindo",
+          "points": {
+            "miolo_mole": 0.1358,
+            "pirou_batatinha": 0.0057,
+            "viajou_maionese": 0.006,
+            "perdeu_estribeiras": 0.0063,
+            "bom_dia_cavalo": 0.0072,
+            "rasgou_dinheiro": 0.0096,
+            "parafuso_a_menos": 0.0073,
+            "tirou_o_juizo": 0.0071
+          }
+        }
       ]
     },
     {
       "question": "Como está o seu nível de estresse hoje de 0 a 'Coringa'?",
       "answers": [
-        { "text": "🌋 Um 'bom dia' no WhatsApp me faz querer trocar de nome", "points": { "perdeu_estribeiras": 0.8, "bom_dia_cavalo": 0.2 } },
-        { "text": "🎈 Tô tão zen que se o mundo acabar eu viro fumaça", "points": { "viajou_maionese": 0.7, "miolo_mole": 0.3 } },
-        { "text": "🔩 Sinto que falta só um empurrãozinho para eu latir", "points": { "parafuso_a_menos": 0.9 } },
-        { "text": "🔥 Já aceitei que a sanidade é uma construção social", "points": { "tirou_o_juizo": 0.9 } },
-        { "text": "🍟 Minha meta de vida agora é virar um monge das batatas", "points": { "pirou_batatinha": 0.9 } }
+        {
+          "text": "🌋 Um 'bom dia' no WhatsApp me faz querer trocar de nome",
+          "points": {
+            "perdeu_estribeiras": 0.1016,
+            "bom_dia_cavalo": 0.0873,
+            "pirou_batatinha": 0.0052,
+            "viajou_maionese": 0.0054,
+            "rasgou_dinheiro": 0.0085,
+            "parafuso_a_menos": 0.0065,
+            "miolo_mole": 0.0069,
+            "tirou_o_juizo": 0.0064
+          }
+        },
+        {
+          "text": "🎈 Tô tão zen que se o mundo acabar eu viro fumaça",
+          "points": {
+            "viajou_maionese": 0.0855,
+            "miolo_mole": 0.1136,
+            "pirou_batatinha": 0.0049,
+            "perdeu_estribeiras": 0.0054,
+            "bom_dia_cavalo": 0.0062,
+            "rasgou_dinheiro": 0.0083,
+            "parafuso_a_menos": 0.0063,
+            "tirou_o_juizo": 0.0061
+          }
+        },
+        {
+          "text": "🔩 Sinto que falta só um empurrãozinho para eu latir",
+          "points": {
+            "parafuso_a_menos": 0.129,
+            "pirou_batatinha": 0.0061,
+            "viajou_maionese": 0.0062,
+            "perdeu_estribeiras": 0.0067,
+            "bom_dia_cavalo": 0.0074,
+            "rasgou_dinheiro": 0.0101,
+            "miolo_mole": 0.008,
+            "tirou_o_juizo": 0.0073
+          }
+        },
+        {
+          "text": "🔥 Já aceitei que a sanidade é uma construção social",
+          "points": {
+            "tirou_o_juizo": 0.1235,
+            "pirou_batatinha": 0.006,
+            "viajou_maionese": 0.0064,
+            "perdeu_estribeiras": 0.0066,
+            "bom_dia_cavalo": 0.0075,
+            "rasgou_dinheiro": 0.0102,
+            "parafuso_a_menos": 0.0078,
+            "miolo_mole": 0.0083
+          }
+        },
+        {
+          "text": "🍟 Minha meta de vida agora é virar um monge das batatas",
+          "points": {
+            "pirou_batatinha": 0.1058,
+            "viajou_maionese": 0.0067,
+            "perdeu_estribeiras": 0.007,
+            "bom_dia_cavalo": 0.0081,
+            "rasgou_dinheiro": 0.011,
+            "parafuso_a_menos": 0.0082,
+            "miolo_mole": 0.0088,
+            "tirou_o_juizo": 0.008
+          }
+        }
       ]
     },
     {
       "question": "Você entra no mercado para comprar pão e sai com uma piscina inflável. Por quê?",
       "answers": [
-        { "text": "🛸 Eu vi um brilho no corredor 4 e segui meu destino", "points": { "viajou_maionese": 0.8, "pirou_batatinha": 0.2 } },
-        { "text": "💸 Estava na promoção e eu claramente mereço esse mimo", "points": { "rasgou_dinheiro": 0.9 } },
-        { "text": "😵 Eu esqueci o que era um pão no meio do caminho", "points": { "miolo_mole": 0.8, "bom_dia_cavalo": 0.2 } },
-        { "text": "🧨 O caixa demorou 1 minuto e eu peguei o que vi na frente", "points": { "perdeu_estribeiras": 0.7, "parafuso_a_menos": 0.3 } },
-        { "text": "🧚 A piscina me disse que o verão será apocalíptico", "points": { "tirou_o_juizo": 0.7, "pirou_batatinha": 0.3 } }
+        {
+          "text": "🛸 Eu vi um brilho no corredor 4 e segui meu destino",
+          "points": {
+            "viajou_maionese": 0.0975,
+            "pirou_batatinha": 0.0748,
+            "perdeu_estribeiras": 0.0058,
+            "bom_dia_cavalo": 0.0067,
+            "rasgou_dinheiro": 0.0091,
+            "parafuso_a_menos": 0.0069,
+            "miolo_mole": 0.0073,
+            "tirou_o_juizo": 0.0068
+          }
+        },
+        {
+          "text": "💸 Estava na promoção e eu claramente mereço esse mimo",
+          "points": {
+            "rasgou_dinheiro": 0.171,
+            "pirou_batatinha": 0.0048,
+            "viajou_maionese": 0.005,
+            "perdeu_estribeiras": 0.0055,
+            "bom_dia_cavalo": 0.0061,
+            "parafuso_a_menos": 0.0063,
+            "miolo_mole": 0.0068,
+            "tirou_o_juizo": 0.0063
+          }
+        },
+        {
+          "text": "😵 Eu esqueci o que era um pão no meio do caminho",
+          "points": {
+            "miolo_mole": 0.1209,
+            "bom_dia_cavalo": 0.0875,
+            "pirou_batatinha": 0.0048,
+            "viajou_maionese": 0.005,
+            "perdeu_estribeiras": 0.0054,
+            "rasgou_dinheiro": 0.0081,
+            "parafuso_a_menos": 0.0061,
+            "tirou_o_juizo": 0.0059
+          }
+        },
+        {
+          "text": "🧨 O caixa demorou 1 minuto e eu peguei o que vi na frente",
+          "points": {
+            "perdeu_estribeiras": 0.0891,
+            "parafuso_a_menos": 0.1052,
+            "pirou_batatinha": 0.0051,
+            "viajou_maionese": 0.0052,
+            "bom_dia_cavalo": 0.0064,
+            "rasgou_dinheiro": 0.0086,
+            "miolo_mole": 0.0068,
+            "tirou_o_juizo": 0.0062
+          }
+        },
+        {
+          "text": "🧚 A piscina me disse que o verão será apocalíptico",
+          "points": {
+            "tirou_o_juizo": 0.0963,
+            "pirou_batatinha": 0.0914,
+            "viajou_maionese": 0.0054,
+            "perdeu_estribeiras": 0.0056,
+            "bom_dia_cavalo": 0.0064,
+            "rasgou_dinheiro": 0.0086,
+            "parafuso_a_menos": 0.0065,
+            "miolo_mole": 0.007
+          }
+        }
       ]
     },
     {
       "question": "Seu computador trava no meio de um trabalho importante. Qual o seu 'mood'?",
       "answers": [
-        { "text": "💻 Começo a explicar para o monitor as leis da robótica", "points": { "bom_dia_cavalo": 0.8, "parafuso_a_menos": 0.2 } },
-        { "text": "🤬 Digito tão forte que crio um novo alfabeto de ódio", "points": { "perdeu_estribeiras": 0.9 } },
-        { "text": "🧘 Dou uma risada macabra e vou fazer um chá de casca de ovo", "points": { "tirou_o_juizo": 0.8, "pirou_batatinha": 0.2 } },
-        { "text": "🥪 Olho para a tela e começo a ver formatos de bichinhos", "points": { "viajou_maionese": 0.9 } },
-        { "text": "🤡 Pergunto se o computador quer que eu pague um boleto para ele", "points": { "rasgou_dinheiro": 0.6, "miolo_mole": 0.4 } }
+        {
+          "text": "💻 Começo a explicar para o monitor as leis da robótica",
+          "points": {
+            "bom_dia_cavalo": 0.1137,
+            "parafuso_a_menos": 0.0875,
+            "pirou_batatinha": 0.0049,
+            "viajou_maionese": 0.0053,
+            "perdeu_estribeiras": 0.0054,
+            "rasgou_dinheiro": 0.0083,
+            "miolo_mole": 0.0067,
+            "tirou_o_juizo": 0.0061
+          }
+        },
+        {
+          "text": "🤬 Digito tão forte que crio um novo alfabeto de ódio",
+          "points": {
+            "perdeu_estribeiras": 0.1142,
+            "pirou_batatinha": 0.0063,
+            "viajou_maionese": 0.0066,
+            "bom_dia_cavalo": 0.0078,
+            "rasgou_dinheiro": 0.0104,
+            "parafuso_a_menos": 0.008,
+            "miolo_mole": 0.0084,
+            "tirou_o_juizo": 0.0077
+          }
+        },
+        {
+          "text": "🧘 Dou uma risada macabra e vou fazer um chá de casca de ovo",
+          "points": {
+            "tirou_o_juizo": 0.1099,
+            "pirou_batatinha": 0.0753,
+            "viajou_maionese": 0.0054,
+            "perdeu_estribeiras": 0.0057,
+            "bom_dia_cavalo": 0.0064,
+            "rasgou_dinheiro": 0.0087,
+            "parafuso_a_menos": 0.0066,
+            "miolo_mole": 0.0071
+          }
+        },
+        {
+          "text": "🥪 Olho para a tela e começo a ver formatos de bichinhos",
+          "points": {
+            "viajou_maionese": 0.1096,
+            "pirou_batatinha": 0.0064,
+            "perdeu_estribeiras": 0.0069,
+            "bom_dia_cavalo": 0.008,
+            "rasgou_dinheiro": 0.0108,
+            "parafuso_a_menos": 0.0081,
+            "miolo_mole": 0.0086,
+            "tirou_o_juizo": 0.0079
+          }
+        },
+        {
+          "text": "🤡 Pergunto se o computador quer que eu pague um boleto para ele",
+          "points": {
+            "rasgou_dinheiro": 0.1146,
+            "miolo_mole": 0.1197,
+            "pirou_batatinha": 0.0043,
+            "viajou_maionese": 0.0046,
+            "perdeu_estribeiras": 0.0049,
+            "bom_dia_cavalo": 0.0055,
+            "parafuso_a_menos": 0.0057,
+            "tirou_o_juizo": 0.0054
+          }
+        }
       ]
     },
     {
       "question": "Como você lida com áudios de 5 minutos no WhatsApp?",
       "answers": [
-        { "text": "⏩ Coloco em 2x e ouço enquanto planejo minha fuga do país", "points": { "parafuso_a_menos": 0.6, "viajou_maionese": 0.4 } },
-        { "text": "👂 Ouço tudo, respondo 'top' e esqueço o que foi dito", "points": { "miolo_mole": 0.9 } },
-        { "text": "🔇 Apago o chat e finjo que mudei de número", "points": { "perdeu_estribeiras": 0.8, "tirou_o_juizo": 0.2 } },
-        { "text": "🏇 Respondo com um áudio de 10 minutos sobre física quântica", "points": { "pirou_batatinha": 0.9 } },
-        { "text": "🐴 Respondo: 'Sim, concordo com tudo', para um áudio de briga", "points": { "bom_dia_cavalo": 0.9 } }
+        {
+          "text": "⏩ Coloco em 2x e ouço enquanto planejo minha fuga do país",
+          "points": {
+            "parafuso_a_menos": 0.0865,
+            "viajou_maionese": 0.1118,
+            "pirou_batatinha": 0.005,
+            "perdeu_estribeiras": 0.0055,
+            "bom_dia_cavalo": 0.0062,
+            "rasgou_dinheiro": 0.0084,
+            "miolo_mole": 0.0066,
+            "tirou_o_juizo": 0.0061
+          }
+        },
+        {
+          "text": "👂 Ouço tudo, respondo 'top' e esqueço o que foi dito",
+          "points": {
+            "miolo_mole": 0.1358,
+            "pirou_batatinha": 0.0057,
+            "viajou_maionese": 0.006,
+            "perdeu_estribeiras": 0.0063,
+            "bom_dia_cavalo": 0.0072,
+            "rasgou_dinheiro": 0.0096,
+            "parafuso_a_menos": 0.0073,
+            "tirou_o_juizo": 0.0071
+          }
+        },
+        {
+          "text": "🔇 Apago o chat e finjo que mudei de número",
+          "points": {
+            "perdeu_estribeiras": 0.1016,
+            "tirou_o_juizo": 0.0845,
+            "pirou_batatinha": 0.0051,
+            "viajou_maionese": 0.0054,
+            "bom_dia_cavalo": 0.0064,
+            "rasgou_dinheiro": 0.0087,
+            "parafuso_a_menos": 0.0067,
+            "miolo_mole": 0.007
+          }
+        },
+        {
+          "text": "🏇 Respondo com um áudio de 10 minutos sobre física quântica",
+          "points": {
+            "pirou_batatinha": 0.1058,
+            "viajou_maionese": 0.0067,
+            "perdeu_estribeiras": 0.007,
+            "bom_dia_cavalo": 0.0081,
+            "rasgou_dinheiro": 0.011,
+            "parafuso_a_menos": 0.0082,
+            "miolo_mole": 0.0088,
+            "tirou_o_juizo": 0.008
+          }
+        },
+        {
+          "text": "🐴 Respondo: 'Sim, concordo com tudo', para um áudio de briga",
+          "points": {
+            "bom_dia_cavalo": 0.1278,
+            "pirou_batatinha": 0.0059,
+            "viajou_maionese": 0.0062,
+            "perdeu_estribeiras": 0.0066,
+            "rasgou_dinheiro": 0.01,
+            "parafuso_a_menos": 0.0074,
+            "miolo_mole": 0.008,
+            "tirou_o_juizo": 0.0073
+          }
+        }
       ]
     },
     {
       "question": "Qual é a sua 'teoria da conspiração' favorita no momento?",
       "answers": [
-        { "text": "🦜 Os pombos são câmeras do governo vigiando meu sono", "points": { "pirou_batatinha": 0.8, "tirou_o_juizo": 0.2 } },
-        { "text": "🧦 O fundo da máquina de lavar é um portal para outra dimensão", "points": { "viajou_maionese": 0.9 } },
-        { "text": "🏢 Se eu trabalhar muito, vou ficar rico (a mais absurda)", "points": { "rasgou_dinheiro": 0.7, "bom_dia_cavalo": 0.3 } },
-        { "text": "🔨 As quinas dos móveis conspiram contra o meu dedinho", "points": { "perdeu_estribeiras": 0.8, "parafuso_a_menos": 0.2 } },
-        { "text": "🌈 O mundo acabou em 2012 e isso aqui é um teste", "points": { "tirou_o_juizo": 0.9 } }
+        {
+          "text": "🦜 Os pombos são câmeras do governo vigiando meu sono",
+          "points": {
+            "pirou_batatinha": 0.0942,
+            "tirou_o_juizo": 0.0876,
+            "viajou_maionese": 0.0054,
+            "perdeu_estribeiras": 0.0057,
+            "bom_dia_cavalo": 0.0065,
+            "rasgou_dinheiro": 0.0088,
+            "parafuso_a_menos": 0.0067,
+            "miolo_mole": 0.0072
+          }
+        },
+        {
+          "text": "🧦 O fundo da máquina de lavar é um portal para outra dimensão",
+          "points": {
+            "viajou_maionese": 0.1096,
+            "pirou_batatinha": 0.0064,
+            "perdeu_estribeiras": 0.0069,
+            "bom_dia_cavalo": 0.008,
+            "rasgou_dinheiro": 0.0108,
+            "parafuso_a_menos": 0.0081,
+            "miolo_mole": 0.0086,
+            "tirou_o_juizo": 0.0079
+          }
+        },
+        {
+          "text": "🏢 Se eu trabalhar muito, vou ficar rico (a mais absurda)",
+          "points": {
+            "rasgou_dinheiro": 0.1334,
+            "bom_dia_cavalo": 0.0992,
+            "pirou_batatinha": 0.0044,
+            "viajou_maionese": 0.0046,
+            "perdeu_estribeiras": 0.0048,
+            "parafuso_a_menos": 0.0056,
+            "miolo_mole": 0.0059,
+            "tirou_o_juizo": 0.0055
+          }
+        },
+        {
+          "text": "🔨 As quinas dos móveis conspiram contra o meu dedinho",
+          "points": {
+            "perdeu_estribeiras": 0.1016,
+            "parafuso_a_menos": 0.0877,
+            "pirou_batatinha": 0.0051,
+            "viajou_maionese": 0.0054,
+            "bom_dia_cavalo": 0.0063,
+            "rasgou_dinheiro": 0.0086,
+            "miolo_mole": 0.0069,
+            "tirou_o_juizo": 0.0064
+          }
+        },
+        {
+          "text": "🌈 O mundo acabou em 2012 e isso aqui é um teste",
+          "points": {
+            "tirou_o_juizo": 0.1235,
+            "pirou_batatinha": 0.006,
+            "viajou_maionese": 0.0064,
+            "perdeu_estribeiras": 0.0066,
+            "bom_dia_cavalo": 0.0075,
+            "rasgou_dinheiro": 0.0102,
+            "parafuso_a_menos": 0.0078,
+            "miolo_mole": 0.0083
+          }
+        }
       ]
     },
     {
       "question": "Você ganha na loteria. Qual a primeira atitude 'questionável'?",
       "answers": [
-        { "text": "🏰 Compro um castelo de areia com seguro contra maré alta", "points": { "rasgou_dinheiro": 0.9 } },
-        { "text": "🦒 Contrato uma girafa para ser meu segurança particular", "points": { "pirou_batatinha": 0.8, "parafuso_a_menos": 0.2 } },
-        { "text": "🌋 Gasto tudo em ingressos para um show de harpa no vulcão", "points": { "viajou_maionese": 0.9 } },
-        { "text": "🧱 Compro a empresa só para demitir a impressora", "points": { "perdeu_estribeiras": 0.9 } },
-        { "text": "🤡 Dou o prêmio para a primeira pessoa que me der um 'oi'", "points": { "miolo_mole": 0.9 } }
+        {
+          "text": "🏰 Compro um castelo de areia com seguro contra maré alta",
+          "points": {
+            "rasgou_dinheiro": 0.171,
+            "pirou_batatinha": 0.0048,
+            "viajou_maionese": 0.005,
+            "perdeu_estribeiras": 0.0055,
+            "bom_dia_cavalo": 0.0061,
+            "parafuso_a_menos": 0.0063,
+            "miolo_mole": 0.0068,
+            "tirou_o_juizo": 0.0063
+          }
+        },
+        {
+          "text": "🦒 Contrato uma girafa para ser meu segurança particular",
+          "points": {
+            "pirou_batatinha": 0.0942,
+            "parafuso_a_menos": 0.0907,
+            "viajou_maionese": 0.0054,
+            "perdeu_estribeiras": 0.0058,
+            "bom_dia_cavalo": 0.0065,
+            "rasgou_dinheiro": 0.0088,
+            "miolo_mole": 0.007,
+            "tirou_o_juizo": 0.0064
+          }
+        },
+        {
+          "text": "🌋 Gasto tudo em ingressos para um show de harpa no vulcão",
+          "points": {
+            "viajou_maionese": 0.1096,
+            "pirou_batatinha": 0.0064,
+            "perdeu_estribeiras": 0.0069,
+            "bom_dia_cavalo": 0.008,
+            "rasgou_dinheiro": 0.0108,
+            "parafuso_a_menos": 0.0081,
+            "miolo_mole": 0.0086,
+            "tirou_o_juizo": 0.0079
+          }
+        },
+        {
+          "text": "🧱 Compro a empresa só para demitir a impressora",
+          "points": {
+            "perdeu_estribeiras": 0.1142,
+            "pirou_batatinha": 0.0063,
+            "viajou_maionese": 0.0066,
+            "bom_dia_cavalo": 0.0078,
+            "rasgou_dinheiro": 0.0104,
+            "parafuso_a_menos": 0.008,
+            "miolo_mole": 0.0084,
+            "tirou_o_juizo": 0.0077
+          }
+        },
+        {
+          "text": "🤡 Dou o prêmio para a primeira pessoa que me der um 'oi'",
+          "points": {
+            "miolo_mole": 0.1358,
+            "pirou_batatinha": 0.0057,
+            "viajou_maionese": 0.006,
+            "perdeu_estribeiras": 0.0063,
+            "bom_dia_cavalo": 0.0072,
+            "rasgou_dinheiro": 0.0096,
+            "parafuso_a_menos": 0.0073,
+            "tirou_o_juizo": 0.0071
+          }
+        }
       ]
     },
     {
       "question": "Escolha um mantra para os dias em que nada faz sentido:",
       "answers": [
-        { "text": "🍄 'Batatinha quando nasce, se esparrama pelo chão...'", "points": { "pirou_batatinha": 0.9 } },
-        { "text": "🌌 'Eu não estou aqui, isso é apenas um holograma'", "points": { "viajou_maionese": 0.9 } },
-        { "text": "🐴 'Bom dia, sol! Bom dia, poste! Bom dia, estresse!'", "points": { "bom_dia_cavalo": 0.9 } },
-        { "text": "🧨 'Quem tem limite é município, eu tenho é coragem'", "points": { "perdeu_estribeiras": 0.7, "tirou_o_juizo": 0.3 } },
-        { "text": "🔩 'Falta um parafuso, mas a gambiarra segura'", "points": { "parafuso_a_menos": 0.9 } }
+        {
+          "text": "🍄 'Batatinha quando nasce, se esparrama pelo chão...'",
+          "points": {
+            "pirou_batatinha": 0.1058,
+            "viajou_maionese": 0.0067,
+            "perdeu_estribeiras": 0.007,
+            "bom_dia_cavalo": 0.0081,
+            "rasgou_dinheiro": 0.011,
+            "parafuso_a_menos": 0.0082,
+            "miolo_mole": 0.0088,
+            "tirou_o_juizo": 0.008
+          }
+        },
+        {
+          "text": "🌌 'Eu não estou aqui, isso é apenas um holograma'",
+          "points": {
+            "viajou_maionese": 0.1096,
+            "pirou_batatinha": 0.0064,
+            "perdeu_estribeiras": 0.0069,
+            "bom_dia_cavalo": 0.008,
+            "rasgou_dinheiro": 0.0108,
+            "parafuso_a_menos": 0.0081,
+            "miolo_mole": 0.0086,
+            "tirou_o_juizo": 0.0079
+          }
+        },
+        {
+          "text": "🐴 'Bom dia, sol! Bom dia, poste! Bom dia, estresse!'",
+          "points": {
+            "bom_dia_cavalo": 0.1278,
+            "pirou_batatinha": 0.0059,
+            "viajou_maionese": 0.0062,
+            "perdeu_estribeiras": 0.0066,
+            "rasgou_dinheiro": 0.01,
+            "parafuso_a_menos": 0.0074,
+            "miolo_mole": 0.008,
+            "tirou_o_juizo": 0.0073
+          }
+        },
+        {
+          "text": "🧨 'Quem tem limite é município, eu tenho é coragem'",
+          "points": {
+            "perdeu_estribeiras": 0.0891,
+            "tirou_o_juizo": 0.1011,
+            "pirou_batatinha": 0.0051,
+            "viajou_maionese": 0.0054,
+            "bom_dia_cavalo": 0.0063,
+            "rasgou_dinheiro": 0.0086,
+            "parafuso_a_menos": 0.0066,
+            "miolo_mole": 0.007
+          }
+        },
+        {
+          "text": "🔩 'Falta um parafuso, mas a gambiarra segura'",
+          "points": {
+            "parafuso_a_menos": 0.129,
+            "pirou_batatinha": 0.0061,
+            "viajou_maionese": 0.0062,
+            "perdeu_estribeiras": 0.0067,
+            "bom_dia_cavalo": 0.0074,
+            "rasgou_dinheiro": 0.0101,
+            "miolo_mole": 0.008,
+            "tirou_o_juizo": 0.0073
+          }
+        }
       ]
     }
   ],
