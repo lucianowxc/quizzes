@@ -1,0 +1,383 @@
+{
+  "title": "Qual Presente de Rei Mago Moderno Você Daria?",
+  "subtitle": "Descubra qual presente pseudo-útil você ofereceria ao Messias do século XXI",
+  "questions": [
+    {
+      "question": "Qual seria sua principal qualidade como rei mago do século XXI?",
+      "answers": [
+        {
+          "text": "🎯 Ser extremamente prático e resolver problemas que ninguém nem sabia que existiam",
+          "points": {
+            "power_bank": 0.8,
+            "kit_ergonomia": 0.7
+          }
+        },
+        {
+          "text": "📊 Otimizar processos - a rota da estrela-guia claramente precisava de um Waze",
+          "points": {
+            "agenda_bullet": 0.9,
+            "assine_aqui": 0.6
+          }
+        },
+        {
+          "text": "💅 Entender que a estética é tão importante quanto a funcionalidade",
+          "points": {
+            "garrafinha_bonita": 0.9,
+            "copo_stanley": 0.5
+          }
+        },
+        {
+          "text": "🧘‍♂️ Trazer paz e silêncio para um mundo que vive em caos constante",
+          "points": {
+            "fone_noise": 0.9,
+            "bolsa_esportes": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você justificaria gastar R$300 em um presente para um bebê recém-nascido?",
+      "answers": [
+        {
+          "text": "💰 'É um investimento! Esse copo vai durar mais que o império romano'",
+          "points": {
+            "copo_stanley": 0.9,
+            "power_bank": 0.5
+          }
+        },
+        {
+          "text": "✨ 'Beleza gera bem-estar, e bem-estar gera produtividade nos milagres'",
+          "points": {
+            "garrafinha_bonita": 0.8,
+            "agenda_bullet": 0.6
+          }
+        },
+        {
+          "text": "💪 'Saúde preventiva! Com essa bolsa térmica ele já começa a vida com shake proteico'",
+          "points": {
+            "bolsa_esportes": 0.9,
+            "kit_ergonomia": 0.5
+          }
+        },
+        {
+          "text": "📱 '300 reais? Isso é menos que uma sessão de terapia, e o app dura um ANO'",
+          "points": {
+            "assine_aqui": 0.9,
+            "fone_noise": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase te define melhor quando presenteia alguém?",
+      "answers": [
+        {
+          "text": "🔧 'Eu pensei no que você REALMENTE precisa, não no que é bonito'",
+          "points": {
+            "power_bank": 0.8,
+            "kit_ergonomia": 0.7
+          }
+        },
+        {
+          "text": "⭐ 'É limitado, exclusivo e todo mundo no reino vai querer um igual'",
+          "points": {
+            "copo_stanley": 0.9
+          }
+        },
+        {
+          "text": "🗂️ 'Isso vai organizar sua vida espiritual de um jeito que você nem imagina'",
+          "points": {
+            "agenda_bullet": 0.9,
+            "assine_aqui": 0.5
+          }
+        },
+        {
+          "text": "🎭 'Presentear é sobre resolver problemas que a pessoa nem sabia que tinha'",
+          "points": {
+            "fone_noise": 0.7,
+            "bolsa_esportes": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Num deserto espiritual/metafórico, o que você mais sentiria falta?",
+      "answers": [
+        {
+          "text": "🌐 Sinal de Wi-Fi para dar update no LinkedIn sobre minha 'jornada de autoconhecimento'",
+          "points": {
+            "power_bank": 0.7,
+            "assine_aqui": 0.6
+          }
+        },
+        {
+          "text": "💦 Meu sistema de hidratação com timeline visual (sim, sou desse tipo)",
+          "points": {
+            "copo_stanley": 0.9,
+            "garrafinha_bonita": 0.5
+          }
+        },
+        {
+          "text": "🪑 Um assento ergonômico - meditar no chão é pedir para ter hérnia de disco",
+          "points": {
+            "kit_ergonomia": 0.9
+          }
+        },
+        {
+          "text": "🔇 Silêncio... mas daquele produzido artificialmente, de qualidade",
+          "points": {
+            "fone_noise": 0.9,
+            "agenda_bullet": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destas 'tentações modernas' seria mais difícil para você resistir?",
+      "answers": [
+        {
+          "text": "🏃‍♂️ Um influencer fitness dizendo que jejum intermitente aumenta em 80% a eficácia das preces",
+          "points": {
+            "bolsa_esportes": 0.9,
+            "agenda_bullet": 0.4
+          }
+        },
+        {
+          "text": "🎨 Uma edição limitada do seu objeto de culto favorito em nova cor 'deserto atardecer'",
+          "points": {
+            "copo_stanley": 0.8,
+            "garrafinha_bonita": 0.7
+          }
+        },
+        {
+          "text": "📚 Um workshop caríssimo de 'produtividade celestial' com certificado digital",
+          "points": {
+            "agenda_bullet": 0.9,
+            "assine_aqui": 0.5
+          }
+        },
+        {
+          "text": "⚡ Um gadget que promete otimizar 100% do seu tempo (mesmo que você não saiba como)",
+          "points": {
+            "power_bank": 0.7,
+            "fone_noise": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você descreveria sua 'missão divina' em termos corporativos?",
+      "answers": [
+        {
+          "text": "👨‍💼 Sou um facilitador de processos transcendentais com foco em UX/UI espiritual",
+          "points": {
+            "kit_ergonomia": 0.8,
+            "garrafinha_bonita": 0.5
+          }
+        },
+        {
+          "text": "🚚 Atuo no setor de soluções em logística de bens simbólicos otimizados",
+          "points": {
+            "power_bank": 0.7,
+            "copo_stanley": 0.6
+          }
+        },
+        {
+          "text": "⏱️ Sou consultant em gestão do tempo eterno e metodologias ágeis para milagres",
+          "points": {
+            "agenda_bullet": 0.9,
+            "assine_aqui": 0.4
+          }
+        },
+        {
+          "text": "❤️‍🩹 Meu foco é well-being celestial com métricas claras de hidratação e steps",
+          "points": {
+            "bolsa_esportes": 0.8,
+            "fone_noise": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destas afirmações sobre presentes você mais assina embaixo?",
+      "answers": [
+        {
+          "text": "🔄 'Se não tiver um propósito de life-changing, nem perca meu tempo'",
+          "points": {
+            "assine_aqui": 0.8,
+            "agenda_bullet": 0.6
+          }
+        },
+        {
+          "text": "🎁 'O embalamento é 70% da experiência do presente'",
+          "points": {
+            "garrafinha_bonita": 0.9,
+            "copo_stanley": 0.4
+          }
+        },
+        {
+          "text": "🛠️ 'Presentes devem resolver problemas, não criar novos (como emoções)'",
+          "points": {
+            "power_bank": 0.8,
+            "fone_noise": 0.5
+          }
+        },
+        {
+          "text": "🤳 'Um bom presente é aquele que você usaria você mesmo, sem vergonha'",
+          "points": {
+            "kit_ergonomia": 0.7,
+            "bolsa_esportes": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu conselho não-solicitado para o menino Jesus sobre seu futuro ministério?",
+      "answers": [
+        {
+          "text": "📅 'Cria um content calendar para as parábolas, precisa de constância, Jesus!'",
+          "points": {
+            "agenda_bullet": 0.9
+          }
+        },
+        {
+          "text": "👑 'Invista em branding - essa cor de túnica não está comunicando autoridade'",
+          "points": {
+            "garrafinha_bonita": 0.8,
+            "copo_stanley": 0.4
+          }
+        },
+        {
+          "text": "📸 'Os 40 dias no deserto são perfeitos para um challenge de fitness no Instagram'",
+          "points": {
+            "bolsa_esportes": 0.9,
+            "assine_aqui": 0.3
+          }
+        },
+        {
+          "text": "💼 'Trabalhe de qualquer lugar, mas com as ferramentas certas de ergonomia'",
+          "points": {
+            "kit_ergonomia": 0.8,
+            "power_bank": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você acha que falta no mercado de presentes espirituais atualmente?",
+      "answers": [
+        {
+          "text": "🏷️ Mais personalização - mirra genérica não comunica nada sobre a personalidade",
+          "points": {
+            "garrafinha_bonita": 0.7,
+            "copo_stanley": 0.6
+          }
+        },
+        {
+          "text": "📈 Integração com apps - como trackear o uso do incenso sem analytics?",
+          "points": {
+            "assine_aqui": 0.8,
+            "agenda_bullet": 0.5
+          }
+        },
+        {
+          "text": "🌱 Sustentabilidade - estamos usando muito ouro sem pensar na pegada de carbono",
+          "points": {
+            "bolsa_esportes": 0.4,
+            "kit_ergonomia": 0.7
+          }
+        },
+        {
+          "text": "💡 Pensamento 'fora da manjedoura' - precisamos inovar nos símbolos!",
+          "points": {
+            "fone_noise": 0.6,
+            "power_bank": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "No fim, qual a verdadeira razão pela qual você viajou seguindo uma estrela?",
+      "answers": [
+        {
+          "text": "📈 Para ter um case de sucesso no meu portfólio de consultorias místicas",
+          "points": {
+            "agenda_bullet": 0.7,
+            "assine_aqui": 0.6
+          }
+        },
+        {
+          "text": "🛒 A oportunidade de acesso a um produto exclusivo antes do lançamento oficial",
+          "points": {
+            "copo_stanley": 0.8,
+            "garrafinha_bonita": 0.5
+          }
+        },
+        {
+          "text": "🧘 A jornada em si - era meu retiro espiritual de fim de ano",
+          "points": {
+            "bolsa_esportes": 0.6,
+            "kit_ergonomia": 0.7
+          }
+        },
+        {
+          "text": "🔋 Testar em campo meus gadgets de sobrevivência em condições extremas",
+          "points": {
+            "power_bank": 0.9,
+            "fone_noise": 0.4
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "copo_stanley": {
+      "title": "O Evangelista do Hidratar-se 🏆",
+      "emoji": "🥤",
+      "subtitle": "Presente: Copo Stanley 2L",
+      "text": "Você não veio trazer mirra, veio trazer CONSCIÊNCIA HÍDRICA. Seu presente é um copo que custa mais que o presente de todos os outros magos juntos, mas justifica: 'Ele mantém o gelo por 48h, Jesus!'. Você acredita que a salvação da humanidade começa com 2L de água por dia e que um acessório de mesa pode ser um traço de personalidade. Provavelmente tem um sticker 'Hydrate or Diedrate' no seu camelo."
+    },
+    "garrafinha_bonita": {
+      "title": "O Minimalista Estético 💎",
+      "emoji": "💦",
+      "subtitle": "Presente: Garrafinha de Vidro com Divisórias",
+      "text": "Ouro? Incenso? Que coisa óbvia. Você trouxe uma garrafa de vidro sofisticada com compartimentos separados para água, infusão e pedacinhos de fruta. 'É sobre ter opções, Jesus'. Você acredita que a elegância salva mais que qualquer milagre e que um objeto bonito na mesa muda a vibração do local. Seu lema: 'Se não for fotogênico, pra que presentear?'"
+    },
+    "agenda_bullet": {
+      "title": "O GTD dos Deuses 📅",
+      "emoji": "✍️",
+      "subtitle": "Presente: Agenda Bullet Journal Premium",
+      "text": "Enquanto os outros magos pensam em espiritualidade, você pensa em PRODUTIVIDADE. Seu presente é uma agenda onde o menino Jesus pode planejar seus milagres, trackear hábitos e fazer mood boards para o Reino dos Céus. 'Você precisa de um sistema, Jesus. Vou te mostrar como dividir a multiplicação dos pães em sprints'. Provavelmente tem um planner para a Segunda Vinda."
+    },
+    "bolsa_esportes": {
+      "title": "O Personal Trainer Divino 🏋️",
+      "emoji": "🎒",
+      "subtitle": "Presente: Bolsa Térmica de Esportes",
+      "text": "Mirra para ungir? Que coisa passiva! Você trouxe uma bolsa térmica com compartimento para shake pós-crucifixion, espaço para sandálias de trail running do deserto e um cantil. 'O corpo é seu templo, Jesus! Vamos trabalhar esse core para carregar a cruz com mais eficiência'. Você vê cada milagre como uma oportunidade para queimar calorias."
+    },
+    "fone_noise": {
+      "title": "O Anti-Caos Celestial 🎧",
+      "emoji": "🔇",
+      "subtitle": "Presente: Fone com Cancelamento de Ruído",
+      "text": "Três reis conversando, animais barulhentos, anjos cantando... que inferno! Você trouxe o verdadeiro presente da modernidade: silêncio. 'Aqui, Jesus, para você meditar sem ouvir Pedro reclamando da pesca ou os fariseus discutindo lei mosaica'. Você entende que a verdadeira paz interior vem da capacidade de ignorar completamente todo mundo."
+    },
+    "assine_aqui": {
+      "title": "O Magro das Assinaturas 📱",
+      "emoji": "📲",
+      "subtitle": "Presente: 1 Ano de App de Meditação",
+      "text": "Presente físico? Que século passado! Você deu um cupom de 30% OFF no primeiro ano de um app de meditação guiada. 'Jesus, testei todos: este tem som de riacho e AFIRMAÇÕES POSITIVAS gravadas por um monge do Oregon'. Você acredita que a sabedoria dos séculos cabe num modelo freemium com upgrades pagos."
+    },
+    "power_bank": {
+      "title": "O Carregador de Almas 🔋",
+      "emoji": "⚡",
+      "subtitle": "Presente: Power Bank 30.000mAh",
+      "text": "Enquanto os outros trazem coisas simbólicas, você pensa no PRÁTICO. 'Se você vai andar 40 dias no deserto, seu celular vai morrer, Jesus! Como vai postar os milagres no stories?'. Você é o tipo que acha que todos os problemas espirituais se resolvem com bateria suficiente e um cabo USB-C."
+    },
+    "kit_ergonomia": {
+      "title": "O Ergonauta do Éden 💺",
+      "emoji": "🧘",
+      "subtitle": "Presente: Almofada para Sentar na Areia",
+      "text": "Você olhou para o estábulo e pensou: 'Isso é um risco ergonômico'. Seu presente é um kit completo: almofada ortopédica para sentar na palha, suporte para tablet para ler os mandamentos e um protetor de pulso para escrever parábolas sem ter LER. 'Cuidar da postura é cuidar da alma, Jesus!'"
+    }
+  }
+}
