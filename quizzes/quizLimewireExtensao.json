@@ -1,0 +1,386 @@
+{
+  "title": "Se Você Fosse um Arquivo no LimeWire, Qual Extensão Você Seria?",
+  "subtitle": "Descubra qual arquivo lendário (e possivelmente infectado) da era P2P representa sua alma digital",
+  "questions": [
+    {
+      "question": "Como você se descreveria em uma sala de chat dos anos 2000?",
+      "answers": [
+        {
+          "text": "🦹‍♂️ O hacker misterioso que diz ter acesso a tudo, mas nunca prova",
+          "points": {
+            "exe_misterioso": 0.8,
+            "rar_senha": 0.5
+          }
+        },
+        {
+          "text": "🎵 O que sempre tem o link do último lançamento (em qualidade duvidosa)",
+          "points": {
+            "mp3_falso": 0.9,
+            "avi_corrompido": 0.4
+          }
+        },
+        {
+          "text": "📢 O propagador de correntes e 'notícias urgentes' do Orkut",
+          "points": {
+            "txt_fofoca": 0.9,
+            "jpg_surpresa": 0.3
+          }
+        },
+        {
+          "text": "🤫 O que realmente tem o arquivo raro, mas ninguém acredita",
+          "points": {
+            "flac_perfeito": 0.8,
+            "iso_ilegivel": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas frustrações da internet discada mais te define?",
+      "answers": [
+        {
+          "text": "☎️ A linha cair no 99% do download de 700MB",
+          "points": {
+            "avi_corrompido": 0.9,
+            "iso_ilegivel": 0.4
+          }
+        },
+        {
+          "text": "🔍 Passar horas procurando a senha do RAR em fóruns obscuros",
+          "points": {
+            "rar_senha": 0.9,
+            "exe_misterioso": 0.5
+          }
+        },
+        {
+          "text": "🎭 Abrir o que promete ser uma coisa e ser completamente outra",
+          "points": {
+            "jpg_surpresa": 0.8,
+            "mp3_falso": 0.6
+          }
+        },
+        {
+          "text": "📚 Ler tutoriais extremamente complexos para coisas simples",
+          "points": {
+            "txt_fofoca": 0.7,
+            "flac_perfeito": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual era seu método de sobrevivência na era P2P?",
+      "answers": [
+        {
+          "text": "💀 Baixava tudo que tinha muitos seeds, vírus ou não vírus",
+          "points": {
+            "exe_misterioso": 0.9,
+            "avi_corrompido": 0.4
+          }
+        },
+        {
+          "text": "🔎 Checava os comentários (mentirosos) antes de baixar",
+          "points": {
+            "mp3_falso": 0.8,
+            "jpg_surpresa": 0.5
+          }
+        },
+        {
+          "text": "🗂️ Tinha pastas organizadas por categoria de arquivo suspeito",
+          "points": {
+            "rar_senha": 0.7,
+            "flac_perfeito": 0.6
+          }
+        },
+        {
+          "text": "🌐 Frequentava fóruns específicos para encontrar os 'originais'",
+          "points": {
+            "iso_ilegivel": 0.8,
+            "txt_fofoca": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas experiências traumáticas da internet antiga mais te marcou?",
+      "answers": [
+        {
+          "text": "📞 Ligar para a internet e ouvir sua mãe atender o telefone no meio do download",
+          "points": {
+            "avi_corrompido": 0.9,
+            "flac_perfeito": 0.3
+          }
+        },
+        {
+          "text": "🦠 Formatar o PC pela 3ª vez no mês por causa de vírus do Kazaa",
+          "points": {
+            "exe_misterioso": 0.9,
+            "jpg_surpresa": 0.4
+          }
+        },
+        {
+          "text": "🔓 Descobrir que a senha '12345' não abria o RAR do jogo",
+          "points": {
+            "rar_senha": 0.8,
+            "txt_fofoca": 0.5
+          }
+        },
+        {
+          "text": "🎧 Ouvir 10 segundos de música e 50 minutos de rádio pirata",
+          "points": {
+            "mp3_falso": 0.9,
+            "iso_ilegivel": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como era seu perfil no Orkut?",
+      "answers": [
+        {
+          "text": "💀 'Em construção' com GIFs piscantes e música do Linkin Park tocando",
+          "points": {
+            "exe_misterioso": 0.7,
+            "avi_corrompido": 0.6
+          }
+        },
+        {
+          "text": "📋 Listas intermináveis de comunidades tipo 'Eu ODEIO segunda-feira'",
+          "points": {
+            "txt_fofoca": 0.9,
+            "jpg_surpresa": 0.3
+          }
+        },
+        {
+          "text": "🔞 Depoimentos cripticos que tentavam parecer profundos mas não eram",
+          "points": {
+            "rar_senha": 0.8,
+            "iso_ilegivel": 0.5
+          }
+        },
+        {
+          "text": "✨ Limpo, organizado, com scrapbook cheio de recados verdadeiros",
+          "points": {
+            "flac_perfeito": 0.8,
+            "mp3_falso": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual era sua relação com os famosos 'codecs'?",
+      "answers": [
+        {
+          "text": "🤷 Instalava todo pacote que aparecia, mesmo sem saber o que era",
+          "points": {
+            "exe_misterioso": 0.8,
+            "avi_corrompido": 0.5
+          }
+        },
+        {
+          "text": "❌ Desistia do filme quando pedia codec desconhecido",
+          "points": {
+            "flac_perfeito": 0.4,
+            "rar_senha": 0.7
+          }
+        },
+        {
+          "text": "🔧 Passava horas no Baixaki procurando o codec exato",
+          "points": {
+            "iso_ilegivel": 0.8,
+            "txt_fofoca": 0.4
+          }
+        },
+        {
+          "text": "🎬 Assistia o filme mesmo com a tela verde e áudio distorcido",
+          "points": {
+            "mp3_falso": 0.6,
+            "jpg_surpresa": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual era seu maior medo digital nos anos 2000?",
+      "answers": [
+        {
+          "text": "👮 A polícia federal bater na porta por baixar música (obrigado, Carla)",
+          "points": {
+            "mp3_falso": 0.7,
+            "flac_perfeito": 0.6
+          }
+        },
+        {
+          "text": "💀 O computador explodir com tanto vírus e começar a falar sozinho",
+          "points": {
+            "exe_misterioso": 0.9,
+            "jpg_surpresa": 0.4
+          }
+        },
+        {
+          "text": "⌛ Passar a vida inteira tentando extrair um arquivo com senha errada",
+          "points": {
+            "rar_senha": 0.9,
+            "avi_corrompido": 0.3
+          }
+        },
+        {
+          "text": "🌐 Nunca conseguir configurar o emule direito para achar seeds",
+          "points": {
+            "iso_ilegivel": 0.8,
+            "txt_fofoca": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você reagia quando finalmente conseguia o que queria?",
+      "answers": [
+        {
+          "text": "🔥 Fazia backup em 5 CDs diferentes 'só por garantia'",
+          "points": {
+            "flac_perfeito": 0.8,
+            "rar_senha": 0.4
+          }
+        },
+        {
+          "text": "📢 Virava o maior evangelista do arquivo ('cara, baixa isso AGR!')",
+          "points": {
+            "txt_fofoca": 0.9,
+            "exe_misterioso": 0.4
+          }
+        },
+        {
+          "text": "🤨 Desconfiava que era bom demais para ser verdade (e geralmente era)",
+          "points": {
+            "jpg_surpresa": 0.8,
+            "mp3_falso": 0.5
+          }
+        },
+        {
+          "text": "💾 Guardava numa pasta chamada 'Coisas' e nunca mais abria",
+          "points": {
+            "avi_corrompido": 0.7,
+            "iso_ilegivel": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destas mensagens de erro era mais frequente na sua vida?",
+      "answers": [
+        {
+          "text": "❌ 'Arquivo corrompido ou danificado' no WinRAR",
+          "points": {
+            "avi_corrompido": 0.9,
+            "rar_senha": 0.4
+          }
+        },
+        {
+          "text": "🦠 'Vírus detectado' no meio da extração",
+          "points": {
+            "exe_misterioso": 0.9,
+            "jpg_surpresa": 0.3
+          }
+        },
+        {
+          "text": "🔊 'Codec de áudio não suportado' no Windows Media Player",
+          "points": {
+            "mp3_falso": 0.8,
+            "iso_ilegivel": 0.5
+          }
+        },
+        {
+          "text": "📁 'Espaço em disco insuficiente' no HD de 40GB",
+          "points": {
+            "flac_perfeito": 0.7,
+            "txt_fofoca": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "No fundo, o que a era P2P te ensinou sobre a vida?",
+      "answers": [
+        {
+          "text": "⚠️ Se algo parece bom demais pra ser verdade, provavelmente é vírus",
+          "points": {
+            "exe_misterioso": 0.9,
+            "jpg_surpresa": 0.4
+          }
+        },
+        {
+          "text": "⏳ A paciência é uma virtude (especialmente em modem 56k)",
+          "points": {
+            "avi_corrompido": 0.8,
+            "flac_perfeito": 0.5
+          }
+        },
+        {
+          "text": "🗝️ Tudo na vida tem uma senha, só precisa saber onde procurar",
+          "points": {
+            "rar_senha": 0.9,
+            "txt_fofoca": 0.4
+          }
+        },
+        {
+          "text": "🎭 As aparências enganam - um nome sexy pode esconder Homer Simpson",
+          "points": {
+            "mp3_falso": 0.7,
+            "iso_ilegivel": 0.6
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "exe_misterioso": {
+      "title": "O .EXE Misterioso ⚠️",
+      "emoji": "🦠",
+      "subtitle": "\"Nome_do_Filme_FULL_HD.exe\" (1.2MB)",
+      "text": "Você é aquele arquivo que promete ser um filme em HD mas tem 1MB. Todos sabem que é vírus, mas a curiosidade vence. Você representa aquele amigo que sempre tem uma proposta duvidosa ('vamos abrir um food truck!') mas incrivelmente tentadora. Seu lema: 'Confia, pô'. 87% de chance de conter um Trojan, 100% de chance de gerar histórias para contar."
+    },
+    "mp3_falso": {
+      "title": "O .MP3 Falso 🎵",
+      "emoji": "🎭",
+      "subtitle": "\"Linkin_Park_In_The_End_ALBUM_VERSION.mp3\" (0:04)",
+      "text": "Você parece legítimo até o último segundo. O arquivo diz ser a música completa, mas na verdade são 4 segundos do refrão em loop infinito. Você é aquela pessoa que fala com tanta convicção que todo mundo acredita, até descobrirem que não sabe fazer metade do que promete. Especialista em dar migué com estilo."
+    },
+    "avi_corrompido": {
+      "title": "O .AVI Corrompido 📼",
+      "emoji": "💔",
+      "subtitle": "\"Matrix_Reloaded_CD1.avi\" (847MB, trava em 72%)",
+      "text": "Você quase chega lá. Quase. Mas sempre falha no momento crucial. O download leva 3 dias em modem discado, o arquivo tem tamanho perfeito... e trava exatamente quando o Neo vai enfrentar os agentes. Você é a promessa que nunca se cumpre, mas todo mundo te dá uma segunda chance. E uma terceira. E uma quarta..."
+    },
+    "rar_senha": {
+      "title": "O .RAR com Senha 🔐",
+      "emoji": "🗝️",
+      "subtitle": "\"Jogos_Adultos.part1.rar\" (senha: www.siteduv.com.br)",
+      "text": "Você gosta de fazer as pessoas trabalharem pelo conteúdo. O download é só o primeiro passo - agora precisam descobrir a senha no site cheio de pop-ups. Você é do tipo que cria drama desnecessário mas, no fundo, até gosta da atenção. 'Ah, vou te contar, mas promete que não conta pra ninguém?' é seu estilo."
+    },
+    "jpg_surpresa": {
+      "title": "O .JPG Surpresa 🖼️",
+      "emoji": "👀",
+      "subtitle": "\"Britney_Spears_Naked.jpg\" (abre como Homer Simpson)",
+      "text": "A expectativa é uma coisa, a realidade é outra completamente diferente. Você promete escândalo e entrega comédia. É o mestre do bait-and-switch, mas de uma forma que no fim todo mundo ri. 'Parecia que ia ser problema, mas no final foi até engraçado' é seu epitáfio."
+    },
+    "iso_ilegivel": {
+      "title": "O .ISO Ilegível 💿",
+      "emoji": "🌀",
+      "subtitle": "\"Windows_XP_Professional.iso\" (escrito em cirílico)",
+      "text": "Você parece oficial, profissional, legítimo... mas ninguém consegue entender nada. A interface está em russo, os menus em alfabeto desconhecido. Você é aquela pessoa que fala com tantos jargões que parece profunda, mas na verdade ninguém tem certeza se você sabe do que está falando. Impressiona, mas é inútil."
+    },
+    "txt_fofoca": {
+      "title": "O .TXT das Fofocas 📝",
+      "emoji": "🗣️",
+      "subtitle": "\"LEIAM_E_DIVULGUEM.txt\" (lista de trapaceiros do Habbo)",
+      "text": "Seu conteúdo é puro texto, mas que texto! Listas intermináveis de dicas, tutoriais errados, correntes e fofocas digitais. Você é a pessoa que sempre tem 'um hack' que nunca funciona, mas que todo mundo ouve mesmo assim. Espalha desinformação com as melhores intenções."
+    },
+    "flac_perfeito": {
+      "title": "O .FLAC Perfeito 🎧",
+      "emoji": "✨",
+      "subtitle": "\"Nirvana_-_Nevermind_(1991)_[FLAC].rar\" (real, perfeito)",
+      "text": "O unicórnio. O mito que realmente existe. Você é raro, valioso, e quando aparece, ninguém acredita. 'É vírus, certeza'. Mas não é. Você é a pessoa que realmente entrega o que promete, no máximo da qualidade. Infelizmente, ninguém baixa você porque o arquivo é grande demais e todos preferem o MP3 de 128kbps."
+    }
+  }
+}
