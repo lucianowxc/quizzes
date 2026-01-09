@@ -484,6 +484,11 @@
        "name": "Qual evento de final de ano você é?",
        "file": "quizzes/quiz2712.json",
        "description": "Descubra seu papel nas festas de dezembro e veja se você aguenta o tranco do Martelo da Diplomacia! 🔨"
+    },
+    {
+      "name": "Qual Presente de Rei Mago Moderno Você Daria?",
+      "file": "quizzes/quizReisMagosModernos.json",
+      "description": "Descubra qual presente pseudo-útil (copo Stanley, app de meditação, power bank...) você daria ao Messias do século XXI!"
     }
 
 
