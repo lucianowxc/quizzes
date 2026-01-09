@@ -494,6 +494,11 @@
       "name": "Se Você Fosse um Arquivo no LimeWire, Qual Extensão Você Seria?",
       "file": "quizzes/quizLimeWireExtensao.json",
       "description": "Descubra qual arquivo lendário (e possivelmente infectado) da era P2P representa sua alma digital!"
+    },
+    {
+      "name": "Se Você Fosse Uma Cidade, Quantos % de Cobertura de Esgoto Você Teria?",
+      "file": "quizzes/quizCidadeEsgoto.json",
+      "description": "Descubra quanto do seu 'conteúdo interno' é tratado adequadamente vs. quanto vaza como bobagem!"
     }
 
 
