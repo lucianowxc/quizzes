@@ -489,6 +489,11 @@
       "name": "Qual Presente de Rei Mago Moderno Você Daria?",
       "file": "quizzes/quizReisMagosModernos.json",
       "description": "Descubra qual presente pseudo-útil (copo Stanley, app de meditação, power bank...) você daria ao Messias do século XXI!"
+    },
+    {
+      "name": "Se Você Fosse um Arquivo no LimeWire, Qual Extensão Você Seria?",
+      "file": "quizzes/quizLimeWireExtensao.json",
+      "description": "Descubra qual arquivo lendário (e possivelmente infectado) da era P2P representa sua alma digital!"
     }
 
 
