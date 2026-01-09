@@ -1,0 +1,385 @@
+{
+  "title": "Se Você Fosse Uma Cidade, Quantos % de Cobertura de Esgoto Você Teria?",
+  "subtitle": "Descubra quanto do seu 'conteúdo interno' é tratado adequadamente vs. quanto vaza como bobagem",
+  "questions": [
+    {
+      "question": "Qual destas teorias da conspiração você acha mais plausível?",
+      "answers": [
+        {
+          "text": "🕵️‍♂️ 'As torradas sempre caem com a manteiga para baixo porque a gravidade foi programada assim'",
+          "points": {
+            "esgoto_negativo": 0.9,
+            "esgoto_10": 0.5
+          }
+        },
+        {
+          "text": "👽 'Os gatos não piscam porque estão constantemente transmitindo dados para seus planetas'",
+          "points": {
+            "esgoto_0": 0.8,
+            "esgoto_30": 0.6
+          }
+        },
+        {
+          "text": "🗺️ 'A Austrália não existe, é uma holograma para esconder o verdadeiro polo sul'",
+          "points": {
+            "esgoto_30": 0.7,
+            "esgoto_50": 0.4
+          }
+        },
+        {
+          "text": "🤔 'Nenhuma, todas são estatisticamente improváveis segundo estes estudos que li...'",
+          "points": {
+            "esgoto_supertratado": 0.9,
+            "esgoto_95": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você reage quando alguém fala uma bobagem monumental?",
+      "answers": [
+        {
+          "text": "🎭 'Anoto para minha coleção! Já tenho 3 cadernos cheios'",
+          "points": {
+            "esgoto_negativo": 0.8,
+            "esgoto_0": 0.5
+          }
+        },
+        {
+          "text": "🤝 'Concordo e adiciono um detalhe ainda mais absurdo'",
+          "points": {
+            "esgoto_10": 0.9,
+            "esgoto_30": 0.6
+          }
+        },
+        {
+          "text": "🧐 'Analiso: 40% bobagem, 30% insight acidental, 30% precisa de mais dados'",
+          "points": {
+            "esgoto_50": 0.8,
+            "esgoto_70": 0.4
+          }
+        },
+        {
+          "text": "📚 'Imediatamente busco 5 fontes acadêmicas para refutar ponto a ponto'",
+          "points": {
+            "esgoto_supertratado": 0.9,
+            "esgoto_95": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria sua invenção mais útil para a humanidade?",
+      "answers": [
+        {
+          "text": "🍞 'Uma torradeira que também funciona como parabólica para falar com pães de outros planetas'",
+          "points": {
+            "esgoto_negativo": 0.9,
+            "esgoto_0": 0.4
+          }
+        },
+        {
+          "text": "🪣 'Um balde que filtra a bobagem das conversas e transforma em adubo para plantas'",
+          "points": {
+            "esgoto_30": 0.8,
+            "esgoto_50": 0.5
+          }
+        },
+        {
+          "text": "📊 'Um app que mede em tempo real a porcentagem de sentido em cada frase dita'",
+          "points": {
+            "esgoto_70": 0.7,
+            "esgoto_supertratado": 0.6
+          }
+        },
+        {
+          "text": "🔧 'Sistema de tratamento terciário para esgoto mental com certificação ISO'",
+          "points": {
+            "esgoto_95": 0.8,
+            "esgoto_supertratado": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas 'verdades alternativas' você já considerou seriamente?",
+      "answers": [
+        {
+          "text": "🦉 'Corujas são aposentadorias de galinhas que trabalharam muito'",
+          "points": {
+            "esgoto_negativo": 0.9,
+            "esgoto_0": 0.5
+          }
+        },
+        {
+          "text": "🛁 'O ralo do banheiro é um portal para um universo paralelo de sabonetes'",
+          "points": {
+            "esgoto_10": 0.8,
+            "esgoto_30": 0.6
+          }
+        },
+        {
+          "text": "📅 'Segunda-feira dói mais porque o fim de semana reprograma nossa percepção temporal'",
+          "points": {
+            "esgoto_50": 0.7,
+            "esgoto_70": 0.4
+          }
+        },
+        {
+          "text": "⚖️ 'Nenhuma, eu só considero hipóteses com revisão por pares e p-valor <0.05'",
+          "points": {
+            "esgoto_supertratado": 0.9,
+            "esgoto_95": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você explica o sumiço das meias na máquina de lavar?",
+      "answers": [
+        {
+          "text": "🧚 'Fadas do lava-rápido que usam como barco nos rios de amaciante'",
+          "points": {
+            "esgoto_negativo": 0.9,
+            "esgoto_10": 0.5
+          }
+        },
+        {
+          "text": "🌀 'Buracos de minhoca dimensionais que se formam durante o ciclo de centrifugação'",
+          "points": {
+            "esgoto_0": 0.8,
+            "esgoto_30": 0.6
+          }
+        },
+        {
+          "text": "🔍 'Falta de atenção na hora de pendurar + dimensões reduzidas na secagem'",
+          "points": {
+            "esgoto_70": 0.7,
+            "esgoto_95": 0.5
+          }
+        },
+        {
+          "text": "📐 'Precisaria estudar 500 ciclos de lavagem com grupo controle para ter dados'",
+          "points": {
+            "esgoto_supertratado": 0.9,
+            "esgoto_95": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destas habilidades você tem (ou acha que tem)?",
+      "answers": [
+        {
+          "text": "👁️ 'Ler mentiras pela forma como a pessoa pisca (2 piscadas = meia verdade)'",
+          "points": {
+            "esgoto_negativo": 0.8,
+            "esgoto_10": 0.6
+          }
+        },
+        {
+          "text": "🌱 'Conversar com plantas, mas só as que gostam de fofoca'",
+          "points": {
+            "esgoto_0": 0.9,
+            "esgoto_30": 0.5
+          }
+        },
+        {
+          "text": "🧠 'Identificar padrões onde outros veem apenas caos (às vezes até demais)'",
+          "points": {
+            "esgoto_50": 0.8,
+            "esgoto_70": 0.4
+          }
+        },
+        {
+          "text": "📊 'Transformar qualquer tópico em uma planilha com métricas objetivas'",
+          "points": {
+            "esgoto_supertratado": 0.9,
+            "esgoto_95": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu palpite para a pergunta mais importante do universo?",
+      "answers": [
+        {
+          "text": "🍞 'Por que o pão integral é mais caro se usam menos ingredientes?'",
+          "points": {
+            "esgoto_10": 0.8,
+            "esgoto_30": 0.6
+          }
+        },
+        {
+          "text": "🚶 'Se andarmos em círculos perfeitos, teletransportamos?'",
+          "points": {
+            "esgoto_negativo": 0.9,
+            "esgoto_0": 0.5
+          }
+        },
+        {
+          "text": "🧠 'Qual a proporção ideal entre pensamento racional e intuição?'",
+          "points": {
+            "esgoto_70": 0.7,
+            "esgoto_95": 0.5
+          }
+        },
+        {
+          "text": "📈 'Como otimizar a alocação de recursos cognitivos para máxima eficiência?'",
+          "points": {
+            "esgoto_supertratado": 0.9,
+            "esgoto_95": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você faz uma decisão difícil?",
+      "answers": [
+        {
+          "text": "🎲 'Jogo pedra, papel e tesoura com meu gato (ele sempre escolhe tesoura)'",
+          "points": {
+            "esgoto_negativo": 0.9,
+            "esgoto_10": 0.5
+          }
+        },
+        {
+          "text": "🌙 'Consulte as fases da lua e o alinhamento dos planetas no meu app'",
+          "points": {
+            "esgoto_0": 0.8,
+            "esgoto_30": 0.6
+          }
+        },
+        {
+          "text": "📝 'Faço uma lista de prós e contras, depois ignoro e vou no feeling'",
+          "points": {
+            "esgoto_50": 0.8,
+            "esgoto_70": 0.4
+          }
+        },
+        {
+          "text": "📊 'Matriz de decisão multicritério ponderada com análise de sensibilidade'",
+          "points": {
+            "esgoto_supertratado": 0.9,
+            "esgoto_95": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destas é sua maior preocupação existencial?",
+      "answers": [
+        {
+          "text": "🪐 'Se os aliens forem vegetarianos, vão achar ofensivo a gente comer alface?'",
+          "points": {
+            "esgoto_negativo": 0.9,
+            "esgoto_0": 0.5
+          }
+        },
+        {
+          "text": "🧦 'As meias solitárias na gaveta se sentem abandonadas?'",
+          "points": {
+            "esgoto_10": 0.8,
+            "esgoto_30": 0.6
+          }
+        },
+        {
+          "text": "⚖️ 'Como equilibrar liberdade individual com responsabilidade coletiva?'",
+          "points": {
+            "esgoto_70": 0.7,
+            "esgoto_95": 0.5
+          }
+        },
+        {
+          "text": "📐 'A otimização perfeita da equação qualidade de vida vs. produtividade'",
+          "points": {
+            "esgoto_supertratado": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "No final das contas, quanto do que você pensa realmente merece ser dito?",
+      "answers": [
+        {
+          "text": "💯 'Tudo! Até os pensamentos mais aleatórios podem ser revelações divinas'",
+          "points": {
+            "esgoto_negativo": 0.9,
+            "esgoto_0": 0.6
+          }
+        },
+        {
+          "text": "🎪 'Uns 70% - o resto fica como conteúdo premium para amigos próximos'",
+          "points": {
+            "esgoto_10": 0.8,
+            "esgoto_30": 0.5
+          }
+        },
+        {
+          "text": "⚖️ 'Cerca de metade, depois de filtrar o que é só barruído mental'",
+          "points": {
+            "esgoto_50": 0.8,
+            "esgoto_70": 0.4
+          }
+        },
+        {
+          "text": "📏 'Apenas o que passa por 3 filtros: relevância, evidência e timing'",
+          "points": {
+            "esgoto_supertratado": 0.9,
+            "esgoto_95": 0.7
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "esgoto_95": {
+      "title": "Cidade 95% Tratada 🏙️",
+      "emoji": "💎",
+      "subtitle": "Apenas 5% de Bobagem",
+      "text": "Você é como Zurique: quase tudo é filtrado, tratado e reaproveitado com eficiência. Seus pensamentos são claros, suas opiniões são fundamentadas, e raramente você solta uma bobagem. Quando fala, as pessoas ouvem. O problema? Todo mundo acha você 'certinho demais' e suspeita que, no seu esgoto não-tratado de 5%, deve ter alguma vergonha muito específica tipo 'gosto de ouvir sertanejo universitário no volume mínimo'."
+    },
+    "esgoto_70": {
+      "title": "Cidade 70% Tratada 🏘️",
+      "emoji": "🏡",
+      "subtitle": "30% de Bobagem Controlada",
+      "text": "Você é a cidade média brasileira: tem estrutura, mas às coisas escapam. Para cada três opiniões sensatas, tem uma pérola tipo 'acho que a terra é plana, mas só nas segundas'. Seus amigos sabem que você é inteligente, mas ficam em alerta porque a qualquer momento pode soltar: 'na verdade, os dinossauros não existiram, foi a NASA'. Seu esgoto não-tratado é divertido, pelo menos."
+    },
+    "esgoto_50": {
+      "title": "Cidade 50/50 🎭",
+      "emoji": "⚖️",
+      "subtitle": "Meio Sensato, Meio Absurdo",
+      "text": "Equilíbrio perfeito! Você consegue discutir filosofia existencial por uma hora e, no minuto seguinte, argumentar sério que o pão de queijo mineiro é superior porque 'os mineiros têm uma conexão telúrica com o polvilho'. Ninguém sabe se leva você a sério ou não, e essa é sua magia. Metade do que sai da sua boca é ouro, a outra metade é... bem, esgoto puro."
+    },
+    "esgoto_30": {
+      "title": "Cidade 30% Tratada 🌊",
+      "emoji": "🚰",
+      "subtitle": "70% de Bobagem, Mas Com Charmezinho",
+      "text": "A maior parte do que você fala é questionável, mas você fala com tanta convicção que as pessoas param para pensar: 'será?'. Você é o tipo que defenderia que 'os gatos na verdade são robôs alienígenas' com tantos detalhes que faria um PhD em biologia reconsiderar a carreira. Seu tratamento de esgoto é basicamente um filtro de café furado, mas que ainda segura alguns grãos de café."
+    },
+    "esgoto_10": {
+      "title": "Cidade 10% Tratada 💦",
+      "emoji": "🌫️",
+      "subtitle": "90% Pura Bobagem Não Filtrada",
+      "text": "Seus pensamentos passam direto do cérebro para a boca sem escala em nenhum filtro. Você acredita genuinamente que 'se colocarmos abacaxis no vulcão, resolveremos o aquecimento global porque o ácido cítrico neutraliza a lava'. As pessoas te amam porque você é imprevisível e sempre tem uma teoria nova sobre por que os pombos são espiões do governo. Seu esgoto é praticamente um rio a céu aberto, mas cheio de peixes coloridos de imaginação."
+    },
+    "esgoto_0": {
+      "title": "Cidade 0% Tratada 🚽",
+      "emoji": "🌪️",
+      "subtitle": "Pura Descarga Cerebral Direta",
+      "text": "Você não tem sistema de esgoto. Tem um buraco no quintal onde tudo cai e depois evapora para a atmosfera. Suas opiniões são tão absurdas que circulam anos depois como lenda urbana: 'eu conheci um cara que acha que a lua é feita de queijo cottage, mas só do lado de lá'. Você é o motivo pelo qual as pessoas dizem 'não pode dar internet para todo mundo'. Mas, no fundo, todo mundo quer te convidar para a festa."
+    },
+    "esgoto_negativo": {
+      "title": "Cidade -15% Tratada 🔮",
+      "emoji": "🌀",
+      "subtitle": "Você Gera Mais Esgoto do Que Consome",
+      "text": "Você não apenas não trata o esgoto - você PRODUZ esgoto a partir do nada. Suas teorias são tão elaboradas que criam realidades alternativas: 'sabe por que o chinelo some? Porque os gnomos das máquinas de lavar usam como barco no mundo subaquático da espuma'. Você é um fenômeno natural, um vazamento ativo de bobagem que contamina até as pessoas sensatas ao redor. Cientistas estudariam você, se conseguissem entender o que você está falando."
+    },
+    "esgoto_supertratado": {
+      "title": "Cidade 110% Tratada 🧠",
+      "emoji": "🔬",
+      "subtitle": "Você Trata Até o Que Não é Esgoto",
+      "text": "Você é tão filtrado que trata até a água mineral. Analisa cada pensamento 17 vezes antes de externalizar. O problema? Suas opiniões são tão perfeitas, tão lógicas, tão isentas de bobagem que... são insuportavelmente chatas. Você é a pessoa que, quando perguntam 'qual seu animal favorito?', responde com um tratado de 20 minutos sobre a eficiência ecológica das minhocas. Seu esgoto é tão tratado que virou água destilada - pura, mas sem gosto nenhum."
+    }
+  }
+}
