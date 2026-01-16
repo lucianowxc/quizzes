@@ -499,6 +499,11 @@
       "name": "Se Você Fosse Uma Cidade, Quantos % de Cobertura de Esgoto Você Teria?",
       "file": "quizzes/quizCidadeEsgoto.json",
       "description": "Descubra quanto do seu 'conteúdo interno' é tratado adequadamente vs. quanto vaza como bobagem!"
+    },
+    {
+      "name": "Qual Barulho Você Seria?",
+      "file": "quizzes/quizBarulhos.json",
+      "description": "Descubra qual som caótico e maravilhoso do universo melhor representa sua essência auditiva!"
     }
 
 
