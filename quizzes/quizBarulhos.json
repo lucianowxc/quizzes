@@ -1,1 +1,375 @@
-
+{
+  "title": "Qual Barulho Você Seria?",
+  "subtitle": "Descubra qual som do universo melhor representa sua essência caótica e maravilhosa!",
+  "questions": [
+    {
+      "question": "Num domingo à tarde, seu estado natural é:",
+      "answers": [
+        {
+          "text": "😴  Deitado em posição fetal no sofá, já roncando às 15h",
+          "points": {
+            "ronco_satisfeito": 0.8,
+            "chuva_no_telhado": 0.2
+          }
+        },
+        {
+          "text": "🍲  Preparando algo no microondas que definitivamente não é saudável",
+          "points": {
+            "microondas_concluido": 0.7,
+            "porta_rangendo": 0.3
+          }
+        },
+        {
+          "text": "⌨️  Digitando algo 'super importante' que na verdade é uma lista de compras",
+          "points": {
+            "teclado_mecanico": 0.9
+          }
+        },
+        {
+          "text": "⚡  Em completo silêncio, questionando todas as suas escolhas de vida",
+          "points": {
+            "silêncio_elétrico": 0.6,
+            "grito_do_pombo": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Quando encontra R$10 no bolso de uma calça esquecida:",
+      "answers": [
+        {
+          "text": "😂  Ri alto sozinho como se tivesse ganhado na loteria",
+          "points": {
+            "risada_contagiante": 0.8,
+            "grito_do_pombo": 0.2
+          }
+        },
+        {
+          "text": "🚪  Abre todas as portas procurando mais dinheiro perdido",
+          "points": {
+            "porta_rangendo": 0.7,
+            "microondas_concluido": 0.3
+          }
+        },
+        {
+          "text": "🌧️  Guarda calmamente, sentindo uma paz financeira momentânea",
+          "points": {
+            "chuva_no_telhado": 0.6,
+            "ronco_satisfeito": 0.4
+          }
+        },
+        {
+          "text": "⚡  Fica em silêncio, ponderando o significado do acaso no universo",
+          "points": {
+            "silêncio_elétrico": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu superpoder secreto em reuniões chatas é:",
+      "answers": [
+        {
+          "text": "😴  Dormir de olhos abertos (nível mestre)",
+          "points": {
+            "ronco_satisfeito": 0.7,
+            "silêncio_elétrico": 0.3
+          }
+        },
+        {
+          "text": "🐦  Soltar comentários aleatórios que deixam todos confusos",
+          "points": {
+            "grito_do_pombo": 0.8
+          }
+        },
+        {
+          "text": "⌨️  Fingir que está anotando algo importante no notebook",
+          "points": {
+            "teclado_mecanico": 0.6,
+            "microondas_concluido": 0.4
+          }
+        },
+        {
+          "text": "😂  Rir na hora errada e fazer uma reação em cadeia de risos",
+          "points": {
+            "risada_contagiante": 0.5,
+            "porta_rangendo": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você acordasse amanhã como um eletrodoméstico, seria:",
+      "answers": [
+        {
+          "text": "⚡  Uma cama elétrica que dá choque quando tenta levantar (e você gosta)",
+          "points": {
+            "ronco_satisfeito": 0.8,
+            "silêncio_elétrico": 0.2
+          }
+        },
+        {
+          "text": "🎪  Uma cafeteira que faz barulho de circo em vez de café",
+          "points": {
+            "grito_do_pombo": 0.9
+          }
+        },
+        {
+          "text": "🌀  Uma geladeira que range quando abre (e tem só molho velho girando)",
+          "points": {
+            "porta_rangendo": 0.7,
+            "microondas_concluido": 0.3
+          }
+        },
+        {
+          "text": "🌌  Um ventilador que faz tanto silêncio que você questiona a realidade",
+          "points": {
+            "silêncio_elétrico": 0.6,
+            "chuva_no_telhado": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Quando alguém fala 'vamos fazer diferente desta vez', você:",
+      "answers": [
+        {
+          "text": "🎭  Ri até formar uma nova personalidade e cai da cadeira",
+          "points": {
+            "risada_contagiante": 0.8
+          }
+        },
+        {
+          "text": "🌪️  Solta um turbilhão sonoro de desespero existencial",
+          "points": {
+            "grito_do_pombo": 0.7,
+            "porta_rangendo": 0.3
+          }
+        },
+        {
+          "text": "🔢  Começa a digitar números primos freneticamente no ar",
+          "points": {
+            "teclado_mecanico": 0.9
+          }
+        },
+        {
+          "text": "🔄  Liga o microondas vazio e gira junto com o prato",
+          "points": {
+            "microondas_concluido": 0.6,
+            "ronco_satisfeito": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seus pensamentos às 3h da manhã soam como:",
+      "answers": [
+        {
+          "text": "🕰️  'TIC TAC será que deixei o forno ligado em 2014? TIC TAC'",
+          "points": {
+            "porta_rangendo": 0.8,
+            "grito_do_pombo": 0.2
+          }
+        },
+        {
+          "text": "🎪  'HAHAHA lembra daquela vez que... espera, isso foi um delírio febril?'",
+          "points": {
+            "risada_contagiante": 0.7,
+            "ronco_satisfeito": 0.3
+          }
+        },
+        {
+          "text": "📜  'CLACK preciso catalogar CLICK todos meus arrependimentos CLICK'",
+          "points": {
+            "teclado_mecanico": 0.6,
+            "microondas_concluido": 0.4
+          }
+        },
+        {
+          "text": "🕳️  '(eco) (mais eco) (sussurro de um grilo filosófico) (silêncio)'",
+          "points": {
+            "silêncio_elétrico": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu método secreto para tomar decisões difíceis é:",
+      "answers": [
+        {
+          "text": "🎲  Jogar um dado e rir maniacamente qualquer que seja o resultado",
+          "points": {
+            "risada_contagiante": 0.8,
+            "grito_do_pombo": 0.2
+          }
+        },
+        {
+          "text": "🌊  Esperar a maré das ideias (e acabar dormindo no processo)",
+          "points": {
+            "ronco_satisfeito": 0.7,
+            "chuva_no_telhado": 0.3
+          }
+        },
+        {
+          "text": "🔑  Fazer a porta do armário ranger e interpretar como sinal divino",
+          "points": {
+            "porta_rangendo": 0.6,
+            "silêncio_elétrico": 0.4
+          }
+        },
+        {
+          "text": "📊  Criar uma planilha complexa e nunca abri-la",
+          "points": {
+            "teclado_mecanico": 0.5,
+            "microondas_concluido": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Ao encontrar um inseto em casa, você:",
+      "answers": [
+        {
+          "text": "🎪  Organiza um circo pra ele e dá nome artístico",
+          "points": {
+            "risada_contagiante": 0.8
+          }
+        },
+        {
+          "text": "🌀  Grita num tom que só cachorros e aliens ouvem",
+          "points": {
+            "grito_do_pombo": 0.9
+          }
+        },
+        {
+          "text": "🧘‍♂️  Medita sobre a efemeridade da vida (do inseto e da sua)",
+          "points": {
+            "silêncio_elétrico": 0.7,
+            "chuva_no_telhado": 0.3
+          }
+        },
+        {
+          "text": "⏰  Liga o microondas vazio pra afugentar com vibração cósmica",
+          "points": {
+            "microondas_concluido": 0.6,
+            "porta_rangendo": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua reação ao ver 'leite' na lista de compras, estando na cozinha com leite:",
+      "answers": [
+        {
+          "text": "🤹  Ri, compra mais leite, e agora tem 8 litros (história se repete)",
+          "points": {
+            "risada_contagiante": 0.7,
+            "grito_do_pombo": 0.3
+          }
+        },
+        {
+          "text": "🔄  Abre e fecha a geladeira 12 vezes conferindo",
+          "points": {
+            "porta_rangendo": 0.8
+          }
+        },
+        {
+          "text": "💤  Dorme em pé pensando no conceito de 'leite'",
+          "points": {
+            "ronco_satisfeito": 0.6,
+            "silêncio_elétrico": 0.4
+          }
+        },
+        {
+          "text": "⌛  Espera o leite azedar pra ter certeza que precisa comprar",
+          "points": {
+            "microondas_concluido": 0.5,
+            "chuva_no_telhado": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um som ambiente de espera de telefone, seria:",
+      "answers": [
+        {
+          "text": "🎵  Uma versão jazz de roncos intermitentes",
+          "points": {
+            "ronco_satisfeito": 0.8,
+            "teclado_mecanico": 0.2
+          }
+        },
+        {
+          "text": "🌪️  Gritos de pombos em dueto caótico",
+          "points": {
+            "grito_do_pombo": 0.7,
+            "porta_rangendo": 0.3
+          }
+        },
+        {
+          "text": "🎭  Risadas pré-gravadas em loop (fica mais perturbador a cada minuto)",
+          "points": {
+            "risada_contagiante": 0.9
+          }
+        },
+        {
+          "text": "🌫️  Silêncio tão profundo que os clientes questionam se a ligação caiu",
+          "points": {
+            "silêncio_elétrico": 0.6,
+            "chuva_no_telhado": 0.4
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "ronco_satisfeito": {
+      "title": "Ronco Satisfeito 😴",
+      "emoji": "😴",
+      "subtitle": "A Sinfonia do Descanso",
+      "text": "Você é aquele ronquinho gostoso de domingo à tarde! Não é barulho, é trilha sonora do ócio produtivo. As pessoas até sentem sono só de ouvir você. Representa a arte de desligar completamente, o prazer da preguiça sem culpa e a verdade universal: às vezes, o melhor som é o do próprio relaxamento."
+    },
+    "grito_do_pombo": {
+      "title": "Grito do Pombo Caótico 🐦",
+      "emoji": "🐦",
+      "subtitle": "O Caos Inesperado",
+      "text": "UUUUUUUURRRRRRRR! Você surge do nada, causa confusão total e some como um ninja urbano. É o barulho que faz todo mundo parar e pensar: 'Mas que diabos foi ISSO?'. Representa espontaneidade pura, o caos criativo das cidades e a beleza das coisas que simplesmente... acontecem."
+    },
+    "microondas_concluido": {
+      "title": "BiP do Microondas 🍲",
+      "emoji": "🍲",
+      "subtitle": "A Conclusão Perfeita",
+      "text": "BIP BIP BIP BIP! Você é previsível, pontual e profundamente satisfatório. Todo mundo sabe exatamente o que esperar: quando você toca, algo bom está pronto. Representa pequenas vitórias diárias, o alívio da espera recompensada e o conforto moderno da praticidade instantânea."
+    },
+    "teclado_mecanico": {
+      "title": "Teclado Mecânico ⌨️",
+      "emoji": "⌨️",
+      "subtitle": "A Produtividade Audível",
+      "text": "CLICK-CLACK-CLICK-CLACK! Você é foco transformado em som. Metódico, constante e inexplicavelmente viciante. Pode irritar os vizinhos, mas quando o trabalho precisa ser feito, você é a trilha sonora do progresso. Representa dedicação, ritmo pessoal e a satisfação tátil de coisas acontecendo."
+    },
+    "chuva_no_telhado": {
+      "title": "Chuva no Telhado 🌧️",
+      "emoji": "🌧️",
+      "subtitle": "O Conforto Natural",
+      "text": "Plim-plim... plim-plim-plim... Você é terapia gratuita em forma de som. Acalmante, reconfortante e hipnótico. As pessoas colocam gravações suas para dormir, estudar ou apenas existir. Representa paz interior, constância reconfortante e aquela sensação gostosa de estar protegido enquanto o mundo lá fora se transforma."
+    },
+    "porta_rangendo": {
+      "title": "Porta Rangendo 🚪",
+      "emoji": "🚪",
+      "subtitle": "O Drama Cotidiano",
+      "text": "Eeeeeeeeeiiiiiiiiiii... Você é suspense no dia a dia! Anuncia chegadas, cria expectativa e todo mundo para pra ver quem vai aparecer. Pode ser assustador à meia-noite ou cômico às 3 da tarde. Representa transição, mistério e aquele friozinho na barriga do 'e agora?'."
+    },
+    "risada_contagiante": {
+      "title": "Risada Contagiante 😂",
+      "emoji": "😂",
+      "subtitle": "A Alegria Incontrolável",
+      "text": "HAHAHA-HIHIHI-UHUHUHU! Você é infeccioso (no bom sentido)! Começa baixo, pega embalo, faz falta de ar valer a pena. Impossível não sorrir quando você aparece. Representa alegria genuína, leveza e o superpoder raro de transformar ambientes inteiros com uma única gargalhada."
+    },
+    "silêncio_elétrico": {
+      "title": "Silêncio Elétrico ⚡",
+      "emoji": "⚡",
+      "subtitle": "A Ausência que Pesa",
+      "text": "... (só o zumbido da lâmpada). Você não é um barulho, é a falta dele. E justamente por isso, é o mais poderoso. Quando você domina o ambiente, as pessoas se ajustam, pensam mais, sentem mais. Representa introspecção, presença silenciosa e verdades que só emergem quando as bocas calam."
+    }
+  }
+}
