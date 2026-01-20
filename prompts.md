@@ -233,7 +233,7 @@ Aqui está o **Guia Oficial de Melhores Práticas para Criação de Quizzes**, i
   "descriptions": {
     "resultado1": {
       "title": "Nome + Símbolo",
-      "subtitle": "Posição na Sequência", // Ex: "O Terceiro Elemento"
+      "subtitle": "titulo chamativo resumido"
       "emoji": "🔮", // Emoji temático
       "text": "Descrição personalizada"
     }
