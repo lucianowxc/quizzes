@@ -504,6 +504,11 @@
       "name": "Qual Barulho Você Seria?",
       "file": "quizzes/quizBarulhos.json",
       "description": "Descubra qual som caótico e maravilhoso do universo melhor representa sua essência auditiva!"
+    },
+    {
+      "name": "Qual fila você é?",
+      "file": "quizzes/quizFila.json",
+      "description": "Descubra qual trocadilho de 'fila' combina com sua personalidade em situações de espera!"
     }
 
 
