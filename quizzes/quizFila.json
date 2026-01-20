@@ -1,0 +1,266 @@
+{
+  "title": "Qual fila você é?",
+  "subtitle": "Descubra qual trocadilho de 'fila' combina com sua personalidade nas situações de espera da vida",
+  "questions": [
+    {
+      "question": "Num sábado de manhã, sua missão é comprar pão fresco. Como você encara a padaria?",
+      "answers": [
+        {
+          "text": "⏰ Chego antes do sol nascer para ser o primeiro da fila",
+          "points": { "filarmonica": 0.9 }
+        },
+        {
+          "text": "🔥 Fico fervendo de ansiedade até ser atendido",
+          "points": { "filacachorro": 0.9 }
+        },
+        {
+          "text": "📰 Levo jornal para ler e aceito que vai demorar",
+          "points": { "filabanco": 0.9 }
+        },
+        {
+          "text": "🍞 Só vou se tiver degustação grátis de queijo",
+          "points": { "filaganhar": 0.9 }
+        }
+      ]
+    },
+    {
+      "question": "Em uma fila enorme do SUS, qual é sua atitude?",
+      "answers": [
+        {
+          "text": "👵 Ofereço meu lugar para idosos e gestantes",
+          "points": { "filantropo": 0.9 }
+        },
+        {
+          "text": "🌿 Medito e aceito o fluxo natural da vida",
+          "points": { "filaindiana": 0.9 }
+        },
+        {
+          "text": "⏱️ Pergunto a cada 2 minutos 'quanto falta?'",
+          "points": { "filamerenda": 0.7, "filacachorro": 0.2 }
+        },
+        {
+          "text": "🏃 Faço agachamentos para não perder o condicionamento",
+          "points": { "filatencia": 0.9 }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase você mais solta em filas?",
+      "answers": [
+        {
+          "text": "🕰️ 'Calma, sempre dá certo no final'",
+          "points": { "filabanco": 0.8, "filarmonica": 0.1 }
+        },
+        {
+          "text": "🚨 'AI! Por que tá parando?!'",
+          "points": { "filacachorro": 0.9 }
+        },
+        {
+          "text": "💰 'Tem cupom de desconto?'",
+          "points": { "filaganhar": 0.9 }
+        },
+        {
+          "text": "☯️ 'A espera é parte da jornada'",
+          "points": { "filaindiana": 0.9 }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um animal na fila do arca de Noé, qual seria?",
+      "answers": [
+        {
+          "text": "🐘 Elefante - paciente e estratégico",
+          "points": { "filarmonica": 0.8, "filabanco": 0.1 }
+        },
+        {
+          "text": "🐿️ Esquilo - ansioso e agitado",
+          "points": { "filacachorro": 0.9 }
+        },
+        {
+          "text": "🐢 Tartaruga - devagar e constante",
+          "points": { "filabanco": 0.9 }
+        },
+        {
+          "text": "🦜 Papagaio - pergunta 'já chegou?' 50 vezes",
+          "points": { "filamerenda": 0.9 }
+        }
+      ]
+    },
+    {
+      "question": "Num show lotado, como você reage?",
+      "answers": [
+        {
+          "text": "⚡ Avanço com técnica ninja de zigue-zague",
+          "points": { "filatencia": 0.9 }
+        },
+        {
+          "text": "🧦 Fico no fundo pegando camisetas jogadas",
+          "points": { "filaganhar": 0.9 }
+        },
+        {
+          "text": "🌄 Aproveito para observar a humanidade",
+          "points": { "filaindiana": 0.9 }
+        },
+        {
+          "text": "😭 Choro quando não vejo nada do palco",
+          "points": { "filamerenda": 0.8, "filacachorro": 0.1 }
+        }
+      ]
+    },
+    {
+      "question": "Qual seu superpoder em filas?",
+      "answers": [
+        {
+          "text": "🤲 Convencer outros a desistirem e irem embora",
+          "points": { "filantropo": 0.9 }
+        },
+        {
+          "text": "😴 Adormecer em pé e acordar no momento certo",
+          "points": { "filabanco": 0.9 }
+        },
+        {
+          "text": "🕵️ Farejar atalhos secretos que ninguém viu",
+          "points": { "filacachorro": 0.9 }
+        },
+        {
+          "text": "🎯 Cronometrar o tempo exato até sua vez",
+          "points": { "filarmonica": 0.9 }
+        }
+      ]
+    },
+    {
+      "question": "No trânsito engarrafado, você…",
+      "answers": [
+        {
+          "text": "🎧 Ouve podcast de filosofia estoica",
+          "points": { "filaindiana": 0.9 }
+        },
+        {
+          "text": "📸 Tira fotos para postar no Strava depois",
+          "points": { "filatencia": 0.9 }
+        },
+        {
+          "text": "🥤 Procura camelôs vendendo água e salgadinhos",
+          "points": { "filaganhar": 0.7, "filamerenda": 0.2 }
+        },
+        {
+          "text": "📯 Buzina por esporte, só para fazer barulho",
+          "points": { "filamerenda": 0.9 }
+        }
+      ]
+    },
+    {
+      "question": "Seu dia ideal tem…",
+      "answers": [
+        {
+          "text": "📅 Horários milimétricos e agenda sincronizada",
+          "points": { "filarmonica": 0.9 }
+        },
+        {
+          "text": "🎭 Surpresas, agitação e imprevistos emocionantes",
+          "points": { "filacachorro": 0.9 }
+        },
+        {
+          "text": "📋 Rotina previsível e nada de sustos",
+          "points": { "filabanco": 0.9 }
+        },
+        {
+          "text": "🆓 Coisas gratuitas em todas as esquinas",
+          "points": { "filaganhar": 0.9 }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas filas você enfrentaria por amor?",
+      "answers": [
+        {
+          "text": "❤️ Doação de sangue por 3 horas",
+          "points": { "filantropo": 0.9 }
+        },
+        {
+          "text": "📱 Lançamento do iPhone por 12 horas",
+          "points": { "filaganhar": 0.9 }
+        },
+        {
+          "text": "✍️ Autógrafo do Papa por 6 horas",
+          "points": { "filamerenda": 0.7, "filantropo": 0.2 }
+        },
+        {
+          "text": "🧭 Retiro espiritual silencioso de 8 horas",
+          "points": { "filaindiana": 0.9 }
+        }
+      ]
+    },
+    {
+      "question": "Qual o pior pesadelo relacionado a filas?",
+      "answers": [
+        {
+          "text": "💻 Sistema offline eternamente, sem previsão",
+          "points": { "filabanco": 0.9 }
+        },
+        {
+          "text": "😤 Alguém furar descaradamente na sua frente",
+          "points": { "filacachorro": 0.8, "filamerenda": 0.1 }
+        },
+        {
+          "text": "🎶 Um violino desafinado tocando sem parar",
+          "points": { "filarmonica": 0.9 }
+        },
+        {
+          "text": "📵 Ter que fazer fila sem celular ou distração",
+          "points": { "filamerenda": 0.7, "filaganhar": 0.2 }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "filarmonica": {
+      "title": "Filarmônica",
+      "emoji": "🎻",
+      "subtitle": "Harmonioso, refinado e cheio de ritmo",
+      "text": "Você é a Filarmônica! Tudo na sua vida tem timing, elegância e uma certa dramaticidade musical. Você sabe esperar com classe, organiza processos com maestria e transforma qualquer caos numa sinfonia bem-orquestrada. Só cuidado para não afinar demais as expectativas."
+    },
+    "filantropo": {
+      "title": "Filantropo",
+      "emoji": "💝",
+      "subtitle": "Generoso, solidário e sempre ajudando os outros",
+      "text": "Você é o Filantropo! Sua fila é aquela que segura a porta, deixa os outros passarem na frente e ainda distribui água para quem está esperando. Você acredita que gentileza gera gentileza, mesmo que isso signifique ficar por último. O mundo precisa de mais como você."
+    },
+    "filatencia": {
+      "title": "Fila Tênis",
+      "emoji": "👟",
+      "subtitle": "Ágil, esportivo e sempre correndo atrás",
+      "text": "Você é a Fila Tênis! Não perde tempo parado. Se tem que esperar, já faz alongamento, planeja a semana ou corre mentalmente. Adora a sensação de 'próximo da vez' e está sempre preparado para arrancar. Só não pisa nos calcanhares dos outros."
+    },
+    "filacachorro": {
+      "title": "Fila Cachorro",
+      "emoji": "🐕",
+      "subtitle": "Leal, animado e um pouco desastrado",
+      "text": "Você é a Fila Cachorro! Fica super animado quando a fila começa a andar, late de felicidade quando chega sua vez, mas às vezes se distrai com qualquer coisa e perde o lugar. Todo mundo te acha fofo, mesmo quando você derruba tudo no chão."
+    },
+    "filaganhar": {
+      "title": "Fila de Ganhar Coisa Grátis",
+      "emoji": "🎁",
+      "subtitle": "Opportunista, econômico e com radar para freebies",
+      "text": "Você é a Fila de Ganhar Coisa Grátis! Sente um formigamento especial quando vê uma fila prometendo algo sem custo. Já esperou horas por amostra, brinde ou degustação. Seu lema: 'Se é de graça, eu tô dentro!' Só não vira acumulador, hein?"
+    },
+    "filaindiana": {
+      "title": "Fila Indiana",
+      "emoji": "🧘",
+      "subtitle": "Paciente, espiritualizado e cheio de sabedoria",
+      "text": "Você é a Fila Indiana! Para você, esperar é meditação. A fila é um estado de espírito, uma jornada interior. Enquanto os outros reclamam, você respira fundo e observa a beleza do momento presente. Sua calma é contagiosa — quase irritantemente zen."
+    },
+    "filabanco": {
+      "title": "Fila de Banco",
+      "emoji": "🏦",
+      "subtitle": "Paciente, tradicional e meio burocrático",
+      "text": "Você é a Fila de Banco! Sabe que tudo tem seu tempo e sua papelada. Não adianta correr, o sistema vai cair de qualquer jeito. Você leva lanchinho, carrega documentos em triplicata e já conhece os seguranças pelo nome. A paciência é sua maior virtude."
+    },
+    "filamerenda": {
+      "title": "Fila da Merenda",
+      "emoji": "🍎",
+      "subtitle": "Ansioso, barulhento e com fome de vencer",
+      "text": "Você é a Fila da Merenda! 'Eu quero mais! Cadê o doce? Tá demorando!'. Sua energia é de recreio, sua voz ecoa e sua prioridade é chegar antes que acabe o melhor. Lembra a todos que, no fundo, somos apenas crianças disputando o último salgado."
+    }
+  }
+}
