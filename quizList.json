@@ -509,6 +509,11 @@
       "name": "Qual fila você é?",
       "file": "quizzes/quizFila.json",
       "description": "Descubra qual trocadilho de 'fila' combina com sua personalidade em situações de espera!"
+    },
+    {
+      "name": "Qual Cereal Matinal Você Seria?",
+      "file": "quizzes/quizCerealMatinal.json",
+      "description": "Descubra qual cereal combina com sua personalidade no trabalho - de clássicos energéticos a opções saudáveis!"
     }
 
 
