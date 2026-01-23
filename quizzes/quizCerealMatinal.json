@@ -7,19 +7,59 @@
       "answers": [
         {
           "text": "🏃‍♂️ Acordo 5h, malho, medito e chego 1h adiantado",
-          "points": {"nesfit": 0.9, "jasmine": 0.6}
+          "points": {
+            "nesfit": 0.0762,
+            "jasmine": 0.0997,
+            "sucrilhos": 0.0089,
+            "froot_loops": 0.0072,
+            "corn_flakes": 0.0062,
+            "nescau": 0.01,
+            "mae_terra": 0.0078,
+            "moca": 0.0096,
+            "serial_pooper": 0.0129
+          }
         },
         {
           "text": "☕ Tomo café na cama e vou trabalhar de pijama (remoto, né?)",
-          "points": {"jasmine": 0.8, "corn_flakes": 0.5, "serial_pooper": 0.05}
+          "points": {
+            "jasmine": 0.0563,
+            "corn_flakes": 0.1087,
+            "serial_pooper": 0.0572,
+            "sucrilhos": 0.0075,
+            "froot_loops": 0.006,
+            "nescau": 0.0083,
+            "nesfit": 0.0044,
+            "mae_terra": 0.0065,
+            "moca": 0.008
+          }
         },
         {
           "text": "🚨 Acordo atrasado, pulo o café e chego com cara de sono",
-          "points": {"sucrilhos": 0.7, "serial_pooper": 0.08}
+          "points": {
+            "sucrilhos": 0.0999,
+            "serial_pooper": 0.0587,
+            "froot_loops": 0.0047,
+            "corn_flakes": 0.0041,
+            "nescau": 0.0065,
+            "nesfit": 0.0036,
+            "mae_terra": 0.0052,
+            "jasmine": 0.003,
+            "moca": 0.0066
+          }
         },
         {
           "text": "🎉 Começo já planejando o happy hour de sexta",
-          "points": {"froot_loops": 0.8, "moca": 0.4}
+          "points": {
+            "froot_loops": 0.0918,
+            "moca": 0.1405,
+            "sucrilhos": 0.0061,
+            "corn_flakes": 0.0042,
+            "nescau": 0.0068,
+            "nesfit": 0.0038,
+            "mae_terra": 0.0055,
+            "jasmine": 0.0032,
+            "serial_pooper": 0.0092
+          }
         }
       ]
     },
@@ -28,19 +68,59 @@
       "answers": [
         {
           "text": "📈 'Como isso impacta nosso ROI no próximo trimestre?'",
-          "points": {"corn_flakes": 0.9, "nesfit": 0.5, "serial_pooper": 0.03}
+          "points": {
+            "corn_flakes": 0.0884,
+            "nesfit": 0.0965,
+            "serial_pooper": 0.0404,
+            "sucrilhos": 0.0077,
+            "froot_loops": 0.0061,
+            "nescau": 0.0085,
+            "mae_terra": 0.0067,
+            "jasmine": 0.0038,
+            "moca": 0.0083
+          }
         },
         {
           "text": "🌈 'Podíamos fazer um tema colorido no próximo evento!'",
-          "points": {"froot_loops": 0.9, "moca": 0.6}
+          "points": {
+            "froot_loops": 0.1031,
+            "moca": 0.1885,
+            "sucrilhos": 0.0063,
+            "corn_flakes": 0.0043,
+            "nescau": 0.007,
+            "nesfit": 0.0038,
+            "mae_terra": 0.0055,
+            "jasmine": 0.0032,
+            "serial_pooper": 0.0093
+          }
         },
         {
           "text": "🌱 'Essa decisão é sustentável a longo prazo?'",
-          "points": {"mae_terra": 0.9, "jasmine": 0.7}
+          "points": {
+            "mae_terra": 0.109,
+            "jasmine": 0.1022,
+            "sucrilhos": 0.0083,
+            "froot_loops": 0.0069,
+            "corn_flakes": 0.0058,
+            "nescau": 0.0094,
+            "nesfit": 0.0052,
+            "moca": 0.0091,
+            "serial_pooper": 0.0122
+          }
         },
         {
           "text": "⏰ 'Mal posso esperar para essa reunião acabar'",
-          "points": {"corn_flakes": 0.4, "serial_pooper": 0.06}
+          "points": {
+            "corn_flakes": 0.0398,
+            "serial_pooper": 0.0418,
+            "sucrilhos": 0.006,
+            "froot_loops": 0.0047,
+            "nescau": 0.0065,
+            "nesfit": 0.0036,
+            "mae_terra": 0.0053,
+            "jasmine": 0.0031,
+            "moca": 0.0068
+          }
         }
       ]
     },
@@ -49,19 +129,59 @@
       "answers": [
         {
           "text": "⚡ Tomo três cafés e resolvo tudo em 10 minutos",
-          "points": {"sucrilhos": 0.9, "nescau": 0.5, "serial_pooper": 0.04}
+          "points": {
+            "sucrilhos": 0.1281,
+            "nescau": 0.1638,
+            "serial_pooper": 0.0375,
+            "froot_loops": 0.0047,
+            "corn_flakes": 0.0041,
+            "nesfit": 0.0035,
+            "mae_terra": 0.005,
+            "jasmine": 0.003,
+            "moca": 0.0063
+          }
         },
         {
           "text": "📋 Faço uma lista de ações e delego responsabilidades",
-          "points": {"corn_flakes": 0.8, "nesfit": 0.7}
+          "points": {
+            "corn_flakes": 0.0787,
+            "nesfit": 0.1157,
+            "sucrilhos": 0.0084,
+            "froot_loops": 0.0068,
+            "nescau": 0.0094,
+            "mae_terra": 0.0072,
+            "jasmine": 0.0042,
+            "moca": 0.0091,
+            "serial_pooper": 0.0122
+          }
         },
         {
           "text": "🌿 Sugiro uma pausa para respirar fundo e recarregar",
-          "points": {"jasmine": 0.9, "mae_terra": 0.6}
+          "points": {
+            "jasmine": 0.0633,
+            "mae_terra": 0.1665,
+            "sucrilhos": 0.0075,
+            "froot_loops": 0.006,
+            "corn_flakes": 0.0052,
+            "nescau": 0.0084,
+            "nesfit": 0.0046,
+            "moca": 0.0081,
+            "serial_pooper": 0.011
+          }
         },
         {
           "text": "🤷 Vou comer algo e penso melhor com o estômago cheio",
-          "points": {"froot_loops": 0.6, "serial_pooper": 0.07}
+          "points": {
+            "froot_loops": 0.0692,
+            "serial_pooper": 0.0536,
+            "sucrilhos": 0.0062,
+            "corn_flakes": 0.0043,
+            "nescau": 0.0069,
+            "nesfit": 0.0038,
+            "mae_terra": 0.0055,
+            "jasmine": 0.0033,
+            "moca": 0.0068
+          }
         }
       ]
     },
@@ -70,19 +190,59 @@
       "answers": [
         {
           "text": "🚀 Entro em modo turbo e entrego em 45 minutos (com gráficos!)",
-          "points": {"sucrilhos": 0.9, "nescau": 0.5}
+          "points": {
+            "sucrilhos": 0.1281,
+            "nescau": 0.1689,
+            "froot_loops": 0.0048,
+            "corn_flakes": 0.0041,
+            "nesfit": 0.0036,
+            "mae_terra": 0.0052,
+            "jasmine": 0.003,
+            "moca": 0.0065,
+            "serial_pooper": 0.0086
+          }
         },
         {
           "text": "📊 Digo que preciso de 2h para fazer direito (e faço em 3)",
-          "points": {"corn_flakes": 0.8, "nesfit": 0.6, "serial_pooper": 0.05}
+          "points": {
+            "corn_flakes": 0.0787,
+            "nesfit": 0.1006,
+            "serial_pooper": 0.0577,
+            "sucrilhos": 0.0076,
+            "froot_loops": 0.0061,
+            "nescau": 0.0083,
+            "mae_terra": 0.0065,
+            "jasmine": 0.0038,
+            "moca": 0.0081
+          }
         },
         {
           "text": "🍃 Pergunto se podemos revisitar os prazos para qualidade",
-          "points": {"mae_terra": 0.9, "jasmine": 0.7}
+          "points": {
+            "mae_terra": 0.109,
+            "jasmine": 0.1022,
+            "sucrilhos": 0.0083,
+            "froot_loops": 0.0069,
+            "corn_flakes": 0.0058,
+            "nescau": 0.0094,
+            "nesfit": 0.0052,
+            "moca": 0.0091,
+            "serial_pooper": 0.0122
+          }
         },
         {
           "text": "😅 Aceito, mas já sinto o estômago embrulhar",
-          "points": {"moca": 0.5, "serial_pooper": 0.09}
+          "points": {
+            "moca": 0.0748,
+            "serial_pooper": 0.0545,
+            "sucrilhos": 0.0054,
+            "froot_loops": 0.0044,
+            "corn_flakes": 0.0037,
+            "nescau": 0.0061,
+            "nesfit": 0.0034,
+            "mae_terra": 0.0049,
+            "jasmine": 0.0029
+          }
         }
       ]
     },
@@ -91,19 +251,59 @@
       "answers": [
         {
           "text": "🪴 Uma plantinha e canecas de cerâmica artesanal",
-          "points": {"mae_terra": 0.9, "jasmine": 0.8}
+          "points": {
+            "mae_terra": 0.109,
+            "jasmine": 0.1109,
+            "sucrilhos": 0.0086,
+            "froot_loops": 0.007,
+            "corn_flakes": 0.006,
+            "nescau": 0.0097,
+            "nesfit": 0.0052,
+            "moca": 0.0093,
+            "serial_pooper": 0.0125
+          }
         },
         {
           "text": "🌈 Post-its coloridos e um spinner (para 'pensar melhor')",
-          "points": {"froot_loops": 0.9, "nescau": 0.6}
+          "points": {
+            "froot_loops": 0.1031,
+            "nescau": 0.1957,
+            "sucrilhos": 0.0062,
+            "corn_flakes": 0.0044,
+            "nesfit": 0.0037,
+            "mae_terra": 0.0055,
+            "jasmine": 0.0032,
+            "moca": 0.0068,
+            "serial_pooper": 0.0091
+          }
         },
         {
           "text": "📚 Manuais da empresa e uma calculadora HP12C",
-          "points": {"corn_flakes": 0.9, "nesfit": 0.5}
+          "points": {
+            "corn_flakes": 0.0884,
+            "nesfit": 0.1001,
+            "sucrilhos": 0.008,
+            "froot_loops": 0.0065,
+            "nescau": 0.009,
+            "mae_terra": 0.007,
+            "jasmine": 0.0042,
+            "moca": 0.0088,
+            "serial_pooper": 0.0118
+          }
         },
         {
           "text": "💊 Um kit básico de remédios (dores de cabeça acontecem)",
-          "points": {"moca": 0.4, "serial_pooper": 0.08}
+          "points": {
+            "moca": 0.0601,
+            "serial_pooper": 0.0461,
+            "sucrilhos": 0.0052,
+            "froot_loops": 0.0042,
+            "corn_flakes": 0.0037,
+            "nescau": 0.006,
+            "nesfit": 0.0033,
+            "mae_terra": 0.0049,
+            "jasmine": 0.0028
+          }
         }
       ]
     },
@@ -112,19 +312,59 @@
       "answers": [
         {
           "text": "🍻 Vou para o bar com a equipe (open bar, é claro)",
-          "points": {"sucrilhos": 0.8, "froot_loops": 0.7, "serial_pooper": 0.06}
+          "points": {
+            "sucrilhos": 0.114,
+            "froot_loops": 0.1426,
+            "serial_pooper": 0.0574,
+            "corn_flakes": 0.0044,
+            "nescau": 0.0071,
+            "nesfit": 0.0038,
+            "mae_terra": 0.0056,
+            "jasmine": 0.0033,
+            "moca": 0.0069
+          }
         },
         {
           "text": "🏡 Vou direto para casa, tomo um chá e vou dormir cedo",
-          "points": {"jasmine": 0.9, "nesfit": 0.6}
+          "points": {
+            "jasmine": 0.0633,
+            "nesfit": 0.1175,
+            "sucrilhos": 0.0089,
+            "froot_loops": 0.0071,
+            "corn_flakes": 0.0061,
+            "nescau": 0.0099,
+            "mae_terra": 0.0077,
+            "moca": 0.0094,
+            "serial_pooper": 0.0127
+          }
         },
         {
           "text": "👨‍👩‍👧 Levo presentes para a família (que não me viu há semanas)",
-          "points": {"moca": 0.9, "corn_flakes": 0.5}
+          "points": {
+            "moca": 0.1335,
+            "corn_flakes": 0.1159,
+            "sucrilhos": 0.0066,
+            "froot_loops": 0.0053,
+            "nescau": 0.0074,
+            "nesfit": 0.004,
+            "mae_terra": 0.0059,
+            "jasmine": 0.0034,
+            "serial_pooper": 0.0098
+          }
         },
         {
           "text": "🛋️ Desligo totalmente e fico no modo vegetativo o fim de semana",
-          "points": {"corn_flakes": 0.3, "serial_pooper": 0.07}
+          "points": {
+            "corn_flakes": 0.0301,
+            "serial_pooper": 0.0402,
+            "sucrilhos": 0.0055,
+            "froot_loops": 0.0044,
+            "nescau": 0.0062,
+            "nesfit": 0.0034,
+            "mae_terra": 0.0049,
+            "jasmine": 0.003,
+            "moca": 0.0065
+          }
         }
       ]
     },
@@ -133,19 +373,59 @@
       "answers": [
         {
           "text": "⏰ Entrego sempre antes, com qualidade impecável",
-          "points": {"corn_flakes": 0.9, "nesfit": 0.8}
+          "points": {
+            "corn_flakes": 0.0884,
+            "nesfit": 0.132,
+            "sucrilhos": 0.0086,
+            "froot_loops": 0.007,
+            "nescau": 0.0096,
+            "mae_terra": 0.0073,
+            "jasmine": 0.0043,
+            "moca": 0.0093,
+            "serial_pooper": 0.0124
+          }
         },
         {
           "text": "🎨 Prefiro qualidade a pontualidade (às vezes ambas sofrem)",
-          "points": {"froot_loops": 0.8, "mae_terra": 0.6}
+          "points": {
+            "froot_loops": 0.0918,
+            "mae_terra": 0.1478,
+            "sucrilhos": 0.0068,
+            "corn_flakes": 0.0047,
+            "nescau": 0.0076,
+            "nesfit": 0.0042,
+            "jasmine": 0.0035,
+            "moca": 0.0075,
+            "serial_pooper": 0.0101
+          }
         },
         {
           "text": "⚡ Faço milagres em cima da hora (adrenalina é meu combustível)",
-          "points": {"sucrilhos": 0.9, "nescau": 0.5, "serial_pooper": 0.04}
+          "points": {
+            "sucrilhos": 0.1281,
+            "nescau": 0.1638,
+            "serial_pooper": 0.0375,
+            "froot_loops": 0.0047,
+            "corn_flakes": 0.0041,
+            "nesfit": 0.0035,
+            "mae_terra": 0.005,
+            "jasmine": 0.003,
+            "moca": 0.0063
+          }
         },
         {
           "text": "🔄 Me adapto conforme as circunstâncias (e meu humor)",
-          "points": {"jasmine": 0.3, "serial_pooper": 0.09}
+          "points": {
+            "jasmine": 0.0216,
+            "serial_pooper": 0.0491,
+            "sucrilhos": 0.0058,
+            "froot_loops": 0.0047,
+            "corn_flakes": 0.0041,
+            "nescau": 0.0065,
+            "nesfit": 0.0036,
+            "mae_terra": 0.0053,
+            "moca": 0.0065
+          }
         }
       ]
     },
@@ -154,19 +434,59 @@
       "answers": [
         {
           "text": "🏋️‍♂️ Corrida, yoga, aula de culinária saudável e planejamento da semana",
-          "points": {"nesfit": 0.9, "jasmine": 0.7}
+          "points": {
+            "nesfit": 0.0762,
+            "jasmine": 0.109,
+            "sucrilhos": 0.0092,
+            "froot_loops": 0.0073,
+            "corn_flakes": 0.0063,
+            "nescau": 0.0102,
+            "mae_terra": 0.0079,
+            "moca": 0.0098,
+            "serial_pooper": 0.0131
+          }
         },
         {
           "text": "🎉 Festa, mais festa, recuperação no sábado e brunch no domingo",
-          "points": {"sucrilhos": 0.8, "froot_loops": 0.8, "serial_pooper": 0.05}
+          "points": {
+            "sucrilhos": 0.114,
+            "froot_loops": 0.157,
+            "serial_pooper": 0.0514,
+            "corn_flakes": 0.0045,
+            "nescau": 0.0073,
+            "nesfit": 0.004,
+            "mae_terra": 0.0057,
+            "jasmine": 0.0034,
+            "moca": 0.0072
+          }
         },
         {
           "text": "🌳 Acampar, desconectar, fazer trilha e meditar ao nascer do sol",
-          "points": {"mae_terra": 0.9, "jasmine": 0.8}
+          "points": {
+            "mae_terra": 0.109,
+            "jasmine": 0.1109,
+            "sucrilhos": 0.0086,
+            "froot_loops": 0.007,
+            "corn_flakes": 0.006,
+            "nescau": 0.0097,
+            "nesfit": 0.0052,
+            "moca": 0.0093,
+            "serial_pooper": 0.0125
+          }
         },
         {
           "text": "🍕 Pedir delivery e maratonar séries até segunda-feira",
-          "points": {"moca": 0.7, "corn_flakes": 0.4, "serial_pooper": 0.06}
+          "points": {
+            "moca": 0.1041,
+            "corn_flakes": 0.0825,
+            "serial_pooper": 0.0531,
+            "sucrilhos": 0.0061,
+            "froot_loops": 0.005,
+            "nescau": 0.0068,
+            "nesfit": 0.0038,
+            "mae_terra": 0.0054,
+            "jasmine": 0.0032
+          }
         }
       ]
     }
