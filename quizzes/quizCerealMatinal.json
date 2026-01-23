@@ -1,0 +1,230 @@
+{
+  "title": "Qual Cereal Matinal Você Seria?",
+  "subtitle": "Descubra qual cereal combina com sua personalidade no trabalho!",
+  "questions": [
+    {
+      "question": "Como é sua manhã ideal de segunda-feira?",
+      "answers": [
+        {
+          "text": "🏃‍♂️ Acordo 5h, malho, medito e chego 1h adiantado",
+          "points": {"nesfit": 0.9, "jasmine": 0.6}
+        },
+        {
+          "text": "☕ Tomo café na cama e vou trabalhar de pijama (remoto, né?)",
+          "points": {"jasmine": 0.8, "corn_flakes": 0.5, "serial_pooper": 0.05}
+        },
+        {
+          "text": "🚨 Acordo atrasado, pulo o café e chego com cara de sono",
+          "points": {"sucrilhos": 0.7, "serial_pooper": 0.08}
+        },
+        {
+          "text": "🎉 Começo já planejando o happy hour de sexta",
+          "points": {"froot_loops": 0.8, "moca": 0.4}
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas frases você já pensou durante uma reunião?",
+      "answers": [
+        {
+          "text": "📈 'Como isso impacta nosso ROI no próximo trimestre?'",
+          "points": {"corn_flakes": 0.9, "nesfit": 0.5, "serial_pooper": 0.03}
+        },
+        {
+          "text": "🌈 'Podíamos fazer um tema colorido no próximo evento!'",
+          "points": {"froot_loops": 0.9, "moca": 0.6}
+        },
+        {
+          "text": "🌱 'Essa decisão é sustentável a longo prazo?'",
+          "points": {"mae_terra": 0.9, "jasmine": 0.7}
+        },
+        {
+          "text": "⏰ 'Mal posso esperar para essa reunião acabar'",
+          "points": {"corn_flakes": 0.4, "serial_pooper": 0.06}
+        }
+      ]
+    },
+    {
+      "question": "Como você reage a uma crise no trabalho?",
+      "answers": [
+        {
+          "text": "⚡ Tomo três cafés e resolvo tudo em 10 minutos",
+          "points": {"sucrilhos": 0.9, "nescau": 0.5, "serial_pooper": 0.04}
+        },
+        {
+          "text": "📋 Faço uma lista de ações e delego responsabilidades",
+          "points": {"corn_flakes": 0.8, "nesfit": 0.7}
+        },
+        {
+          "text": "🌿 Sugiro uma pausa para respirar fundo e recarregar",
+          "points": {"jasmine": 0.9, "mae_terra": 0.6}
+        },
+        {
+          "text": "🤷 Vou comer algo e penso melhor com o estômago cheio",
+          "points": {"froot_loops": 0.6, "serial_pooper": 0.07}
+        }
+      ]
+    },
+    {
+      "question": "Seu chefe pede um relatório em 1 hora. Você:",
+      "answers": [
+        {
+          "text": "🚀 Entro em modo turbo e entrego em 45 minutos (com gráficos!)",
+          "points": {"sucrilhos": 0.9, "nescau": 0.5}
+        },
+        {
+          "text": "📊 Digo que preciso de 2h para fazer direito (e faço em 3)",
+          "points": {"corn_flakes": 0.8, "nesfit": 0.6, "serial_pooper": 0.05}
+        },
+        {
+          "text": "🍃 Pergunto se podemos revisitar os prazos para qualidade",
+          "points": {"mae_terra": 0.9, "jasmine": 0.7}
+        },
+        {
+          "text": "😅 Aceito, mas já sinto o estômago embrulhar",
+          "points": {"moca": 0.5, "serial_pooper": 0.09}
+        }
+      ]
+    },
+    {
+      "question": "Qual desses itens tem na sua mesa de trabalho?",
+      "answers": [
+        {
+          "text": "🪴 Uma plantinha e canecas de cerâmica artesanal",
+          "points": {"mae_terra": 0.9, "jasmine": 0.8}
+        },
+        {
+          "text": "🌈 Post-its coloridos e um spinner (para 'pensar melhor')",
+          "points": {"froot_loops": 0.9, "nescau": 0.6}
+        },
+        {
+          "text": "📚 Manuais da empresa e uma calculadora HP12C",
+          "points": {"corn_flakes": 0.9, "nesfit": 0.5}
+        },
+        {
+          "text": "💊 Um kit básico de remédios (dores de cabeça acontecem)",
+          "points": {"moca": 0.4, "serial_pooper": 0.08}
+        }
+      ]
+    },
+    {
+      "question": "Como você comemora o fim de um projeto difícil?",
+      "answers": [
+        {
+          "text": "🍻 Vou para o bar com a equipe (open bar, é claro)",
+          "points": {"sucrilhos": 0.8, "froot_loops": 0.7, "serial_pooper": 0.06}
+        },
+        {
+          "text": "🏡 Vou direto para casa, tomo um chá e vou dormir cedo",
+          "points": {"jasmine": 0.9, "nesfit": 0.6}
+        },
+        {
+          "text": "👨‍👩‍👧 Levo presentes para a família (que não me viu há semanas)",
+          "points": {"moca": 0.9, "corn_flakes": 0.5}
+        },
+        {
+          "text": "🛋️ Desligo totalmente e fico no modo vegetativo o fim de semana",
+          "points": {"corn_flakes": 0.3, "serial_pooper": 0.07}
+        }
+      ]
+    },
+    {
+      "question": "Qual é sua relação com prazos?",
+      "answers": [
+        {
+          "text": "⏰ Entrego sempre antes, com qualidade impecável",
+          "points": {"corn_flakes": 0.9, "nesfit": 0.8}
+        },
+        {
+          "text": "🎨 Prefiro qualidade a pontualidade (às vezes ambas sofrem)",
+          "points": {"froot_loops": 0.8, "mae_terra": 0.6}
+        },
+        {
+          "text": "⚡ Faço milagres em cima da hora (adrenalina é meu combustível)",
+          "points": {"sucrilhos": 0.9, "nescau": 0.5, "serial_pooper": 0.04}
+        },
+        {
+          "text": "🔄 Me adapto conforme as circunstâncias (e meu humor)",
+          "points": {"jasmine": 0.3, "serial_pooper": 0.09}
+        }
+      ]
+    },
+    {
+      "question": "Finalmente sexta-feira! Seu plano para o fim de semana:",
+      "answers": [
+        {
+          "text": "🏋️‍♂️ Corrida, yoga, aula de culinária saudável e planejamento da semana",
+          "points": {"nesfit": 0.9, "jasmine": 0.7}
+        },
+        {
+          "text": "🎉 Festa, mais festa, recuperação no sábado e brunch no domingo",
+          "points": {"sucrilhos": 0.8, "froot_loops": 0.8, "serial_pooper": 0.05}
+        },
+        {
+          "text": "🌳 Acampar, desconectar, fazer trilha e meditar ao nascer do sol",
+          "points": {"mae_terra": 0.9, "jasmine": 0.8}
+        },
+        {
+          "text": "🍕 Pedir delivery e maratonar séries até segunda-feira",
+          "points": {"moca": 0.7, "corn_flakes": 0.4, "serial_pooper": 0.06}
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "sucrilhos": {
+      "title": "Sucrilhos Kellogg's 🍫",
+      "emoji": "⚡",
+      "subtitle": "O clássico energético e açucarado",
+      "text": "Você é pura energia desde o amanhecer! Chega no trabalho como um furacão de otimismo e cafeína. Seu segredo? Açúcar e mais açúcar. Você ilumina a reunião das 8h com ideias brilhantes (que podem ou não fazer sentido após o almoço). Cuidado com a queda de energia das 15h - é quando o efeito do seu 'combustível' acaba."
+    },
+    "froot_loops": {
+      "title": "Froot Loops 🎪",
+      "emoji": "🌈",
+      "subtitle": "Colorido, divertido e imprevisível",
+      "text": "Você traz cor ao cinza do escritório! Sua mesa parece um arco-íris de post-its, seu humor varia mais que as cores da caixa e você é expert em transformar tarefas chatas em brincadeiras. As pessoas não sabem se você é genial ou só desatento, mas todos concordam: o dia fica mais feliz com você por perto. Até a reunião de orçamento."
+    },
+    "corn_flakes": {
+      "title": "Corn Flakes 🌾",
+      "emoji": "📊",
+      "subtitle": "Tradicional, confiável e sem firula",
+      "text": "Você é a coluna vertebral do escritório. Chega no horário, faz o que precisa ser feito e vai embora quando acabou. Sem surpresas, sem drama, sem cores artificiais. Seus relatórios são impecáveis, sua xícara de café sempre na mesma posição. Você é tão previsível que até o chefe confia cegamente - e isso é tanto elogio quanto preocupante."
+    },
+    "nescau": {
+      "title": "Nescau Cereal 🍫🥛",
+      "emoji": "✨",
+      "subtitle": "O queridinho nostálgico",
+      "text": "Você tem um jeito infantil que conquista todos! Lembra a época em que trabalhar era divertido? Você tenta manter essa chama acesa. Traz bolo no aniversário, decora a mesa com miniaturas e acredita que um 'bom trabalho, time!' resolve tudo. Cuidado: sua doçura pode ser confundida com falta de seriedade (especialmente na hora das promoções)."
+    },
+    "nesfit": {
+      "title": "Nesfit Sem Açúcar 🥗",
+      "emoji": "🧘",
+      "subtitle": "O saudável que julga os outros",
+      "text": "Você traz sua própria marmita de quinoa, bebe 3 litros de água por dia e faz alongamentos na sala de reuniões. Seu LinkedIn é cheio de posts sobre 'mindfulness corporativo' e 'produtividade consciente'. Você é admirável... e um pouco insuportável. Todos concordam que seu estilo de vida é saudável, mas ninguém aguenta ouvir sobre seus macros nutricionais na hora do almoço."
+    },
+    "mae_terra": {
+      "title": "Granola Mãe Terra 🌿",
+      "emoji": "🌍",
+      "subtitle": "Natural, autêntico e sustentável",
+      "text": "Você usa camisa de algodão orgânico, recusa copos plásticos e planta uma árvore por cada relatório impresso. Seu computador tem adesivo 'Save the Bees' e você organiza mutirões de reciclagem. As pessoas te amam ou te odeiam - não há meio termo. Mas todos respeitam sua coerência (mesmo quando você segura a reunião para explicar a pegada de carbono do novo projeto)."
+    },
+    "jasmine": {
+      "title": "Cereal Jasmine Orgânico 🌼",
+      "emoji": "☮️",
+      "subtitle": "Puro, integral e zen",
+      "text": "Você encontrou o equilíbrio entre produtividade e paz interior. Trabalha remotamente de uma casa no interior, medita durante o horário comercial e entrega tudo no prazo com uma calma que irrita os colegas estressados. Seu segredo? Ignorar 80% dos e-mails e focar no que realmente importa. Você é o funcionário que todo chefe diz que quer, mas não sabe lidar."
+    },
+    "moca": {
+      "title": "Cereal Moça 🍮",
+      "emoji": "💝",
+      "subtitle": "Doce, cremoso e reconfortante",
+      "text": "Você é o abraço quente do escritório. Sempre tem um chocolate na gaveta para crises, escuta os problemas alheios e lembra o aniversário de todo mundo. Seu talento? Transformar ambientes tóxicos em lugares suportáveis. Mas cuidado: ser muito doce pode fazer as pessoas abusarem da sua bondade. Às vezes é preciso dizer 'não' - mesmo que seja com um sorriso."
+    },
+    "serial_pooper": {
+      "title": "Serial Pooper 💩",
+      "emoji": "🚽",
+      "subtitle": "O raro desastre gastrointestinal",
+      "text": "PARABÉNS! Você alcançou o resultado mais raro (e problemático). Seu intestino é uma caixa de surpresas - todas ruins. Você conhece cada banheiro do prédio por necessidade, não por escolha. Seu café da manhã é uma roleta-russa digestiva. Conselho: invista em probióticos, evite laticínios antes de reuniões importantes e, PELO AMOR DE DEUS, aprenda a usar a ventilação do banheiro. Seus colegas agradecem."
+    }
+  }
+}
