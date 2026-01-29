@@ -1,0 +1,378 @@
+{
+  "title": "Quem é você na tabela ASCII?",
+  "subtitle": "Descubra qual caractere obscuro melhor representa sua existência digital!",
+  "questions": [
+    {
+      "question": "Num grupo de amigos planejando viagem, você é:",
+      "answers": [
+        {
+          "text": "📋 'Vamos dividir assim: A paga hotel, B paga comida, C paga...' (organizo tudo)",
+          "points": {
+            "section_sign": 0.8,
+            "pipe": 0.2
+          }
+        },
+        {
+          "text": "💳 'Tenho crédito~ mas não sei se é real ou ilusório' (ajudo com recursos vagos)",
+          "points": {
+            "currency_sign": 0.7,
+            "tilde": 0.3
+          }
+        },
+        {
+          "text": "👁️ 'Prefiro ficar observando de cima e opinar pontualmente'",
+          "points": {
+            "circunflexo": 0.9
+          }
+        },
+        {
+          "text": "🔄 'Seguem meu exemplo: vamos fazer TUDO AO CONTRÁRIO do planejado'",
+          "points": {
+            "backslash": 0.8,
+            "broken_bar": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Quando alguém pede 'me explica sua função na empresa', você:",
+      "answers": [
+        {
+          "text": "⚖️ Descrevo com precisão jurídica, citando cláusulas e subseções",
+          "points": {
+            "section_sign": 0.9
+          }
+        },
+        {
+          "text": "🎭 'Sou tipo um... quase algo? Me confundem com outras funções'",
+          "points": {
+            "acento_grave": 0.8,
+            "broken_bar": 0.2
+          }
+        },
+        {
+          "text": "📊 'Minha função é potencializar resultados! (com métricas variáveis)'",
+          "points": {
+            "circunflexo": 0.7,
+            "tilde": 0.3
+          }
+        },
+        {
+          "text": "🚧 'Separo coisas. Literalmente. Sou a linha entre o certo e o duvidoso'",
+          "points": {
+            "pipe": 0.6,
+            "backslash": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu estilo de dar conselhos amorosos é:",
+      "answers": [
+        {
+          "text": "📜 'Recomendo seguir o protocolo emocional, capítulo 3, item 2'",
+          "points": {
+            "section_sign": 0.9
+          }
+        },
+        {
+          "text": "🌫️ 'Mais ou menos assim... tipo... você sabe, né?' (vago mas reconfortante)",
+          "points": {
+            "tilde": 0.8,
+            "currency_sign": 0.2
+          }
+        },
+        {
+          "text": "↪️ 'Faça o OPOSTO do que todo mundo diz! Inverta a lógica!'",
+          "points": {
+            "backslash": 0.7,
+            "broken_bar": 0.3
+          }
+        },
+        {
+          "text": "🦅 'Eu teria uma visão panorâmica. Veja do alto e decida'",
+          "points": {
+            "circunflexo": 0.6,
+            "pipe": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destas é sua reação genuína ao ver um código-fonte pela primeira vez?",
+      "answers": [
+        {
+          "text": "🧐 Imediatamente busco a estrutura lógica e as divisões internas",
+          "points": {
+            "section_sign": 0.9
+          }
+        },
+        {
+          "text": "🏔️ Analiso de cima pra baixo, hierarquicamente",
+          "points": {
+            "circunflexo": 0.7,
+            "pipe": 0.3
+          }
+        },
+        {
+          "text": "💔 Vejo onde as coisas estão quebradas... e me identifico",
+          "points": {
+            "broken_bar": 0.8,
+            "acento_grave": 0.2
+          }
+        },
+        {
+          "text": "🌀 Procuro atalhos e caminhos invertidos que ninguém viu",
+          "points": {
+            "backslash": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Num restaurante com menu em idioma desconhecido, você:",
+      "answers": [
+        {
+          "text": "🎲 Aponto pra item aleatório e digo 'quero esse mistério culinário'",
+          "points": {
+            "currency_sign": 0.8,
+            "tilde": 0.2
+          }
+        },
+        {
+          "text": "🤔 Peço 'aquele prato que parece familiar mas não consigo nomear'",
+          "points": {
+            "acento_grave": 0.9
+          }
+        },
+        {
+          "text": "📊 Divido o menu em 'possível carne' e 'possível vegetariano'",
+          "points": {
+            "pipe": 0.7,
+            "section_sign": 0.3
+          }
+        },
+        {
+          "text": "👑 Escolho o item mais proeminente do menu (o primeiro)",
+          "points": {
+            "circunflexo": 0.6,
+            "backslash": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com expectativas sociais?",
+      "answers": [
+        {
+          "text": "🌊 Sigo aproximadamente, com margem de erro aceitável",
+          "points": {
+            "tilde": 0.8,
+            "broken_bar": 0.2
+          }
+        },
+        {
+          "text": "🔄 Inverto: se esperam X, faço Y. É mais divertido",
+          "points": {
+            "backslash": 0.9
+          }
+        },
+        {
+          "text": "📚 Consulto meu manual interno de conduta, seção 5.3",
+          "points": {
+            "section_sign": 0.7,
+            "pipe": 0.3
+          }
+        },
+        {
+          "text": "🎭 Atendo genericamente, sem compromisso com expectativas específicas",
+          "points": {
+            "currency_sign": 0.6,
+            "acento_grave": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Quando algo dá errado na vida, sua mensagem de erro interna é:",
+      "answers": [
+        {
+          "text": "⚖️ 'Violação de protocolo emocional, artigo 7-B: retorne ao estado estável'",
+          "points": {
+            "section_sign": 0.9
+          }
+        },
+        {
+          "text": "💎 'Recurso amorfo detectado: valor não conversível em experiência prática'",
+          "points": {
+            "currency_sign": 0.8,
+            "tilde": 0.2
+          }
+        },
+        {
+          "text": "🔄 'Direção de vida ambígua: sociedade sugere A, instinto aponta para B'",
+          "points": {
+            "backslash": 0.7,
+            "broken_bar": 0.3
+          }
+        },
+        {
+          "text": "📈 'Exponenciação sem base: ambição elevada a potências indefinidas'",
+          "points": {
+            "circunflexo": 0.6,
+            "pipe": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas profissões alternativas combina com você?",
+      "answers": [
+        {
+          "text": "📜 Redator de cláusulas de contrato que ninguém lê (mas são importantes)",
+          "points": {
+            "section_sign": 0.9
+          }
+        },
+        {
+          "text": "🏦 Consultor de moedas hipotéticas para economias de ficção científica",
+          "points": {
+            "currency_sign": 0.8
+          }
+        },
+        {
+          "text": "🎭 Dublê de apóstrofo em produções teatrais de baixo orçamento",
+          "points": {
+            "acento_grave": 0.7,
+            "broken_bar": 0.3
+          }
+        },
+        {
+          "text": "🧭 Guia turístico para dimensões paralelas (a entrada é pela saída)",
+          "points": {
+            "backslash": 0.8,
+            "tilde": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você descreveria seu papel num relacionamento?",
+      "answers": [
+        {
+          "text": "📄 Sou a cláusula de resolução de conflitos, seção 2, alínea B",
+          "points": {
+            "section_sign": 0.9
+          }
+        },
+        {
+          "text": "💫 Forneço afeto genérico, válido em múltiplas economias emocionais",
+          "points": {
+            "currency_sign": 0.7,
+            "tilde": 0.3
+          }
+        },
+        {
+          "text": "🌀 Sou o atalho que leva a lugares inesperados (nem sempre bons)",
+          "points": {
+            "backslash": 0.8
+          }
+        },
+        {
+          "text": "📐 Sou a linha que divide 'nós' do 'cada um', quando necessário",
+          "points": {
+            "pipe": 0.6,
+            "broken_bar": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual será seu legado na história digital?",
+      "answers": [
+        {
+          "text": "⚖️ Serei lembrado como o organizador silencioso dos sistemas",
+          "points": {
+            "section_sign": 0.9
+          }
+        },
+        {
+          "text": "💎 Deixarei uma fortuna conceitual para herdeiros hipotéticos",
+          "points": {
+            "currency_sign": 0.8
+          }
+        },
+        {
+          "text": "📊 Elevarei ideias a novas potências, mesmo que ninguém note",
+          "points": {
+            "circunflexo": 0.7,
+            "pipe": 0.3
+          }
+        },
+        {
+          "text": "🌌 Criarei um caminho invertido que desafiará a lógica convencional",
+          "points": {
+            "backslash": 0.9
+          }
+        },
+        {
+          "text": "🌅 Serei aproximadamente lembrado, com margem de erro aceitável",
+          "points": {
+            "tilde": 0.6,
+            "broken_bar": 0.4
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "circunflexo": {
+      "title": "^ (CIRCUNFLEXO)",
+      "emoji": "^",
+      "subtitle": "O Elevador Social",
+      "text": "Você é o caractere que sempre sobe. Literalmente. Enquanto todos estão na linha de base, você tá lá em cima, observando. Não é letra, não é número, é ACIMA. As pessoas te usam pra indicar exponenciação ou controle, mas ninguém realmente te entende. Vive entre ser poder e ser apenas um acento esquecido."
+    },
+    "acento_grave": {
+      "title": "` (ACENTO GRAVE)",
+      "emoji": "`",
+      "subtitle": "O Quase Apóstrofo",
+      "text": "Todo mundo te confunde com a aspas ou com o apóstrofo. Você é o caractere da identidade crise: 'Sou útil? Sou decorativo?'. Programadores te amam, escritores te ignoram. Sua vida é um eterno 'quase'. Mas ei, pelo menos em templates JavaScript você é ESSENCIAL. Quase."
+    },
+    "pipe": {
+      "title": "| (PIPE/VERTICAL BAR)",
+      "emoji": "|",
+      "subtitle": "O Divisor Universal",
+      "text": "Você é a linha que separa: opções, processos, pipelines. Não é flexível, não é curvo, é reto e decisivo. Em sistemas UNIX você é rei; em textos comuns, você é uma pausa dramática. As pessoas ou te amam pela clareza ou te odeiam pela rigidez. Você é o 'ou' visual."
+    },
+    "broken_bar": {
+      "title": "¦ (BARRA QUEBRADA)",
+      "emoji": "¦",
+      "subtitle": "O Irmão Defeituoso do Pipe",
+      "text": "Você é o pipe que deu errado. Ou certo, dependendo da perspectiva. Existe em alguns conjuntos de caracteres, some em outros. É a metáfora perfeita para 'funcional mas com ressalvas'. As pessoas nem sabem como te digitar, mas quando precisam de uma divisão com personalidade, você está lá. Meio quebrado, meio único."
+    },
+    "section_sign": {
+      "title": "§ (SINAL DE SEÇÃO)",
+      "emoji": "§",
+      "subtitle": "O Advogado da Tabela ASCII",
+      "text": "Você vive em leis, contratos e documentos alemães. É obscuro, específico e incrivelmente nichado. Quando aparece, é sério. As pessoas te associam com burocracia e complexidade. Mas secretamente, você adoraria ser usado num meme. Só uma vez. Para saber como é."
+    },
+    "currency_sign": {
+      "title": "¤ (SINAL DE MOEDA GENÉRICA)",
+      "emoji": "¤",
+      "subtitle": "Dinheiro de Mentira",
+      "text": "Você é o dinheiro que não existe. O placeholder monetário. Representa 'qualquer moeda' ou 'moeda indefinida'. É o caractere da promessa financeira vaga. Vive em sistemas antigos, sonhando em ser um $ ou € de verdade. Sua existência é uma pergunta: 'Que moeda?'. A resposta: 'Sim'."
+    },
+    "tilde": {
+      "title": "~ (TIL)",
+      "emoji": "~",
+      "subtitle": "O Aproximado Ondulado",
+      "text": "Você não é reto, não é anguloso, é ONDULADO. Representa aproximação, diretórios home, e uma vibe de 'quase lá'. Brasileiros te amam (olá, São Paulo~), programadores te usam, matemáticos te toleram. Você é o caractere do 'mais ou menos' com estilo. Não exato, mas charmoso."
+    },
+    "backslash": {
+      "title": "\\ (BARRA INVERTIDA)",
+      "emoji": "\\",
+      "subtitle": "O Rebelde com Causa",
+      "text": "Enquanto todo mundo vai pra frente (/), você vai pra trás (\\). É o escape character, o que foge dos caminhos padrões. No Windows você é rei nos caminhos; em regex você é mágico; na vida, você é a pessoa que questiona 'por que não ao contrário?'. Dizem que você é difícil de lidar, mas na verdade você só segue outra lógica."
+    }
+  }
+}
