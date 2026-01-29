@@ -1,0 +1,344 @@
+{
+  "title": "Qual música da MC Carol melhor te define?",
+  "subtitle": "Descubra qual hit da funkeira carioca combina com sua personalidade!",
+  "questions": [
+    {
+      "question": "Você acorda com a sensação de que esqueceu algo importante. O que faz?",
+      "answers": [
+        {
+          "text": "🧠 Ignoro, meu cérebro só ativa depois do café",
+          "points": {
+            "ar_condicionado": 0.6,
+            "vampiro_madureira": 0.4
+          }
+        },
+        {
+          "text": "📲 Ligo pro primeiro contato da lista e falo 'Lembra de algo pra mim?'",
+          "points": {
+            "jorginho_12": 0.9
+          }
+        },
+        {
+          "text": "💃 Coloco o funk no último volume até a lembrança voltar",
+          "points": {
+            "descontrolada": 0.8,
+            "favela_vive": 0.3
+          }
+        },
+        {
+          "text": "🚨 Aciono o protocolo de emergência: checklist, alarmes, despertador",
+          "points": {
+            "liga_samu": 0.7,
+            "100_feminista": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seus amigos combinam um rolê no mesmo dia da final do Campeonato Carioca. Você:",
+      "answers": [
+        {
+          "text": "⚽ Levo a TV portátil pro bar e viro a atração principal",
+          "points": {
+            "vou_investir": 0.6,
+            "jorginho_12": 0.4
+          }
+        },
+        {
+          "text": "👻 Sumo e deixo um áudio misterioso: 'Tô resolvendo uns bagulho'",
+          "points": {
+            "vampiro_madureira": 0.9
+          }
+        },
+        {
+          "text": "🔥 Transformo o rolê num bate-volta pra Madureira ver o jogo",
+          "points": {
+            "descontrolada": 0.8,
+            "favela_vive": 0.5
+          }
+        },
+        {
+          "text": "🎤 Faço discurso sobre prioridades e ninguém entende se foi piada",
+          "points": {
+            "100_feminista": 0.7,
+            "avo_maluca": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você faria se encontrasse R$50 na calçada?",
+      "answers": [
+        {
+          "text": "💸 Aplico no jogo do bicho pra transformar em 500",
+          "points": {
+            "vou_investir": 0.9
+          }
+        },
+        {
+          "text": "🍻 Convoco os mais próximos pra um chopp de emergência",
+          "points": {
+            "liga_samu": 0.6,
+            "descontrolada": 0.4
+          }
+        },
+        {
+          "text": "🧐 Desconfio que é câmera escondida e saio andando rápido",
+          "points": {
+            "vampiro_madureira": 0.7,
+            "ar_condicionado": 0.3
+          }
+        },
+        {
+          "text": "📢 Viro repórter: 'Público, achei 50 contos! Quem perdeu?'",
+          "points": {
+            "avo_maluca": 0.8,
+            "jorginho_12": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destas é sua relação genuína com o ar condicionado?",
+      "answers": [
+        {
+          "text": "❄️ Relação puramente utilitária, como um marido de conveniência",
+          "points": {
+            "ar_condicionado": 0.9
+          }
+        },
+        {
+          "text": "💔 Já sofri muito sem ele, hoje é caso de amor e dependência",
+          "points": {
+            "vou_investir": 0.6,
+            "liga_samu": 0.4
+          }
+        },
+        {
+          "text": "⚡ Meu maior prazer é ajustar a temperatura alheia sem permissão",
+          "points": {
+            "descontrolada": 0.7,
+            "100_feminista": 0.3
+          }
+        },
+        {
+          "text": "👻 Acho que ele me observa quando estou dormindo",
+          "points": {
+            "vampiro_madureira": 0.8,
+            "avo_maluca": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Quando alguém diz 'preciso conversar', seu cérebro automaticamente pensa:",
+      "answers": [
+        {
+          "text": "💰 'Vai pedir dinheiro emprestado. Já preparo o NÃO'",
+          "points": {
+            "jorginho_12": 0.7,
+            "ar_condicionado": 0.3
+          }
+        },
+        {
+          "text": "🎭 'Finalmente! Mais material pra minha coleção de causos'",
+          "points": {
+            "avo_maluca": 0.9
+          }
+        },
+        {
+          "text": "🚑 'Ligo o modo SAMU: escuta ativa + kit primeiros socorros emocionais'",
+          "points": {
+            "liga_samu": 0.8
+          }
+        },
+        {
+          "text": "⚖️ 'Se for machistinha, já tô preparando a resposta ácida'",
+          "points": {
+            "100_feminista": 0.9,
+            "descontrolada": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua casa pegou fogo. Depois de salvar pessoas e pets, você volta pelo:",
+      "answers": [
+        {
+          "text": "📱 Carregador do celular (como vou postar o story sem isso?)",
+          "points": {
+            "vou_investir": 0.5,
+            "avo_maluca": 0.5
+          }
+        },
+        {
+          "text": "🎤 Microfone de karaokê (pra animar a tragédia)",
+          "points": {
+            "descontrolada": 0.8,
+            "favela_vive": 0.3
+          }
+        },
+        {
+          "text": "❄️ Controle remoto do ar-condicionado (morro com dignidade)",
+          "points": {
+            "ar_condicionado": 0.9
+          }
+        },
+        {
+          "text": "📒 Caderno de anotações (com as dívidas dos outros)",
+          "points": {
+            "jorginho_12": 0.7,
+            "vampiro_madureira": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas figuras mitológicas melhor representa sua approach no trabalho?",
+      "answers": [
+        {
+          "text": "🧜🏽‍♀️ Sereia: encanto com um objetivo, depois afogo quem me atrapalha",
+          "points": {
+            "vou_investir": 0.7,
+            "100_feminista": 0.4
+          }
+        },
+        {
+          "text": "👻 Fantasma: estou sempre presente, mas ninguém sabe como ou quando",
+          "points": {
+            "vampiro_madureira": 0.9,
+            "ar_condicionado": 0.2
+          }
+        },
+        {
+          "text": "🦸🏾‍♀️ Heroína de HQ: salvo o dia e viro lenda no grupo do WhatsApp",
+          "points": {
+            "liga_samu": 0.8,
+            "descontrolada": 0.3
+          }
+        },
+        {
+          "text": "📜 Bardo medieval: minha arma é a narrativa que conto sobre os fatos",
+          "points": {
+            "avo_maluca": 0.9,
+            "jorginho_12": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um app, qual seria sua notificação push mais enviada?",
+      "answers": [
+        {
+          "text": "🔔 'Tem gente falando de você no grupo secreto. Quer ver?'",
+          "points": {
+            "avo_maluca": 0.8,
+            "vampiro_madureira": 0.3
+          }
+        },
+        {
+          "text": "💸 'Olha essa oportunidade que quase ninguém viu...'",
+          "points": {
+            "vou_investir": 0.9
+          }
+        },
+        {
+          "text": "🚨 'ALERTA: ambiente tóxico detectado. Sugestão: vá embora AGORA.'",
+          "points": {
+            "100_feminista": 0.7,
+            "liga_samu": 0.4
+          }
+        },
+        {
+          "text": "🎪 'Modo festa ativado automaticamente. Resistir? (Timer: 5 segundos)'",
+          "points": {
+            "descontrolada": 0.9,
+            "favela_vive": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "A vida te deu limões. O que você faz?",
+      "answers": [
+        {
+          "text": "🏃‍♀️ Jogo fora e compro caipirinha pronta. Sou prática, não romântica",
+          "points": {
+            "ar_condicionado": 0.8,
+            "jorginho_12": 0.3
+          }
+        },
+        {
+          "text": "👑 Organizo um protesto: 'Limões têm que vir já na forma de drink!'",
+          "points": {
+            "100_feminista": 0.9
+          }
+        },
+        {
+          "text": "🕵️‍♀️ Investigo quem me enviou e devolvo com juros simbólicos",
+          "points": {
+            "vampiro_madureira": 0.7,
+            "vou_investir": 0.4
+          }
+        },
+        {
+          "text": "🎤 Vendo limonada e transformo o stand num point com música alta",
+          "points": {
+            "descontrolada": 0.8,
+            "favela_vive": 0.5
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "descontrolada": {
+      "title": "DESCONTROLADA",
+      "emoji": "🌀",
+      "subtitle": "Anárquica da Pista",
+      "text": "Seu lema é 'desce, desce, desce'! Você é a energia pura da festa, não segue regras e manda a timidez pra bem longe. No baile ou na vida, você chega chegando e deixa todo mundo sem fôlego. Só cuidado pra não ser expulso do lugar... de novo."
+    },
+    "ar_condicionado": {
+      "title": "AR CONDICIONADO",
+      "emoji": "❄️",
+      "subtitle": "Especialista em Conforto Próprio",
+      "text": "Você é pragmático e sabe exatamente o que quer: CONFORTO. Se tá calor, liga o ar. Se tá ruim, muda de situação. Ninguém te segura quando você identifica um problema prático. Pode parecer metódico, mas na verdade você só não tem paciência pra sofrimento desnecessário."
+    },
+    "jorginho_12": {
+      "title": "JORGINHO ME EMPRESTA A 12",
+      "emoji": "📞",
+      "subtitle": "Mestre das Soluções Criativas",
+      "text": "Seu talento é resolver problemas com os recursos que tem. 'Dá um jeitinho' não é só uma frase, é seu estilo de vida. Você é aquela pessoa que todo mundo procura quando precisa de uma solução improvável. Só não esquece de devolver o que pegou emprestado!"
+    },
+    "100_feminista": {
+      "title": "100% FEMINISTA",
+      "emoji": "✊",
+      "subtitle": "Ativista do Dia a Dia",
+      "text": "Você não fica calado quando vê uma injustiça. Manda o machista pra pqp com a mesma naturalidade que pede um café. Sua postura é de luta e resistência, mas sempre com humor e sagacidade. É a pessoa que defende as amigas no grupo e na rua."
+    },
+    "vampiro_madureira": {
+      "title": "VAMPIRO DE MADUREIRA",
+      "emoji": "🦇",
+      "subtitle": "Misterioso(a) Noturno(a)",
+      "text": "Você opera melhor depois do pôr do sol. Tem um ar misterioso, um humor peculiar e sabe coisas que os outros não sabem. Não é maligno, só tem seus próprios horários e rituais. As pessoas até acham você estranho, mas no fundo admiram sua autenticidade."
+    },
+    "vou_investir": {
+      "title": "VOU INVESTIR EM VOCÊ",
+      "emoji": "💸",
+      "subtitle": "Otimista Estratégico",
+      "text": "Você acredita no potencial das pessoas (e das situações). É do tipo que vê oportunidade onde outros veem problema. Talvez já tenha se decepcionado algumas vezes, mas sua fé no 'retorno futuro' é inabalável. Só toma cuidado com os caloteiros!"
+    },
+    "avo_maluca": {
+      "title": "MINHA VÓ TÁ MALUCA",
+      "emoji": "👵",
+      "subtitle": "Narrator(a) das Aventuras Alheias",
+      "text": "Você é o repórter da quebrada! Sabe todas as histórias, os causos e os dramas alheios (e conta com maestria). Sua vida é uma telenovela e você é ao mesmo tempo personagem e narrador. As pessoas riem com suas histórias, mas se perguntam: 'Será que é tudo verdade mesmo?'"
+    },
+    "liga_samu": {
+      "title": "LIGA PRO SAMU",
+      "emoji": "🚑",
+      "subtitle": "Socorrista Emocional",
+      "text": "Você é a emergência 24h dos amigos. Todo mundo te procura quando a coisa aperta, porque sabe que você vai saber o que fazer (ou pelo menos vai fazer graça da situação). Às vezes você se cansa de ser a 'enfermeira' de todo mundo, mas no fundo adora se sentir necessário."
+    }
+  }
+}
