@@ -519,6 +519,11 @@
       "name": "Qual música da MC Carol melhor te define?",
       "file": "quizzes/quizMCCarol.json",
       "description": "Descubra qual hit da funkeira carioca combina com sua personalidade (e prepare-se para verdades divertidas)!"
+    },
+    {
+      "name": "Quem é você na tabela ASCII?",
+      "file": "quizzes/quizASCIICaracteres.json",
+      "description": "Descubra qual caractere obscuro da tabela ASCII representa sua alma digital (com humor nerd e existencial)!"
     }
 
 
