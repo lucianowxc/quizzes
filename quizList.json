@@ -522,7 +522,7 @@
     },
     {
       "name": "Quem é você na tabela ASCII?",
-      "file": "quizzes/quizASCIICaracteres.json",
+      "file": "quizzes/quizAsciiCaracteres.json",
       "description": "Descubra qual caractere obscuro da tabela ASCII representa sua alma digital (com humor nerd e existencial)!"
     },
     {
