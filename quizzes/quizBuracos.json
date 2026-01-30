@@ -8,29 +8,53 @@
         {
           "text": "🧲 Puxar tudo para perto até que nada escape, nem mesmo os pensamentos alheios",
           "points": {
-            "buraco_negro": 0.9,
-            "buraco_logica": 0.1
+            "buraco_negro": 0.1246,
+            "buraco_logica": 0.0765,
+            "buraco_minhoca": 0.0061,
+            "buraco_rosquinha": 0.0107,
+            "buraco_parede": 0.0077,
+            "buraco_tatu": 0.0078,
+            "buraco_quente": 0.0058,
+            "buraco_baralho": 0.0059
           }
         },
         {
           "text": "🧵 Costurar realidades paralelas que nem sabiam que eram costuráveis",
           "points": {
-            "buraco_minhoca": 0.8,
-            "buraco_baralho": 0.2
+            "buraco_minhoca": 0.1169,
+            "buraco_baralho": 0.0817,
+            "buraco_negro": 0.0057,
+            "buraco_rosquinha": 0.0107,
+            "buraco_parede": 0.0077,
+            "buraco_tatu": 0.0078,
+            "buraco_quente": 0.0059,
+            "buraco_logica": 0.0083
           }
         },
         {
           "text": "🍯 Ser tão doce que as pessoas se perdem no meu centro melado",
           "points": {
-            "buraco_rosquinha": 0.7,
-            "buraco_quente": 0.3
+            "buraco_rosquinha": 0.1794,
+            "buraco_quente": 0.0943,
+            "buraco_negro": 0.0045,
+            "buraco_minhoca": 0.0049,
+            "buraco_parede": 0.0061,
+            "buraco_tatu": 0.0062,
+            "buraco_baralho": 0.0047,
+            "buraco_logica": 0.0066
           }
         },
         {
           "text": "🪞 Refletir a vida alheia sem nunca mostrar minha própria imagem",
           "points": {
-            "buraco_parede": 0.6,
-            "buraco_tatu": 0.4
+            "buraco_parede": 0.1106,
+            "buraco_tatu": 0.1509,
+            "buraco_negro": 0.0047,
+            "buraco_minhoca": 0.005,
+            "buraco_rosquinha": 0.009,
+            "buraco_quente": 0.0047,
+            "buraco_baralho": 0.0048,
+            "buraco_logica": 0.0069
           }
         }
       ]
@@ -41,28 +65,53 @@
         {
           "text": "🌌 Aquele silêncio que é tão intenso que parece um rugido cósmico",
           "points": {
-            "buraco_negro": 0.8,
-            "buraco_logica": 0.2
+            "buraco_negro": 0.111,
+            "buraco_logica": 0.1134,
+            "buraco_minhoca": 0.0056,
+            "buraco_rosquinha": 0.0099,
+            "buraco_parede": 0.0071,
+            "buraco_tatu": 0.0071,
+            "buraco_quente": 0.0054,
+            "buraco_baralho": 0.0054
           }
         },
         {
           "text": "🫧 O barulho de algo passando por um túnel que não deveria existir",
           "points": {
-            "buraco_minhoca": 0.7,
-            "buraco_tatu": 0.3
+            "buraco_minhoca": 0.1025,
+            "buraco_tatu": 0.1311,
+            "buraco_negro": 0.0051,
+            "buraco_rosquinha": 0.0095,
+            "buraco_parede": 0.0069,
+            "buraco_quente": 0.0052,
+            "buraco_baralho": 0.0053,
+            "buraco_logica": 0.0075
           }
         },
         {
           "text": "🎪 A sinfonia de uma cozinha de boteco às 2h da manhã",
           "points": {
-            "buraco_quente": 0.9
+            "buraco_quente": 0.1219,
+            "buraco_negro": 0.007,
+            "buraco_minhoca": 0.0075,
+            "buraco_rosquinha": 0.0132,
+            "buraco_parede": 0.0094,
+            "buraco_tatu": 0.0093,
+            "buraco_baralho": 0.007,
+            "buraco_logica": 0.01
           }
         },
         {
           "text": "🃏 O som de cartas sendo embaralhadas com suspeita de trapaça",
           "points": {
-            "buraco_baralho": 0.8,
-            "buraco_parede": 0.2
+            "buraco_baralho": 0.1095,
+            "buraco_parede": 0.1104,
+            "buraco_negro": 0.0053,
+            "buraco_minhoca": 0.0057,
+            "buraco_rosquinha": 0.0102,
+            "buraco_tatu": 0.0073,
+            "buraco_quente": 0.0054,
+            "buraco_logica": 0.0077
           }
         }
       ]
@@ -73,28 +122,53 @@
         {
           "text": "⚡ Tornar o problema irrelevante através de pura atração gravitacional",
           "points": {
-            "buraco_negro": 0.7,
-            "buraco_rosquinha": 0.3
+            "buraco_negro": 0.0973,
+            "buraco_rosquinha": 0.1817,
+            "buraco_minhoca": 0.0047,
+            "buraco_parede": 0.0059,
+            "buraco_tatu": 0.006,
+            "buraco_quente": 0.0045,
+            "buraco_baralho": 0.0046,
+            "buraco_logica": 0.0066
           }
         },
         {
           "text": "🧩 Encontrar um atalho dimensional que torne o problema outra pessoa",
           "points": {
-            "buraco_minhoca": 0.8,
-            "buraco_logica": 0.2
+            "buraco_minhoca": 0.1169,
+            "buraco_logica": 0.1125,
+            "buraco_negro": 0.0053,
+            "buraco_rosquinha": 0.0098,
+            "buraco_parede": 0.007,
+            "buraco_tatu": 0.0071,
+            "buraco_quente": 0.0053,
+            "buraco_baralho": 0.0054
           }
         },
         {
           "text": "🌶️ Cobrir tudo com tanto sabor que ninguém percebe o problema original",
           "points": {
-            "buraco_quente": 0.9
+            "buraco_quente": 0.1219,
+            "buraco_negro": 0.007,
+            "buraco_minhoca": 0.0075,
+            "buraco_rosquinha": 0.0132,
+            "buraco_parede": 0.0094,
+            "buraco_tatu": 0.0093,
+            "buraco_baralho": 0.007,
+            "buraco_logica": 0.01
           }
         },
         {
           "text": "🎭 Blefar até que o problema desista de existir por pura confusão",
           "points": {
-            "buraco_baralho": 0.8,
-            "buraco_parede": 0.2
+            "buraco_baralho": 0.1095,
+            "buraco_parede": 0.1104,
+            "buraco_negro": 0.0053,
+            "buraco_minhoca": 0.0057,
+            "buraco_rosquinha": 0.0102,
+            "buraco_tatu": 0.0073,
+            "buraco_quente": 0.0054,
+            "buraco_logica": 0.0077
           }
         }
       ]
@@ -105,28 +179,53 @@
         {
           "text": "🌀 Aquele puxão no estômago quando o elevador desce rápido demais",
           "points": {
-            "buraco_negro": 0.7,
-            "buraco_minhoca": 0.3
+            "buraco_negro": 0.0973,
+            "buraco_minhoca": 0.1048,
+            "buraco_rosquinha": 0.0104,
+            "buraco_parede": 0.0075,
+            "buraco_tatu": 0.0076,
+            "buraco_quente": 0.0057,
+            "buraco_baralho": 0.0058,
+            "buraco_logica": 0.0082
           }
         },
         {
           "text": "🫐 A textura estranhamente satisfatória de uma bolha estourando",
           "points": {
-            "buraco_rosquinha": 0.6,
-            "buraco_tatu": 0.4
+            "buraco_rosquinha": 0.1542,
+            "buraco_tatu": 0.14,
+            "buraco_negro": 0.0043,
+            "buraco_minhoca": 0.0046,
+            "buraco_parede": 0.0058,
+            "buraco_quente": 0.0043,
+            "buraco_baralho": 0.0044,
+            "buraco_logica": 0.0063
           }
         },
         {
           "text": "🔥 A combinação quente/úmido/crocante de um sanduíche que desafia a física",
           "points": {
-            "buraco_quente": 0.9
+            "buraco_quente": 0.1219,
+            "buraco_negro": 0.007,
+            "buraco_minhoca": 0.0075,
+            "buraco_rosquinha": 0.0132,
+            "buraco_parede": 0.0094,
+            "buraco_tatu": 0.0093,
+            "buraco_baralho": 0.007,
+            "buraco_logica": 0.01
           }
         },
         {
           "text": "❄️ Aquele calafrio quando você percebe que esqueceu algo importante",
           "points": {
-            "buraco_parede": 0.7,
-            "buraco_baralho": 0.3
+            "buraco_parede": 0.1288,
+            "buraco_baralho": 0.1049,
+            "buraco_negro": 0.0051,
+            "buraco_minhoca": 0.0054,
+            "buraco_rosquinha": 0.0097,
+            "buraco_tatu": 0.0069,
+            "buraco_quente": 0.0051,
+            "buraco_logica": 0.0074
           }
         }
       ]
@@ -137,28 +236,53 @@
         {
           "text": "⚠️ 'Cuidado com minha zona de exclusão emocional de 3 metros'",
           "points": {
-            "buraco_negro": 0.8,
-            "buraco_logica": 0.2
+            "buraco_negro": 0.111,
+            "buraco_logica": 0.1134,
+            "buraco_minhoca": 0.0056,
+            "buraco_rosquinha": 0.0099,
+            "buraco_parede": 0.0071,
+            "buraco_tatu": 0.0071,
+            "buraco_quente": 0.0054,
+            "buraco_baralho": 0.0054
           }
         },
         {
           "text": "🧭 'Não confie nas minhas indicações de caminho, elas levam a 1987'",
           "points": {
-            "buraco_minhoca": 0.9
+            "buraco_minhoca": 0.1314,
+            "buraco_negro": 0.0066,
+            "buraco_rosquinha": 0.0124,
+            "buraco_parede": 0.0089,
+            "buraco_tatu": 0.0089,
+            "buraco_quente": 0.0067,
+            "buraco_baralho": 0.0069,
+            "buraco_logica": 0.0097
           }
         },
         {
           "text": "🍴 'A ordem dos ingredientes NÃO É SUGESTÃO, É LEI'",
           "points": {
-            "buraco_quente": 0.8,
-            "buraco_baralho": 0.2
+            "buraco_quente": 0.1086,
+            "buraco_baralho": 0.0824,
+            "buraco_negro": 0.0059,
+            "buraco_minhoca": 0.0063,
+            "buraco_rosquinha": 0.0111,
+            "buraco_parede": 0.008,
+            "buraco_tatu": 0.008,
+            "buraco_logica": 0.0086
           }
         },
         {
           "text": "🎲 'Minhas promessas têm validade de uma rodada de buraco'",
           "points": {
-            "buraco_baralho": 0.7,
-            "buraco_tatu": 0.3
+            "buraco_baralho": 0.0959,
+            "buraco_tatu": 0.1339,
+            "buraco_negro": 0.0053,
+            "buraco_minhoca": 0.0055,
+            "buraco_rosquinha": 0.0099,
+            "buraco_parede": 0.007,
+            "buraco_quente": 0.0053,
+            "buraco_logica": 0.0075
           }
         }
       ]
@@ -169,28 +293,53 @@
         {
           "text": "📡 Conseguir ouvir o som do vácuo do espaço em lugares silenciosos",
           "points": {
-            "buraco_negro": 0.7,
-            "buraco_parede": 0.3
+            "buraco_negro": 0.0973,
+            "buraco_parede": 0.1308,
+            "buraco_minhoca": 0.0055,
+            "buraco_rosquinha": 0.0097,
+            "buraco_tatu": 0.007,
+            "buraco_quente": 0.0053,
+            "buraco_baralho": 0.0053,
+            "buraco_logica": 0.0076
           }
         },
         {
           "text": "🧶 Encontrar furos em lógicas que nem sabiam que eram perfuráveis",
           "points": {
-            "buraco_logica": 0.8,
-            "buraco_minhoca": 0.2
+            "buraco_logica": 0.1541,
+            "buraco_minhoca": 0.0923,
+            "buraco_negro": 0.0049,
+            "buraco_rosquinha": 0.0092,
+            "buraco_parede": 0.0066,
+            "buraco_tatu": 0.0068,
+            "buraco_quente": 0.005,
+            "buraco_baralho": 0.0051
           }
         },
         {
           "text": "🔮 Prever exatamente qual ingrediente vai faltar na festa",
           "points": {
-            "buraco_quente": 0.6,
-            "buraco_rosquinha": 0.4
+            "buraco_quente": 0.0818,
+            "buraco_rosquinha": 0.2047,
+            "buraco_negro": 0.0043,
+            "buraco_minhoca": 0.0046,
+            "buraco_parede": 0.0059,
+            "buraco_tatu": 0.0059,
+            "buraco_baralho": 0.0045,
+            "buraco_logica": 0.0064
           }
         },
         {
           "text": "🦔 Reconhecer tocas de tatu a 50 metros de distância",
           "points": {
-            "buraco_tatu": 0.9
+            "buraco_tatu": 0.165,
+            "buraco_negro": 0.006,
+            "buraco_minhoca": 0.0064,
+            "buraco_rosquinha": 0.0111,
+            "buraco_parede": 0.0079,
+            "buraco_quente": 0.0059,
+            "buraco_baralho": 0.006,
+            "buraco_logica": 0.0085
           }
         }
       ]
@@ -201,28 +350,53 @@
         {
           "text": "🪐 O cheiro que Marte teria se tivesse cheiro (não tem, mas se tivesse)",
           "points": {
-            "buraco_negro": 0.8,
-            "buraco_logica": 0.2
+            "buraco_negro": 0.111,
+            "buraco_logica": 0.1134,
+            "buraco_minhoca": 0.0056,
+            "buraco_rosquinha": 0.0099,
+            "buraco_parede": 0.0071,
+            "buraco_tatu": 0.0071,
+            "buraco_quente": 0.0054,
+            "buraco_baralho": 0.0054
           }
         },
         {
           "text": "🌫️ O aroma da dúvida com notas de 'será que isso funciona?'",
           "points": {
-            "buraco_minhoca": 0.7,
-            "buraco_baralho": 0.3
+            "buraco_minhoca": 0.1025,
+            "buraco_baralho": 0.0993,
+            "buraco_negro": 0.0057,
+            "buraco_rosquinha": 0.0106,
+            "buraco_parede": 0.0076,
+            "buraco_tatu": 0.0076,
+            "buraco_quente": 0.0058,
+            "buraco_logica": 0.0082
           }
         },
         {
           "text": "🎆 O perfume de nostalgia misturado com gordura hidrogenada",
           "points": {
-            "buraco_quente": 0.9
+            "buraco_quente": 0.1219,
+            "buraco_negro": 0.007,
+            "buraco_minhoca": 0.0075,
+            "buraco_rosquinha": 0.0132,
+            "buraco_parede": 0.0094,
+            "buraco_tatu": 0.0093,
+            "buraco_baralho": 0.007,
+            "buraco_logica": 0.01
           }
         },
         {
           "text": "📚 O cheiro de regras sendo quebradas com estilo questionável",
           "points": {
-            "buraco_baralho": 0.8,
-            "buraco_parede": 0.2
+            "buraco_baralho": 0.1095,
+            "buraco_parede": 0.1104,
+            "buraco_negro": 0.0053,
+            "buraco_minhoca": 0.0057,
+            "buraco_rosquinha": 0.0102,
+            "buraco_tatu": 0.0073,
+            "buraco_quente": 0.0054,
+            "buraco_logica": 0.0077
           }
         }
       ]
@@ -233,28 +407,53 @@
         {
           "text": "🌪️ Uma tempestade que suga tudo para cima e depois some sem explicação",
           "points": {
-            "buraco_negro": 0.9
+            "buraco_negro": 0.1246,
+            "buraco_minhoca": 0.0072,
+            "buraco_rosquinha": 0.0129,
+            "buraco_parede": 0.0091,
+            "buraco_tatu": 0.0091,
+            "buraco_quente": 0.0068,
+            "buraco_baralho": 0.0069,
+            "buraco_logica": 0.0099
           }
         },
         {
           "text": "🌈 Chuva com sol em dois lugares diferentes ao mesmo tempo",
           "points": {
-            "buraco_minhoca": 0.7,
-            "buraco_logica": 0.3
+            "buraco_minhoca": 0.1025,
+            "buraco_logica": 0.1367,
+            "buraco_negro": 0.0051,
+            "buraco_rosquinha": 0.0095,
+            "buraco_parede": 0.0068,
+            "buraco_tatu": 0.0068,
+            "buraco_quente": 0.0051,
+            "buraco_baralho": 0.0053
           }
         },
         {
           "text": "🌡️ Aquele calor úmido que promete chuva mas só entrega suor",
           "points": {
-            "buraco_quente": 0.8,
-            "buraco_tatu": 0.2
+            "buraco_quente": 0.1086,
+            "buraco_tatu": 0.1095,
+            "buraco_negro": 0.0054,
+            "buraco_minhoca": 0.0058,
+            "buraco_rosquinha": 0.0102,
+            "buraco_parede": 0.0073,
+            "buraco_baralho": 0.0055,
+            "buraco_logica": 0.0078
           }
         },
         {
           "text": "🎭 Nevoeiro que deixa tudo incerto, mas de repente some revelando algo pior",
           "points": {
-            "buraco_baralho": 0.7,
-            "buraco_parede": 0.3
+            "buraco_baralho": 0.0959,
+            "buraco_parede": 0.134,
+            "buraco_negro": 0.0053,
+            "buraco_minhoca": 0.0055,
+            "buraco_rosquinha": 0.0098,
+            "buraco_tatu": 0.007,
+            "buraco_quente": 0.0053,
+            "buraco_logica": 0.0075
           }
         }
       ]
