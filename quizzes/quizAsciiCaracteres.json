@@ -8,28 +8,53 @@
         {
           "text": "📋 'Vamos dividir assim: A paga hotel, B paga comida, C paga...' (organizo tudo)",
           "points": {
-            "section_sign": 0.8,
-            "pipe": 0.2
+            "section_sign": 0.1033,
+            "pipe": 0.1041,
+            "circunflexo": 0.0082,
+            "acento_grave": 0.0098,
+            "broken_bar": 0.0069,
+            "currency_sign": 0.0072,
+            "tilde": 0.0072,
+            "backslash": 0.0055
           }
         },
         {
           "text": "💳 'Tenho crédito~ mas não sei se é real ou ilusório' (ajudo com recursos vagos)",
           "points": {
-            "currency_sign": 0.7,
-            "tilde": 0.3
+            "currency_sign": 0.1232,
+            "tilde": 0.12,
+            "circunflexo": 0.0073,
+            "acento_grave": 0.0087,
+            "pipe": 0.0061,
+            "broken_bar": 0.0062,
+            "section_sign": 0.0048,
+            "backslash": 0.005
           }
         },
         {
           "text": "👁️ 'Prefiro ficar observando de cima e opinar pontualmente'",
           "points": {
-            "circunflexo": 0.9
+            "circunflexo": 0.1823,
+            "acento_grave": 0.0094,
+            "pipe": 0.0066,
+            "broken_bar": 0.0067,
+            "section_sign": 0.0051,
+            "currency_sign": 0.0071,
+            "tilde": 0.0072,
+            "backslash": 0.0056
           }
         },
         {
           "text": "🔄 'Seguem meu exemplo: vamos fazer TUDO AO CONTRÁRIO do planejado'",
           "points": {
-            "backslash": 0.8,
-            "broken_bar": 0.2
+            "backslash": 0.1073,
+            "broken_bar": 0.102,
+            "circunflexo": 0.0082,
+            "acento_grave": 0.0099,
+            "pipe": 0.007,
+            "section_sign": 0.0053,
+            "currency_sign": 0.0073,
+            "tilde": 0.0073
           }
         }
       ]
@@ -40,28 +65,53 @@
         {
           "text": "⚖️ Descrevo com precisão jurídica, citando cláusulas e subseções",
           "points": {
-            "section_sign": 0.9
+            "section_sign": 0.116,
+            "circunflexo": 0.0105,
+            "acento_grave": 0.0125,
+            "pipe": 0.0088,
+            "broken_bar": 0.0087,
+            "currency_sign": 0.0091,
+            "tilde": 0.0091,
+            "backslash": 0.007
           }
         },
         {
           "text": "🎭 'Sou tipo um... quase algo? Me confundem com outras funções'",
           "points": {
-            "acento_grave": 0.8,
-            "broken_bar": 0.2
+            "acento_grave": 0.1936,
+            "broken_bar": 0.0867,
+            "circunflexo": 0.0065,
+            "pipe": 0.0056,
+            "section_sign": 0.0042,
+            "currency_sign": 0.0059,
+            "tilde": 0.0058,
+            "backslash": 0.0046
           }
         },
         {
           "text": "📊 'Minha função é potencializar resultados! (com métricas variáveis)'",
           "points": {
-            "circunflexo": 0.7,
-            "tilde": 0.3
+            "circunflexo": 0.1422,
+            "tilde": 0.1153,
+            "acento_grave": 0.0083,
+            "pipe": 0.0059,
+            "broken_bar": 0.0059,
+            "section_sign": 0.0045,
+            "currency_sign": 0.0063,
+            "backslash": 0.0047
           }
         },
         {
           "text": "🚧 'Separo coisas. Literalmente. Sou a linha entre o certo e o duvidoso'",
           "points": {
-            "pipe": 0.6,
-            "backslash": 0.4
+            "pipe": 0.1035,
+            "backslash": 0.1166,
+            "circunflexo": 0.0078,
+            "acento_grave": 0.0094,
+            "broken_bar": 0.0066,
+            "section_sign": 0.0051,
+            "currency_sign": 0.007,
+            "tilde": 0.007
           }
         }
       ]
@@ -72,28 +122,53 @@
         {
           "text": "📜 'Recomendo seguir o protocolo emocional, capítulo 3, item 2'",
           "points": {
-            "section_sign": 0.9
+            "section_sign": 0.116,
+            "circunflexo": 0.0105,
+            "acento_grave": 0.0125,
+            "pipe": 0.0088,
+            "broken_bar": 0.0087,
+            "currency_sign": 0.0091,
+            "tilde": 0.0091,
+            "backslash": 0.007
           }
         },
         {
           "text": "🌫️ 'Mais ou menos assim... tipo... você sabe, né?' (vago mas reconfortante)",
           "points": {
-            "tilde": 0.8,
-            "currency_sign": 0.2
+            "tilde": 0.1395,
+            "currency_sign": 0.1055,
+            "circunflexo": 0.0072,
+            "acento_grave": 0.0087,
+            "pipe": 0.0062,
+            "broken_bar": 0.0062,
+            "section_sign": 0.0047,
+            "backslash": 0.005
           }
         },
         {
           "text": "↪️ 'Faça o OPOSTO do que todo mundo diz! Inverta a lógica!'",
           "points": {
-            "backslash": 0.7,
-            "broken_bar": 0.3
+            "backslash": 0.0941,
+            "broken_bar": 0.123,
+            "circunflexo": 0.008,
+            "acento_grave": 0.0096,
+            "pipe": 0.0068,
+            "section_sign": 0.0051,
+            "currency_sign": 0.0071,
+            "tilde": 0.007
           }
         },
         {
           "text": "🦅 'Eu teria uma visão panorâmica. Veja do alto e decida'",
           "points": {
-            "circunflexo": 0.6,
-            "pipe": 0.4
+            "circunflexo": 0.1223,
+            "pipe": 0.1302,
+            "acento_grave": 0.0083,
+            "broken_bar": 0.006,
+            "section_sign": 0.0046,
+            "currency_sign": 0.0063,
+            "tilde": 0.0063,
+            "backslash": 0.0049
           }
         }
       ]
@@ -104,27 +179,53 @@
         {
           "text": "🧐 Imediatamente busco a estrutura lógica e as divisões internas",
           "points": {
-            "section_sign": 0.9
+            "section_sign": 0.116,
+            "circunflexo": 0.0105,
+            "acento_grave": 0.0125,
+            "pipe": 0.0088,
+            "broken_bar": 0.0087,
+            "currency_sign": 0.0091,
+            "tilde": 0.0091,
+            "backslash": 0.007
           }
         },
         {
           "text": "🏔️ Analiso de cima pra baixo, hierarquicamente",
           "points": {
-            "circunflexo": 0.7,
-            "pipe": 0.3
+            "circunflexo": 0.1422,
+            "pipe": 0.1136,
+            "acento_grave": 0.0083,
+            "broken_bar": 0.0059,
+            "section_sign": 0.0045,
+            "currency_sign": 0.0063,
+            "tilde": 0.0062,
+            "backslash": 0.0049
           }
         },
         {
           "text": "💔 Vejo onde as coisas estão quebradas... e me identifico",
           "points": {
-            "broken_bar": 0.8,
-            "acento_grave": 0.2
+            "broken_bar": 0.1361,
+            "acento_grave": 0.1439,
+            "circunflexo": 0.0065,
+            "pipe": 0.0056,
+            "section_sign": 0.0042,
+            "currency_sign": 0.0058,
+            "tilde": 0.0058,
+            "backslash": 0.0046
           }
         },
         {
           "text": "🌀 Procuro atalhos e caminhos invertidos que ninguém viu",
           "points": {
-            "backslash": 0.9
+            "backslash": 0.1206,
+            "circunflexo": 0.0103,
+            "acento_grave": 0.0122,
+            "pipe": 0.0085,
+            "broken_bar": 0.0085,
+            "section_sign": 0.0066,
+            "currency_sign": 0.009,
+            "tilde": 0.009
           }
         }
       ]
@@ -135,28 +236,53 @@
         {
           "text": "🎲 Aponto pra item aleatório e digo 'quero esse mistério culinário'",
           "points": {
-            "currency_sign": 0.8,
-            "tilde": 0.2
+            "currency_sign": 0.1405,
+            "tilde": 0.0972,
+            "circunflexo": 0.0074,
+            "acento_grave": 0.0088,
+            "pipe": 0.0063,
+            "broken_bar": 0.0063,
+            "section_sign": 0.0048,
+            "backslash": 0.0051
           }
         },
         {
           "text": "🤔 Peço 'aquele prato que parece familiar mas não consigo nomear'",
           "points": {
-            "acento_grave": 0.9
+            "acento_grave": 0.2175,
+            "circunflexo": 0.007,
+            "pipe": 0.006,
+            "broken_bar": 0.006,
+            "section_sign": 0.0045,
+            "currency_sign": 0.0064,
+            "tilde": 0.0064,
+            "backslash": 0.005
           }
         },
         {
           "text": "📊 Divido o menu em 'possível carne' e 'possível vegetariano'",
           "points": {
-            "pipe": 0.7,
-            "section_sign": 0.3
+            "pipe": 0.1205,
+            "section_sign": 0.0993,
+            "circunflexo": 0.0078,
+            "acento_grave": 0.0094,
+            "broken_bar": 0.0066,
+            "currency_sign": 0.0068,
+            "tilde": 0.0069,
+            "backslash": 0.0054
           }
         },
         {
           "text": "👑 Escolho o item mais proeminente do menu (o primeiro)",
           "points": {
-            "circunflexo": 0.6,
-            "backslash": 0.4
+            "circunflexo": 0.1223,
+            "backslash": 0.1031,
+            "acento_grave": 0.0091,
+            "pipe": 0.0065,
+            "broken_bar": 0.0065,
+            "section_sign": 0.005,
+            "currency_sign": 0.0068,
+            "tilde": 0.0069
           }
         }
       ]
@@ -167,28 +293,53 @@
         {
           "text": "🌊 Sigo aproximadamente, com margem de erro aceitável",
           "points": {
-            "tilde": 0.8,
-            "broken_bar": 0.2
+            "tilde": 0.1395,
+            "broken_bar": 0.0981,
+            "circunflexo": 0.0075,
+            "acento_grave": 0.0089,
+            "pipe": 0.0064,
+            "section_sign": 0.0049,
+            "currency_sign": 0.0066,
+            "backslash": 0.0052
           }
         },
         {
           "text": "🔄 Inverto: se esperam X, faço Y. É mais divertido",
           "points": {
-            "backslash": 0.9
+            "backslash": 0.1206,
+            "circunflexo": 0.0103,
+            "acento_grave": 0.0122,
+            "pipe": 0.0085,
+            "broken_bar": 0.0085,
+            "section_sign": 0.0066,
+            "currency_sign": 0.009,
+            "tilde": 0.009
           }
         },
         {
           "text": "📚 Consulto meu manual interno de conduta, seção 5.3",
           "points": {
-            "section_sign": 0.7,
-            "pipe": 0.3
+            "section_sign": 0.0905,
+            "pipe": 0.1251,
+            "circunflexo": 0.0079,
+            "acento_grave": 0.0096,
+            "broken_bar": 0.0068,
+            "currency_sign": 0.007,
+            "tilde": 0.007,
+            "backslash": 0.0055
           }
         },
         {
           "text": "🎭 Atendo genericamente, sem compromisso com expectativas específicas",
           "points": {
-            "currency_sign": 0.6,
-            "acento_grave": 0.4
+            "currency_sign": 0.1058,
+            "acento_grave": 0.1876,
+            "circunflexo": 0.0062,
+            "pipe": 0.0053,
+            "broken_bar": 0.0053,
+            "section_sign": 0.0041,
+            "tilde": 0.0057,
+            "backslash": 0.0044
           }
         }
       ]
@@ -199,28 +350,53 @@
         {
           "text": "⚖️ 'Violação de protocolo emocional, artigo 7-B: retorne ao estado estável'",
           "points": {
-            "section_sign": 0.9
+            "section_sign": 0.116,
+            "circunflexo": 0.0105,
+            "acento_grave": 0.0125,
+            "pipe": 0.0088,
+            "broken_bar": 0.0087,
+            "currency_sign": 0.0091,
+            "tilde": 0.0091,
+            "backslash": 0.007
           }
         },
         {
           "text": "💎 'Recurso amorfo detectado: valor não conversível em experiência prática'",
           "points": {
-            "currency_sign": 0.8,
-            "tilde": 0.2
+            "currency_sign": 0.1405,
+            "tilde": 0.0972,
+            "circunflexo": 0.0074,
+            "acento_grave": 0.0088,
+            "pipe": 0.0063,
+            "broken_bar": 0.0063,
+            "section_sign": 0.0048,
+            "backslash": 0.0051
           }
         },
         {
           "text": "🔄 'Direção de vida ambígua: sociedade sugere A, instinto aponta para B'",
           "points": {
-            "backslash": 0.7,
-            "broken_bar": 0.3
+            "backslash": 0.0941,
+            "broken_bar": 0.123,
+            "circunflexo": 0.008,
+            "acento_grave": 0.0096,
+            "pipe": 0.0068,
+            "section_sign": 0.0051,
+            "currency_sign": 0.0071,
+            "tilde": 0.007
           }
         },
         {
           "text": "📈 'Exponenciação sem base: ambição elevada a potências indefinidas'",
           "points": {
-            "circunflexo": 0.6,
-            "pipe": 0.4
+            "circunflexo": 0.1223,
+            "pipe": 0.1302,
+            "acento_grave": 0.0083,
+            "broken_bar": 0.006,
+            "section_sign": 0.0046,
+            "currency_sign": 0.0063,
+            "tilde": 0.0063,
+            "backslash": 0.0049
           }
         }
       ]
@@ -231,27 +407,53 @@
         {
           "text": "📜 Redator de cláusulas de contrato que ninguém lê (mas são importantes)",
           "points": {
-            "section_sign": 0.9
+            "section_sign": 0.116,
+            "circunflexo": 0.0105,
+            "acento_grave": 0.0125,
+            "pipe": 0.0088,
+            "broken_bar": 0.0087,
+            "currency_sign": 0.0091,
+            "tilde": 0.0091,
+            "backslash": 0.007
           }
         },
         {
           "text": "🏦 Consultor de moedas hipotéticas para economias de ficção científica",
           "points": {
-            "currency_sign": 0.8
+            "currency_sign": 0.1405,
+            "circunflexo": 0.0083,
+            "acento_grave": 0.0102,
+            "pipe": 0.0072,
+            "broken_bar": 0.0072,
+            "section_sign": 0.0056,
+            "tilde": 0.0076,
+            "backslash": 0.006
           }
         },
         {
           "text": "🎭 Dublê de apóstrofo em produções teatrais de baixo orçamento",
           "points": {
-            "acento_grave": 0.7,
-            "broken_bar": 0.3
+            "acento_grave": 0.1697,
+            "broken_bar": 0.1109,
+            "circunflexo": 0.0065,
+            "pipe": 0.0056,
+            "section_sign": 0.0043,
+            "currency_sign": 0.0058,
+            "tilde": 0.0058,
+            "backslash": 0.0045
           }
         },
         {
           "text": "🧭 Guia turístico para dimensões paralelas (a entrada é pela saída)",
           "points": {
-            "backslash": 0.8,
-            "tilde": 0.2
+            "backslash": 0.1073,
+            "tilde": 0.1049,
+            "circunflexo": 0.008,
+            "acento_grave": 0.0096,
+            "pipe": 0.0069,
+            "broken_bar": 0.0069,
+            "section_sign": 0.0053,
+            "currency_sign": 0.0072
           }
         }
       ]
@@ -262,27 +464,53 @@
         {
           "text": "📄 Sou a cláusula de resolução de conflitos, seção 2, alínea B",
           "points": {
-            "section_sign": 0.9
+            "section_sign": 0.116,
+            "circunflexo": 0.0105,
+            "acento_grave": 0.0125,
+            "pipe": 0.0088,
+            "broken_bar": 0.0087,
+            "currency_sign": 0.0091,
+            "tilde": 0.0091,
+            "backslash": 0.007
           }
         },
         {
           "text": "💫 Forneço afeto genérico, válido em múltiplas economias emocionais",
           "points": {
-            "currency_sign": 0.7,
-            "tilde": 0.3
+            "currency_sign": 0.1232,
+            "tilde": 0.12,
+            "circunflexo": 0.0073,
+            "acento_grave": 0.0087,
+            "pipe": 0.0061,
+            "broken_bar": 0.0062,
+            "section_sign": 0.0048,
+            "backslash": 0.005
           }
         },
         {
           "text": "🌀 Sou o atalho que leva a lugares inesperados (nem sempre bons)",
           "points": {
-            "backslash": 0.8
+            "backslash": 0.1073,
+            "circunflexo": 0.01,
+            "acento_grave": 0.0118,
+            "pipe": 0.0083,
+            "broken_bar": 0.0084,
+            "section_sign": 0.0064,
+            "currency_sign": 0.0089,
+            "tilde": 0.0088
           }
         },
         {
           "text": "📐 Sou a linha que divide 'nós' do 'cada um', quando necessário",
           "points": {
-            "pipe": 0.6,
-            "broken_bar": 0.4
+            "pipe": 0.1035,
+            "broken_bar": 0.1383,
+            "circunflexo": 0.0074,
+            "acento_grave": 0.009,
+            "section_sign": 0.0047,
+            "currency_sign": 0.0065,
+            "tilde": 0.0065,
+            "backslash": 0.0051
           }
         }
       ]
@@ -293,33 +521,66 @@
         {
           "text": "⚖️ Serei lembrado como o organizador silencioso dos sistemas",
           "points": {
-            "section_sign": 0.9
+            "section_sign": 0.116,
+            "circunflexo": 0.0105,
+            "acento_grave": 0.0125,
+            "pipe": 0.0088,
+            "broken_bar": 0.0087,
+            "currency_sign": 0.0091,
+            "tilde": 0.0091,
+            "backslash": 0.007
           }
         },
         {
           "text": "💎 Deixarei uma fortuna conceitual para herdeiros hipotéticos",
           "points": {
-            "currency_sign": 0.8
+            "currency_sign": 0.1405,
+            "circunflexo": 0.0083,
+            "acento_grave": 0.0102,
+            "pipe": 0.0072,
+            "broken_bar": 0.0072,
+            "section_sign": 0.0056,
+            "tilde": 0.0076,
+            "backslash": 0.006
           }
         },
         {
           "text": "📊 Elevarei ideias a novas potências, mesmo que ninguém note",
           "points": {
-            "circunflexo": 0.7,
-            "pipe": 0.3
+            "circunflexo": 0.1422,
+            "pipe": 0.1136,
+            "acento_grave": 0.0083,
+            "broken_bar": 0.0059,
+            "section_sign": 0.0045,
+            "currency_sign": 0.0063,
+            "tilde": 0.0062,
+            "backslash": 0.0049
           }
         },
         {
           "text": "🌌 Criarei um caminho invertido que desafiará a lógica convencional",
           "points": {
-            "backslash": 0.9
+            "backslash": 0.1206,
+            "circunflexo": 0.0103,
+            "acento_grave": 0.0122,
+            "pipe": 0.0085,
+            "broken_bar": 0.0085,
+            "section_sign": 0.0066,
+            "currency_sign": 0.009,
+            "tilde": 0.009
           }
         },
         {
           "text": "🌅 Serei aproximadamente lembrado, com margem de erro aceitável",
           "points": {
-            "tilde": 0.6,
-            "broken_bar": 0.4
+            "tilde": 0.105,
+            "broken_bar": 0.1384,
+            "circunflexo": 0.0074,
+            "acento_grave": 0.0088,
+            "pipe": 0.0063,
+            "section_sign": 0.0047,
+            "currency_sign": 0.0065,
+            "backslash": 0.0051
           }
         }
       ]
