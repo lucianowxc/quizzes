@@ -524,6 +524,11 @@
       "name": "Quem é você na tabela ASCII?",
       "file": "quizzes/quizASCIICaracteres.json",
       "description": "Descubra qual caractere obscuro da tabela ASCII representa sua alma digital (com humor nerd e existencial)!"
+    },
+    {
+      "name": "Qual Buraco Você Seria?",
+      "file": "quizzes/quizBuracos.json",
+      "description": "Descubra qual buraco (do negro ao quente) melhor representa sua personalidade caótica!"
     }
 
 
