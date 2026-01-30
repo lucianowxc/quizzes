@@ -1,33 +1,33 @@
 {
   "title": "Qual Buraco Você Seria?",
-  "subtitle": "Um quiz profundo sobre superficialidades, ou seria o contrário?",
+  "subtitle": "Um quiz que vai te sugar para uma espiral de autoconhecimento (ou só de confusão)",
   "questions": [
     {
-      "question": "Num dia livre total, você prefere:",
+      "question": "Num dia livre total, seu instinto mais profundo é:",
       "answers": [
         {
-          "text": "⚫ Absorver tudo ao redor sem deixar escapar nem a luz",
+          "text": "🧲 Puxar tudo para perto até que nada escape, nem mesmo os pensamentos alheios",
           "points": {
             "buraco_negro": 0.9,
-            "buraco_ozonio": 0.1
+            "buraco_logica": 0.1
           }
         },
         {
-          "text": "🐛 Conectar dois pontos distantes do universo que nem deveriam se conhecer",
+          "text": "🧵 Costurar realidades paralelas que nem sabiam que eram costuráveis",
           "points": {
             "buraco_minhoca": 0.8,
-            "buraco_logica": 0.2
+            "buraco_baralho": 0.2
           }
         },
         {
-          "text": "🍩 Ser circular, doce e ter um vazio no meio que é minha melhor parte",
+          "text": "🍯 Ser tão doce que as pessoas se perdem no meu centro melado",
           "points": {
             "buraco_rosquinha": 0.7,
-            "buraco_memoria": 0.3
+            "buraco_quente": 0.3
           }
         },
         {
-          "text": "🕳️ Observar a vida passar de um cantinho discreto, sem interferir",
+          "text": "🪞 Refletir a vida alheia sem nunca mostrar minha própria imagem",
           "points": {
             "buraco_parede": 0.6,
             "buraco_tatu": 0.4
@@ -36,221 +36,225 @@
       ]
     },
     {
-      "question": "Seu superpoder secreto seria:",
+      "question": "Se você fosse um som ambiente, seria:",
       "answers": [
         {
-          "text": "🌀 Distorcer o tempo e espaço ao meu redor sem fazer força",
+          "text": "🌌 Aquele silêncio que é tão intenso que parece um rugido cósmico",
           "points": {
             "buraco_negro": 0.8,
-            "buraco_minhoca": 0.2
-          }
-        },
-        {
-          "text": "🌬️ Deixar passar coisas que não deveriam passar, mas de forma estratégica",
-          "points": {
-            "buraco_ozonio": 0.7,
-            "buraco_parede": 0.3
-          }
-        },
-        {
-          "text": "🏠 Abrigar criaturas fofas que ninguém esperaria encontrar em mim",
-          "points": {
-            "buraco_tatu": 0.9
-          }
-        },
-        {
-          "text": "🤯 Fazer as pessoas esquecerem coisas importantes no momento crucial",
-          "points": {
-            "buraco_memoria": 0.8,
             "buraco_logica": 0.2
           }
-        }
-      ]
-    },
-    {
-      "question": "Num relacionamento, você é:",
-      "answers": [
-        {
-          "text": "💫 Atraente demais, às vezes sufoco quem se aproxima demais",
-          "points": {
-            "buraco_negro": 0.7,
-            "buraco_rosquinha": 0.3
-          }
         },
         {
-          "text": "🔗 Um atalho para lugares emocionais que normalmente levariam anos",
-          "points": {
-            "buraco_minhoca": 0.6,
-            "buraco_logica": 0.4
-          }
-        },
-        {
-          "text": "🛡️ Protejo dos perigos, mas tenho minhas falhas que todo mundo conhece",
-          "points": {
-            "buraco_ozonio": 0.8
-          }
-        },
-        {
-          "text": "🙈 Esqueço aniversários mas lembro do nome do cachorro da prima distante",
-          "points": {
-            "buraco_memoria": 0.9
-          }
-        }
-      ]
-    },
-    {
-      "question": "Se você fosse um cheiro:",
-      "answers": [
-        {
-          "text": "🌌 O vácuo do espaço - não tem cheiro, mas a ausência é palpável",
-          "points": {
-            "buraco_negro": 0.9
-          }
-        },
-        {
-          "text": "🌿 Terra molhada após chuva, com um toque de minhoca premium",
+          "text": "🫧 O barulho de algo passando por um túnel que não deveria existir",
           "points": {
             "buraco_minhoca": 0.7,
             "buraco_tatu": 0.3
           }
         },
         {
-          "text": "🍯 Açúcar queimado e nostalgia de padaria às 6 da manhã",
+          "text": "🎪 A sinfonia de uma cozinha de boteco às 2h da manhã",
           "points": {
-            "buraco_rosquinha": 0.8
+            "buraco_quente": 0.9
           }
         },
         {
-          "text": "🧠 O cheiro característico do 'deixa eu pensar...' seguido de silêncio",
+          "text": "🃏 O som de cartas sendo embaralhadas com suspeita de trapaça",
           "points": {
-            "buraco_memoria": 0.6,
-            "buraco_logica": 0.4
+            "buraco_baralho": 0.8,
+            "buraco_parede": 0.2
           }
         }
       ]
     },
     {
-      "question": "Seu defeito mais charmoso é:",
+      "question": "Seu método preferido de resolver problemas:",
       "answers": [
         {
-          "text": "😬 Sou um pouco... denso. Mas é charme!",
-          "points": {
-            "buraco_negro": 0.8,
-            "buraco_rosquinha": 0.2
-          }
-        },
-        {
-          "text": "🔄 As vezes crio paradoxos temporais sem querer",
-          "points": {
-            "buraco_minhoca": 0.7,
-            "buraco_logica": 0.3
-          }
-        },
-        {
-          "text": "🦔 Moro com um tatu e não pago aluguel",
-          "points": {
-            "buraco_tatu": 0.9
-          }
-        },
-        {
-          "text": "🌡️ Deixo passar uns 5% dos raios UV que não deveriam",
-          "points": {
-            "buraco_ozonio": 0.6,
-            "buraco_parede": 0.4
-          }
-        }
-      ]
-    },
-    {
-      "question": "Numa festa, você está:",
-      "answers": [
-        {
-          "text": "🎯 No centro, atraindo todos para minha órbita social",
+          "text": "⚡ Tornar o problema irrelevante através de pura atração gravitacional",
           "points": {
             "buraco_negro": 0.7,
             "buraco_rosquinha": 0.3
           }
         },
         {
-          "text": "🚪 Conectando o grupo da cozinha com o da varanda que nem se falavam",
+          "text": "🧩 Encontrar um atalho dimensional que torne o problema outra pessoa",
           "points": {
-            "buraco_minhoca": 0.8
+            "buraco_minhoca": 0.8,
+            "buraco_logica": 0.2
           }
         },
         {
-          "text": "👀 Na parede, literalmente. Observando e sendo útil pra nada",
+          "text": "🌶️ Cobrir tudo com tanto sabor que ninguém percebe o problema original",
           "points": {
-            "buraco_parede": 0.9
+            "buraco_quente": 0.9
           }
         },
         {
-          "text": "🤔 Tentando lembrar por que veio e de quem é essa casa mesmo",
+          "text": "🎭 Blefar até que o problema desista de existir por pura confusão",
           "points": {
-            "buraco_memoria": 0.7,
-            "buraco_logica": 0.3
+            "buraco_baralho": 0.8,
+            "buraco_parede": 0.2
           }
         }
       ]
     },
     {
-      "question": "Seu lema de vida é:",
+      "question": "Qual dessas sensações físicas te define melhor?",
       "answers": [
         {
-          "text": "'O que entra não volta. E tá tudo bem.'",
+          "text": "🌀 Aquele puxão no estômago quando o elevador desce rápido demais",
           "points": {
-            "buraco_negro": 0.9
+            "buraco_negro": 0.7,
+            "buraco_minhoca": 0.3
           }
         },
         {
-          "text": "'Todo fim é um começo em outro lugar. Literalmente.'",
+          "text": "🫐 A textura estranhamente satisfatória de uma bolha estourando",
           "points": {
-            "buraco_minhoca": 0.8
-          }
-        },
-        {
-          "text": "'Vazio por dentro, mas é isso que me completa.'",
-          "points": {
-            "buraco_rosquinha": 0.7,
-            "buraco_parede": 0.3
-          }
-        },
-        {
-          "text": "'Protejo vocês dos perigos cósmicos. De nada.'",
-          "points": {
-            "buraco_ozonio": 0.6,
+            "buraco_rosquinha": 0.6,
             "buraco_tatu": 0.4
           }
+        },
+        {
+          "text": "🔥 A combinação quente/úmido/crocante de um sanduíche que desafia a física",
+          "points": {
+            "buraco_quente": 0.9
+          }
+        },
+        {
+          "text": "❄️ Aquele calafrio quando você percebe que esqueceu algo importante",
+          "points": {
+            "buraco_parede": 0.7,
+            "buraco_baralho": 0.3
+          }
         }
       ]
     },
     {
-      "question": "Finalmente: qual desses diálogos é mais você?",
+      "question": "Se você tivesse que alertar as pessoas sobre algo, seria:",
       "answers": [
         {
-          "text": "'A atração gravitacional não é uma escolha, é um estilo de vida.'",
+          "text": "⚠️ 'Cuidado com minha zona de exclusão emocional de 3 metros'",
           "points": {
             "buraco_negro": 0.8,
             "buraco_logica": 0.2
           }
         },
         {
-          "text": "'Posso não ser o buraco mais famoso, mas pelo menos tenho um tatu!'",
+          "text": "🧭 'Não confie nas minhas indicações de caminho, elas levam a 1987'",
+          "points": {
+            "buraco_minhoca": 0.9
+          }
+        },
+        {
+          "text": "🍴 'A ordem dos ingredientes NÃO É SUGESTÃO, É LEI'",
+          "points": {
+            "buraco_quente": 0.8,
+            "buraco_baralho": 0.2
+          }
+        },
+        {
+          "text": "🎲 'Minhas promessas têm validade de uma rodada de buraco'",
+          "points": {
+            "buraco_baralho": 0.7,
+            "buraco_tatu": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu talento oculto mais inútil é:",
+      "answers": [
+        {
+          "text": "📡 Conseguir ouvir o som do vácuo do espaço em lugares silenciosos",
+          "points": {
+            "buraco_negro": 0.7,
+            "buraco_parede": 0.3
+          }
+        },
+        {
+          "text": "🧶 Encontrar furos em lógicas que nem sabiam que eram perfuráveis",
+          "points": {
+            "buraco_logica": 0.8,
+            "buraco_minhoca": 0.2
+          }
+        },
+        {
+          "text": "🔮 Prever exatamente qual ingrediente vai faltar na festa",
+          "points": {
+            "buraco_quente": 0.6,
+            "buraco_rosquinha": 0.4
+          }
+        },
+        {
+          "text": "🦔 Reconhecer tocas de tatu a 50 metros de distância",
           "points": {
             "buraco_tatu": 0.9
           }
-        },
+        }
+      ]
+    },
+    {
+      "question": "Qual desses cheiros imaginários te descreve?",
+      "answers": [
         {
-          "text": "'Espera, eu ia dizer algo profundo mas... esqueci. Tinha a ver com buracos.'",
+          "text": "🪐 O cheiro que Marte teria se tivesse cheiro (não tem, mas se tivesse)",
           "points": {
-            "buraco_memoria": 0.7,
-            "buraco_rosquinha": 0.3
+            "buraco_negro": 0.8,
+            "buraco_logica": 0.2
           }
         },
         {
-          "text": "'Se a parede falasse, ela diria: eu sou mais buraco do que parede.'",
+          "text": "🌫️ O aroma da dúvida com notas de 'será que isso funciona?'",
           "points": {
-            "buraco_parede": 0.6,
-            "buraco_ozonio": 0.4
+            "buraco_minhoca": 0.7,
+            "buraco_baralho": 0.3
+          }
+        },
+        {
+          "text": "🎆 O perfume de nostalgia misturado com gordura hidrogenada",
+          "points": {
+            "buraco_quente": 0.9
+          }
+        },
+        {
+          "text": "📚 O cheiro de regras sendo quebradas com estilo questionável",
+          "points": {
+            "buraco_baralho": 0.8,
+            "buraco_parede": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Finalmente: se você fosse um tipo de clima emocional, seria:",
+      "answers": [
+        {
+          "text": "🌪️ Uma tempestade que suga tudo para cima e depois some sem explicação",
+          "points": {
+            "buraco_negro": 0.9
+          }
+        },
+        {
+          "text": "🌈 Chuva com sol em dois lugares diferentes ao mesmo tempo",
+          "points": {
+            "buraco_minhoca": 0.7,
+            "buraco_logica": 0.3
+          }
+        },
+        {
+          "text": "🌡️ Aquele calor úmido que promete chuva mas só entrega suor",
+          "points": {
+            "buraco_quente": 0.8,
+            "buraco_tatu": 0.2
+          }
+        },
+        {
+          "text": "🎭 Nevoeiro que deixa tudo incerto, mas de repente some revelando algo pior",
+          "points": {
+            "buraco_baralho": 0.7,
+            "buraco_parede": 0.3
           }
         }
       ]
@@ -259,36 +263,51 @@
   "descriptions": {
     "buraco_negro": {
       "title": "Buraco Negro",
-      "emoji": "⚫",
-      "subtitle": "O Absorvedor Existencial",
-      "text": "Você é denso, misterioso e tem uma atração gravitacional que não pode ser negada. As coisas (e pessoas) simplesmente caem em sua órbita e nunca mais saem. Seu interior é um mistério completo, mas todo mundo quer descobrir. Cuidado: sua densidade emocional pode distorcer o tempo e espaço ao seu redor!"
+      "emoji": "🕳️⚫",
+      "subtitle": "O Vácuo com Personalidade",
+      "text": "Você é aquele tipo de pessoa que atrai drama, segredos e meias perdidas. Tudo desaparece quando chega perto de você - chaves, celulares, a autoestima dos outros. Seu lema é 'o que vem não volta', mas pelo menos você faz isso com estilo cósmico. As pessoas te temem, mas secretamente querem saber o que você guarda lá no fundo."
     },
     "buraco_minhoca": {
       "title": "Buraco de Minhoca",
-      "emoji": "🐛",
-      "subtitle": "O Conector Multiverso",
-      "text": "Você é o atalho do universo! Conecta pontos que nem deveriam se falar, cria passagens entre realidades distintas e tem um talento especial para viagens no tempo (pelo menos, nas conversas). Seu maior medo? Ficar preso em um paradoxo temporal por excesso de criatividade."
+      "emoji": "🌀🐛",
+      "subtitle": "O Atalho Temporal",
+      "text": "Você sempre encontra um jeito de chegar antes mesmo de sair. Conecta pessoas que nem se falariam em outras dimensões. Seu talento? Criar pontes onde só havia abismos (e depois sumir por elas). Cuidado: as vezes você sai em 2024 e chega em 1998 com uma crise existencial e roupas vintage involuntárias."
     },
     "buraco_rosquinha": {
       "title": "Buraco de Rosquinha",
-      "emoji": "🍩",
-      "subtitle": "O Circular Delicioso",
-      "text": "Seu vazio é sua essência! Você é doce, circular e todo mundo te quer por perto (especialmente no café da manhã). Pode parecer que falta algo no seu centro, mas na verdade é essa ausência que te completa. Filosófico e açucarado - combinação perigosa!"
+      "emoji": "🍩🌀",
+      "subtitle": "O Vazio Açucarado",
+      "text": "Seu centro é vazio, mas que vazio delicioso! Você é doce por fora, circular por natureza e sempre deixa um gostinho de 'quero mais'. As pessoas te consomem rápido demais e depois se arrependem (mas voltam no dia seguinte). Filosofia de vida: 'se não há recheio, invente um significado profundo para a falta'."
     },
     "buraco_parede": {
       "title": "Buraco na Parede",
-      "emoji": "🕳️",
-      "subtitle": "O Testemunha Inútil",
-      "text": "Você está ali. Sempre esteve. Observa tudo, não interfere em nada. As pessoas esquecem que você existe até precisarem pendurar um quadro. Sua vida é uma existência passiva, mas hey, pelo menos você viu coisas que ninguém mais viu. É tipo um CCTV natural, só que menos útil."
+      "emoji": "🧱👁️",
+      "subtitle": "O Observador Passivo-Agressivo",
+      "text": "Você está lá. Sempre esteve. Viu o chefe chorar, o estagiário roubar café, o fantasma do banheiro do 3º andar. Ninguém te nota até precisar esconder algo. Sua existência é um testemunho mudo da loucura alheia. Parabéns, você é o CCTV emocional da firma - sem fio, sem propósito, mas sempre assistindo."
     },
     "buraco_tatu": {
       "title": "Buraco do Tatu",
-      "emoji": "🦔",
-      "subtitle": "O Morada Improvável",
-      "text": "Você não é o buraco mais famoso, mas tem um inquilino fofo! Sua vida é compartilhada com um tatu que não paga aluguel mas traz charme rústico. Você é acolhedor, modesto e prova que mesmo os buracos mais simples podem abrigar grandes surpresas (ou pequenos mamíferos encouraçados)."
+      "emoji": "🦔🏠",
+      "subtitle": "O Anfitrião Inesperado",
+      "text": "Você não planejou ser lar de nada, mas agora abriga um mamífero encouraçado que não paga aluguel. Sua vida é sobre hospitalidade involuntária! Você prova que mesmo os espaços mais modestos podem ter charme (e um inquilino com más maneiras à mesa). As pessoas te subestimam, até verem seu morador."
     },
-    "buraco_memoria": {
-      "title": "Buraco na Memória",
-      "emoji": "🧠",
-      "subtitle": "O Esquecimento Ativo",
-      "text": "Você é seletivo! Lembra do nome do cachorro do primo distante mas
+    "buraco_quente": {
+      "title": "Buraco Quente",
+      "emoji": "🌭🤯",
+      "subtitle": "O Caos Gastronômico",
+      "text": "MAIONESE VAI ANTES DO KETCHUP? DISCUTA! Você é tradição, polêmica e indigestão potencial. Sua mera existência gera debates acalorados sobre a ordem correta dos condimentos. Quando aparece, é evento. Quando some, é saudade (e azia). Vive no limiar entre 'delícia' e 'erro médico'."
+    },
+    "buraco_baralho": {
+      "title": "Buraco de Baralho",
+      "emoji": "🃏🎴",
+      "subtitle": "O Trapaceiro Cativante",
+      "text": "Sua vida é um jogo onde as regras mudam quando você está perdendo. Especialista em blefes emocionais e reviravoltas dramáticas. As pessoas não confiam em você, mas adoram tê-lo por perto - sempre traz emoção (e discussões sobre quem roubou o ás). Filosofia: 'se não está ganhando, invente um novo jogo'."
+    },
+    "buraco_logica": {
+      "title": "Buraco na Lógica",
+      "emoji": "❓🌀",
+      "subtitle": "O Paradoxo Habitável",
+      "text": "'Se eu não existo, como posso estar aqui dizendo isso?' Você é aquele amigo que transforma simples conversas em crises existenciais. Desafia causalidade, ignora cronologia e acha buracos em argumentos que nem sabiam que eram perfuráveis. As pessoas te evitam em reuniões importantes, mas te amam em festas com bebida aberta."
+    }
+  }
+}
