@@ -8,28 +8,31 @@
         {
           "text": "🧠 Ignoro, meu cérebro só ativa depois do café",
           "points": {
-            "ar_condicionado": 0.6,
-            "vampiro_madureira": 0.4
+            "ar_condicionado": 0.5,
+            "vampiro_madureira": 0.4,
+            "favela_vive": 0.1
           }
         },
         {
           "text": "📲 Ligo pro primeiro contato da lista e falo 'Lembra de algo pra mim?'",
           "points": {
-            "jorginho_12": 0.9
+            "jorginho_12": 0.8,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "💃 Coloco o funk no último volume até a lembrança voltar",
           "points": {
-            "descontrolada": 0.8,
+            "descontrolada": 0.7,
             "favela_vive": 0.3
           }
         },
         {
           "text": "🚨 Aciono o protocolo de emergência: checklist, alarmes, despertador",
           "points": {
-            "liga_samu": 0.7,
-            "100_feminista": 0.3
+            "liga_samu": 0.6,
+            "100_feminista": 0.3,
+            "favela_vive": 0.1
           }
         }
       ]
@@ -40,28 +43,31 @@
         {
           "text": "⚽ Levo a TV portátil pro bar e viro a atração principal",
           "points": {
-            "vou_investir": 0.6,
-            "jorginho_12": 0.4
+            "vou_investir": 0.5,
+            "jorginho_12": 0.3,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "👻 Sumo e deixo um áudio misterioso: 'Tô resolvendo uns bagulho'",
           "points": {
-            "vampiro_madureira": 0.9
+            "vampiro_madureira": 0.8,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "🔥 Transformo o rolê num bate-volta pra Madureira ver o jogo",
           "points": {
-            "descontrolada": 0.8,
-            "favela_vive": 0.5
+            "descontrolada": 0.6,
+            "favela_vive": 0.4
           }
         },
         {
           "text": "🎤 Faço discurso sobre prioridades e ninguém entende se foi piada",
           "points": {
-            "100_feminista": 0.7,
-            "avo_maluca": 0.3
+            "100_feminista": 0.6,
+            "avo_maluca": 0.2,
+            "favela_vive": 0.2
           }
         }
       ]
@@ -72,28 +78,32 @@
         {
           "text": "💸 Aplico no jogo do bicho pra transformar em 500",
           "points": {
-            "vou_investir": 0.9
+            "vou_investir": 0.8,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "🍻 Convoco os mais próximos pra um chopp de emergência",
           "points": {
-            "liga_samu": 0.6,
-            "descontrolada": 0.4
+            "liga_samu": 0.5,
+            "descontrolada": 0.3,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "🧐 Desconfio que é câmera escondida e saio andando rápido",
           "points": {
-            "vampiro_madureira": 0.7,
-            "ar_condicionado": 0.3
+            "vampiro_madureira": 0.6,
+            "ar_condicionado": 0.3,
+            "favela_vive": 0.1
           }
         },
         {
           "text": "📢 Viro repórter: 'Público, achei 50 contos! Quem perdeu?'",
           "points": {
-            "avo_maluca": 0.8,
-            "jorginho_12": 0.2
+            "avo_maluca": 0.7,
+            "jorginho_12": 0.2,
+            "favela_vive": 0.1
           }
         }
       ]
@@ -104,28 +114,32 @@
         {
           "text": "❄️ Relação puramente utilitária, como um marido de conveniência",
           "points": {
-            "ar_condicionado": 0.9
+            "ar_condicionado": 0.8,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "💔 Já sofri muito sem ele, hoje é caso de amor e dependência",
           "points": {
-            "vou_investir": 0.6,
-            "liga_samu": 0.4
+            "vou_investir": 0.5,
+            "liga_samu": 0.3,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "⚡ Meu maior prazer é ajustar a temperatura alheia sem permissão",
           "points": {
-            "descontrolada": 0.7,
-            "100_feminista": 0.3
+            "descontrolada": 0.6,
+            "100_feminista": 0.2,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "👻 Acho que ele me observa quando estou dormindo",
           "points": {
-            "vampiro_madureira": 0.8,
-            "avo_maluca": 0.2
+            "vampiro_madureira": 0.7,
+            "avo_maluca": 0.2,
+            "favela_vive": 0.1
           }
         }
       ]
@@ -136,27 +150,31 @@
         {
           "text": "💰 'Vai pedir dinheiro emprestado. Já preparo o NÃO'",
           "points": {
-            "jorginho_12": 0.7,
-            "ar_condicionado": 0.3
+            "jorginho_12": 0.6,
+            "ar_condicionado": 0.2,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "🎭 'Finalmente! Mais material pra minha coleção de causos'",
           "points": {
-            "avo_maluca": 0.9
+            "avo_maluca": 0.8,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "🚑 'Ligo o modo SAMU: escuta ativa + kit primeiros socorros emocionais'",
           "points": {
-            "liga_samu": 0.8
+            "liga_samu": 0.7,
+            "favela_vive": 0.3
           }
         },
         {
           "text": "⚖️ 'Se for machistinha, já tô preparando a resposta ácida'",
           "points": {
-            "100_feminista": 0.9,
-            "descontrolada": 0.4
+            "100_feminista": 0.8,
+            "descontrolada": 0.1,
+            "favela_vive": 0.1
           }
         }
       ]
@@ -167,28 +185,31 @@
         {
           "text": "📱 Carregador do celular (como vou postar o story sem isso?)",
           "points": {
-            "vou_investir": 0.5,
-            "avo_maluca": 0.5
+            "vou_investir": 0.4,
+            "avo_maluca": 0.4,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "🎤 Microfone de karaokê (pra animar a tragédia)",
           "points": {
-            "descontrolada": 0.8,
+            "descontrolada": 0.7,
             "favela_vive": 0.3
           }
         },
         {
           "text": "❄️ Controle remoto do ar-condicionado (morro com dignidade)",
           "points": {
-            "ar_condicionado": 0.9
+            "ar_condicionado": 0.8,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "📒 Caderno de anotações (com as dívidas dos outros)",
           "points": {
-            "jorginho_12": 0.7,
-            "vampiro_madureira": 0.3
+            "jorginho_12": 0.6,
+            "vampiro_madureira": 0.2,
+            "favela_vive": 0.2
           }
         }
       ]
@@ -199,29 +220,33 @@
         {
           "text": "🧜🏽‍♀️ Sereia: encanto com um objetivo, depois afogo quem me atrapalha",
           "points": {
-            "vou_investir": 0.7,
-            "100_feminista": 0.4
+            "vou_investir": 0.6,
+            "100_feminista": 0.3,
+            "favela_vive": 0.1
           }
         },
         {
           "text": "👻 Fantasma: estou sempre presente, mas ninguém sabe como ou quando",
           "points": {
-            "vampiro_madureira": 0.9,
-            "ar_condicionado": 0.2
+            "vampiro_madureira": 0.8,
+            "ar_condicionado": 0.1,
+            "favela_vive": 0.1
           }
         },
         {
           "text": "🦸🏾‍♀️ Heroína de HQ: salvo o dia e viro lenda no grupo do WhatsApp",
           "points": {
-            "liga_samu": 0.8,
-            "descontrolada": 0.3
+            "liga_samu": 0.7,
+            "descontrolada": 0.2,
+            "favela_vive": 0.1
           }
         },
         {
           "text": "📜 Bardo medieval: minha arma é a narrativa que conto sobre os fatos",
           "points": {
-            "avo_maluca": 0.9,
-            "jorginho_12": 0.2
+            "avo_maluca": 0.8,
+            "jorginho_12": 0.1,
+            "favela_vive": 0.1
           }
         }
       ]
@@ -232,28 +257,31 @@
         {
           "text": "🔔 'Tem gente falando de você no grupo secreto. Quer ver?'",
           "points": {
-            "avo_maluca": 0.8,
-            "vampiro_madureira": 0.3
+            "avo_maluca": 0.7,
+            "vampiro_madureira": 0.2,
+            "favela_vive": 0.1
           }
         },
         {
           "text": "💸 'Olha essa oportunidade que quase ninguém viu...'",
           "points": {
-            "vou_investir": 0.9
+            "vou_investir": 0.8,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "🚨 'ALERTA: ambiente tóxico detectado. Sugestão: vá embora AGORA.'",
           "points": {
-            "100_feminista": 0.7,
-            "liga_samu": 0.4
+            "100_feminista": 0.6,
+            "liga_samu": 0.3,
+            "favela_vive": 0.1
           }
         },
         {
           "text": "🎪 'Modo festa ativado automaticamente. Resistir? (Timer: 5 segundos)'",
           "points": {
-            "descontrolada": 0.9,
-            "favela_vive": 0.3
+            "descontrolada": 0.8,
+            "favela_vive": 0.2
           }
         }
       ]
@@ -264,28 +292,70 @@
         {
           "text": "🏃‍♀️ Jogo fora e compro caipirinha pronta. Sou prática, não romântica",
           "points": {
-            "ar_condicionado": 0.8,
-            "jorginho_12": 0.3
+            "ar_condicionado": 0.7,
+            "jorginho_12": 0.2,
+            "favela_vive": 0.1
           }
         },
         {
           "text": "👑 Organizo um protesto: 'Limões têm que vir já na forma de drink!'",
           "points": {
-            "100_feminista": 0.9
+            "100_feminista": 0.8,
+            "favela_vive": 0.2
           }
         },
         {
           "text": "🕵️‍♀️ Investigo quem me enviou e devolvo com juros simbólicos",
           "points": {
-            "vampiro_madureira": 0.7,
-            "vou_investir": 0.4
+            "vampiro_madureira": 0.6,
+            "vou_investir": 0.3,
+            "favela_vive": 0.1
           }
         },
         {
           "text": "🎤 Vendo limonada e transformo o stand num point com música alta",
           "points": {
-            "descontrolada": 0.8,
-            "favela_vive": 0.5
+            "descontrolada": 0.7,
+            "favela_vive": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual MC Carol interior fala mais alto em você?",
+      "answers": [
+        {
+          "text": "🎯 '100% Feminista' - A justiceira que não cala a boca diante de absurdo",
+          "points": {
+            "100_feminista": 0.8,
+            "favela_vive": 0.2
+          }
+        },
+        {
+          "text": "💃 'Descontrolada' - A animadora de festa que manda a timidez pra longe",
+          "points": {
+            "descontrolada": 0.7,
+            "favela_vive": 0.3
+          }
+        },
+        {
+          "text": "🏠 'Favela Vive' - A que carrega as origens com orgulho e resistência",
+          "points": {
+            "favela_vive": 0.9
+          }
+        },
+        {
+          "text": "🚑 'Liga pro SAMU' - A socorrista emocional dos amigos 24h",
+          "points": {
+            "liga_samu": 0.7,
+            "favela_vive": 0.3
+          }
+        },
+        {
+          "text": "👵 'Minha Vó Tá Maluca' - A narradora dos causos alheios",
+          "points": {
+            "avo_maluca": 0.7,
+            "favela_vive": 0.3
           }
         }
       ]
@@ -339,6 +409,12 @@
       "emoji": "🚑",
       "subtitle": "Socorrista Emocional",
       "text": "Você é a emergência 24h dos amigos. Todo mundo te procura quando a coisa aperta, porque sabe que você vai saber o que fazer (ou pelo menos vai fazer graça da situação). Às vezes você se cansa de ser a 'enfermeira' de todo mundo, mas no fundo adora se sentir necessário."
+    },
+    "favela_vive": {
+      "title": "FAVELA VIVE 6",
+      "emoji": "🏙️",
+      "subtitle": "Raiz com Orgulho",
+      "text": "Você é a conexão com as origens, a memória viva da quebrada. Sabe de onde veio e leva isso pra onde for. Não é saudosista, é consciente. Sua força tá na resistência e na capacidade de transformar realidade difícil em arte e potência. É a pessoa que lembra todo mundo das raízes, da luta e da força que vem do asfalto quente e do coração quente."
     }
   }
 }
