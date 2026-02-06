@@ -529,6 +529,11 @@
       "name": "Qual Buraco Você Seria?",
       "file": "quizzes/quizBuracos.json",
       "description": "Descubra qual buraco (do negro ao quente) melhor representa sua personalidade caótica!"
+    },
+    {
+      "name": "Qual Fera Bit Beyblade Reflete Sua Personalidade?",
+      "file": "quizzes/quizBeyblade.json",
+      "description": "Gire o bey! Descubra qual lendária Fera Bit (Dragoon, Dranzer, Driger...) combina com sua personalidade e estilo de batalha na vida."
     }
 
 
