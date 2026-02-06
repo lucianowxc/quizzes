@@ -1,0 +1,292 @@
+{
+  "title": "Qual Lei da Física Você Seria?",
+  "subtitle": "Descubra qual princípio fundamental do universo rege seu comportamento, seus relacionamentos e sua bagunça no quarto.",
+  "questions": [
+    {
+      "question": "Como você lida com uma mesa de trabalho/estudo bagunçada?",
+      "answers": [
+        {
+          "text": "🌋 Aceito como um estado natural. A ordem exigiria energia infinita da minha parte.",
+          "points": {
+            "entropia": 0.9,
+            "inercia": 0.3
+          }
+        },
+        {
+          "text": "🗿 Só arrumo se uma força externa (chefe, prova) me obrigar. Até lá, é uma escultura.",
+          "points": {
+            "inercia": 0.9
+          }
+        },
+        {
+          "text": "🎭 A 'bagunça' é relativa. Do meu ponto de vista, está perfeitamente organizada.",
+          "points": {
+            "relatividade": 0.8
+          }
+        },
+        {
+          "text": "🔄 Arrumo, mas logo volta a bagunçar. É um ciclo natural do sistema.",
+          "points": {
+            "terceira_lei_newton": 0.6,
+            "conservacao_energia": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Num debate acalorado, sua postura é:",
+      "answers": [
+        {
+          "text": "🪐 Tentar atrair todos para o meu ponto de vista, unificando a discussão.",
+          "points": {
+            "gravidade": 0.8
+          }
+        },
+        {
+          "text": "🎪 Argumentar que ambos os lados podem estar certos, dependendo da lona em que se está.",
+          "points": {
+            "relatividade": 0.9,
+            "quantico": 0.3
+          }
+        },
+        {
+          "text": "⚔️ Reagir com a mesma intensidade com que sou atacado. Se for paz, dou paz.",
+          "points": {
+            "terceira_lei_newton": 0.9
+          }
+        },
+        {
+          "text": "🌪️ Deixar a discussão evoluir para um caos criativo e imprevisível.",
+          "points": {
+            "entropia": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seus amigos te descreveriam como:",
+      "answers": [
+        {
+          "text": "🪨 Alguém muito constante. Ou está 100% parado, ou 100% em movimento.",
+          "points": {
+            "inercia": 0.9
+          }
+        },
+        {
+          "text": "⭐ O centro gravitacional do grupo. Sem você, todo mundo se dispersa.",
+          "points": {
+            "gravidade": 0.9
+          }
+        },
+        {
+          "text": "🃏 Alguém misterioso. Nunca dá pra ter certeza da sua próxima carta.",
+          "points": {
+            "quantico": 0.8
+          }
+        },
+        {
+          "text": "🧩 Aquele que sempre acha um jeito de transformar a energia do grupo.",
+          "points": {
+            "conservacao_energia": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destas frases existenciais mais te define?",
+      "answers": [
+        {
+          "text": "🍂 'Tudo caminha para a desordem. Abrace o caos.'",
+          "points": {
+            "entropia": 0.9
+          }
+        },
+        {
+          "text": "⚖️ 'O universo é uma balança perfeita. Tudo retorna.'",
+          "points": {
+            "terceira_lei_newton": 0.8
+          }
+        },
+        {
+          "text": "🎲 'A realidade não é um fato, é um lançamento de dados.'",
+          "points": {
+            "quantico": 0.9
+          }
+        },
+        {
+          "text": "🏹 'Se não houver um alvo claro, não há motivo para mover a flecha.'",
+          "points": {
+            "inercia": 0.7,
+            "principio_pauli": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Num primeiro encontro, você:",
+      "answers": [
+        {
+          "text": "🧭 Atrai a conversa para seus interesses, como uma bússola apontando para o norte.",
+          "points": {
+            "gravidade": 0.7
+          }
+        },
+        {
+          "text": "🎭 Adapta sua personalidade como um ator, dependendo do roteiro do encontro.",
+          "points": {
+            "relatividade": 0.8
+          }
+        },
+        {
+          "text": "🔮 Age de forma imprevisível, mantendo um ar de mago ou oráculo.",
+          "points": {
+            "quantico": 0.8
+          }
+        },
+        {
+          "text": "🤝 É direto e claro. Se a pessoa for legal, você é legal de volta na mesma medida.",
+          "points": {
+            "terceira_lei_newton": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sobre fazer planos para o futuro:",
+      "answers": [
+        {
+          "text": "🍃 Planos são folhas ao vento. O caos sempre intervém. Prefiro a espontaneidade.",
+          "points": {
+            "entropia": 0.9
+          }
+        },
+        {
+          "text": "🪑 Se eu já estiver em um bom plano (ou rotina), continuo. Mudar dá trabalho.",
+          "points": {
+            "inercia": 0.8
+          }
+        },
+        {
+          "text": "⏰ O futuro é relativo. Depende de tantas variáveis que é inútil planejar demais.",
+          "points": {
+            "relatividade": 0.7
+          }
+        },
+        {
+          "text": "🧘 Planejo meu espaço pessoal primeiro. Preciso de um 'estado quântico' único para funcionar.",
+          "points": {
+            "principio_pauli": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Quando algo muito bom ou muito ruim acontece, você:",
+      "answers": [
+        {
+          "text": "🪨 Demora a reagir. Leva tempo para eu sair do estado de 'repouso emocional'.",
+          "points": {
+            "inercia": 0.8
+          }
+        },
+        {
+          "text": "🎯 Sinto uma necessidade imediata de fazer algo de igual intensidade no mundo.",
+          "points": {
+            "terceira_lei_newton": 0.8
+          }
+        },
+        {
+          "text": "🕳️ Vejo como um ponto fora da curva que logo será absorvido pelo caos do dia a dia.",
+          "points": {
+            "entropia": 0.7
+          }
+        },
+        {
+          "text": "⚡ Transformo essa energia. Se for boa, canalizo; se for ruim, redireciono.",
+          "points": {
+            "conservacao_energia": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua maior lição para a humanidade seria:",
+      "answers": [
+        {
+          "text": "🌀 'Aceitem que a perfeição é inatingível. A desordem é a verdadeira ordem.'",
+          "points": {
+            "entropia": 0.9
+          }
+        },
+        {
+          "text": "🌟 'Ninguém é uma ilha. Nossas conexões são o que dão peso à vida.'",
+          "points": {
+            "gravidade": 0.8
+          }
+        },
+        {
+          "text": "🧩 'Sua verdade não é A verdade. Tudo é uma questão de perspectiva.'",
+          "points": {
+            "relatividade": 0.9
+          }
+        },
+        {
+          "text": "🦄 'Busquem sua singularidade. O universo não precisa de cópias.'",
+          "points": {
+            "principio_pauli": 0.9
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "entropia": {
+      "title": "Segunda Lei da Termodinâmica (Entropia) 🔥📈",
+      "emoji": "🔥📈",
+      "subtitle": "1/8 - O Caos Crescente",
+      "text": "Você é a ENTROPIA. A lei que rege que a desordem no universo sempre aumenta. Você não é bagunceiro, você é... termodinamicamente favorecido. Sua mesa de trabalho, sua vida e seus planos tendem naturalmente a um estado de caos máximo. Organizar é uma luta constante contra a sua própria natureza universal. Você lembra a todos que a perfeição é improvável, e que há uma beleza poética no desarranjo. Relaxar? Para você, é uma obrigação cósmica."
+    },
+    "inercia": {
+      "title": "Primeira Lei de Newton (Inércia) 🛋️⚖️",
+      "emoji": "🛋️⚖️",
+      "subtitle": "2/8 - A Resistência à Mudança",
+      "text": "Você é a INÉRCIA. Um corpo em repouso tende a permanecer em repouso, e um corpo em movimento tende a permanecer em movimento. Você é a personificação da preguiça produtiva ou da produtividade teimosa. Parar é difícil. Começar é difícil. Mas uma vez que você engrena, nada te tira do ritmo. Você é previsível, estável e detesta mudanças bruscas de planos. Seu lema secreto: 'Por que mudar hoje o que pode ser adiado para amanhã... ou nunca?'"
+    },
+    "gravidade": {
+      "title": "Lei da Gravitação Universal 🌍🧲",
+      "emoji": "🌍🧲",
+      "subtitle": "3/8 - A Força que Atrai",
+      "text": "Você é a GRAVIDADE. A força invisível que mantém tudo unido. As pessoas naturalmente orbitam ao seu redor. Você é aquele amigo que é o centro do grupo, que atrai conversas, problemas e amor. Sua influência é suave, mas constante e inescapável. Você pode ser reconfortante (como a gravidade que nos mantém no chão) ou esmagador (como a de um buraco negro). Cuidado para não atrair muito drama para sua órbita."
+    },
+    "relatividade": {
+      "title": "Teoria da Relatividade (Geral/Restrita) ⏳🌀",
+      "emoji": "⏳🌀",
+      "subtitle": "4/8 - O Observador Contextual",
+      "text": "Você é a RELATIVIDADE. Tudo depende do ponto de vista. Para você, não existe verdade absoluta, só contextos e referenciais. Você entende que o tempo passa mais devagar em uma reunião chata e que a massa de um problema depende da energia emocional que você coloca nele. Você é flexível, adaptável e frequentemente diz 'depende'. As pessoas podem te achar complicado, mas você só está mostrando que a realidade é uma questão de perspectiva."
+    },
+    "quantico": {
+      "title": "Princípio da Incerteza de Heisenberg ❓🐈",
+      "emoji": "❓🐈",
+      "subtitle": "5/8 - A Indefinição Essencial",
+      "text": "Você é o PRINCÍPIO DA INCERTEZA. É impossível saber sua posição (opinião) e seu momento (próximo passo) ao mesmo tempo com precisão. Você é imprevisível, cheio de potencial e um pouco contraditório. Pode estar em dois estados de espírito ao mesmo tempo (como o gato de Schrödinger). As pessoas nunca têm 100% de certeza sobre você, e você gosta assim. Você é a personificação do mistério, da dualidade e da probabilidade. Colapsar em uma única opinião? Só sob observação."
+    },
+    "terceira_lei_newton": {
+      "title": "Terceira Lei de Newton (Ação e Reação) 👊↔️👊",
+      "emoji": "👊↔️👊",
+      "subtitle": "6/8 - A Força Reciproca",
+      "text": "Você é AÇÃO E REAÇÃO. Para toda força que aplica no mundo, você recebe uma de igual intensão e direção oposta. Você é intenso, direto e justo. Se alguém te trata com gentileza, você retribui em dobro. Se alguém te ataca, a resposta é proporcional e imediata. Você acredita em equilíbrio, justiça cósmica e que as energias que você emite voltam para você. Cuidado para não iniciar ciclos de retroalimentação negativa (também conhecidos como brigas intermináveis)."
+    },
+    "conservacao_energia": {
+      "title": "Lei da Conservação da Energia ⚡🔄",
+      "emoji": "⚡🔄",
+      "subtitle": "7/8 - O Transformador Equilibrado",
+      "text": "Você é a CONSERVAÇÃO DA ENERGIA. A energia não pode ser criada nem destruída, apenas transformada. Você é o mestre da adaptação e do equilíbrio. Quando uma porta se fecha, você não perde energia, você a redireciona para outra coisa. Sua resiliência é lendária. Você acredita que nada se perde, tudo se transforma - inclusive fracassos em aprendizado e tristezas em força. Seu maior desafio é lembrar que, às vezes, é preciso adicionar energia externa ao sistema para que a transformação aconteça."
+    },
+    "principio_pauli": {
+      "title": "Princípio de Exclusão de Pauli ⛔🎭",
+      "emoji": "⛔🎭",
+      "subtitle": "8/8 - O Individualista Quântico",
+      "text": "Você é o PRINCÍPIO DA EXCLUSÃO. Dois férmions idênticos não podem ocupar o mesmo estado quântico. Em português claro: você precisa do SEU espaço, da SUA identidade única. Você não segue a manada, você define seu próprio estado. É um individualista por natureza, mas não por egoísmo - é uma necessidade quase física de ser autêntico e não ser uma cópia de ninguém. Em um grupo, você é aquele que traz a perspectiva diferente. Cuidado para o seu medo de ser 'igual' não te isole completamente."
+    }
+  }
+}
