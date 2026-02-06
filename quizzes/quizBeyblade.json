@@ -8,29 +8,53 @@
         {
           "text": "🔥 Atacar o ponto fraco do argumento alheio com lógica afiada",
           "points": {
-            "dranzer": 0.9,
-            "zeus": 0.5
+            "dranzer": 0.1076,
+            "zeus": 0.127,
+            "dragoon": 0.0062,
+            "draciel": 0.0061,
+            "driger": 0.0113,
+            "trygle": 0.0086,
+            "gabriel": 0.0054,
+            "pegasus": 0.0087
           }
         },
         {
           "text": "🛡️ Reforçar minha própria posição com dados irrefutáveis",
           "points": {
-            "draciel": 0.8,
-            "gabriel": 0.6
+            "draciel": 0.0974,
+            "gabriel": 0.1293,
+            "dragoon": 0.0063,
+            "dranzer": 0.0062,
+            "driger": 0.0115,
+            "trygle": 0.0087,
+            "zeus": 0.0057,
+            "pegasus": 0.0089
           }
         },
         {
           "text": "⚡ Confrontar diretamente, minha convicção é minha força",
           "points": {
-            "dragoon": 0.7,
-            "trygle": 0.7
+            "dragoon": 0.0872,
+            "trygle": 0.2079,
+            "dranzer": 0.005,
+            "draciel": 0.0052,
+            "driger": 0.0094,
+            "gabriel": 0.0045,
+            "zeus": 0.0048,
+            "pegasus": 0.0074
           }
         },
         {
           "text": "💨 Analisar silenciosamente todos os lados antes de me mover",
           "points": {
-            "gabriel": 0.8,
-            "driger": 0.5
+            "gabriel": 0.085,
+            "driger": 0.2375,
+            "dragoon": 0.0045,
+            "dranzer": 0.0045,
+            "draciel": 0.0046,
+            "trygle": 0.0062,
+            "zeus": 0.0041,
+            "pegasus": 0.0064
           }
         }
       ]
@@ -41,28 +65,53 @@
         {
           "text": "🐉 'Meus amigos são minha força. Meus rivais são o que me fazem evoluir.'",
           "points": {
-            "dragoon": 0.9,
-            "pegasus": 0.4
+            "dragoon": 0.1118,
+            "pegasus": 0.1656,
+            "dranzer": 0.005,
+            "draciel": 0.0051,
+            "driger": 0.0093,
+            "trygle": 0.007,
+            "gabriel": 0.0046,
+            "zeus": 0.0047
           }
         },
         {
           "text": "👑 'Não preciso de rivais. Meu único oponente sou eu mesmo e meu limite anterior.'",
           "points": {
-            "zeus": 0.8,
-            "dranzer": 0.6
+            "zeus": 0.0875,
+            "dranzer": 0.1555,
+            "dragoon": 0.006,
+            "draciel": 0.006,
+            "driger": 0.0109,
+            "trygle": 0.0083,
+            "gabriel": 0.0053,
+            "pegasus": 0.0085
           }
         },
         {
           "text": "🤝 'Um bom rival é um espelho que mostra onde preciso ser mais forte.'",
           "points": {
-            "driger": 0.7,
-            "gabriel": 0.5
+            "driger": 0.1547,
+            "gabriel": 0.1209,
+            "dragoon": 0.0048,
+            "dranzer": 0.0046,
+            "draciel": 0.0048,
+            "trygle": 0.0067,
+            "zeus": 0.0044,
+            "pegasus": 0.0068
           }
         },
         {
           "text": "🐢 'Prefiro cooperar do que competir. Juntos somos uma fortaleza.'",
           "points": {
-            "draciel": 0.9
+            "draciel": 0.1094,
+            "dragoon": 0.0067,
+            "dranzer": 0.0065,
+            "driger": 0.0123,
+            "trygle": 0.0092,
+            "gabriel": 0.0059,
+            "zeus": 0.0063,
+            "pegasus": 0.0097
           }
         }
       ]
@@ -73,28 +122,53 @@
         {
           "text": "💥 Aceita na hora. 'Impossível' é uma palavra que me motiva.",
           "points": {
-            "trygle": 0.9,
-            "dragoon": 0.4
+            "trygle": 0.15,
+            "dragoon": 0.1264,
+            "dranzer": 0.005,
+            "draciel": 0.005,
+            "driger": 0.0092,
+            "gabriel": 0.0044,
+            "zeus": 0.0046,
+            "pegasus": 0.0073
           }
         },
         {
           "text": "🔍 Quebra o problema em 100 partes menores e traça um plano meticuloso.",
           "points": {
-            "gabriel": 0.9
+            "gabriel": 0.0955,
+            "dragoon": 0.0072,
+            "dranzer": 0.007,
+            "draciel": 0.0073,
+            "driger": 0.0134,
+            "trygle": 0.01,
+            "zeus": 0.0067,
+            "pegasus": 0.0104
           }
         },
         {
           "text": "😒 Faz com excelência, mas só para provar seu valor superior.",
           "points": {
-            "dranzer": 0.8,
-            "zeus": 0.5
+            "dranzer": 0.0958,
+            "zeus": 0.1205,
+            "dragoon": 0.0062,
+            "draciel": 0.0061,
+            "driger": 0.0112,
+            "trygle": 0.0085,
+            "gabriel": 0.0054,
+            "pegasus": 0.0087
           }
         },
         {
           "text": "🌀 Pede ajuda aos colegas e adapta a estratégia conforme avança.",
           "points": {
-            "pegasus": 0.8,
-            "draciel": 0.4
+            "pegasus": 0.1348,
+            "draciel": 0.1239,
+            "dragoon": 0.005,
+            "dranzer": 0.0048,
+            "driger": 0.0091,
+            "trygle": 0.0069,
+            "gabriel": 0.0045,
+            "zeus": 0.0047
           }
         }
       ]
@@ -105,29 +179,53 @@
         {
           "text": "🏔️ Um desafio físico extremo: escalar uma montanha ou uma maratona.",
           "points": {
-            "trygle": 0.8,
-            "dragoon": 0.5
+            "trygle": 0.1334,
+            "dragoon": 0.1389,
+            "dranzer": 0.005,
+            "draciel": 0.0051,
+            "driger": 0.0093,
+            "gabriel": 0.0046,
+            "zeus": 0.0047,
+            "pegasus": 0.0073
           }
         },
         {
           "text": "♟️ Uma noite de jogo estratégico, como xadrez ou um RPG complexo.",
           "points": {
-            "gabriel": 0.9,
-            "dranzer": 0.3
+            "gabriel": 0.0955,
+            "dranzer": 0.1062,
+            "dragoon": 0.0061,
+            "draciel": 0.0059,
+            "driger": 0.0109,
+            "trygle": 0.0083,
+            "zeus": 0.0055,
+            "pegasus": 0.0086
           }
         },
         {
           "text": "👑 Uma competição onde eu possa ser o centro das atenções e vencer.",
           "points": {
-            "zeus": 0.8,
-            "driger": 0.4
+            "zeus": 0.0875,
+            "driger": 0.2087,
+            "dragoon": 0.0047,
+            "dranzer": 0.0044,
+            "draciel": 0.0045,
+            "trygle": 0.0063,
+            "gabriel": 0.0041,
+            "pegasus": 0.0065
           }
         },
         {
           "text": "🛋️ Um dia tranquilo em casa, fortalecendo os laços com quem eu gosto.",
           "points": {
-            "draciel": 0.8,
-            "pegasus": 0.4
+            "draciel": 0.0974,
+            "pegasus": 0.1573,
+            "dragoon": 0.0051,
+            "dranzer": 0.005,
+            "driger": 0.0093,
+            "trygle": 0.007,
+            "gabriel": 0.0045,
+            "zeus": 0.0046
           }
         }
       ]
@@ -138,28 +236,53 @@
         {
           "text": "🐉 Lembra das pessoas que acreditam em você e usa isso como combustível.",
           "points": {
-            "dragoon": 0.9,
-            "pegasus": 0.5
+            "dragoon": 0.1118,
+            "pegasus": 0.1888,
+            "dranzer": 0.005,
+            "draciel": 0.0051,
+            "driger": 0.0093,
+            "trygle": 0.007,
+            "gabriel": 0.0045,
+            "zeus": 0.0048
           }
         },
         {
           "text": "❄️ Isola-se. Só você pode resolver seus problemas. A dor fortalece.",
           "points": {
-            "dranzer": 0.8
+            "dranzer": 0.0958,
+            "dragoon": 0.0065,
+            "draciel": 0.0065,
+            "driger": 0.012,
+            "trygle": 0.0091,
+            "gabriel": 0.0058,
+            "zeus": 0.0061,
+            "pegasus": 0.0096
           }
         },
         {
           "text": "🏗️ Para, analisa a estrutura do problema e busca uma nova base sólida.",
           "points": {
-            "draciel": 0.7,
-            "gabriel": 0.6
+            "draciel": 0.0853,
+            "gabriel": 0.1224,
+            "dragoon": 0.0063,
+            "dranzer": 0.0062,
+            "driger": 0.0114,
+            "trygle": 0.0086,
+            "zeus": 0.0057,
+            "pegasus": 0.009
           }
         },
         {
           "text": "⚡ Fica furioso consigo mesmo e usa a raiva para superar o obstáculo.",
           "points": {
-            "zeus": 0.8,
-            "trygle": 0.5
+            "zeus": 0.0875,
+            "trygle": 0.1871,
+            "dragoon": 0.0051,
+            "dranzer": 0.005,
+            "draciel": 0.0051,
+            "driger": 0.0094,
+            "gabriel": 0.0046,
+            "pegasus": 0.0074
           }
         }
       ]
@@ -170,26 +293,53 @@
         {
           "text": "🚀 O Motivador: empolga a equipe e lidera pelo exemplo de entusiasmo.",
           "points": {
-            "dragoon": 0.9
+            "dragoon": 0.1118,
+            "dranzer": 0.0063,
+            "draciel": 0.0066,
+            "driger": 0.0122,
+            "trygle": 0.0091,
+            "gabriel": 0.0059,
+            "zeus": 0.0061,
+            "pegasus": 0.0097
           }
         },
         {
           "text": "🧠 O Estrategista: planeja cada passo e antecipa os problemas.",
           "points": {
-            "gabriel": 0.9
+            "gabriel": 0.0955,
+            "dragoon": 0.0072,
+            "dranzer": 0.007,
+            "draciel": 0.0073,
+            "driger": 0.0134,
+            "trygle": 0.01,
+            "zeus": 0.0067,
+            "pegasus": 0.0104
           }
         },
         {
           "text": "💎 O Especialista: foca na sua parte com perfeição, esperando o mesmo dos outros.",
           "points": {
-            "dranzer": 0.8,
-            "zeus": 0.4
+            "dranzer": 0.0958,
+            "zeus": 0.1055,
+            "dragoon": 0.0061,
+            "draciel": 0.0059,
+            "driger": 0.011,
+            "trygle": 0.0083,
+            "gabriel": 0.0054,
+            "pegasus": 0.0086
           }
         },
         {
           "text": "🪨 O Suporte: garante que a base do projeto seja sólida e ajuda onde precisar.",
           "points": {
-            "draciel": 0.9
+            "draciel": 0.1094,
+            "dragoon": 0.0067,
+            "dranzer": 0.0065,
+            "driger": 0.0123,
+            "trygle": 0.0092,
+            "gabriel": 0.0059,
+            "zeus": 0.0063,
+            "pegasus": 0.0097
           }
         }
       ]
@@ -200,26 +350,53 @@
         {
           "text": "💖 Lealdade incondicional (que pode me cegar para falhas dos amigos).",
           "points": {
-            "dragoon": 0.8
+            "dragoon": 0.0995,
+            "dranzer": 0.0061,
+            "draciel": 0.0064,
+            "driger": 0.0118,
+            "trygle": 0.0089,
+            "gabriel": 0.0057,
+            "zeus": 0.006,
+            "pegasus": 0.0095
           }
         },
         {
           "text": "🏆 Orgulho e confiança no próprio talento (que pode virar arrogância).",
           "points": {
-            "dranzer": 0.9,
-            "zeus": 0.6
+            "dranzer": 0.1076,
+            "zeus": 0.1414,
+            "dragoon": 0.0063,
+            "draciel": 0.0062,
+            "driger": 0.0114,
+            "trygle": 0.0086,
+            "gabriel": 0.0056,
+            "pegasus": 0.0089
           }
         },
         {
           "text": "🛡️ Estabilidade e paciência (que podem me tornar lento e resistente a mudanças).",
           "points": {
-            "draciel": 0.9
+            "draciel": 0.1094,
+            "dragoon": 0.0067,
+            "dranzer": 0.0065,
+            "driger": 0.0123,
+            "trygle": 0.0092,
+            "gabriel": 0.0059,
+            "zeus": 0.0063,
+            "pegasus": 0.0097
           }
         },
         {
           "text": "💡 Inteligência e lógica (que podem me deixar emocionalmente distante).",
           "points": {
-            "gabriel": 0.8
+            "gabriel": 0.085,
+            "dragoon": 0.007,
+            "dranzer": 0.0068,
+            "draciel": 0.0071,
+            "driger": 0.0129,
+            "trygle": 0.0097,
+            "zeus": 0.0063,
+            "pegasus": 0.0101
           }
         }
       ]
@@ -230,27 +407,53 @@
         {
           "text": "🌪️ O Vento: Livre, imprevisível e cheio de energia vital.",
           "points": {
-            "dragoon": 0.8,
-            "driger": 0.7
+            "dragoon": 0.0995,
+            "driger": 0.2849,
+            "dranzer": 0.0043,
+            "draciel": 0.0045,
+            "trygle": 0.0061,
+            "gabriel": 0.0039,
+            "zeus": 0.004,
+            "pegasus": 0.0063
           }
         },
         {
           "text": "🔥 O Fogo: Transformador, intenso e que consome tudo para renascer.",
           "points": {
-            "dranzer": 0.9
+            "dranzer": 0.1076,
+            "dragoon": 0.0067,
+            "draciel": 0.0067,
+            "driger": 0.0124,
+            "trygle": 0.0093,
+            "gabriel": 0.006,
+            "zeus": 0.0062,
+            "pegasus": 0.0098
           }
         },
         {
           "text": "⛰️ A Terra: Sólido, confiável e a base de tudo que é construído.",
           "points": {
-            "draciel": 0.9,
-            "trygle": 0.4
+            "draciel": 0.1094,
+            "trygle": 0.1649,
+            "dragoon": 0.0051,
+            "dranzer": 0.005,
+            "driger": 0.0094,
+            "gabriel": 0.0046,
+            "zeus": 0.0047,
+            "pegasus": 0.0073
           }
         },
         {
           "text": "⚡ O Trovão: Poder absoluto, carisma e uma presença que não passa despercebida.",
           "points": {
-            "zeus": 0.9
+            "zeus": 0.0983,
+            "dragoon": 0.0071,
+            "dranzer": 0.007,
+            "draciel": 0.0072,
+            "driger": 0.0132,
+            "trygle": 0.0099,
+            "gabriel": 0.0063,
+            "pegasus": 0.0102
           }
         }
       ]
@@ -261,29 +464,53 @@
         {
           "text": "✨ O poder da Adaptação: Aprender e dominar qualquer habilidade rapidamente.",
           "points": {
-            "pegasus": 0.9,
-            "gabriel": 0.4
+            "pegasus": 0.1515,
+            "gabriel": 0.114,
+            "dragoon": 0.0053,
+            "dranzer": 0.0051,
+            "draciel": 0.0053,
+            "driger": 0.0097,
+            "trygle": 0.0074,
+            "zeus": 0.0049
           }
         },
         {
           "text": "🦾 O poder da Força Absoluta: Nenhuma barreira física seria capaz de me deter.",
           "points": {
-            "trygle": 0.9,
-            "zeus": 0.4
+            "trygle": 0.15,
+            "zeus": 0.1102,
+            "dragoon": 0.0053,
+            "dranzer": 0.0052,
+            "draciel": 0.0054,
+            "driger": 0.0098,
+            "gabriel": 0.0048,
+            "pegasus": 0.0077
           }
         },
         {
           "text": "👁️ O poder da Percepção Estratégica: Enxergar os próximos 10 passos de qualquer situação.",
           "points": {
-            "gabriel": 0.8,
-            "dranzer": 0.5
+            "gabriel": 0.085,
+            "dranzer": 0.1345,
+            "dragoon": 0.0061,
+            "draciel": 0.006,
+            "driger": 0.011,
+            "trygle": 0.0083,
+            "zeus": 0.0055,
+            "pegasus": 0.0086
           }
         },
         {
           "text": "💞 O poder da Conexão Emocional: Sentir e fortalecer os laços com aqueles ao meu redor.",
           "points": {
-            "dragoon": 0.7,
-            "draciel": 0.6
+            "dragoon": 0.0872,
+            "draciel": 0.14,
+            "dranzer": 0.0057,
+            "driger": 0.0106,
+            "trygle": 0.0081,
+            "gabriel": 0.0051,
+            "zeus": 0.0054,
+            "pegasus": 0.0084
           }
         }
       ]
@@ -294,27 +521,53 @@
         {
           "text": "\"Gire para vencer! A força dos meus amigos está comigo!\"",
           "points": {
-            "dragoon": 0.9,
-            "pegasus": 0.5
+            "dragoon": 0.1118,
+            "pegasus": 0.1888,
+            "dranzer": 0.005,
+            "draciel": 0.0051,
+            "driger": 0.0093,
+            "trygle": 0.007,
+            "gabriel": 0.0045,
+            "zeus": 0.0048
           }
         },
         {
           "text": "\"A vitória é a única prova de valor. Tudo ou nada.\"",
           "points": {
-            "dranzer": 0.8,
-            "zeus": 0.7
+            "dranzer": 0.0958,
+            "zeus": 0.1477,
+            "dragoon": 0.0064,
+            "draciel": 0.0063,
+            "driger": 0.0116,
+            "trygle": 0.0088,
+            "gabriel": 0.0056,
+            "pegasus": 0.009
           }
         },
         {
           "text": "\"A melhor defesa é uma fortaleza inabalável. Resista e espere sua hora.\"",
           "points": {
-            "draciel": 0.9
+            "draciel": 0.1094,
+            "dragoon": 0.0067,
+            "dranzer": 0.0065,
+            "driger": 0.0123,
+            "trygle": 0.0092,
+            "gabriel": 0.0059,
+            "zeus": 0.0063,
+            "pegasus": 0.0097
           }
         },
         {
           "text": "\"Conheça a si mesmo, conheça seu oponente. A estratégia supera a força.\"",
           "points": {
-            "gabriel": 0.9
+            "gabriel": 0.0955,
+            "dragoon": 0.0072,
+            "dranzer": 0.007,
+            "draciel": 0.0073,
+            "driger": 0.0134,
+            "trygle": 0.01,
+            "zeus": 0.0067,
+            "pegasus": 0.0104
           }
         }
       ]
