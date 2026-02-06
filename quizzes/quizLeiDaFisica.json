@@ -8,27 +8,53 @@
         {
           "text": "🌋 Aceito como um estado natural. A ordem exigiria energia infinita da minha parte.",
           "points": {
-            "entropia": 0.9,
-            "inercia": 0.3
+            "entropia": 0.156,
+            "inercia": 0.134,
+            "gravidade": 0.0088,
+            "relatividade": 0.0073,
+            "quantico": 0.0089,
+            "terceira_lei_newton": 0.0079,
+            "conservacao_energia": 0.0109,
+            "principio_pauli": 0.0108
           }
         },
         {
           "text": "🗿 Só arrumo se uma força externa (chefe, prova) me obrigar. Até lá, é uma escultura.",
           "points": {
-            "inercia": 0.9
+            "inercia": 0.1598,
+            "entropia": 0.0073,
+            "gravidade": 0.0103,
+            "relatividade": 0.0086,
+            "quantico": 0.0104,
+            "terceira_lei_newton": 0.0091,
+            "conservacao_energia": 0.0127,
+            "principio_pauli": 0.0124
           }
         },
         {
           "text": "🎭 A 'bagunça' é relativa. Do meu ponto de vista, está perfeitamente organizada.",
           "points": {
-            "relatividade": 0.8
+            "relatividade": 0.1619,
+            "entropia": 0.0065,
+            "inercia": 0.0068,
+            "gravidade": 0.0094,
+            "quantico": 0.0094,
+            "terceira_lei_newton": 0.0083,
+            "conservacao_energia": 0.0116,
+            "principio_pauli": 0.0114
           }
         },
         {
           "text": "🔄 Arrumo, mas logo volta a bagunçar. É um ciclo natural do sistema.",
           "points": {
-            "terceira_lei_newton": 0.6,
-            "conservacao_energia": 0.4
+            "terceira_lei_newton": 0.1293,
+            "conservacao_energia": 0.2193,
+            "entropia": 0.0046,
+            "inercia": 0.0048,
+            "gravidade": 0.0066,
+            "relatividade": 0.0055,
+            "quantico": 0.0067,
+            "principio_pauli": 0.0081
           }
         }
       ]
@@ -39,26 +65,53 @@
         {
           "text": "🪐 Tentar atrair todos para o meu ponto de vista, unificando a discussão.",
           "points": {
-            "gravidade": 0.8
+            "gravidade": 0.1955,
+            "entropia": 0.0057,
+            "inercia": 0.0059,
+            "relatividade": 0.0068,
+            "quantico": 0.0084,
+            "terceira_lei_newton": 0.0074,
+            "conservacao_energia": 0.0103,
+            "principio_pauli": 0.0102
           }
         },
         {
           "text": "🎪 Argumentar que ambos os lados podem estar certos, dependendo da lona em que se está.",
           "points": {
-            "relatividade": 0.9,
-            "quantico": 0.3
+            "relatividade": 0.1818,
+            "quantico": 0.1753,
+            "entropia": 0.0052,
+            "inercia": 0.0054,
+            "gravidade": 0.0076,
+            "terceira_lei_newton": 0.0067,
+            "conservacao_energia": 0.0093,
+            "principio_pauli": 0.0093
           }
         },
         {
           "text": "⚔️ Reagir com a mesma intensidade com que sou atacado. Se for paz, dou paz.",
           "points": {
-            "terceira_lei_newton": 0.9
+            "terceira_lei_newton": 0.1928,
+            "entropia": 0.0064,
+            "inercia": 0.0066,
+            "gravidade": 0.0092,
+            "relatividade": 0.0077,
+            "quantico": 0.0093,
+            "conservacao_energia": 0.0114,
+            "principio_pauli": 0.0112
           }
         },
         {
           "text": "🌪️ Deixar a discussão evoluir para um caos criativo e imprevisível.",
           "points": {
-            "entropia": 0.7
+            "entropia": 0.1218,
+            "inercia": 0.0071,
+            "gravidade": 0.0099,
+            "relatividade": 0.0082,
+            "quantico": 0.01,
+            "terceira_lei_newton": 0.0088,
+            "conservacao_energia": 0.0123,
+            "principio_pauli": 0.012
           }
         }
       ]
@@ -69,25 +122,53 @@
         {
           "text": "🪨 Alguém muito constante. Ou está 100% parado, ou 100% em movimento.",
           "points": {
-            "inercia": 0.9
+            "inercia": 0.1598,
+            "entropia": 0.0073,
+            "gravidade": 0.0103,
+            "relatividade": 0.0086,
+            "quantico": 0.0104,
+            "terceira_lei_newton": 0.0091,
+            "conservacao_energia": 0.0127,
+            "principio_pauli": 0.0124
           }
         },
         {
           "text": "⭐ O centro gravitacional do grupo. Sem você, todo mundo se dispersa.",
           "points": {
-            "gravidade": 0.9
+            "gravidade": 0.2196,
+            "entropia": 0.0058,
+            "inercia": 0.006,
+            "relatividade": 0.0069,
+            "quantico": 0.0085,
+            "terceira_lei_newton": 0.0075,
+            "conservacao_energia": 0.0105,
+            "principio_pauli": 0.0103
           }
         },
         {
           "text": "🃏 Alguém misterioso. Nunca dá pra ter certeza da sua próxima carta.",
           "points": {
-            "quantico": 0.8
+            "quantico": 0.1956,
+            "entropia": 0.0057,
+            "inercia": 0.0059,
+            "gravidade": 0.0083,
+            "relatividade": 0.0069,
+            "terceira_lei_newton": 0.0074,
+            "conservacao_energia": 0.0103,
+            "principio_pauli": 0.0102
           }
         },
         {
           "text": "🧩 Aquele que sempre acha um jeito de transformar a energia do grupo.",
           "points": {
-            "conservacao_energia": 0.8
+            "conservacao_energia": 0.2382,
+            "entropia": 0.005,
+            "inercia": 0.0052,
+            "gravidade": 0.0073,
+            "relatividade": 0.006,
+            "quantico": 0.0073,
+            "terceira_lei_newton": 0.0065,
+            "principio_pauli": 0.0089
           }
         }
       ]
@@ -98,26 +179,53 @@
         {
           "text": "🍂 'Tudo caminha para a desordem. Abrace o caos.'",
           "points": {
-            "entropia": 0.9
+            "entropia": 0.156,
+            "inercia": 0.0076,
+            "gravidade": 0.0105,
+            "relatividade": 0.0087,
+            "quantico": 0.0106,
+            "terceira_lei_newton": 0.0093,
+            "conservacao_energia": 0.0129,
+            "principio_pauli": 0.0126
           }
         },
         {
           "text": "⚖️ 'O universo é uma balança perfeita. Tudo retorna.'",
           "points": {
-            "terceira_lei_newton": 0.8
+            "terceira_lei_newton": 0.1716,
+            "entropia": 0.0062,
+            "inercia": 0.0065,
+            "gravidade": 0.009,
+            "relatividade": 0.0075,
+            "quantico": 0.0092,
+            "conservacao_energia": 0.0112,
+            "principio_pauli": 0.0111
           }
         },
         {
           "text": "🎲 'A realidade não é um fato, é um lançamento de dados.'",
           "points": {
-            "quantico": 0.9
+            "quantico": 0.2198,
+            "entropia": 0.0059,
+            "inercia": 0.006,
+            "gravidade": 0.0084,
+            "relatividade": 0.007,
+            "terceira_lei_newton": 0.0075,
+            "conservacao_energia": 0.0105,
+            "principio_pauli": 0.0103
           }
         },
         {
           "text": "🏹 'Se não houver um alvo claro, não há motivo para mover a flecha.'",
           "points": {
-            "inercia": 0.7,
-            "principio_pauli": 0.4
+            "inercia": 0.1247,
+            "principio_pauli": 0.2382,
+            "entropia": 0.0049,
+            "gravidade": 0.0069,
+            "relatividade": 0.0057,
+            "quantico": 0.007,
+            "terceira_lei_newton": 0.0062,
+            "conservacao_energia": 0.0086
           }
         }
       ]
@@ -128,25 +236,53 @@
         {
           "text": "🧭 Atrai a conversa para seus interesses, como uma bússola apontando para o norte.",
           "points": {
-            "gravidade": 0.7
+            "gravidade": 0.1714,
+            "entropia": 0.0056,
+            "inercia": 0.0058,
+            "relatividade": 0.0067,
+            "quantico": 0.0082,
+            "terceira_lei_newton": 0.0073,
+            "conservacao_energia": 0.0101,
+            "principio_pauli": 0.01
           }
         },
         {
           "text": "🎭 Adapta sua personalidade como um ator, dependendo do roteiro do encontro.",
           "points": {
-            "relatividade": 0.8
+            "relatividade": 0.1619,
+            "entropia": 0.0065,
+            "inercia": 0.0068,
+            "gravidade": 0.0094,
+            "quantico": 0.0094,
+            "terceira_lei_newton": 0.0083,
+            "conservacao_energia": 0.0116,
+            "principio_pauli": 0.0114
           }
         },
         {
           "text": "🔮 Age de forma imprevisível, mantendo um ar de mago ou oráculo.",
           "points": {
-            "quantico": 0.8
+            "quantico": 0.1956,
+            "entropia": 0.0057,
+            "inercia": 0.0059,
+            "gravidade": 0.0083,
+            "relatividade": 0.0069,
+            "terceira_lei_newton": 0.0074,
+            "conservacao_energia": 0.0103,
+            "principio_pauli": 0.0102
           }
         },
         {
           "text": "🤝 É direto e claro. Se a pessoa for legal, você é legal de volta na mesma medida.",
           "points": {
-            "terceira_lei_newton": 0.7
+            "terceira_lei_newton": 0.1504,
+            "entropia": 0.0061,
+            "inercia": 0.0063,
+            "gravidade": 0.0088,
+            "relatividade": 0.0073,
+            "quantico": 0.009,
+            "conservacao_energia": 0.011,
+            "principio_pauli": 0.0108
           }
         }
       ]
@@ -157,25 +293,53 @@
         {
           "text": "🍃 Planos são folhas ao vento. O caos sempre intervém. Prefiro a espontaneidade.",
           "points": {
-            "entropia": 0.9
+            "entropia": 0.156,
+            "inercia": 0.0076,
+            "gravidade": 0.0105,
+            "relatividade": 0.0087,
+            "quantico": 0.0106,
+            "terceira_lei_newton": 0.0093,
+            "conservacao_energia": 0.0129,
+            "principio_pauli": 0.0126
           }
         },
         {
           "text": "🪑 Se eu já estiver em um bom plano (ou rotina), continuo. Mudar dá trabalho.",
           "points": {
-            "inercia": 0.8
+            "inercia": 0.1423,
+            "entropia": 0.007,
+            "gravidade": 0.0101,
+            "relatividade": 0.0083,
+            "quantico": 0.0102,
+            "terceira_lei_newton": 0.0089,
+            "conservacao_energia": 0.0125,
+            "principio_pauli": 0.0121
           }
         },
         {
           "text": "⏰ O futuro é relativo. Depende de tantas variáveis que é inútil planejar demais.",
           "points": {
-            "relatividade": 0.7
+            "relatividade": 0.1418,
+            "entropia": 0.0064,
+            "inercia": 0.0066,
+            "gravidade": 0.0092,
+            "quantico": 0.0092,
+            "terceira_lei_newton": 0.0081,
+            "conservacao_energia": 0.0113,
+            "principio_pauli": 0.0111
           }
         },
         {
           "text": "🧘 Planejo meu espaço pessoal primeiro. Preciso de um 'estado quântico' único para funcionar.",
           "points": {
-            "principio_pauli": 0.8
+            "principio_pauli": 0.235,
+            "entropia": 0.0051,
+            "inercia": 0.0053,
+            "gravidade": 0.0073,
+            "relatividade": 0.0061,
+            "quantico": 0.0074,
+            "terceira_lei_newton": 0.0066,
+            "conservacao_energia": 0.0091
           }
         }
       ]
@@ -186,25 +350,53 @@
         {
           "text": "🪨 Demora a reagir. Leva tempo para eu sair do estado de 'repouso emocional'.",
           "points": {
-            "inercia": 0.8
+            "inercia": 0.1423,
+            "entropia": 0.007,
+            "gravidade": 0.0101,
+            "relatividade": 0.0083,
+            "quantico": 0.0102,
+            "terceira_lei_newton": 0.0089,
+            "conservacao_energia": 0.0125,
+            "principio_pauli": 0.0121
           }
         },
         {
           "text": "🎯 Sinto uma necessidade imediata de fazer algo de igual intensidade no mundo.",
           "points": {
-            "terceira_lei_newton": 0.8
+            "terceira_lei_newton": 0.1716,
+            "entropia": 0.0062,
+            "inercia": 0.0065,
+            "gravidade": 0.009,
+            "relatividade": 0.0075,
+            "quantico": 0.0092,
+            "conservacao_energia": 0.0112,
+            "principio_pauli": 0.0111
           }
         },
         {
           "text": "🕳️ Vejo como um ponto fora da curva que logo será absorvido pelo caos do dia a dia.",
           "points": {
-            "entropia": 0.7
+            "entropia": 0.1218,
+            "inercia": 0.0071,
+            "gravidade": 0.0099,
+            "relatividade": 0.0082,
+            "quantico": 0.01,
+            "terceira_lei_newton": 0.0088,
+            "conservacao_energia": 0.0123,
+            "principio_pauli": 0.012
           }
         },
         {
           "text": "⚡ Transformo essa energia. Se for boa, canalizo; se for ruim, redireciono.",
           "points": {
-            "conservacao_energia": 0.9
+            "conservacao_energia": 0.2676,
+            "entropia": 0.005,
+            "inercia": 0.0052,
+            "gravidade": 0.0073,
+            "relatividade": 0.006,
+            "quantico": 0.0074,
+            "terceira_lei_newton": 0.0065,
+            "principio_pauli": 0.0091
           }
         }
       ]
@@ -215,25 +407,53 @@
         {
           "text": "🌀 'Aceitem que a perfeição é inatingível. A desordem é a verdadeira ordem.'",
           "points": {
-            "entropia": 0.9
+            "entropia": 0.156,
+            "inercia": 0.0076,
+            "gravidade": 0.0105,
+            "relatividade": 0.0087,
+            "quantico": 0.0106,
+            "terceira_lei_newton": 0.0093,
+            "conservacao_energia": 0.0129,
+            "principio_pauli": 0.0126
           }
         },
         {
           "text": "🌟 'Ninguém é uma ilha. Nossas conexões são o que dão peso à vida.'",
           "points": {
-            "gravidade": 0.8
+            "gravidade": 0.1955,
+            "entropia": 0.0057,
+            "inercia": 0.0059,
+            "relatividade": 0.0068,
+            "quantico": 0.0084,
+            "terceira_lei_newton": 0.0074,
+            "conservacao_energia": 0.0103,
+            "principio_pauli": 0.0102
           }
         },
         {
           "text": "🧩 'Sua verdade não é A verdade. Tudo é uma questão de perspectiva.'",
           "points": {
-            "relatividade": 0.9
+            "relatividade": 0.1818,
+            "entropia": 0.0067,
+            "inercia": 0.0069,
+            "gravidade": 0.0096,
+            "quantico": 0.0096,
+            "terceira_lei_newton": 0.0084,
+            "conservacao_energia": 0.0119,
+            "principio_pauli": 0.0116
           }
         },
         {
           "text": "🦄 'Busquem sua singularidade. O universo não precisa de cópias.'",
           "points": {
-            "principio_pauli": 0.9
+            "principio_pauli": 0.264,
+            "entropia": 0.0051,
+            "inercia": 0.0053,
+            "gravidade": 0.0074,
+            "relatividade": 0.0061,
+            "quantico": 0.0075,
+            "terceira_lei_newton": 0.0066,
+            "conservacao_energia": 0.0093
           }
         }
       ]
