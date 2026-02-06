@@ -1,0 +1,373 @@
+{
+  "title": "Qual Fera Bit Beyblade Reflete Sua Personalidade?",
+  "subtitle": "Liberte o poder da sua alma giratória! Descubra qual lendária Fera Bit habita dentro de você.",
+  "questions": [
+    {
+      "question": "Em uma disputa de ideias no trabalho (ou na escola), sua primeira reação é:",
+      "answers": [
+        {
+          "text": "🔥 Atacar o ponto fraco do argumento alheio com lógica afiada",
+          "points": {
+            "dranzer": 0.9,
+            "zeus": 0.5
+          }
+        },
+        {
+          "text": "🛡️ Reforçar minha própria posição com dados irrefutáveis",
+          "points": {
+            "draciel": 0.8,
+            "gabriel": 0.6
+          }
+        },
+        {
+          "text": "⚡ Confrontar diretamente, minha convicção é minha força",
+          "points": {
+            "dragoon": 0.7,
+            "trygle": 0.7
+          }
+        },
+        {
+          "text": "💨 Analisar silenciosamente todos os lados antes de me mover",
+          "points": {
+            "gabriel": 0.8,
+            "driger": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase sobre amizade e rivalidade mais combina com você?",
+      "answers": [
+        {
+          "text": "🐉 'Meus amigos são minha força. Meus rivais são o que me fazem evoluir.'",
+          "points": {
+            "dragoon": 0.9,
+            "pegasus": 0.4
+          }
+        },
+        {
+          "text": "👑 'Não preciso de rivais. Meu único oponente sou eu mesmo e meu limite anterior.'",
+          "points": {
+            "zeus": 0.8,
+            "dranzer": 0.6
+          }
+        },
+        {
+          "text": "🤝 'Um bom rival é um espelho que mostra onde preciso ser mais forte.'",
+          "points": {
+            "driger": 0.7,
+            "gabriel": 0.5
+          }
+        },
+        {
+          "text": "🐢 'Prefiro cooperar do que competir. Juntos somos uma fortaleza.'",
+          "points": {
+            "draciel": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu chefe/professor te passa uma tarefa quase impossível. Você:",
+      "answers": [
+        {
+          "text": "💥 Aceita na hora. 'Impossível' é uma palavra que me motiva.",
+          "points": {
+            "trygle": 0.9,
+            "dragoon": 0.4
+          }
+        },
+        {
+          "text": "🔍 Quebra o problema em 100 partes menores e traça um plano meticuloso.",
+          "points": {
+            "gabriel": 0.9
+          }
+        },
+        {
+          "text": "😒 Faz com excelência, mas só para provar seu valor superior.",
+          "points": {
+            "dranzer": 0.8,
+            "zeus": 0.5
+          }
+        },
+        {
+          "text": "🌀 Pede ajuda aos colegas e adapta a estratégia conforme avança.",
+          "points": {
+            "pegasus": 0.8,
+            "draciel": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual desses cenários de lazer te atrai mais?",
+      "answers": [
+        {
+          "text": "🏔️ Um desafio físico extremo: escalar uma montanha ou uma maratona.",
+          "points": {
+            "trygle": 0.8,
+            "dragoon": 0.5
+          }
+        },
+        {
+          "text": "♟️ Uma noite de jogo estratégico, como xadrez ou um RPG complexo.",
+          "points": {
+            "gabriel": 0.9,
+            "dranzer": 0.3
+          }
+        },
+        {
+          "text": "👑 Uma competição onde eu possa ser o centro das atenções e vencer.",
+          "points": {
+            "zeus": 0.8,
+            "driger": 0.4
+          }
+        },
+        {
+          "text": "🛋️ Um dia tranquilo em casa, fortalecendo os laços com quem eu gosto.",
+          "points": {
+            "draciel": 0.8,
+            "pegasus": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Quando as coisas ficam difíceis e o desânimo bate, você...",
+      "answers": [
+        {
+          "text": "🐉 Lembra das pessoas que acreditam em você e usa isso como combustível.",
+          "points": {
+            "dragoon": 0.9,
+            "pegasus": 0.5
+          }
+        },
+        {
+          "text": "❄️ Isola-se. Só você pode resolver seus problemas. A dor fortalece.",
+          "points": {
+            "dranzer": 0.8
+          }
+        },
+        {
+          "text": "🏗️ Para, analisa a estrutura do problema e busca uma nova base sólida.",
+          "points": {
+            "draciel": 0.7,
+            "gabriel": 0.6
+          }
+        },
+        {
+          "text": "⚡ Fica furioso consigo mesmo e usa a raiva para superar o obstáculo.",
+          "points": {
+            "zeus": 0.8,
+            "trygle": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Num trabalho em grupo, você naturalmente assume o papel de:",
+      "answers": [
+        {
+          "text": "🚀 O Motivador: empolga a equipe e lidera pelo exemplo de entusiasmo.",
+          "points": {
+            "dragoon": 0.9
+          }
+        },
+        {
+          "text": "🧠 O Estrategista: planeja cada passo e antecipa os problemas.",
+          "points": {
+            "gabriel": 0.9
+          }
+        },
+        {
+          "text": "💎 O Especialista: foca na sua parte com perfeição, esperando o mesmo dos outros.",
+          "points": {
+            "dranzer": 0.8,
+            "zeus": 0.4
+          }
+        },
+        {
+          "text": "🪨 O Suporte: garante que a base do projeto seja sólida e ajuda onde precisar.",
+          "points": {
+            "draciel": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua maior virtude é também seu maior defeito. Qual é ela?",
+      "answers": [
+        {
+          "text": "💖 Lealdade incondicional (que pode me cegar para falhas dos amigos).",
+          "points": {
+            "dragoon": 0.8
+          }
+        },
+        {
+          "text": "🏆 Orgulho e confiança no próprio talento (que pode virar arrogância).",
+          "points": {
+            "dranzer": 0.9,
+            "zeus": 0.6
+          }
+        },
+        {
+          "text": "🛡️ Estabilidade e paciência (que podem me tornar lento e resistente a mudanças).",
+          "points": {
+            "draciel": 0.9
+          }
+        },
+        {
+          "text": "💡 Inteligência e lógica (que podem me deixar emocionalmente distante).",
+          "points": {
+            "gabriel": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual elemento natural você sente mais conexão?",
+      "answers": [
+        {
+          "text": "🌪️ O Vento: Livre, imprevisível e cheio de energia vital.",
+          "points": {
+            "dragoon": 0.8,
+            "driger": 0.7
+          }
+        },
+        {
+          "text": "🔥 O Fogo: Transformador, intenso e que consome tudo para renascer.",
+          "points": {
+            "dranzer": 0.9
+          }
+        },
+        {
+          "text": "⛰️ A Terra: Sólido, confiável e a base de tudo que é construído.",
+          "points": {
+            "draciel": 0.9,
+            "trygle": 0.4
+          }
+        },
+        {
+          "text": "⚡ O Trovão: Poder absoluto, carisma e uma presença que não passa despercebida.",
+          "points": {
+            "zeus": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destes 'poderes especiais' você gostaria de ter na vida real?",
+      "answers": [
+        {
+          "text": "✨ O poder da Adaptação: Aprender e dominar qualquer habilidade rapidamente.",
+          "points": {
+            "pegasus": 0.9,
+            "gabriel": 0.4
+          }
+        },
+        {
+          "text": "🦾 O poder da Força Absoluta: Nenhuma barreira física seria capaz de me deter.",
+          "points": {
+            "trygle": 0.9,
+            "zeus": 0.4
+          }
+        },
+        {
+          "text": "👁️ O poder da Percepção Estratégica: Enxergar os próximos 10 passos de qualquer situação.",
+          "points": {
+            "gabriel": 0.8,
+            "dranzer": 0.5
+          }
+        },
+        {
+          "text": "💞 O poder da Conexão Emocional: Sentir e fortalecer os laços com aqueles ao meu redor.",
+          "points": {
+            "dragoon": 0.7,
+            "draciel": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu lema de batalha (ou de vida)?",
+      "answers": [
+        {
+          "text": "\"Gire para vencer! A força dos meus amigos está comigo!\"",
+          "points": {
+            "dragoon": 0.9,
+            "pegasus": 0.5
+          }
+        },
+        {
+          "text": "\"A vitória é a única prova de valor. Tudo ou nada.\"",
+          "points": {
+            "dranzer": 0.8,
+            "zeus": 0.7
+          }
+        },
+        {
+          "text": "\"A melhor defesa é uma fortaleza inabalável. Resista e espere sua hora.\"",
+          "points": {
+            "draciel": 0.9
+          }
+        },
+        {
+          "text": "\"Conheça a si mesmo, conheça seu oponente. A estratégia supera a força.\"",
+          "points": {
+            "gabriel": 0.9
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "dragoon": {
+      "title": "Dragoon 🐉⚡",
+      "emoji": "🐉⚡",
+      "subtitle": "1/8 - O Espírito de Dragão",
+      "text": "Você é a DRAGOON! Seu elemento é o VENTO, e sua alma é pura paixão e instinto de proteção. Como o Tyson, você age primeiro com o coração e pensa depois. É impulsivo, leal até o fim e tem uma força de vontade inabalável que só cresce sob pressão. Seu ponto fraco? Às vezes sua empolgação te faz entrar de cabeça em situações sem um plano. No trabalho ou na vida, você é aquele que 'dá a volta por cima' literalmente, atropelando obstáculos com pura determinação."
+    },
+    "dranzer": {
+      "title": "Dranzer 🦅🔥",
+      "emoji": "🦅🔥",
+      "subtitle": "2/8 - A Fênix de Fogo",
+      "text": "Você é a DRANZER! Seu elemento é o FOGO, e você personifica a agressividade focada e o orgulho competitivo. Como o Kai, você é frio, calculista e extremamente talentoso, preferindo trabalhar sozinho. Você não demonstra suas emoções facilmente, mas possui um código de honra interno forte. Sua chama interna é o que te impulsiona à perfeição. Cuidado para o orgulho não te cegar e para não queimar suas próprias pontes (ou asas)."
+    },
+    "draciel": {
+      "title": "Draciel 🐢🛡️",
+      "emoji": "🐢🛡️",
+      "subtitle": "3/8 - A Fortaleza Imóvel",
+      "text": "Você é a DRACIEL! Seu elemento é a TERRA, e você é a DEFESA personificada. Como o Max, você é estável, confiável e o porto seguro dos seus amigos. Você não é de ataques rápidos, mas de resistência inabalável. No trabalho, você é a base que segura a equipe. Na vida, é a pessoa que todos procuram por conselhos sólidos. Seu ponto fraco? Pode ser um pouco lento para mudar de direção e, às vezes, aguenta pressão demais antes de explodir."
+    },
+    "driger": {
+      "title": "Driger 🐯💨",
+      "emoji": "🐯💨",
+      "subtitle": "4/8 - O Tigre Veloz",
+      "text": "Você é a DRIGER! Seu elemento também é o VENTO, mas com o espírito de um tigre branco. Como o Rei, você é um líder nato, veloz, poderoso e possui uma presença majestosa que comanda respeito. Você luta com honra e busca a justiça, mas tem um lado selvagem e intenso que pode ser liberado. Sua velocidade pode ser sua maior aliada ou sua ruína se você não tomar cuidado com os obstáculos à frente. Você odeia injustiças e não fica em cima do muro."
+    },
+    "trygle": {
+      "title": "Trygle 🐂💥",
+      "emoji": "🐂💥",
+      "subtitle": "5/8 - O Poder Bruto",
+      "text": "Você é a TRYGLE! Seu elemento é a FORÇA BRUTA. Você é direto, poderoso e incrivelmente resistente. Como o Kevin, você resolve os problemas de frente, sem rodeios. Sua abordagem é 'quanto mais forte o oponente, melhor'. Pode não ser o mais técnico, mas ninguém aguenta seu poder de impacto. Na vida real, você é a pessoa prática, que 'coloca a mão na massa' e detesta burocracia. Cuidado para não confundir força teimosa com sabedoria."
+    },
+    "gabriel": {
+      "title": "Gabriel 🕊️🌟",
+      "emoji": "🕊️🌟",
+      "subtitle": "6/8 - O Anjo Estratégico",
+      "text": "Você é o GABRIEL! Seu elemento é a LUZ/ESTRATÉGIA. Você é calmo, analítico e age com uma graça quase celestial. Prefere vencer pela inteligência e tática do que pela força bruta. Como o Lee, você é reservado, misterioso e possui uma imensa força interior que poucos percebem à primeira vista. No trabalho, você é o solucionador de problemas complexos. Seu desafio é não se isolar muito em seus próprios pensamentos e aprender a confiar mais nos outros."
+    },
+    "zeus": {
+      "title": "Zeus ⚡👑",
+      "emoji": "⚡👑",
+      "subtitle": "7/8 - O Poder Absoluto",
+      "text": "Você é o ZEUS! Seu elemento é o TROVÃO e a AMBITION. Você busca o poder e a vitória acima de tudo, mas não necessariamente de forma maligna. Você é carismático, imponente e naturalmente atrai seguidores. Como um líder supremo, você exige o máximo de si e dos outros. Seu maior medo é a derrota, pois ela fere seu orgulho. Cuidado para a busca pelo topo não te tornar arrogante e cego para as pessoas ao seu redor."
+    },
+    "pegasus": {
+      "title": "Pegasus (Cyber) 🦄🔷",
+      "emoji": "🦄🔷",
+      "subtitle": "8/8 - O Cavalo Alado Evoluído",
+      "text": "Você é o PEGASUS (ou uma versão moderna/cíber dele)! Você representa a EVOLUÇÃO e a ADAPTAÇÃO. Seu elemento é a esperança e o potencial infinito. Você não se prende a um único estilo; você observa, aprende e se adapta para superar qualquer desafio. É otimista, resiliente e acredita no poder do trabalho duro e da amizade. Na vida, você é o 'eterno aprendiz' que sempre encontra uma nova forma de crescer. Sua jornada nunca termina."
+    }
+  }
+}
