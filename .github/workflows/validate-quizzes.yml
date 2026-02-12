@@ -1,0 +1,144 @@
+name: 🧪 Validar Quizzes
+
+# Rodar em: PR, push para main, ou manualmente
+on:
+  pull_request:
+    paths:
+      - 'quizzes/**'
+      - 'quizList.json'
+  push:
+    branches:
+      - main
+    paths:
+      - 'quizzes/**'
+      - 'quizList.json'
+  workflow_dispatch:  # Permite rodar manualmente
+
+jobs:
+  validate-quizzes:
+    runs-on: ubuntu-latest
+    name: 📋 Validar Integridade dos Quizzes
+
+    steps:
+      # 1. Checkout do código
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+
+      # 2. Setup Node.js
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      # 3. Rodar validação em cada arquivo de quiz modificado
+      - name: 🔍 Validar quizzes modificados
+        run: |
+          # Se é um PR, pega arquivos modificados
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            FILES=$(git diff --name-only --diff-filter=d ${{ github.event.pull_request.base.sha }} HEAD | grep "quizzes/.*\.json$" | grep -v "quizList.json")
+          # Se é push para main, valida todos os quizzes
+          elif [ "${{ github.event_name }}" = "push" ]; then
+            FILES=$(find quizzes -name "*.json" -type f)
+          # Manualmente, valida todos
+          else
+            FILES=$(find quizzes -name "*.json" -type f)
+          fi
+
+          if [ -z "$FILES" ]; then
+            echo "✅ Nenhum arquivo de quiz foi modificado."
+            exit 0
+          fi
+
+          echo "📊 Arquivos a validar:"
+          echo "$FILES"
+          echo ""
+
+          # Validar cada arquivo
+          FAILED=0
+          for FILE in $FILES; do
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            echo "Validando: $FILE"
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            
+            if node scripts/validate-quiz.js "$FILE"; then
+              echo "✅ $FILE passou na validação"
+            else
+              echo "❌ $FILE falhou na validação"
+              FAILED=$((FAILED + 1))
+            fi
+            echo ""
+          done
+
+          if [ $FAILED -gt 0 ]; then
+            echo "❌ $FAILED arquivo(s) falharam na validação"
+            exit 1
+          else
+            echo "✅ Todos os quizzes passaram na validação!"
+            exit 0
+          fi
+
+  validate-quizlist:
+    runs-on: ubuntu-latest
+    name: 📝 Validar quizList.json
+
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      # Validar quizList.json
+      - name: 🔍 Validar estrutura de quizList.json
+        run: |
+          node -e "
+            const fs = require('fs');
+            const path = require('path');
+            
+            try {
+              const data = JSON.parse(fs.readFileSync('quizList.json', 'utf8'));
+              
+              if (!Array.isArray(data.quizzes)) {
+                throw new Error('quizList.json deve ter um array \"quizzes\"');
+              }
+              
+              data.quizzes.forEach((quiz, idx) => {
+                if (!quiz.name) throw new Error(\`Quiz \${idx}: campo 'name' faltando\`);
+                if (!quiz.file) throw new Error(\`Quiz \${idx}: campo 'file' faltando\`);
+                if (!quiz.description) throw new Error(\`Quiz \${idx}: campo 'description' faltando\`);
+                
+                // Verificar se arquivo referenciado existe
+                if (!fs.existsSync(quiz.file)) {
+                  throw new Error(\`Quiz \${idx}: arquivo '\${quiz.file}' não existe\`);
+                }
+              });
+              
+              console.log('✅ quizList.json válido!');
+              console.log(\`✅ Total de quizzes: \${data.quizzes.length}\`);
+            } catch (err) {
+              console.error('❌ Erro em quizList.json:', err.message);
+              process.exit(1);
+            }
+          "
+
+  summary:
+    runs-on: ubuntu-latest
+    name: 📊 Resumo da Validação
+    needs: [validate-quizzes, validate-quizlist]
+    if: always()
+
+    steps:
+      - name: ✅ Validação Completa
+        if: success()
+        run: |
+          echo "✅ Todos os testes passaram!"
+          echo "🎉 Quizzes prontos para merge!"
+
+      - name: ❌ Validação Falhou
+        if: failure()
+        run: |
+          echo "❌ Alguns testes falharam"
+          echo "📋 Verifique os logs acima para detalhes"
+          exit 1
