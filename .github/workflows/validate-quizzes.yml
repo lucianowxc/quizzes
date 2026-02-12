@@ -127,8 +127,7 @@ jobs:
     runs-on: ubuntu-latest
     name: 🚀 Auto-adicionar Quiz ao quizList.json
     needs: [validate-quizzes, validate-quizlist]
-    if: github.event_name == 'pull_request'
-    
+    if: always()
     steps:
       - name: 📥 Checkout código
         uses: actions/checkout@v4
@@ -142,8 +141,14 @@ jobs:
 
       - name: ➕ Auto-adicionar novos quizzes
         run: |
-          # Encontrar quizzes novos (na PR)
-          FILES=$(git diff --name-only --diff-filter=A ${{ github.event.pull_request.base.sha }} HEAD | grep "quizzes/.*\.json$" | grep -v "quizList.json" || true)
+          # Detectar novos quizzes de acordo com o evento
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            # Em PR: pega arquivos adicionados na PR
+            FILES=$(git diff --name-only --diff-filter=A ${{ github.event.pull_request.base.sha }} HEAD | grep "quizzes/.*\.json$" | grep -v "quizList.json" || true)
+          else
+            # Em push: pega arquivos modificados no último commit
+            FILES=$(git diff --name-only --diff-filter=AM HEAD~1 HEAD | grep "quizzes/.*\.json$" | grep -v "quizList.json" || true)
+          fi
           
           if [ -z "$FILES" ]; then
             echo "ℹ️  Nenhum novo quiz detectado"
