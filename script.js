@@ -5,6 +5,7 @@ let currentPage = 1;
 const quizzesPerPage = 14;
 let currentQuizFile = ''; // Store the current quiz file name
 let selectedAnswers = []; // Track selected answers
+let questionHistory = []; // FASE 2: Histórico de perguntas respondidas
 let animationEnabled = true; // Track if animation is enabled
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -143,9 +144,9 @@ function initializeQuiz() {
     scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
     currentQuestionIndex = 0; // Reset question index
     selectedAnswers = []; // Reset selected answers
+    questionHistory = []; // FASE 2: Reset histórico
     showQuestion();
     document.getElementById('quiz-posts').classList.add('hidden'); // Hide quiz posts
-    updateProgress();
 }
 
 // ✨ FASE 2: Funções de Branching
@@ -164,19 +165,6 @@ function getQuestionIndexById(id) {
 function showQuestion() {
     const questionContainer = document.getElementById('quiz');
     questionContainer.innerHTML = '';
-
-    // ✨ NOVO: Adicionar barra de progresso visual
-    const progressBar = document.createElement('div');
-    progressBar.className = 'progress-bar';
-    const progress = (currentQuestionIndex / quizData.questions.length) * 100;
-    progressBar.innerHTML = `<div class="progress-bar-fill" style="width: ${progress}%"></div>`;
-    questionContainer.appendChild(progressBar);
-
-    // ✨ NOVO: Indicador de texto de progresso
-    const progressText = document.createElement('p');
-    progressText.className = 'progress-text';
-    progressText.textContent = `Pergunta ${currentQuestionIndex + 1} de ${quizData.questions.length}`;
-    questionContainer.appendChild(progressText);
 
     const questionElement = document.createElement('h2');
     questionElement.textContent = quizData.questions[currentQuestionIndex].question;
@@ -217,12 +205,14 @@ function showQuestion() {
     buttonContainer.appendChild(backButton);
 
     questionContainer.appendChild(buttonContainer);
-    updateProgress();
     updateDarkModeStyles(); // Ensure dark mode styles are applied
 }
 
 function selectAnswer(answerIndex) {
     selectedAnswers[currentQuestionIndex] = answerIndex;
+    
+    // FASE 2: Registrar no histórico antes de mudar
+    questionHistory.push(currentQuestionIndex);
     
     // ✨ FASE 2: Verificar nextQuestion
     const answer = quizData.questions[currentQuestionIndex].answers[answerIndex];
@@ -246,8 +236,10 @@ function selectAnswer(answerIndex) {
 }
 
 function previousQuestion() {
-    if (currentQuestionIndex > 0) {
-        currentQuestionIndex--;
+    // ✨ FASE 2: Voltar para a pergunta anterior no histórico respondido
+    if (questionHistory.length > 0) {
+        currentQuestionIndex = questionHistory.pop();
+        selectedAnswers[currentQuestionIndex] = undefined; // Limpar resposta anterior
         showQuestion();
     }
 }

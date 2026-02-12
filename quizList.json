@@ -539,7 +539,13 @@
       "name": "Qual Lei da Física Você Seria?",
       "file": "quizzes/quizLeiDaFisica.json",
       "description": "Da Entropia ao Princípio da Incerteza, descubra qual lei fundamental da física rege sua personalidade, seu humor e sua visão de mundo!"
+    },
+    {
+      "name": "Qual é Seu Destino Ideal? ✈️",
+      "file": "quizzes/quizBranching.json",
+      "description": "Uma jornada com caminhos diferentes - Fase 2 com branching!"
     }
+
 
 
 
