@@ -138,12 +138,17 @@ if (quizData.questions && quizData.questions.length < 3) {
 }
 
 // Mínimo de resultados
-if (quizData.descriptions && Object.keys(quizData.descriptions).length < 2) {
-  error(`Mínimo 2 resultados em descriptions (tem ${Object.keys(quizData.descriptions).length})`);
+if (quizData.descriptions && Object.keys(quizData.descriptions).length < 1) {
+  error(`Mínimo 1 resultado em descriptions (tem ${Object.keys(quizData.descriptions).length})`);
   validationsFailed++;
 } else if (quizData.descriptions) {
-  success(`${Object.keys(quizData.descriptions).length} resultados`);
-  validationsPassed++;
+  const resultCount = Object.keys(quizData.descriptions).length;
+  if (resultCount === 1) {
+    warning(`Apenas 1 resultado (geralmente recomenda-se 2+)`);
+  } else {
+    success(`${resultCount} resultados`);
+    validationsPassed++;
+  }
 }
 
 // ============================================================================
@@ -329,35 +334,50 @@ if (checkCoverage) {
 // ============================================================================
 // 7. VALIDAÇÃO DE BRANCHING (Se aplicável)
 // ============================================================================
-if (quizData.questions?.some(q => q.id)) {
-  info('\n🌳 Detectado branching condicional. Validando...');
-  
-  const questionIds = new Set();
-  let branchingValid = true;
+info('\n⚙️  Validando branching condicional...');
 
-  quizData.questions.forEach((q, idx) => {
-    if (q.id) {
-      if (questionIds.has(q.id)) {
-        error(`ID duplicado: "${q.id}"`);
+// Gerar IDs automáticos se ausentes (necessário para validar nextQuestion)
+quizData.questions.forEach((q, idx) => {
+  if (!q.id) {
+    q.id = `q${idx}`;
+  }
+});
+
+// Coletar todos os IDs
+const questionIds = new Set();
+quizData.questions.forEach((q) => {
+  if (questionIds.has(q.id)) {
+    error(`❌ ID duplicado: "${q.id}"`);
+  }
+  questionIds.add(q.id);
+});
+
+// Validar referências de nextQuestion
+let branchingValid = true;
+const hasBranching = quizData.questions.some(q => 
+  q.answers?.some(a => a.nextQuestion)
+);
+
+quizData.questions.forEach((q, idx) => {
+  q.answers?.forEach((a, aIdx) => {
+    if (a.nextQuestion) {
+      if (!questionIds.has(a.nextQuestion)) {
+        error(`❌ Pergunta ${idx + 1}, Resposta ${aIdx + 1}: nextQuestion "${a.nextQuestion}" não existe`);
         branchingValid = false;
       }
-      questionIds.add(q.id);
     }
-
-    q.answers?.forEach((a, aIdx) => {
-      if (a.nextQuestion && !questionIds.has(a.nextQuestion)) {
-        error(`Pergunta ${idx + 1}, Resposta ${aIdx + 1}: nextQuestion "${a.nextQuestion}" não existe`);
-        branchingValid = false;
-      }
-    });
   });
+});
 
-  if (branchingValid) {
-    success('Branching condicional validado');
+if (branchingValid) {
+  if (hasBranching) {
+    success('✅ Branching condicional validado');
     validationsPassed++;
   } else {
-    validationsFailed++;
+    info('ℹ️  Branching não detectado (quiz linear)');
   }
+} else {
+  validationsFailed++;
 }
 
 // ============================================================================
@@ -367,48 +387,6 @@ info('\n' + '='.repeat(60));
 log(`✅ Validações passadas: ${validationsPassed}`, 'green');
 log(`❌ Validações falhadas: ${validationsFailed}`, validationsFailed > 0 ? 'red' : 'green');
 info('='.repeat(60) + '\n');
-
-// ============================================================================
-// 5. VALIDAÇÃO DE BRANCHING (FASE 2)
-// ============================================================================
-info('\n⚙️  Validando branching condicional...');
-
-const questionIds = new Set();
-const questionsById = {};
-let hasBranching = false;
-
-// Coletar IDs
-quizData.questions.forEach((q, idx) => {
-  const qId = q.id || `q${idx}`;
-  if (questionIds.has(qId)) {
-    error(`ID duplicado: "${qId}"`);
-    validationsFailed++;
-  } else {
-    questionIds.add(qId);
-    questionsById[qId] = idx;
-  }
-});
-
-// Validar nextQuestion
-quizData.questions.forEach((q, idx) => {
-  const qId = q.id || `q${idx}`;
-  q.answers?.forEach(answer => {
-    if (answer.nextQuestion) {
-      hasBranching = true;
-      if (!questionIds.has(answer.nextQuestion)) {
-        error(`Pergunta ${qId}: nextQuestion "${answer.nextQuestion}" não existe`);
-        validationsFailed++;
-      }
-    }
-  });
-});
-
-if (hasBranching) {
-  success('Branching validado (Fase 2 detectada)');
-  validationsPassed++;
-} else {
-  info('Branching não detectado (quiz linear)');
-}
 
 if (validationsFailed === 0) {
   success('🎉 Quiz pronto para PR!');

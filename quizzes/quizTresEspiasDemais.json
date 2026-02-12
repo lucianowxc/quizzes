@@ -14,7 +14,7 @@
             "question": "Como você descreveria seu estilo de moda?",
             "answers": [
                 { "text": "Clássico e elegante", "points": { "Sam": 1, "Jerry": 0.5 } },
-                { "text": "Moderno e fashion", "points": { "Sam": -1, "Clover": 1 } },
+                { "text": "Moderno e fashion", "points": { "Sam": 0, "Clover": 1 } },
                 { "text": "Confortável e esportivo", "points": { "Sam": 1, "Alex": 1 } },
                 { "text": "Casual e prático", "points": { "Sam": 1, "Jerry": 0.5 } }
             ]
@@ -42,7 +42,7 @@
             "answers": [
                 { "text": "Documentário", "points": { "Sam": 1, "Jerry": 0.5 } },
                 { "text": "Comédia romântica", "points": { "Sam": 1, "Clover": 1 } },
-                { "text": "Ação e aventura", "points": { "Sam": -1, "Alex": 1 } },
+                { "text": "Ação e aventura", "points": { "Sam": 0, "Alex": 1 } },
                 { "text": "Drama", "points": { "Sam": 1, "Jerry": 0.5 } }
             ]
         },
@@ -61,7 +61,7 @@
                 { "text": "Racional e focada", "points": { "Sam": 1, "Jerry": 0.5 } },
                 { "text": "Extrovertida e charmosa", "points": { "Sam": 1, "Clover": 1 } },
                 { "text": "Energética e aventureira", "points": { "Sam": 1, "Alex": 1 } },
-                { "text": "Calma e prática", "points": { "Sam": -1, "Jerry": 0.5 } }
+                { "text": "Calma e prática", "points": { "Sam": 0, "Jerry": 0.5 } }
             ]
         },
         {
