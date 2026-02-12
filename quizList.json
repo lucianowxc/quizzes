@@ -541,9 +541,9 @@
       "description": "Da Entropia ao Princípio da Incerteza, descubra qual lei fundamental da física rege sua personalidade, seu humor e sua visão de mundo!"
     },
     {
-      "name": "Qual é Seu Destino Ideal? ✈️",
-      "file": "quizzes/quizBranching.json",
-      "description": "Uma jornada com caminhos diferentes - Fase 2 com branching!"
+      "name": "Qual jogo indie combina com você?",
+      "file": "quizzes/quizJogoIndie.json",
+      "description": "8 obras-primas. 1 resposta inevitável."
     }
 
 

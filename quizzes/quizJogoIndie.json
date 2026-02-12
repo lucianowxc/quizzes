@@ -1,0 +1,687 @@
+{
+  "title": "Qual jogo indie combina com você?",
+  "subtitle": "8 obras-primas, 1 resposta inevitável.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Você chega em casa depois de um dia exaustivo. O que seu cérebro pede?",
+      "answers": [
+        {
+          "text": "⚔️ Algo que me exija tanto que eu esqueça do mundo",
+          "points": {
+            "hades": 0.6,
+            "hollow_knight": 0.3
+          },
+          "nextQuestion": "q2_desafio"
+        },
+        {
+          "text": "🎭 Uma história que me faça sentir algo profundo",
+          "points": {
+            "undertale": 0.5,
+            "disco_elysium": 0.4
+          },
+          "nextQuestion": "q2_emocao"
+        },
+        {
+          "text": "🪐 Silêncio, mistério e me perder em outro mundo",
+          "points": {
+            "outer_wilds": 0.7,
+            "hollow_knight": 0.2
+          },
+          "nextQuestion": "q2_exploracao"
+        },
+        {
+          "text": "🛋️ Sinceramente? Qualquer coisa que me distraia",
+          "points": {
+            "binding_of_isaac": 0.4,
+            "celeste": 0.3,
+            "braid": 0.2
+          },
+          "nextQuestion": "q2_coringa"
+        }
+      ]
+    },
+    {
+      "id": "q2_desafio",
+      "question": "Você prefere sofrer por...",
+      "answers": [
+        {
+          "text": "🎹 Reflexos cirúrgicos e ritmo musical",
+          "points": {
+            "celeste": 0.7,
+            "hades": 0.2
+          },
+          "nextQuestion": "q3_desafio_precisao"
+        },
+        {
+          "text": "🎲 Caos total e builds imprevisíveis",
+          "points": {
+            "binding_of_isaac": 0.8,
+            "hades": 0.1
+          },
+          "nextQuestion": "q3_desafio_caos"
+        }
+      ]
+    },
+    {
+      "id": "q2_emocao",
+      "question": "Qual ferida você quer reabrir?",
+      "answers": [
+        {
+          "text": "💔 Amizades que acabam, famílias disfuncionais",
+          "points": {
+            "undertale": 0.7,
+            "disco_elysium": 0.2
+          },
+          "nextQuestion": "q3_emocao_personagem"
+        },
+        {
+          "text": "⚖️ O peso das minhas próprias decisões",
+          "points": {
+            "disco_elysium": 0.7,
+            "braid": 0.2
+          },
+          "nextQuestion": "q3_emocao_escolha"
+        }
+      ]
+    },
+    {
+      "id": "q2_exploracao",
+      "question": "O que acende sua curiosidade?",
+      "answers": [
+        {
+          "text": "🗺️ Mapas que parecem não ter fim",
+          "points": {
+            "hollow_knight": 0.8,
+            "outer_wilds": 0.1
+          },
+          "nextQuestion": "q3_exploracao_mundo"
+        },
+        {
+          "text": "❓ Perguntas sem resposta imediata",
+          "points": {
+            "outer_wilds": 0.8,
+            "braid": 0.1
+          },
+          "nextQuestion": "q3_exploracao_lore"
+        }
+      ]
+    },
+    {
+      "id": "q2_coringa",
+      "question": "Seu amigo te manda um link. Você prefere...",
+      "answers": [
+        {
+          "text": "📖 Algo curto e genial, tipo um conto",
+          "points": {
+            "braid": 0.6,
+            "celeste": 0.3
+          },
+          "nextQuestion": "q3_coringa_curto"
+        },
+        {
+          "text": "🕳️ Um buraco negro de horas",
+          "points": {
+            "hollow_knight": 0.5,
+            "binding_of_isaac": 0.4
+          },
+          "nextQuestion": "q3_coringa_longo"
+        }
+      ]
+    },
+    {
+      "id": "q3_desafio_precisao",
+      "question": "Você erra 500 vezes o mesmo pulo. Como reage?",
+      "answers": [
+        {
+          "text": "🧗 Conto até 500 e tento de novo. É meditativo.",
+          "points": {
+            "celeste": 0.8,
+            "hollow_knight": 0.1
+          },
+          "nextQuestion": "q4_desafio_recompensa"
+        },
+        {
+          "text": "🔁 Procuro um jeito diferente de fazer o mesmo pulo",
+          "points": {
+            "braid": 0.6,
+            "hades": 0.2
+          },
+          "nextQuestion": "q4_desafio_recompensa"
+        }
+      ]
+    },
+    {
+      "id": "q3_desafio_caos",
+      "question": "Seu personagem virou um olho voador que cospe lágrimas. Você...",
+      "answers": [
+        {
+          "text": "🩸 Aceito. Vou longe com isso.",
+          "points": {
+            "binding_of_isaac": 0.9
+          },
+          "nextQuestion": "q4_desafio_caos"
+        },
+        {
+          "text": "🤔 Tento entender como otimizar essa build absurda",
+          "points": {
+            "hades": 0.5,
+            "binding_of_isaac": 0.4
+          },
+          "nextQuestion": "q4_desafio_caos"
+        }
+      ]
+    },
+    {
+      "id": "q3_emocao_personagem",
+      "question": "Um personagem que você ama revela que te traiu. Você...",
+      "answers": [
+        {
+          "text": "💛 Perdoo. Quero entender por quê.",
+          "points": {
+            "undertale": 0.8,
+            "disco_elysium": 0.1
+          },
+          "nextQuestion": "q4_emocao_dano"
+        },
+        {
+          "text": "🥃 Bebo na vida real e sigo o diálogo",
+          "points": {
+            "disco_elysium": 0.7,
+            "undertale": 0.2
+          },
+          "nextQuestion": "q4_emocao_dano"
+        }
+      ]
+    },
+    {
+      "id": "q3_emocao_escolha",
+      "question": "Um NPC inocente morre por uma decisão sua. Você...",
+      "answers": [
+        {
+          "text": "⏳ Volta o save imediatamente",
+          "points": {
+            "braid": 0.7,
+            "undertale": 0.2
+          },
+          "nextQuestion": "q4_emocao_peso"
+        },
+        {
+          "text": "☠️ Aguento. Isso é parte da história agora.",
+          "points": {
+            "disco_elysium": 0.6,
+            "outer_wilds": 0.3
+          },
+          "nextQuestion": "q4_emocao_peso"
+        }
+      ]
+    },
+    {
+      "id": "q3_exploracao_mundo",
+      "question": "Você encontra um corredor escuro sem fundo aparente. Você...",
+      "answers": [
+        {
+          "text": "🕯️ Entra. Sempre.",
+          "points": {
+            "hollow_knight": 0.8,
+            "outer_wilds": 0.1
+          },
+          "nextQuestion": "q4_exploracao_solidao"
+        },
+        {
+          "text": "🗺️ Marco no mapa e volto depois com mais recurso",
+          "points": {
+            "outer_wilds": 0.5,
+            "hollow_knight": 0.4
+          },
+          "nextQuestion": "q4_exploracao_solidao"
+        }
+      ]
+    },
+    {
+      "id": "q3_exploracao_lore",
+      "question": "Você acha um texto antigo que contradiz tudo que você sabia. Você...",
+      "answers": [
+        {
+          "text": "📜 Leio 5 vezes. Anoto. Teorizo.",
+          "points": {
+            "outer_wilds": 0.7,
+            "braid": 0.2
+          },
+          "nextQuestion": "q4_exploracao_fim"
+        },
+        {
+          "text": "🧥 Suspiro. Nada faz sentido. É perfeito.",
+          "points": {
+            "disco_elysium": 0.6,
+            "outer_wilds": 0.3
+          },
+          "nextQuestion": "q4_exploracao_fim"
+        }
+      ]
+    },
+    {
+      "id": "q3_coringa_curto",
+      "question": "Você tem 1 hora. O que te dá mais satisfação?",
+      "answers": [
+        {
+          "text": "🧩 Resolver um quebra-cabeça perfeito",
+          "points": {
+            "braid": 0.8,
+            "celeste": 0.1
+          },
+          "nextQuestion": "q4_coringa_fechamento"
+        },
+        {
+          "text": "⛰️ Conquistar uma fase que me destruiu ontem",
+          "points": {
+            "celeste": 0.7,
+            "hades": 0.2
+          },
+          "nextQuestion": "q4_coringa_fechamento"
+        }
+      ]
+    },
+    {
+      "id": "q3_coringa_longo",
+      "question": "Um jogo te prendeu por 6h seguidas. Provavelmente tinha...",
+      "answers": [
+        {
+          "text": "🕳️ Um ciclo vicioso de 'só mais uma tentativa'",
+          "points": {
+            "binding_of_isaac": 0.7,
+            "hades": 0.2
+          },
+          "nextQuestion": "q4_coringa_fechamento"
+        },
+        {
+          "text": "🗺️ Um novo bioma desbloqueado a cada esquina",
+          "points": {
+            "hollow_knight": 0.7,
+            "outer_wilds": 0.2
+          },
+          "nextQuestion": "q4_coringa_fechamento"
+        }
+      ]
+    },
+    {
+      "id": "q4_desafio_recompensa",
+      "question": "O que te faz pensar 'valeu a pena'?",
+      "answers": [
+        {
+          "text": "🎶 Uma cutscene linda com música arrebatadora",
+          "points": {
+            "celeste": 0.6,
+            "hades": 0.3
+          },
+          "nextQuestion": "q5_reconvergencia"
+        },
+        {
+          "text": "🏆 Um chefão que parecia impossível",
+          "points": {
+            "hollow_knight": 0.6,
+            "hades": 0.3
+          },
+          "nextQuestion": "q5_reconvergencia"
+        }
+      ]
+    },
+    {
+      "id": "q4_desafio_caos",
+      "question": "Sua build quebrada te faz sentir...",
+      "answers": [
+        {
+          "text": "😈 Poder absoluto. Efêmero, mas doce.",
+          "points": {
+            "binding_of_isaac": 0.8,
+            "hades": 0.1
+          },
+          "nextQuestion": "q5_reconvergencia"
+        },
+        {
+          "text": "🤡 Bufão. Mas o bobo da corte se diverte.",
+          "points": {
+            "disco_elysium": 0.5,
+            "binding_of_isaac": 0.4
+          },
+          "nextQuestion": "q5_reconvergencia"
+        }
+      ]
+    },
+    {
+      "id": "q4_emocao_dano",
+      "question": "Chorar com jogo é...",
+      "answers": [
+        {
+          "text": "💛 O ponto. Se não chorei, não amei.",
+          "points": {
+            "undertale": 0.7,
+            "celeste": 0.2
+          },
+          "nextQuestion": "q5_reconvergencia"
+        },
+        {
+          "text": "🥃 Terapêutico. Saio diferente.",
+          "points": {
+            "disco_elysium": 0.6,
+            "outer_wilds": 0.3
+          },
+          "nextQuestion": "q5_reconvergencia"
+        }
+      ]
+    },
+    {
+      "id": "q4_emocao_peso",
+      "question": "Você prefere histórias sobre...",
+      "answers": [
+        {
+          "text": "⏳ Arrependimento e segundas chances",
+          "points": {
+            "braid": 0.7,
+            "outer_wilds": 0.2
+          },
+          "nextQuestion": "q5_reconvergencia"
+        },
+        {
+          "text": "☠️ Falha e como seguramos ela",
+          "points": {
+            "disco_elysium": 0.7,
+            "celeste": 0.2
+          },
+          "nextQuestion": "q5_reconvergencia"
+        }
+      ]
+    },
+    {
+      "id": "q4_exploracao_solidao",
+      "question": "Você se sente mais vivo quando...",
+      "answers": [
+        {
+          "text": "🕯️ Estou perdido, sozinho, num lugar lindo",
+          "points": {
+            "hollow_knight": 0.7,
+            "outer_wilds": 0.2
+          },
+          "nextQuestion": "q5_reconvergencia"
+        },
+        {
+          "text": "🌌 Descubro algo que ninguém viu antes",
+          "points": {
+            "outer_wilds": 0.8,
+            "braid": 0.1
+          },
+          "nextQuestion": "q5_reconvergencia"
+        }
+      ]
+    },
+    {
+      "id": "q4_exploracao_fim",
+      "question": "Você aceita que talvez...",
+      "answers": [
+        {
+          "text": "🌌 Não haja uma resposta definitiva",
+          "points": {
+            "outer_wilds": 0.8,
+            "disco_elysium": 0.1
+          },
+          "nextQuestion": "q5_reconvergencia"
+        },
+        {
+          "text": "⏳ O passado não pode ser consertado",
+          "points": {
+            "braid": 0.7,
+            "hollow_knight": 0.2
+          },
+          "nextQuestion": "q5_reconvergencia"
+        }
+      ]
+    },
+    {
+      "id": "q4_coringa_fechamento",
+      "question": "Pra você, um jogo é uma obra de arte quando...",
+      "answers": [
+        {
+          "text": "🎨 Cada pixel parece pintado à mão",
+          "points": {
+            "hollow_knight": 0.6,
+            "celeste": 0.3
+          },
+          "nextQuestion": "q5_reconvergencia"
+        },
+        {
+          "text": "📜 Meu cérebro não para de pensar nele dias depois",
+          "points": {
+            "braid": 0.5,
+            "outer_wilds": 0.4
+          },
+          "nextQuestion": "q5_reconvergencia"
+        }
+      ]
+    },
+    {
+      "id": "q5_reconvergencia",
+      "question": "Escolha um cheiro afetivo de jogo:",
+      "answers": [
+        {
+          "text": "🌫️ Névoa e caverna úmida",
+          "points": {
+            "hollow_knight": 0.5,
+            "outer_wilds": 0.2,
+            "celeste": 0.1
+          }
+        },
+        {
+          "text": "🔥 Enxofre e vela derretida",
+          "points": {
+            "binding_of_isaac": 0.6,
+            "hades": 0.2,
+            "disco_elysium": 0.1
+          }
+        },
+        {
+          "text": "📖 Papel velho e chuva",
+          "points": {
+            "braid": 0.4,
+            "disco_elysium": 0.4,
+            "undertale": 0.1
+          }
+        },
+        {
+          "text": "🍃 Vento no topo da montanha",
+          "points": {
+            "celeste": 0.6,
+            "outer_wilds": 0.2,
+            "hades": 0.1
+          }
+        }
+      ]
+    },
+    {
+      "id": "q6_reconvergencia",
+      "question": "Qual dessas frases ecoa mais em você?",
+      "answers": [
+        {
+          "text": "💛 \"Apesar de tudo, ainda sou eu.\"",
+          "points": {
+            "undertale": 0.7,
+            "celeste": 0.2
+          }
+        },
+        {
+          "text": "🌌 \"O fim chega. O que importa é o que vivemos até lá.\"",
+          "points": {
+            "outer_wilds": 0.8,
+            "hollow_knight": 0.1
+          }
+        },
+        {
+          "text": "🥃 \"Nada é real. Tudo é permitido.\"",
+          "points": {
+            "disco_elysium": 0.7,
+            "binding_of_isaac": 0.2
+          }
+        },
+        {
+          "text": "⏳ \"Se eu pudesse voltar... não, não posso.\"",
+          "points": {
+            "braid": 0.7,
+            "hades": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q7_reconvergencia",
+      "question": "Sua relação com a morte nos jogos:",
+      "answers": [
+        {
+          "text": "🏹 É só um 'tentar de novo' com skin",
+          "points": {
+            "hades": 0.7,
+            "celeste": 0.2
+          }
+        },
+        {
+          "text": "🩸 É familiar. Quase acolhedora.",
+          "points": {
+            "binding_of_isaac": 0.7,
+            "hollow_knight": 0.2
+          }
+        },
+        {
+          "text": "🌌 É o que dá sentido à jornada.",
+          "points": {
+            "outer_wilds": 0.8,
+            "braid": 0.1
+          }
+        },
+        {
+          "text": "🧥 É mais uma conversa que evito.",
+          "points": {
+            "disco_elysium": 0.6,
+            "undertale": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "id": "q8_reconvergencia",
+      "question": "Qual item você levaria para uma ilha deserta?",
+      "answers": [
+        {
+          "text": "🗺️ Um mapa rabiscado sem legenda",
+          "points": {
+            "hollow_knight": 0.5,
+            "outer_wilds": 0.4
+          }
+        },
+        {
+          "text": "🎹 Um fone de ouvido com uma música só",
+          "points": {
+            "celeste": 0.5,
+            "braid": 0.3,
+            "hades": 0.1
+          }
+        },
+        {
+          "text": "🩸 Uma foto de família amassada",
+          "points": {
+            "binding_of_isaac": 0.5,
+            "undertale": 0.4
+          }
+        },
+        {
+          "text": "🧥 Uma garrafa vazia e um caderno",
+          "points": {
+            "disco_elysium": 0.7,
+            "braid": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "id": "q9_reconvergencia",
+      "question": "Você termina um jogo e sente:",
+      "answers": [
+        {
+          "text": "⛰️ Cansaço bom. Conquistei uma montanha.",
+          "points": {
+            "celeste": 0.6,
+            "hollow_knight": 0.3
+          }
+        },
+        {
+          "text": "💛 Saudade. Quero visitar de novo.",
+          "points": {
+            "undertale": 0.7,
+            "outer_wilds": 0.2
+          }
+        },
+        {
+          "text": "🌀 Vazio. O que eu faço da minha vida agora?",
+          "points": {
+            "disco_elysium": 0.5,
+            "braid": 0.4
+          }
+        },
+        {
+          "text": "🏹 Já to começando outro.",
+          "points": {
+            "hades": 0.5,
+            "binding_of_isaac": 0.4
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "hades": {
+      "title": "Hades",
+      "emoji": "🏹",
+      "subtitle": "O Fugitivo do Submundo",
+      "text": "Você não teme a morte — você a usa como combustível. No trabalho ou na vida, insiste: falhar não é o fim, é só mais uma tentativa com upgrades."
+    },
+    "binding_of_isaac": {
+      "title": "The Binding of Isaac",
+      "emoji": "🩸",
+      "subtitle": "O Sobrevivente Tóxico",
+      "text": "Você veio do caos e aprendeu a enxergar beleza na podridão. Sua resiliência veio de lugares que ninguém viu — e hoje você ri do que deveria te quebrar."
+    },
+    "braid": {
+      "title": "Braid",
+      "emoji": "⏳",
+      "subtitle": "O Arquiteto do Arrependimento",
+      "text": "Você vive reexaminando o passado, tentando consertar o irreparável. Seu superpoder é enxergar padrões onde outros só veem erro."
+    },
+    "hollow_knight": {
+      "title": "Hollow Knight",
+      "emoji": "🕳️",
+      "subtitle": "O Silencioso Profundo",
+      "text": "Você carrega solidão como quem carrega uma chama — apaga se ventar, mas ilumina o caminho. Prefere explorar sozinho, mas secretamente deseja encontrar outro inseto perdido."
+    },
+    "celeste": {
+      "title": "Celeste",
+      "emoji": "⛰️",
+      "subtitle": "A Escaladora Exausta",
+      "text": "Você sofre, persiste, morre 500 vezes e levanta na 501ª. Seu jogo ideal não é sobre vencer a montanha — é sobre vencer a voz que diz que você não consegue."
+    },
+    "undertale": {
+      "title": "Undertale",
+      "emoji": "💛",
+      "subtitle": "A Alma Determinada",
+      "text": "Você não ataca primeiro. Acredita que todo mundo tem algo a dizer, até os que te feriram. Seu maior medo? Que suas escolhas não importem."
+    },
+    "disco_elysium": {
+      "title": "Disco Elysium",
+      "emoji": "🧥",
+      "subtitle": "O Detetive em Ruínas",
+      "text": "Você é uma pilha de fracassos tentando lembrar quem foi. E ainda assim, conversa com seus demônios como velhos amigos de bar."
+    },
+    "outer_wilds": {
+      "title": "Outer Wilds",
+      "emoji": "🌌",
+      "subtitle": "Astrônomo do Fim",
+      "text": "Você aceitou que tudo acaba — e isso torna cada descoberta sagrada. Seu jogo ideal não te dá poder, te dá perguntas e um marshmallow queimado."
+    }
+  }
+}
