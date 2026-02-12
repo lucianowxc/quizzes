@@ -539,6 +539,11 @@
       "name": "Qual Lei da Física Você Seria?",
       "file": "quizzes/quizLeiDaFisica.json",
       "description": "Da Entropia ao Princípio da Incerteza, descubra qual lei fundamental da física rege sua personalidade, seu humor e sua visão de mundo!"
+    },
+    {
+      "name": "Qual jogo indie combina com você?",
+      "file": "quizzes/quizJogoIndie.json",
+      "description": "8 obras-primas. 1 resposta inevitável."
     }
 
 
