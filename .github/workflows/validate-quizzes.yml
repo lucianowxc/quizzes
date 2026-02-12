@@ -123,6 +123,58 @@ jobs:
             }
           "
 
+  auto-add-quiz:
+    runs-on: ubuntu-latest
+    name: 🚀 Auto-adicionar Quiz ao quizList.json
+    needs: [validate-quizzes, validate-quizlist]
+    if: github.event_name == 'pull_request'
+    
+    steps:
+      - name: 📥 Checkout código
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: ➕ Auto-adicionar novos quizzes
+        run: |
+          # Encontrar quizzes novos (na PR)
+          FILES=$(git diff --name-only --diff-filter=A ${{ github.event.pull_request.base.sha }} HEAD | grep "quizzes/.*\.json$" | grep -v "quizList.json" || true)
+          
+          if [ -z "$FILES" ]; then
+            echo "ℹ️  Nenhum novo quiz detectado"
+            exit 0
+          fi
+
+          echo "🆕 Novos quizzes encontrados:"
+          echo "$FILES"
+          echo ""
+
+          # Auto-adicionar cada novo quiz
+          for FILE in $FILES; do
+            echo "Adicionando: $FILE"
+            node scripts/auto-add-quiz.js "$FILE"
+          done
+
+      - name: 📝 Criar/atualizar commit
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          if git diff --quiet quizList.json; then
+            echo "ℹ️  quizList.json não foi modificado"
+          else
+            echo "📝 Commits changes para quizList.json"
+            git add quizList.json
+            git commit -m "🤖 Auto-add: atualizar quizList.json com novos quizzes" || true
+            git push
+          fi
+
   summary:
     runs-on: ubuntu-latest
     name: 📊 Resumo da Validação

@@ -136,6 +136,9 @@ function loadUploadedQuiz() {
 }
 
 function initializeQuiz() {
+    // ✨ FASE 2: Gerar IDs de perguntas se ausentes
+    generateQuestionIds();
+    
     document.getElementById('quiz-title').textContent = quizData.title;
     scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
     currentQuestionIndex = 0; // Reset question index
@@ -145,37 +148,67 @@ function initializeQuiz() {
     updateProgress();
 }
 
+// ✨ FASE 2: Funções de Branching
+function generateQuestionIds() {
+    quizData.questions.forEach((q, idx) => {
+        if (!q.id) {
+            q.id = `q${idx}`;
+        }
+    });
+}
+
+function getQuestionIndexById(id) {
+    return quizData.questions.findIndex(q => q.id === id);
+}
+
 function showQuestion() {
     const questionContainer = document.getElementById('quiz');
     questionContainer.innerHTML = '';
+
+    // ✨ NOVO: Adicionar barra de progresso visual
+    const progressBar = document.createElement('div');
+    progressBar.className = 'progress-bar';
+    const progress = (currentQuestionIndex / quizData.questions.length) * 100;
+    progressBar.innerHTML = `<div class="progress-bar-fill" style="width: ${progress}%"></div>`;
+    questionContainer.appendChild(progressBar);
+
+    // ✨ NOVO: Indicador de texto de progresso
+    const progressText = document.createElement('p');
+    progressText.className = 'progress-text';
+    progressText.textContent = `Pergunta ${currentQuestionIndex + 1} de ${quizData.questions.length}`;
+    questionContainer.appendChild(progressText);
 
     const questionElement = document.createElement('h2');
     questionElement.textContent = quizData.questions[currentQuestionIndex].question;
     questionContainer.appendChild(questionElement);
 
+    // ✨ NOVO: Agrupar botões de respostas em container
+    const answersContainer = document.createElement('div');
+    answersContainer.className = 'answers-container';
+    
     quizData.questions[currentQuestionIndex].answers.forEach((answer, index) => {
         const button = document.createElement('button');
         button.textContent = answer.text;
         button.className = 'option-button';
         button.onclick = () => selectAnswer(index);
-        questionContainer.appendChild(button);
+        answersContainer.appendChild(button);
     });
+    questionContainer.appendChild(answersContainer);
 
+    // ✨ NOVO: Usar button-group para melhor layout
     const buttonContainer = document.createElement('div');
-    buttonContainer.style.display = 'flex';
-    buttonContainer.style.justifyContent = 'center';
-    buttonContainer.style.gap = '5px'; // Reduce space between buttons
+    buttonContainer.className = 'button-group';
 
     if (currentQuestionIndex > 0) {
         const previousButton = document.createElement('button');
-        previousButton.textContent = 'Anterior';
+        previousButton.textContent = '← Anterior';
         previousButton.className = 'previous-button';
         previousButton.onclick = () => previousQuestion();
         buttonContainer.appendChild(previousButton);
     }
 
     const backButton = document.createElement('button');
-    backButton.textContent = 'Voltar à Página Inicial';
+    backButton.textContent = '↺ Voltar ao Início';
     backButton.className = 'back-button';
     backButton.onclick = () => {
         document.title = 'Quiz de Personalidade'; // Revert page title
@@ -190,7 +223,20 @@ function showQuestion() {
 
 function selectAnswer(answerIndex) {
     selectedAnswers[currentQuestionIndex] = answerIndex;
-    currentQuestionIndex++;
+    
+    // ✨ FASE 2: Verificar nextQuestion
+    const answer = quizData.questions[currentQuestionIndex].answers[answerIndex];
+    if (answer.nextQuestion) {
+        const nextIndex = getQuestionIndexById(answer.nextQuestion);
+        if (nextIndex !== -1) {
+            currentQuestionIndex = nextIndex;
+        } else {
+            currentQuestionIndex++;
+        }
+    } else {
+        currentQuestionIndex++;
+    }
+    
     if (currentQuestionIndex < quizData.questions.length) {
         showQuestion();
     } else {

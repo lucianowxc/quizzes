@@ -323,3 +323,113 @@ Aqui está o **Guia Oficial de Melhores Práticas para Criação de Quizzes**, i
   "description": "Frasede chamada que menciona a diversidade de resultados!"
 }
 ```
+
+---
+
+### **🌳 FASE 2: Quizzes com Branching Condicional**
+
+#### O que é?
+Quizzes onde a próxima pergunta depende da resposta anterior. Exemplo: escolher "praia" leva a perguntas sobre praia; escolher "montanha" leva a perguntas sobre montanha.
+
+#### Schema Estendido
+Cada pergunta pode ter `"id"` e cada resposta pode ter `"nextQuestion"`:
+
+```json
+{
+  "title": "Qual é Seu Destino Ideal?",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "O que você procura?",
+      "answers": [
+        {
+          "text": "Natureza 🏔️",
+          "points": { "natureza": 1, "cultura": 0 },
+          "nextQuestion": "q2a"
+        },
+        {
+          "text": "Cultura 🏛️",
+          "points": { "natureza": 0, "cultura": 1 },
+          "nextQuestion": "q2b"
+        }
+      ]
+    },
+    {
+      "id": "q2a",
+      "question": "Qual tipo de aventura?",
+      "answers": [{"text": "Montanhismo", "points": { "natureza": 2 }}]
+    },
+    {
+      "id": "q2b",
+      "question": "Qual período histórico?",
+      "answers": [{"text": "Antiguidade", "points": { "cultura": 2 }}]
+    }
+  ],
+  "descriptions": { ... }
+}
+```
+
+#### Regras Importantes
+1. **IDs Únicos**: Cada pergunta deve ter um `"id"` único (ex: `q1`, `q2a`, `q2b`, etc.)
+2. **Compatibilidade**: Quizzes sem IDs funcionam linearmente (sem branching)
+3. **Scoring**: Todos os pontos são somados, independentemente do caminho
+4. **nextQuestion Opcional**: Se ausente, passa para próxima pergunta
+
+#### Análise de Combinações
+- **Linear**: Analisa 2^n combinações
+- **Branching**: Analisa apenas caminhos reais (mais rápido!)
+
+---
+
+### **🌳 FASE 2: Quizzes com Branching Condicional**
+
+#### O que é?
+Quizzes onde a próxima pergunta depende da resposta anterior. Exemplo: escolher "praia" leva a perguntas sobre praia; escolher "montanha" leva a perguntas sobre montanha.
+
+#### Schema Estendido
+Cada pergunta pode ter `"id"` e cada resposta pode ter `"nextQuestion"`:
+
+```json
+{
+  "title": "Qual é Seu Destino Ideal?",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "O que você procura?",
+      "answers": [
+        {
+          "text": "Natureza 🏔️",
+          "points": { "natureza": 1, "cultura": 0 },
+          "nextQuestion": "q2a"
+        },
+        {
+          "text": "Cultura 🏛️",
+          "points": { "natureza": 0, "cultura": 1 },
+          "nextQuestion": "q2b"
+        }
+      ]
+    },
+    {
+      "id": "q2a",
+      "question": "Qual tipo de aventura?",
+      "answers": [{"text": "Montanhismo", "points": { "natureza": 2 }}]
+    },
+    {
+      "id": "q2b",
+      "question": "Qual período histórico?",
+      "answers": [{"text": "Antiguidade", "points": { "cultura": 2 }}]
+    }
+  ],
+  "descriptions": { ... }
+}
+```
+
+#### Regras Importantes
+1. **IDs Únicos**: Cada pergunta deve ter um `"id"` único (ex: `q1`, `q2a`, `q2b`, etc.)
+2. **Compatibilidade**: Quizzes sem IDs funcionam linearmente (sem branching)
+3. **Scoring**: Todos os pontos são somados, independentemente do caminho
+4. **nextQuestion Opcional**: Se ausente, passa para próxima pergunta
+
+#### Análise de Combinações
+- **Linear**: Analisa 2^n combinações
+- **Branching**: Analisa apenas caminhos reais (mais rápido!)

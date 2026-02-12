@@ -368,6 +368,48 @@ log(`✅ Validações passadas: ${validationsPassed}`, 'green');
 log(`❌ Validações falhadas: ${validationsFailed}`, validationsFailed > 0 ? 'red' : 'green');
 info('='.repeat(60) + '\n');
 
+// ============================================================================
+// 5. VALIDAÇÃO DE BRANCHING (FASE 2)
+// ============================================================================
+info('\n⚙️  Validando branching condicional...');
+
+const questionIds = new Set();
+const questionsById = {};
+let hasBranching = false;
+
+// Coletar IDs
+quizData.questions.forEach((q, idx) => {
+  const qId = q.id || `q${idx}`;
+  if (questionIds.has(qId)) {
+    error(`ID duplicado: "${qId}"`);
+    validationsFailed++;
+  } else {
+    questionIds.add(qId);
+    questionsById[qId] = idx;
+  }
+});
+
+// Validar nextQuestion
+quizData.questions.forEach((q, idx) => {
+  const qId = q.id || `q${idx}`;
+  q.answers?.forEach(answer => {
+    if (answer.nextQuestion) {
+      hasBranching = true;
+      if (!questionIds.has(answer.nextQuestion)) {
+        error(`Pergunta ${qId}: nextQuestion "${answer.nextQuestion}" não existe`);
+        validationsFailed++;
+      }
+    }
+  });
+});
+
+if (hasBranching) {
+  success('Branching validado (Fase 2 detectada)');
+  validationsPassed++;
+} else {
+  info('Branching não detectado (quiz linear)');
+}
+
 if (validationsFailed === 0) {
   success('🎉 Quiz pronto para PR!');
   process.exit(0);

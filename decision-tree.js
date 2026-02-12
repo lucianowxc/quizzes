@@ -93,6 +93,9 @@ async function loadQuiz(file) {
 }
 
 function initializeQuiz(quizData) {
+    // ✨ FASE 2: Gerar IDs de perguntas se ausentes
+    generateQuestionIds(quizData);
+    
     quizState.currentQuestionIndex = 0;
     quizState.selectedAnswers = [];
     quizState.currentQuiz = quizData;
@@ -110,6 +113,19 @@ function initializeQuiz(quizData) {
         showQuestion(quizData);
         displayScoreBars(quizData);
     }
+}
+
+// ✨ FASE 2: Funções de Branching
+function generateQuestionIds(quizData) {
+    quizData.questions.forEach((q, idx) => {
+        if (!q.id) {
+            q.id = `q${idx}`;
+        }
+    });
+}
+
+function getQuestionIndexById(quizData, id) {
+    return quizData.questions.findIndex(q => q.id === id);
 }
 
 function displayScoreBars(quizData) {
@@ -228,8 +244,20 @@ function selectAnswer(quizData, answerIndex) {
     // Update score bars immediately after adding points
     updateScoreBars();
     
+    // ✨ FASE 2: Verificar nextQuestion
+    const answer = quizData.questions[quizState.currentQuestionIndex].answers[answerIndex];
+    if (answer.nextQuestion) {
+        const nextIndex = getQuestionIndexById(quizData, answer.nextQuestion);
+        if (nextIndex !== -1) {
+            quizState.currentQuestionIndex = nextIndex;
+        } else {
+            quizState.currentQuestionIndex++;
+        }
+    } else {
+        quizState.currentQuestionIndex++;
+    }
+    
     // Show next question or result
-    quizState.currentQuestionIndex++;
     if (quizState.currentQuestionIndex < quizData.questions.length) {
         showQuestion(quizData);
     } else {
@@ -386,7 +414,21 @@ function analyzeAllCombinations(quizData) {
     }
     
     const analysisResults = document.getElementById('analysis-results');
-    const totalCombinations = quizData.questions.reduce((acc, q) => acc * q.answers.length, 1);
+    
+    // ✨ FASE 2: Calcular combinações reais (branching vs linear)
+    const hasBranching = quizData.questions.some(q => 
+        q.answers.some(a => a.nextQuestion)
+    );
+    let totalCombinations;
+    let combinationType = 'lineares';
+    
+    if (hasBranching) {
+        // Para branching, estimamos o máximo (pode ser menor)
+        totalCombinations = quizData.questions.reduce((acc, q) => acc * q.answers.length, 1);
+        combinationType = 'possíveis (branching detectado)';
+    } else {
+        totalCombinations = quizData.questions.reduce((acc, q) => acc * q.answers.length, 1);
+    }
     
     const quizId = quizData.title;
     if (analysisCache.has(quizId)) {
@@ -402,7 +444,8 @@ function analyzeAllCombinations(quizData) {
         resultCounts: {},
         totalCombinations: 0,
         resultsByPath: new Map(),
-        timestamp: Date.now()
+        timestamp: Date.now(),
+        hasBranching: hasBranching
     };
 
     analysisResults.innerHTML = `
@@ -412,7 +455,7 @@ function analyzeAllCombinations(quizData) {
                 <div class="progress-bar">
                     <div class="progress-fill"></div>
                 </div>
-                <p class="progress-text">0 de ${totalCombinations} combinações analisadas (0%)</p>
+                <p class="progress-text">0 de ${totalCombinations} combinações ${combinationType} analisadas (0%)</p>
             </div>
             <table class="results-table">
                 <thead>
@@ -442,7 +485,9 @@ function analyzeAllCombinations(quizData) {
     const chunkSize = 500; // Aumentado devido à menor necessidade de memória
     let processed = 0;
 
-    cacheData.totalCombinations = totalCombinations;
+    // ✨ FASE 2: Usar comprimento real de caminhos (não teórico)
+    const actualTotalCombinations = combinations.length;
+    cacheData.totalCombinations = actualTotalCombinations;
 
     function processChunk() {
         const chunk = combinations.slice(processed, processed + chunkSize);
@@ -458,13 +503,13 @@ function analyzeAllCombinations(quizData) {
 
         processed += chunk.length;
         
-        const progress = (processed / totalCombinations) * 100;
+        const progress = (processed / actualTotalCombinations) * 100;
         progressFill.style.width = `${progress}%`;
-        progressText.textContent = `${processed} de ${totalCombinations} combinações analisadas (${Math.round(progress)}%)`;
+        progressText.textContent = `${processed} de ${actualTotalCombinations} combinações ${combinationType} analisadas (${Math.round(progress)}%)`;
 
         updateResultsTable(quizData, resultCounts, processed, tableBody, cacheData.resultsByPath);
 
-        if (processed < totalCombinations) {
+        if (processed < actualTotalCombinations) {
             setTimeout(processChunk, 0);
         } else {
             cacheData.resultCounts = { ...resultCounts };
@@ -488,12 +533,17 @@ function shouldUseCache(cachedData, currentAnswers) {
 // Função otimizada para calcular pontuações
 function calculateScoresForCombination(quizData, combination) {
     const scores = {};
+    
+    // ✨ FASE 2: Apenas somar respostas que existem no caminho
     combination.forEach((answerIndex, questionIndex) => {
-        const points = quizData.questions[questionIndex].answers[answerIndex].points;
-        for (const key in points) {
-            scores[key] = (scores[key] || 0) + points[key];
+        if (answerIndex !== undefined && questionIndex < quizData.questions.length) {
+            const points = quizData.questions[questionIndex].answers[answerIndex].points;
+            for (const key in points) {
+                scores[key] = (scores[key] || 0) + points[key];
+            }
         }
     });
+    
     return scores;
 }
 
@@ -580,6 +630,17 @@ function formatPath(path, quizData) {
 }
 
 function getCombinations(quizData) {
+    // ✨ FASE 2: Detectar se é branching
+    const hasBranching = quizData.questions.some(q => 
+        q.answers.some(a => a.nextQuestion)
+    );
+    
+    if (hasBranching) {
+        // Para branching: explorar recursivamente todos os caminhos possíveis
+        return getPathCombinations(quizData);
+    }
+    
+    // Linear: usar combinações cartesianas
     const combinations = [];
     const totalQuestions = quizData.questions.length;
     const totalCombinations = quizData.questions.reduce((acc, q) => acc * q.answers.length, 1);
@@ -596,6 +657,38 @@ function getCombinations(quizData) {
     }
 
     return combinations;
+}
+
+// ✨ FASE 2: Explorar caminhos em branching
+function getPathCombinations(quizData) {
+    const paths = [];
+    
+    function explorePath(questionIndex, answers) {
+        if (questionIndex >= quizData.questions.length) {
+            paths.push([...answers]);
+            return;
+        }
+        
+        const question = quizData.questions[questionIndex];
+        question.answers.forEach((answer, answerIdx) => {
+            answers[questionIndex] = answerIdx;
+            
+            // Se há nextQuestion, pula para ela
+            if (answer.nextQuestion) {
+                const nextIdx = getQuestionIndexById(quizData, answer.nextQuestion);
+                if (nextIdx !== -1) {
+                    explorePath(nextIdx, answers);
+                } else {
+                    explorePath(questionIndex + 1, answers);
+                }
+            } else {
+                explorePath(questionIndex + 1, answers);
+            }
+        });
+    }
+    
+    explorePath(0, []);
+    return paths;
 }
 
 function displayAnalysis(quizData, results) {
