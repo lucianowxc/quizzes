@@ -1,11 +1,6 @@
 {
   "quizzes": [
     {
-      "name": "Que Personagem de Slay the Spire Você É?",
-      "file": "quizzes/quizSlayTheSpire.json",
-      "description": "Descubra qual habitante da Espira combina com sua alma (e seu jeito de se autossabotar)"
-    },
-    {
       "name": "Qual Pokémon Inicial Mais Combina com Você?",
       "file": "quizzes/quizDataPkmn.json",
       "description": "Descubra qual Pokémon inicial mais combina com a sua personalidade!"
@@ -549,6 +544,11 @@
       "name": "Qual jogo indie combina com você?",
       "file": "quizzes/quizJogoIndie.json",
       "description": "8 obras-primas. 1 resposta inevitável."
+    },
+    {
+      "name": "Que Personagem de Slay the Spire Você É?",
+      "file": "quizzes/quizSlayTheSpire.json",
+      "description": "Descubra qual habitante da Espira combina com sua alma (e seu jeito de se autossabotar)"
     }
   ]
 }
