@@ -1,0 +1,524 @@
+{
+  "title": "Qual Filme de Terror Você Deve Assistir Esse Final de Semana?",
+  "subtitle": "Responda com honestidade. Seus medos vão escolher por você.",
+  "questions": [
+    {
+      "question": "Como você prefere ser assustado?",
+      "answers": [
+        {
+          "text": "🔪 Susto repentino e violência direta. Sem enrolação",
+          "points": {
+            "scream": 0.8,
+            "terrifier": 0.9,
+            "halloween": 0.7
+          }
+        },
+        {
+          "text": "👁️ Algo que fica na minha cabeça dias depois",
+          "points": {
+            "hereditary": 0.9,
+            "midsommar": 0.7,
+            "the_witch": 0.8
+          }
+        },
+        {
+          "text": "👻 Aquela sensação de que tem algo no quarto comigo",
+          "points": {
+            "conjuring": 0.9,
+            "sinister": 0.7,
+            "hereditary": 0.5
+          }
+        },
+        {
+          "text": "🤢 Cenas que me fazem cobrir o rosto mas não consigo desviar",
+          "points": {
+            "terrifier": 0.8,
+            "the_fly": 0.9,
+            "midsommar": 0.5
+          }
+        },
+        {
+          "text": "😂 Sustos seguidos de gargalhadas. Terror sem se levar a sério",
+          "points": {
+            "scream": 0.6,
+            "shaun_of_the_dead": 0.9,
+            "tucker_dale": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas atmosferas te atrai mais?",
+      "answers": [
+        {
+          "text": "🌲 Campo aberto, floresta, lugar isolado sem sinal",
+          "points": {
+            "midsommar": 0.9,
+            "the_witch": 0.8,
+            "hereditary": 0.4
+          }
+        },
+        {
+          "text": "🏠 Casa antiga, porão escuro, corredor comprido de madrugada",
+          "points": {
+            "conjuring": 0.9,
+            "sinister": 0.8,
+            "hereditary": 0.6
+          }
+        },
+        {
+          "text": "🏙️ Cidade comum, vizinhança normal. O perigo é a pessoa ao lado",
+          "points": {
+            "halloween": 0.8,
+            "scream": 0.9,
+            "tucker_dale": 0.4
+          }
+        },
+        {
+          "text": "🔬 Laboratório, corpo humano, transformação física",
+          "points": {
+            "the_fly": 0.9,
+            "terrifier": 0.5,
+            "hereditary": 0.4
+          }
+        },
+        {
+          "text": "☀️ Plena luz do dia, flores, festividade. Terror sem escuridão",
+          "points": {
+            "midsommar": 0.8,
+            "tucker_dale": 0.6,
+            "the_witch": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é seu nível de tolerância a gore?",
+      "answers": [
+        {
+          "text": "🩸 Máximo. Quanto mais explícito, melhor",
+          "points": {
+            "terrifier": 0.9,
+            "the_fly": 0.7,
+            "scream": 0.5
+          }
+        },
+        {
+          "text": "😬 Aguento bastante mas prefiro que sirva a um propósito",
+          "points": {
+            "hereditary": 0.7,
+            "sinister": 0.6,
+            "midsommar": 0.7
+          }
+        },
+        {
+          "text": "😅 Gore moderado tudo bem, mas sem exagero gratuito",
+          "points": {
+            "conjuring": 0.8,
+            "halloween": 0.7,
+            "scream": 0.6
+          }
+        },
+        {
+          "text": "🙈 Prefiro zero gore. O terror psicológico me basta",
+          "points": {
+            "the_witch": 0.9,
+            "sinister": 0.6,
+            "shaun_of_the_dead": 0.5
+          }
+        },
+        {
+          "text": "😂 Gore só se for ridículo e engraçado",
+          "points": {
+            "shaun_of_the_dead": 0.9,
+            "tucker_dale": 0.9,
+            "scream": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você assiste terror?",
+      "answers": [
+        {
+          "text": "🛋️ Sozinho(a), de madrugada, com as luzes apagadas",
+          "points": {
+            "sinister": 0.9,
+            "hereditary": 0.8,
+            "the_witch": 0.7
+          }
+        },
+        {
+          "text": "👫 Com alguém pra segurar a mão nos sustos",
+          "points": {
+            "conjuring": 0.8,
+            "scream": 0.7,
+            "halloween": 0.6
+          }
+        },
+        {
+          "text": "🎉 Em grupo, todo mundo gritando junto",
+          "points": {
+            "scream": 0.8,
+            "shaun_of_the_dead": 0.9,
+            "tucker_dale": 0.8
+          }
+        },
+        {
+          "text": "🤔 Prestando atenção em cada detalhe, pausando pra analisar",
+          "points": {
+            "hereditary": 0.7,
+            "midsommar": 0.8,
+            "the_witch": 0.7
+          }
+        },
+        {
+          "text": "😤 Gritando conselhos pro personagem que claramente vai morrer",
+          "points": {
+            "halloween": 0.7,
+            "terrifier": 0.6,
+            "tucker_dale": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que mais te perturba na vida real?",
+      "answers": [
+        {
+          "text": "👨‍👩‍👧 Dinâmicas familiares doentias e segredos de família",
+          "points": {
+            "hereditary": 0.9,
+            "midsommar": 0.6,
+            "sinister": 0.5
+          }
+        },
+        {
+          "text": "🦠 O próprio corpo traindo você. Doença, transformação",
+          "points": {
+            "the_fly": 0.9,
+            "hereditary": 0.5,
+            "terrifier": 0.4
+          }
+        },
+        {
+          "text": "😈 Pessoas comuns que simplesmente decidem matar",
+          "points": {
+            "halloween": 0.9,
+            "scream": 0.7,
+            "terrifier": 0.6
+          }
+        },
+        {
+          "text": "🕯️ O sobrenatural. Algo que não tem como combater com lógica",
+          "points": {
+            "conjuring": 0.9,
+            "sinister": 0.8,
+            "the_witch": 0.7
+          }
+        },
+        {
+          "text": "🌍 Grupos, rituais, a pressão social levada ao extremo",
+          "points": {
+            "midsommar": 0.9,
+            "the_witch": 0.5,
+            "hereditary": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual final você prefere num filme de terror?",
+      "answers": [
+        {
+          "text": "💀 O monstro vence. Não tem redenção. Simplesmente acabou",
+          "points": {
+            "terrifier": 0.8,
+            "the_witch": 0.9,
+            "sinister": 0.7
+          }
+        },
+        {
+          "text": "🏃 A protagonista sobrevive após virar o jogo na última hora",
+          "points": {
+            "halloween": 0.8,
+            "scream": 0.9,
+            "conjuring": 0.7
+          }
+        },
+        {
+          "text": "🤯 Final ambíguo que me deixa pensando por dias",
+          "points": {
+            "hereditary": 0.8,
+            "midsommar": 0.7,
+            "the_fly": 0.6
+          }
+        },
+        {
+          "text": "😭 Tragédia emocional. Chorar de medo e de tristeza ao mesmo tempo",
+          "points": {
+            "the_fly": 0.9,
+            "hereditary": 0.7,
+            "midsommar": 0.6
+          }
+        },
+        {
+          "text": "😂 Todo mundo morre mas de um jeito absurdamente engraçado",
+          "points": {
+            "shaun_of_the_dead": 0.8,
+            "tucker_dale": 0.9,
+            "scream": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase resume melhor sua personalidade?",
+      "answers": [
+        {
+          "text": "🎬 'Eu sei as regras do terror. E vou sobreviver'",
+          "points": {
+            "scream": 0.9,
+            "halloween": 0.5,
+            "tucker_dale": 0.5
+          }
+        },
+        {
+          "text": "🌑 'Algo está errado aqui. Eu sinto, mas não consigo provar'",
+          "points": {
+            "sinister": 0.8,
+            "conjuring": 0.7,
+            "the_witch": 0.7
+          }
+        },
+        {
+          "text": "🔬 'Eu precisava saber o que aconteceria se fosse longe demais'",
+          "points": {
+            "the_fly": 0.9,
+            "hereditary": 0.5,
+            "midsommar": 0.4
+          }
+        },
+        {
+          "text": "🤷 'Oi! Posso ajudar? Espera, por que estão fugindo de mim?'",
+          "points": {
+            "tucker_dale": 0.9,
+            "shaun_of_the_dead": 0.7,
+            "scream": 0.3
+          }
+        },
+        {
+          "text": "🧠 'Minha mente está me destruindo por dentro e eu deixo'",
+          "points": {
+            "hereditary": 0.8,
+            "midsommar": 0.8,
+            "sinister": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é seu ritual antes de assistir terror?",
+      "answers": [
+        {
+          "text": "☕ Xícara de chá, manta, ambiente aconchegante. Terror confortável",
+          "points": {
+            "conjuring": 0.7,
+            "shaun_of_the_dead": 0.8,
+            "tucker_dale": 0.7
+          }
+        },
+        {
+          "text": "🌙 Espero escurecer, apago tudo, fone de ouvido. Imersão total",
+          "points": {
+            "sinister": 0.9,
+            "hereditary": 0.8,
+            "the_witch": 0.7
+          }
+        },
+        {
+          "text": "🍕 Lanche farto. Vou precisar de conforto emocional",
+          "points": {
+            "terrifier": 0.7,
+            "scream": 0.6,
+            "halloween": 0.6
+          }
+        },
+        {
+          "text": "📱 Pesquiso tudo antes. Spoiler não me incomoda, prefiro estar preparado",
+          "points": {
+            "midsommar": 0.7,
+            "the_fly": 0.7,
+            "hereditary": 0.6
+          }
+        },
+        {
+          "text": "🍺 Convido amigos. Quanto mais barulho, melhor",
+          "points": {
+            "shaun_of_the_dead": 0.9,
+            "tucker_dale": 0.8,
+            "scream": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual clássico do terror você mais curte?",
+      "answers": [
+        {
+          "text": "🎃 Halloween (1978) — o assassino silencioso que inventou o gênero",
+          "points": {
+            "halloween": 0.5,
+            "conjuring": 0.6,
+            "sinister": 0.7
+          }
+        },
+        {
+          "text": "👽 A Mosca (1986) — ciência, obsessão e body horror poético",
+          "points": {
+            "the_fly": 0.6,
+            "hereditary": 0.5,
+            "midsommar": 0.4
+          }
+        },
+        {
+          "text": "🪓 O Iluminado (1980) — loucura lenta e fotografia hipnótica",
+          "points": {
+            "sinister": 0.7,
+            "the_witch": 0.7,
+            "hereditary": 0.6
+          }
+        },
+        {
+          "text": "🧟 Noite dos Mortos-Vivos (1968) — terror como crítica social",
+          "points": {
+            "shaun_of_the_dead": 0.8,
+            "tucker_dale": 0.6,
+            "scream": 0.5
+          }
+        },
+        {
+          "text": "👁️ Rosemary's Baby (1968) — paranoia doméstica insuportável",
+          "points": {
+            "hereditary": 0.7,
+            "conjuring": 0.6,
+            "the_witch": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você se sente depois de um bom filme de terror?",
+      "answers": [
+        {
+          "text": "😤 Agitado(a). Preciso processar a adrenalina",
+          "points": {
+            "terrifier": 0.8,
+            "halloween": 0.7,
+            "scream": 0.6
+          }
+        },
+        {
+          "text": "🌀 Perturbado(a). Fico pensando em cenas específicas por dias",
+          "points": {
+            "hereditary": 0.9,
+            "midsommar": 0.8,
+            "sinister": 0.7
+          }
+        },
+        {
+          "text": "😄 Bem disposto(a). Ri bastante, me diverti, valeu",
+          "points": {
+            "shaun_of_the_dead": 0.9,
+            "tucker_dale": 0.9,
+            "scream": 0.6
+          }
+        },
+        {
+          "text": "🛐 Existencialmente abalado(a). Precisando repensar algumas coisas",
+          "points": {
+            "the_witch": 0.9,
+            "the_fly": 0.7,
+            "midsommar": 0.7
+          }
+        },
+        {
+          "text": "🔒 Com vontade de checar todas as janelas antes de dormir",
+          "points": {
+            "conjuring": 0.9,
+            "sinister": 0.8,
+            "halloween": 0.5
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "hereditary": {
+      "title": "Hereditário (2018)",
+      "emoji": "🪆",
+      "subtitle": "O terror de família que quebrou muita gente",
+      "text": "Seu próximo fim de semana é Hereditário. Você não quer só se assustar — você quer ser devastado(a). Este filme de Ari Aster mistura luto, trauma familiar e ocultismo num crescendo que vai te deixar em silêncio nos créditos finais. Aviso: algumas cenas ficam na memória permanentemente. Você foi avisado(a)."
+    },
+    "midsommar": {
+      "title": "Midsommar — O Mal Não Espera a Noite (2019)",
+      "emoji": "🌸",
+      "subtitle": "Terror à luz do dia, flores e rituais suecos",
+      "text": "Seu próximo fim de semana é Midsommar. Você aprecia terror que desafia a forma — nada de casas assombradas escuras, aqui o horror acontece em plena luz do sol, rodeado de flores e sorrisos perturbadores. É lento, é bizarro, é emocionalmente exaustivo. E você vai adorar cada minuto disso."
+    },
+    "the_witch": {
+      "title": "A Bruxa (2015)",
+      "emoji": "🐐",
+      "subtitle": "Slow burn puritano que vai te consumir",
+      "text": "Seu próximo fim de semana é A Bruxa. Você tem paciência pra terror que constrói angústia devagar, peça por peça. Ambientado na Nova Inglaterra do século XVII, o filme usa isolamento, religião e paranoia familiar pra criar um dos finais mais perturbadores da última década. Vivid com o diabo."
+    },
+    "conjuring": {
+      "title": "Invocação do Mal (2013)",
+      "emoji": "👐",
+      "subtitle": "O sobrenatural bem executado que ressuscitou o gênero",
+      "text": "Seu próximo fim de semana é Invocação do Mal. Você quer a experiência clássica do terror sobrenatural feita com competência real. James Wan sabe exatamente onde posicionar a câmera antes do susto, como construir tensão com sons e sombras, e como fazer você torcer pelos personagens. Um dos melhores filmes de assombração já feitos."
+    },
+    "sinister": {
+      "title": "Sinister (2012)",
+      "emoji": "📽️",
+      "subtitle": "As home movies mais perturbadoras da história",
+      "text": "Seu próximo fim de semana é Sinister. Você gosta de terror que começa com um mistério investigativo e vai se tornando cada vez mais opressor. Um escritor encontra filmes super-8 perturbadores no sótão e decide não sair da casa. As imagens desses filmes dentro do filme são genuinamente perturbadoras — esse é um dos mais bem avaliados pelo índice de frequência cardíaca em testes científicos de terror."
+    },
+    "halloween": {
+      "title": "Halloween (1978)",
+      "emoji": "🎃",
+      "subtitle": "O clássico que definiu o slasher moderno",
+      "text": "Seu próximo fim de semana é Halloween. Às vezes não tem segredo: você quer o original, o que criou as regras, o Michael Myers silencioso caminhando sem pressa enquanto a trilha de John Carpenter toca. É um filme que envelheceu lindamente e ainda funciona. Clássico por razões muito concretas."
+    },
+    "scream": {
+      "title": "Pânico (1996)",
+      "emoji": "📞",
+      "subtitle": "O slasher que sabia que era um slasher",
+      "text": "Seu próximo fim de semana é Pânico. Você quer terror inteligente que ri de si mesmo enquanto ainda te assusta de verdade. Wes Craven criou um filme que conhece todas as regras do gênero, as enuncia em voz alta pelos personagens, e então as quebra uma por uma. Divertido, tenso e muito mais esperto do que parece."
+    },
+    "terrifier": {
+      "title": "Terrifier 2 (2022)",
+      "emoji": "🤡",
+      "subtitle": "Gore extremo sem desculpas ou freios",
+      "text": "Seu próximo fim de semana é Terrifier 2. Você não quer subtexto, não quer metáfora, não quer mensagem. Você quer Art the Clown fazendo coisas absolutamente horríveis por duas horas e meia. Este filme fez pessoas passarem mal em sessões de cinema. Se isso soa como elogio pra você, é a escolha certa."
+    },
+    "the_fly": {
+      "title": "A Mosca (1986)",
+      "emoji": "🪰",
+      "subtitle": "Body horror com coração partido",
+      "text": "Seu próximo fim de semana é A Mosca. David Cronenberg criou algo raro: um filme de body horror que também é uma história de amor devastadora. Jeff Goldblum se transforma devagar, cena a cena, enquanto o relacionamento desmorona junto. É nojento, é trágico, é belo. Provavelmente o melhor filme desta lista."
+    },
+    "shaun_of_the_dead": {
+      "title": "Shaun of the Dead (2004)",
+      "emoji": "🧟",
+      "subtitle": "O apocalipse zumbi mais aconchegante já filmado",
+      "text": "Seu próximo fim de semana é Shaun of the Dead. Você quer passar bem, rir muito e ainda ter uns sustos genuínos no meio. Edgar Wright e Simon Pegg fizeram um filme que funciona como comédia, como terror e como história de amadurecimento ao mesmo tempo. Assistir com amigos, cerveja na mão, é uma das melhores experiências de cinema que existem."
+    },
+    "tucker_dale": {
+      "title": "Tucker & Dale vs Evil (2010)",
+      "emoji": "🪚",
+      "subtitle": "Os vilões eram os universitários o tempo todo",
+      "text": "Seu próximo fim de semana é Tucker & Dale vs Evil. Uma premissa genial: dois caipiras bonzinhos numa cabana na floresta são confundidos com assassinos por um grupo de universitários, que começam a morrer acidentalmente de formas cada vez mais absurdas. É uma das comédias de terror mais criativas já feitas e ainda pouco conhecida. Você vai querer recomendar pra todo mundo."
+    }
+  }
+}
