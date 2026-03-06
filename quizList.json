@@ -1,13 +1,18 @@
 {
   "quizzes": [
     {
+      "name": "Que Personagem de Slay the Spire Você É?",
+      "file": "quizzes/quizSlayTheSpire.json",
+      "description": "Descubra qual habitante da Espira combina com sua alma (e seu jeito de se autossabotar)"
+    },
+    {
       "name": "Qual Pokémon Inicial Mais Combina com Você?",
       "file": "quizzes/quizDataPkmn.json",
       "description": "Descubra qual Pokémon inicial mais combina com a sua personalidade!"
     },
     {
-      "name"       : "Qual Power Ranger Melhor Te Representa?",
-      "file"       : "quizzes/quizDataPowerRanger.json",
+      "name": "Qual Power Ranger Melhor Te Representa?",
+      "file": "quizzes/quizDataPowerRanger.json",
       "description": "Veja qual Power Ranger melhor representa você!"
     },
     {
@@ -21,8 +26,8 @@
       "description": "Descubra qual andar do prédio mais se parece com a sua personalidade!"
     },
     {
-      "name"       : "Qual Princesa Disney Te Representa?",
-      "file"       : "quizzes/quizPrincesa.json",
+      "name": "Qual Princesa Disney Te Representa?",
+      "file": "quizzes/quizPrincesa.json",
       "description": "Descubra qual princesa Disney é a sua cara!"
     },
     {
@@ -41,8 +46,8 @@
       "description": "Descubra qual ditado popular brasileiro mais combina com você!"
     },
     {
-      "name"       : "Qual estado brasileiro você seria?",
-      "file"       : "quizzes/quizEstados.json",
+      "name": "Qual estado brasileiro você seria?",
+      "file": "quizzes/quizEstados.json",
       "description": "Veja qual estado brasileiro mais se parece com você!"
     },
     {
@@ -86,8 +91,8 @@
       "description": "Descubra qual diva pop dos anos 2000 mais se parece com você!"
     },
     {
-      "name"       : "Que tipo de triângulo você seria?",
-      "file"       : "quizzes/quizTriangulos.json",
+      "name": "Que tipo de triângulo você seria?",
+      "file": "quizzes/quizTriangulos.json",
       "description": "Descubra que tipo de triângulo mais se parece com você!"
     },
     {
@@ -101,8 +106,8 @@
       "description": "Descubra qual sabor exótico de pizza mais se parece com você!"
     },
     {
-      "name"       : "Qual Sotaque Brasileiro é o Mais Legal?",
-      "file"       : "quizzes/quizSotaquesBrasil.json",
+      "name": "Qual Sotaque Brasileiro é o Mais Legal?",
+      "file": "quizzes/quizSotaquesBrasil.json",
       "description": "Descubra qual sotaque brasileiro é o mais legal!"
     },
     {
@@ -151,8 +156,8 @@
       "description": "Descubra qual papa controverso da Igreja Católica mais se parece com você! Desde os escândalos de Rodrigo Borgia até as manobras políticas de Júlio II, veja qual figura histórica da Igreja reflete sua personalidade."
     },
     {
-      "name"       : "Com qual cantora pop você mais se identifica?",
-      "file"       : "quizzes/quizCantorasPop.json",
+      "name": "Com qual cantora pop você mais se identifica?",
+      "file": "quizzes/quizCantorasPop.json",
       "description": "Descubra com qual cantora pop você mais se identifica!"
     },
     {
@@ -171,8 +176,8 @@
       "description": "Descubra qual linguagem de programação mais se parece com você, com dilemas existenciais e metáforas tecnológicas!"
     },
     {
-      "name"       : "Que musical você seria?",
-      "file"       : "quizzes/quizMusicais.json",
+      "name": "Que musical você seria?",
+      "file": "quizzes/quizMusicais.json",
       "description": "Descubra qual musical mais se parece com você!"
     },
     {
@@ -181,8 +186,8 @@
       "description": "Descubra qual sabor de detergente reflete melhor a sua personalidade!"
     },
     {
-      "name"       : "Qual Tipo de Gato Você É?",
-      "file"       : "quizzes/quizGatos.json",
+      "name": "Qual Tipo de Gato Você É?",
+      "file": "quizzes/quizGatos.json",
       "description": "Descubra qual tipo de gato mais se parece com você!"
     },
     {
@@ -206,8 +211,8 @@
       "description": "Descubra qual personagem de Dragon Ball Z mais se parece com você!"
     },
     {
-      "name"       : "Qual cidade do Brasil combina com você?",
-      "file"       : "quizzes/quizCidades.json",
+      "name": "Qual cidade do Brasil combina com você?",
+      "file": "quizzes/quizCidades.json",
       "description": "Descubra qual cidade do Brasil mais se parece com você!"
     },
     {
@@ -251,8 +256,8 @@
       "description": "Descubra a fragrância que mais combina com a sua personalidade e estilo de vida!"
     },
     {
-      "name"       : "Qual flor do dia você é?",
-      "file"       : "quizzes/quizFlorDoDia.json",
+      "name": "Qual flor do dia você é?",
+      "file": "quizzes/quizFlorDoDia.json",
       "description": "Descubra qual flor você representa hoje!"
     },
     {
@@ -266,13 +271,13 @@
       "description": "Descubra qual função sintática mais combina com a sua personalidade!"
     },
     {
-      "name"       : "Qual eletrodoméstico você seria?",
-      "file"       : "quizzes/quizEletrodomestico.json",
+      "name": "Qual eletrodoméstico você seria?",
+      "file": "quizzes/quizEletrodomestico.json",
       "description": "Veja qual eletrodoméstico mais se parece com você!"
     },
     {
-      "name"       : "Qual código de erro você é?",
-      "file"       : "quizzes/quizCodigoErro.json",
+      "name": "Qual código de erro você é?",
+      "file": "quizzes/quizCodigoErro.json",
       "description": "Descubra qual código de erro mais representa você!"
     },
     {
@@ -291,8 +296,8 @@
       "description": "Descubra seu estilo de jogo no Magic: The Gathering e veja qual tipo de deck mais combina com você!"
     },
     {
-      "name"       : "Qual salgadinho da Elma Chips você seria?",
-      "file"       : "quizzes/quizElmaChips.json",
+      "name": "Qual salgadinho da Elma Chips você seria?",
+      "file": "quizzes/quizElmaChips.json",
       "description": "Descubra qual salgadinho combina com sua personalidade!"
     },
     {
@@ -301,8 +306,8 @@
       "description": "Descubra qual carro mais combina com sua personalidade (ou falta dela)! Prepare-se para piadas, trapaças e muita confusão no estilo Corrida Maluca!"
     },
     {
-      "name"       : "Em qual região de Pokemon você deveria viver?",
-      "file"       : "quizzes/quizRegiaoPokemon.json",
+      "name": "Em qual região de Pokemon você deveria viver?",
+      "file": "quizzes/quizRegiaoPokemon.json",
       "description": "Descubra qual região do mundo Pokemon é a sua cara!"
     },
     {
@@ -366,8 +371,8 @@
       "description": "Descubra qual bicho das cédulas brasileiras combina com sua personalidade!"
     },
     {
-      "name"       : "Qual bairro de SP mais combina com sua personalidade?",
-      "file"       : "quizzes/quizBairrosSP.json",
+      "name": "Qual bairro de SP mais combina com sua personalidade?",
+      "file": "quizzes/quizBairrosSP.json",
       "description": "Descubra qual bairro de SP combina mais com você!"
     },
     {
@@ -461,29 +466,29 @@
       "description": "Descubra qual aplicativo do Office combina com sua personalidade (e seus vícios secretos corporativos)!"
     },
     {
-       "name": "Qual Restaurante do Centro de SP Você Seria?",
-       "file": "quizzes/quizRestaurantesCentroSP.json",
-       "description": "Descubra qual restaurante do Centro Histórico de São Paulo mais se parece com sua personalidade: da economia à tradição, do caos à elegância!"
+      "name": "Qual Restaurante do Centro de SP Você Seria?",
+      "file": "quizzes/quizRestaurantesCentroSP.json",
+      "description": "Descubra qual restaurante do Centro Histórico de São Paulo mais se parece com sua personalidade: da economia à tradição, do caos à elegância!"
     },
     {
-       "name": "Qual arquétipo de velho você será?",
-       "file": "quizzes/quizVelhiceArquetipos.json",
-       "description": "Prepare o seu pijama ou o seu bilhete de cruzeiro: descubra como será sua melhor (ou pior) idade!"
+      "name": "Qual arquétipo de velho você será?",
+      "file": "quizzes/quizVelhiceArquetipos.json",
+      "description": "Prepare o seu pijama ou o seu bilhete de cruzeiro: descubra como será sua melhor (ou pior) idade!"
     },
     {
-       "name": "Qual deve ser sua meta em 2026?",
-       "file": "quizzes/meta2026.json",
-       "description": "Descubra qual grande movimento de vida aguarda você no futuro através de 10 arquétipos existenciais criativos!"
+      "name": "Qual deve ser sua meta em 2026?",
+      "file": "quizzes/meta2026.json",
+      "description": "Descubra qual grande movimento de vida aguarda você no futuro através de 10 arquétipos existenciais criativos!"
     },
     {
-       "name": "Qual expressão para a loucura você seria?",
-       "file": "quizzes/expressaoLoucura.json",
-       "description": "Descubra se você só pirou na batatinha ou se já está dando bom dia a cavalo neste quiz absurdista!"
+      "name": "Qual expressão para a loucura você seria?",
+      "file": "quizzes/expressaoLoucura.json",
+      "description": "Descubra se você só pirou na batatinha ou se já está dando bom dia a cavalo neste quiz absurdista!"
     },
     {
-       "name": "Qual evento de final de ano você é?",
-       "file": "quizzes/quiz2712.json",
-       "description": "Descubra seu papel nas festas de dezembro e veja se você aguenta o tranco do Martelo da Diplomacia! 🔨"
+      "name": "Qual evento de final de ano você é?",
+      "file": "quizzes/quiz2712.json",
+      "description": "Descubra seu papel nas festas de dezembro e veja se você aguenta o tranco do Martelo da Diplomacia! 🔨"
     },
     {
       "name": "Qual Presente de Rei Mago Moderno Você Daria?",
@@ -545,14 +550,5 @@
       "file": "quizzes/quizJogoIndie.json",
       "description": "8 obras-primas. 1 resposta inevitável."
     }
-
-
-
-
-
-
-
-    
-
   ]
 }
