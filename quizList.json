@@ -549,6 +549,11 @@
       "name": "Que Personagem de Slay the Spire Você É?",
       "file": "quizzes/quizSlayTheSpire.json",
       "description": "Descubra qual habitante da Espira combina com sua alma (e seu jeito de se autossabotar)"
+    },
+    {
+      "name": "Qual Filme de Terror Você Deve Assistir Esse Final de Semana?",
+      "file": "quizzes/quizTerror.json",
+      "description": "Responda com honestidade. Seus medos vão escolher por você."
     }
   ]
 }
