@@ -554,6 +554,11 @@
       "name": "Qual Filme de Terror Você Deve Assistir Esse Final de Semana?",
       "file": "quizzes/quizTerror.json",
       "description": "Responda com honestidade. Seus medos vão escolher por você."
+    },
+    {
+      "name": "Qual Identidade de Cores Você Deve Usar no Próximo Commander?",
+      "file": "quizzes/quizProximoDeck.json",
+      "description": "Responda com honestidade sobre como você realmente joga. O deck certo está esperando."
     }
   ]
 }
