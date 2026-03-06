@@ -65,8 +65,8 @@ try {
     description: description
   };
 
-  // Adicionar no início (mais recentes primeiro)
-  quizList.quizzes.unshift(newEntry);
+  // Adicionar no fim (mais recentes primeiro)
+  quizList.quizzes.push(newEntry);
 
   // Salvar
   fs.writeFileSync(quizListPath, JSON.stringify(quizList, null, 2) + '\n', 'utf8');
