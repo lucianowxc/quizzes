@@ -1,0 +1,1187 @@
+{
+  "title": "Qual Identidade de Cores Você Deve Usar no Próximo Commander?",
+  "subtitle": "Responda com honestidade sobre como você realmente joga. O deck certo está esperando.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Como você prefere vencer uma partida de Commander?",
+      "answers": [
+        {
+          "text": "⚡ Pressionar desde o início e eliminar alguém antes que o jogo se estabilize",
+          "points": {
+            "boros": 0.4,
+            "gruul": 0.4,
+            "mono_red": 0.3
+          },
+          "nextQuestion": "q2_aggro"
+        },
+        {
+          "text": "🌿 Desenvolver recursos, gerar valor e dominar o mid game",
+          "points": {
+            "golgari": 0.4,
+            "jund": 0.3,
+            "abzan": 0.3
+          },
+          "nextQuestion": "q2_midrange"
+        },
+        {
+          "text": "🧊 Segurar o jogo, responder a tudo e ganhar no late game",
+          "points": {
+            "azorius": 0.4,
+            "dimir": 0.4,
+            "mono_blue": 0.3
+          },
+          "nextQuestion": "q2_control"
+        },
+        {
+          "text": "⚙️ Montar uma peça específica e ganhar de forma decisiva",
+          "points": {
+            "izzet": 0.4,
+            "mono_black": 0.3,
+            "sultai": 0.3
+          },
+          "nextQuestion": "q2_combo"
+        }
+      ]
+    },
+    {
+      "id": "q2_aggro",
+      "question": "Qual é o seu estilo de pressão preferido?",
+      "answers": [
+        {
+          "text": "👥 Muitas criaturas pequenas e eficientes. Volume e consistência",
+          "points": {
+            "mono_white": 0.5,
+            "boros": 0.4,
+            "selesnya": 0.3
+          },
+          "nextQuestion": "q3_aggro_weenie"
+        },
+        {
+          "text": "🦍 Criaturas que crescem rápido e esmagam antes que alguém reaja",
+          "points": {
+            "gruul": 0.5,
+            "mono_green": 0.4,
+            "naya": 0.3
+          },
+          "nextQuestion": "q3_aggro_stompy"
+        },
+        {
+          "text": "🔥 Dano direto. Não preciso nem de criaturas se puder queimar",
+          "points": {
+            "mono_red": 0.6,
+            "izzet": 0.4
+          },
+          "nextQuestion": "q3_aggro_burn"
+        }
+      ]
+    },
+    {
+      "id": "q2_midrange",
+      "question": "Qual é o seu motor de valor preferido?",
+      "answers": [
+        {
+          "text": "🎁 Criaturas que geram valor ao entrar ou sair do campo",
+          "points": {
+            "simic": 0.4,
+            "bant": 0.4,
+            "sultai": 0.3
+          },
+          "nextQuestion": "q3_mid_value"
+        },
+        {
+          "text": "💀 Sacrificar e reciclar. Nada que morre fica desperdiçado",
+          "points": {
+            "golgari": 0.5,
+            "jund": 0.4,
+            "orzhov": 0.3
+          },
+          "nextQuestion": "q3_mid_aristocrats"
+        },
+        {
+          "text": "🌲 Ramp acelerado e ameaças enormes que encerram o jogo",
+          "points": {
+            "mono_green": 0.5,
+            "gruul": 0.4,
+            "temur": 0.3
+          },
+          "nextQuestion": "q3_mid_ramp"
+        }
+      ]
+    },
+    {
+      "id": "q2_control",
+      "question": "Como você prefere exercer controle sobre a mesa?",
+      "answers": [
+        {
+          "text": "🚫 Counterspells, card draw e um finalizador inevitável no late",
+          "points": {
+            "mono_blue": 0.5,
+            "dimir": 0.4,
+            "azorius": 0.3
+          },
+          "nextQuestion": "q3_ctrl_hard"
+        },
+        {
+          "text": "🔒 Travar o jogo com artefatos e encantamentos. Que lutem entre si",
+          "points": {
+            "azorius": 0.5,
+            "esper": 0.4,
+            "mono_white": 0.3
+          },
+          "nextQuestion": "q3_ctrl_stax"
+        },
+        {
+          "text": "🩸 Remover tudo que entra em campo e drenar vida devagarzinho",
+          "points": {
+            "orzhov": 0.5,
+            "mono_black": 0.4,
+            "esper": 0.3
+          },
+          "nextQuestion": "q3_ctrl_drain"
+        }
+      ]
+    },
+    {
+      "id": "q2_combo",
+      "question": "Qual estilo de combo combina mais com você?",
+      "answers": [
+        {
+          "text": "♾️ Combo infinito de mana, turns ou dano. Quando ativa, acabou",
+          "points": {
+            "mono_black": 0.5,
+            "izzet": 0.4,
+            "esper": 0.3
+          },
+          "nextQuestion": "q3_combo_infinite"
+        },
+        {
+          "text": "⚰️ Trazer o monstro definitivo do cemitério na hora certa",
+          "points": {
+            "golgari": 0.4,
+            "sultai": 0.5,
+            "abzan": 0.3
+          },
+          "nextQuestion": "q3_combo_reanimate"
+        },
+        {
+          "text": "⏱️ Jogar na virada do adversário, responder e manter o controle da informação",
+          "points": {
+            "izzet": 0.4,
+            "temur": 0.5,
+            "simic": 0.3
+          },
+          "nextQuestion": "q3_combo_tempo"
+        }
+      ]
+    },
+    {
+      "id": "q3_aggro_weenie",
+      "question": "Suas criaturas pequenas precisam de suporte? Qual?",
+      "answers": [
+        {
+          "text": "⚔️ Equipamentos e auras. Cada criatura vira uma ameaça individual",
+          "points": {
+            "mono_white": 0.9,
+            "boros": 0.6
+          },
+          "nextQuestion": "q4_white_red"
+        },
+        {
+          "text": "🎺 Anthems e lords. Quero que todas cresçam juntas",
+          "points": {
+            "mono_white": 0.7,
+            "selesnya": 0.6,
+            "naya": 0.5
+          },
+          "nextQuestion": "q4_white_green"
+        },
+        {
+          "text": "🏃 Haste e evasão. Quero que cheguem antes que alguém bloqueie",
+          "points": {
+            "boros": 0.8,
+            "mono_red": 0.5
+          },
+          "nextQuestion": "q4_white_red"
+        }
+      ]
+    },
+    {
+      "id": "q3_aggro_stompy",
+      "question": "Como você acelera suas ameaças enormes?",
+      "answers": [
+        {
+          "text": "🌱 Ramp pesado de mana. Chego no turno 4 com uma criatura de 8 de mana",
+          "points": {
+            "mono_green": 0.9,
+            "gruul": 0.7
+          },
+          "nextQuestion": "q4_green_red"
+        },
+        {
+          "text": "💪 Pump e efeitos de crescimento. Começam pequenas e ficam absurdas",
+          "points": {
+            "gruul": 0.8,
+            "naya": 0.6
+          },
+          "nextQuestion": "q4_green_red"
+        },
+        {
+          "text": "🐾 Tribo. Lords e sinergias tribais que escalam exponencialmente",
+          "points": {
+            "gruul": 0.6,
+            "naya": 0.7,
+            "selesnya": 0.6
+          },
+          "nextQuestion": "q4_green_white"
+        }
+      ]
+    },
+    {
+      "id": "q3_aggro_burn",
+      "question": "Seu burn precisa ser mais versátil?",
+      "answers": [
+        {
+          "text": "🎯 Puro e simples. Feitiços de dano direto a custo baixo, repetidamente",
+          "points": {
+            "mono_red": 0.9
+          },
+          "nextQuestion": "q4_red_only"
+        },
+        {
+          "text": "🗡️ Quero burn com criaturas com evasão para garantir o dano",
+          "points": {
+            "izzet": 0.5,
+            "boros": 0.6,
+            "mono_red": 0.5
+          },
+          "nextQuestion": "q4_red_white_blue"
+        },
+        {
+          "text": "♟️ Quero copiar meus feitiços de dano para escalar",
+          "points": {
+            "izzet": 0.9,
+            "mono_red": 0.4
+          },
+          "nextQuestion": "q4_red_blue"
+        }
+      ]
+    },
+    {
+      "id": "q3_mid_value",
+      "question": "Que tipo de valor você prefere gerar com criaturas?",
+      "answers": [
+        {
+          "text": "🃏 Card draw e tutores. Quero sempre ter mais opções que o adversário",
+          "points": {
+            "sultai": 0.7,
+            "simic": 0.8
+          },
+          "nextQuestion": "q4_green_blue"
+        },
+        {
+          "text": "⚡ ETBs poderosos repetíveis. Flickar e recorrer a mesma criatura várias vezes",
+          "points": {
+            "bant": 0.8,
+            "azorius": 0.6
+          },
+          "nextQuestion": "q4_white_blue_green"
+        },
+        {
+          "text": "🏆 Criaturas que viram win conditions por conta própria",
+          "points": {
+            "abzan": 0.7,
+            "jund": 0.6,
+            "five_color": 0.5
+          },
+          "nextQuestion": "q4_black_green"
+        }
+      ]
+    },
+    {
+      "id": "q3_mid_aristocrats",
+      "question": "O que você faz com tudo que sai do cemitério?",
+      "answers": [
+        {
+          "text": "🩸 Dreno vida a cada morte. Acumulo até não ter mais nada",
+          "points": {
+            "orzhov": 0.8,
+            "mardu": 0.6
+          },
+          "nextQuestion": "q4_black_white"
+        },
+        {
+          "text": "🔁 Recorro o que morreu. O cemitério é uma segunda mão",
+          "points": {
+            "golgari": 0.9,
+            "jund": 0.6
+          },
+          "nextQuestion": "q4_black_green"
+        },
+        {
+          "text": "💥 Cada morte gera mana ou tokens. Escalo até explodir",
+          "points": {
+            "jund": 0.8,
+            "mardu": 0.6
+          },
+          "nextQuestion": "q4_black_red"
+        }
+      ]
+    },
+    {
+      "id": "q3_mid_ramp",
+      "question": "O que você faz com toda essa mana extra?",
+      "answers": [
+        {
+          "text": "🦕 Jogar criaturas gigantescas o mais rápido possível",
+          "points": {
+            "mono_green": 0.8,
+            "gruul": 0.7
+          },
+          "nextQuestion": "q4_green_red"
+        },
+        {
+          "text": "🌊 Feitiços caros e poderosos que viram o jogo por conta própria",
+          "points": {
+            "temur": 0.8,
+            "simic": 0.6
+          },
+          "nextQuestion": "q4_green_blue_red"
+        },
+        {
+          "text": "🌈 Goodstuff de 5 cores — quero acesso a tudo",
+          "points": {
+            "five_color": 0.9
+          },
+          "nextQuestion": "q4_five_color"
+        }
+      ]
+    },
+    {
+      "id": "q3_ctrl_hard",
+      "question": "Qual é sua estratégia de fechamento no late game?",
+      "answers": [
+        {
+          "text": "🦑 Uma criatura enorme e inevitável que protejo com counterspells",
+          "points": {
+            "mono_blue": 0.8,
+            "simic": 0.6
+          },
+          "nextQuestion": "q4_blue_only"
+        },
+        {
+          "text": "🃏 Rodar a biblioteca do adversário. Se ele não tem deck, perdeu",
+          "points": {
+            "dimir": 0.8,
+            "mono_blue": 0.5
+          },
+          "nextQuestion": "q4_blue_black"
+        },
+        {
+          "text": "✨ Um combo de vitória limpo depois de controlar tudo",
+          "points": {
+            "azorius": 0.7,
+            "esper": 0.6,
+            "dimir": 0.5
+          },
+          "nextQuestion": "q4_blue_white"
+        }
+      ]
+    },
+    {
+      "id": "q3_ctrl_stax",
+      "question": "Como você quer travar o jogo?",
+      "answers": [
+        {
+          "text": "⏸️ Simétrico — tudo que atrapalha todo mundo. Menos eu, claro",
+          "points": {
+            "mono_white": 0.7,
+            "azorius": 0.6
+          },
+          "nextQuestion": "q4_white_blue"
+        },
+        {
+          "text": "🎩 Assimétrico — artefatos e enchantments que só me beneficiam",
+          "points": {
+            "esper": 0.7,
+            "azorius": 0.6
+          },
+          "nextQuestion": "q4_white_blue"
+        },
+        {
+          "text": "💀 Stax com drain. Tudo que eles pagam em recursos, eu recebo em pontos de vida",
+          "points": {
+            "orzhov": 0.8,
+            "esper": 0.5
+          },
+          "nextQuestion": "q4_black_white"
+        }
+      ]
+    },
+    {
+      "id": "q3_ctrl_drain",
+      "question": "Qual é sua fonte principal de remoção?",
+      "answers": [
+        {
+          "text": "🗑️ Efeitos de sacrifice. Não tem indestrutable que aguente",
+          "points": {
+            "golgari": 0.6,
+            "jund": 0.6,
+            "orzhov": 0.6
+          },
+          "nextQuestion": "q4_black_green"
+        },
+        {
+          "text": "🌑 Remoção direta com preto. Destroy, exile, edict — tudo que precisar",
+          "points": {
+            "mono_black": 0.9,
+            "dimir": 0.5
+          },
+          "nextQuestion": "q4_black_only"
+        },
+        {
+          "text": "🧹 Board wipes repetidos. Que voltem pro zero toda rodada",
+          "points": {
+            "esper": 0.7,
+            "orzhov": 0.6
+          },
+          "nextQuestion": "q4_black_white"
+        }
+      ]
+    },
+    {
+      "id": "q3_combo_infinite",
+      "question": "Como você monta seu combo?",
+      "answers": [
+        {
+          "text": "🔍 Tutores — vou buscar as peças uma por uma de forma consistente",
+          "points": {
+            "mono_black": 0.8,
+            "dimir": 0.6
+          },
+          "nextQuestion": "q4_black_only"
+        },
+        {
+          "text": "📦 Redundância — tenho várias versões do combo para não depender de uma peça",
+          "points": {
+            "izzet": 0.8,
+            "temur": 0.5
+          },
+          "nextQuestion": "q4_red_blue"
+        },
+        {
+          "text": "🛡️ Proteção — monto devagar mas com backup e counterspells pra garantir",
+          "points": {
+            "esper": 0.6,
+            "azorius": 0.7
+          },
+          "nextQuestion": "q4_blue_white"
+        }
+      ]
+    },
+    {
+      "id": "q3_combo_reanimate",
+      "question": "O que você quer trazer do cemitério?",
+      "answers": [
+        {
+          "text": "👾 Criatura com ETB devastador que vira o jogo instantaneamente",
+          "points": {
+            "golgari": 0.7,
+            "sultai": 0.7
+          },
+          "nextQuestion": "q4_black_green"
+        },
+        {
+          "text": "🧟 Monstro indomável que fecha o jogo no combate",
+          "points": {
+            "abzan": 0.6,
+            "jund": 0.6
+          },
+          "nextQuestion": "q4_black_green"
+        },
+        {
+          "text": "🔮 Peça de combo que completa minha engine do cemitério",
+          "points": {
+            "sultai": 0.8,
+            "dimir": 0.6
+          },
+          "nextQuestion": "q4_blue_black"
+        }
+      ]
+    },
+    {
+      "id": "q3_combo_tempo",
+      "question": "Como você mantém a vantagem de informação?",
+      "answers": [
+        {
+          "text": "🃏 Draw massivo. Quero sempre ter mais cartas que todos",
+          "points": {
+            "simic": 0.7,
+            "temur": 0.6
+          },
+          "nextQuestion": "q4_green_blue"
+        },
+        {
+          "text": "🚫 Counterspell seletivo. Deixo passar o que não importa, nego o que importa",
+          "points": {
+            "mono_blue": 0.7,
+            "izzet": 0.7
+          },
+          "nextQuestion": "q4_red_blue"
+        },
+        {
+          "text": "🌀 Flash e instants. Jogo inteiramente na virada do adversário",
+          "points": {
+            "temur": 0.8,
+            "simic": 0.6
+          },
+          "nextQuestion": "q4_green_blue_red"
+        }
+      ]
+    },
+    {
+      "id": "q4_white_red",
+      "question": "Você quer suporte extra de uma terceira cor?",
+      "answers": [
+        {
+          "text": "🌿 Verde — ramp e criaturas maiores pra suportar o aggro",
+          "points": {
+            "naya": 0.9
+          }
+        },
+        {
+          "text": "🔵 Azul — proteção e card draw pra manter consistência",
+          "points": {
+            "jeskai": 0.9
+          }
+        },
+        {
+          "text": "⚪🔴 Só Branco e Vermelho. Boros puro, sem distrações",
+          "points": {
+            "boros": 0.9
+          }
+        },
+        {
+          "text": "⚫ Nenhuma terceira cor — Mono Branco puro me basta",
+          "points": {
+            "mono_white": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_white_green",
+      "question": "Você quer suporte extra de uma terceira cor?",
+      "answers": [
+        {
+          "text": "🔴 Vermelho — haste e pump explosivo pra tokens",
+          "points": {
+            "naya": 0.9
+          }
+        },
+        {
+          "text": "🔵 Azul — proteção, draw e flicker pra criaturas",
+          "points": {
+            "bant": 0.9
+          }
+        },
+        {
+          "text": "⚪🌿 Só Branco e Verde. Selesnya direto ao ponto",
+          "points": {
+            "selesnya": 0.9
+          }
+        },
+        {
+          "text": "⚫ Nenhuma — Mono Branco é suficiente para o que quero",
+          "points": {
+            "mono_white": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_green_red",
+      "question": "Você quer suporte extra de uma terceira cor?",
+      "answers": [
+        {
+          "text": "⚪ Branco — resiliência, proteção e anthem effects",
+          "points": {
+            "naya": 0.9
+          }
+        },
+        {
+          "text": "🔵 Azul — draw e proteção pra suas ameaças chegarem",
+          "points": {
+            "temur": 0.9
+          }
+        },
+        {
+          "text": "🔴🌿 Só Vermelho e Verde. Gruul puro, sem firulas",
+          "points": {
+            "gruul": 0.9
+          }
+        },
+        {
+          "text": "⚫ Nenhuma — Mono Verde resolve tudo com ramp suficiente",
+          "points": {
+            "mono_green": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_green_white",
+      "question": "Você quer suporte extra de uma terceira cor?",
+      "answers": [
+        {
+          "text": "🔴 Vermelho — velocidade e haste pra seu tribal",
+          "points": {
+            "naya": 0.9
+          }
+        },
+        {
+          "text": "🔵 Azul — tutores e proteção",
+          "points": {
+            "bant": 0.9
+          }
+        },
+        {
+          "text": "⚪🌿 Só Branco e Verde. Selesnya é o suficiente",
+          "points": {
+            "selesnya": 0.9
+          }
+        },
+        {
+          "text": "⚫ Nenhuma — Mono Verde é criaturas e mana, o que mais preciso?",
+          "points": {
+            "mono_green": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_red_only",
+      "question": "Tem certeza que não quer nada além de vermelho?",
+      "answers": [
+        {
+          "text": "🔴 Mono Vermelho. Pureza caótica",
+          "points": {
+            "mono_red": 0.9
+          }
+        },
+        {
+          "text": "🔵 Adicionar Azul pra copiar feitiços de dano",
+          "points": {
+            "izzet": 0.9
+          }
+        },
+        {
+          "text": "⚪ Adicionar Branco pra consistência e proteção",
+          "points": {
+            "boros": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_red_white_blue",
+      "question": "Qual das três cores você dispensaria se precisasse?",
+      "answers": [
+        {
+          "text": "Dispensaria o Azul — Boros me basta",
+          "points": {
+            "boros": 0.9
+          }
+        },
+        {
+          "text": "Dispensaria o Branco — Izzet é mais interessante",
+          "points": {
+            "izzet": 0.9
+          }
+        },
+        {
+          "text": "Nenhuma — quero Jeskai completo",
+          "points": {
+            "jeskai": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_red_blue",
+      "question": "Você quer suporte de uma terceira cor?",
+      "answers": [
+        {
+          "text": "⚪ Branco — proteção e consistência",
+          "points": {
+            "jeskai": 0.9
+          }
+        },
+        {
+          "text": "🌿 Verde — ramp pra jogar mais feitiços por turno",
+          "points": {
+            "temur": 0.9
+          }
+        },
+        {
+          "text": "🔴🔵 Só Izzet. Velocidade e inteligência, sem mais",
+          "points": {
+            "izzet": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_green_blue",
+      "question": "Você quer suporte de uma terceira cor?",
+      "answers": [
+        {
+          "text": "🔴 Vermelho — velocidade e interação agressiva",
+          "points": {
+            "temur": 0.9
+          }
+        },
+        {
+          "text": "⚪ Branco — remoção e proteção extra",
+          "points": {
+            "bant": 0.9
+          }
+        },
+        {
+          "text": "🌿🔵 Só Simic. Crescimento e inteligência são o suficiente",
+          "points": {
+            "simic": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_white_blue_green",
+      "question": "Bant está ótimo — mas qual cor é sua prioridade?",
+      "answers": [
+        {
+          "text": "⚪ Branco — proteção e resiliência primeiro",
+          "points": {
+            "bant": 0.7,
+            "azorius": 0.5
+          }
+        },
+        {
+          "text": "🔵 Azul — interação e card draw acima de tudo",
+          "points": {
+            "bant": 0.7,
+            "simic": 0.5
+          }
+        },
+        {
+          "text": "🌿 Verde — ramp e criaturas eficientes são o núcleo",
+          "points": {
+            "bant": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_black_green",
+      "question": "Você quer suporte de uma terceira cor?",
+      "answers": [
+        {
+          "text": "🔴 Vermelho — aggro e sacrifício explosivo",
+          "points": {
+            "jund": 0.9
+          }
+        },
+        {
+          "text": "⚪ Branco — recursão e resiliência extra",
+          "points": {
+            "abzan": 0.9
+          }
+        },
+        {
+          "text": "🔵 Azul — tutores e proteção pra suas peças",
+          "points": {
+            "sultai": 0.9
+          }
+        },
+        {
+          "text": "🌑🌿 Só Golgari. Morte e natureza, sem interferência",
+          "points": {
+            "golgari": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_black_red",
+      "question": "Você quer suporte de uma terceira cor?",
+      "answers": [
+        {
+          "text": "🌿 Verde — ramp pra escalar mais rápido",
+          "points": {
+            "jund": 0.9
+          }
+        },
+        {
+          "text": "⚪ Branco — drain e extort pra fechar jogos",
+          "points": {
+            "mardu": 0.9
+          }
+        },
+        {
+          "text": "🌑🔴 Só Rakdos. Caos e sacrifício puro",
+          "points": {
+            "rakdos": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_black_white",
+      "question": "Você quer suporte de uma terceira cor?",
+      "answers": [
+        {
+          "text": "🔴 Vermelho — aggro e velocidade pra não ficar só drenando",
+          "points": {
+            "mardu": 0.9
+          }
+        },
+        {
+          "text": "🔵 Azul — controle e card draw",
+          "points": {
+            "esper": 0.9
+          }
+        },
+        {
+          "text": "⚪🌑 Só Orzhov. Dívidas e drenagem, nada mais necessário",
+          "points": {
+            "orzhov": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_blue_only",
+      "question": "Tem certeza que não quer suporte extra?",
+      "answers": [
+        {
+          "text": "🔵 Mono Azul. Perfeição intelectual absoluta",
+          "points": {
+            "mono_blue": 0.9
+          }
+        },
+        {
+          "text": "🌑 Adicionar Preto — tutores e remoção",
+          "points": {
+            "dimir": 0.9
+          }
+        },
+        {
+          "text": "⚪ Adicionar Branco — proteção e consistência",
+          "points": {
+            "azorius": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_blue_black",
+      "question": "Você quer suporte de uma terceira cor?",
+      "answers": [
+        {
+          "text": "⚪ Branco — remoção e proteção elegante",
+          "points": {
+            "esper": 0.9
+          }
+        },
+        {
+          "text": "🌿 Verde — ramp e ameaças concretas",
+          "points": {
+            "sultai": 0.9
+          }
+        },
+        {
+          "text": "🔵🌑 Só Dimir. Espionagem e controle, sem barulho",
+          "points": {
+            "dimir": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_blue_white",
+      "question": "Você quer suporte de uma terceira cor?",
+      "answers": [
+        {
+          "text": "🌑 Preto — tutores e remoção extra",
+          "points": {
+            "esper": 0.9
+          }
+        },
+        {
+          "text": "🌿 Verde — ramp e criaturas pra não depender só de combo",
+          "points": {
+            "bant": 0.9
+          }
+        },
+        {
+          "text": "🔵⚪ Só Azorius. Ordem e controle, sem impurezas",
+          "points": {
+            "azorius": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_white_blue",
+      "question": "Você quer aprofundar com uma terceira cor?",
+      "answers": [
+        {
+          "text": "🌑 Preto — mais tutores e win conditions combo",
+          "points": {
+            "esper": 0.9
+          }
+        },
+        {
+          "text": "🌿 Verde — ramp e permanentes difíceis de remover",
+          "points": {
+            "bant": 0.9
+          }
+        },
+        {
+          "text": "⚪🔵 Azorius Stax puro. Menos é mais",
+          "points": {
+            "azorius": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_black_only",
+      "question": "Tem certeza que não quer suporte?",
+      "answers": [
+        {
+          "text": "🌑 Mono Preto. Tutores, remoção, combo — tudo que preciso já está aqui",
+          "points": {
+            "mono_black": 0.9
+          }
+        },
+        {
+          "text": "🔵 Adicionar Azul — mais controle e proteção pro combo",
+          "points": {
+            "dimir": 0.9
+          }
+        },
+        {
+          "text": "🌿 Adicionar Verde — ramp e redundância",
+          "points": {
+            "golgari": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_green_blue_red",
+      "question": "Temur está ótimo — qual cor é sua âncora?",
+      "answers": [
+        {
+          "text": "🌿 Verde — o ramp é o coração do deck",
+          "points": {
+            "temur": 0.9
+          }
+        },
+        {
+          "text": "🔵 Azul — a vantagem de cards e flashes são o que importa",
+          "points": {
+            "temur": 0.7,
+            "simic": 0.5
+          }
+        },
+        {
+          "text": "🔴 Vermelho — velocidade e instants agressivos acima de tudo",
+          "points": {
+            "temur": 0.7,
+            "gruul": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "id": "q4_five_color",
+      "question": "Como você vai sustentar cinco cores?",
+      "answers": [
+        {
+          "text": "💎 Fixing de mana pesado — fetchlands, duals, mana rocks",
+          "points": {
+            "five_color": 0.9
+          }
+        },
+        {
+          "text": "🌈 Um commander que produz todas as cores sozinho",
+          "points": {
+            "five_color": 0.9
+          }
+        },
+        {
+          "text": "🤔 Talvez eu simplifique. Quatro cores talvez bastem",
+          "points": {
+            "five_color": 0.5,
+            "sultai": 0.4,
+            "temur": 0.4
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "mono_white": {
+      "title": "Mono Branco — Weenie & Stax",
+      "emoji": "⚪",
+      "subtitle": "Disciplina, ordem e criaturas baratas que não pedem licença",
+      "text": "Mono Branco em Commander tem uma reputação injusta de ser fraco — e quem diz isso nunca perdeu pro Heliod numa rodada 4. Você gosta de eficiência, valoriza cada ponto de mana e quer um deck que funcione com consistência brutal. Commanders a considerar: Heliod, Sun-Crowned (combo com Walking Ballista), Thalia, Guardian of Thraben (Stax), ou Adeline, Resplendent Cathar (tokens agressivos)."
+    },
+    "mono_blue": {
+      "title": "Mono Azul — Controle & Tempo",
+      "emoji": "🔵",
+      "subtitle": "Você diz não com elegância e ainda sorri para a câmera",
+      "text": "Mono Azul é o deck de quem quer ganhar sem que ninguém entenda direito o que aconteceu. Você controla o ritmo da mesa, protege seu plano com counterspells e finaliza quando estiver pronto. Commanders a considerar: Teferi, Temporal Archmage (combo de turns), Hullbreaker Horror (bounce e controle), ou Jin-Gitaxias, Progress Tyrant (controle de informação absoluto)."
+    },
+    "mono_black": {
+      "title": "Mono Preto — Combo & Tutores",
+      "emoji": "🌑",
+      "subtitle": "Tutores pra tudo, remoção pra todos, combo pra vencer",
+      "text": "Mono Preto é a cor dos tutores, e tutores são o que transformam um bom deck num deck consistente. Você sabe o que quer, sabe como buscar e sabe quando executar. Commanders a considerar: Yawgmoth, Thran Physician (combo infinito com undying), Sheoldred, the Apocalypse (controle e drain), ou K'rrik, Son of Yawgmoth (paga mana com vida para velocidade absurda)."
+    },
+    "mono_red": {
+      "title": "Mono Vermelho — Burn & Caos",
+      "emoji": "🔴",
+      "subtitle": "Rápido, imprevisível e honesto sobre o que é",
+      "text": "Mono Vermelho em Commander é aggro-burn de verdade — você quer fazer dano antes que o jogo chegue no late. Não é o arquétipo mais popular, mas funciona melhor do que a maioria imagina. Commanders a considerar: Purphoros, God of the Forge (dano por tokens), Neheb, the Eternal (ramp de mana pós-combate), ou Torbran, Thane of Red Fell (amplifica todo dano vermelho)."
+    },
+    "mono_green": {
+      "title": "Mono Verde — Ramp & Stompy",
+      "emoji": "🌿",
+      "subtitle": "Mana, criaturas enormes e zero necessidade de aprovação",
+      "text": "Mono Verde é ramp puro: você acelera sua mana, joga ameaças impossíveis de ignorar e confia que ninguém vai ter resposta para tudo. Um dos decks mais satisfatórios de pilotar quando funciona. Commanders a considerar: Azusa, Lost but Seeking (land drops extras para mana absurda), Vorinclex, Voice of Hunger (stax assimétrico), ou Selvala, Heart of the Wilds (ramp e draw por criaturas grandes)."
+    },
+    "azorius": {
+      "title": "Azorius — Branco + Azul",
+      "emoji": "🏛️",
+      "subtitle": "Controle e stax com a elegância de quem escreve as regras",
+      "text": "Azorius é controle puro em Commander: você tem a remoção de Branco e os counterspells de Azul para responder a qualquer ameaça. Commanders a considerar: Oloro, Ageless Ascetic (drain passivo), Lavinia, Azorius Renegade (stax de feitiços não pagos), Grand Arbiter Augustin IV (stax clássico que a mesa vai odiar), ou Shorikai, Genesis Engine (velocidade e value)."
+    },
+    "dimir": {
+      "title": "Dimir — Azul + Preto",
+      "emoji": "🕵️",
+      "subtitle": "Controle reativo com finalizador que vem do cemitério",
+      "text": "Dimir combina a proteção de Azul com a remoção e tutores de Preto — uma das duplas mais eficientes em Commander. Commanders a considerar: Etrata, the Silencer (win condition alternativa), Lazav, the Multifarious (value de cemitério), Wilhelt, the Rotcleaver (tribal zumbi com sacrifício), ou Yuriko, the Tiger's Shadow (ninjutsu aggro com dano de mana cost)."
+    },
+    "rakdos": {
+      "title": "Rakdos — Preto + Vermelho",
+      "emoji": "🎪",
+      "subtitle": "Sacrifício explosivo com visual de espetáculo",
+      "text": "Rakdos mistura a velocidade de Vermelho com os recursos de Preto para um aggro-aristocrats devastador. Commanders a considerar: Prossh, Skyraider of Kher (combo de tokens com sacrifício), Olivia Voldaren (tribal vampiro agressivo), Ob Nixilis, the Adversary (cópia e dano), ou Lord Xander, the Collector (remoção de mão e cemitério)."
+    },
+    "gruul": {
+      "title": "Gruul — Vermelho + Verde",
+      "emoji": "🌋",
+      "subtitle": "Criaturas enormes, haste e zero paciência para politicagem",
+      "text": "Gruul é stompy honesto: você faz ramp, joga ameaças impossíveis de ignorar e ataca antes que alguém resolva o problema. Commanders a considerar: Xenagos, God of Revels (dobra o poder de uma criatura por turno), Stonebrow, Krosan Hero (trample anthems), Klauth, Unrivaled Ancient (ramp explosivo pós-combate), ou Rhonas the Indomitable (indestructible com pump)."
+    },
+    "selesnya": {
+      "title": "Selesnya — Verde + Branco",
+      "emoji": "🌿",
+      "subtitle": "Tokens, anthems e um exército que não para de crescer",
+      "text": "Selesnya é a combinação de comunidade e natureza: você gera tokens, os cresce com anthems e os joga numa onda que a mesa não consegue bloquear. Commanders a considerar: Rhys the Redeemed (dobra tokens), Trostani, Selesnya's Voice (lifegain e populate), Lathiel, the Bounteous Dawn (counters e lifegain), ou Sisay, Weatherlight Captain (tutor de legendários)."
+    },
+    "orzhov": {
+      "title": "Orzhov — Branco + Preto",
+      "emoji": "⛪",
+      "subtitle": "Drain lento, dívidas cobradas e aristocrats inevitável",
+      "text": "Orzhov é o deck que vence pelo cansaço e pela drenagem constante. Você não explode — você acumula. Commanders a considerar: Teysa Karlov (aristocrats com double trigger), Ayli, Eternal Pilgrim (sacrifício e lifegain), Oloro, Ageless Ascetic (drain passivo sem nem estar em campo), ou Elenda, the Dusk Rose (tokens e vampiro tribal)."
+    },
+    "boros": {
+      "title": "Boros — Vermelho + Branco",
+      "emoji": "⚔️",
+      "subtitle": "Aggro direto com equipamentos, haste e convicção total",
+      "text": "Boros tem a reputação de ser o aggro mais honesto do Commander — e é mesmo. Você ataca, equipa e não perde tempo. Commanders a considerar: Wyleth, Soul of Steel (draw por equipamentos e voltron), Zirilan of the Claw (tutor de dragões), Osgir, the Reconstructor (artefatos duplicados), ou Aurelia, the Warleader (combate extra toda rodada)."
+    },
+    "simic": {
+      "title": "Simic — Verde + Azul",
+      "emoji": "🧬",
+      "subtitle": "Ramp, draw, criaturas absurdas e contínua evolução",
+      "text": "Simic é a combinação mais sinergética para crescer um deck ao longo do jogo — você faz ramp com Verde e converte em vantagem com Azul. Commanders a considerar: Aesi, Tyrant of Gyre Strait (draw por terrenos), Zimone and Dina (combo de lands e drain), Wilderness Reclamation (mana em todos os momentos), ou Kinnan, Bonder Prodigy (dobra mana de nonland)."
+    },
+    "golgari": {
+      "title": "Golgari — Preto + Verde",
+      "emoji": "🍄",
+      "subtitle": "Cemitério como segunda mão, ciclo de vida e morte",
+      "text": "Golgari é recursão e value de cemitério: o que morre volta, o que volta morre de novo, e a cada ciclo você fica à frente. Commanders a considerar: Meren of Clan Nel Toth (recursão por experiência), Jarad, Golgari Lich Lord (sacrifice e dano direto), Lathril, Blade of the Elves (tribal elfo com drain), ou Grist, the Hunger Tide (tribal inseto e sacrifice)."
+    },
+    "izzet": {
+      "title": "Izzet — Azul + Vermelho",
+      "emoji": "⚗️",
+      "subtitle": "Spells, cópias, combo e pelo menos uma explosão por sessão",
+      "text": "Izzet é o deck dos feitiços e dos combos de spell — você copia, reduz custos e cria chains que a mesa não consegue acompanhar. Commanders a considerar: Niv-Mizzet, Parun (dano por draw, combo com Curiosity), Mizzix of the Izmagnus (redução de custo de spells), Galazeth Prismari (artefatos como mana para spells), ou Anhelo, the Painter (casualty e cópia de spells)."
+    },
+    "temur": {
+      "title": "Temur — Verde + Azul + Vermelho",
+      "emoji": "🐻",
+      "subtitle": "Flash, feras enormes e controle da informação",
+      "text": "Temur combina o ramp de Verde, a proteção de Azul e a velocidade de Vermelho num midrange com pegada de combo-controle. Commanders a considerar: Animar, Soul of Elements (reduz custo de criaturas), Riku of Two Reflections (copia criaturas e feitiços), Xyris, the Writhing Storm (tokens por draw dos adversários), ou Primal Surge (o deck inteiro em campo de uma vez)."
+    },
+    "jund": {
+      "title": "Jund — Preto + Vermelho + Verde",
+      "emoji": "🐉",
+      "subtitle": "Sacrifício, valor predatório e cadeia alimentar honesta",
+      "text": "Jund é o midrange mais honesto do Commander: você sacrifica, você recicla, você drena. Cada criatura que morre serve a um propósito. Commanders a considerar: Korvold, Fae-Cursed King (draw por sacrifício), Prossh, Skyraider of Kher (tokens e sacrifício explosivo), Ziatora, the Incinerator (sacrifice e dano direto), ou Lord Windgrace (lands como recurso e recursão)."
+    },
+    "abzan": {
+      "title": "Abzan — Branco + Preto + Verde",
+      "emoji": "🪨",
+      "subtitle": "Resiliência ancestral, recursão e presença inabalável",
+      "text": "Abzan é midrange resiliente de verdade: você tem a remoção de Preto, a proteção de Branco e o ramp de Verde para construir uma presença difícil de remover. Commanders a considerar: Nethroi, Apex of Death (mutate e reanimation em massa), Ghave, Guru of Spores (tokens e counters), Tayam, Luminous Enigma (recursão por counters), ou Teneb, the Harvester (reanimation por dano de combate)."
+    },
+    "mardu": {
+      "title": "Mardu — Vermelho + Branco + Preto",
+      "emoji": "🏹",
+      "subtitle": "Aggro com drain, velocidade com profundidade",
+      "text": "Mardu mistura a agressividade de Vermelho com a consistência de Branco e os tutores de Preto para um aggro que não fica sem gas. Commanders a considerar: Alesha, Who Smiles at Death (recursão agressiva), Edgar Markov (tribal vampiro que cresce sem precisar estar em campo), Winota, Joiner of Forces (abuso de tokens e humanos), ou Isshin, Two Heavens as One (dobra triggers de ataque)."
+    },
+    "esper": {
+      "title": "Esper — Branco + Azul + Preto",
+      "emoji": "🤖",
+      "subtitle": "Controle preciso, stax elegante e combo inevitável",
+      "text": "Esper é a trindade do controle: remoção de Branco, counterspells de Azul e tutores de Preto. Uma das identidades mais completas para controle em Commander. Commanders a considerar: Zur, the Enchanter (tutor de enchantments, stax ou combo), Sen Triplets (controle de mão dos adversários), Aminatou, the Fateshifter (flicker e manipulação do topo), ou Oloro, Ageless Ascetic (drain passivo mesmo fora de campo)."
+    },
+    "sultai": {
+      "title": "Sultai — Preto + Verde + Azul",
+      "emoji": "🐍",
+      "subtitle": "Graveyard value, tutores e uma crueldade racional",
+      "text": "Sultai é a combinação mais completa para graveyard-value e combo no Commander. Você tem ramp, tutores e proteção numa trindade difícil de superar. Commanders a considerar: Muldrotha, the Gravetide (joga permanentes do cemitério), The Mimeoplasm (copia criaturas mortas), Sidisi, Brood Tyrant (self-mill e tokens zumbi), ou Tasigur, the Golden Fang (recursão e delve)."
+    },
+    "bant": {
+      "title": "Bant — Verde + Branco + Azul",
+      "emoji": "🏰",
+      "subtitle": "ETBs, flicker e um valor honesto que nunca para",
+      "text": "Bant é a identidade perfeita para flicker e value de ETBs — você tem ramp de Verde, proteção de Azul e resiliência de Branco. Commanders a considerar: Roon of the Hidden Realm (flicker de criaturas), Jenara, Asura of War (voltron com counters), Chulane, Teller of Tales (draw e ramp por criaturas), ou Derevi, Empyrial Tactician (stax de untap)."
+    },
+    "jeskai": {
+      "title": "Jeskai — Azul + Vermelho + Branco",
+      "emoji": "🥋",
+      "subtitle": "Tempo, cópias e controle que pune quem não presta atenção",
+      "text": "Jeskai combina a velocidade de Vermelho, a proteção de Azul e a consistência de Branco para um deck de tempo e cópias de feitiços. Commanders a considerar: Narset, Enlightened Master (extra turns e feitiços gratuitos), Rienne, Angel of Rebirth (multicolor midrange), Vadrok, Apex of Thunder (mutate e spells do cemitério), ou Hinata, Dawn-Crowned (reduz custo de spells com alvos)."
+    },
+    "naya": {
+      "title": "Naya — Vermelho + Verde + Branco",
+      "emoji": "🌺",
+      "subtitle": "Criaturas gigantescas, tokens em massa e combate épico",
+      "text": "Naya é o shard das criaturas enormes e dos combates épicos — você faz ramp, joga ameaças impossíveis de ignorar e as protege com Branco. Commanders a considerar: Gishath, Sun's Avatar (tribal dinossauro), Mayael the Anima (cheat de criaturas com poder 5+), Zacama, Primal Calamity (mana e remoção na mesma criatura), ou Jetmir, Nexus of Revels (anthems por quantidade de criaturas)."
+    },
+    "five_color": {
+      "title": "Cinco Cores — Goodstuff Máximo",
+      "emoji": "🌈",
+      "subtitle": "Você quer tudo. E vai ter tudo. E a manabase vai custar tudo",
+      "text": "Cinco cores em Commander é para quem não quer fazer escolhas difíceis — você quer acesso a todas as ferramentas. A manabase vai exigir investimento sério, mas o resultado é um deck sem pontos cegos. Commanders a considerar: Kenrith, the Returned King (utilitário total), Golos, Tireless Pilgrim (lands e feitiços gratuitos), Jodah, the Unifier (cascade de legendários), ou Child of Alara (board wipe na morte como proteção)."
+    }
+  }
+}
