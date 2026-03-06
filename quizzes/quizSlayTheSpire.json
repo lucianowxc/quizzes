@@ -1,0 +1,340 @@
+{
+  "title": "Que Personagem de Slay the Spire Você É?",
+  "subtitle": "Descubra qual habitante da Espira combina com sua alma (e seu jeito de se autossabotar)",
+  "questions": [
+    {
+      "question": "Como você costuma resolver um problema difícil?",
+      "answers": [
+        {
+          "text": "⚔️ Na força bruta. Funciona mais vezes do que deveria",
+          "points": { "ironclad": 0.9, "slime_boss": 0.5, "gremlin_nob": 0.6 }
+        },
+        {
+          "text": "🗡️ Planejo cada passo com cuidado e ataco na hora certa",
+          "points": { "silent": 0.9, "hexaghost": 0.5, "lagavulin": 0.3 }
+        },
+        {
+          "text": "🔮 Analiso os sistemas envolvidos e otimizo a solução",
+          "points": { "defect": 0.9, "hexaghost": 0.4, "neow": 0.5 }
+        },
+        {
+          "text": "✨ Acumulo recursos pacientemente e explodo tudo de uma vez",
+          "points": { "regent": 0.9, "lagavulin": 0.5, "heart": 0.4 }
+        },
+        {
+          "text": "🧘 Observo, respiro fundo, e então vejo a solução com clareza absoluta",
+          "points": { "watcher": 0.9, "neow": 0.4, "defect": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua relação com o risco?",
+      "answers": [
+        {
+          "text": "🔥 Adoro. Quanto maior o perigo, mais animado fico",
+          "points": { "ironclad": 0.7, "gremlin_nob": 0.8, "heart": 0.5 }
+        },
+        {
+          "text": "🌑 Aceito o risco quando a recompensa é boa demais pra recusar",
+          "points": { "silent": 0.6, "necrobinder": 0.7, "neow": 0.9 }
+        },
+        {
+          "text": "⚙️ Prefiro calcular as probabilidades antes de me comprometer",
+          "points": { "defect": 0.8, "regent": 0.5, "hexaghost": 0.6 }
+        },
+        {
+          "text": "😴 Risco? Prefiro que o problema venha até mim",
+          "points": { "lagavulin": 0.9, "slime_boss": 0.6, "heart": 0.4 }
+        },
+        {
+          "text": "💰 Risco é negócio. Tudo tem um preço e eu conheço o meu",
+          "points": { "merchant": 0.9, "regent": 0.4, "neow": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "O que as pessoas geralmente pensam de você na primeira impressão?",
+      "answers": [
+        {
+          "text": "💪 'Uau, que presença intimidadora'",
+          "points": { "ironclad": 0.8, "gremlin_nob": 0.7, "heart": 0.6 }
+        },
+        {
+          "text": "👻 'Espera, quando essa pessoa chegou aqui?'",
+          "points": { "silent": 0.9, "necrobinder": 0.5, "lagavulin": 0.3 }
+        },
+        {
+          "text": "🤖 'É difícil de ler, mas claramente sabe o que faz'",
+          "points": { "defect": 0.8, "hexaghost": 0.6, "regent": 0.4 }
+        },
+        {
+          "text": "👑 'Tem um ar de superioridade suspeito'",
+          "points": { "regent": 0.8, "heart": 0.5, "neow": 0.4 }
+        },
+        {
+          "text": "🛒 'Por que essa pessoa está tentando me vender algo?'",
+          "points": { "merchant": 0.9, "neow": 0.3, "slime_boss": 0.2 }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas frases mais combina com você?",
+      "answers": [
+        {
+          "text": "🏋️ 'Dói agora, mas vou ficar mais forte depois'",
+          "points": { "ironclad": 0.9, "necrobinder": 0.6, "gremlin_nob": 0.4 }
+        },
+        {
+          "text": "🕸️ 'Deixa eu criar minha teia antes de agir'",
+          "points": { "silent": 0.8, "hexaghost": 0.5, "lagavulin": 0.4 }
+        },
+        {
+          "text": "🌌 'Existe um padrão em tudo. Só preciso encontrá-lo'",
+          "points": { "defect": 0.9, "regent": 0.4, "neow": 0.5 }
+        },
+        {
+          "text": "☠️ 'Até a morte pode ser uma ferramenta'",
+          "points": { "necrobinder": 0.9, "heart": 0.6, "slime_boss": 0.3 }
+        },
+        {
+          "text": "⚖️ 'Tudo tem seu custo. Inclusive essa conversa'",
+          "points": { "merchant": 0.8, "watcher": 0.5, "neow": 0.4 }
+        }
+      ]
+    },
+    {
+      "question": "Como você age quando está perdendo em algo importante?",
+      "answers": [
+        {
+          "text": "😤 Fico mais agressivo e tento virar na raça",
+          "points": { "ironclad": 0.8, "gremlin_nob": 0.9, "slime_boss": 0.4 }
+        },
+        {
+          "text": "🧊 Mantenho a calma e procuro a brecha no plano do adversário",
+          "points": { "silent": 0.9, "defect": 0.5, "hexaghost": 0.4 }
+        },
+        {
+          "text": "🔄 Me divido em sub-problemas e resolvo um por vez",
+          "points": { "slime_boss": 0.9, "defect": 0.4, "regent": 0.3 }
+        },
+        {
+          "text": "⏳ Espero. A situação vai se resolver ou vai piorar muito — mas nenhum dos dois é problema meu agora",
+          "points": { "lagavulin": 0.9, "heart": 0.5, "neow": 0.3 }
+        },
+        {
+          "text": "🌀 Entro em modo alterado. Viro outro ser completamente",
+          "points": { "watcher": 0.9, "necrobinder": 0.4, "heart": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é o seu estilo de trabalho em grupo?",
+      "answers": [
+        {
+          "text": "🛡️ Sou o que vai na frente e absorve o impacto por todos",
+          "points": { "ironclad": 0.9, "necrobinder": 0.5, "gremlin_nob": 0.4 }
+        },
+        {
+          "text": "🎯 Fico nos bastidores e executo na hora certa",
+          "points": { "silent": 0.9, "hexaghost": 0.4, "lagavulin": 0.3 }
+        },
+        {
+          "text": "🤝 Ofereço escolhas. Mas tipo, escolhas com consequências",
+          "points": { "neow": 0.9, "heart": 0.4, "regent": 0.5 }
+        },
+        {
+          "text": "🦴 Trago reforços. Tecnicamente eles fazem o trabalho por mim",
+          "points": { "necrobinder": 0.9, "slime_boss": 0.6, "heart": 0.3 }
+        },
+        {
+          "text": "💸 Forneço os recursos. Vocês resolvem. Vinte por cento de comissão",
+          "points": { "merchant": 0.9, "neow": 0.4, "regent": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas situações mais te incomoda?",
+      "answers": [
+        {
+          "text": "📜 Quando alguém fica jogando cartas de habilidade sem parar enquanto te enfrenta",
+          "points": { "gremlin_nob": 0.9, "ironclad": 0.4, "silent": 0.3 }
+        },
+        {
+          "text": "⚡ Quando te interrompem no meio de um plano lindo e elaborado",
+          "points": { "hexaghost": 0.8, "regent": 0.6, "defect": 0.5 }
+        },
+        {
+          "text": "🌀 Quando a situação fica caótica e imprevisível",
+          "points": { "defect": 0.7, "lagavulin": 0.6, "slime_boss": 0.7 }
+        },
+        {
+          "text": "💀 Quando alguém decide não usar poderes. Que decepção",
+          "points": { "heart": 0.9, "necrobinder": 0.4, "neow": 0.3 }
+        },
+        {
+          "text": "🙏 Quando as pessoas agem sem parar pra refletir primeiro",
+          "points": { "watcher": 0.9, "merchant": 0.4, "defect": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua maior qualidade, na sua própria opinião?",
+      "answers": [
+        {
+          "text": "🩸 Resiliência. Quanto mais apanho, mais forte fico",
+          "points": { "ironclad": 0.9, "necrobinder": 0.5, "gremlin_nob": 0.5 }
+        },
+        {
+          "text": "🌿 Adaptabilidade. Mudo de forma e de estratégia conforme preciso",
+          "points": { "silent": 0.7, "slime_boss": 0.8, "regent": 0.4 }
+        },
+        {
+          "text": "🌠 Visão de longo prazo. Enquanto os outros veem um turno, eu vejo dez",
+          "points": { "lagavulin": 0.8, "heart": 0.6, "regent": 0.7, "hexaghost": 0.5 }
+        },
+        {
+          "text": "🕯️ Sabedoria. Já vi tanta coisa que nada mais me surpreende",
+          "points": { "neow": 0.9, "defect": 0.5, "heart": 0.4 }
+        },
+        {
+          "text": "🧘 Presença. Estou completamente aqui, agora, neste momento",
+          "points": { "watcher": 0.9, "silent": 0.4, "neow": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "Como você toma decisões importantes?",
+      "answers": [
+        {
+          "text": "💥 Pelo instinto. Penso rápido e ajo antes de hesitar",
+          "points": { "ironclad": 0.8, "gremlin_nob": 0.7, "silent": 0.4 }
+        },
+        {
+          "text": "🔭 Observo os padrões e escolho o caminho com menor entropia",
+          "points": { "defect": 0.9, "hexaghost": 0.6, "regent": 0.4 }
+        },
+        {
+          "text": "🎲 Ofereço opções pra outro decidir e fico vendo o resultado",
+          "points": { "neow": 0.9, "heart": 0.5, "lagavulin": 0.3 }
+        },
+        {
+          "text": "💎 Acumulo informações até ter certeza absoluta. Pode demorar. Muito",
+          "points": { "lagavulin": 0.8, "regent": 0.6, "hexaghost": 0.7 }
+        },
+        {
+          "text": "🧾 Faço as contas. Custo, benefício, margem de lucro",
+          "points": { "merchant": 0.9, "defect": 0.4, "regent": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "No fundo, o que te move?",
+      "answers": [
+        {
+          "text": "🔑 Superar meus próprios limites. Sempre tem mais a desbloquear",
+          "points": { "ironclad": 0.7, "defect": 0.6, "necrobinder": 0.5 }
+        },
+        {
+          "text": "🗝️ Vingança. Quem me criou vai se arrepender",
+          "points": { "necrobinder": 0.9, "heart": 0.5, "silent": 0.4 }
+        },
+        {
+          "text": "👁️ Controle. A Espira existe por minha vontade e assim continuará",
+          "points": { "heart": 0.9, "regent": 0.6, "hexaghost": 0.5 }
+        },
+        {
+          "text": "🌙 Curiosidade. Quero ver o que acontece quando empurro os limites",
+          "points": { "neow": 0.8, "defect": 0.5, "regent": 0.5 }
+        },
+        {
+          "text": "🪷 Iluminação. Mas enquanto não chego lá, pelo menos boto o inimigo pra dormir",
+          "points": { "watcher": 0.9, "neow": 0.4, "silent": 0.3 }
+        },
+        {
+          "text": "💰 Dinheiro. Não precisa de mais explicação",
+          "points": { "merchant": 0.9, "regent": 0.3, "lagavulin": 0.2 }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "ironclad": {
+      "title": "The Ironclad",
+      "emoji": "⚔️",
+      "subtitle": "O Guerreiro que se fortalece com a dor",
+      "text": "Você é The Ironclad! Direto ao ponto, resiliente e movido pela força bruta. Você não foge da dor — na verdade, usa ela como combustível. Cada derrota te deixa mais forte, cada cicatriz é uma medalha. Você é o tipo de pessoa que vai na frente quando todo mundo hesita, e ainda cura 6 pontos de vida no final da batalha só pra mostrar que sobrou energia."
+    },
+    "silent": {
+      "title": "The Silent",
+      "emoji": "🗡️",
+      "subtitle": "A Assassina que você não viu chegando",
+      "text": "Você é The Silent! Discreta, calculista e letal. Enquanto os outros fazem barulho, você age. Seu maior prazer? Montar um combo tão elegante que os outros nem entendem o que aconteceu. Você pode parecer quieto(a) mas por dentro está construindo um plano com 15 camadas, e a décima sexta é o veneno."
+    },
+    "defect": {
+      "title": "The Defect",
+      "emoji": "🤖",
+      "subtitle": "O Autômato que nunca para de se otimizar",
+      "text": "Você é The Defect! Um ser movido pela lógica, pela eficiência e pela beleza dos sistemas. Você não toma decisões por impulso — você processa, calcula e executa. Às vezes as pessoas acham que você é frio(a), mas é só porque você já resolveu o problema antes mesmo delas terminarem de falar."
+    },
+    "watcher": {
+      "title": "The Watcher",
+      "emoji": "🪷",
+      "subtitle": "A Monge que vê tudo e ainda assim entra em Wrath",
+      "text": "Você é The Watcher! Você chegou à Espira em busca de iluminação e encontrou uma escalada infinita de violência — e funcionou. Você oscila entre paz absoluta e fúria devastadora com uma naturalidade assustadora. As pessoas ao seu redor nunca sabem bem qual versão vai aparecer. Você também não, honestamente."
+    },
+    "regent": {
+      "title": "The Regent",
+      "emoji": "👑",
+      "subtitle": "O Nobre que acumula poder e explode com estilo",
+      "text": "Você é The Regent! Paciente, estratégico(a) e com um senso de timing absurdo. Você acumula recursos, constrói sua posição e quando chega a hora certa — boom. Um único movimento resolve tudo. As pessoas pensam que você está perdendo, mas você já ganhou há três turnos, só não tinha comunicado ainda."
+    },
+    "necrobinder": {
+      "title": "The Necrobinder",
+      "emoji": "💀",
+      "subtitle": "A Lich que transforma morte em poder",
+      "text": "Você é The Necrobinder! Você encontrou uma forma única de transformar perdas em ganhos. A morte, para você, não é um fim — é um recurso. Você carrega mágoas antigas como combustível e tem um parceiro leal ao lado (mesmo que esse parceiro seja uma mão descarnada chamada Osty). Ninguém entende muito bem como você funciona, e você prefere assim."
+    },
+    "merchant": {
+      "title": "O Mercador",
+      "emoji": "🛒",
+      "subtitle": "O único habitante da Espira que trabalha por dinheiro",
+      "text": "Você é o Mercador! Enquanto todo mundo sobe a Espira em busca de poder, redenção ou iluminação, você abriu uma loja no meio do caminho e está indo muito bem, obrigado. Você tem uma visão de mundo pragmática: tudo tem valor, tudo tem preço, e quem souber negociar sobrevive mais do que qualquer guerreiro. Seus serviços de remoção de cartas são especialmente apreciados."
+    },
+    "slime_boss": {
+      "title": "Slime Boss",
+      "emoji": "💚",
+      "subtitle": "O Chefe que nunca está realmente derrotado",
+      "text": "Você é o Slime Boss! Aparentemente simples, mas infinitamente persistente. As pessoas acham que te derrotaram quando chegam na metade do problema — aí você se divide em dois problemas menores. E recomeça. Você é escorregadio, adaptável e tem um jeito irritante de nunca deixar o adversário relaxar. Chapéu fedora opcional."
+    },
+    "hexaghost": {
+      "title": "Hexaghost",
+      "emoji": "🔥",
+      "subtitle": "O Fantasma que executa o plano à risca",
+      "text": "Você é o Hexaghost! Metódico, previsível em aparência mas devastador na execução. Você segue seu ritual com precisão — cada passo é calculado, cada ação tem peso exato. Quando as pessoas finalmente entendem o padrão, já é tarde. Você não improvisa: você incrementa."
+    },
+    "gremlin_nob": {
+      "title": "Gremlin Nob",
+      "emoji": "😤",
+      "subtitle": "O Elite que piora a cada card de skill",
+      "text": "Você é o Gremlin Nob! Agressivo, direto e que fica progressivamente mais perigoso quanto mais as pessoas tentam se defender de você. Jogar safe contra você é um erro fatal. Você tem um radar apurado para quem está tentando 'bloquear' ao invés de resolver — e você pune isso com juros. Respeitado por uns, temido por outros, entendido por poucos."
+    },
+    "lagavulin": {
+      "title": "Lagavulin",
+      "emoji": "😴",
+      "subtitle": "O Elite que te drena enquanto descansa",
+      "text": "Você é o Lagavulin! Na superfície, parece que você está dormindo no ponto. Mas enquanto todo mundo corre, você está drenando força alheia sem nem se levantar. Você tem uma paciência estratosférica e uma capacidade incrível de fazer o problema vir até você. Quando finalmente acorda pra brigar, é tarde demais pra quem estava em frente."
+    },
+    "heart": {
+      "title": "The Corrupt Heart",
+      "emoji": "❤️",
+      "subtitle": "O Chefe Final que não aceita ser ignorado",
+      "text": "Você é o Corrupt Heart! Você é literalmente o núcleo de tudo, e fica muito incomodado quando alguém tenta sair sem passar por você. Você tem fases, você tem buffs intermináveis, você tem uma armadura absurda que regenera toda rodada. No fundo, só quer atenção. No meio, quer te matar. Na superfície, está pulsando de vermelho de um jeito muito inquietante."
+    },
+    "neow": {
+      "title": "Neow",
+      "emoji": "🌙",
+      "subtitle": "A Benfeitora que dá poder com um sorriso enigmático",
+      "text": "Você é Neow! Antiga, sábia e com um senso de humor que não está ao alcance dos mortais. Você não luta — você oferece escolhas. E essas escolhas têm consequências que só você entende completamente. As pessoas te pedem ajuda e você dá, mas sempre com uma curva. Você já viu tudo, já perdeu tudo, e de alguma forma ainda está sorrindo."
+    }
+  }
+}
