@@ -547,25 +547,29 @@
           "text": "🌿 Verde — ramp e criaturas maiores pra suportar o aggro",
           "points": {
             "naya": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵 Azul — proteção e card draw pra manter consistência",
           "points": {
             "jeskai": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚪🔴 Só Branco e Vermelho. Boros puro, sem distrações",
           "points": {
             "boros": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚫ Nenhuma terceira cor — Mono Branco puro me basta",
           "points": {
             "mono_white": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -577,25 +581,29 @@
           "text": "🔴 Vermelho — haste e pump explosivo pra tokens",
           "points": {
             "naya": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵 Azul — proteção, draw e flicker pra criaturas",
           "points": {
             "bant": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚪🌿 Só Branco e Verde. Selesnya direto ao ponto",
           "points": {
             "selesnya": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚫ Nenhuma — Mono Branco é suficiente para o que quero",
           "points": {
             "mono_white": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -607,25 +615,29 @@
           "text": "⚪ Branco — resiliência, proteção e anthem effects",
           "points": {
             "naya": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵 Azul — draw e proteção pra suas ameaças chegarem",
           "points": {
             "temur": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔴🌿 Só Vermelho e Verde. Gruul puro, sem firulas",
           "points": {
             "gruul": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚫ Nenhuma — Mono Verde resolve tudo com ramp suficiente",
           "points": {
             "mono_green": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -637,25 +649,29 @@
           "text": "🔴 Vermelho — velocidade e haste pra seu tribal",
           "points": {
             "naya": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵 Azul — tutores e proteção",
           "points": {
             "bant": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚪🌿 Só Branco e Verde. Selesnya é o suficiente",
           "points": {
             "selesnya": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚫ Nenhuma — Mono Verde é criaturas e mana, o que mais preciso?",
           "points": {
             "mono_green": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -667,19 +683,22 @@
           "text": "🔴 Mono Vermelho. Pureza caótica",
           "points": {
             "mono_red": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵 Adicionar Azul pra copiar feitiços de dano",
           "points": {
             "izzet": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚪ Adicionar Branco pra consistência e proteção",
           "points": {
             "boros": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -691,19 +710,22 @@
           "text": "Dispensaria o Azul — Boros me basta",
           "points": {
             "boros": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "Dispensaria o Branco — Izzet é mais interessante",
           "points": {
             "izzet": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "Nenhuma — quero Jeskai completo",
           "points": {
             "jeskai": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -715,19 +737,22 @@
           "text": "⚪ Branco — proteção e consistência",
           "points": {
             "jeskai": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌿 Verde — ramp pra jogar mais feitiços por turno",
           "points": {
             "temur": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔴🔵 Só Izzet. Velocidade e inteligência, sem mais",
           "points": {
             "izzet": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -739,19 +764,22 @@
           "text": "🔴 Vermelho — velocidade e interação agressiva",
           "points": {
             "temur": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚪ Branco — remoção e proteção extra",
           "points": {
             "bant": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌿🔵 Só Simic. Crescimento e inteligência são o suficiente",
           "points": {
             "simic": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -764,20 +792,23 @@
           "points": {
             "bant": 0.7,
             "azorius": 0.5
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵 Azul — interação e card draw acima de tudo",
           "points": {
             "bant": 0.7,
             "simic": 0.5
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌿 Verde — ramp e criaturas eficientes são o núcleo",
           "points": {
             "bant": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -789,25 +820,29 @@
           "text": "🔴 Vermelho — aggro e sacrifício explosivo",
           "points": {
             "jund": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚪ Branco — recursão e resiliência extra",
           "points": {
             "abzan": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵 Azul — tutores e proteção pra suas peças",
           "points": {
             "sultai": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌑🌿 Só Golgari. Morte e natureza, sem interferência",
           "points": {
             "golgari": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -819,19 +854,22 @@
           "text": "🌿 Verde — ramp pra escalar mais rápido",
           "points": {
             "jund": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚪ Branco — drain e extort pra fechar jogos",
           "points": {
             "mardu": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌑🔴 Só Rakdos. Caos e sacrifício puro",
           "points": {
             "rakdos": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -843,19 +881,22 @@
           "text": "🔴 Vermelho — aggro e velocidade pra não ficar só drenando",
           "points": {
             "mardu": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵 Azul — controle e card draw",
           "points": {
             "esper": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚪🌑 Só Orzhov. Dívidas e drenagem, nada mais necessário",
           "points": {
             "orzhov": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -867,19 +908,22 @@
           "text": "🔵 Mono Azul. Perfeição intelectual absoluta",
           "points": {
             "mono_blue": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌑 Adicionar Preto — tutores e remoção",
           "points": {
             "dimir": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚪ Adicionar Branco — proteção e consistência",
           "points": {
             "azorius": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -891,19 +935,22 @@
           "text": "⚪ Branco — remoção e proteção elegante",
           "points": {
             "esper": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌿 Verde — ramp e ameaças concretas",
           "points": {
             "sultai": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵🌑 Só Dimir. Espionagem e controle, sem barulho",
           "points": {
             "dimir": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -915,19 +962,22 @@
           "text": "🌑 Preto — tutores e remoção extra",
           "points": {
             "esper": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌿 Verde — ramp e criaturas pra não depender só de combo",
           "points": {
             "bant": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵⚪ Só Azorius. Ordem e controle, sem impurezas",
           "points": {
             "azorius": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -939,19 +989,22 @@
           "text": "🌑 Preto — mais tutores e win conditions combo",
           "points": {
             "esper": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌿 Verde — ramp e permanentes difíceis de remover",
           "points": {
             "bant": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "⚪🔵 Azorius Stax puro. Menos é mais",
           "points": {
             "azorius": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -963,19 +1016,22 @@
           "text": "🌑 Mono Preto. Tutores, remoção, combo — tudo que preciso já está aqui",
           "points": {
             "mono_black": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵 Adicionar Azul — mais controle e proteção pro combo",
           "points": {
             "dimir": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌿 Adicionar Verde — ramp e redundância",
           "points": {
             "golgari": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -987,21 +1043,24 @@
           "text": "🌿 Verde — o ramp é o coração do deck",
           "points": {
             "temur": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔵 Azul — a vantagem de cards e flashes são o que importa",
           "points": {
             "temur": 0.7,
             "simic": 0.5
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🔴 Vermelho — velocidade e instants agressivos acima de tudo",
           "points": {
             "temur": 0.7,
             "gruul": 0.5
-          }
+          },
+          "nextQuestion": "q_final"
         }
       ]
     },
@@ -1013,13 +1072,15 @@
           "text": "💎 Fixing de mana pesado — fetchlands, duals, mana rocks",
           "points": {
             "five_color": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🌈 Um commander que produz todas as cores sozinho",
           "points": {
             "five_color": 0.9
-          }
+          },
+          "nextQuestion": "q_final"
         },
         {
           "text": "🤔 Talvez eu simplifique. Quatro cores talvez bastem",
@@ -1027,7 +1088,26 @@
             "five_color": 0.5,
             "sultai": 0.4,
             "temur": 0.4
-          }
+          },
+          "nextQuestion": "q_final"
+        }
+      ]
+    },
+    {
+      "id": "q_final",
+      "question": "Última pergunta: qual é a sua relação com o orçamento do deck?",
+      "answers": [
+        {
+          "text": "💸 Sem limites. Duals, fetchlands, o que for necessário",
+          "points": {}
+        },
+        {
+          "text": "⚖️ Médio — invisto no que importa, mas tenho critério",
+          "points": {}
+        },
+        {
+          "text": "🪙 Budget. Quero um deck competitivo sem quebrar o banco",
+          "points": {}
         }
       ]
     }
