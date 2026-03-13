@@ -559,6 +559,11 @@
       "name": "Qual Identidade de Cores Você Deve Usar no Próximo Commander?",
       "file": "quizzes/quizProximoDeck.json",
       "description": "Responda com honestidade sobre como você realmente joga. O deck certo está esperando."
+    },
+    {
+      "name": "Qual sabor de Monster você seria?",
+      "file": "quizzes/quizMonster.json",
+      "description": "Descubra qual lata te representa — com mais precisão do que você gostaria."
     }
   ]
 }
