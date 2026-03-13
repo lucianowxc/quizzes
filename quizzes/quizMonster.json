@@ -1,0 +1,326 @@
+{
+  "title": "Qual sabor de Monster você seria?",
+  "subtitle": "Descubra qual lata te representa — com mais precisão do que você gostaria.",
+  "questions": [
+    {
+      "question": "🌅 Você acorda cedo num sábado sem querer. O que acontece?",
+      "answers": [
+        {
+          "text": "☕ Café, silêncio e aproveito a produtividade",
+          "points": {
+            "original": 0.4,
+            "espresso": 0.5
+          }
+        },
+        {
+          "text": "🌴 Chamo alguém e improviso um plano",
+          "points": {
+            "mango_loco": 0.5,
+            "pacific_punch": 0.5
+          }
+        },
+        {
+          "text": "🌀 Fico deitado achando que é segunda por 20 minutos",
+          "points": {
+            "juice_khaos": 0.7,
+            "ultra_rosa": 0.2
+          }
+        },
+        {
+          "text": "📋 Já tinha planejado — acordo no horário exato",
+          "points": {
+            "ultra": 0.5,
+            "pipeline_punch": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "🎯 Qual é sua relação com metas?",
+      "answers": [
+        {
+          "text": "🔒 Defino, executo, entrego. Sem drama.",
+          "points": {
+            "original": 0.5,
+            "ultra": 0.4
+          }
+        },
+        {
+          "text": "📊 Faço planilha com cores e tudo — aí não começo",
+          "points": {
+            "espresso": 0.5,
+            "ultra_rosa": 0.3
+          }
+        },
+        {
+          "text": "🌊 Vou no fluxo e chego lá do meu jeito",
+          "points": {
+            "pipeline_punch": 0.5,
+            "pacific_punch": 0.5
+          }
+        },
+        {
+          "text": "🎲 Meta é sugestão. Resultado é o que importa.",
+          "points": {
+            "mango_loco": 0.5,
+            "juice_khaos": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "🎉 Numa festa, onde te encontram às 23h?",
+      "answers": [
+        {
+          "text": "🕺 No meio da pista sem parar desde as 21h",
+          "points": {
+            "mango_loco": 0.5,
+            "ripper": 0.5
+          }
+        },
+        {
+          "text": "🛋️ No canto gostoso tendo a melhor conversa da noite",
+          "points": {
+            "pipeline_punch": 0.5,
+            "ultra": 0.3
+          }
+        },
+        {
+          "text": "🥳 Em todo lugar ao mesmo tempo, de alguma forma",
+          "points": {
+            "pacific_punch": 0.5,
+            "mango_loco": 0.5
+          }
+        },
+        {
+          "text": "🌑 Já fui embora mas ninguém percebeu ainda",
+          "points": {
+            "ultra_rosa": 0.4,
+            "original": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "📱 Qual é sua relação com notificações?",
+      "answers": [
+        {
+          "text": "🔕 Tudo no mudo. Sempre. Sem exceção.",
+          "points": {
+            "ultra": 0.5,
+            "original": 0.3
+          }
+        },
+        {
+          "text": "🔔 Respondo na hora — eficiência acima de tudo",
+          "points": {
+            "espresso": 0.5,
+            "pipeline_punch": 0.2
+          }
+        },
+        {
+          "text": "🌸 Vejo quando vejo. Não é descaso, é seleção.",
+          "points": {
+            "ultra_rosa": 0.5,
+            "juice_khaos": 0.4
+          }
+        },
+        {
+          "text": "🎪 Respondo tudo de uma vez às 2h da manhã",
+          "points": {
+            "juice_khaos": 0.6,
+            "ripper": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "🧠 Como você toma decisões importantes?",
+      "answers": [
+        {
+          "text": "⚡ Instinto. Rápido. Corrijo depois se precisar.",
+          "points": {
+            "ripper": 0.6,
+            "mango_loco": 0.4
+          }
+        },
+        {
+          "text": "🔬 Pesquiso tudo antes de mover um dedo",
+          "points": {
+            "ultra": 0.6,
+            "espresso": 0.5
+          }
+        },
+        {
+          "text": "🤝 Ouço todo mundo e decido com o grupo",
+          "points": {
+            "pacific_punch": 0.5,
+            "pipeline_punch": 0.3
+          }
+        },
+        {
+          "text": "🌀 Postergo até a decisão se resolver sozinha",
+          "points": {
+            "juice_khaos": 0.6,
+            "ultra_rosa": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "🌧️ Você tá com a semana indo por água abaixo. O que faz?",
+      "answers": [
+        {
+          "text": "💪 Engole seco e continua — não é a primeira vez",
+          "points": {
+            "original": 0.6,
+            "espresso": 0.2
+          }
+        },
+        {
+          "text": "🎨 Transforma o caos em estética e posta",
+          "points": {
+            "ultra_rosa": 0.6,
+            "ripper": 0.4
+          }
+        },
+        {
+          "text": "🌊 Respira fundo, ajusta a rota e segue",
+          "points": {
+            "pipeline_punch": 0.6,
+            "pacific_punch": 0.5
+          }
+        },
+        {
+          "text": "🔥 Entra em modo de superprodução às 3h da manhã",
+          "points": {
+            "ripper": 0.6,
+            "espresso": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "🎁 Qual seria seu presente ideal?",
+      "answers": [
+        {
+          "text": "🎟️ Experiência inesquecível com adrenalina incluída",
+          "points": {
+            "ripper": 0.5,
+            "mango_loco": 0.5
+          }
+        },
+        {
+          "text": "📦 Algo útil que eu precisava mas não ia comprar",
+          "points": {
+            "original": 0.5,
+            "espresso": 0.5
+          }
+        },
+        {
+          "text": "✨ Algo bonito, raro e com uma história por trás",
+          "points": {
+            "ultra_rosa": 0.5,
+            "ultra": 0.4
+          }
+        },
+        {
+          "text": "🤙 Não precisa de presente — só aparece que já basta",
+          "points": {
+            "pacific_punch": 0.5,
+            "pipeline_punch": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "🔮 Qual frase mais te representa?",
+      "answers": [
+        {
+          "text": "🪨 Funciono. Não preciso de mais nada.",
+          "points": {
+            "original": 0.7,
+            "ultra": 0.4
+          }
+        },
+        {
+          "text": "🌺 A vida é curta demais pra ser previsível",
+          "points": {
+            "mango_loco": 0.7,
+            "juice_khaos": 0.3
+          }
+        },
+        {
+          "text": "🌙 Pareço simples. Sou profundo. Boa sorte.",
+          "points": {
+            "pipeline_punch": 0.6,
+            "ultra_rosa": 0.4
+          }
+        },
+        {
+          "text": "⚗️ Sou o resultado de combinações que não deveriam dar certo",
+          "points": {
+            "juice_khaos": 0.7,
+            "ripper": 0.5
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "original": {
+      "title": "Monster Original",
+      "emoji": "🟢",
+      "subtitle": "O clássico que nunca precisa se explicar",
+      "text": "Você é o Monster Original: sem frescura, sem filtro, sem agenda. Enquanto todo mundo fica experimentando sabores novos, você já decidiu o que funciona e segue em frente. Não é falta de criatividade — é eficiência disfarçada de teimosia. Confiável como segunda-feira às 8h."
+    },
+    "ultra": {
+      "title": "Monster Ultra",
+      "emoji": "⚪",
+      "subtitle": "Minimalista com complexo de superioridade leve",
+      "text": "Você é o Monster Ultra: zero açúcar, zero drama, zero paciência pra ineficiência. Sua estética é limpa, seu humor é seco e sua lista de contatos é… curada. Você não é frio — só tem critérios altos. Pelo menos é o que você se diz antes de dormir."
+    },
+    "espresso": {
+      "title": "Monster Espresso",
+      "emoji": "☕",
+      "subtitle": "Funciona no limite e chama isso de rotina",
+      "text": "Você é o Monster Espresso: uma mistura de cafeína, prazo e negação saudável. Opera melhor sob pressão, dorme menos do que deveria e acha que isso é um traço de personalidade. É. Só não é necessariamente um bom traço. Mas a entrega foi no prazo, então tá ótimo."
+    },
+    "mango_loco": {
+      "title": "Mango Loco",
+      "emoji": "🥭",
+      "subtitle": "Energia caótica com sabor de verão",
+      "text": "Você é o Mango Loco: tropical, imprevisível e impossível de ignorar. Você não entra em um ambiente — você chega nele. Os planos mudam quando você aparece, e as pessoas geralmente ficam felizes com isso. Geralmente."
+    },
+    "pipeline_punch": {
+      "title": "Pipeline Punch",
+      "emoji": "🌊",
+      "subtitle": "Relaxado na superfície, potente por baixo",
+      "text": "Você é o Pipeline Punch: aparentemente no modo econômico, surpreendentemente eficaz. Ninguém aposta em você na primeira impressão — e você usa isso muito bem. Sua superpotência é parecer que não tá fazendo esforço enquanto todo mundo suou pra chegar no mesmo lugar."
+    },
+    "pacific_punch": {
+      "title": "Pacific Punch",
+      "emoji": "🩷",
+      "subtitle": "Todo mundo gosta, inclusive você de si mesmo",
+      "text": "Você é o Pacific Punch: acessível, simpático e presente em todo rolê. Tem o talento raro de agradar sem se perder — o que é genuíno, mas às vezes faz você se perguntar onde termina a sua vibe e começa a do grupo. Spoiler: não importa, você tá bem de qualquer jeito."
+    },
+    "ripper": {
+      "title": "Monster Ripper",
+      "emoji": "🔥",
+      "subtitle": "Intensidade como modo padrão de existir",
+      "text": "Você é o Ripper: tudo ou nada, volume 10 ou desligado, sem meio-termo negociável. Você não vive experiências — você as devora. Tem dias que isso é inspirador. Tem outros que as pessoas ao redor pedem um intervalo. Você não faz intervalos."
+    },
+    "juice_khaos": {
+      "title": "Juice Khaos",
+      "emoji": "🎲",
+      "subtitle": "Imprevisível por natureza, não por esforço",
+      "text": "Você é o Juice Khaos: uma mistura que não deveria funcionar mas funciona perfeitamente. Você desafia categorias, ignora expectativas e entrega resultados que ninguém pediu mas todo mundo precisava. Seja lá o que você for, tem um nicho específico que te ama incondicionalmente."
+    },
+    "ultra_rosa": {
+      "title": "Ultra Rosá",
+      "emoji": "🌸",
+      "subtitle": "Estética afiada, profundidade inesperada",
+      "text": "Você é o Ultra Rosá: parece leve, é complexo. A embalagem é bonita demais pra ser levada a sério — e é exatamente isso que te favorece. Enquanto te subestimam pela aparência, você já leu a sala inteira e tomou suas decisões. Sofisticado com senso de humor aguçado."
+    }
+  }
+}
