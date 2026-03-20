@@ -564,6 +564,11 @@
       "name": "Qual sabor de Monster você seria?",
       "file": "quizzes/quizMonster.json",
       "description": "Descubra qual lata te representa — com mais precisão do que você gostaria."
+    },
+    {
+      "name": "Qual Animal Extinto É o Seu Animal Interior?",
+      "file": "quizzes/quizAnimalExtinto.json",
+      "description": "Você sobreviveria à extinção... ou causaria uma?"
     }
   ]
 }
