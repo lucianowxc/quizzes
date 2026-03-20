@@ -1,0 +1,224 @@
+{
+  "title": "Qual Propaganda do YouTube Você É?",
+  "subtitle": "Você não pode pular esse quiz. Bem-vindo.",
+  "questions": [
+    {
+      "question": "Você acorda às 3h da manhã sem motivo. O que passa pela sua cabeça?",
+      "answers": [
+        {
+          "text": "🎰 'E se eu tivesse dobrado aquela aposta?'",
+          "points": { "bet": 0.9, "curso": 0.5 }
+        },
+        {
+          "text": "🌫️ 'O que é o tempo? O que sou eu no tempo?'",
+          "points": { "perfume": 0.9, "meditacao": 0.5 }
+        },
+        {
+          "text": "📊 'Preciso reorganizar meu sistema de metas'",
+          "points": { "produtividade": 0.9, "financiamento": 0.4 }
+        },
+        {
+          "text": "✈️ 'Podia estar em Lisboa agora'",
+          "points": { "viagem": 0.9, "streaming": 0.4 }
+        }
+      ]
+    },
+    {
+      "question": "Alguém te pede um conselho de vida. Você:",
+      "answers": [
+        {
+          "text": "📱 'Baixa esse app que mudou minha vida'",
+          "points": { "meditacao": 0.9, "curso": 0.6 }
+        },
+        {
+          "text": "🎰 'Confia no processo. O retorno vem.'",
+          "points": { "bet": 0.9, "financiamento": 0.5 }
+        },
+        {
+          "text": "🌊 'Às vezes a vida é como o vento no entardecer'",
+          "points": { "perfume": 0.9, "viagem": 0.4 }
+        },
+        {
+          "text": "🗂️ 'Vou te mandar um framework que uso'",
+          "points": { "produtividade": 0.9, "curso": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua relação honesta com o dinheiro?",
+      "answers": [
+        {
+          "text": "🏠 'É só uma questão de acreditar no sonho e assinar'",
+          "points": { "financiamento": 0.9, "bet": 0.5 }
+        },
+        {
+          "text": "📺 'Tenho débito automático em coisa que nem uso mais'",
+          "points": { "streaming": 0.9, "meditacao": 0.4 }
+        },
+        {
+          "text": "📚 'Invisto em mim mesmo. É o melhor investimento.'",
+          "points": { "curso": 0.9, "produtividade": 0.5 }
+        },
+        {
+          "text": "✈️ 'Dinheiro é energia. Energia flui. Tchau.'",
+          "points": { "viagem": 0.9, "perfume": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Como você descreveria sua última semana?",
+      "answers": [
+        {
+          "text": "🧘 'Intensa. Precisei me reconectar comigo mesmo.'",
+          "points": { "meditacao": 0.9, "perfume": 0.5 }
+        },
+        {
+          "text": "🚀 'Muitas entregas, muito aprendizado, pouco sono'",
+          "points": { "produtividade": 0.9, "curso": 0.4 }
+        },
+        {
+          "text": "🎰 'Altos e baixos. Mais baixos. Mas tô de volta.'",
+          "points": { "bet": 0.9, "financiamento": 0.4 }
+        },
+        {
+          "text": "📸 'Ruim, mas as fotos ficaram ótimas'",
+          "points": { "viagem": 0.9, "perfume": 0.4 }
+        }
+      ]
+    },
+    {
+      "question": "Uma pessoa te ignora numa festa. Você:",
+      "answers": [
+        {
+          "text": "💨 'Saio devagar em câmera lenta olhando pro horizonte'",
+          "points": { "perfume": 0.9, "viagem": 0.4 }
+        },
+        {
+          "text": "📺 'Ofereço um pacote de benefícios pra ela me notar'",
+          "points": { "streaming": 0.9, "financiamento": 0.5 }
+        },
+        {
+          "text": "🎰 'Dobro o charme. Dessa vez vai.'",
+          "points": { "bet": 0.9, "curso": 0.4 }
+        },
+        {
+          "text": "📊 'Processo a rejeição via journaling e retrospectiva'",
+          "points": { "produtividade": 0.8, "meditacao": 0.6 }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase você seria capaz de dizer sem ironia?",
+      "answers": [
+        {
+          "text": "🏠 'Aluguel é dinheiro jogado fora'",
+          "points": { "financiamento": 0.9, "bet": 0.4 }
+        },
+        {
+          "text": "✨ 'Esse cheiro me transporta para outro estado de ser'",
+          "points": { "perfume": 0.9, "meditacao": 0.5 }
+        },
+        {
+          "text": "📚 'Em 7 dias aprendi o que a faculdade não me ensinou'",
+          "points": { "curso": 0.9, "produtividade": 0.5 }
+        },
+        {
+          "text": "📺 'Só cancelo depois do reality terminar'",
+          "points": { "streaming": 0.9, "viagem": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é o seu maior talento não reconhecido?",
+      "answers": [
+        {
+          "text": "🎯 'Transformar problema simples em processo complexo'",
+          "points": { "produtividade": 0.9, "streaming": 0.4 }
+        },
+        {
+          "text": "🌅 'Fazer qualquer lugar parecer melhor do que é'",
+          "points": { "viagem": 0.9, "perfume": 0.5 }
+        },
+        {
+          "text": "🎰 'Convencer pessoas de que dessa vez é diferente'",
+          "points": { "bet": 0.9, "curso": 0.6 }
+        },
+        {
+          "text": "🧘 'Parecer calmo enquanto tudo desmorona'",
+          "points": { "meditacao": 0.9, "financiamento": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Como você quer ser lembrado?",
+      "answers": [
+        {
+          "text": "🏆 'Como alguém que acreditou quando ninguém acreditava'",
+          "points": { "bet": 0.8, "curso": 0.7 }
+        },
+        {
+          "text": "🌍 'Como alguém que viveu de verdade'",
+          "points": { "viagem": 0.9, "perfume": 0.5 }
+        },
+        {
+          "text": "📋 'Como alguém extremamente bem organizado'",
+          "points": { "produtividade": 0.9, "financiamento": 0.4 }
+        },
+        {
+          "text": "🔑 'Como alguém que ajudou outros a chegarem lá'",
+          "points": { "financiamento": 0.8, "streaming": 0.5, "meditacao": 0.4 }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "bet": {
+      "title": "Propaganda de Bet",
+      "emoji": "🎰",
+      "subtitle": "O Sonho Terceirizado",
+      "text": "Você não tem um plano, mas tem muita fé. Promete mundos e fundos com uma energia contagiante que some completamente quando chega a hora de entregar. Seu lema: 'E aí, vai dobrar ou não vai?' Spoiler: não vai."
+    },
+    "streaming": {
+      "title": "Propaganda de TV a Cabo",
+      "emoji": "📺",
+      "subtitle": "O Pacote Completo que Ninguém Pediu",
+      "text": "Você chega na vida das pessoas sem ser convidado, oferece muito mais do que elas precisam e cobra por canais que ninguém assiste. Tem uma fidelidade inabalável ao passado e uma dificuldade clínica de aceitar que as pessoas foram pro streaming."
+    },
+    "perfume": {
+      "title": "Propaganda de Perfume",
+      "emoji": "💨",
+      "subtitle": "O Intenso Sem Contexto",
+      "text": "Sua comunicação é 80% atmosfera e 20% conteúdo. Você fala em metáforas, nunca explica nada direito e de alguma forma as pessoas ainda te acham sofisticado. Provavelmente já andou em câmera lenta numa praia sem motivo."
+    },
+    "produtividade": {
+      "title": "Ferramenta de Produtividade",
+      "emoji": "🚀",
+      "subtitle": "O Urgente Sem Propósito",
+      "text": "Você transforma qualquer coisa simples num framework com sigla. Acredita genuinamente que uma reunião de alinhamento resolve tudo e usa 'sinergia' sem ironia. No fundo, só quer que as pessoas falem que você é eficiente."
+    },
+    "viagem": {
+      "title": "Propaganda de Viagem",
+      "emoji": "✈️",
+      "subtitle": "O Escapista com Filtro",
+      "text": "Sua vida real é uma bagunça, mas seu Instagram de viagem é impecável. Você vende a ideia de que tudo melhora com uma passagem, sorri pra câmera na frente de monumentos e nunca mostra a fila de 4 horas que veio antes."
+    },
+    "curso": {
+      "title": "Curso Online Milagroso",
+      "emoji": "📚",
+      "subtitle": "O Guru Acessível em 12 Parcelas",
+      "text": "Você descobriu O Segredo e precisa urgentemente te contar — por um preço justo. Usa depoimentos como argumento, fala 'muda de vida' pelo menos três vezes por parágrafo e tem uma playlist de lo-fi pra estudar que é genuinamente boa."
+    },
+    "meditacao": {
+      "title": "Aplicativo de Meditação",
+      "emoji": "🧘",
+      "subtitle": "A Paz que Não Vem",
+      "text": "Você fala de leveza com uma intensidade que causa ansiedade. Manda notificação às 6h da manhã dizendo 'respira' e cobra R$49/mês por isso. No fundo está tão perdido quanto todo mundo, só tem uma trilha sonora melhor."
+    },
+    "financiamento": {
+      "title": "Financiamento Imobiliário",
+      "emoji": "🏠",
+      "subtitle": "O Sonho Parcelado em 420x",
+      "text": "Você transforma a maior dívida da vida das pessoas num momento emocionante com música de piano ao fundo. Especialista em fazer o impossível parecer só 'um pouquinho além do alcance'. A família sorridente na fachada não estava no contrato."
+    }
+  }
+}
