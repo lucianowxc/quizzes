@@ -1,0 +1,224 @@
+{
+  "title": "Qual Animal Extinto É o Seu Animal Interior?",
+  "subtitle": "Você sobreviveria à extinção... ou causaria uma?",
+  "questions": [
+    {
+      "question": "Você descobre que vai ser extinto(a) em 30 dias. O que faz?",
+      "answers": [
+        {
+          "text": "🧊 Aceito. Tudo tem seu tempo.",
+          "points": { "mamute": 0.9, "gliptodonte": 0.6 }
+        },
+        {
+          "text": "💥 Aproveito cada segundo com intensidade máxima",
+          "points": { "tigre": 0.9, "trex": 0.6, "fororaco": 0.5 }
+        },
+        {
+          "text": "🤷 Que extinto o quê, não vai acontecer comigo",
+          "points": { "dodo": 0.9, "mamute": 0.3 }
+        },
+        {
+          "text": "📋 Deixo tudo organizado antes de ir",
+          "points": { "purussaurus": 0.9, "megalodonte": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua relação com o fundo do mar?",
+      "answers": [
+        {
+          "text": "🌊 Eu sou o fundo do mar",
+          "points": { "megalodonte": 0.9, "purussaurus": 0.5 }
+        },
+        {
+          "text": "😨 Me dá um frio na espinha só de pensar",
+          "points": { "dodo": 0.8, "mamute": 0.6 }
+        },
+        {
+          "text": "🏊 Adoraria explorar, parece incrível",
+          "points": { "fororaco": 0.8, "tigre": 0.5 }
+        },
+        {
+          "text": "🛡️ Prefiro ter chão firme embaixo dos pés",
+          "points": { "gliptodonte": 0.9, "mamute": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Um meteorito vai cair na Terra. Você tem 1 hora. O que faz?",
+      "answers": [
+        {
+          "text": "🍖 Como tudo que tem no fundo do freezer",
+          "points": { "trex": 0.9, "fororaco": 0.6 }
+        },
+        {
+          "text": "📞 Ligo pra todo mundo que importa",
+          "points": { "mamute": 0.8, "dodo": 0.7 }
+        },
+        {
+          "text": "😌 Fico quieto no meu lugar favorito",
+          "points": { "gliptodonte": 0.9, "purussaurus": 0.6 }
+        },
+        {
+          "text": "🔭 Fico olhando o meteorito chegar. Que cena.",
+          "points": { "megalodonte": 0.8, "tigre": 0.6 }
+        }
+      ]
+    },
+    {
+      "question": "Como você se sente quando alguém te chama de 'intenso(a)'?",
+      "answers": [
+        {
+          "text": "😤 Ofendido(a). Eu sou apenas apaixonado(a).",
+          "points": { "tigre": 0.9, "trex": 0.6 }
+        },
+        {
+          "text": "🙂 Normal. Eu mesmo percebo isso.",
+          "points": { "fororaco": 0.7, "megalodonte": 0.5 }
+        },
+        {
+          "text": "😳 Ninguém nunca me chamou de intenso(a)",
+          "points": { "gliptodonte": 0.8, "dodo": 0.6 }
+        },
+        {
+          "text": "🤔 Prefiro 'incompreendido(a)'",
+          "points": { "megalodonte": 0.9, "mamute": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Você some por 3 semanas sem avisar. Ao voltar, o que as pessoas dizem?",
+      "answers": [
+        {
+          "text": "😭 'A gente estava apavorado, que susto!'",
+          "points": { "mamute": 0.8, "dodo": 0.7 }
+        },
+        {
+          "text": "😮 'Nem notei, honestamente'",
+          "points": { "megalodonte": 0.9, "purussaurus": 0.6 }
+        },
+        {
+          "text": "😂 'Achei que tivesse sido extinto(a) de vez'",
+          "points": { "gliptodonte": 0.8, "mamute": 0.4 }
+        },
+        {
+          "text": "😅 'Ufa, voltou. Tava tudo pegando fogo aqui'",
+          "points": { "trex": 0.9, "fororaco": 0.7 }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas frases você já pensou de verdade?",
+      "answers": [
+        {
+          "text": "🌋 'Se eu sumir, alguém vai sentir'",
+          "points": { "megalodonte": 0.9, "tigre": 0.5 }
+        },
+        {
+          "text": "🧊 'O mundo era melhor antes'",
+          "points": { "mamute": 0.9, "gliptodonte": 0.6 }
+        },
+        {
+          "text": "🤸 'Regras são sugestões'",
+          "points": { "fororaco": 0.9, "trex": 0.5, "dodo": 0.4 }
+        },
+        {
+          "text": "⏳ 'Minha hora vai chegar'",
+          "points": { "purussaurus": 0.9, "tigre": 0.6 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua relação com o passado?",
+      "answers": [
+        {
+          "text": "📼 Moro nele com muito conforto",
+          "points": { "mamute": 0.9, "gliptodonte": 0.5 }
+        },
+        {
+          "text": "🔥 Prefiro queimar tudo e recomeçar",
+          "points": { "tigre": 0.8, "fororaco": 0.7 }
+        },
+        {
+          "text": "🌊 Carrego ele comigo, quieto, lá no fundo",
+          "points": { "megalodonte": 0.9, "purussaurus": 0.6 }
+        },
+        {
+          "text": "😅 Que passado? Só vivo o presente",
+          "points": { "dodo": 0.9, "trex": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu maior legado se você virasse fóssil amanhã?",
+      "answers": [
+        {
+          "text": "🦴 'Era enorme e ninguém sabia direito o que era'",
+          "points": { "megalodonte": 0.9, "purussaurus": 0.6 }
+        },
+        {
+          "text": "📸 'Acharam fotos e todo mundo ficou com dó'",
+          "points": { "dodo": 0.9, "mamute": 0.6 }
+        },
+        {
+          "text": "👑 'Dominava tudo ao redor. Ainda bem que sumiu.'",
+          "points": { "trex": 0.9, "tigre": 0.6 }
+        },
+        {
+          "text": "🛡️ 'Durou muito mais que todos esperavam'",
+          "points": { "gliptodonte": 0.9, "purussaurus": 0.5 }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "mamute": {
+      "title": "Mamute Lanoso",
+      "emoji": "🦣",
+      "subtitle": "O Nostálgico Resistente",
+      "text": "O mundo mudou, mas você não. Tem saudade do tempo em que as coisas eram mais simples (e mais frias). Imponente, leal e levemente teimoso — você carrega o peso da história nas costas, literalmente."
+    },
+    "trex": {
+      "title": "T-Rex",
+      "emoji": "🦖",
+      "subtitle": "O Chefe que Não Alcança a Própria Caneca",
+      "text": "Presença avassaladora, voz de comando, bracinhos curtos. Você lidera com energia, intimida sem querer e, no fundo, só precisa de alguém que te ajude a pegar as coisas no armário de cima."
+    },
+    "dodo": {
+      "title": "Dodô",
+      "emoji": "🐦",
+      "subtitle": "O Confiante Sem Motivo",
+      "text": "Não sabe voar, não tem predadores naturais... ou pelo menos achava que não tinha. Você é adorável, destemido e tem uma fé inabalável na bondade alheia. Às vezes ingênuo(a) demais, mas com um charme irresistível."
+    },
+    "tigre": {
+      "title": "Tigre-Dentes-de-Sabre",
+      "emoji": "🐅",
+      "subtitle": "O Intenso Apaixonado",
+      "text": "Tudo que você faz é com intensidade máxima. Amor, ódio, fome — não tem meio termo. Os dentes são grandes demais para o próprio bem, mas quem disse que praticidade é glamourosa?"
+    },
+    "megalodonte": {
+      "title": "Megalodonte",
+      "emoji": "🌊",
+      "subtitle": "O Profundo Misterioso",
+      "text": "Ninguém sabe muito sobre você — e você prefere assim. Você circula em silêncio, observa tudo, e quando age, todo mundo sente. Maior do que aparenta, mais velho do que parece."
+    },
+    "gliptodonte": {
+      "title": "Gliptodonte",
+      "emoji": "🐘",
+      "subtitle": "Carapaça Dura, Coração Mole",
+      "text": "Por fora: uma fortaleza. Por dentro: só queria um abraço e um bom pasto. Você demora pra confiar, mas quando confia, é pra sempre. Tem uma armadura emocional invejável e um ritmo próprio."
+    },
+    "fororaco": {
+      "title": "Fororaco",
+      "emoji": "🦅",
+      "subtitle": "O Caótico Confiante",
+      "text": "Ave que não voa mas corre 50km/h e era o maior predador do seu ecossistema. Você não segue as regras do que 'deveria' ser — você simplesmente é, e é demais. Energia caótica, resultados surpreendentes."
+    },
+    "purussaurus": {
+      "title": "Purussaurus",
+      "emoji": "🐊",
+      "subtitle": "O Paciente Estratégico",
+      "text": "Crocodilo de 12 metros da Amazônia pré-histórica. Você não corre atrás — você espera. Calmo, calculista, com uma paciência que intimida. Quando age, não erra."
+    }
+  }
+}
