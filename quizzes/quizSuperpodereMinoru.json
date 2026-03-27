@@ -1,0 +1,146 @@
+{
+  "title": "Qual Superpoder Secreto do Minoru Você Tem?",
+  "subtitle": "Descubra qual faceta desse ser iluminado vive dentro de você 🛺✨",
+  "questions": [
+    {
+      "question": "É sexta à noite. Você não tinha planos. O que acontece?",
+      "answers": [
+        { "text": "🪄 Apareço na casa de alguém sem avisar e viro o destaque da noite", "points": { "o_aparecedor": 0.9, "o_animador": 0.5 } },
+        { "text": "🚲 Saio pedalando sem destino e descubro um bar novo no caminho", "points": { "o_ciclista": 0.9, "o_barman": 0.5 } },
+        { "text": "🎒 Já estou pronto com mochila equipada esperando alguém me chamar", "points": { "a_bolsa_magica": 0.9, "o_empata": 0.4 } },
+        { "text": "🧠 Fico em casa pensando em ideias geniais que nunca vou executar", "points": { "o_inteligente": 0.8, "o_emoji_lord": 0.3 } }
+      ]
+    },
+    {
+      "question": "Alguém no grupo está claramente de mau humor. Você:",
+      "answers": [
+        { "text": "🫂 Percebo antes de todo mundo e mando uma mensagem no privado", "points": { "o_empata": 0.9, "o_inteligente": 0.4 } },
+        { "text": "🎉 Faço uma piada tão boa que a pessoa ri sem querer", "points": { "o_animador": 0.9, "o_aparecedor": 0.4 } },
+        { "text": "🛺 Mando um emoji tão específico que a pessoa fica confusa e esquece o mau humor", "points": { "o_emoji_lord": 0.9, "o_animador": 0.4 } },
+        { "text": "🎒 Ofereço um analgésico, uma bala e escuto tudo sem julgamento", "points": { "a_bolsa_magica": 0.7, "o_empata": 0.6 } }
+      ]
+    },
+    {
+      "question": "Qual emoji você usaria pra descrever sua energia hoje?",
+      "answers": [
+        { "text": "🛺 Esse aqui (você nem sabe por quê, mas faz todo sentido)", "points": { "o_emoji_lord": 0.9, "o_aparecedor": 0.5 } },
+        { "text": "🚲 Algo em movimento, porque parado eu não fico", "points": { "o_ciclista": 0.9, "o_animador": 0.4 } },
+        { "text": "🧠 Um cérebro em chamas, mas de um jeito positivo", "points": { "o_inteligente": 0.9, "o_emoji_lord": 0.3 } },
+        { "text": "🍺 Uma caneca cheia — porque hoje vai ser um bom dia", "points": { "o_barman": 0.9, "o_aparecedor": 0.4 } }
+      ]
+    },
+    {
+      "question": "Você chega num lugar que nunca foi. Em 10 minutos você já:",
+      "answers": [
+        { "text": "🍺 Descobri qual é o drink da casa e fiz amizade com o barman", "points": { "o_barman": 0.9, "o_animador": 0.5 } },
+        { "text": "🪄 Sou tratado como frequentador antigo sem ter feito nada especial", "points": { "o_aparecedor": 0.9, "o_empata": 0.4 } },
+        { "text": "🧠 Identifiquei todas as saídas de emergência e a melhor mesa da casa", "points": { "o_inteligente": 0.9, "a_bolsa_magica": 0.3 } },
+        { "text": "🚲 Já sei o caminho de volta de cor e sei onde tem estacionamento de bike", "points": { "o_ciclista": 0.9, "o_inteligente": 0.4 } }
+      ]
+    },
+    {
+      "question": "O que as pessoas sempre te pedem emprestado?",
+      "answers": [
+        { "text": "🔋 Carregador, remédio, fone, isqueiro — o que precisar, eu tenho", "points": { "a_bolsa_magica": 0.9, "o_empata": 0.3 } },
+        { "text": "🧠 Conselhos. Sempre conselhos. Todo mundo quer minha opinião", "points": { "o_inteligente": 0.9, "o_empata": 0.5 } },
+        { "text": "😂 A minha presença. 'Vai você também!' é meu apelido informal", "points": { "o_animador": 0.9, "o_aparecedor": 0.6 } },
+        { "text": "🛺 Nada. Mas me mandam prints de emoji pra eu explicar o que significa", "points": { "o_emoji_lord": 0.9, "o_inteligente": 0.3 } }
+      ]
+    },
+    {
+      "question": "Como você se comunica melhor?",
+      "answers": [
+        { "text": "🛺🌊🎭 Emoji. A frase completa é desnecessária e limitante", "points": { "o_emoji_lord": 0.9, "o_animador": 0.3 } },
+        { "text": "🗣️ Presencialmente, de preferência com petisco na mesa", "points": { "o_barman": 0.8, "o_empata": 0.5 } },
+        { "text": "🤸 Aparecendo do nada — minha presença já diz tudo", "points": { "o_aparecedor": 0.9, "o_animador": 0.5 } },
+        { "text": "📖 Com raciocínio lógico, exemplos claros e referências pertinentes", "points": { "o_inteligente": 0.9, "o_emoji_lord": 0.2 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu papel numa viagem em grupo?",
+      "answers": [
+        { "text": "🗺️ O que já pesquisou tudo, inclusive o restaurante que o Google não indexou", "points": { "o_inteligente": 0.8, "o_ciclista": 0.5 } },
+        { "text": "🎒 O que carrega o kit de emergência e salva todo mundo no aeroporto", "points": { "a_bolsa_magica": 0.9, "o_empata": 0.4 } },
+        { "text": "🎉 O que garante que ninguém vai dormir cedo no primeiro dia", "points": { "o_animador": 0.9, "o_barman": 0.5 } },
+        { "text": "🚲 O que some de bicicleta e volta com uma história inacreditável", "points": { "o_ciclista": 0.9, "o_aparecedor": 0.6 } }
+      ]
+    },
+    {
+      "question": "Uma pessoa estranha começa a falar com você num bar. Você:",
+      "answers": [
+        { "text": "🍺 Já chamei ela pra sentar na mesa. Agora é do grupo", "points": { "o_barman": 0.9, "o_animador": 0.6 } },
+        { "text": "🫂 Ouço com atenção genuína. Todo mundo tem uma história boa", "points": { "o_empata": 0.9, "o_inteligente": 0.4 } },
+        { "text": "🛺 Respondo em emojis até ela desistir ou virar minha melhor amiga", "points": { "o_emoji_lord": 0.9, "o_barman": 0.3 } },
+        { "text": "🪄 Não sei como, mas em 5 minutos ela já acha que me conhece há anos", "points": { "o_aparecedor": 0.9, "o_empata": 0.5 } }
+      ]
+    },
+    {
+      "question": "O que as pessoas falam quando você sai de uma festa?",
+      "answers": [
+        { "text": "✨ 'Que bom que você veio' — e dizem isso de verdade", "points": { "o_empata": 0.8, "o_animador": 0.6 } },
+        { "text": "🪄 'Espera, quando ele chegou?' — ninguém viu, mas todo mundo sentiu", "points": { "o_aparecedor": 0.9, "o_emoji_lord": 0.3 } },
+        { "text": "😂 'Ainda não entendi aquele emoji que ele mandou mas foi hilário'", "points": { "o_emoji_lord": 0.9, "o_animador": 0.5 } },
+        { "text": "🚲 'Ele foi de bike? Com esse tempo??' — sim. Sempre sim.", "points": { "o_ciclista": 0.9, "o_aparecedor": 0.4 } }
+      ]
+    },
+    {
+      "question": "Se você fosse um item de bolsa, qual seria?",
+      "answers": [
+        { "text": "🔦 Lanterna — sempre útil, sempre esquecida, sempre salva o dia", "points": { "a_bolsa_magica": 0.9, "o_empata": 0.4 } },
+        { "text": "🗝️ Chave reserva — ninguém sabe por que está ali, mas um dia faz falta", "points": { "o_aparecedor": 0.8, "o_inteligente": 0.5 } },
+        { "text": "🎵 Fone de ouvido — discreto, essencial e com playlist pra cada humor", "points": { "o_ciclista": 0.7, "o_emoji_lord": 0.5 } },
+        { "text": "🍫 Chocolate — resolve problema emocional e todo mundo fica feliz", "points": { "o_animador": 0.8, "o_barman": 0.5 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "o_aparecedor": {
+      "title": "O Aparecedor",
+      "emoji": "🪄",
+      "subtitle": "Mestre do Surgimento Aleatório",
+      "text": "Você tem o dom raro de aparecer exatamente quando ninguém esperava — e ser exatamente o que todo mundo precisava. Sem aviso, sem contexto, com energia total. O universo te usa como ferramenta de intervenção divina em festas, bares e situações de crise existencial."
+    },
+    "o_ciclista": {
+      "title": "O Ciclista",
+      "emoji": "🚲",
+      "subtitle": "Explorador de Duas Rodas",
+      "text": "Você enxerga o mundo de um ângulo que os outros perdem porque estão presos em carros ou no sofá. Sua leveza é literal: você anda, pedala, se move. A cidade é seu playground e você chega em lugares que o Google Maps nem sabe que existem."
+    },
+    "o_emoji_lord": {
+      "title": "O Emoji Lord",
+      "emoji": "🛺",
+      "subtitle": "Tradutor do Universo em Emojis",
+      "text": "Onde outros usam palavras, você usa 🛺🌊🎭. Sua comunicação é uma obra de arte abstrata que só os iluminados conseguem decifrar — e quando decifram, percebem que era a coisa mais engraçada e precisa que alguém poderia dizer. Você é bilíngue: português e emoji."
+    },
+    "o_barman": {
+      "title": "O Espírito do Boteco",
+      "emoji": "🍺",
+      "subtitle": "Guardião das Mesas de Bar",
+      "text": "Você tem um magnetismo especial com cadeiras de plástico, petiscos duvidosos e conversas que começam com 'deixa eu te contar uma coisa'. Em qualquer bar do mundo, você já é frequentador VIP na segunda visita. Seu superpoder é transformar qualquer mesa em lar."
+    },
+    "a_bolsa_magica": {
+      "title": "A Bolsa Mágica",
+      "emoji": "🎒",
+      "subtitle": "O Hermione de Bolsa Sempre Pronta",
+      "text": "Carregador? Tem. Analgésico? Tem. Aquele cabo específico que ninguém usa mais desde 2017? Também tem. Você é o tipo de pessoa que faz todo mundo se sentir seguro só de estar por perto — porque se der errado, você tira a solução da bolsa. Literalmente."
+    },
+    "o_inteligente": {
+      "title": "O Cérebro Ligado",
+      "emoji": "🧠",
+      "subtitle": "O Que Pensa Antes de Todo Mundo Perceber",
+      "text": "Você processa tudo numa velocidade que os outros chamam de 'sorte' — mas na verdade é pura inteligência disfarçada de descontração. Sua cabeça nunca desliga de verdade. Mesmo rindo de bobagem no bar, você já pensou três soluções pro problema que ninguém admitiu ainda."
+    },
+    "o_animador": {
+      "title": "O Animador",
+      "emoji": "🎉",
+      "subtitle": "Motor da Festa e do Ânimo Geral",
+      "text": "Tem lugares que ficam cinzas quando você não aparece. Sua presença muda a temperatura da sala — não precisa fazer nada especial, só chegar já resolve. Você é aquela pessoa que faz todo mundo ficar com vontade de ficar mais um pouquinho."
+    },
+    "o_empata": {
+      "title": "O Empata",
+      "emoji": "🫂",
+      "subtitle": "Radar de Emoções Alheias",
+      "text": "Você sente quando alguém não está bem antes de a pessoa saber disso. Tem um jeito de perguntar 'tá bem?' que não parece protocolo — parece que você realmente quer saber. E quer. Esse é talvez o superpoder mais raro de todos: fazer as pessoas se sentirem vistas de verdade."
+    }
+  }
+}
