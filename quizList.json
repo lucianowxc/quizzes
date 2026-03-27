@@ -574,6 +574,11 @@
       "name": "Qual Propaganda do YouTube Você É?",
       "file": "quizzes/quizPropagandaYouTube.json",
       "description": "Você não pode pular esse quiz. Bem-vindo."
+    },
+    {
+      "name": "Qual Superpoder Secreto do Minoru Você Tem?",
+      "file": "quizzes/quizSuperpodereMinoru.json",
+      "description": "Descubra qual faceta desse ser iluminado vive dentro de você 🛺✨"
     }
   ]
 }
