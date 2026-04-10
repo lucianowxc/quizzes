@@ -579,6 +579,11 @@
       "name": "Qual Superpoder Secreto do Minoru Você Tem?",
       "file": "quizzes/quizSuperpodereMinoru.json",
       "description": "Descubra qual faceta desse ser iluminado vive dentro de você 🛺✨"
+    },
+    {
+      "name": "Qual Tipo de Fofoqueiro Você É?",
+      "file": "quizzes/quizFofoqueiro.json",
+      "description": "Descubra qual é o seu estilo fofoqueiro — e não adianta fingir que você não fofoca 👀"
     }
   ]
 }
