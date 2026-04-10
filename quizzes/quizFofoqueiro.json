@@ -1,0 +1,132 @@
+{
+  "title": "Qual Tipo de Fofoqueiro Você É?",
+  "subtitle": "Descubra qual é o seu estilo fofoqueiro — e não adianta fingir que você não fofoca 👀",
+  "questions": [
+    {
+      "question": "Alguém te conta uma fofoca bombástica. O que você faz primeiro?",
+      "answers": [
+        { "text": "Já repasso pra três pessoas antes de desligar a ligação", "points": { "profissional": 1, "acidental": 0.7 } },
+        { "text": "Pergunto mais detalhes com um ar de 'que triste, né?'", "points": { "discreto": 1, "santinho": 0.6 } },
+        { "text": "Peço print, foto, evidência e áudio", "points": { "investigativo": 1 } },
+        { "text": "Começo a encenar como se fosse uma cena de novela", "points": { "dramatico": 1 } },
+        { "text": "Falo 'ai meu Deus, vou rezar por ela'", "points": { "santinho": 1, "discreto": 0.4 } },
+        { "text": "Digo 'calma, me dá contexto. Quem é essa pessoa mesmo?'", "points": { "enrolao": 1 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua frase mais clássica antes de fofoca?",
+      "answers": [
+        { "text": "'Juro que não vou contar pra ninguém' (mentira)", "points": { "profissional": 0.8, "acidental": 1 } },
+        { "text": "'Olha, eu nem devia tá falando isso, mas...'", "points": { "discreto": 1, "santinho": 0.5 } },
+        { "text": "'Estou preocupada com ela, preciso compartilhar'", "points": { "santinho": 1 } },
+        { "text": "'GENTE, você NÃO VAI ACREDITAR!'", "points": { "dramatico": 1, "profissional": 0.5 } },
+        { "text": "'Deixa eu verificar uma coisa antes de falar'", "points": { "investigativo": 1 } },
+        { "text": "'Então... pra você entender, tudo começou em 2018...'", "points": { "enrolao": 1 } }
+      ]
+    },
+    {
+      "question": "Como você reage quando a fofoca que você contou volta distorcida?",
+      "answers": [
+        { "text": "Faço um release oficial com a versão correta", "points": { "profissional": 1 } },
+        { "text": "Finjo que não sei de nada e ouço calado", "points": { "discreto": 1, "santinho": 0.4 } },
+        { "text": "'Gente, eu falei isso com amor e oração!'", "points": { "santinho": 1 } },
+        { "text": "Fico indignado e reenceno a história com mais drama ainda", "points": { "dramatico": 1 } },
+        { "text": "Apresento provas de que minha versão era a correta", "points": { "investigativo": 1 } },
+        { "text": "'Ai meu Deus, era segredo?!' (de novo)", "points": { "acidental": 1 } },
+        { "text": "Levo 40 minutos explicando exatamente o que você quis dizer", "points": { "enrolao": 1 } }
+      ]
+    },
+    {
+      "question": "Alguém te pede pra guardar segredo. Quanto tempo você aguenta?",
+      "answers": [
+        { "text": "Até chegar no carro. Depois ligo pra alguém", "points": { "profissional": 1, "acidental": 0.8 } },
+        { "text": "Guardo, mas faço cara de mistério até alguém perguntar", "points": { "discreto": 1 } },
+        { "text": "Guardo, mas peço oração coletiva sem citar nomes (cito)", "points": { "santinho": 1 } },
+        { "text": "Guardo até achar uma plateia à altura da história", "points": { "dramatico": 1 } },
+        { "text": "Guardo e uso pra pesquisa interna apenas", "points": { "investigativo": 1 } },
+        { "text": "Nem chego em casa. Já contei no caminho sem querer", "points": { "acidental": 1 } },
+        { "text": "Guardo por anos mas quando conta, leva horas", "points": { "enrolao": 1 } }
+      ]
+    },
+    {
+      "question": "Qual é seu papel no grupo quando rola uma treta?",
+      "answers": [
+        { "text": "Analista-chefe: já sei de tudo antes de todo mundo", "points": { "profissional": 1, "investigativo": 0.5 } },
+        { "text": "Conselheiro que 'só ouvia' mas alimentou o fogo", "points": { "discreto": 1 } },
+        { "text": "Intercessor espiritual da situação", "points": { "santinho": 1 } },
+        { "text": "Narrador dramático que faz a treta parecer maior", "points": { "dramatico": 1 } },
+        { "text": "Perito forense: analisa cada detalhe com lupa", "points": { "investigativo": 1 } },
+        { "text": "Aquele que sem querer piorou tudo", "points": { "acidental": 1 } },
+        { "text": "Aquele que ainda está explicando o começo da treta", "points": { "enrolao": 1 } }
+      ]
+    },
+    {
+      "question": "Como você descreveria seu método de fofoca?",
+      "answers": [
+        { "text": "Rápido, preciso e sem arrependimento", "points": { "profissional": 1 } },
+        { "text": "Sutil. Você nem percebe que estou fofoqueando", "points": { "discreto": 1 } },
+        { "text": "Compassivo. É tudo no amor", "points": { "santinho": 1 } },
+        { "text": "Teatral. Cada história merece uma performance", "points": { "dramatico": 1 } },
+        { "text": "Baseado em evidências. Nada de achismo", "points": { "investigativo": 1 } },
+        { "text": "Involuntário. Acontece sem eu querer", "points": { "acidental": 1 } },
+        { "text": "Detalhado. Muito detalhado. Extremamente detalhado", "points": { "enrolao": 1 } }
+      ]
+    },
+    {
+      "question": "Qual meme te representa na hora de fofoca?",
+      "answers": [
+        { "text": "A Nazaré Tedesco calculando tudo 🧮", "points": { "profissional": 1, "investigativo": 0.6 } },
+        { "text": "O cachorro tomando café com o fogo atrás 🐶☕", "points": { "discreto": 1, "santinho": 0.5 } },
+        { "text": "A Edir Macedo pedindo oração 🙏", "points": { "santinho": 1 } },
+        { "text": "A loira do WHAT?! de boca aberta 😱", "points": { "dramatico": 1 } },
+        { "text": "O homem apontando pra TV com cara séria 🧐", "points": { "investigativo": 1 } },
+        { "text": "O bebê chorando com legenda 'não era pra falar?'", "points": { "acidental": 1 } },
+        { "text": "A tartaruga andando com legenda 'já já eu conto'", "points": { "enrolao": 1 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "profissional": {
+      "title": "O Fofoqueiro Profissional",
+      "emoji": "🔥",
+      "subtitle": "Minha fonte? Confio cegamente",
+      "text": "Você não fofoca por mal — você fofoca por vocação. Tem uma rede de informantes que a CIA invejaria e nunca deixa um segredo escapar sem análise aprofundada. Você é a CNN das relações humanas: sempre ao vivo, sempre primeiro."
+    },
+    "discreto": {
+      "title": "O Fofoqueiro Discreto",
+      "emoji": "🤫",
+      "subtitle": "Eu não falei nada, mas...",
+      "text": "Passa a vida fingindo que não liga pra fofoca, mas é o primeiro a chegar com as novidades. Especialista em fazer o outro contar tudo enquanto parece que está só ouvindo por obrigação. Inocente? Jamais."
+    },
+    "santinho": {
+      "title": "O Fofoqueiro Santinho",
+      "emoji": "😇",
+      "subtitle": "Estou falando isso só pra você rezar por ela",
+      "text": "Fofoca com uma bíblia na mão e preocupação no rosto. Disfarça tudo como apoio emocional e oração coletiva. Parece o mais inocente do grupo — e é exatamente por isso que é o mais perigoso de todos."
+    },
+    "dramatico": {
+      "title": "O Fofoqueiro Dramático",
+      "emoji": "🎭",
+      "subtitle": "Você não vai acreditar no que eu vi!",
+      "text": "Cada fofoca vira um monólogo de novela. Gesticula, muda de voz, recria os diálogos com riqueza de detalhes. Se a história for chata, não importa — na sua boca vira candidata ao Oscar. O mundo é seu palco."
+    },
+    "investigativo": {
+      "title": "O Fofoqueiro Investigativo",
+      "emoji": "🕵️",
+      "subtitle": "Não bate, deixa eu checar o Instagram dela de 2019",
+      "text": "Não aceita fofoca sem provas. Faz stalk, compara stories, analisa curtidas e monta linha do tempo no Notion. Estagiário não-oficial do FBI. Nenhum caso fica em aberto — nenhum mesmo."
+    },
+    "acidental": {
+      "title": "O Fofoqueiro Acidental",
+      "emoji": "😬",
+      "subtitle": "Ai, era segredo?!",
+      "text": "Não tem maldade nenhuma — só uma boca que funciona 3 segundos antes do cérebro. Já destruiu surpresas, revelou nomes de bebê e entregou festas surpresa sem querer. Repetidamente. As pessoas ainda te contam segredos por algum motivo."
+    },
+    "enrolao": {
+      "title": "O Fofoqueiro Enrolão",
+      "emoji": "🐌",
+      "subtitle": "Espera, deixa eu te dar contexto desde 2015...",
+      "text": "Tem uma fofoca INCRÍVEL pra contar, mas antes precisa explicar quem é a pessoa, a história da família dela, o signo, o ex e o contexto geopolítico. Quando finalmente chega no ponto, todo mundo já foi embora. A fofoca era boa, juro."
+    }
+  }
+}
