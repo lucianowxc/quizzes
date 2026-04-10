@@ -584,6 +584,11 @@
       "name": "Qual Tipo de Fofoqueiro Você É?",
       "file": "quizzes/quizFofoqueiro.json",
       "description": "Descubra qual é o seu estilo fofoqueiro — e não adianta fingir que você não fofoca 👀"
+    },
+    {
+      "name": "Qual Bombom da Caixa Garoto Você Seria?",
+      "file": "quizzes/quizBombom.json",
+      "description": "Descubra qual bombom da caixa mais famosa do Brasil combina com a sua personalidade 🍫"
     }
   ]
 }
