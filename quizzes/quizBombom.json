@@ -1,0 +1,144 @@
+{
+  "title": "Qual Bombom da Caixa Garoto Você Seria?",
+  "subtitle": "Descubra qual bombom da caixa mais famosa do Brasil combina com a sua personalidade 🍫",
+  "questions": [
+    {
+      "question": "Você chega numa festa. O que acontece?",
+      "answers": [
+        { "text": "Todo mundo me chama pelo nome e fica feliz que eu vim", "points": { "serenata": 1, "baton": 0.5 } },
+        { "text": "Fico no canto até alguém me descobrir — aí viram fãs", "points": { "caribe": 1, "itcoco": 0.7 } },
+        { "text": "Chego e já começa a briga pra ficar do meu lado", "points": { "crocante": 1 } },
+        { "text": "Apareço em todos os lugares ao mesmo tempo de algum jeito", "points": { "baton": 1 } },
+        { "text": "Entro com uma elegância que intimida todo mundo", "points": { "opereta": 1, "sonhodevalsa": 0.8 } },
+        { "text": "Chego numa festa de outro grupo sem ser convidado e ninguém me expulsa", "points": { "sonhodevalsa": 1 } },
+        { "text": "As pessoas olham torto no começo, mas no fim sou o assunto da noite", "points": { "surreal": 1, "itcoco": 0.6 } }
+      ]
+    },
+    {
+      "question": "Qual é sua relação com as regras?",
+      "answers": [
+        { "text": "Sigo todas — e as pessoas me amam por isso", "points": { "serenata": 1, "baton": 0.4 } },
+        { "text": "Sigo as minhas próprias, obrigado", "points": { "caribe": 1, "sonhodevalsa": 0.7 } },
+        { "text": "Que regras? Eu sou a diversão", "points": { "crocante": 1 } },
+        { "text": "Adapto conforme a situação, sem drama", "points": { "baton": 1, "surreal": 0.5 } },
+        { "text": "Tenho padrões elevados e não abro exceção", "points": { "opereta": 1, "sonhodevalsa": 0.6 } },
+        { "text": "Regras são pra quem não tem personalidade forte", "points": { "sonhodevalsa": 1 } },
+        { "text": "Antes eu seguia tudo, hoje faço do meu jeito", "points": { "surreal": 1 } },
+        { "text": "Prefiro existir quieto no meu mundinho de coco", "points": { "itcoco": 1 } }
+      ]
+    },
+    {
+      "question": "Como as pessoas te descrevem pra quem não te conhece?",
+      "answers": [
+        { "text": "'É o clássico, todo mundo gosta'", "points": { "serenata": 1, "baton": 0.5 } },
+        { "text": "'É diferente, mas você tem que experimentar'", "points": { "caribe": 1, "itcoco": 0.8 } },
+        { "text": "'É o melhor, mas some rápido'", "points": { "crocante": 1 } },
+        { "text": "'Tá em todo lugar, você já deve conhecer'", "points": { "baton": 1 } },
+        { "text": "'É refinado, não é pra qualquer paladar'", "points": { "opereta": 1, "sonhodevalsa": 0.7 } },
+        { "text": "'Honestamente? Não sei bem como explicar'", "points": { "sonhodevalsa": 1, "itcoco": 0.5 } },
+        { "text": "'Antes ninguém ligava, hoje todo mundo disputa'", "points": { "surreal": 1 } }
+      ]
+    },
+    {
+      "question": "O que você faz quando sobra o último de você na caixa?",
+      "answers": [
+        { "text": "Impossível — nunca sobro. Isso não acontece", "points": { "serenata": 1, "crocante": 0.8 } },
+        { "text": "Fico ali esperando alguém corajoso me dar uma chance", "points": { "caribe": 1, "itcoco": 0.7 } },
+        { "text": "Provoco uma guerra silenciosa entre os presentes", "points": { "crocante": 1 } },
+        { "text": "Alguém sempre me leva no bolso pra mais tarde", "points": { "baton": 1 } },
+        { "text": "Fico ali com dignidade. Quem me merecer vai pegar", "points": { "opereta": 1 } },
+        { "text": "Sobro porque ninguém entende o que eu sou", "points": { "sonhodevalsa": 1, "itcoco": 0.6 } },
+        { "text": "Alguém mais velho sempre me resgata no final", "points": { "surreal": 1 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu maior defeito?",
+      "answers": [
+        { "text": "Sou tão querido que as expectativas são altas demais", "points": { "serenata": 1 } },
+        { "text": "Não sou pra todo mundo e às vezes isso machuca", "points": { "caribe": 1, "itcoco": 0.6 } },
+        { "text": "Some rápido e deixa todo mundo com saudade", "points": { "crocante": 1 } },
+        { "text": "Estou em todo lugar mas fundo em lugar nenhum", "points": { "baton": 1 } },
+        { "text": "Tenho dificuldade de me misturar com pessoas simples", "points": { "opereta": 1, "sonhodevalsa": 0.8 } },
+        { "text": "Tecnicamente não deveria estar aqui", "points": { "sonhodevalsa": 1 } },
+        { "text": "Demorei demais pra ser reconhecido", "points": { "surreal": 1 } },
+        { "text": "As pessoas precisam de muito contexto pra me entender", "points": { "itcoco": 1 } }
+      ]
+    },
+    {
+      "question": "Qual frase te representa melhor?",
+      "answers": [
+        { "text": "'Sou o favorito de todo mundo, inclusive da sua avó'", "points": { "serenata": 1, "baton": 0.4 } },
+        { "text": "'Vim do trópico pra te surpreender'", "points": { "caribe": 1 } },
+        { "text": "'Toque em mim e descubra por que brigam por mim'", "points": { "crocante": 1 } },
+        { "text": "'To no bolso, na gaveta, no carro e na sua mente'", "points": { "baton": 1 } },
+        { "text": "'Castanha-de-caju não é pra amadores'", "points": { "opereta": 1 } },
+        { "text": "'Não sei como vim parar aqui, mas fica'", "points": { "sonhodevalsa": 1 } },
+        { "text": "'Fui ignorado por anos. Agora cobro com juros'", "points": { "surreal": 1 } },
+        { "text": "'Coco é subestimado e eu sou a prova disso'", "points": { "itcoco": 1 } }
+      ]
+    },
+    {
+      "question": "Alguém abre a caixa e te vê. Qual é a reação?",
+      "answers": [
+        { "text": "'Ótimo, esse é o melhor!' — e já pega logo", "points": { "serenata": 1, "crocante": 0.6 } },
+        { "text": "'Ah, esse aqui... bom, vou tentar' — e fica surpreso", "points": { "caribe": 1, "itcoco": 0.8 } },
+        { "text": "'NÃO TOCA, é meu!' — luta física iminente", "points": { "crocante": 1 } },
+        { "text": "'Ah, o Baton! Clássico' — já conhece de cor", "points": { "baton": 1 } },
+        { "text": "'Esse eu guardo pro final, merece atenção'", "points": { "opereta": 1 } },
+        { "text": "'Espera... isso não é Garoto. O que está acontecendo?'", "points": { "sonhodevalsa": 1 } },
+        { "text": "'Esse? Deixa pra mim, ninguém mais vai querer'", "points": { "surreal": 1 } },
+        { "text": "'Coco? Hmm... por que não' — e se arrepende de ter duvidado", "points": { "itcoco": 1 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "serenata": {
+      "title": "Serenata de Amor",
+      "emoji": "🍪",
+      "subtitle": "O clássico irresistível",
+      "text": "Todo mundo te ama e ninguém consegue te resistir. Você é aquela pessoa calorosa e confiável que conquista até quem diz que não gosta. Some primeiro na caixa e no coração das pessoas — e nunca sobra pra ninguém reclamar."
+    },
+    "caribe": {
+      "title": "Caribe",
+      "emoji": "🍌",
+      "subtitle": "O tropical que divide opiniões",
+      "text": "Você é incrível, mas não é pra todo mundo — e tudo bem. Quem te conhece de verdade é fã incondicional. Os outros só não chegaram lá ainda. Carrega uma energia tropical e despreocupada que ninguém esperava encontrar, mas quem prova não esquece."
+    },
+    "crocante": {
+      "title": "Crocante",
+      "emoji": "🥜",
+      "subtitle": "O favorito que todo mundo briga",
+      "text": "Você é o favorito secreto de todo mundo. Disputado, cobiçado e some antes de qualquer um notar. Divertido, barulhento do jeito certo, e com uma energia que contagia qualquer ambiente. Quando acaba, todo mundo pergunta onde foi."
+    },
+    "baton": {
+      "title": "Baton",
+      "emoji": "🍫",
+      "subtitle": "O que vive no bolso de todo mundo",
+      "text": "Você está em todo lugar ao mesmo tempo. Prático, fácil de amar e sem frescura nenhuma. É o tipo de pessoa que todo mundo tem salvo nos favoritos dos contatos — e recorre a você nos momentos mais inesperados do dia."
+    },
+    "itcoco": {
+      "title": "It Coco",
+      "emoji": "🌴",
+      "subtitle": "O incompreendido gostoso",
+      "text": "As pessoas olham pra você com desconfiança, experimentam por obrigação e ficam com aquela cara de 'nossa, era bom'. Você é subestimado até o fim — mas quem te dá uma chance real não consegue parar. O segredo mais bem guardado da caixa."
+    },
+    "opereta": {
+      "title": "Opereta",
+      "emoji": "🎭",
+      "subtitle": "O sofisticado da turma",
+      "text": "Você tem padrão. Não aceita qualquer coisa, não é pra qualquer um, e tem aquele ar de quem sabe exatamente o que quer da vida. Elegante sem precisar anunciar, especial sem precisar se explicar. A castanha-de-caju não é pra amadores."
+    },
+    "surreal": {
+      "title": "Surreal",
+      "emoji": "🥜",
+      "subtitle": "O que envelheceu muito bem",
+      "text": "Na infância as pessoas passavam reto por você. Hoje disputam o último da caixa. Com o tempo todo mundo percebe que você é especial — e quem não percebeu ainda está perdendo. Você é prova viva de que alguns clássicos só melhoram com o tempo."
+    },
+    "sonhodevalsa": {
+      "title": "Sonho de Valsa",
+      "emoji": "👑",
+      "subtitle": "O intruso que ninguém expulsou",
+      "text": "Você claramente não pertence a esse grupo — e todo mundo sabe disso, inclusive você. Chegou na caixa Garoto sem convite, sem explicação e sem pedir desculpa. Sofisticado demais, diferente demais, mas ninguém teve coragem de te mandar embora. O mistério permanece."
+    }
+  }
+}
