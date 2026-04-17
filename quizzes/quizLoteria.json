@@ -1,0 +1,386 @@
+{
+  "title": "Qual Teoria Conspiratória da Loteria Você É?",
+  "subtitle": "Descubra qual paranoia do apostador mora dentro de você 🎰",
+  "questions": [
+    {
+      "question": "Como você reage quando o resultado da Mega-Sena sai e você não ganhou?",
+      "answers": [
+        {
+          "text": "🗺️  Verifico de onde vieram os ganhadores imediatamente",
+          "points": {
+            "distribuicao_suspeita": 0.9,
+            "insider_caixa": 0.4
+          }
+        },
+        {
+          "text": "📊  Atualizo minha planilha de frequência dos números",
+          "points": {
+            "numero_frequente": 0.9,
+            "numero_atrasado": 0.3
+          }
+        },
+        {
+          "text": "🕯️  Acho que o ritual não estava completo dessa vez",
+          "points": {
+            "ritual_cosmico": 0.9,
+            "sortudo_nato": 0.2
+          }
+        },
+        {
+          "text": "🍀  Fico tranquilo, semana que vem é a minha",
+          "points": {
+            "sortudo_nato": 0.9,
+            "simulacao": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você tem uma planilha de acompanhamento da loteria?",
+      "answers": [
+        {
+          "text": "📈  Tenho. Com gráfico e tudo. Pivot table também.",
+          "points": {
+            "numero_frequente": 0.9,
+            "numero_atrasado": 0.5
+          }
+        },
+        {
+          "text": "🗒️  Tenho só uma lista dos números 'atrasados'",
+          "points": {
+            "numero_atrasado": 0.9,
+            "numero_frequente": 0.3
+          }
+        },
+        {
+          "text": "🖥️  Não preciso, confio no meu algoritmo mental",
+          "points": {
+            "simulacao": 0.7,
+            "sortudo_nato": 0.5
+          }
+        },
+        {
+          "text": "🌿  Planilha bloqueia a energia. Uso intuição.",
+          "points": {
+            "ritual_cosmico": 0.9,
+            "sortudo_nato": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que passa na sua cabeça quando você preenche uma cartela?",
+      "answers": [
+        {
+          "text": "✏️  Fico olhando os padrões das bolinhas um tempão",
+          "points": {
+            "desenho_cartel": 0.9,
+            "simulacao": 0.3
+          }
+        },
+        {
+          "text": "🌕  Verifico se o dia está propício espiritualmente",
+          "points": {
+            "ritual_cosmico": 0.9,
+            "sortudo_nato": 0.3
+          }
+        },
+        {
+          "text": "🕵️  Penso em quem poderia ter vazado os números",
+          "points": {
+            "insider_caixa": 0.9,
+            "simulacao": 0.4
+          }
+        },
+        {
+          "text": "🎯  Jogo os números que 'aparecem' na minha cabeça",
+          "points": {
+            "sortudo_nato": 0.7,
+            "ritual_cosmico": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você descreveria sua relação com a sorte?",
+      "answers": [
+        {
+          "text": "🍀  Sou uma pessoa de sorte. Os dados me amam.",
+          "points": {
+            "sortudo_nato": 0.9,
+            "ritual_cosmico": 0.2
+          }
+        },
+        {
+          "text": "🔬  Sorte é estatística mal compreendida pelo povo",
+          "points": {
+            "numero_frequente": 0.7,
+            "simulacao": 0.6
+          }
+        },
+        {
+          "text": "🌌  Sorte existe, mas precisa ser cultivada e alinhada",
+          "points": {
+            "ritual_cosmico": 0.9,
+            "sortudo_nato": 0.3
+          }
+        },
+        {
+          "text": "🤝  Sorte é quem você conhece lá dentro da Caixa",
+          "points": {
+            "insider_caixa": 0.9,
+            "distribuicao_suspeita": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você já notou algo 'estranho' nos resultados da loteria?",
+      "answers": [
+        {
+          "text": "🗺️  Sim. Os ganhadores raramente são do Centro-Oeste.",
+          "points": {
+            "distribuicao_suspeita": 0.9,
+            "insider_caixa": 0.3
+          }
+        },
+        {
+          "text": "🖥️  Sim. Parece que evitam os números mais jogados.",
+          "points": {
+            "simulacao": 0.9,
+            "insider_caixa": 0.4
+          }
+        },
+        {
+          "text": "⏳  Sim. Alguns números ficam meses sem sair. Meses.",
+          "points": {
+            "numero_atrasado": 0.9,
+            "numero_frequente": 0.3
+          }
+        },
+        {
+          "text": "😌  Não, nunca parei pra pensar nisso não",
+          "points": {
+            "sortudo_nato": 0.8,
+            "ritual_cosmico": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você pudesse fazer uma pergunta para o funcionário da Caixa, qual seria?",
+      "answers": [
+        {
+          "text": "🕵️  'Você sabe os números antes do sorteio?'",
+          "points": {
+            "insider_caixa": 0.9,
+            "simulacao": 0.3
+          }
+        },
+        {
+          "text": "🗺️  'Vocês publicam a distribuição geográfica dos prêmios?'",
+          "points": {
+            "distribuicao_suspeita": 0.9,
+            "insider_caixa": 0.3
+          }
+        },
+        {
+          "text": "✏️  'As bolinhas são realmente aleatórias ou tem padrão?'",
+          "points": {
+            "desenho_cartel": 0.8,
+            "simulacao": 0.5
+          }
+        },
+        {
+          "text": "🎰  'Quando é que eu ganho?' (pergunta sincera)",
+          "points": {
+            "sortudo_nato": 0.9,
+            "ritual_cosmico": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase melhor descreve sua filosofia de vida?",
+      "answers": [
+        {
+          "text": "🌊  'Tudo acontece por uma razão, inclusive os números'",
+          "points": {
+            "ritual_cosmico": 0.8,
+            "sortudo_nato": 0.4
+          }
+        },
+        {
+          "text": "🔎  'Os padrões estão em tudo. É só saber olhar.'",
+          "points": {
+            "desenho_cartel": 0.8,
+            "numero_frequente": 0.5
+          }
+        },
+        {
+          "text": "🎮  'Estamos num jogo e alguém programa as regras'",
+          "points": {
+            "simulacao": 0.9,
+            "insider_caixa": 0.3
+          }
+        },
+        {
+          "text": "⚖️  'A justiça demora mas não falha. Nem pro número 37.'",
+          "points": {
+            "numero_atrasado": 0.9,
+            "numero_frequente": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas atitudes você tomaria antes de um sorteio importante?",
+      "answers": [
+        {
+          "text": "🕯️  Ritual completo: vela, cristal e meditação guiada",
+          "points": {
+            "ritual_cosmico": 0.9,
+            "sortudo_nato": 0.2
+          }
+        },
+        {
+          "text": "📉  Verifico os números mais atrasados do histórico",
+          "points": {
+            "numero_atrasado": 0.9,
+            "numero_frequente": 0.4
+          }
+        },
+        {
+          "text": "📰  Leio notícias pra ver se tem denúncia de fraude nova",
+          "points": {
+            "insider_caixa": 0.8,
+            "distribuicao_suspeita": 0.5
+          }
+        },
+        {
+          "text": "😎  Não faço nada. A sorte já está do meu lado.",
+          "points": {
+            "sortudo_nato": 0.9,
+            "simulacao": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Um amigo ganhou na loteria. O que você pensa?",
+      "answers": [
+        {
+          "text": "🗺️  'Interessante. Onde ele mora exatamente?'",
+          "points": {
+            "distribuicao_suspeita": 0.9,
+            "insider_caixa": 0.4
+          }
+        },
+        {
+          "text": "🕵️  'Preciso saber em qual lotérica ele jogou.'",
+          "points": {
+            "insider_caixa": 0.9,
+            "distribuicao_suspeita": 0.3
+          }
+        },
+        {
+          "text": "🍀  'Era a hora dele. A minha também vem.'",
+          "points": {
+            "sortudo_nato": 0.9,
+            "ritual_cosmico": 0.2
+          }
+        },
+        {
+          "text": "🖥️  'Ele deve ter jogado os números menos populares.'",
+          "points": {
+            "simulacao": 0.9,
+            "numero_frequente": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que te convenceria de que a loteria é 100% honesta?",
+      "answers": [
+        {
+          "text": "📊  Uma auditoria pública com dados abertos de geolocalização",
+          "points": {
+            "distribuicao_suspeita": 0.9,
+            "simulacao": 0.4
+          }
+        },
+        {
+          "text": "🎥  Câmera 24h dentro da sala das bolinhas com transmissão ao vivo",
+          "points": {
+            "insider_caixa": 0.9,
+            "desenho_cartel": 0.3
+          }
+        },
+        {
+          "text": "🌀  Nada. O sistema é o sistema.",
+          "points": {
+            "simulacao": 0.9,
+            "insider_caixa": 0.4
+          }
+        },
+        {
+          "text": "🏆  Que eu ganhasse. Aí eu acreditaria.",
+          "points": {
+            "sortudo_nato": 0.9,
+            "ritual_cosmico": 0.3
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "distribuicao_suspeita": {
+      "title": "A Distribuição Suspeita",
+      "emoji": "🗺️",
+      "subtitle": "Os prêmios fogem do mapa",
+      "text": "Você já abriu um mapa dos ganhadores da Mega-Sena e percebeu que nenhum mora perto de você? Claro que percebeu. Enquanto todo mundo vê coincidência, você vê estrutura. Os prêmios não seguem a densidade populacional — seguem alguma outra lógica que só você teve a perspicácia de notar. Estatística? Isso é exatamente o que eles querem que você acredite."
+    },
+    "desenho_cartel": {
+      "title": "O Desenho do Cartéu",
+      "emoji": "✏️",
+      "subtitle": "A resposta está nas cartelas",
+      "text": "Você já ficou olhando para uma cartela da loteria tempo demais. Sabe por quê? Porque os padrões estão lá. Os bolinhas formam figuras. As figuras formam mensagens. As mensagens formam... os números da próxima semana. Seus amigos chamam isso de parestesia. Você chama de visão privilegiada. Quem vai estar rindo quando acertar a quina?"
+    },
+    "numero_frequente": {
+      "title": "O Frequentista Iludido",
+      "emoji": "📊",
+      "subtitle": "Histórico não mente (mente sim)",
+      "text": "Você tem uma planilha. Provavelmente duas. Os números que mais saíram nos últimos 10 anos estão destacados em amarelo. Sua lógica é impecável: se o 10 saiu 47 vezes, ele claramente tem uma predisposição existencial para continuar saindo. A Lei dos Grandes Números discordaria, mas a Lei dos Grandes Números não tem uma planilha tão bonita quanto a sua."
+    },
+    "numero_atrasado": {
+      "title": "O Caçador de Atrasados",
+      "emoji": "⏳",
+      "subtitle": "A hora deles vai chegar",
+      "text": "O número 23 não sai há 8 meses. Isso não é azar — é uma DÍVIDA CÓSMICA. O universo deve ao 23 uma aparição, e você vai estar lá para cobrar. Enquanto os fracos jogam nos quentes, você joga nos frios, nos esquecidos, nos injustiçados. Você não é só apostador. Você é um agente da justiça numérica. Nobre demais para esse mundo."
+    },
+    "ritual_cosmico": {
+      "title": "O Ritual Cósmico",
+      "emoji": "🌕",
+      "subtitle": "Lua cheia, bolso cheio",
+      "text": "Você não joga em qualquer dia. Espera a Lua crescente, alinha os cristais, acende a vela verde (nunca a amarela, pelo amor de Deus), e só então preenche a cartela com a mão não-dominante enquanto pensa em abundância. Funcionou alguma vez? Não. Mas na vez que não fez o ritual, também não ganhou — o que tecnicamente prova que o ritual é necessário."
+    },
+    "insider_caixa": {
+      "title": "O Insider da Caixa",
+      "emoji": "🕵️",
+      "subtitle": "Alguém sabe. Sempre soube.",
+      "text": "Pensa bem: alguém tem que operar aquelas bolinhas. Alguém tem que programar o sistema. Alguém tem que conferir os resultados. Essas pessoas têm família. Família tem amigos. Amigos têm amigos. Em algum ponto dessa cadeia, existe um vazamento. Você ainda não encontrou esse ponto — mas está chegando lá. Só precisa de mais tempo, mais fóruns, e talvez um varal com fotos e barbante vermelho."
+    },
+    "simulacao": {
+      "title": "Vivemos numa Simulação",
+      "emoji": "🖥️",
+      "subtitle": "O algoritmo é manipulado",
+      "text": "Não é nem que a Caixa frauda. É pior: os próprios números são gerados por uma IA que otimiza a arrecadação. Ela sabe quais números as pessoas mais jogam e evita esses. É matemática pura — mas a favor deles. Sua solução? Jogar os números que ninguém joga. Seus amigos não entendem sua estratégia. Mas Elon Musk, que também acha que vivemos numa simulação, provavelmente entenderia."
+    },
+    "sortudo_nato": {
+      "title": "O Sortudo Nato",
+      "emoji": "🍀",
+      "subtitle": "Nasceu pra ganhar. Só ainda não aconteceu.",
+      "text": "Você já encontrou dinheiro no bolso do casaco. Você já pegou sinal de Wi-Fi no meio do nada. Uma vez um pombo quase te acertou e errou por centímetros — isso é sorte, não acidente. Você não precisa de estratégia, planilha ou ritual. Você simplesmente vai ganhar. É uma questão de quando, não de se. O universo tem um débito aberto com você e você vai cobrar na janela do lotérico."
+    }
+  }
+}
