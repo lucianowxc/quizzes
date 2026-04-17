@@ -1,0 +1,138 @@
+{
+  "title": "🍬 Quem é você na bacia de doces?",
+  "subtitle": "Descubra qual bala combina com sua personalidade (sem precisar desembrulhar)",
+  "questions": [
+    {
+      "question": "🛋️ Você tá num sofá com um pacote fechado de algo gostoso. O que você faz?",
+      "answers": [
+        { "text": "🦷 Abro, como dois e guardo o resto pra 'depois' (mentira)", "points": { "caramelo": 0.6, "morango": 0.3 } },
+        { "text": "📦 Rasgo o pacote inteiro e acabo com tudo em 5 minutos", "points": { "canela": 0.7, "azeda": 0.2 } },
+        { "text": "🧐 Leio os ingredientes antes de decidir se mereço", "points": { "menta": 0.7, "cafe": 0.2 } },
+        { "text": "🫥 Deixo lá. Amanhã eu vejo. (spoiler: não vejo)", "points": { "leite": 0.8 } }
+      ]
+    },
+    {
+      "question": "🚗 Você tá no trânsito e alguém fecha seu carro. Sua alma geme:",
+      "answers": [
+        { "text": "😤 'VAI TOMAR NO...' — mas só no pensamento", "points": { "cafe": 0.6, "canela": 0.3 } },
+        { "text": "😂 Dou risada e mostro o dedo pelo vidro fechado", "points": { "azeda": 0.8 } },
+        { "text": "🌿 Respiro fundo e penso 'talvez ele esteja indo pro hospital'", "points": { "menta": 0.9 } },
+        { "text": "📸 Tiro foto da placa e mando no grupo da família", "points": { "caramelo": 0.5, "morango": 0.4 } }
+      ]
+    },
+    {
+      "question": "🛒 Você vai num mercado e vê uma fila gigante. Você...",
+      "answers": [
+        { "text": "🚶 Vou embora e compro na padaria da esquina", "points": { "canela": 0.6, "azeda": 0.3 } },
+        { "text": "📱 Encosto no carrinho e fico rolando o TikTok", "points": { "leite": 0.7, "morango": 0.2 } },
+        { "text": "👑 Passo na frente 'só pra ver uma coisinha'", "points": { "caramelo": 0.8 } },
+        { "text": "🧮 Calculo se o tempo perdido vale o desconto", "points": { "cafe": 0.7, "menta": 0.2 } }
+      ]
+    },
+    {
+      "question": "🎁 Alguém te dá um presente claramente reaproveitado. Você:",
+      "answers": [
+        { "text": "🙂 'Ah, que legal...' com sorriso de canto", "points": { "morango": 0.7, "leite": 0.2 } },
+        { "text": "🔥 'Sério que você me deu ISSO?'", "points": { "canela": 0.8 } },
+        { "text": "📦 Guarda no armário e doa pro bazar da igreja", "points": { "cafe": 0.6, "menta": 0.3 } },
+        { "text": "🎭 Posta no Instagram 'olha que ganhei' com indireta", "points": { "azeda": 0.7, "caramelo": 0.2 } }
+      ]
+    },
+    {
+      "question": "🧹 Você chega em casa depois de um dia longo. O que te define?",
+      "answers": [
+        { "text": "🛋️ 'Só 5 minutinhos' (viram 3h de Netflix)", "points": { "leite": 0.8 } },
+        { "text": "☕ 'Vou tomar algo quente e fingir que tenho energia'", "points": { "cafe": 0.7, "menta": 0.2 } },
+        { "text": "🏃‍♂️ Troco de roupa e saio de novo porque 'a noite é jovem'", "points": { "caramelo": 0.6, "canela": 0.3 } },
+        { "text": "🍋 Tiro foto do trânsito e legendas 'alguém me socorre'", "points": { "azeda": 0.7, "morango": 0.2 } }
+      ]
+    },
+    {
+      "question": "📱 Você tá num grupo do WhatsApp que não aguenta mais. Você:",
+      "answers": [
+        { "text": "🔇 Silencia por 1 ano e finge que não existe", "points": { "leite": 0.7, "eucalipto": 0.2 } },
+        { "text": "🎤 Sai do grupo com 'foi bom enquanto durou'", "points": { "canela": 0.8 } },
+        { "text": "😂 Manda meme até todo mundo sair e sobrar só você", "points": { "azeda": 0.9 } },
+        { "text": "📢 Começa a dar bronca geral 'gente isso aqui não é bagunça'", "points": { "menta": 0.7, "eucalipto": 0.2 } }
+      ]
+    },
+    {
+      "question": "🏠 Você combina de fazer um jantar em casa com amigos. Na hora H, você:",
+      "answers": [
+        { "text": "🍕 Pede delivery porque 'esqueceu' de comprar os ingredientes", "points": { "morango": 0.6, "leite": 0.3 } },
+        { "text": "👩‍🍳 Faz tudo do zero e ainda manda foto no story", "points": { "caramelo": 0.7, "menta": 0.2 } },
+        { "text": "🔥 'Cada um traz uma coisa, eu faço o arroz'", "points": { "canela": 0.6, "azeda": 0.3 } },
+        { "text": "🥫 Abre uma lata de sardinha e diz 'temos que ser humildes'", "points": { "eucalipto": 0.7, "cafe": 0.2 } }
+      ]
+    },
+    {
+      "question": "📦 Você abre a geladeira e vê algo de 3 semanas atrás. Você:",
+      "answers": [
+        { "text": "👃 Cheira, dá uma fungada e decide que 'ainda vai'", "points": { "caramelo": 0.6, "canela": 0.3 } },
+        { "text": "🗑️ Joga fora sem nem abrir (covardia? sim)", "points": { "menta": 0.7, "leite": 0.2 } },
+        { "text": "📸 Manda foto no grupo 'alguém identifica isso?'", "points": { "azeda": 0.8 } },
+        { "text": "🍽️ Come. O que poderia dar errado?", "points": { "cafe": 0.6, "eucalipto": 0.3 } }
+      ]
+    },
+    {
+      "question": "🎧 Você tá no transporte público. Alguém come algo fedido do lado. Você:",
+      "answers": [
+        { "text": "😷 Coloca a máscara (que sorte que ainda tenho uma)", "points": { "menta": 0.6, "leite": 0.3 } },
+        { "text": "🗣️ 'AMIGO, ISSO É COMIDA OU ARMA QUÍMICA?'", "points": { "canela": 0.7, "azeda": 0.2 } },
+        { "text": "🚶 Troca de lugar dramaticamente", "points": { "cafe": 0.6, "morango": 0.3 } },
+        { "text": "🍋 Tira foto e posta no Twitter com #odores", "points": { "azeda": 0.8 } }
+      ]
+    },
+    {
+      "question": "📺 Você vai maratonar uma série. Como escolhe?",
+      "answers": [
+        { "text": "⭐ Vou no mais famoso porque 'se todo mundo gosta...'", "points": { "morango": 0.7, "caramelo": 0.2 } },
+        { "text": "🎲 Fecho os olhos e clico em qualquer coisa (sorte é emoção)", "points": { "canela": 0.6, "azeda": 0.3 } },
+        { "text": "📋 Pesquiso avaliações, Rotten Tomatoes, e depois desisto", "points": { "cafe": 0.7, "menta": 0.2 } },
+        { "text": "🔄 Reassisto a mesma série de sempre pela 5ª vez", "points": { "leite": 0.8 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "caramelo": {
+      "title": "🍬 Bala de Caramelo",
+      "subtitle": "🥇 A rainha da bacia",
+      "text": "Você é grudento(a), todo mundo te ama, mas cuidado: muito de você enjoa. É o tipo de pessoa que chega e já vira o centro das atenções, mas também cansa se não der espaço. Na vida, é quem organiza os rolês e traz sobremesa. Só não peça pra dividir a última fatia de pizza."
+    },
+    "menta": {
+      "title": "🌿 Bala de Menta",
+      "subtitle": "🥈 O hálito fresco da razão",
+      "text": "Direto(a), refrescante, resolve treta sem perder a elegância. Você é aquela pessoa que fala 'vamos resolver com calma' enquanto todo mundo surta. Deixa um rastro de clareza onde passa. Mas confesse: às vezes você é chatinho(a) com perfeccionismo."
+    },
+    "canela": {
+      "title": "🔥 Bala de Canela",
+      "subtitle": "🥉 Picante e imprevisível",
+      "text": "Não é pra qualquer um. Você é intenso(a), ardido(a) no bom sentido, e quem te subestima se queima. Adora um debate acalorado e toma atitudes que os outros têm medo. No rolê, é quem pede a comida mais apimentada do cardápio. Seu lema: 'ou me ama ou me evita'."
+    },
+    "cafe": {
+      "title": "☕ Bala de Café",
+      "subtitle": "🎖️ Amarga mas necessária",
+      "text": "Você é a pessoa que já tomou 3 cafés antes das 9h. Sofisticado(a)? Talvez. Amargurado(a)? Só um pouco. Os outros podem não te entender, mas sabem que sem você o rolê não anda. Você é adulto(a) funcional demais pra draminha."
+    },
+    "morango": {
+      "title": "🍓 Bala de Morango",
+      "subtitle": "🔄 O clássico esquecido",
+      "text": "Todo mundo gosta de você... em tese. Ninguém te odeia, mas ninguém te coloca no topo das favoritas. Você é confiável, agradável, mas tem um pequeno problema: não marca território. É quem faz as coisas bem feitas mas nunca é o centro das atenções."
+    },
+    "azeda": {
+      "title": "🍋 Bala Azeda",
+      "subtitle": "😜 A debocheira da firma",
+      "text": "Você tem uma língua afiada e um senso de humor duvidoso. Faz os outros rirem, mas também faz careta. É ácido(a) na medida certa: corta climão com uma piada, mas às vezes exagera. No grupo do Zap, é quem manda meme às 23h."
+    },
+    "leite": {
+      "title": "🥛 Bala de Leite",
+      "subtitle": "👻 O fantasma do rolê",
+      "text": "Você está ali. Existe. Mas ninguém lembra seu nome na roda de quem fez algo memorável. É suave, não briga, não se destaca. No almoço, come na mesa de canto. Você já aceitou que é coadjuvante e, honestamente, está em paz com isso."
+    },
+    "eucalipto": {
+      "title": "🌲 Bala de Eucalipto",
+      "subtitle": "🚫 A rejeitada da bacia",
+      "text": "Você chegou sem ser convidado(a). Todo mundo torce o nariz. Tem função? Até tem. Mas ninguém pede. É aquela pessoa que manda áudio de 3 minutos no grupo ou pergunta óbvia na roda. Você é necessário? Talvez. Querido? Nem um pouco."
+    }
+  }
+}
