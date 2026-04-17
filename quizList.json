@@ -594,6 +594,11 @@
       "name": "Qual Teoria Conspiratória da Loteria Você É?",
       "file": "quizzes/quizLoteria.json",
       "description": "Descubra qual paranoia do apostador mora dentro de você 🎰"
+    },
+    {
+      "name": "🍬 Quem é você na bacia de doces?",
+      "file": "quizzes/quizBaciaDeDoces.json",
+      "description": "Descubra qual bala combina com sua personalidade (sem precisar desembrulhar)"
     }
   ]
 }
