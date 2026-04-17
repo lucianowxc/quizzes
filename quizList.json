@@ -589,6 +589,11 @@
       "name": "Qual Bombom da Caixa Garoto Você Seria?",
       "file": "quizzes/quizBombom.json",
       "description": "Descubra qual bombom da caixa mais famosa do Brasil combina com a sua personalidade 🍫"
+    },
+    {
+      "name": "Qual Teoria Conspiratória da Loteria Você É?",
+      "file": "quizzes/quizLoteria.json",
+      "description": "Descubra qual paranoia do apostador mora dentro de você 🎰"
     }
   ]
 }
