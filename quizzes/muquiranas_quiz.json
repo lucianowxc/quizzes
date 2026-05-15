@@ -1,212 +1,419 @@
 {
-  "title": "Quem é você no Muquiranas?",
-  "subtitle": "Todo mundo tem um jeito de economizar. O seu só é um pouco mais... criativo.",
+  "title": "💸 Quem é Você no Programa Muquiranas?",
+  "subtitle": "Descubra qual tipo de economia extrema domina sua alma financeira.",
   "questions": [
     {
-      "question": "💸 O mês tá curto. Qual é o seu primeiro movimento?",
+      "id": "q1",
+      "question": "🚪 Você entra num restaurante e vê um balcão cheio de sachês grátis. O que acontece dentro da sua mente?",
       "answers": [
         {
-          "text": "🗺️ Remapear toda minha rota pra evitar pedágio",
-          "points": { "logistica": 0.6, "negociador": 0.2 }
+          "text": "🥡 “Isso aqui representa independência financeira.”",
+          "points": {
+            "acumulador_sache": 0.8,
+            "ceo_economia_extrema": 0.1
+          },
+          "nextQuestion": "q2a"
         },
         {
-          "text": "📧 Criar um email novo pra pegar o trial de alguma coisa",
-          "points": { "assinatura": 0.6, "fantasma": 0.2 }
+          "text": "📊 Tento calcular quantos sachês equivalem a um mercado pequeno.",
+          "points": {
+            "cacador_cashback": 0.7,
+            "divisor_profissional": 0.2
+          },
+          "nextQuestion": "q2b"
         },
         {
-          "text": "🍳 Ver o que dá pra cozinhar com o que tem no fundo do freezer",
-          "points": { "gourmet": 0.5, "reaproveitador": 0.3 }
+          "text": "🛠️ Imagino soluções arquitetônicas pra armazenar tudo sem julgamento social.",
+          "points": {
+            "engenheiro_gambiarra": 0.8
+          },
+          "nextQuestion": "q2c"
         },
         {
-          "text": "📅 Lembrar que tenho um jantar marcado com amigos essa semana",
-          "points": { "fantasma": 0.6, "negociador": 0.2 }
+          "text": "🌌 Acho assustador que isso esteja fazendo sentido pra mim.",
+          "points": {
+            "minimalista_necessidade": 0.7,
+            "monge_conta_luz": 0.1
+          },
+          "nextQuestion": "q2d"
         }
       ]
     },
+
     {
-      "question": "🛒 No supermercado, você é o tipo que...",
+      "id": "q2a",
+      "question": "🥤 Um episódio de Muquiranas mostrou alguém reutilizando copo descartável por semanas. Sua reação?",
       "answers": [
         {
-          "text": "🧾 Compara o preço por grama de cada versão do mesmo produto",
-          "points": { "logistica": 0.5, "negociador": 0.3 }
+          "text": "🧠 Sustentabilidade com sofrimento constrói caráter.",
+          "points": {
+            "acumulador_sache": 0.6,
+            "minimalista_necessidade": 0.2
+          }
         },
         {
-          "text": "♻️ Guarda as sacolinhas com uma dedicação suspeita",
-          "points": { "reaproveitador": 0.7, "gourmet": 0.2 }
+          "text": "📉 Quanto menos copos usados, maior o lucro invisível.",
+          "points": {
+            "ceo_economia_extrema": 0.8
+          }
         },
         {
-          "text": "🤝 Pede desconto no caixa porque a embalagem tá amassada",
-          "points": { "negociador": 0.7, "reaproveitador": 0.2 }
+          "text": "🛠️ Se lavar direito vira praticamente porcelana.",
+          "points": {
+            "engenheiro_gambiarra": 0.7
+          }
         },
         {
-          "text": "👻 Some quando o amigo que te chamou pra ir junto pega o carrinho",
-          "points": { "fantasma": 0.7, "assinatura": 0.2 }
+          "text": "🚨 Existe uma linha tênue entre economia e biossegurança.",
+          "points": {
+            "sobrevivente_promocao": 0.5,
+            "divisor_profissional": 0.2
+          }
         }
       ]
     },
+
     {
-      "question": "🍕 O pedido chegou. A conta também. O que acontece?",
+      "id": "q2b",
+      "question": "🍕 A conta da pizzaria deu R$6 a mais. Qual energia toma conta de você?",
       "answers": [
         {
-          "text": "📱 Já abri o iFood pra ver se tinha cupom antes de pedir",
-          "points": { "assinatura": 0.6, "negociador": 0.3 }
+          "text": "📊 Abro uma planilha mental imediatamente.",
+          "points": {
+            "divisor_profissional": 0.9
+          }
         },
         {
-          "text": "🧮 Divido no centavo — gorjeta é opcional e eu optei por não",
-          "points": { "logistica": 0.5, "negociador": 0.4 }
+          "text": "🧾 R$6 por mês viram patrimônio ao longo da vida.",
+          "points": {
+            "cacador_cashback": 0.8
+          }
         },
         {
-          "text": "🚽 Fui ao banheiro e demorei tempo suficiente pra ser coincidência",
-          "points": { "fantasma": 0.8, "reaproveitador": 0.1 }
+          "text": "🌪️ Finjo uma ligação urgente até resolverem.",
+          "points": {
+            "minimalista_necessidade": 0.6
+          }
         },
         {
-          "text": "🌿 Reaproveito os sachês de parmesão pra próxima semana",
-          "points": { "reaproveitador": 0.6, "gourmet": 0.3 }
+          "text": "🥡 Pergunto discretamente se alguém vai terminar a borda recheada.",
+          "points": {
+            "acumulador_sache": 0.6,
+            "sobrevivente_promocao": 0.2
+          }
         }
       ]
     },
+
     {
-      "question": "🚗 Sobre combustível e transporte, você diria que...",
+      "id": "q2c",
+      "question": "🚿 Um participante reaproveitava água do banho pra descarga. Seu pensamento mais honesto:",
       "answers": [
         {
-          "text": "⛽ Conheço o preço de 7 postos num raio de 12km de casa",
-          "points": { "logistica": 0.8, "negociador": 0.1 }
+          "text": "🛠️ Com um sistema de tubos isso escalaria absurdamente.",
+          "points": {
+            "engenheiro_gambiarra": 0.9
+          }
         },
         {
-          "text": "🔥 Já testei se dá pra aquecer marmita no painel no verão",
-          "points": { "gourmet": 0.8, "reaproveitador": 0.1 }
+          "text": "📊 Quero saber a economia anual detalhada.",
+          "points": {
+            "cacador_cashback": 0.7,
+            "ceo_economia_extrema": 0.2
+          }
         },
         {
-          "text": "🎟️ Tenho um app de carona que uso só com trial ativo",
-          "points": { "assinatura": 0.7, "fantasma": 0.2 }
+          "text": "🌌 Talvez conforto tenha sido um erro histórico.",
+          "points": {
+            "minimalista_necessidade": 0.8
+          }
         },
         {
-          "text": "🦯 Finjo que não vi o estacionamento ser pago quando já entrei",
-          "points": { "fantasma": 0.6, "negociador": 0.3 }
+          "text": "💡 Água e luz são luxos emocionalmente superestimados.",
+          "points": {
+            "monge_conta_luz": 0.7
+          }
         }
       ]
     },
+
     {
-      "question": "📺 Streaming e entretenimento: qual é a sua relação?",
+      "id": "q2d",
+      "question": "💡 Você descobre que alguém desliga o disjuntor da casa inteira antes de dormir. Qual frase mais te representa?",
       "answers": [
         {
-          "text": "🔄 Já rodei por todas as plataformas sem pagar uma mensalidade inteira",
-          "points": { "assinatura": 0.9 }
+          "text": "🕯️ A verdadeira riqueza é consumir menos.",
+          "points": {
+            "monge_conta_luz": 0.9
+          }
         },
         {
-          "text": "👨‍👩‍👧 Compartilho conta com pessoas que não sei mais quem são",
-          "points": { "negociador": 0.5, "assinatura": 0.4 }
+          "text": "📉 Geladeira ligada 24h parece emocionalmente excessivo.",
+          "points": {
+            "ceo_economia_extrema": 0.7
+          }
         },
         {
-          "text": "📡 Ainda uso o login de um ex de 2018 sem culpa nenhuma",
-          "points": { "fantasma": 0.5, "assinatura": 0.4 }
+          "text": "🛠️ Isso pede automação e sensores improvisados.",
+          "points": {
+            "engenheiro_gambiarra": 0.7
+          }
         },
         {
-          "text": "🍿 Faço pipoca no micro-ondas com saco de papel pardo mesmo",
-          "points": { "gourmet": 0.6, "reaproveitador": 0.3 }
+          "text": "🥲 Já critiquei isso antes de ver minha conta de energia.",
+          "points": {
+            "minimalista_necessidade": 0.6,
+            "cacador_cashback": 0.2
+          }
         }
       ]
     },
+
     {
-      "question": "🧠 Qual dessas frases você já disse com total seriedade?",
+      "question": "🧃 Uma comida venceu ontem. O que define sua decisão?",
       "answers": [
         {
-          "text": "🌡️ 'Dá pra fazer ovo no carro no verão, já calculei'",
-          "points": { "gourmet": 0.9 }
+          "text": "🔬 O cheiro continua competitivo.",
+          "points": {
+            "sobrevivente_promocao": 0.7,
+            "engenheiro_gambiarra": 0.1
+          }
         },
         {
-          "text": "📍 'Se a gente pegar essa rua, economiza R$1,80 no combustível'",
-          "points": { "logistica": 0.9 }
+          "text": "📉 Validade é uma opinião corporativa.",
+          "points": {
+            "ceo_economia_extrema": 0.8
+          }
         },
         {
-          "text": "🗑️ 'Não joga fora não, isso ainda serve pra alguma coisa'",
-          "points": { "reaproveitador": 0.9 }
+          "text": "🥡 Dá pra misturar num molho e ninguém percebe.",
+          "points": {
+            "acumulador_sache": 0.6,
+            "engenheiro_gambiarra": 0.2
+          }
         },
         {
-          "text": "💳 'Deixa eu tentar um desconto aqui antes de fechar'",
-          "points": { "negociador": 0.9 }
+          "text": "🚨 Minha dignidade ainda tem limites microbiológicos.",
+          "points": {
+            "divisor_profissional": 0.5,
+            "cacador_cashback": 0.2
+          }
         }
       ]
     },
+
     {
-      "question": "🏠 Em casa, qual hábito seus amigos acham mais estranho?",
+      "question": "🏷️ Você entra num mercado e vê ‘LEVE 12 PAGUE 11’. Qual reação surge?",
       "answers": [
         {
-          "text": "💧 Reaproveito a água do macarrão pra regar as plantas",
-          "points": { "reaproveitador": 0.7, "gourmet": 0.2 }
+          "text": "🧠 Isso é praticamente um investimento.",
+          "points": {
+            "sobrevivente_promocao": 0.9
+          }
         },
         {
-          "text": "🌐 Tenho uma planilha de qual serviço cancelar em qual data",
-          "points": { "assinatura": 0.8, "logistica": 0.1 }
+          "text": "📊 Calculo preço por grama instantaneamente.",
+          "points": {
+            "cacador_cashback": 0.8
+          }
         },
         {
-          "text": "🔦 Desligo a luz do cômodo que não tô usando com uma consistência assustadora",
-          "points": { "logistica": 0.6, "negociador": 0.3 }
+          "text": "🌀 Não preciso disso mas agora preciso.",
+          "points": {
+            "minimalista_necessidade": 0.6,
+            "sobrevivente_promocao": 0.2
+          }
         },
         {
-          "text": "🧊 Guardo potinhos de sorvete vazio como se fossem herança",
-          "points": { "reaproveitador": 0.5, "gourmet": 0.4 }
+          "text": "🛠️ Penso em soluções de armazenamento clandestino.",
+          "points": {
+            "engenheiro_gambiarra": 0.7
+          }
         }
       ]
     },
+
     {
-      "question": "👥 Num rolê em grupo, qual é o seu papel natural?",
+      "question": "📶 Qual dessas atitudes parece mais racional do que deveria?",
       "answers": [
         {
-          "text": "🎩 O que sugere rachar antes de sentar pra evitar confusão depois",
-          "points": { "negociador": 0.7, "logistica": 0.2 }
+          "text": "📡 Descobrir a senha do Wi-Fi do vizinho socialmente simpático.",
+          "points": {
+            "ceo_economia_extrema": 0.7,
+            "engenheiro_gambiarra": 0.2
+          }
         },
         {
-          "text": "🌫️ O que foi buscar o casaco no carro quando a conta chegou",
-          "points": { "fantasma": 0.9 }
+          "text": "📉 Cancelar streaming e assistir vídeos aleatórios de peixe.",
+          "points": {
+            "minimalista_necessidade": 0.8
+          }
         },
         {
-          "text": "📊 O que manda print da planilha de divisão no grupo às 23h",
-          "points": { "logistica": 0.7, "negociador": 0.2 }
+          "text": "🧾 Trocar de cartão só por cashback de R$14.",
+          "points": {
+            "cacador_cashback": 0.9
+          }
         },
         {
-          "text": "🍱 O que trouxe comida de casa 'só pra complementar'",
-          "points": { "gourmet": 0.6, "reaproveitador": 0.3 }
+          "text": "🥡 Passar mais tempo em cafeteria pelo ar-condicionado grátis.",
+          "points": {
+            "acumulador_sache": 0.6,
+            "monge_conta_luz": 0.2
+          }
+        }
+      ]
+    },
+
+    {
+      "question": "🍝 Qual dessas estratégias de sobrevivência você respeita secretamente?",
+      "answers": [
+        {
+          "text": "🧊 Congelar absolutamente qualquer sobra.",
+          "points": {
+            "sobrevivente_promocao": 0.7,
+            "acumulador_sache": 0.2
+          }
+        },
+        {
+          "text": "💡 Andar pela casa apagando luz atrás dos outros.",
+          "points": {
+            "monge_conta_luz": 0.9
+          }
+        },
+        {
+          "text": "🧠 Dividir assinatura entre 11 pessoas.",
+          "points": {
+            "divisor_profissional": 0.7,
+            "ceo_economia_extrema": 0.2
+          }
+        },
+        {
+          "text": "🛠️ Consertar algo com fita adesiva por anos.",
+          "points": {
+            "engenheiro_gambiarra": 0.8
+          }
+        }
+      ]
+    },
+
+    {
+      "question": "🛒 O que mais te dá sensação de poder?",
+      "answers": [
+        {
+          "text": "📊 Sair do mercado economizando R$3,17.",
+          "points": {
+            "cacador_cashback": 0.8
+          }
+        },
+        {
+          "text": "🥡 Encontrar sachê esquecido na gaveta.",
+          "points": {
+            "acumulador_sache": 0.9
+          }
+        },
+        {
+          "text": "🕯️ Ver a conta de luz cair alguns reais.",
+          "points": {
+            "monge_conta_luz": 0.8
+          }
+        },
+        {
+          "text": "🌌 Cancelar um plano e sentir paz espiritual.",
+          "points": {
+            "minimalista_necessidade": 0.7
+          }
+        }
+      ]
+    },
+
+    {
+      "question": "🚨 Qual frase poderia estar escrita na sua lápide financeira?",
+      "answers": [
+        {
+          "text": "📉 ‘Cada centavo tinha um propósito.’",
+          "points": {
+            "ceo_economia_extrema": 0.9
+          }
+        },
+        {
+          "text": "🛠️ ‘Ainda dava pra usar mais um pouco.’",
+          "points": {
+            "engenheiro_gambiarra": 0.8
+          }
+        },
+        {
+          "text": "🧾 ‘O desconto compensou emocionalmente.’",
+          "points": {
+            "cacador_cashback": 0.7,
+            "sobrevivente_promocao": 0.2
+          }
+        },
+        {
+          "text": "🥡 ‘Isso aqui pode servir depois.’",
+          "points": {
+            "acumulador_sache": 0.8
+          }
         }
       ]
     }
   ],
+
   "descriptions": {
-    "gourmet": {
-      "title": "O Chef de Guerrilha",
-      "emoji": "🍳",
-      "subtitle": "Cozinha onde outros veem impossibilidade",
-      "text": "Você não desperdiça energia — literalmente. Se o sol aquece o painel do carro, aquece marmita também. Se a lava-louças tem espaço sobrando, lasanha é uma opção válida. Você não chama isso de gambiarra: chama de culinária sustentável. Ninguém pediu, mas todo mundo come."
+    "cacador_cashback": {
+      "title": "Caçador de Cashback",
+      "emoji": "🧾",
+      "subtitle": "Você venderia a alma por 3% de volta",
+      "text": "Você transforma qualquer compra numa operação financeira internacional. Já gastou R$300 pra economizar R$12 e sentiu orgulho disso. Seu cérebro vive comparando preços em 14 abas diferentes."
     },
-    "logistica": {
-      "title": "O Especialista em Rotas",
-      "emoji": "🗺️",
-      "subtitle": "Otimiza tudo, inclusive coisas que não precisam de otimização",
-      "text": "Você já recalculou uma rota pra economizar R$2,40 no pedágio e chegou 18 minutos mais tarde. Na sua cabeça, isso foi uma vitória. Você tem uma planilha de preço por litro dos postos da região e uma opinião formada sobre cada um deles. Ninguém te pediu essa opinião, mas você compartilha assim mesmo."
+
+    "engenheiro_gambiarra": {
+      "title": "Engenheiro da Gambiarra",
+      "emoji": "🛠️",
+      "subtitle": "Nada se joga fora. Nada.",
+      "text": "Você olha para lixo e vê potencial tecnológico. Sua casa funciona graças a fita adesiva, criatividade e negação coletiva. Existe uma grande chance de algum objeto importante estar preso por pregador."
     },
-    "reaproveitador": {
-      "title": "O Engenheiro do Reaproveitamento",
-      "emoji": "♻️",
-      "subtitle": "Nada é lixo, tudo é recurso mal compreendido",
-      "text": "Pote de sorvete vazio? Tupperware. Água do macarrão? Adubo. Sachê de ketchup? Reserva estratégica. Você não joga nada fora porque no fundo acredita que tudo tem uma segunda vida — e a terceira e a quarta também. Sua casa parece organizada, mas é uma operação logística complexa de coisas que 'ainda vão servir'."
+
+    "divisor_profissional": {
+      "title": "Divisor Profissional",
+      "emoji": "🍕",
+      "subtitle": "‘Depois você me faz o Pix’",
+      "text": "Você calcula proporcionalmente até batata frita compartilhada. Seu maior medo é pagar R$2 a mais sem perceber. Há rumores de que você já abriu calculadora durante parabéns de aniversário."
     },
-    "negociador": {
-      "title": "O Executivo de Descontos",
-      "emoji": "🤝",
-      "subtitle": "Tenta pechinchar onde pechincha não existe",
-      "text": "Você já pediu desconto num self-checkout. Já tentou negociar frete grátis com entregador. Já perguntou 'tem como fazer por menos?' numa cantina de escola. A maioria das tentativas não funciona — mas as que funcionam sustentam sua fé no processo. Você não vê isso como constrangimento. Vê como habilidade profissional."
+
+    "sobrevivente_promocao": {
+      "title": "Sobrevivente Pós-Promoção",
+      "emoji": "🏷️",
+      "subtitle": "Comprou 14 porque estava barato",
+      "text": "Você não faz compras: você caça oportunidades. Sua casa parece um bunker abastecido para o fim da civilização. Promoção pra você é evento esportivo."
     },
-    "fantasma": {
-      "title": "O Especialista em Timing",
-      "emoji": "👻",
-      "subtitle": "Domina a arte do desaparecimento estratégico",
-      "text": "Você não foge da conta — apenas tem uma habilidade natural de estar em outro lugar quando ela chega. Banheiro, carro, ligação urgente, visão seletiva do garçom. É talento puro. Seus amigos já sabem disso, combinam entre si antes do rolê e mesmo assim você consegue. Todo grupo tem um. Você é o seu."
+
+    "monge_conta_luz": {
+      "title": "Monge da Conta de Luz",
+      "emoji": "💡",
+      "subtitle": "Apague essa luz imediatamente",
+      "text": "Você desenvolveu sentidos sobrenaturais para detectar aparelhos em stand-by. O brilho da TV desligada já te incomoda espiritualmente. Sua maior inimiga é a resistência do chuveiro."
     },
-    "assinatura": {
-      "title": "O Caçador de Trials",
-      "emoji": "📧",
-      "subtitle": "Tem mais emails do que anos de vida",
-      "text": "Você nunca pagou uma mensalidade inteira desde que trials existem. Cada plataforma de streaming conhece pelo menos três versões suas. Você tem uma planilha — ou deveria ter — de qual serviço cancela em qual data. Não é desonestidade: é um relacionamento temporário com renovação automática desativada. Você chama isso de planejamento financeiro."
+
+    "acumulador_sache": {
+      "title": "Acumulador de Sachê",
+      "emoji": "🥡",
+      "subtitle": "Isso aqui pode ser útil depois",
+      "text": "Sua cozinha parece o estoque clandestino de uma lanchonete. Você sente felicidade genuína encontrando molho grátis esquecido na gaveta. O conceito de ‘excesso’ não existe emocionalmente pra você."
+    },
+
+    "minimalista_necessidade": {
+      "title": "Minimalista por Necessidade",
+      "emoji": "🌌",
+      "subtitle": "Menos gastos, menos sofrimento",
+      "text": "Você transformou limitação financeira em filosofia existencial. Já não sabe mais diferenciar autocontrole de desistência silenciosa. Sua paz interior geralmente começa cancelando alguma assinatura."
+    },
+
+    "ceo_economia_extrema": {
+      "title": "CEO da Economia Extrema",
+      "emoji": "📉",
+      "subtitle": "Cada centavo tem um propósito",
+      "text": "Você elevou a muquiranice ao nível estratégico. Seu cérebro roda planilhas invisíveis 24 horas por dia. Existe um boato muito específico sobre você carregar papel higiênico preventivamente."
     }
   }
 }
