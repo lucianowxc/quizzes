@@ -1,0 +1,191 @@
+{
+  "title": "Qual Seleção da Copa do Mundo é Você?",
+  "subtitle": "11 seleções, 13 perguntas e cutucadas garantidas. Descubra seu lado copista!",
+  "questions": [
+    {
+      "question": "🎯 Qual frase define sua filosofia de trabalho?",
+      "answers": [
+        { "text": "🏆 'Ou ganha ou ganha. Perder não é uma opção.' (perde o tempo todo)", "points": { "brasil": 0.5, "argentina": 0.6, "mexico": 0.6, "portugal": 0.4 } },
+        { "text": "⚙️ 'Se é para fazer, faz direito. Se não, melhor nem começar.' (não começa nada)", "points": { "alemanha": 0.7, "japao": 0.7, "italia": 0.5, "marrocos": 0.5 } },
+        { "text": "🍷 'A vida é curta demais para levar trabalho a sério.' (mas reclama do salário)", "points": { "franca": 0.7, "brasil": 0.4, "mexico": 0.4, "argentina": 0.3 } },
+        { "text": "💔 'O importante não é vencer, é dar o seu melhor... e reclamar muito.'", "points": { "inglaterra": 0.7, "holanda": 0.6, "mexico": 0.5, "argentina": 0.4 } }
+      ]
+    },
+    {
+      "question": "🌅 Como você começa seu dia no trabalho?",
+      "answers": [
+        { "text": "🏃‍♂️ Já acordo correndo, respondendo e-mails antes do café", "points": { "alemanha": 0.6, "japao": 0.7, "italia": 0.4, "brasil": 0.2 } },
+        { "text": "🎭 Acordo, faço 15 minutos de espelho praticando meu discurso motivacional", "points": { "argentina": 0.7, "mexico": 0.6, "portugal": 0.4, "brasil": 0.5 } },
+        { "text": "😴 Acordo, aperto soneca 4 vezes, chego atrasado e culpo o trânsito", "points": { "franca": 0.6, "inglaterra": 0.5, "mexico": 0.5, "portugal": 0.3 } },
+        { "text": "📋 Acordo, sigo minha checklist matinal milimetricamente. Se faltar um item, o dia está arruinado.", "points": { "alemanha": 0.8, "japao": 0.8, "italia": 0.5, "marrocos": 0.4 } }
+      ]
+    },
+    {
+      "question": "😤 Tem aquele colega que sempre te elimina nas promoções. Como você reage?",
+      "answers": [
+        { "text": "🎭 'EU ODEIO ELE! ELE É FRACO! EU MERECIA MAIS! *joga o mouse na parede*'", "points": { "argentina": 0.8, "portugal": 0.4, "italia": 0.5, "brasil": 0.3 } },
+        { "text": "🍷 'Promoção? Tanto faz. O escritório é muito superestimado. Vou pedir as contas semana que vem... quem sabe.'", "points": { "franca": 0.7, "mexico": 0.5, "holanda": 0.4, "inglaterra": 0.4 } },
+        { "text": "🌵 'Dessa vez vai! Vou estudar, me preparar, chegar mais cedo...' (2 meses depois: não fez nada e foi eliminado de novo)", "points": { "mexico": 0.8, "inglaterra": 0.6, "holanda": 0.5, "brasil": 0.4 } },
+        { "text": "⚙️ 'Vou analisar o padrão. Se ele me venceu 3 vezes, preciso de um novo plano. Um plano quinquenal, para ser exato.'", "points": { "alemanha": 0.7, "japao": 0.7, "marrocos": 0.5, "holanda": 0.4 } }
+      ]
+    },
+    {
+      "question": "🎁 O que você mais valoriza no trabalho?",
+      "answers": [
+        { "text": "💰 Dinheiro. Só dinheiro. Pode tacar fogo no escritório, desde que pague bem.", "points": { "alemanha": 0.5, "holanda": 0.5, "brasil": 0.4, "mexico": 0.5 } },
+        { "text": "👏 Reconhecimento. Placa, tapinha nas costas, 'funcionário do mês'.", "points": { "argentina": 0.6, "brasil": 0.5, "mexico": 0.6, "portugal": 0.5 } },
+        { "text": "🕊️ Paz. Salário baixo, mas sem estresse. Só me deixem em paz.", "points": { "japao": 0.6, "marrocos": 0.6, "italia": 0.5, "holanda": 0.4 } },
+        { "text": "🎉 Um ambiente divertido. Se não tiver resenha, eu não fico.", "points": { "brasil": 0.7, "mexico": 0.7, "franca": 0.4, "argentina": 0.4 } }
+      ]
+    },
+    {
+      "question": "💥 Lembra daquela vez que você passou vergonha no trabalho? Como foi?",
+      "answers": [
+        { "text": "📋 'Vergonha? Eu? Eu sou perfeito. A culpa foi do sistema, do chefe, do estagiário, do planeta Mercúrio retrógrado...'", "points": { "alemanha": 0.5, "argentina": 0.7, "italia": 0.5, "inglaterra": 0.5 } },
+        { "text": "🎉 'Até hoje o pessoal zoa. Foi épico. Eu mesmo conto a história no happy hour. Fazer o quê, né?'", "points": { "brasil": 0.7, "mexico": 0.6, "franca": 0.4, "inglaterra": 0.4 } },
+        { "text": "🍷 'Não lembro. Foi tão irrelevante quanto minha contribuição no último projeto.'", "points": { "franca": 0.7, "inglaterra": 0.5, "holanda": 0.4, "mexico": 0.4 } },
+        { "text": "🦁 'Vergonha? Isso não existe. Toda experiência é aprendizado. (Mas sim, foi horrível e ninguém viu porque eu estava no canto).'", "points": { "marrocos": 0.7, "japao": 0.5, "alemanha": 0.4, "italia": 0.4 } }
+      ]
+    },
+    {
+      "question": "🍺 No happy hour, você pede...",
+      "answers": [
+        { "text": "🍺 Uma cerveja gelada, mas demora 2 horas para beber porque está ocupado contando vantagem", "points": { "inglaterra": 0.6, "brasil": 0.4, "mexico": 0.5, "holanda": 0.4 } },
+        { "text": "🍷 Vinho tinto caro e reclama que 'não está na temperatura certa'", "points": { "franca": 0.7, "italia": 0.6, "argentina": 0.5, "portugal": 0.4 } },
+        { "text": "🥤 Refrigerante. 'Estou de regime e também não bebo porque no meu antigo emprego...'", "points": { "japao": 0.7, "alemanha": 0.5, "marrocos": 0.5, "holanda": 0.4 } },
+        { "text": "🍹 Um drink místico que ninguém conhece e você finge que sabe o nome", "points": { "mexico": 0.6, "brasil": 0.5, "argentina": 0.4, "portugal": 0.4 } }
+      ]
+    },
+    {
+      "question": "📅 Você já deixou de ir em um evento importante da empresa. Por quê?",
+      "answers": [
+        { "text": "😤 'Não fui porque não me convidaram direito. O e-mail foi enviado às 18h31, um ABSURDO!'", "points": { "italia": 0.8, "argentina": 0.5, "franca": 0.4, "portugal": 0.3 } },
+        { "text": "🏆 'Já fui tantas vezes que enjoou. Deixa os novatos brilharem.' (mas no fundo ninguém lembrou de te chamar)", "points": { "alemanha": 0.5, "inglaterra": 0.6, "holanda": 0.5, "italia": 0.6 } },
+        { "text": "🤷 'Nem sabia que tinha evento. Não leio os e-mails do RH. Aliás, qual é minha senha mesmo?'", "points": { "franca": 0.6, "mexico": 0.5, "brasil": 0.4, "portugal": 0.4 } },
+        { "text": "👑 'Fui convidado, mas resolvi dar uma chance para os outros. O evento precisa de mim? Talvez. Mas eu não preciso dele.'", "points": { "italia": 0.7, "argentina": 0.5, "portugal": 0.4, "marrocos": 0.3 } }
+      ]
+    },
+    {
+      "question": "🤯 Você perde uma venda importante. Sua reação?",
+      "answers": [
+        { "text": "🎭 'FOI ROUBADO! O CLIENTE NÃO ME ENTENDEU! O MUNDO É INJUSTO!'", "points": { "argentina": 0.8, "mexico": 0.6, "brasil": 0.4, "portugal": 0.4 } },
+        { "text": "📈 Faz uma análise post-mortem de 12 páginas identificando 47 pontos de melhoria.", "points": { "alemanha": 0.7, "japao": 0.7, "marrocos": 0.5, "holanda": 0.5 } },
+        { "text": "😎 'Fazer o quê, né? Ano que vem a gente tenta de novo.' (já esqueceu)", "points": { "inglaterra": 0.6, "franca": 0.5, "holanda": 0.5, "mexico": 0.5 } },
+        { "text": "📞 Liga imediatamente para seu mentor/chefe/pai e perde 3 horas pedindo consolo", "points": { "portugal": 0.7, "brasil": 0.4, "mexico": 0.5, "argentina": 0.4 } }
+      ]
+    },
+    {
+      "question": "🌍 Se o escritório fosse um país, você seria...",
+      "answers": [
+        { "text": "👑 O presidente, obviamente. Não aceitaria menos.", "points": { "argentina": 0.6, "brasil": 0.5, "mexico": 0.5, "portugal": 0.5 } },
+        { "text": "🔧 O técnico de informática. Ninguém lembra seu nome até tudo quebrar.", "points": { "japao": 0.7, "alemanha": 0.5, "marrocos": 0.6, "holanda": 0.4 } },
+        { "text": "🎤 O animador de eventos. Todo mundo te acha engraçado, mas o RH desconfia.", "points": { "brasil": 0.7, "mexico": 0.7, "franca": 0.4, "argentina": 0.4 } },
+        { "text": "🕵️ O espião. Ninguém sabe o que você faz, mas você sabe TUDO sobre todos.", "points": { "italia": 0.7, "marrocos": 0.6, "japao": 0.5, "alemanha": 0.4 } }
+      ]
+    },
+    {
+      "question": "🎉 Na festa da firma, você...",
+      "answers": [
+        { "text": "💃 É a alma da festa, dança em cima da mesa e faz amizade com o segurança", "points": { "brasil": 0.8, "mexico": 0.7, "argentina": 0.5, "franca": 0.3 } },
+        { "text": "🗣️ Fica num canto tecendo críticas sobre a decoração, a música e a comida", "points": { "argentina": 0.7, "italia": 0.6, "inglaterra": 0.5, "franca": 0.5 } },
+        { "text": "🧮 Monta uma planilha de custo-benefício do open bar", "points": { "alemanha": 0.7, "japao": 0.7, "holanda": 0.5, "marrocos": 0.4 } },
+        { "text": "📸 Fica o tempo todo colado(a) no chefe, rindo de piadas que não tem graça", "points": { "portugal": 0.8, "mexico": 0.5, "inglaterra": 0.4, "brasil": 0.2 } }
+      ]
+    },
+    {
+      "question": "🚨 Seu chefe anuncia 'demissões amanhã'. Você...",
+      "answers": [
+        { "text": "😰 Trava, não consegue trabalhar, fica olhando o teto e catastrofiza tudo", "points": { "portugal": 0.6, "mexico": 0.6, "franca": 0.5, "brasil": 0.4 } },
+        { "text": "📋 Atualiza seu LinkedIn, currículo e manda para 30 recrutadores em 2 horas", "points": { "alemanha": 0.6, "japao": 0.6, "holanda": 0.5, "marrocos": 0.5 } },
+        { "text": "🤫 Começa a puxar saco do chefe descaradamente. 'Nossa, que belo corte de cabelo!'", "points": { "portugal": 0.7, "mexico": 0.5, "italia": 0.4, "inglaterra": 0.4 } },
+        { "text": "😎 'Se eu for, problema deles. Vão sentir minha falta.' (ninguém vai sentir)", "points": { "franca": 0.6, "argentina": 0.5, "brasil": 0.4, "mexico": 0.4 } }
+      ]
+    },
+    {
+      "question": "🤔 Seu chefe pede um projeto impossível para amanhã. Você...",
+      "answers": [
+        { "text": "🔥 Fala que 'tá tranquilo' e pede praça, mas por dentro está tendo um ataque de pânico", "points": { "brasil": 0.6, "mexico": 0.7, "inglaterra": 0.5, "argentina": 0.4 } },
+        { "text": "📑 Faz um cronograma realista de 2 semanas e entrega atrasado com uma justificativa impecável", "points": { "alemanha": 0.6, "japao": 0.6, "holanda": 0.5, "italia": 0.5 } },
+        { "text": "😡 Surta no chat do time, processa o chefe mentalmente, mas faz tudo em 3 horas", "points": { "argentina": 0.7, "mexico": 0.5, "franca": 0.4, "portugal": 0.4 } },
+        { "text": "🦥 Faz metade, some, volta no dia seguinte e fala 'acharam que era pra hoje?'", "points": { "franca": 0.7, "inglaterra": 0.5, "brasil": 0.3, "mexico": 0.4 } }
+      ]
+    },
+    {
+      "question": "📊 Você descobre que o estagiário foi promovido antes de você. Você...",
+      "answers": [
+        { "text": "😤 Abre uma planilha comparando suas entregas e ameaça pedir demissão (mas não pede)", "points": { "alemanha": 0.5, "japao": 0.6, "holanda": 0.5, "italia": 0.5 } },
+        { "text": "🗣️ Faz um textão no grupo da firma e depois apaga (mas todo mundo já leu)", "points": { "argentina": 0.6, "mexico": 0.6, "brasil": 0.4, "franca": 0.4 } },
+        { "text": "🏆 'Ele mereceu. Eu não estava preparado. O importante é competir.' (você está mentindo)", "points": { "holanda": 0.6, "inglaterra": 0.5, "marrocos": 0.5, "japao": 0.4 } },
+        { "text": "🤝 Vira melhor amigo do estagiário e torce contra ele silenciosamente", "points": { "italia": 0.6, "portugal": 0.5, "marrocos": 0.5, "franca": 0.4 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "brasil": {
+      "title": "🇧🇷 Brasil - O Rei do Estilo",
+      "emoji": "🏆",
+      "subtitle": "Criatividade, gingado e uma pitada de teatro",
+      "text": "Você é o Brasil! Sempre confiante, talvez até demais. Ama um drible desnecessário, uma comemoração ensaiada e acha que 'o importante é com estilo'. Quando perde, o choro é épico e as desculpas mais criativas ainda. Seu lema: 'O hexa vem... sempre vem...'"
+    },
+    "alemanha": {
+      "title": "🇩🇪 Alemanha - A Máquina de Eficiência",
+      "emoji": "⚙️",
+      "subtitle": "Disciplina, planejamento e nenhuma criatividade",
+      "text": "Você é a Alemanha! Sabe fazer as coisas certas, no momento certo, da maneira mais chata possível. Planeja até suas reações emocionais com 3 meses de antecedência. Na festa, você organiza o churrasco por setores e cronometra o tempo de cada pessoa no banheiro. Resultados consistentes, zero surpresas. Seu lema: 'Funciona, então não reclama.'"
+    },
+    "argentina": {
+      "title": "🇦🇷 Argentina - O Drama com Estrela",
+      "emoji": "⭐",
+      "subtitle": "Paixão, mãozinhas e muito drama",
+      "text": "Você é a Argentina! Vive num eterno 'nós contra o mundo'. Se ganha, foi porque mereceu. Se perde, foi roubado (mesmo se foi 7 a 1). Na festa da firma, você chega atrasado propositalmente para fazer entrada triunfal, reclama da música, da comida, das pessoas, mas é o último a ir embora. Seu lema: 'A culpa é sempre de alguém (geralmente do Brasil).'"
+    },
+    "franca": {
+      "title": "🇫🇷 França - O Talento Mimado",
+      "emoji": "🍷",
+      "subtitle": "Potencial ilimitado, vontade limitada",
+      "text": "Você é a França! Tem tanta técnica e talento que deveria ganhar tudo, mas resolveu que 'tanto faz' é um estilo de vida. Na festa, você é a pessoa mais interessante do ambiente por 20 minutos, depois some e ninguém sabe onde foi parar. Aparece de novo no final para comer a sobremesa. Seu lema: 'Quando eu quero, eu quero mesmo... só que quase nunca quero.'"
+    },
+    "inglaterra": {
+      "title": "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Inglaterra - A Promessa Eterna",
+      "emoji": "🗣️",
+      "subtitle": "Muita conversa, pouco futebol (desde 1966)",
+      "text": "Você é a Inglaterra! Vive dizendo que 'esse ano vai' desde que seu avô era jovem. Na festa, você é o cara do 'vamos marcar um churrasco' que nunca acontece. Fala muito, empolga todo mundo, e na hora H... bem, sempre tem uma desculpa (gramado ruim, juiz, lua cheia). Seu lema: 'O importante é competir... e reclamar depois.'"
+    },
+    "holanda": {
+      "title": "🇳🇱 Holanda - O Vice Eterno",
+      "emoji": "🥈",
+      "subtitle": "Laranja, carismático, mas sem sorte",
+      "text": "Você é a Holanda! Sempre chega perto, todo mundo reconhece seu talento, mas o troféu nunca vem. Na festa, você é o vice-presidente de tudo, o eterno padrinho de casamento, a pessoa que todo mundo ama mas nunca lembra de convidar para o evento principal. Seu lema: 'Segundo lugar é o primeiro dos perdedores... mas pelo menos é alguma coisa.'"
+    },
+    "italia": {
+      "title": "🇮🇹 Itália - O Retranqueiro Sedutor (que não aparece há 3 Copas)",
+      "emoji": "🛡️",
+      "subtitle": "Marcação cerrada... cadê você?",
+      "text": "Você é a Itália! Na festa da firma, você chega na defensiva, observa todo mundo por 2 horas, descobre os segredos de cada um e no final dá o bote. O problema? Você não é convidado pra festa desde 2014. Isso mesmo: faltou nas últimas três confraternizações e ninguém sabe direito onde você estava. Beija todo mundo na bochecha, mas no fundo está calculando quem pode te prejudicar. Ninguém te vê chegar, mas quando aparece, todo mundo pergunta: 'Caramba, você ainda trabalha aqui?' Seu lema: 'Ataque é importante, mas vencer sem aparecer é muito mais gostoso... e sumir também.'"
+    },
+    "portugal": {
+      "title": "🇵🇹 Portugal - O Estrelinha Dependente",
+      "emoji": "👑",
+      "subtitle": "Gira em torno de um só, mas tem seus momentos",
+      "text": "Você é Portugal! Tudo na sua vida gira em torno de UMA pessoa (pode ser seu chefe, seu crush, ou seu terapeuta). Quando essa pessoa está bem, você resolve qualquer problema. Quando ela sai de férias, você trava completamente. Na festa, você só fala dela e morre de ciúmes se alguém mais se aproxima. Seu lema: 'Sozinho eu não sou nada, mas com ele(a) eu sou o centro do mundo.'"
+    },
+    "mexico": {
+      "title": "🇲🇽 México - A Promessa da Quinta Partida",
+      "emoji": "🌵",
+      "subtitle": "Vive intensamente... até as oitavas de final",
+      "text": "Você é o México! Começa todo projeto com fogos de artifício, capa de revista, todo mundo acredita. 'Dessa vez vai!' Aí chega a segunda quinzena do mês (ou a fase eliminatória) e... PUFT! Some, desaba, ninguém te entende. Na festa da firma, você é o primeiro a chegar, o mais animado, e o primeiro a ir embora (geralmente chorando no Uber). Seu lema: 'O importante é fazer primeiro tempo... o resto é detalhe.'"
+    },
+    "japao": {
+      "title": "🇯🇵 Japão - O Organizador Silencioso",
+      "emoji": "🗂️",
+      "subtitle": "Eficiência, respeito e uma pitada de robô",
+      "text": "Você é o Japão! Tem um lugar pra cada coisa e cada coisa no seu lugar. Sua mesa é tão organizada que dá até medo. Na festa, você não dança, não bebe muito, mas no dia seguinte todo mundo te pergunta 'onde estava o papel toalha extra?' porque você já tinha deixado. Ninguém te nota, mas sem você tudo desmorona. Seu lema: 'Se não está no planner, não existe.'"
+    },
+    "marrocos": {
+      "title": "🇲🇦 Marrocos - A Zebra de Confiança",
+      "emoji": "🦁",
+      "subtitle": "Subestimado, calado, mas perigoso",
+      "text": "Você é o Marrocos! Ninguém espera nada de você, e é assim que você gosta. Enquanto todos brigam pelo holofote, você trabalha quieto, entrega resultado e um dia TODO MUNDO toma um susto quando te veem na final. Na festa da firma, você fica no canto, observa, sorri educadamente, e no final leva o prêmio de 'funcionário do mês' sem que ninguém soubesse que você estava concorrendo. Seu lema: 'Subestime-me. É a única vantagem que eu preciso.'"
+    }
+  }
+}
