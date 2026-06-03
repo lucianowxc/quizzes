@@ -604,6 +604,11 @@
       "name": "Quem é você no Muquiranas?",
       "file": "quizzes/muquiranas_quiz.json",
       "description": "Todo mundo tem um jeito de economizar. O seu só é um pouco mais... criativo."
+    },
+    {
+      "name": "Qual Comida de Festa Junina Você Seria?",
+      "file": "quizzes/quizFestaJunina.json",
+      "description": "Descubra qual comida típica de festa junina brasileira mais combina com você!"
     }
   ]
 }
