@@ -1,0 +1,386 @@
+{
+  "title": "Qual Comida de Festa Junina Você Seria?",
+  "subtitle": "Descubra qual comida típica de festa junina brasileira mais combina com você!",
+  "questions": [
+    {
+      "question": "Num dia livre, você prefere estar...",
+      "answers": [
+        {
+          "text": "😎 Fazendo suas próprias coisas, sem complicação",
+          "points": {
+            "pamonha": 0.9,
+            "amendoim_cozido": 0.8
+          }
+        },
+        {
+          "text": "🤗 Em casa, criando um ambiente acolhedor",
+          "points": {
+            "canjica": 0.9,
+            "bolo_fubar": 0.5
+          }
+        },
+        {
+          "text": "🚀 Causando confusão positiva e diversão",
+          "points": {
+            "pe_moleque": 0.9,
+            "rapadura": 0.6
+          }
+        },
+        {
+          "text": "🍽️ Apreciando algo requintado e saboroso",
+          "points": {
+            "carne_louca": 0.9,
+            "curau": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você se descreve em uma festa?",
+      "answers": [
+        {
+          "text": "👥 Circulo naturalmente entre as pessoas, sempre disponível",
+          "points": {
+            "pamonha": 0.8,
+            "amendoim_cozido": 0.7
+          }
+        },
+        {
+          "text": "💭 Discreto, mas crio um clima muito especial",
+          "points": {
+            "curau": 0.9,
+            "carne_louca": 0.7
+          }
+        },
+        {
+          "text": "⚡ O destaque, todo mundo sabe de mim",
+          "points": {
+            "pe_moleque": 0.8,
+            "rapadura": 0.8
+          }
+        },
+        {
+          "text": "☀️ Aquele que torna o ambiente quentinho e confortável",
+          "points": {
+            "canjica": 0.9,
+            "bolo_fubar": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é seu maior talento?",
+      "answers": [
+        {
+          "text": "🎯 Ser confiável e estar sempre presente",
+          "points": {
+            "bolo_fubar": 0.9,
+            "pamonha": 0.7
+          }
+        },
+        {
+          "text": "💫 Trazer boas vibrações e fazer as pessoas se sentirem bem",
+          "points": {
+            "canjica": 0.8,
+            "amendoim_cozido": 0.6
+          }
+        },
+        {
+          "text": "🔥 Ser memorável e deixar sua marca",
+          "points": {
+            "rapadura": 0.9,
+            "pe_moleque": 0.7
+          }
+        },
+        {
+          "text": "🌟 Oferecer qualidade e sofisticação",
+          "points": {
+            "carne_louca": 0.9,
+            "curau": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse servir algo na festa, o que levaria?",
+      "answers": [
+        {
+          "text": "🎁 Algo simples mas que ninguém nega",
+          "points": {
+            "pamonha": 0.8,
+            "amendoim_cozido": 0.9
+          }
+        },
+        {
+          "text": "🔥 Algo que faz todo mundo se reunir ao redor",
+          "points": {
+            "carne_louca": 0.9,
+            "rapadura": 0.7
+          }
+        },
+        {
+          "text": "☕ Algo quentinho e reconfortante",
+          "points": {
+            "canjica": 0.9,
+            "bolo_fubar": 0.6
+          }
+        },
+        {
+          "text": "✨ Algo fino e sofisticado que impressiona",
+          "points": {
+            "curau": 0.9,
+            "pe_moleque": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu maior medo é ser...",
+      "answers": [
+        {
+          "text": "😬 Ignorado ou esquecido",
+          "points": {
+            "rapadura": 0.8,
+            "pe_moleque": 0.7
+          }
+        },
+        {
+          "text": "😰 Deixar alguém desapontado",
+          "points": {
+            "bolo_fubar": 0.9,
+            "canjica": 0.7
+          }
+        },
+        {
+          "text": "😔 Não conseguir fazer diferença",
+          "points": {
+            "carne_louca": 0.8,
+            "curau": 0.7
+          }
+        },
+        {
+          "text": "😑 Levar a vida muito a sério",
+          "points": {
+            "pamonha": 0.8,
+            "amendoim_cozido": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você reage a imprevistos?",
+      "answers": [
+        {
+          "text": "🌊 Fluo naturalmente com as mudanças",
+          "points": {
+            "pamonha": 0.9,
+            "pe_moleque": 0.6
+          }
+        },
+        {
+          "text": "💪 Enfrento de peito aberto, mesmo que custe",
+          "points": {
+            "rapadura": 0.9,
+            "carne_louca": 0.6
+          }
+        },
+        {
+          "text": "🤔 Paro, reflito e acho a melhor solução",
+          "points": {
+            "curau": 0.9,
+            "bolo_fubar": 0.6
+          }
+        },
+        {
+          "text": "🤗 Preciso do apoio de quem está por perto",
+          "points": {
+            "canjica": 0.9,
+            "amendoim_cozido": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você mais valoriza nas amizades?",
+      "answers": [
+        {
+          "text": "🎯 Lealdade e consistência",
+          "points": {
+            "bolo_fubar": 0.9,
+            "amendoim_cozido": 0.7
+          }
+        },
+        {
+          "text": "🎉 Diversão e momento gostoso junto",
+          "points": {
+            "pe_moleque": 0.9,
+            "pamonha": 0.6
+          }
+        },
+        {
+          "text": "💝 Acolhimento e compaixão",
+          "points": {
+            "canjica": 0.9,
+            "curau": 0.6
+          }
+        },
+        {
+          "text": "🌟 Admiração mútua e inteligência",
+          "points": {
+            "carne_louca": 0.9,
+            "rapadura": 0.5
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se a sua vida fosse uma música, seria...",
+      "answers": [
+        {
+          "text": "🎶 Um forró descontraído e dançante",
+          "points": {
+            "pamonha": 0.8,
+            "pe_moleque": 0.7
+          }
+        },
+        {
+          "text": "🎼 Uma balada nostálgica e melancólica",
+          "points": {
+            "bolo_fubar": 0.8,
+            "canjica": 0.7
+          }
+        },
+        {
+          "text": "🥁 Um ritmo forte e marcante",
+          "points": {
+            "rapadura": 0.9,
+            "pe_moleque": 0.5
+          }
+        },
+        {
+          "text": "🎺 Uma música requintada e sofisticada",
+          "points": {
+            "carne_louca": 0.9,
+            "curau": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase mais combina com você?",
+      "answers": [
+        {
+          "text": "\"A vida é simples, não complique\"",
+          "points": {
+            "amendoim_cozido": 0.9,
+            "pamonha": 0.7
+          }
+        },
+        {
+          "text": "\"A qualidade está nos detalhes\"",
+          "points": {
+            "curau": 0.9,
+            "carne_louca": 0.7
+          }
+        },
+        {
+          "text": "\"Vivi, amei e dei risada demais\"",
+          "points": {
+            "pe_moleque": 0.9,
+            "rapadura": 0.6
+          }
+        },
+        {
+          "text": "\"Deixa eu aqui, que eu aquiço tudo\"",
+          "points": {
+            "canjica": 0.9,
+            "bolo_fubar": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "No final da festa, você quer que pessoas digam...",
+      "answers": [
+        {
+          "text": "\"Que bom ter você aqui, amigo\"",
+          "points": {
+            "pamonha": 0.8,
+            "amendoim_cozido": 0.7
+          }
+        },
+        {
+          "text": "\"Você me aqueceu o coração hoje\"",
+          "points": {
+            "canjica": 0.9,
+            "bolo_fubar": 0.6
+          }
+        },
+        {
+          "text": "\"Que noite inesquecível você nos deu!\"",
+          "points": {
+            "pe_moleque": 0.9,
+            "rapadura": 0.7
+          }
+        },
+        {
+          "text": "\"Que privilégio compartilhar isso com você\"",
+          "points": {
+            "carne_louca": 0.9,
+            "curau": 0.8
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "pamonha": {
+      "title": "Pamonha 🌽",
+      "emoji": "🌽",
+      "subtitle": "A Prática e Descontraída",
+      "text": "Você é a pamonha: prática, fácil de levar e compartilhar, sempre bem-vinda. Você não complica as coisas, se adapta bem e combina com qualquer momento. Confiável, popular e eternamente apreciado!"
+    },
+    "canjica": {
+      "title": "Canjica 🍲",
+      "emoji": "🍲",
+      "subtitle": "O Aconchego Reconfortante",
+      "text": "Você é a canjica: aquele abraço quente que ninguém pediu mas todos precisam. Você cria ambientes acolhedores, é confortável e faz as pessoas se sentirem seguras. Você aquece não só o corpo, mas também o coração!"
+    },
+    "pe_moleque": {
+      "title": "Pé de Moleque 🍯",
+      "emoji": "🍯",
+      "subtitle": "O Atrevido Irresistível",
+      "text": "Você é o pé de moleque: crocante, pegajoso, viciante e cheio de energia. Histórico, travesso desde o período colonial, você é aquele que não sai de perto e traz diversão garantida. Irresistível e um pouco desajustado!"
+    },
+    "bolo_fubar": {
+      "title": "Bolo de Fubá 🧈",
+      "emoji": "🧈",
+      "subtitle": "O Clássico Versátil",
+      "text": "Você é o bolo de fubá: tradicional, confiável e presente em TODA festa junina que se preza. Você é aquele amigo que funciona em qualquer situação, é fácil de estar perto e nunca decepciona. Simples, mas impecável!"
+    },
+    "curau": {
+      "title": "Curau 🌊",
+      "emoji": "🌊",
+      "subtitle": "O Delicado Sofisticado",
+      "text": "Você é o curau: cremoso, elegante e de aparência frágil, mas com personalidade marcante. Você aprecia refinamento e qualidade, é introspectivo e sabe apreciar momentos especiais. Sofisticado sem ser pretensioso!"
+    },
+    "rapadura": {
+      "title": "Rapadura 🔴",
+      "emoji": "🔴",
+      "subtitle": "O Intenso Histórico",
+      "text": "Você é a rapadura: intensa, marcante, com história e tradição. Você não passa despercebido, tem sabor forte e é memorável. Você traz energia bruta, é resistente e carrega séculos de significado!"
+    },
+    "amendoim_cozido": {
+      "title": "Amendoim Cozido 🫘",
+      "emoji": "🫘",
+      "subtitle": "O Simples Acessível",
+      "text": "Você é o amendoim cozido: humilde, saudável e para todo mundo. Você não precisa de muita coisa para ser feliz, é prático e traz alegria simples. Acessível, confiável e aquele petisco que ninguém dispensa!"
+    },
+    "carne_louca": {
+      "title": "Carne Louca 🍖",
+      "emoji": "🍖",
+      "subtitle": "O Sofisticado Indulgente",
+      "text": "Você é a carne louca: complexo, generoso e cheio de camadas de sabor. Você aprecia o luxo discreto, combina bem com tudo, e traz aquele toque sofisticado para a festa. Refinado mas descontraído, você não é simples!"
+    }
+  }
+}
