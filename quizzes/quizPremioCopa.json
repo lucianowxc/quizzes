@@ -1,0 +1,260 @@
+{
+  "title": "Qual Prêmio da Copa do Mundo Você Seria?",
+  "subtitle": "Descubra qual dos icônicos prêmios da Copa do Mundo combina mais com sua personalidade!",
+  "questions": [
+    {
+      "question": "Quando um projeto seu recebe reconhecimento, você:",
+      "answers": [
+        {
+          "text": "🌟 Comemora com humildade, valorizando o time",
+          "points": { "bola_ouro": 0.8, "fair_play": 0.5 }
+        },
+        {
+          "text": "📊 Analisa o que funcionou para repetir o sucesso",
+          "points": { "chuteira_ouro": 0.9, "luva_ouro": 0.3 }
+        },
+        {
+          "text": "🎨 Reflete sobre o processo criativo",
+          "points": { "gol_torneio": 0.8, "jovem_revelacao": 0.5 }
+        },
+        {
+          "text": "🎉 Festeja com quem ajudou e espalha boas energias",
+          "points": { "selecao_divertida": 0.9, "fair_play": 0.4 }
+        }
+      ]
+    },
+    {
+      "question": "Qual valor é mais importante para você?",
+      "answers": [
+        {
+          "text": "💪 Determinação para superar desafios",
+          "points": { "chuteira_ouro": 0.9, "bola_ouro": 0.5 }
+        },
+        {
+          "text": "🛡️ Segurança e estabilidade para o time",
+          "points": { "luva_ouro": 0.8, "fair_play": 0.4 }
+        },
+        {
+          "text": "💡 Curiosidade e aprendizado constante",
+          "points": { "jovem_revelacao": 0.9, "gol_torneio": 0.3 }
+        },
+        {
+          "text": "🤗 Empatia e conexão com as pessoas",
+          "points": { "selecao_divertida": 0.7, "fair_play": 0.8 }
+        }
+      ]
+    },
+    {
+      "question": "Como você contribui em uma equipe?",
+      "answers": [
+        {
+          "text": "👑 Inspirando confiança e motivando os outros",
+          "points": { "bola_ouro": 0.8, "chuteira_ouro": 0.4 }
+        },
+        {
+          "text": "🧠 Trazendo soluções práticas e objetivas",
+          "points": { "chuteira_ouro": 0.7, "luva_ouro": 0.5 }
+        },
+        {
+          "text": "🌱 Estimulando novas ideias e perguntas",
+          "points": { "jovem_revelacao": 0.9, "gol_torneio": 0.6 }
+        },
+        {
+          "text": "🤝 Criando um ambiente onde todos se sintam bem",
+          "points": { "selecao_divertida": 0.8, "fair_play": 0.7 }
+        }
+      ]
+    },
+    {
+      "question": "Seu maior ponto forte é:",
+      "answers": [
+        {
+          "text": "🎯 Foco e capacidade de execução",
+          "points": { "chuteira_ouro": 0.9, "bola_ouro": 0.5 }
+        },
+        {
+          "text": "🧘 Calma e equilíbrio em situações difíceis",
+          "points": { "luva_ouro": 0.8, "fair_play": 0.4 }
+        },
+        {
+          "text": "🧩 Criatividade para resolver problemas",
+          "points": { "gol_torneio": 0.8, "jovem_revelacao": 0.5 }
+        },
+        {
+          "text": "😊 Simpatia e habilidade social",
+          "points": { "selecao_divertida": 0.9, "fair_play": 0.6 }
+        }
+      ]
+    },
+    {
+      "question": "O que você mais valoriza nos outros?",
+      "answers": [
+        {
+          "text": "🏅 Comprometimento e dedicação",
+          "points": { "chuteira_ouro": 0.7, "bola_ouro": 0.6 }
+        },
+        {
+          "text": "🕊️ Respeito e integridade",
+          "points": { "fair_play": 0.9, "luva_ouro": 0.5 }
+        },
+        {
+          "text": "🎭 Autenticidade e originalidade",
+          "points": { "gol_torneio": 0.8, "jovem_revelacao": 0.5 }
+        },
+        {
+          "text": "🌈 Bom humor e leveza",
+          "points": { "selecao_divertida": 0.9, "fair_play": 0.4 }
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com o estresse?",
+      "answers": [
+        {
+          "text": "⚡ Transformo energia em ação",
+          "points": { "chuteira_ouro": 0.8, "bola_ouro": 0.5 }
+        },
+        {
+          "text": "🌊 Respiro fundo e mantenho a calma",
+          "points": { "luva_ouro": 0.9, "fair_play": 0.4 }
+        },
+        {
+          "text": "🌀 Busco soluções criativas e diferentes",
+          "points": { "gol_torneio": 0.7, "jovem_revelacao": 0.6 }
+        },
+        {
+          "text": "😄 Tento descontrair e aliviar a tensão",
+          "points": { "selecao_divertida": 0.8, "fair_play": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um estilo de música, seria:",
+      "answers": [
+        {
+          "text": "🎸 Rock — energia e atitude",
+          "points": { "chuteira_ouro": 0.8, "bola_ouro": 0.5 }
+        },
+        {
+          "text": "🎻 Música clássica — precisão e técnica",
+          "points": { "luva_ouro": 0.7, "fair_play": 0.4 }
+        },
+        {
+          "text": "🎷 Jazz — improviso e criatividade",
+          "points": { "gol_torneio": 0.9, "jovem_revelacao": 0.5 }
+        },
+        {
+          "text": "🎵 MPB — acolhedora e cheia de sentimento",
+          "points": { "selecao_divertida": 0.8, "fair_play": 0.6 }
+        }
+      ]
+    },
+    {
+      "question": "O que você faz quando algo não sai como planejado?",
+      "answers": [
+        {
+          "text": "📈 Reavalio metas e ajusto a rota",
+          "points": { "chuteira_ouro": 0.8, "bola_ouro": 0.4 }
+        },
+        {
+          "text": "🤔 Reflito sobre o que posso aprender",
+          "points": { "jovem_revelacao": 0.7, "luva_ouro": 0.5 }
+        },
+        {
+          "text": "🎭 Busco uma saída criativa e inesperada",
+          "points": { "gol_torneio": 0.9, "selecao_divertida": 0.3 }
+        },
+        {
+          "text": "🤗 Compartilho com o time e sigo em frente",
+          "points": { "fair_play": 0.8, "selecao_divertida": 0.6 }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase combina mais com você?",
+      "answers": [
+        {
+          "text": "🏆 O sucesso é a soma de pequenos esforços",
+          "points": { "chuteira_ouro": 0.8, "bola_ouro": 0.6 }
+        },
+        {
+          "text": "🌟 A beleza está na jornada, não no destino",
+          "points": { "gol_torneio": 0.9, "jovem_revelacao": 0.4 }
+        },
+        {
+          "text": "🛡️ O cuidado com os outros nos fortalece",
+          "points": { "luva_ouro": 0.7, "fair_play": 0.8 }
+        },
+        {
+          "text": "🌈 A vida é melhor quando compartilhada",
+          "points": { "selecao_divertida": 0.9, "fair_play": 0.5 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é o seu maior sonho?",
+      "answers": [
+        {
+          "text": "🌟 Deixar um legado que inspire outras gerações",
+          "points": { "bola_ouro": 0.9, "gol_torneio": 0.4 }
+        },
+        {
+          "text": "🏔️ Superar limites e conquistar grandes feitos",
+          "points": { "chuteira_ouro": 0.8, "jovem_revelacao": 0.5 }
+        },
+        {
+          "text": "🌱 Crescer continuamente, aprendendo a cada dia",
+          "points": { "jovem_revelacao": 0.9, "fair_play": 0.3 }
+        },
+        {
+          "text": "🎉 Viver rodeado de boas pessoas e bons momentos",
+          "points": { "selecao_divertida": 0.9, "fair_play": 0.6 }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "bola_ouro": {
+      "title": "Bola de Ouro",
+      "emoji": "⭐",
+      "subtitle": "O Destaque Natural",
+      "text": "Você tem uma presença magnética e uma confiança inspiradora. As pessoas naturalmente olham para você em busca de liderança. Seu talento é inegável, mas o que realmente te destaca é a generosidade em compartilhar o protagonismo. Continue brilhando!"
+    },
+    "chuteira_ouro": {
+      "title": "Chuteira de Ouro",
+      "emoji": "⚽",
+      "subtitle": "O Realizador",
+      "text": "Você tem foco e determinação. Quando define uma meta, vai atrás com toda energia. É pragmático, objetivo e sabe exatamente o que quer. Seu maior presente é transformar planos em realidade — e inspirar os outros a fazerem o mesmo."
+    },
+    "luva_ouro": {
+      "title": "Luva de Ouro",
+      "emoji": "🧤",
+      "subtitle": "O Protetor",
+      "text": "Você é a pessoa que segura a onda quando tudo parece desabar. Calmo, paciente e confiável, você é o porto seguro do seu time. Pode não ser o centro das atenções, mas todos sabem que sem você, o caos reinaria. Sua força está na constância."
+    },
+    "jovem_revelacao": {
+      "title": "Melhor Jogador Jovem",
+      "emoji": "🌱",
+      "subtitle": "O Curioso",
+      "text": "Você tem a energia de quem está começando, mas com a sabedoria de quem já entende do jogo. É curioso, aberto a aprender e não tem medo de errar — porque sabe que cada erro é um degrau. Seu futuro é promissor e sua humildade é seu maior trunfo."
+    },
+    "fair_play": {
+      "title": "Fair Play",
+      "emoji": "🤝",
+      "subtitle": "O Equilibrado",
+      "text": "Você acredita que o caminho importa tanto quanto o destino. É ético, respeitoso e sempre busca o melhor para o grupo. Sua habilidade de ouvir e mediar conflitos é rara. O mundo precisa de mais pessoas como você, que colocam o coletivo acima do ego."
+    },
+    "gol_torneio": {
+      "title": "Gol do Torneio",
+      "emoji": "🎬",
+      "subtitle": "O Criativo",
+      "text": "Você enxerga beleza onde outros veem apenas rotina. É criativo, imaginativo e não tem medo de ousar. Sua abordagem única transforma o ordinário em extraordinário. Às vezes as pessoas demoram a entender sua visão, mas quando entendem, se encantam."
+    },
+    "selecao_divertida": {
+      "title": "Seleção Mais Divertida",
+      "emoji": "🎊",
+      "subtitle": "O Iluminador",
+      "text": "Você tem o dom de transformar qualquer ambiente em um lugar mais leve. Seu sorriso é contagiante e sua presença, revigorante. Sabe que a vida é feita de momentos, e faz questão de torná-los memoráveis. Continue espalhando essa energia tão especial!"
+    }
+  }
+}
