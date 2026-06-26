@@ -7,210 +7,540 @@
       "answers": [
         {
           "text": "🌟 Comemora com humildade, valorizando o time",
-          "points": { "bola_ouro": 0.8, "fair_play": 0.5 }
+          "points": {
+            "bola_ouro": 0.0998,
+            "fair_play": 0.084,
+            "chuteira_ouro": 0.0079,
+            "luva_ouro": 0.0089,
+            "jovem_revelacao": 0.0069,
+            "gol_torneio": 0.008,
+            "selecao_divertida": 0.0077
+          }
         },
         {
           "text": "📊 Analisa o que funcionou para repetir o sucesso",
-          "points": { "chuteira_ouro": 0.9, "luva_ouro": 0.3 }
+          "points": {
+            "chuteira_ouro": 0.1211,
+            "luva_ouro": 0.1241,
+            "bola_ouro": 0.0054,
+            "jovem_revelacao": 0.005,
+            "fair_play": 0.0031,
+            "gol_torneio": 0.0061,
+            "selecao_divertida": 0.0059
+          }
         },
         {
           "text": "🎨 Reflete sobre o processo criativo",
-          "points": { "gol_torneio": 0.8, "jovem_revelacao": 0.5 }
+          "points": {
+            "gol_torneio": 0.1075,
+            "jovem_revelacao": 0.1284,
+            "bola_ouro": 0.006,
+            "chuteira_ouro": 0.0066,
+            "luva_ouro": 0.0074,
+            "fair_play": 0.0034,
+            "selecao_divertida": 0.0065
+          }
         },
         {
           "text": "🎉 Festeja com quem ajudou e espalha boas energias",
-          "points": { "selecao_divertida": 0.9, "fair_play": 0.4 }
+          "points": {
+            "selecao_divertida": 0.115,
+            "fair_play": 0.0707,
+            "bola_ouro": 0.0072,
+            "chuteira_ouro": 0.0079,
+            "luva_ouro": 0.0088,
+            "jovem_revelacao": 0.0068,
+            "gol_torneio": 0.0081
+          }
         }
-      ]
+      ],
+      "id": "q0"
     },
     {
       "question": "Qual valor é mais importante para você?",
       "answers": [
         {
           "text": "💪 Determinação para superar desafios",
-          "points": { "chuteira_ouro": 0.9, "bola_ouro": 0.5 }
+          "points": {
+            "chuteira_ouro": 0.1211,
+            "bola_ouro": 0.14,
+            "luva_ouro": 0.0071,
+            "jovem_revelacao": 0.0055,
+            "fair_play": 0.0033,
+            "gol_torneio": 0.0066,
+            "selecao_divertida": 0.0064
+          }
         },
         {
           "text": "🛡️ Segurança e estabilidade para o time",
-          "points": { "luva_ouro": 0.8, "fair_play": 0.4 }
+          "points": {
+            "luva_ouro": 0.1197,
+            "fair_play": 0.0697,
+            "bola_ouro": 0.0066,
+            "chuteira_ouro": 0.0074,
+            "jovem_revelacao": 0.0063,
+            "gol_torneio": 0.0074,
+            "selecao_divertida": 0.0071
+          }
         },
         {
           "text": "💡 Curiosidade e aprendizado constante",
-          "points": { "jovem_revelacao": 0.9, "gol_torneio": 0.3 }
+          "points": {
+            "jovem_revelacao": 0.1039,
+            "gol_torneio": 0.1235,
+            "bola_ouro": 0.0057,
+            "chuteira_ouro": 0.0064,
+            "luva_ouro": 0.007,
+            "fair_play": 0.0033,
+            "selecao_divertida": 0.0062
+          }
         },
         {
           "text": "🤗 Empatia e conexão com as pessoas",
-          "points": { "selecao_divertida": 0.7, "fair_play": 0.8 }
+          "points": {
+            "selecao_divertida": 0.0897,
+            "fair_play": 0.0967,
+            "bola_ouro": 0.0082,
+            "chuteira_ouro": 0.0089,
+            "luva_ouro": 0.01,
+            "jovem_revelacao": 0.0077,
+            "gol_torneio": 0.0091
+          }
         }
-      ]
+      ],
+      "id": "q1"
     },
     {
       "question": "Como você contribui em uma equipe?",
       "answers": [
         {
           "text": "👑 Inspirando confiança e motivando os outros",
-          "points": { "bola_ouro": 0.8, "chuteira_ouro": 0.4 }
+          "points": {
+            "bola_ouro": 0.0998,
+            "chuteira_ouro": 0.1407,
+            "luva_ouro": 0.0065,
+            "jovem_revelacao": 0.0052,
+            "fair_play": 0.0031,
+            "gol_torneio": 0.0062,
+            "selecao_divertida": 0.0059
+          }
         },
         {
           "text": "🧠 Trazendo soluções práticas e objetivas",
-          "points": { "chuteira_ouro": 0.7, "luva_ouro": 0.5 }
+          "points": {
+            "chuteira_ouro": 0.0945,
+            "luva_ouro": 0.1506,
+            "bola_ouro": 0.0054,
+            "jovem_revelacao": 0.005,
+            "fair_play": 0.0031,
+            "gol_torneio": 0.006,
+            "selecao_divertida": 0.0059
+          }
         },
         {
           "text": "🌱 Estimulando novas ideias e perguntas",
-          "points": { "jovem_revelacao": 0.9, "gol_torneio": 0.6 }
+          "points": {
+            "jovem_revelacao": 0.1039,
+            "gol_torneio": 0.1839,
+            "bola_ouro": 0.0058,
+            "chuteira_ouro": 0.0064,
+            "luva_ouro": 0.0071,
+            "fair_play": 0.0032,
+            "selecao_divertida": 0.0062
+          }
         },
         {
           "text": "🤝 Criando um ambiente onde todos se sintam bem",
-          "points": { "selecao_divertida": 0.8, "fair_play": 0.7 }
+          "points": {
+            "selecao_divertida": 0.1023,
+            "fair_play": 0.0936,
+            "bola_ouro": 0.0079,
+            "chuteira_ouro": 0.0086,
+            "luva_ouro": 0.0096,
+            "jovem_revelacao": 0.0074,
+            "gol_torneio": 0.0087
+          }
         }
-      ]
+      ],
+      "id": "q2"
     },
     {
       "question": "Seu maior ponto forte é:",
       "answers": [
         {
           "text": "🎯 Foco e capacidade de execução",
-          "points": { "chuteira_ouro": 0.9, "bola_ouro": 0.5 }
+          "points": {
+            "chuteira_ouro": 0.1211,
+            "bola_ouro": 0.14,
+            "luva_ouro": 0.0071,
+            "jovem_revelacao": 0.0055,
+            "fair_play": 0.0033,
+            "gol_torneio": 0.0066,
+            "selecao_divertida": 0.0064
+          }
         },
         {
           "text": "🧘 Calma e equilíbrio em situações difíceis",
-          "points": { "luva_ouro": 0.8, "fair_play": 0.4 }
+          "points": {
+            "luva_ouro": 0.1197,
+            "fair_play": 0.0697,
+            "bola_ouro": 0.0066,
+            "chuteira_ouro": 0.0074,
+            "jovem_revelacao": 0.0063,
+            "gol_torneio": 0.0074,
+            "selecao_divertida": 0.0071
+          }
         },
         {
           "text": "🧩 Criatividade para resolver problemas",
-          "points": { "gol_torneio": 0.8, "jovem_revelacao": 0.5 }
+          "points": {
+            "gol_torneio": 0.1075,
+            "jovem_revelacao": 0.1284,
+            "bola_ouro": 0.006,
+            "chuteira_ouro": 0.0066,
+            "luva_ouro": 0.0074,
+            "fair_play": 0.0034,
+            "selecao_divertida": 0.0065
+          }
         },
         {
           "text": "😊 Simpatia e habilidade social",
-          "points": { "selecao_divertida": 0.9, "fair_play": 0.6 }
+          "points": {
+            "selecao_divertida": 0.115,
+            "fair_play": 0.0896,
+            "bola_ouro": 0.0076,
+            "chuteira_ouro": 0.0083,
+            "luva_ouro": 0.0093,
+            "jovem_revelacao": 0.0072,
+            "gol_torneio": 0.0084
+          }
         }
-      ]
+      ],
+      "id": "q3"
     },
     {
       "question": "O que você mais valoriza nos outros?",
       "answers": [
         {
           "text": "🏅 Comprometimento e dedicação",
-          "points": { "chuteira_ouro": 0.7, "bola_ouro": 0.6 }
+          "points": {
+            "chuteira_ouro": 0.0945,
+            "bola_ouro": 0.1408,
+            "luva_ouro": 0.0072,
+            "jovem_revelacao": 0.0056,
+            "fair_play": 0.0034,
+            "gol_torneio": 0.0067,
+            "selecao_divertida": 0.0065
+          }
         },
         {
           "text": "🕊️ Respeito e integridade",
-          "points": { "fair_play": 0.9, "luva_ouro": 0.5 }
+          "points": {
+            "fair_play": 0.0623,
+            "luva_ouro": 0.1915,
+            "bola_ouro": 0.0061,
+            "chuteira_ouro": 0.0066,
+            "jovem_revelacao": 0.0058,
+            "gol_torneio": 0.0067,
+            "selecao_divertida": 0.0064
+          }
         },
         {
           "text": "🎭 Autenticidade e originalidade",
-          "points": { "gol_torneio": 0.8, "jovem_revelacao": 0.5 }
+          "points": {
+            "gol_torneio": 0.1075,
+            "jovem_revelacao": 0.1284,
+            "bola_ouro": 0.006,
+            "chuteira_ouro": 0.0066,
+            "luva_ouro": 0.0074,
+            "fair_play": 0.0034,
+            "selecao_divertida": 0.0065
+          }
         },
         {
           "text": "🌈 Bom humor e leveza",
-          "points": { "selecao_divertida": 0.9, "fair_play": 0.4 }
+          "points": {
+            "selecao_divertida": 0.115,
+            "fair_play": 0.0707,
+            "bola_ouro": 0.0072,
+            "chuteira_ouro": 0.0079,
+            "luva_ouro": 0.0088,
+            "jovem_revelacao": 0.0068,
+            "gol_torneio": 0.0081
+          }
         }
-      ]
+      ],
+      "id": "q4"
     },
     {
       "question": "Como você lida com o estresse?",
       "answers": [
         {
           "text": "⚡ Transformo energia em ação",
-          "points": { "chuteira_ouro": 0.8, "bola_ouro": 0.5 }
+          "points": {
+            "chuteira_ouro": 0.1078,
+            "bola_ouro": 0.1331,
+            "luva_ouro": 0.0071,
+            "jovem_revelacao": 0.0055,
+            "fair_play": 0.0033,
+            "gol_torneio": 0.0066,
+            "selecao_divertida": 0.0064
+          }
         },
         {
           "text": "🌊 Respiro fundo e mantenho a calma",
-          "points": { "luva_ouro": 0.9, "fair_play": 0.4 }
+          "points": {
+            "luva_ouro": 0.1345,
+            "fair_play": 0.0733,
+            "bola_ouro": 0.0067,
+            "chuteira_ouro": 0.0074,
+            "jovem_revelacao": 0.0063,
+            "gol_torneio": 0.0074,
+            "selecao_divertida": 0.0071
+          }
         },
         {
           "text": "🌀 Busco soluções criativas e diferentes",
-          "points": { "gol_torneio": 0.7, "jovem_revelacao": 0.6 }
+          "points": {
+            "gol_torneio": 0.0942,
+            "jovem_revelacao": 0.1358,
+            "bola_ouro": 0.0061,
+            "chuteira_ouro": 0.0067,
+            "luva_ouro": 0.0074,
+            "fair_play": 0.0035,
+            "selecao_divertida": 0.0065
+          }
         },
         {
           "text": "😄 Tento descontrair e aliviar a tensão",
-          "points": { "selecao_divertida": 0.8, "fair_play": 0.5 }
+          "points": {
+            "selecao_divertida": 0.1023,
+            "fair_play": 0.0764,
+            "bola_ouro": 0.0074,
+            "chuteira_ouro": 0.0081,
+            "luva_ouro": 0.0091,
+            "jovem_revelacao": 0.007,
+            "gol_torneio": 0.0083
+          }
         }
-      ]
+      ],
+      "id": "q5"
     },
     {
       "question": "Se você fosse um estilo de música, seria:",
       "answers": [
         {
           "text": "🎸 Rock — energia e atitude",
-          "points": { "chuteira_ouro": 0.8, "bola_ouro": 0.5 }
+          "points": {
+            "chuteira_ouro": 0.1078,
+            "bola_ouro": 0.1331,
+            "luva_ouro": 0.0071,
+            "jovem_revelacao": 0.0055,
+            "fair_play": 0.0033,
+            "gol_torneio": 0.0066,
+            "selecao_divertida": 0.0064
+          }
         },
         {
           "text": "🎻 Música clássica — precisão e técnica",
-          "points": { "luva_ouro": 0.7, "fair_play": 0.4 }
+          "points": {
+            "luva_ouro": 0.105,
+            "fair_play": 0.0659,
+            "bola_ouro": 0.0066,
+            "chuteira_ouro": 0.0074,
+            "jovem_revelacao": 0.0064,
+            "gol_torneio": 0.0074,
+            "selecao_divertida": 0.0071
+          }
         },
         {
           "text": "🎷 Jazz — improviso e criatividade",
-          "points": { "gol_torneio": 0.9, "jovem_revelacao": 0.5 }
+          "points": {
+            "gol_torneio": 0.1208,
+            "jovem_revelacao": 0.1351,
+            "bola_ouro": 0.006,
+            "chuteira_ouro": 0.0065,
+            "luva_ouro": 0.0074,
+            "fair_play": 0.0034,
+            "selecao_divertida": 0.0065
+          }
         },
         {
           "text": "🎵 MPB — acolhedora e cheia de sentimento",
-          "points": { "selecao_divertida": 0.8, "fair_play": 0.6 }
+          "points": {
+            "selecao_divertida": 0.1023,
+            "fair_play": 0.0851,
+            "bola_ouro": 0.0077,
+            "chuteira_ouro": 0.0083,
+            "luva_ouro": 0.0094,
+            "jovem_revelacao": 0.0072,
+            "gol_torneio": 0.0085
+          }
         }
-      ]
+      ],
+      "id": "q6"
     },
     {
       "question": "O que você faz quando algo não sai como planejado?",
       "answers": [
         {
           "text": "📈 Reavalio metas e ajusto a rota",
-          "points": { "chuteira_ouro": 0.8, "bola_ouro": 0.4 }
+          "points": {
+            "chuteira_ouro": 0.1078,
+            "bola_ouro": 0.1166,
+            "luva_ouro": 0.007,
+            "jovem_revelacao": 0.0055,
+            "fair_play": 0.0033,
+            "gol_torneio": 0.0065,
+            "selecao_divertida": 0.0063
+          }
         },
         {
           "text": "🤔 Reflito sobre o que posso aprender",
-          "points": { "jovem_revelacao": 0.7, "luva_ouro": 0.5 }
+          "points": {
+            "jovem_revelacao": 0.0811,
+            "luva_ouro": 0.1619,
+            "bola_ouro": 0.0055,
+            "chuteira_ouro": 0.006,
+            "fair_play": 0.0031,
+            "gol_torneio": 0.0062,
+            "selecao_divertida": 0.0058
+          }
         },
         {
           "text": "🎭 Busco uma saída criativa e inesperada",
-          "points": { "gol_torneio": 0.9, "selecao_divertida": 0.3 }
+          "points": {
+            "gol_torneio": 0.1208,
+            "selecao_divertida": 0.1113,
+            "bola_ouro": 0.0057,
+            "chuteira_ouro": 0.0062,
+            "luva_ouro": 0.007,
+            "jovem_revelacao": 0.0054,
+            "fair_play": 0.0032
+          }
         },
         {
           "text": "🤗 Compartilho com o time e sigo em frente",
-          "points": { "fair_play": 0.8, "selecao_divertida": 0.6 }
+          "points": {
+            "fair_play": 0.0554,
+            "selecao_divertida": 0.1758,
+            "bola_ouro": 0.0065,
+            "chuteira_ouro": 0.0071,
+            "luva_ouro": 0.0079,
+            "jovem_revelacao": 0.0062,
+            "gol_torneio": 0.0073
+          }
         }
-      ]
+      ],
+      "id": "q7"
     },
     {
       "question": "Qual frase combina mais com você?",
       "answers": [
         {
           "text": "🏆 O sucesso é a soma de pequenos esforços",
-          "points": { "chuteira_ouro": 0.8, "bola_ouro": 0.6 }
+          "points": {
+            "chuteira_ouro": 0.1078,
+            "bola_ouro": 0.1486,
+            "luva_ouro": 0.0072,
+            "jovem_revelacao": 0.0056,
+            "fair_play": 0.0034,
+            "gol_torneio": 0.0067,
+            "selecao_divertida": 0.0065
+          }
         },
         {
           "text": "🌟 A beleza está na jornada, não no destino",
-          "points": { "gol_torneio": 0.9, "jovem_revelacao": 0.4 }
+          "points": {
+            "gol_torneio": 0.1208,
+            "jovem_revelacao": 0.1185,
+            "bola_ouro": 0.0059,
+            "chuteira_ouro": 0.0065,
+            "luva_ouro": 0.0073,
+            "fair_play": 0.0033,
+            "selecao_divertida": 0.0063
+          }
         },
         {
           "text": "🛡️ O cuidado com os outros nos fortalece",
-          "points": { "luva_ouro": 0.7, "fair_play": 0.8 }
+          "points": {
+            "luva_ouro": 0.105,
+            "fair_play": 0.1019,
+            "bola_ouro": 0.0077,
+            "chuteira_ouro": 0.0083,
+            "jovem_revelacao": 0.0072,
+            "gol_torneio": 0.0085,
+            "selecao_divertida": 0.0081
+          }
         },
         {
           "text": "🌈 A vida é melhor quando compartilhada",
-          "points": { "selecao_divertida": 0.9, "fair_play": 0.5 }
+          "points": {
+            "selecao_divertida": 0.115,
+            "fair_play": 0.0804,
+            "bola_ouro": 0.0074,
+            "chuteira_ouro": 0.0081,
+            "luva_ouro": 0.0091,
+            "jovem_revelacao": 0.007,
+            "gol_torneio": 0.0082
+          }
         }
-      ]
+      ],
+      "id": "q8"
     },
     {
       "question": "Qual é o seu maior sonho?",
       "answers": [
         {
           "text": "🌟 Deixar um legado que inspire outras gerações",
-          "points": { "bola_ouro": 0.9, "gol_torneio": 0.4 }
+          "points": {
+            "bola_ouro": 0.1121,
+            "gol_torneio": 0.1457,
+            "chuteira_ouro": 0.006,
+            "luva_ouro": 0.0068,
+            "jovem_revelacao": 0.0053,
+            "fair_play": 0.0032,
+            "selecao_divertida": 0.0059
+          }
         },
         {
           "text": "🏔️ Superar limites e conquistar grandes feitos",
-          "points": { "chuteira_ouro": 0.8, "jovem_revelacao": 0.5 }
+          "points": {
+            "chuteira_ouro": 0.1078,
+            "jovem_revelacao": 0.1239,
+            "bola_ouro": 0.0062,
+            "luva_ouro": 0.0074,
+            "fair_play": 0.0034,
+            "gol_torneio": 0.0069,
+            "selecao_divertida": 0.0066
+          }
         },
         {
           "text": "🌱 Crescer continuamente, aprendendo a cada dia",
-          "points": { "jovem_revelacao": 0.9, "fair_play": 0.3 }
+          "points": {
+            "jovem_revelacao": 0.1039,
+            "fair_play": 0.0657,
+            "bola_ouro": 0.0072,
+            "chuteira_ouro": 0.0079,
+            "luva_ouro": 0.0088,
+            "gol_torneio": 0.008,
+            "selecao_divertida": 0.0077
+          }
         },
         {
           "text": "🎉 Viver rodeado de boas pessoas e bons momentos",
-          "points": { "selecao_divertida": 0.9, "fair_play": 0.6 }
+          "points": {
+            "selecao_divertida": 0.115,
+            "fair_play": 0.0896,
+            "bola_ouro": 0.0076,
+            "chuteira_ouro": 0.0083,
+            "luva_ouro": 0.0093,
+            "jovem_revelacao": 0.0072,
+            "gol_torneio": 0.0084
+          }
         }
-      ]
+      ],
+      "id": "q9"
     }
   ],
   "descriptions": {
