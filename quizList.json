@@ -614,6 +614,11 @@
       "name": "Qual Seleção da Copa do Mundo é Você?",
       "file": "quizzes/quizCopaDoMundo.json",
       "description": "11 seleções, 13 perguntas e cutucadas garantidas. Descubra seu lado copista!"
+    },
+    {
+      "name": "Qual Prêmio da Copa do Mundo Você Seria?",
+      "file": "quizzes/quizPremioCopa.json",
+      "description": "Descubra qual dos icônicos prêmios da Copa do Mundo combina mais com sua personalidade!"
     }
   ]
 }
