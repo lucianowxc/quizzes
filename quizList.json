@@ -619,6 +619,11 @@
       "name": "Qual Prêmio da Copa do Mundo Você Seria?",
       "file": "quizzes/quizPremioCopa.json",
       "description": "Descubra qual dos icônicos prêmios da Copa do Mundo combina mais com sua personalidade!"
+    },
+    {
+      "name": "Qual Protagonista de Anime Você É?",
+      "file": "quizzes/quizProtagonistaAnime.json",
+      "description": "Descubra se você salvaria o mundo com o poder da amizade ou se seria cancelado na primeira temporada."
     }
   ]
 }
