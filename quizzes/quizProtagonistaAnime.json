@@ -5,82 +5,82 @@
     {
       "question": "Seu pior inimigo aparece na sua frente desafiando você para o duelo da sua vida. Qual é a sua reação imediata?",
       "answers": [
-        { "text": "😁 Abro um sorriso de orelha a orelha e pergunto se ele quer almoçar antes de cairmos no soco.", "points": { "goku": 0.6, "luffy": 0.4 } },
-        { "text": "😭 Começo a chorar, pergunto por que ele me odeia tanto e depois faço um discurso de 20 minutos sobre dor e solidão.", "points": { "naruto": 0.7, "usagi": 0.3 } },
-        { "text": "😴 Ignoro completamente, dou meia-volta e volto a dormir. Ele que espere uns 50 anos.", "points": { "frieren": 0.6, "saitama": 0.4 } },
-        { "text": "😈 Dou um sorriso cínico, anoto o nome dele mentalmente e começo a planejar como fazer parecer um acidente.", "points": { "light": 0.8, "ranma": 0.2 } }
+        { "text": "😁 Abro um sorriso e pergunto se ele quer almoçar antes de cairmos no soco.", "points": { "goku": 0.6, "luffy": 0.4 } },
+        { "text": "😭 Choro e faço um discurso de 20 minutos sobre a dor e a solidão.", "points": { "naruto": 0.7, "usagi": 0.3 } },
+        { "text": "😴 Ignoro completamente, dou meia-volta e volto a dormir. Ele que espere.", "points": { "frieren": 0.6, "saitama": 0.4 } },
+        { "text": "😈 Dou um sorriso cínico e começo a planejar como fazer parecer um acidente.", "points": { "light": 0.8, "ranma": 0.2 } }
       ]
     },
     {
       "question": "Como você lida com as suas responsabilidades diárias (trabalho, estudos, boletos)?",
       "answers": [
-        { "text": "🛼 Que responsabilidades? Eu ando de patins, coleciono coisas fofas e deixo que o meu irmão mais velho resolva o resto.", "points": { "sakura": 0.8, "usagi": 0.2 } },
-        { "text": "📝 Eu sou um gênio, então faço tudo perfeitamente na frente dos outros para manter as aparências de cidadão exemplar.", "points": { "light": 0.7, "kaguya": 0.3 } },
-        { "text": "⏳ Eu procrastino tanto que as pessoas que viveram comigo já morreram de velhice e eu ainda não limpei o quarto.", "points": { "frieren": 0.9 } },
-        { "text": "🥩 Eu resolvo tudo na base da força bruta ou fujo para pescar/comer carne. O banco que lute.", "points": { "luffy": 0.4, "goku": 0.4, "ranma": 0.2 } }
+        { "text": "🛼 Ando de patins, coleciono coisas fofas e deixo meu irmão mais velho resolver.", "points": { "sakura": 0.8, "usagi": 0.2 } },
+        { "text": "📝 Sou um gênio e faço tudo perfeitamente para manter as aparências na frente de todos.", "points": { "light": 0.7, "ranma": 0.3 } },
+        { "text": "⏳ Procrastino tanto que as pessoas ao meu redor morrem de velhice e eu não limpei o quarto.", "points": { "frieren": 0.9 } },
+        { "text": "🥩 Resolvo tudo na base da força bruta ou fujo para comer carne. O banco que lute.", "points": { "luffy": 0.4, "goku": 0.4, "ranma": 0.2 } }
       ]
     },
     {
       "question": "Alguém te dá um banho de água fria (literal ou metaforicamente) no meio da rua. O que acontece?",
       "answers": [
-        { "text": "💥 Minha identidade inteira muda de figura, eu entro em negação total e saio correndo xingando todo mundo.", "points": { "ranma": 1.0 } },
-        { "text": "🥚 Eu nem sinto. Meu corpo é tão resistente que a água provavelmente evaporou antes de encostar.", "points": { "saitama": 0.5, "goku": 0.5 } },
-        { "text": "☕ Começo a dar pulinhos de alegria, acho super refrescante e puxo a pessoa para tomar um café gelado comigo.", "points": { "chisato": 0.7, "luffy": 0.3 } },
-        { "text": "🧸 Fico em choque por estragar meu visual perfeito e começo a berrar até um bicho de pelúcia mágico vir me consolar.", "points": { "usagi": 0.5, "sakura": 0.5 } }
+        { "text": "💥 Minha identidade inteira muda, entro em negação e saio correndo xingando tudo.", "points": { "ranma": 1.0 } },
+        { "text": "🥚 Nem sinto. Meu corpo é tão forte que a água ferve antes de encostar.", "points": { "saitama": 0.5, "goku": 0.5 } },
+        { "text": "☕ Dou pulinhos de alegria e puxo a pessoa para tomar um café gelado comigo.", "points": { "chisato": 0.7, "luffy": 0.3 } },
+        { "text": "🧸 Choro por estragar o look e espero um bicho de pelúcia mágico vir me consolar.", "points": { "usagi": 0.5, "sakura": 0.5 } }
       ]
     },
     {
-      "question": "Seu melhor amigo foi sequestrado por uma organização maligna hiper perigosa. Qual é o seu plano de resgate?",
+      "question": "Seu melhor amigo foi sequestrado por uma organização maligna perigosa. Qual é o seu plano de resgate?",
       "answers": [
-        { "text": "🍖 Invado a base deles pela porta da frente gritando o nome do meu amigo e quebrando tudo o que vir pela frente.", "points": { "luffy": 0.5, "goku": 0.5 } },
-        { "text": "🤝 Vou até lá para conversar com o líder deles, contar a minha história triste e convencê-lo a virar meu aliado.", "points": { "naruto": 0.9, "chisato": 0.1 } },
-        { "text": "🎒 Passo três meses arrumando minha mochila, compro alguns grimórios inúteis em feiras locais e depois vou andando calmamente.", "points": { "frieren": 0.8, "saitama": 0.2 } },
-        { "text": "👗 Chamo minhas amigas para usarmos roupas combinando super estilosas e resolvemos isso com o poder do amor (e bastões mágicos).", "points": { "sakura": 0.5, "usagi": 0.5 } }
+        { "text": "🍖 Invado a base deles pela porta da frente gritando e quebrando tudo.", "points": { "luffy": 0.5, "goku": 0.5 } },
+        { "text": "🤝 Vou até lá conversar com o líder e convencê-lo a virar meu melhor amigo.", "points": { "naruto": 0.9, "chisato": 0.1 } },
+        { "text": "🎒 Arrumo a mochila por meses, compro feitiços inúteis e vou andando com calma.", "points": { "frieren": 0.8, "saitama": 0.2 } },
+        { "text": "👗 Chamo minhas amigas para usar looks combinando e salvar o dia com amor.", "points": { "sakura": 0.5, "usagi": 0.5 } }
       ]
     },
     {
       "question": "Como é a sua vida amorosa ideal?",
       "answers": [
-        { "text": "🥔 Inexistente. Eu não entendo indiretas, se alguém flertar comigo eu acho que é um feitiço novo ou fome.", "points": { "frieren": 0.5, "goku": 0.3, "luffy": 0.2 } },
-        { "text": "🎭 Um completo caos. Nós nos xingamos o dia todo, fingimos que nos odiamos, mas no fundo morreríamos um pelo outro.", "points": { "ranma": 0.8, "kaguya": 0.2 } },
-        { "text": "💔 Eu sou obcecado por alguém que mal sabe que eu existo, enquanto choro pelos cantos e crio cenários perfeitos na minha cabeça.", "points": { "usagi": 0.6, "sakura": 0.4 } },
-        { "text": "🍎 Amor? Não tenho tempo para isso, estou ocupado demais limpando o mundo e rindo dramaticamente no meu quarto escuro.", "points": { "light": 1.0 } }
+        { "text": "🥔 Inexistente. Não entendo indiretas, se flertarem comigo acho que é fome.", "points": { "frieren": 0.5, "goku": 0.3, "luffy": 0.2 } },
+        { "text": "🎭 Um caos. Fingimos que nos odiamos e brigamos sempre, mas morreríamos um pelo outro.", "points": { "ranma": 0.8, "sakura": 0.2 } },
+        { "text": "💔 Sou obcecado por quem mal sabe que existo e choro criando cenários na cabeça.", "points": { "usagi": 0.6, "sakura": 0.4 } },
+        { "text": "🍎 Sem tempo, estou ocupado limpando o mundo e rindo sozinho no meu quarto escuro.", "points": { "light": 1.0 } }
       ]
     },
     {
       "question": "Você ganha na loteria acumulada. Qual é a primeira coisa que você faz com o dinheiro?",
       "answers": [
-        { "text": "🛒 Compro todo o estoque de carne do mercado e financio a viagem mais sem sentido possível com os meus amigos.", "points": { "luffy": 0.6, "goku": 0.4 } },
-        { "text": "🕶️ Invisto tudo em câmeras de segurança, ternos elegantes e equipamentos para o meu plano de dominação... quero dizer, melhoria mundial.", "points": { "light": 0.7, "kaguya": 0.3 } },
-        { "text": "🍜 Abro uma franquia vitalícia da minha barraca de lámen favorita e distribuo cupom de desconto para a vila inteira.", "points": { "naruto": 0.8, "chisato": 0.2 } },
-        { "text": "💵 Finalmente posso ir na promoção de sábado do supermercado sem me preocupar com o preço do quilo do feijão.", "points": { "saitama": 1.0 } }
+        { "text": "🛒 Compro todo o estoque de carne e financio uma viagem sem sentido com amigos.", "points": { "luffy": 0.6, "goku": 0.4 } },
+        { "text": "🕶️ Invisto em câmeras, ternos caros e planos secretos para dominar o mundo.", "points": { "light": 0.7, "ranma": 0.3 } },
+        { "text": "🍜 Abro uma franquia da minha barraca de lámen e dou cupons para a vila toda.", "points": { "naruto": 0.8, "chisato": 0.2 } },
+        { "text": "💵 Finalmente posso ir na promoção do supermercado sem chorar pelo preço do feijão.", "points": { "saitama": 1.0 } }
       ]
     },
     {
-      "question": "Qual é a seu maior talento oculto que quase ninguém valoriza?",
+      "question": "Qual é o seu maior talento oculto que quase ninguém valoriza?",
       "answers": [
-        { "text": "💤 Consigo dormir em qualquer lugar, em qualquer posição, mesmo que o mundo esteja desabando ao meu redor.", "points": { "frieren": 0.5, "usagi": 0.5 } },
-        { "text": "🤬 Minha capacidade infinita de xingar as pessoas com criatividade quando estou com os nervos à flor da pele.", "points": { "ranma": 0.8, "light": 0.2 } },
-        { "text": "🎯 Desviar de tragédias imensas na pura base da sorte e do otimismo cego, enquanto tomo um lanchinho.", "points": { "chisato": 0.6, "luffy": 0.4 } },
-        { "text": "👊 Dar socos tão fortes que quebram as leis da física, embora eu só quisesse que as pessoas calassem a boca.", "points": { "saitama": 0.6, "goku": 0.4 } }
+        { "text": "💤 Consigo dormir em qualquer lugar ou posição, mesmo com o mundo desabando.", "points": { "frieren": 0.5, "usagi": 0.5 } },
+        { "text": "🤬 Minha capacidade infinita de xingar as pessoas com criatividade sob estresse.", "points": { "ranma": 0.8, "light": 0.2 } },
+        { "text": "🎯 Desviar de tragédias na pura base da sorte e do otimismo comendo um doce.", "points": { "chisato": 0.6, "luffy": 0.4 } },
+        { "text": "👊 Dar socos tão fortes que quebram a física só para as pessoas calarem a boca.", "points": { "saitama": 0.6, "goku": 0.4 } }
       ]
     },
     {
-      "question": "Seu grupo de amigos está decidindo onde ir jantar, mas ninguém entra em um consenso. O que você faz?",
+      "question": "Seu grupo de amigos está decidindo onde ir jantar, mas ninguém entra em consenso. O que você faz?",
       "answers": [
-        { "text": "👑 Eu decido o lugar por todo mundo em segredo, manipulo a conversa e faço eles acharem que a ideia foi deles.", "points": { "light": 0.7, "kaguya": 0.3 } },
-        { "text": "🍥 Sento no chão, cruzo os braços e digo que só saio dali se formos comer lámen. Se reclamarem, eu choro.", "points": { "naruto": 0.6, "usagi": 0.4 } },
-        { "text": "🤷‍♂️ Aceito qualquer espelunca, desde que sirva uma quantidade absurda de comida por um preço ridiculamente barato.", "points": { "luffy": 0.4, "goku": 0.3, "saitama": 0.3 } },
-        { "text": "🌸 Fico tentando agradar todo mundo, sorrio nervosamente e torço para que meu bichinho de pelúcia mágico decida por nós.", "points": { "sakura": 0.8, "chisato": 0.2 } }
+        { "text": "👑 Decido em segredo, manipulo a conversa e faço acharem que a ideia foi deles.", "points": { "light": 0.7, "ranma": 0.3 } },
+        { "text": "🍥 Sento no chão e digo que só saio se formos comer lámen. Se reclamarem, choro.", "points": { "naruto": 0.6, "usagi": 0.4 } },
+        { "text": "🤷‍♂️ Aceito qualquer espelunca com muita comida barata. O que vale é encher o bucho.", "points": { "luffy": 0.4, "goku": 0.3, "saitama": 0.3 } },
+        { "text": "🌸 Tento agradar todos, sorrio e torço para meu bicho mágico decidir por nós.", "points": { "sakura": 0.8, "chisato": 0.2 } }
       ]
     },
     {
       "question": "Para fechar com chave de ouro: qual é o seu verdadeiro lema de vida?",
       "answers": [
-        { "text": "🍖 Se tem carne e aventura, eu estou dentro. O resto a gente resolve no soco ou no grito!", "points": { "luffy": 0.5, "goku": 0.5 } },
-        { "text": "⏳ Não deixe para amanhã o que você pode procrastinar pelos próximos duzentos anos.", "points": { "frieren": 0.8, "saitama": 0.2 } },
-        { "text": "🎀 Eu posso ser desastrada e chorona, mas o amor, a fofura e a justiça sempre vencem no final!", "points": { "usagi": 0.5, "sakura": 0.5 } },
-        { "text": "🧘‍♂️ Eu vou mudar este mundo podre e me tornar um deus, nem que eu precise ter um colapso nervoso semanal para isso.", "points": { "light": 0.8, "ranma": 0.2 } }
+        { "text": "🍖 Se tem carne e aventura estou dentro. O resto a gente resolve no soco!", "points": { "luffy": 0.5, "goku": 0.5 } },
+        { "text": "⏳ Não deixe para amanhã o que você pode procrastinar por duzentos anos.", "points": { "frieren": 0.8, "saitama": 0.2 } },
+        { "text": "🎀 Eu posso ser chorona, mas a fofura, o amor e a justiça sempre vencem!", "points": { "usagi": 0.5, "sakura": 0.5 } },
+        { "text": "🧘‍♂️ Vou mudar este mundo podre nem que precise ter um colapso nervoso semanal.", "points": { "light": 0.8, "ranma": 0.2 } }
       ]
     }
   ],
@@ -147,3 +147,5 @@
     }
   }
 }
+
+  
