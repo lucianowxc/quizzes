@@ -629,6 +629,11 @@
       "name": "Qual Seleção Brasileira Pós-2002 Melhor Te Representa?",
       "file": "quizzes/quizDerrotaSelecao.json",
       "description": "Um quiz amargurado sobre 20 anos de eliminações que te definem"
+    },
+    {
+      "name": "Qual Objeto Perdido do Escritório Você é?",
+      "file": "quizzes/quizObjetoEscritorio.json",
+      "description": "Você é mais uma caneca famosa ou um queijo tristonho? Descubra seu destino corporativo perdido"
     }
   ]
 }
