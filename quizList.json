@@ -624,6 +624,11 @@
       "name": "Qual Protagonista de Anime Você É?",
       "file": "quizzes/quizProtagonistaAnime.json",
       "description": "Descubra se você salvaria o mundo com o poder da amizade ou se seria cancelado na primeira temporada."
+    },
+    {
+      "name": "Qual Seleção Brasileira Pós-2002 Melhor Te Representa?",
+      "file": "quizzes/quizDerrotaSelecao.json",
+      "description": "Um quiz amargurado sobre 20 anos de eliminações que te definem"
     }
   ]
 }
