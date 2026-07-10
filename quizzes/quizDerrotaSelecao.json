@@ -1,0 +1,254 @@
+{
+  "title": "Qual Seleção Brasileira Pós-2002 Melhor Te Representa?",
+  "subtitle": "Um quiz amargurado sobre 20 anos de eliminações que te definem",
+  "questions": [
+    {
+      "question": "Quando as coisas desabam, sua reação é:",
+      "answers": [
+        {
+          "text": "😭 Sofrer em câmera lenta, revivendo cada detalhe",
+          "points": { "brasil2022": 1 }
+        },
+        {
+          "text": "💔 Carregar como uma cicatriz que nunca fecha",
+          "points": { "brasil2014": 1 }
+        },
+        {
+          "text": "😠 Perceber que poderia ter feito mais",
+          "points": { "brasil2018": 0.9, "brasil2010": 0.1 }
+        },
+        {
+          "text": "😂 Rir da situação porque é tão absurda",
+          "points": { "brasil2026": 1 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é sua relação com esperança?",
+      "answers": [
+        {
+          "text": "🤦 Confiava demais, aprendi a lição",
+          "points": { "brasil2010": 1 }
+        },
+        {
+          "text": "😰 Tenho medo dela, nunca termina bem",
+          "points": { "brasil2026": 0.8, "brasil2022": 0.2 }
+        },
+        {
+          "text": "⚫ Qual esperança? Já morreu faz tempo",
+          "points": { "brasil2014": 1 }
+        },
+        {
+          "text": "🤐 Prefiro não pensar nisso",
+          "points": { "brasil2006": 1 }
+        }
+      ]
+    },
+    {
+      "question": "Se você perdesse num jogo decisivo, seria pior:",
+      "answers": [
+        {
+          "text": "😱 Perder de forma vergonhosa e goleada",
+          "points": { "brasil2014": 1 }
+        },
+        {
+          "text": "🎯 Perder nos pênaltis depois de sofrer bastante",
+          "points": { "brasil2022": 1 }
+        },
+        {
+          "text": "🤨 Perder para um time que nem deveria estar lá",
+          "points": { "brasil2026": 0.9, "brasil2006": 0.1 }
+        },
+        {
+          "text": "😞 Perder quando ficou tão perto de vencer",
+          "points": { "brasil2018": 1 }
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com críticas sobre seu desempenho?",
+      "answers": [
+        {
+          "text": "🙃 Ignoro, é mais fácil fingir que não aconteceu",
+          "points": { "brasil2006": 1 }
+        },
+        {
+          "text": "😤 Fico furioso, deveria ter me esforçado mais",
+          "points": { "brasil2018": 1 }
+        },
+        {
+          "text": "😔 Aceito, porque no fundo eu esperava isso",
+          "points": { "brasil2010": 0.7, "brasil2026": 0.3 }
+        },
+        {
+          "text": "🚫 Não aguento ouvir, feche essa ferida",
+          "points": { "brasil2014": 1 }
+        }
+      ]
+    },
+    {
+      "question": "Qual é seu maior medo em relação ao futuro?",
+      "answers": [
+        {
+          "text": "⚡ Que algo ainda pior aconteça",
+          "points": { "brasil2026": 0.9, "brasil2022": 0.1 }
+        },
+        {
+          "text": "🔄 Que isso se repita infinitamente",
+          "points": { "brasil2014": 0.8, "brasil2006": 0.2 }
+        },
+        {
+          "text": "😪 Que eu esgote minha capacidade de acreditar",
+          "points": { "brasil2010": 1 }
+        },
+        {
+          "text": "⏰ Que o tempo passe e nada mude",
+          "points": { "brasil2018": 1 }
+        }
+      ]
+    },
+    {
+      "question": "Como você descreveria sua situação em uma frase?",
+      "answers": [
+        {
+          "text": "😶 'Prefiro não lembrar'",
+          "points": { "brasil2006": 1 }
+        },
+        {
+          "text": "😢 'Estava perto e perdi tudo'",
+          "points": { "brasil2022": 1 }
+        },
+        {
+          "text": "🪦 'Fui destruído e nunca me recuperei'",
+          "points": { "brasil2014": 1 }
+        },
+        {
+          "text": "🎭 'É tão ridículo que só posso rir'",
+          "points": { "brasil2026": 1 }
+        }
+      ]
+    },
+    {
+      "question": "Qual tipo de derrota dói mais?",
+      "answers": [
+        {
+          "text": "🤐 Aquela discreta que ninguém lembra",
+          "points": { "brasil2006": 1 }
+        },
+        {
+          "text": "😤 Aquela onde você entrega menos do que poderia",
+          "points": { "brasil2018": 1 }
+        },
+        {
+          "text": "💥 Aquela que explode na sua cara completamente",
+          "points": { "brasil2014": 1 }
+        },
+        {
+          "text": "😭 Aquela que vem no último minuto e te faz perder tudo",
+          "points": { "brasil2010": 0.8, "brasil2022": 0.2 }
+        }
+      ]
+    },
+    {
+      "question": "Se pudesse mudar uma coisa do passado, seria:",
+      "answers": [
+        {
+          "text": "🔙 Voltar antes de tudo dar errado",
+          "points": { "brasil2022": 1 }
+        },
+        {
+          "text": "💪 Ter tido mais força para enfrentar",
+          "points": { "brasil2018": 1 }
+        },
+        {
+          "text": "🚫 Nem mudar nada, já é história",
+          "points": { "brasil2006": 1 }
+        },
+        {
+          "text": "⛔ Nada, porque é irreparável",
+          "points": { "brasil2014": 1 }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas frases é mais você?",
+      "answers": [
+        {
+          "text": "🎪 'É tão absurdo que virou piada'",
+          "points": { "brasil2026": 1 }
+        },
+        {
+          "text": "😞 'Aprendi a lição, mas dói'",
+          "points": { "brasil2010": 1 }
+        },
+        {
+          "text": "😶 'Não quero nem falar sobre isso'",
+          "points": { "brasil2006": 1 }
+        },
+        {
+          "text": "🩹 'Tenho cicatrizes que ninguém vê'",
+          "points": { "brasil2014": 0.7, "brasil2022": 0.3 }
+        }
+      ]
+    },
+    {
+      "question": "No fim, você é alguém que:",
+      "answers": [
+        {
+          "text": "🌀 Luta mas sente que nada muda",
+          "points": { "brasil2018": 1 }
+        },
+        {
+          "text": "😭 Quase chegou e perde na reta final",
+          "points": { "brasil2022": 1 }
+        },
+        {
+          "text": "😤 Não deveria ter perdido para quem perdeu",
+          "points": { "brasil2026": 1 }
+        },
+        {
+          "text": "💔 Carrega uma mágoa que nunca vai passar",
+          "points": { "brasil2014": 1 }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "brasil2006": {
+      "title": "Brasil 2006",
+      "emoji": "😐",
+      "subtitle": "A retirada discreta da França",
+      "text": "Você é aquela derrota que ninguém gosta de lembrar. Eliminado nas quartas pela França, você foi discreto demais para ser icônico, mas traumático o suficiente para estragar tudo. Tipo aquele ex que você nunca menciona. Você prefere fingir que não aconteceu."
+    },
+    "brasil2010": {
+      "title": "Brasil 2010",
+      "emoji": "😔",
+      "subtitle": "O otimismo antes da queda",
+      "text": "Você começou bem, todo otimista, todo 'dessa vez é nosso'. Aí veio a Holanda nas quartas e colocou você em seu lugar. Lição aprendida: confiança é pra quem pode se dar ao luxo. Você sabe agora que esperança é perigosa."
+    },
+    "brasil2014": {
+      "title": "Brasil 2014",
+      "emoji": "💔",
+      "subtitle": "O 7x1: dor pura e sem volta",
+      "text": "Você É aquela dor que não cicatriza. Não foi derrota, foi humilhação nacional. A Alemanha não só ganhou, ganhou GOLEADO em casa. Você carrega essa ferida para sempre e já aceitou que algumas coisas a gente nunca supera. A dor é o seu combustível."
+    },
+    "brasil2018": {
+      "title": "Brasil 2018",
+      "emoji": "😠",
+      "subtitle": "Falhamos quando importava",
+      "text": "Você é a frustração da Bélgica nas quartas. Começou bem, todo mundo sonhando, aí faltou aquele toque final. A Bélgica era forte, mas você poderia ter tentado mais. Arrependimento? Bastante. Você vive sabendo que estava ali, tão perto, e não conseguiu."
+    },
+    "brasil2022": {
+      "title": "Brasil 2022",
+      "emoji": "😭",
+      "subtitle": "Croácia nos pênaltis: quase, mas não",
+      "text": "Você é aquela dor que vem em câmera lenta. Nas quartas contra a Croácia, em PRORROGAÇÃO, você tinha tudo para vencer mas... perdeu nos pênaltis. Quase é pior que longe. Você chegou pertinho de algo que nunca vai ter, e isso dói diferente."
+    },
+    "brasil2026": {
+      "title": "Brasil 2026",
+      "emoji": "⚽💔",
+      "subtitle": "Haaland? Sério?",
+      "text": "Você perdeu nas oitavas para a Noruega. NAS OITAVAS. Com dois gols do Haaland. Nem precisava ser uma grande potência, era só... não perder pra Noruega. Mas perdeu. E assim termina tudo, de forma tão ridícula que até é engraçado. Quase. A ironia é sua melhor defesa contra a dor."
+    }
+  }
+}
