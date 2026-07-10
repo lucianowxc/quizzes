@@ -1,0 +1,131 @@
+{
+  "title": "Qual Objeto Perdido do Escritório Você é?",
+  "subtitle": "Você é mais uma caneca famosa ou um queijo tristonho? Descubra seu destino corporativo perdido",
+  "questions": [
+    {
+      "question": "Como a galera no escritório te trata geralmente?",
+      "answers": [
+        { "text": "🔍 Procura por mim desesperadamente quando precisa de algo", "points": { "caneca": 0.7, "alianca": 0.2, "marmita": 0.1 } },
+        { "text": "👻 Ignora que eu existo, mas de repente lembra", "points": { "garrafinha": 0.7, "queijo": 0.2 } },
+        { "text": "📱 Quer meu contato mas depois some comigo", "points": { "fone": 0.6, "queijo": 0.3 } },
+        { "text": "🎭 Finge que não me vê, mas todo mundo sabe quem sou", "points": { "jaqueta": 0.8, "marmita": 0.2 } }
+      ]
+    },
+    {
+      "question": "Quando você sumir do escritório, qual é a reação?",
+      "answers": [
+        { "text": "🚨 CALAMIDADE. Grupo de WhatsApp explodir, pánico geral", "points": { "caneca": 0.5, "alianca": 0.5 } },
+        { "text": "🤷 Ninguém nota no primeiro dia, depois é um 'ei, cadê aquele(a)?' confuso", "points": { "garrafinha": 0.6, "marmita": 0.3 } },
+        { "text": "😮‍💨 As pessoas suspiram fundo e dizem 'ah, que pena'", "points": { "queijo": 0.8, "fone": 0.2 } },
+        { "text": "🤫 Silêncio incômodo... todo mundo sabe mas ninguém fala", "points": { "marmita": 0.7, "jaqueta": 0.3 } }
+      ]
+    },
+    {
+      "question": "Sua vibe no escritório é mais...",
+      "answers": [
+        { "text": "🏆 Vou ficar aqui de forma essencial e insubstituível", "points": { "caneca": 0.8, "alianca": 0.2 } },
+        { "text": "👀 Sou invisível até alguém precisar de mim", "points": { "garrafinha": 0.8 } },
+        { "text": "✈️ Deveria estar em outro lugar, mas tô preso aqui", "points": { "fone": 0.7, "queijo": 0.2 } },
+        { "text": "🦄 Sou tão único e estranho que ninguém sabe como lidar", "points": { "jaqueta": 0.7, "marmita": 0.3 } }
+      ]
+    },
+    {
+      "question": "Se você desaparecesse, qual seria o maior problema?",
+      "answers": [
+        { "text": "💔 Que as pessoas não conseguem viver sem mim", "points": { "caneca": 0.8 } },
+        { "text": "😐 Acho que ninguém ia nem notar na real", "points": { "garrafinha": 0.7, "marmita": 0.3 } },
+        { "text": "🌪️ Minha ausência ia causar uma crise existencial", "points": { "fone": 0.6, "alianca": 0.3, "jaqueta": 0.1 } },
+        { "text": "🥺 Que as pessoas vão sentir uma pena genuína", "points": { "queijo": 0.8 } }
+      ]
+    },
+    {
+      "question": "Como você se descreveria visualmente?",
+      "answers": [
+        { "text": "⭐ Clássico, querido, todo mundo reconhece", "points": { "caneca": 0.8 } },
+        { "text": "🔄 Genérico, poderia ser qualquer coisa", "points": { "garrafinha": 0.8 } },
+        { "text": "🎨 Moderno, diferente, com personalidade própria", "points": { "fone": 0.7, "jaqueta": 0.2, "queijo": 0.1 } },
+        { "text": "👽 Esteticamente... questionável, mas memorável", "points": { "jaqueta": 0.6, "alianca": 0.2, "marmita": 0.2 } }
+      ]
+    },
+    {
+      "question": "Qual é seu maior medo?",
+      "answers": [
+        { "text": "🗑️ Ser esquecido ou perder minha importância", "points": { "caneca": 0.7, "jaqueta": 0.2 } },
+        { "text": "🪞 Ser confundido com outra pessoa igual a mim", "points": { "garrafinha": 0.8 } },
+        { "text": "🌀 Nunca conseguir alcançar meu potencial verdadeiro", "points": { "fone": 0.7, "queijo": 0.2 } },
+        { "text": "🔮 Que alguém descubra a verdade sobre mim", "points": { "marmita": 0.7, "alianca": 0.3 } }
+      ]
+    },
+    {
+      "question": "O que a galera fala sobre você quando você não tá perto?",
+      "answers": [
+        { "text": "📢 'Ué, cadê? Preciso URGENTE'", "points": { "caneca": 0.8 } },
+        { "text": "😴 Meh, nem lembram de mim mesmo", "points": { "garrafinha": 0.7 } },
+        { "text": "🤐 'Que pena, coitado(a)...' (sussurrando)", "points": { "queijo": 0.7, "fone": 0.2, "alianca": 0.1 } },
+        { "text": "👀 Silêncio desconfortável e trocas de olhar", "points": { "marmita": 0.7, "jaqueta": 0.3 } }
+      ]
+    },
+    {
+      "question": "Se tivesse uma segunda chance, o que faria?",
+      "answers": [
+        { "text": "💪 Voltaria mais forte e importante que antes", "points": { "caneca": 0.7, "alianca": 0.2 } },
+        { "text": "🔄 Seria a mesma coisa, mas talvez mais memorável", "points": { "jaqueta": 0.6, "garrafinha": 0.3 } },
+        { "text": "🎯 Tentaria encontrar meu verdadeiro propósito", "points": { "fone": 0.7, "queijo": 0.2 } },
+        { "text": "🕯️ Só queria que alguém se lembrasse de mim", "points": { "queijo": 0.6, "marmita": 0.3 } }
+      ]
+    },
+    {
+      "question": "Seu relacionamento com o escritório é...",
+      "answers": [
+        { "text": "❤️ Apaixonado - eu sou tudo pra esse lugar", "points": { "caneca": 0.8 } },
+        { "text": "😑 Indiferente - tanto faz, sou comum demais", "points": { "garrafinha": 0.8 } },
+        { "text": "💔 Complicado - queria estar em outro lugar", "points": { "fone": 0.7, "alianca": 0.2, "queijo": 0.1 } },
+        { "text": "👻 Assombrado - deixei um legado meio creepy aqui", "points": { "marmita": 0.7, "jaqueta": 0.2 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "caneca": {
+      "title": "A Caneca Roubacorações",
+      "emoji": "🫖",
+      "subtitle": "Sua importância é LENDÁRIA",
+      "text": "Você é aquela pessoa que toda gente adora e ninguém quer perder. Carismática, indispensável, rouba corações no café das 3 da tarde. Seu sumiço causa calamidade nacional no escritório. Quando você some, a gente nota na hora—e manda mensagem no grupo buscando desesperadamente. Você é a vida da festa, o motivo de todo mundo vir trabalhar."
+    },
+    "garrafinha": {
+      "title": "A Garrafinha Básica",
+      "emoji": "💧",
+      "subtitle": "Ninguém sabe de quem era mesmo",
+      "text": "Você é aquele tipo que poderia ser de qualquer um, está sempre por ali, mas ninguém sabe exatamente quem você pertence. Básico, simples, direto—mas essencial. Existe um monte de gente parecida com você, então às vezes a galera confunde. Você é tão comum que é raro conseguir lembrar seu rosto depois. Mas quando falta? Ah, aí pesa."
+    },
+    "fone": {
+      "title": "O Fone Preso no Limbo",
+      "emoji": "🎧",
+      "subtitle": "Queria estar em Salvador, mas tá aqui",
+      "text": "Você tem SONHOS maiores que a realidade permite. Teoricamente deveria estar em casa ouvindo uma vibe baiana boa, mas ficou preso aqui nesse escritório sem sentido. Está sempre atormentado pela situação, imaginando a vida que poderia ser. Seus fios de esperança ficam todos enrolados. Mas no fundo, qualquer um que presta atenção reconhece seu valor único e diferente."
+    },
+    "jaqueta": {
+      "title": "A Jaqueta Horrorosa da Aurora",
+      "emoji": "🧥",
+      "subtitle": "Inconfundível... e ninguém quer assumir",
+      "text": "Você é ORIGINAL, inconfundível, marcante—mas de um jeito que faz as pessoas fingir que não reconhecem. Ninguém quer assumir que é você em público, mas todo mundo sabe exatamente quem você é. Você é memorável demais, especial demais, estranho demais. Mas é justamente isso que te torna impossível de esquecer. Você é cult, só que ninguém quer admitir."
+    },
+    "alianca": {
+      "title": "A Aliança de Caos Absoluto",
+      "emoji": "💍",
+      "subtitle": "Quase causou a 3ª Guerra Mundial",
+      "text": "Você é DRAMÁTICO demais, causa MUITO mais alvoroço do que deveria. Simples como um acessório, mas quando desaparece, é CRISE TOTAL—chamadas de emergência, investigações, suspeitas de roubo, brigas conjugais. Você é a origem de teorias conspiratórias do escritório. Seu desaparecimento é tipo thriller político. Tudo que toca vira telenovela."
+    },
+    "queijo": {
+      "title": "O Queijo Melancólico",
+      "emoji": "🧀",
+      "subtitle": "Perdido mas nunca desistiu de esperar",
+      "text": "Você é PROFUNDAMENTE triste de um jeito que inspira compaixão. Foi esquecido há tempos, mas segue ali esperando por um milagre. Todo mundo sente uma pena genuína da sua situação. Você representa a tragédia humana: estava ali, fazia bem, e do nada... nada. Mas não desiste—se um dia encontrarem você, a alegria será imortal. Você é esperança em forma de laticínio."
+    },
+    "marmita": {
+      "title": "A Marmita Vingança",
+      "emoji": "🥡",
+      "subtitle": "Lenda que ninguém quer confirmar",
+      "text": "Você é AQUELE MISTÉRIO assustador que todos fingem que não viram. Desapareceu tempos atrás, ninguém sabe o quê virou, e francamente ninguém quer investigar. Você deixa um rastro de desconforto e conversas sussurradas. Se alguém der PT e disser 'ei, acham que a marmita ainda tá lá embaixo da mesa?', todo mundo fica em silêncio incômodo. Você é folclore urbano corporativo."
+    }
+  }
+}
