@@ -1,0 +1,143 @@
+{
+  "title": "Qual Jogador Desprezível da Argentina 2026 Você É?",
+  "subtitle": "Descubra seu nível de irritação na seleção campeã",
+  "questions": [
+    {
+      "question": "Seu time sofre um gol injusto. Qual é sua reação?",
+      "answers": [
+        { "text": "Fico bravo silenciosamente, passo a bola rápido pros melhores e ignoro os piores", "points": { "messi": 0.7, "enzo": 0, "lautaro": 0.15, "dibu": 0, "molina": 0, "depaul": 0.15 } },
+        { "text": "Grito no árbitro, juro a vida toda que foi mão, fico histérico por 10 minutos", "points": { "lautaro": 0.7, "enzo": 0.2, "dibu": 0.35, "messi": 0, "molina": 0, "depaul": 0.15 } },
+        { "text": "Parto pro tapa, reclamo feio, faço falta dura disfarçada de jogada legal", "points": { "depaul": 0.7, "dibu": 0.2, "lautaro": 0.15, "enzo": 0.2, "messi": 0, "molina": 0 } },
+        { "text": "Deito no chão como um bebê, rolo, grito como se tivesse sido atingido por um míssil", "points": { "dibu": 0.6, "lautaro": 0.35, "enzo": 0.15, "messi": 0, "molina": 0.15, "depaul": 0.1 } }
+      ]
+    },
+    {
+      "question": "Seu companheiro faz um gol lindíssimo. Como você reage?",
+      "answers": [
+        { "text": "Cumprimenta rápido, mas fico pensando que eu teria feito melhor", "points": { "messi": 0.8, "enzo": 0.15, "depaul": 0.1, "lautaro": 0.05, "dibu": 0, "molina": 0 } },
+        { "text": "Viro a camiseta, começo a gritar meu nome, faço de conta que participei", "points": { "lautaro": 0.65, "enzo": 0.55, "dibu": 0.15, "messi": 0.05, "molina": 0, "depaul": 0.15 } },
+        { "text": "Simplesmente continuo correndo, indiferente, só faço meu trabalho mecânico", "points": { "molina": 0.8, "depaul": 0.1, "messi": 0.05, "lautaro": 0, "dibu": 0, "enzo": 0 } },
+        { "text": "Grito mais que ele, provoco o adversário, faço parecer que foi meu gol", "points": { "dibu": 0.55, "depaul": 0.35, "enzo": 0.3, "lautaro": 0.15, "messi": 0, "molina": 0 } }
+      ]
+    },
+    {
+      "question": "Seu técnico quer fazer uma mudança e você está jogando mal. Qual é sua reação?",
+      "answers": [
+        { "text": "Saio de campo com a cabeça erguida, como se fosse desculpa dele, não minha", "points": { "messi": 0.8, "lautaro": 0.2, "enzo": 0.3, "dibu": 0, "molina": 0, "depaul": 0 } },
+        { "text": "Reclamo muito, faço uma cena dramatizada, culpo tudo menos a mim mesmo", "points": { "lautaro": 0.8, "enzo": 0.6, "dibu": 0.2, "messi": 0.05, "molina": 0, "depaul": 0.15 } },
+        { "text": "Chuto algo, discuto com o técnico, fico agressivo e temperamental", "points": { "depaul": 0.8, "dibu": 0.45, "lautaro": 0.15, "enzo": 0.2, "messi": 0, "molina": 0 } },
+        { "text": "Simplesmente saio, sem reclamar, continuo batendo na máquina de treino", "points": { "molina": 0.8, "messi": 0.1, "depaul": 0.05, "lautaro": 0, "dibu": 0, "enzo": 0 } }
+      ]
+    },
+    {
+      "question": "Na coletiva, perguntam sobre sua performance. O que você faz?",
+      "answers": [
+        { "text": "Respondo monossilábico, evasivo, faço parecer que a pergunta é burra", "points": { "messi": 0.8, "molina": 0.1, "depaul": 0.05, "lautaro": 0.05, "dibu": 0, "enzo": 0 } },
+        { "text": "Falo de forma arrogante sobre como fui crucial, mesmo que tenha sido mediano", "points": { "enzo": 0.8, "lautaro": 0.6, "dibu": 0.15, "messi": 0.05, "molina": 0, "depaul": 0.2 } },
+        { "text": "Culpo o árbitro, os adversários, a temperatura, tudo menos meu desempenho", "points": { "lautaro": 0.8, "dibu": 0.3, "enzo": 0.2, "depaul": 0.15, "messi": 0, "molina": 0 } },
+        { "text": "Fico agressivo, reclamo que a imprensa é chata, dou respostas cortantes e provocativas", "points": { "dibu": 0.6, "depaul": 0.7, "lautaro": 0.15, "enzo": 0.15, "messi": 0, "molina": 0 } }
+      ]
+    },
+    {
+      "question": "O adversário faz uma jogada boa contra você. Como você responde?",
+      "answers": [
+        { "text": "Deixo pra lá, analiso no filme, tento não cometer novamente — profissional chato", "points": { "molina": 0.8, "depaul": 0.05, "messi": 0.1, "lautaro": 0, "dibu": 0, "enzo": 0 } },
+        { "text": "Fico com raiva, faço uma falta criminosa disfarçada de bola parada", "points": { "depaul": 0.8, "dibu": 0.4, "lautaro": 0.15, "enzo": 0.1, "messi": 0, "molina": 0 } },
+        { "text": "Finjo que levei um chute, rolo no chão, apelo ao árbitro", "points": { "dibu": 0.55, "lautaro": 0.6, "enzo": 0.15, "depaul": 0.1, "messi": 0, "molina": 0.05 } },
+        { "text": "Fico bravo comigo mesmo, tiro satisfação na próxima oportunidade ofensiva", "points": { "enzo": 0.55, "lautaro": 0.2, "messi": 0.2, "dibu": 0.15, "molina": 0.05, "depaul": 0 } }
+      ]
+    },
+    {
+      "question": "Seu time ganha por goleada. O que você faz?",
+      "answers": [
+        { "text": "Fico feliz, mas discreto. Abraço os companheiros rápido e saio com postura zen", "points": { "messi": 0.8, "molina": 0.1, "depaul": 0.05, "lautaro": 0.05, "dibu": 0, "enzo": 0 } },
+        { "text": "Viro a camiseta 500 vezes, danço como possesso, provocarei os adversários muito", "points": { "lautaro": 0.8, "enzo": 0.7, "dibu": 0.2, "messi": 0, "molina": 0, "depaul": 0.1 } },
+        { "text": "Grito pra tudo quanto é lado, ofendo o adversário, sou insuportável", "points": { "dibu": 0.8, "depaul": 0.45, "lautaro": 0.3, "enzo": 0.15, "messi": 0, "molina": 0 } },
+        { "text": "Comemoro, mas sem exagero. Apenas continuo fazendo meu trabalho incansável", "points": { "molina": 0.7, "depaul": 0.1, "messi": 0.05, "lautaro": 0, "dibu": 0.05, "enzo": 0 } }
+      ]
+    },
+    {
+      "question": "Um jornalista critica sua atuação na rua. O que você faz?",
+      "answers": [
+        { "text": "Ignoro como se não existisse, sigo andando com meu próprio mundo", "points": { "messi": 0.75, "molina": 0.15, "depaul": 0, "lautaro": 0, "dibu": 0, "enzo": 0.1 } },
+        { "text": "Grito que ele não entende nada de futebol, discuto feio, quase parto", "points": { "dibu": 0.8, "depaul": 0.8, "lautaro": 0.2, "enzo": 0.15, "messi": 0, "molina": 0 } },
+        { "text": "Falo mal dele na próxima entrevista, digo que é invejoso de meu talento", "points": { "enzo": 0.8, "lautaro": 0.55, "messi": 0.15, "dibu": 0.15, "molina": 0, "depaul": 0.1 } },
+        { "text": "Reclamo pra todo mundo, mas continuo correndo igual um louco pro técnico ver", "points": { "molina": 0.8, "depaul": 0.2, "lautaro": 0.1, "messi": 0, "dibu": 0.1, "enzo": 0 } }
+      ]
+    },
+    {
+      "question": "Você toma um cartão amarelo injusto. Qual é sua reação VERDADEIRA?",
+      "answers": [
+        { "text": "Fico com raiva mas não deixo transparecer, faço reclamações silenciosas", "points": { "messi": 0.8, "depaul": 0.1, "molina": 0.15, "lautaro": 0, "dibu": 0, "enzo": 0 } },
+        { "text": "Grito no árbitro, reclamo que foi mal, quase saio de si", "points": { "depaul": 0.65, "dibu": 0.8, "lautaro": 0.35, "enzo": 0.15, "messi": 0, "molina": 0 } },
+        { "text": "Dramatizo demais, simulei uma falta em você, fico histérico", "points": { "lautaro": 0.8, "enzo": 0.25, "dibu": 0.4, "messi": 0.1, "molina": 0, "depaul": 0.15 } },
+        { "text": "Continuo jogando feio, cada vez mais agressivo, disposto a levar outro", "points": { "dibu": 0.55, "depaul": 0.4, "lautaro": 0.15, "enzo": 0.15, "messi": 0, "molina": 0.05 } }
+      ]
+    },
+    {
+      "question": "Um colega erra um passe fácil pra você. O que você faz?",
+      "answers": [
+        { "text": "Faço uma careta, mas continuo — não vou desperdiçar energia reclamando", "points": { "messi": 0.6, "molina": 0.2, "depaul": 0, "lautaro": 0, "dibu": 0, "enzo": 0.1 } },
+        { "text": "Reclamo muito, mando ele parar de jogar, dou uma bronca pública", "points": { "depaul": 0.8, "dibu": 0.3, "enzo": 0.2, "lautaro": 0.15, "messi": 0, "molina": 0 } },
+        { "text": "Reclamo feio, fico agressivo, quase bato nele", "points": { "dibu": 0.65, "depaul": 0.25, "lautaro": 0.3, "enzo": 0.15, "messi": 0, "molina": 0.05 } },
+        { "text": "Finjo raiva mas continuo correndo, fazendo meu trabalho mecânico sem reclamar", "points": { "molina": 0.8, "messi": 0.05, "depaul": 0.15, "lautaro": 0, "dibu": 0, "enzo": 0 } }
+      ]
+    },
+    {
+      "question": "Você marca um gol fácil. Como você comemora?",
+      "answers": [
+        { "text": "Levanto os braços de forma discreta, sem fazer muito barulho", "points": { "messi": 0.8, "molina": 0.05, "depaul": 0, "lautaro": 0, "dibu": 0, "enzo": 0 } },
+        { "text": "Viro a camiseta, grito como se tivesse marcado o melhor gol da história", "points": { "lautaro": 0.8, "enzo": 0.7, "dibu": 0.2, "messi": 0, "molina": 0, "depaul": 0.1 } },
+        { "text": "Grito, provoco o adversário, faço gestos agressivos pra torcida inimiga", "points": { "dibu": 0.75, "depaul": 0.4, "enzo": 0.15, "lautaro": 0.2, "messi": 0, "molina": 0 } },
+        { "text": "Apenas continuo. Fiz meu trabalho, vou fazer mais", "points": { "molina": 0.65, "messi": 0.15, "depaul": 0.1, "lautaro": 0, "dibu": 0.1, "enzo": 0 } }
+      ]
+    },
+    {
+      "question": "Qual frase melhor representa você?",
+      "answers": [
+        { "text": "'Eu mereço ser melhor que vocês todos'", "points": { "messi": 0.8, "enzo": 0.25, "lautaro": 0.15, "dibu": 0, "molina": 0, "depaul": 0 } },
+        { "text": "'Vou fazer uma falta criminosa e parecer herói'", "points": { "depaul": 0.8, "dibu": 0.55, "lautaro": 0.2, "enzo": 0.15, "messi": 0, "molina": 0 } },
+        { "text": "'Sou arrogante demais pra admitir um erro'", "points": { "lautaro": 0.8, "enzo": 0.65, "dibu": 0.15, "messi": 0.1, "molina": 0, "depaul": 0.15 } },
+        { "text": "'Vou correr demais e ganhar pouco'", "points": { "molina": 0.8, "messi": 0.1, "depaul": 0.1, "lautaro": 0, "dibu": 0, "enzo": 0 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "messi": {
+      "title": "Messi: O Pequeno Deus Egocêntrico",
+      "emoji": "😒",
+      "subtitle": "Cara de nojo, passa só pra quem ele quer, egoísta de bolinha",
+      "text": "Você é aquele que finge ser modesto mas no fundo sabe que é melhor que todo mundo. Nunca parabeniza companheiro, caminha lentamente quando sai de campo, pede troca no 85º minuto e ainda cobre o rosto com a mão quando não sai tudo perfeito. A 'Pulga' do caráter: pequeno, incômodo e sempre achando que merecia mais. Brasil chora de inveja (e raiva)."
+    },
+    "lautaro": {
+      "title": "Lautaro: O Matador Insuportável",
+      "emoji": "🤡",
+      "subtitle": "Faz um gol e fica insuportável por 90 minutos",
+      "text": "Você é dramático, arrogante e simulador de primeira categoria. Quando marca, viram a camiseta como se tivesse salvado a humanidade. Cai com um vento, reclama de tudo e faz aquele berreiro que irrita até a própria mãe. Goleia fraco e quer parecer craque. Aquele tipo que ninguém aguenta no grupo de amigos, mas que sai ganhando troféu de qualquer jeito."
+    },
+    "enzo": {
+      "title": "Enzo: O Moleque Imbecil",
+      "emoji": "🚼",
+      "subtitle": "Muito novo pra ser tão irritante",
+      "text": "Você nasceu com talento e perdeu a educação no caminho. Mimado, arrogante, acha que já conquistou tudo com 22 anos e nunca erra na cabeça — sempre culpa de outro. Comemora gol como se tivesse feito um milagre. Faz jogada boa e quer parecer Pelé. Juventude insuportável disfarçada de genialidade. O tipo que o próprio técnico gostaria de dar uma lição de humildade."
+    },
+    "dibu": {
+      "title": "Dibu: O Louco Perigoso",
+      "emoji": "🤪",
+      "subtitle": "Psicopata do gol que provoca sem motivo",
+      "text": "Você é instável, agressivo e faz de tudo menos guardar gol direito. Provoca adversário por nada, dá murro em tudo que é canto, grita como possesso em cada bola parada. Deita no chão como criança birrententa. Parece que está sempre a dois segundos de partir alguém. Defende bem? Sim. Mas é insuportável demais pra aproveitar o jogo."
+    },
+    "molina": {
+      "title": "Nahuel: O Lateral Mecanizado",
+      "emoji": "😴",
+      "subtitle": "Corre pra lá e pra cá, mas o jogo é entediante",
+      "text": "Você joga feio, defende com falta dura e não contribui em nada ofensivamente. Incansável? Sim. Interessante? Nunca. Aquele jogador que funciona como máquina, que ninguém quer assistir. Corre 15 km por jogo pra fazer absolutamente nada de especial. Tipo aquele colega que trabalha muito mas não produz — só tira saco de quem tá ao lado."
+    },
+    "depaul": {
+      "title": "De Paul: O Capitão Explosivo",
+      "emoji": "😤",
+      "subtitle": "Reclama de tudo, faz falta feia e manda em quem?",
+      "text": "Você é temperamental, pseudo-líder que reclama de tudo e de todos. Faz falta feia pensando que é duro (é só perigoso). Grita muito mas não convence ninguém. Diz que comanda o jogo mas basicamente só distribui bola. Aquele capitão que ninguém pediu pra ser capitão. Arrogante sem motivo. O tipo que irrita em 2 minutos de jogo."
+    }
+  }
+}
