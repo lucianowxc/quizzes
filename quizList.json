@@ -634,6 +634,11 @@
       "name": "Qual Objeto Perdido do Escritório Você é?",
       "file": "quizzes/quizObjetoEscritorio.json",
       "description": "Você é mais uma caneca famosa ou um queijo tristonho? Descubra seu destino corporativo perdido"
+    },
+    {
+      "name": "Qual Jogador Desprezível da Argentina 2026 Você É?",
+      "file": "quizzes/quizArgentina2026.json",
+      "description": "Descubra seu nível de irritação na seleção campeã"
     }
   ]
 }
