@@ -644,6 +644,11 @@
       "name": "🧶 Qual Técnica de Crochê Você Seria?",
       "file": "quizzes/quizCroche.json",
       "description": "Descubra qual arte das agulhas traduz sua alma — e prepare-se para algumas verdades!"
+    },
+    {
+      "name": "🥋 Qual Estilo de Kung Fu é o Seu?",
+      "file": "quizzes/quizKungFu.json",
+      "description": "Descubra qual arte marcial traduz sua alma — e prepare o coração pra algumas verdades!"
     }
   ]
 }
