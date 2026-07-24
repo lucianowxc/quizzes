@@ -1,0 +1,146 @@
+{
+  "title": "🧶 Qual Técnica de Crochê Você Seria?",
+  "subtitle": "Descubra qual arte das agulhas traduz sua alma — e prepare-se para algumas verdades!",
+  "questions": [
+    {
+      "question": "Numa festa, você é aquela pessoa que...",
+      "answers": [
+        { "text": "🧸  Faz amizade com o cachorro e esquece dos humanos", "points": { "amigurumi": 0.9, "hairpin": 0.3 } },
+        { "text": "🍀  Conta histórias elegantes enquanto segura a taça de champanhe", "points": { "renda_irlandesa": 0.9, "tunisiano": 0.2 } },
+        { "text": "🎨  Pinta a parede do banheiro sem permissão (mas ficou lindo)", "points": { "tapestry": 0.9, "freeform": 0.4 } },
+        { "text": "🧹  Dá um discurso dramático sobre como o bolo está seco", "points": { "broomstick": 0.9, "filet": 0.1 } }
+      ]
+    },
+    {
+      "question": "Se sua vida fosse um projeto de crochê, qual seria?",
+      "answers": [
+        { "text": "📐  Uma planilha de cores com cronograma de produção", "points": { "tunisiano": 0.9, "filet": 0.5 } },
+        { "text": "🌀  Algo que começou como cachecol e virou tapete, depois bolsa", "points": { "freeform": 0.9, "tapestry": 0.3 } },
+        { "text": "⬜  Um quadrado perfeito de 20x20 cm — e só", "points": { "filet": 0.9, "tunisiano": 0.2 } },
+        { "text": "🌸  Uma toalhinha que a vovó fez e você guarda como relicário", "points": { "hairpin": 0.9, "renda_irlandesa": 0.4 } }
+      ]
+    },
+    {
+      "question": "Como você lida com erros? (Seja honesta...)",
+      "answers": [
+        { "text": "🧸  Choro um pouco, desmancho, recomeço — e fica mais fofo", "points": { "amigurumi": 0.9, "hairpin": 0.3 } },
+        { "text": "🍀  Transformo o erro em detalhe proposital. Ninguém nota.", "points": { "renda_irlandesa": 0.9, "tapestry": 0.4 } },
+        { "text": "🧹  Grito 'É ARTE!' e posto no Instagram", "points": { "broomstick": 0.9, "freeform": 0.5 } },
+        { "text": "📐  Erro? Eu não erro. Eu recalculo.", "points": { "tunisiano": 0.9, "filet": 0.3 } }
+      ]
+    },
+    {
+      "question": "Num domingo chuvoso, você está...",
+      "answers": [
+        { "text": "🎨  Misturando 15 cores que 'não combinam' só pra ver no que dá", "points": { "tapestry": 0.9, "freeform": 0.4 } },
+        { "text": "⬜  Contando pontos em silêncio absoluto. Paz interior.", "points": { "filet": 0.9, "tunisiano": 0.3 } },
+        { "text": "🌸  Reassistindo Pride & Prejudice pela 47ª vez", "points": { "hairpin": 0.9, "renda_irlandesa": 0.4 } },
+        { "text": "🧸  Fazendo bichinhos pra doar — porque o mundo precisa de mais amor", "points": { "amigurumi": 0.9, "hairpin": 0.2 } }
+      ]
+    },
+    {
+      "question": "Qual frase te define? (A que dói um pouco)",
+      "answers": [
+        { "text": "🍀  'Você é chique demais pra esse lugar'", "points": { "renda_irlandesa": 0.9, "broomstick": 0.3 } },
+        { "text": "🧹  'Você é muito pra algumas pessoas... e pouco pra outras'", "points": { "broomstick": 0.9, "tapestry": 0.3 } },
+        { "text": "📐  'Você não sabe relaxar, né?'", "points": { "tunisiano": 0.9, "filet": 0.5 } },
+        { "text": "🌀  'Você começa tudo e não termina nada' (mentira, eu termino... às vezes)", "points": { "freeform": 0.9, "amigurumi": 0.2 } }
+      ]
+    },
+    {
+      "question": "Se você fosse um ponto de crochê, qual seria?",
+      "answers": [
+        { "text": "🧸  O ponto baixo — simples, mas sem ele nada existe", "points": { "amigurumi": 0.9, "tunisiano": 0.3 } },
+        { "text": "🍀  O ponto picô — pequeno detalhe que faz toda diferença", "points": { "renda_irlandesa": 0.9, "hairpin": 0.4 } },
+        { "text": "🎨  O ponto jacquard — confuso, colorido, mas lindo no fim", "points": { "tapestry": 0.9, "freeform": 0.4 } },
+        { "text": "🧹  O ponto puff — volumoso, chamativo, não passa despercebido", "points": { "broomstick": 0.9, "tapestry": 0.2 } }
+      ]
+    },
+    {
+      "question": "O que te tira do sério no trânsito?",
+      "answers": [
+        { "text": "📐  Quem não usa seta. É tão difícil SEGUIR A REGRA?", "points": { "tunisiano": 0.9, "filet": 0.5 } },
+        { "text": "⬜  O trânsito em si. Eu só queria silêncio.", "points": { "filet": 0.9, "hairpin": 0.3 } },
+        { "text": "🌀  Nada, eu tô cantarolando e pensando em 5 projetos ao mesmo tempo", "points": { "freeform": 0.9, "amigurumi": 0.3 } },
+        { "text": "🧹  Quem buzina. EU JÁ VI QUE TÁ VERMELHO, CALMA!", "points": { "broomstick": 0.9, "tapestry": 0.3 } }
+      ]
+    },
+    {
+      "question": "Seu estilo de decoração é mais...",
+      "answers": [
+        { "text": "🌸  Vintage romântico — rendas, flores e cheiro de lavanda", "points": { "hairpin": 0.9, "renda_irlandesa": 0.5 } },
+        { "text": "🎨  Colorido eclético — cada canto é um país diferente", "points": { "tapestry": 0.9, "freeform": 0.4 } },
+        { "text": "🧸  Fofura acumulativa — pelúcias, cores pastel e aconchego", "points": { "amigurumi": 0.9, "hairpin": 0.3 } },
+        { "text": "⬜  Minimalista escandinavo — branco, madeira e zero bagunça", "points": { "filet": 0.9, "tunisiano": 0.4 } }
+      ]
+    },
+    {
+      "question": "Qual seu maior trauma de artesanato?",
+      "answers": [
+        { "text": "🍀  Gastar 3 meses numa peça e ninguém reconhecer o esforço", "points": { "renda_irlandesa": 0.9, "tunisiano": 0.3 } },
+        { "text": "🧹  Derramar café no projeto finalizado (e o café ser forte)", "points": { "broomstick": 0.9, "tapestry": 0.3 } },
+        { "text": "🌀  Ter 47 projetos em andamento e nenhum terminado", "points": { "freeform": 0.9, "amigurumi": 0.2 } },
+        { "text": "📐  Alguém desmanchar 10 carreiras 'só pra ajustar'", "points": { "tunisiano": 0.9, "filet": 0.5 } }
+      ]
+    },
+    {
+      "question": "E o mais importante: como você define 'perfeição'?",
+      "answers": [
+        { "text": "🧸  Aquilo que faz alguém sorrir — mesmo tortinho", "points": { "amigurumi": 0.9, "freeform": 0.4 } },
+        { "text": "🍀  O equilíbrio entre técnica e alma", "points": { "renda_irlandesa": 0.9, "hairpin": 0.4 } },
+        { "text": "🎨  Aquilo que ninguém nunca viu antes", "points": { "tapestry": 0.9, "broomstick": 0.3 } },
+        { "text": "⬜  A repetição exata do padrão, ponto por ponto", "points": { "filet": 0.9, "tunisiano": 0.5 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "amigurumi": {
+      "title": "🧸 Amigurumi",
+      "emoji": "🧸",
+      "subtitle": "O Bichinho que Conquista",
+      "text": "Você é puro afeto em forma de ponto baixo! Cada laçada sua é feita com carinho, e você transforma o simples em algo que aquece o coração. Pode parecer 'básico', mas sem você o mundo seria bem mais frio. Sua superpotência? Fazer as pessoas sorrirem sem nem tentar. 🧶💛"
+    },
+    "renda_irlandesa": {
+      "title": "🍀 Renda Irlandesa",
+      "emoji": "🍀",
+      "subtitle": "A Elegância das Folhas",
+      "text": "Você é sofisticação com alma! Detalhista e paciente, você não faz as coisas às pressas — cada folha, cada picô, cada curva tem um propósito. Pode parecer 'chique demais' pra alguns, mas quem te conhece de verdade sabe que por trás da elegância existe uma paixão profunda. Você é rara, e isso é um elogio. 🌿✨"
+    },
+    "tapestry": {
+      "title": "🎨 Tapestry",
+      "emoji": "🎨",
+      "subtitle": "O Mosaico das Cores",
+      "text": "Você é arte pura! Não segue regras de cores, não se prende a padrões — você cria tapeçarias de emoção onde ninguém mais veria possibilidade. Alguns dizem que você é 'demais', mas a verdade é: o mundo precisa de mais gente que ouse misturar o inesperado. Você é uma galeria ambulante! 🖌️🌈"
+    },
+    "broomstick": {
+      "title": "🧹 Renda de Vassoura",
+      "emoji": "🧹",
+      "subtitle": "O Drama em Textura",
+      "text": "Você é teatro, textura e impacto! Não passa despercebida em lugar nenhum — e nem quer. Suas criações são volumosas, dramáticas e inesquecíveis. Pode ser que alguns não entendam seu estilo logo de cara, mas quando entendem... nunca mais esquecem. Você é o plot twist do crochê! 🎭🔥"
+    },
+    "tunisiano": {
+      "title": "📐 Tunisiano",
+      "emoji": "📐",
+      "subtitle": "O Híbrido Perfeito",
+      "text": "Você é o melhor dos dois mundos! Metade crochê, metade tricô, 100% controle. Você gosta de estrutura, de saber onde cada ponto vai parar — e isso não te torna chato, te torna confiável. Quando você promete algo, entrega. E entrega com precisão cirúrgica. O mundo precisa de mais gente como você! 📏🎯"
+    },
+    "freeform": {
+      "title": "🌀 Freeform",
+      "emoji": "🌀",
+      "subtitle": "O Caos Criativo",
+      "text": "Você é impossível de categorizar — e isso é MARAVILHOSO! Não segue receitas, não respeita fronteiras, e cada criação sua é uma aventura. Pode ter 15 projetos abertos? Tem. Mas cada um deles é uma expressão única da sua alma inquieta. Você é a prova de que a beleza não precisa de regras. 🌪️💫"
+    },
+    "filet": {
+      "title": "⬜ Filet Crochet",
+      "emoji": "⬜",
+      "subtitle": "A Geometria do Vazio",
+      "text": "Você é minimalismo com profundidade! Enxerga beleza no espaço vazio, na repetição, na quietude. Pode parecer 'simples' aos olhos apressados, mas quem para pra olhar descobre padrões complexos e uma serenidade rara. Você é o silêncio que fala mais alto que o barulho. Zen master do crochê! ☯️🤍"
+    },
+    "hairpin": {
+      "title": "🌸 Renda de Grampo",
+      "emoji": "🌸",
+      "subtitle": "A Delicadeza Vintage",
+      "text": "Você é nostalgia feita arte! Romântica, delicada e atemporal — você carrega uma elegância que não envelhece. Pode ser que o mundo moderno não entenda sua velocidade, mas quem valoriza o feito à mão, o cuidado, o detalhe... sabe que você é um tesouro. Você é a vovó cool que todo mundo quer ser! 👵💖"
+    }
+  }
+}
