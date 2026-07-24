@@ -1,0 +1,107 @@
+{
+  "title": "🥋 Qual Estilo de Kung Fu é o Seu?",
+  "subtitle": "Descubra qual arte marcial traduz sua alma — e prepare o coração pra algumas verdades!",
+  "questions": [
+    {
+      "question": "Numa briga de bar (hipotética, claro), você...",
+      "answers": [
+        { "text": "👊  Resolve em 3 segundos e vai embora como se nada tivesse acontecido", "points": { "wing_chun": 0.9, "jeet_kune_do": 0.3 } },
+        { "text": "☯️  Nem entra na briga — sua aura de paz já afastou os brigões", "points": { "tai_chi": 0.9, "baguazhang": 0.2 } },
+        { "text": "🌀  Fica dando voltas na mesa até ninguém saber onde você está", "points": { "baguazhang": 0.9, "drunken": 0.4 } },
+        { "text": "🍶  Derruba uma cerveja em cima de alguém 'sem querer' e sai rindo", "points": { "drunken": 0.9, "shaolin": 0.1 } }
+      ]
+    },
+    {
+      "question": "Seu maior defeito? (Vamos ser honestos)",
+      "answers": [
+        { "text": "🐉  Sou perfeccionista demais — até demais às vezes", "points": { "shaolin": 0.9, "wing_chun": 0.3 } },
+        { "text": "💧  Mudo de opinião toda hora — mas é porque evoluo!", "points": { "jeet_kune_do": 0.9, "baguazhang": 0.3 } },
+        { "text": "☯️  Sou tão calmo que as pessoas acham que não ligo pra nada", "points": { "tai_chi": 0.9, "jeet_kune_do": 0.2 } },
+        { "text": "👊  Sou direto demais — e às vezes isso dói (nos outros)", "points": { "wing_chun": 0.9, "shaolin": 0.2 } }
+      ]
+    },
+    {
+      "question": "Numa fila do INSS, você está...",
+      "answers": [
+        { "text": "🍶  Fazendo amizade com todo mundo e contando piada pro segurança", "points": { "drunken": 0.9, "jeet_kune_do": 0.3 } },
+        { "text": "🌀  Já descobriu 3 atalhos e tá na frente sem ninguém notar", "points": { "baguazhang": 0.9, "wing_chun": 0.2 } },
+        { "text": "🐉  Sentado na postura perfeita, respirando, aceitando o sofrimento", "points": { "shaolin": 0.9, "tai_chi": 0.4 } },
+        { "text": "👊  Resolvendo seu problema em 5 minutos e indo embora", "points": { "wing_chun": 0.9, "jeet_kune_do": 0.3 } }
+      ]
+    },
+    {
+      "question": "Qual frase te define melhor?",
+      "answers": [
+        { "text": "💧  'Seja água, meu amigo' — Bruce Lee", "points": { "jeet_kune_do": 0.9, "tai_chi": 0.4 } },
+        { "text": "☯️  'A força máxima é a força mínima' — alguém muito sábio", "points": { "tai_chi": 0.9, "shaolin": 0.3 } },
+        { "text": "🌀  'Não lute contra o inimigo — dance com ele'", "points": { "baguazhang": 0.9, "tai_chi": 0.3 } },
+        { "text": "🐉  'Mil quedas, mil levantadas' — monge cansado", "points": { "shaolin": 0.9, "wing_chun": 0.2 } }
+      ]
+    },
+    {
+      "question": "Seu estilo de dança numa festa é...",
+      "answers": [
+        { "text": "👊  Não danço — fico na parede julgando quem dança mal", "points": { "wing_chun": 0.9, "shaolin": 0.3 } },
+        { "text": "🍶  Caio de propósito, levanto de propósito, ninguém sabe se é coreografia ou álcool", "points": { "drunken": 0.9, "baguazhang": 0.3 } },
+        { "text": "☯️  Movimentos lentos e hipnóticos — parece que tô flutuando", "points": { "tai_chi": 0.9, "jeet_kune_do": 0.2 } },
+        { "text": "💧  Começo de um jeito, termino de outro — ninguém sabe o que esperar", "points": { "jeet_kune_do": 0.9, "drunken": 0.3 } }
+      ]
+    },
+    {
+      "question": "Como você lida com o estresse?",
+      "answers": [
+        { "text": "🐉  Acordo 5h da manhã pra meditar e fazer 100 polichinelos", "points": { "shaolin": 0.9, "tai_chi": 0.4 } },
+        { "text": "🌀  Sumo. Literalmente. Ninguém me acha por 3 dias.", "points": { "baguazhang": 0.9, "jeet_kune_do": 0.3 } },
+        { "text": "👊  Resolvo o problema raiz em 10 minutos e volto a vida", "points": { "wing_chun": 0.9, "shaolin": 0.2 } },
+        { "text": "🍶  Finjo que não existe e faço piada até passar", "points": { "drunken": 0.9, "jeet_kune_do": 0.3 } }
+      ]
+    },
+    {
+      "question": "E o mais importante: qual seu lema de vida?",
+      "answers": [
+        { "text": "💧  'Não tenha estilo — seja você mesmo'", "points": { "jeet_kune_do": 0.9, "baguazhang": 0.3 } },
+        { "text": "☯️  'A suavidade supera a dureza'", "points": { "tai_chi": 0.9, "shaolin": 0.3 } },
+        { "text": "👊  'O caminho mais curto entre dois pontos é uma reta'", "points": { "wing_chun": 0.9, "jeet_kune_do": 0.3 } },
+        { "text": "🐉  'A disciplina é a ponte entre metas e realizações'", "points": { "shaolin": 0.9, "tai_chi": 0.4 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "wing_chun": {
+      "title": "👊 Wing Chun",
+      "emoji": "👊",
+      "subtitle": "O Golpe que Não Perdoa",
+      "text": "Você é eficiência pura! Não perde tempo com firula, não enrola, não se justifica. Seu estilo é direto, rápido e objetivo — e isso assusta quem gosta de enrolação. Pode parecer 'seco' pra alguns, mas quem precisa de você numa crise sabe: você resolve. Você é o amigo que todo mundo quer do lado numa briga de bar. 🎯💥"
+    },
+    "tai_chi": {
+      "title": "☯️ Tai Chi Chuan",
+      "emoji": "☯️",
+      "subtitle": "A Calma que Derruba",
+      "text": "Você é o equilíbrio em pessoa! Enquanto todo mundo corre e grita, você respira fundo e encontra a solução. Pode parecer 'lento' ou 'desligado' pros apressados, mas quando a poeira baixa, quem tá de pé é você. Sua superpotência? Transformar caos em serenidade. Você é o abraço que o mundo precisa. 🍃🧘"
+    },
+    "shaolin": {
+      "title": "🐉 Shaolin",
+      "emoji": "🐉",
+      "subtitle": "A Disciplina de Mil Anos",
+      "text": "Você é tradição, força e dedicação! Não desiste fácil, não faz as coisas pela metade e carrega uma ética de trabalho que intimida qualquer um. Pode ser que te chamem de 'chato' por seguir rotinas, mas quando o projeto é entregue perfeito, ninguém reclama. Você é a prova de que constância vence talento. 🏯🔥"
+    },
+    "baguazhang": {
+      "title": "🌀 Baguazhang",
+      "emoji": "🌀",
+      "subtitle": "O Fantasma Circular",
+      "text": "Você é impossível de prender! Não segue regras, não entra em confronto direto e sempre encontra um atalho que ninguém imaginava. Pode parecer 'evasivo' ou 'fugido', mas a verdade é: você vê o tabuleiro inteiro enquanto os outros só veem a peça deles. Estrategista nato, você é o xadrezista das artes marciais. ♟️👻"
+    },
+    "drunken": {
+      "title": "🍶 Punho Bêbado",
+      "emoji": "🍶",
+      "subtitle": "O Caos que Confunde",
+      "text": "Você é imprevisibilidade com charme! Ninguém sabe o que você vai fazer — e isso inclui você mesmo. Parece desorganizado, mas por baixo do caos existe um método que só você entende. Sua superpotência? Desarmar qualquer um com humor e surpreender com resultados quando ninguém espera. Você é a festa que o Kung Fu precisava! 🎉🥴"
+    },
+    "jeet_kune_do": {
+      "title": "💧 Jeet Kune Do",
+      "emoji": "💧",
+      "subtitle": "A Água que Se Adapta",
+      "text": "Você é evolução constante! Não se prende a rótulos, não repete fórmulas e está sempre reinventando. Pode ser que te chamem de 'indeciso', mas a verdade é: você se recusa a ser limitado. Sua mente é fluida como a água, e isso te torna imbatível em qualquer terreno. Você é o futuro das artes marciais! 🌊✨"
+    }
+  }
+}
