@@ -639,6 +639,11 @@
       "name": "Qual Jogador Desprezível da Argentina 2026 Você É?",
       "file": "quizzes/quizArgentina2026.json",
       "description": "Descubra seu nível de irritação na seleção campeã"
+    },
+    {
+      "name": "🧶 Qual Técnica de Crochê Você Seria?",
+      "file": "quizzes/quizCroche.json",
+      "description": "Descubra qual arte das agulhas traduz sua alma — e prepare-se para algumas verdades!"
     }
   ]
 }
