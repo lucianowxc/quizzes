@@ -1,0 +1,119 @@
+{
+  "title": "Qual Problema Dentário Você Seria?",
+  "subtitle": "Descubra qual desastre bucal esconde sua verdadeira personalidade (e talvez te faça marcar uma consulta depois)",
+  "questions": [
+    {
+      "question": "É sexta à noite e você está:",
+      "answers": [
+        { "text": "🍬  Comendo doce escondido no banheiro, igual criança", "points": { "carie": 0.9, "tartaro": 0.3, "sensibilidade": 0.2 } },
+        { "text": "😤  Rangendo os dentes de ódio do chefe mandando mensagem", "points": { "bruxismo": 0.9, "gengivite": 0.3, "mordida_cruzada": 0.2 } },
+        { "text": "🍋  Tomando suco de limão puro porque \"amo sensações\"", "points": { "sensibilidade": 0.9, "carie": 0.3, "diastema": 0.2 } },
+        { "text": "🦷  Contemplando seu sorriso no espelho por 20 min", "points": { "diastema": 0.8, "siso_impactado": 0.4, "mordida_cruzada": 0.3 } }
+      ]
+    },
+    {
+      "question": "Seu maior trauma de infância envolve:",
+      "answers": [
+        { "text": "🪥  Escova de dente que a mãe usava pra bater", "points": { "tartaro": 0.9, "gengivite": 0.4, "carie": 0.2 } },
+        { "text": "🩺  Dentista que falou \"só vai doer um pouquinho\" e MENTIU", "points": { "siso_impactado": 0.9, "bruxismo": 0.3, "sensibilidade": 0.3 } },
+        { "text": "😬  Aparelho que arrancou o beiço inteiro no beijo", "points": { "mordida_cruzada": 0.9, "diastema": 0.4, "tartaro": 0.2 } },
+        { "text": "🧊  Morder picolé e sentir a alma sair do corpo", "points": { "sensibilidade": 0.9, "carie": 0.4, "gengivite": 0.2 } }
+      ]
+    },
+    {
+      "question": "Numa briga de bar, você seria:",
+      "answers": [
+        { "text": "🥊  O que começa a confusão e some antes da polícia", "points": { "carie": 0.8, "siso_impactado": 0.4, "bruxismo": 0.3 } },
+        { "text": "🛡️  O que fica no canto chorando de nervoso", "points": { "gengivite": 0.9, "sensibilidade": 0.5, "tartaro": 0.2 } },
+        { "text": "🦴  O que morde alguém (e arranca um pedaço)", "points": { "mordida_cruzada": 0.9, "bruxismo": 0.4, "carie": 0.2 } },
+        { "text": "🎭  O que observa tudo e julga mentalmente", "points": { "diastema": 0.8, "tartaro": 0.5, "siso_impactado": 0.3 } }
+      ]
+    },
+    {
+      "question": "Sua relação com o fio dental é:",
+      "answers": [
+        { "text": "🧵  Uma ficção científica que ouço falar mas nunca vi", "points": { "tartaro": 0.9, "carie": 0.5, "gengivite": 0.4 } },
+        { "text": "💔  Uma história de amor tóxica: uso, sangra, desisto", "points": { "gengivite": 0.9, "sensibilidade": 0.4, "carie": 0.2 } },
+        { "text": "🧘  Religioso, passo 3 vezes e ainda sinto que tá sujo", "points": { "bruxismo": 0.7, "mordida_cruzada": 0.5, "diastema": 0.3 } },
+        { "text": "🎲  Uso quando lembro, tipo aniversário de primo distante", "points": { "siso_impactado": 0.8, "tartaro": 0.4, "diastema": 0.3 } }
+      ]
+    },
+    {
+      "question": "Se você fosse uma bebida, seria:",
+      "answers": [
+        { "text": "☕  Café preto, amargo, e destruidor de tudo que é branco", "points": { "tartaro": 0.9, "carie": 0.4, "diastema": 0.2 } },
+        { "text": "🍷  Vinho tinto que mancha tudo que toca (inclusive a alma)", "points": { "carie": 0.8, "tartaro": 0.5, "diastema": 0.3 } },
+        { "text": "🥤  Refrigerante com gelo, porque odeio sensações naturais", "points": { "sensibilidade": 0.9, "carie": 0.5, "gengivite": 0.2 } },
+        { "text": "🧊  Água com gelo — básico, frio, e ninguém me nota", "points": { "siso_impactado": 0.9, "mordida_cruzada": 0.4, "bruxismo": 0.2 } }
+      ]
+    },
+    {
+      "question": "Numa festa, você é conhecido como:",
+      "answers": [
+        { "text": "🎪  O palhaço que faz todo mundo rir (e rangem os dentes)", "points": { "bruxismo": 0.9, "mordida_cruzada": 0.4, "diastema": 0.3 } },
+        { "text": "🧟  O que some no meio e reaparece do nada, tipo trauma", "points": { "siso_impactado": 0.9, "tartaro": 0.4, "gengivite": 0.2 } },
+        { "text": "🍭  O que traz doces pra todo mundo (e ninguém pediu)", "points": { "carie": 0.9, "sensibilidade": 0.3, "tartaro": 0.2 } },
+        { "text": "🌸  O que fica no canto sorrindo e ninguém sabe o nome", "points": { "diastema": 0.8, "gengivite": 0.5, "sensibilidade": 0.3 } }
+      ]
+    },
+    {
+      "question": "Seu lema de vida é:",
+      "answers": [
+        { "text": "🦷  \"Devagar e sempre — prefiro ir sumindo aos poucos\"", "points": { "tartaro": 0.9, "siso_impactado": 0.4, "gengivite": 0.3 } },
+        { "text": "⚡  \"Vivo no limite — qualquer estímulo me derruba\"", "points": { "sensibilidade": 0.9, "bruxismo": 0.4, "carie": 0.2 } },
+        { "text": "🔥  \"Apressa que eu tô chegando, e vou causar\"", "points": { "carie": 0.9, "mordida_cruzada": 0.4, "tartaro": 0.3 } },
+        { "text": "🤷  \"Tô aqui, tô atrapalhando, e ninguém me tira\"", "points": { "siso_impactado": 0.9, "mordida_cruzada": 0.5, "diastema": 0.2 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "carie": {
+      "title": "Cárie",
+      "emoji": "🍭",
+      "subtitle": "A Clássica Destruidora",
+      "text": "Você é a Cárie! Doce, persistente e sempre onde não deveria estar. Você não aparece de repente — você vai minando, sorrateira, até destruir tudo por dentro. Todo mundo te conhece, todo mundo te odeia, e ninguém consegue te ignorar. Sua especialidade é aparecer na véspera de viagem e do Natal. Parabéns, você é o trauma coletivo da humanidade."
+    },
+    "sensibilidade": {
+      "title": "Sensibilidade",
+      "emoji": "❄️",
+      "subtitle": "A Dramática do Gelo",
+      "text": "Você é a Sensibilidade! Qualquer estímulo te derruba — frio, quente, doce, ácido, emocional. Você vive no limite, reage a tudo com dor aguda e ninguém entende o que você sente de verdade. \"É só um picolé\", dizem. VOCÊ SABE QUE NÃO É SÓ UM PICOLÉ. Você é intensidade pura, e o mundo precisa aprender a te respeitar."
+    },
+    "tartaro": {
+      "title": "Tártaro",
+      "emoji": "🪨",
+      "subtitle": "O Acumulador de Bagunça",
+      "text": "Você é o Tártaro! Você não aparece do nada — você é o resultado de anos de negligência, café e decisões ruins. Você é teimoso, duro de roer, e só sai com ajuda profissional (literalmente). As pessoas te ignoram até não conseguirem mais. Você é a prova viva de que \"depois eu cuido\" nunca funciona."
+    },
+    "mordida_cruzada": {
+      "title": "Mordida Cruzada",
+      "emoji": "🦴",
+      "subtitle": "O Rebelde Sem Causa",
+      "text": "Você é a Mordida Cruzada! Nada na sua vida encaixa direito — nem seus dentes. Você morde onde não devia, encaixa onde não cabe, e ainda assim segue em frente. Você é o tipo de problema que precisa de aparelho, terapia e talvez uma religião nova. Mas hey, pelo menos você é único. Ninguém tem uma mordida igual à sua."
+    },
+    "bruxismo": {
+      "title": "Bruxismo",
+      "emoji": "😤",
+      "subtitle": "O Estressado Noturno",
+      "text": "Você é o Bruxismo! Você não descansa, nem dormindo. Enquanto todo mundo sonha, você está lá, rangendo, triturando, destruindo silenciosamente. Você é a personificação do \"tá tudo bem\" que não tá nada bem. Seus dentes são vítimas, mas você é quem sofre. Recomendação: terapia, academia, e talvez um mordedor."
+    },
+    "gengivite": {
+      "title": "Gengivite",
+      "emoji": "🩸",
+      "subtitle": "O Sensível que Sangra",
+      "text": "Você é a Gengivite! Você é sensível, inflamado, e sangra com o mínimo contato. Todo mundo te negligencia até você ficar vermelho e inchado de ódio. Você é o grito silencioso de \"me cuida!\" que ninguém ouve. Sua existência é um aviso: ignore a bucalidade e ela te vinga. Escova direito, amigo."
+    },
+    "siso_impactado": {
+      "title": "Siso Impactado",
+      "emoji": "🦷",
+      "subtitle": "O Atrasado Inconveniente",
+      "text": "Você é o Siso Impactado! Você chegou tarde, não cabe, tá atrapalhando todo mundo, e ainda assim insiste em ficar. Você é o convidado que não foi chamado e não sai. Causa dor, inchaço, e só resolve com cirurgia. Você é a prova de que existem coisas na vida que deveriam ter nascido, mas nasceram mesmo assim. Desculpa."
+    },
+    "diastema": {
+      "title": "Diastema",
+      "emoji": "✨",
+      "subtitle": "O Estiloso do Vão",
+      "text": "Você é o Diastema! Você não é um problema, você é um estilo de vida. Enquanto todo mundo tenta se encaixar, você abre espaço e faz a diferença. Alguns te amam, outros te odeiam, mas ninguém te ignora. Você é charme, personalidade e um pouco de fuga de ar quando assobia. Você é prova de que imperfeição é só outra palavra para icônico."
+    }
+  }
+}
