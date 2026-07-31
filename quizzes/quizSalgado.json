@@ -1,0 +1,119 @@
+{
+ "title": "Qual Salgado do Metrô Você Seria?",
+ "subtitle": "Descubra qual gordura ambulante esconde sua verdadeira essência (e talvez te dê azia depois)",
+ "questions": [
+   {
+     "question": "Numa segunda-feira de manhã no metrô lotado, você é:",
+     "answers": [
+       { "text": "🐔  O que empurra todo mundo pra entrar primeiro, sem pudor", "points": { "coxinha": 0.9, "pastel": 0.3, "enroladinho": 0.2 } },
+       { "text": "🧀  O que chega derretendo e grudando em geral", "points": { "bolinha_de_queijo": 0.9, "empada": 0.4, "folheado": 0.2 } },
+       { "text": "🥩  O que fica no canto, firme, e ninguém encosta", "points": { "kibe": 0.9, "risoles": 0.3, "empada": 0.2 } },
+       { "text": "🌀  O que aparece do nada enrolado numa situação", "points": { "enroladinho": 0.9, "folheado": 0.4, "coxinha": 0.2 } }
+     ]
+   },
+   {
+     "question": "Sua relação com o óleo é:",
+     "answers": [
+       { "text": "🛢️  Sou feito de óleo, vivo no óleo, vou morrer no óleo", "points": { "pastel": 0.9, "coxinha": 0.4, "bolinha_de_queijo": 0.3 } },
+       { "text": "🧴  Sou seco por fora, mas guardo gordura no coração", "points": { "kibe": 0.9, "empada": 0.5, "risoles": 0.2 } },
+       { "text": "🧈  Sou manteiga pura, derreto só de olhar pra mim", "points": { "folheado": 0.9, "bolinha_de_queijo": 0.4, "enroladinho": 0.3 } },
+       { "text": "💧  Sou o \"saudável\" do grupo (relativamente)", "points": { "esfiha": 0.9, "empada": 0.3, "kibe": 0.2 } }
+     ]
+   },
+   {
+     "question": "Numa festa de aniversário, você é:",
+     "answers": [
+       { "text": "🎉  O primeiro a sumir da mesa, sempre", "points": { "coxinha": 0.9, "bolinha_de_queijo": 0.4, "pastel": 0.3 } },
+       { "text": "🫥  O que fica esquecido no canto até alguém ter dó", "points": { "kibe": 0.9, "risoles": 0.5, "esfiha": 0.2 } },
+       { "text": "🍽️  O que só os íntimos conhecem e defendem com unhas e dentes", "points": { "empada": 0.9, "esfiha": 0.4, "folheado": 0.3 } },
+       { "text": "🔥  O que chega quente e some antes de esfriar", "points": { "pastel": 0.9, "coxinha": 0.3, "enroladinho": 0.2 } }
+     ]
+   },
+   {
+     "question": "Se você fosse um tipo de pessoa no Tinder, seria:",
+     "answers": [
+       { "text": "📸  O que tem foto de 2015 e ainda engana geral", "points": { "coxinha": 0.9, "bolinha_de_queijo": 0.4, "empada": 0.2 } },
+       { "text": "🎭  O que parece simples mas tem camadas complexas", "points": { "folheado": 0.9, "empada": 0.5, "risoles": 0.3 } },
+       { "text": "🧨  O que explode na boca de quem não espera", "points": { "bolinha_de_queijo": 0.9, "pastel": 0.4, "enroladinho": 0.2 } },
+       { "text": "🌵  O que parece seco mas é surpreendentemente intenso", "points": { "kibe": 0.9, "esfiha": 0.5, "risoles": 0.3 } }
+     ]
+   },
+   {
+     "question": "Seu maior defeito é:",
+     "answers": [
+       { "text": "🫀  Ser oco por dentro e todo mundo descobrir depois", "points": { "coxinha": 0.9, "empada": 0.4, "bolinha_de_queijo": 0.3 } },
+       { "text": "🌡️  Esfriar rápido demais e ficar irreconhecível", "points": { "pastel": 0.9, "risoles": 0.5, "folheado": 0.2 } },
+       { "text": "🧶  Desmanchar inteiro com o primeiro toque", "points": { "folheado": 0.9, "enroladinho": 0.5, "empada": 0.3 } },
+       { "text": "🥶  Ser gelado e distante, mas ainda assim desejado", "points": { "bolinha_de_queijo": 0.8, "kibe": 0.5, "esfiha": 0.4 } }
+     ]
+   },
+   {
+     "question": "Numa fila do metrô às 7h da manhã, você:",
+     "answers": [
+       { "text": "🏃  Empurra, corta fila, e ainda reclama do serviço", "points": { "coxinha": 0.9, "pastel": 0.4, "enroladinho": 0.2 } },
+       { "text": "🧘  Espera pacientemente, porque sabe que é o melhor", "points": { "empada": 0.9, "esfiha": 0.5, "kibe": 0.3 } },
+       { "text": "🎰  Aparece aleatoriamente, ninguém sabe se vem ou não", "points": { "risoles": 0.9, "folheado": 0.4, "bolinha_de_queijo": 0.2 } },
+       { "text": "🦎  Se esconde no fundo e torce pra ninguém te notar", "points": { "kibe": 0.9, "risoles": 0.5, "esfiha": 0.3 } }
+     ]
+   },
+   {
+     "question": "Seu lema de vida é:",
+     "answers": [
+       { "text": "🍗  \"Sou clássico, sou rei, e vou te enganar com recheio de batata\"", "points": { "coxinha": 0.9, "empada": 0.4, "risoles": 0.2 } },
+       { "text": "🧀  \"Derreto corações, queijos, e a dignidade de quem me come quente\"", "points": { "bolinha_de_queijo": 0.9, "folheado": 0.4, "empada": 0.3 } },
+       { "text": "🌿  \"Sou diferentão, tenho hortelã, e ninguém me entende\"", "points": { "kibe": 0.9, "esfiha": 0.5, "risoles": 0.3 } },
+       { "text": "🔥  \"Chego fritando, sumo rápido, e deixo saudade (e azia)\"", "points": { "pastel": 0.9, "enroladinho": 0.5, "coxinha": 0.2 } }
+     ]
+   }
+ ],
+ "descriptions": {
+   "coxinha": {
+     "title": "Coxinha",
+     "emoji": "🐔",
+     "subtitle": "A Rainha da Estação",
+     "text": "Você é a Coxinha! O salgado mais vendido, mais desejado, e mais traíra do Brasil. Por fora, crocante e irresistível. Por dentro? 70% batata, 30% ilusão. Você é o clássico que todo mundo pede, mas ninguém respeita de verdade. Chega primeiro, some primeiro, e ainda deixa o dedo gorduroso de lembrança. Você é a prova de que popularidade não precisa de substância — só de massa e fritura."
+   },
+   "bolinha_de_queijo": {
+     "title": "Bolinha de Queijo",
+     "emoji": "🧀",
+     "subtitle": "A Derretida Vingativa",
+     "text": "Você é a Bolinha de Queijo! Redonda, inocente, e letal. Você parece inofensiva até alguém te morder quente e queimar o céu da boca. Você é o tipo de salgado que não perdoa — ou derrete na mão e suja tudo, ou endurece e vira pedra. Não existe meio-termo. Você é intensidade pura, lactose, e arrependimento imediato. Parabéns, você é um perigo ambulante."
+   },
+   "kibe": {
+     "title": "Kibe",
+     "emoji": "🌿",
+     "subtitle": "O Misterioso do Hortelã",
+     "text": "Você é o Kibe! Você é o estranho da festa. Ninguém sabe exatamente o que você é, de onde veio, ou por que tem hortelã. Você é seco, firme, e divide opiniões: ou te amam, ou te odeiam. Não existe \"achei ok\". Você é a prova de que identidade é construída na adversidade — e que trigo com carne moida é, sim, uma personalidade. Respeita o Kibe."
+   },
+   "enroladinho": {
+     "title": "Enroladinho de Salsicha",
+     "emoji": "🌀",
+     "subtitle": "O Enroscado da Vida",
+     "text": "Você é o Enroladinho! Você é literalmente um problema enrolado em outro problema. Salsicha duvidosa envolta em massa duvidosa, frita em óleo também duvidoso. Você é a personificação do \"vai dar certo\". Ninguém te pediu, mas quando você aparece, todo mundo come. Você é o salgado da gambiarra, da criatividade, e da sobrevivência. Enrolado, mas presente."
+   },
+   "folheado": {
+     "title": "Folheado",
+     "emoji": "🥐",
+     "subtitle": "O Camadas de Decepção",
+     "text": "Você é o Folheado! Você é elegante, refinado, e desmancha com o primeiro toque. Por fora, camadas de massa folhada que parecem sofisticação. Por dentro? Um recheio que nunca é o suficiente. Você é o salgado que finge ser pão francês de festa chique, mas foi comprado no mesmo balcão que a coxinha. Você é ilusão, migalha, e a esperança de que aparência importa."
+   },
+   "empada": {
+     "title": "Empada",
+     "emoji": "🥧",
+     "subtitle": "A Elegante do Fundo",
+     "text": "Você é a Empada! Você não é de metrô, você é de festa de formatura que sobra e vai parar no metrô no dia seguinte. Você é o salgado que usa terninho. Recheio decente, massa comportada, e uma aparência que diz \"eu sou diferente\". Só que não. Você é a mesma gordura, só que em formato de cupcake salgado. Mas hey, pelo menos você tem estilo. E palmito."
+   },
+   "risoles": {
+     "title": "Risoles",
+     "emoji": "🥖",
+     "subtitle": "O Esquecido de Presunto",
+     "text": "Você é o Risoles! Você é o salgado que ninguém lembra de pedir, mas quando vê, aceita. Presunto e queijo, simples, direto, e profundamente esquecível. Você é o \"tanto faz\" do cardápio. Não é ruim, mas também não é bom — você é experiência. Quando a coxinha acaba, você é o plano B. E sabe de uma coisa? Planos B também merecem amor. Ou pelo menos, ser comidos."
+   },
+   "pastel": {
+     "title": "Pastel",
+     "emoji": "🔥",
+     "subtitle": "O Fritador de Feira",
+     "text": "Você é o Pastel! Você não é tecnicamente de metrô, mas aparece nas bocas de metrô e todo mundo aceita. Você é gigante, barato, e cheio de ar — literalmente. Sua massa é 90% bolha de óleo e 10% esperança. Você é o salgado do otimista: sempre acha que cabe mais recheio, sempre frita mais do que devia, e sempre deixa a pessoa com sede. Você é feira, caos, e alegria pura."
+   }
+ }
+}
