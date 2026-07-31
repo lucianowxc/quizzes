@@ -649,6 +649,11 @@
       "name": "🥋 Qual Estilo de Kung Fu é o Seu?",
       "file": "quizzes/quizKungFu.json",
       "description": "Descubra qual arte marcial traduz sua alma — e prepare o coração pra algumas verdades!"
+    },
+    {
+      "name": "Qual Problema Dentário Você Seria?",
+      "file": "quizzes/quizDente.json",
+      "description": "Descubra qual desastre bucal esconde sua verdadeira personalidade (e talvez te faça marcar uma consulta depois)"
     }
   ]
 }
