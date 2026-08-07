@@ -659,6 +659,11 @@
       "name": "Qual Salgado do Metrô Você Seria?",
       "file": "quizzes/quizSalgado.json",
       "description": "Descubra qual gordura ambulante esconde sua verdadeira essência (e talvez te dê azia depois)"
+    },
+    {
+      "name": "Qual Furacão Você Seria?",
+      "file": "quizzes/quizFuracao.json",
+      "description": "Descubra se você é um fenômeno da natureza, uma lenda das estradas ou simplesmente um tubarão voando no céu."
     }
   ]
 }
