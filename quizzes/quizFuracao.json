@@ -1,0 +1,432 @@
+{
+  "title": "Qual Furacão Você Seria?",
+  "subtitle": "Descubra se você é um fenômeno da natureza, uma lenda das estradas ou simplesmente um tubarão voando no céu.",
+  "questions": [
+    {
+      "question": "Você chega numa festa onde não conhece ninguém. O que acontece nos primeiros 10 minutos?",
+      "answers": [
+        {
+          "text": "🎲  Já estou no centro da pista dançando sozinho",
+          "points": {
+            "carreta_furacao": 0.7,
+            "furacao_2000": 0.3
+          }
+        },
+        {
+          "text": "🌊  Fico na área de serviço observando antes de agir",
+          "points": {
+            "furacao_katrina": 0.8,
+            "ciclone_bomba": 0.2
+          }
+        },
+        {
+          "text": "🏟️  Encontro a galera do time e monopolizo o sofá",
+          "points": {
+            "athletico_paranaense": 0.8,
+            "hurricane_kane": 0.2
+          }
+        },
+        {
+          "text": "🦈  Apareço do ninguém vindo pelo telhado",
+          "points": {
+            "sharknado": 0.9,
+            "furacao_milton": 0.2
+          }
+        },
+        {
+          "text": "📊  Fico na fila do banheiro calculando minhas chances",
+          "points": {
+            "hurricane_kane": 0.8,
+            "athletico_paranaense": 0.2
+          }
+        },
+        {
+          "text": "💣  Chego atrasado e já encontro tudo destruído",
+          "points": {
+            "ciclone_bomba": 0.7,
+            "furacao_milton": 0.4
+          }
+        }
+      ]
+    },
+    {
+      "question": "Num dia de TPM (tristeza, pressão e mau humor), qual é o seu modus operandi?",
+      "answers": [
+        {
+          "text": "🚛  Dirijo sem destino ouvindo pancadão no último volume",
+          "points": {
+            "carreta_furacao": 0.8,
+            "furacao_2000": 0.3
+          }
+        },
+        {
+          "text": "🌪️  Me isolo e deixo a tempestade passar sozinha",
+          "points": {
+            "furacao_2000": 0.8,
+            "furacao_milton": 0.3
+          }
+        },
+        {
+          "text": "🌊  Acabo com tudo à minha volta, depois peço desculpas",
+          "points": {
+            "furacao_katrina": 0.8,
+            "ciclone_bomba": 0.3
+          }
+        },
+        {
+          "text": "⚽  Chuto o pau da barraca e ninguém entende por quê",
+          "points": {
+            "hurricane_kane": 0.8,
+            "athletico_paranaense": 0.2
+          }
+        },
+        {
+          "text": "🦈  Faço algo tão absurdo que ninguém sabe se é drama ou gênio",
+          "points": {
+            "sharknado": 0.9,
+            "carreta_furacao": 0.2
+          }
+        },
+        {
+          "text": "🏟️  Levo a galera junto na raiva e viramos um exército",
+          "points": {
+            "athletico_paranaense": 0.8,
+            "furacao_katrina": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um prato de comida, qual seria?",
+      "answers": [
+        {
+          "text": "🌶️  Acarajé bem temperado — parece inofensivo até morder",
+          "points": {
+            "ciclone_bomba": 0.7,
+            "furacao_katrina": 0.3
+          }
+        },
+        {
+          "text": "🍔  X-tudo desmontado — cheio de coisa e ninguém sabe por onde pegar",
+          "points": {
+            "carreta_furacao": 0.8,
+            "sharknado": 0.3
+          }
+        },
+        {
+          "text": "🍣  Sushi bem montado — técnica impecável, mas falta arroz",
+          "points": {
+            "hurricane_kane": 0.8,
+            "furacao_2000": 0.2
+          }
+        },
+        {
+          "text": "🍲  Barreado paranaense — demora, mas quando fica pronto é histórico",
+          "points": {
+            "athletico_paranaense": 0.8,
+            "furacao_milton": 0.3
+          }
+        },
+        {
+          "text": "🥘  Paella gigante — alimenta uma cidade inteira de uma vez",
+          "points": {
+            "furacao_katrina": 0.7,
+            "furacao_milton": 0.4
+          }
+        },
+        {
+          "text": "🍕  Pizza de sushi com açaí — não faz sentido e por isso é lendário",
+          "points": {
+            "sharknado": 0.9,
+            "carreta_furacao": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você está numa fila enorme do INSS. Como você lida?",
+      "answers": [
+        {
+          "text": "🎲  Tento furar a fila e acabo sendo expulso pelo segurança",
+          "points": {
+            "carreta_furacao": 0.8,
+            "sharknado": 0.2
+          }
+        },
+        {
+          "text": "📊  Fico na fila, mas fico calculando quantas pessoas ainda faltam",
+          "points": {
+            "hurricane_kane": 0.8,
+            "furacao_2000": 0.2
+          }
+        },
+        {
+          "text": "🌪️  Espero pacientemente, mas quando chega minha vez o sistema cai",
+          "points": {
+            "furacao_2000": 0.8,
+            "hurricane_kane": 0.3
+          }
+        },
+        {
+          "text": "🌊  Faço amizade com todo mundo e acabo virando o centro da fila",
+          "points": {
+            "furacao_katrina": 0.7,
+            "athletico_paranaense": 0.3
+          }
+        },
+        {
+          "text": "🏟️  Organizo a galera pra fazer um coro de protesto",
+          "points": {
+            "athletico_paranaense": 0.8,
+            "ciclone_bomba": 0.2
+          }
+        },
+        {
+          "text": "💣  Explodo de raiva e o gerente me chama na sala",
+          "points": {
+            "ciclone_bomba": 0.8,
+            "furacao_katrina": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria o seu jeito de pedir demissão de um emprego que você odeia?",
+      "answers": [
+        {
+          "text": "🚛  Capoto a mesa e saio acelerando pelo corredor",
+          "points": {
+            "carreta_furacao": 0.9,
+            "sharknado": 0.2
+          }
+        },
+        {
+          "text": "🌊  Mando um e-mail formal, mas destruo tudo nos 15 minutos seguintes",
+          "points": {
+            "furacao_katrina": 0.8,
+            "ciclone_bomba": 0.3
+          }
+        },
+        {
+          "text": "⚽  Faço um discurso emocionante e no final não entrego a carta",
+          "points": {
+            "hurricane_kane": 0.8,
+            "furacao_2000": 0.2
+          }
+        },
+        {
+          "text": "🏟️  Levo a torcida inteira do escritório pra sair junto comigo",
+          "points": {
+            "athletico_paranaense": 0.8,
+            "furacao_katrina": 0.2
+          }
+        },
+        {
+          "text": "🦈  Entro pela janela do RH e ninguém sabe como eu cheguei ali",
+          "points": {
+            "sharknado": 0.9,
+            "carreta_furacao": 0.2
+          }
+        },
+        {
+          "text": "💣  Surjo do nada, faço a maior cena e some antes da polícia chegar",
+          "points": {
+            "ciclone_bomba": 0.8,
+            "furacao_milton": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você está numa viagem de carro com amigos e o GPS quebra no meio do nada. E agora?",
+      "answers": [
+        {
+          "text": "🎲  Acelero na contramão e confio no instinto",
+          "points": {
+            "carreta_furacao": 0.8,
+            "sharknado": 0.2
+          }
+        },
+        {
+          "text": "📊  Tento usar o mapa mental, mas erramos três vezes o mesmo lugar",
+          "points": {
+            "hurricane_kane": 0.8,
+            "furacao_2000": 0.3
+          }
+        },
+        {
+          "text": "🌪️  Fico quieto e deixo os outros se perderem primeiro",
+          "points": {
+            "furacao_2000": 0.8,
+            "furacao_milton": 0.3
+          }
+        },
+        {
+          "text": "🌊  Tomo a frente e levo todo mundo pra um lugar completamente errado",
+          "points": {
+            "furacao_katrina": 0.7,
+            "athletico_paranaense": 0.3
+          }
+        },
+        {
+          "text": "🏟️  Organizo a galera pra formar uma caravana improvisada",
+          "points": {
+            "athletico_paranaense": 0.8,
+            "carreta_furacao": 0.2
+          }
+        },
+        {
+          "text": "💣  Surpreendo todo mundo achando um atalho que não existe no mapa",
+          "points": {
+            "ciclone_bomba": 0.8,
+            "sharknado": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um personagem secundário de uma novela das 9, qual seria?",
+      "answers": [
+        {
+          "text": "🚛  O caminhoneiro misterioso que aparece em cena e some",
+          "points": {
+            "carreta_furacao": 0.8,
+            "furacao_2000": 0.3
+          }
+        },
+        {
+          "text": "🌊  O vilão que destrói tudo e no final é perdoado",
+          "points": {
+            "furacao_katrina": 0.8,
+            "ciclone_bomba": 0.2
+          }
+        },
+        {
+          "text": "⚽  O protagonista que faz tudo certo, mas nunca fica com a protagonista",
+          "points": {
+            "hurricane_kane": 0.9,
+            "furacao_2000": 0.2
+          }
+        },
+        {
+          "text": "🏟️  O torcedor fanático que vira meme em todo capítulo",
+          "points": {
+            "athletico_paranaense": 0.8,
+            "carreta_furacao": 0.2
+          }
+        },
+        {
+          "text": "🦈  O plot twist que ninguém espera — tipo um tubarão na chuva",
+          "points": {
+            "sharknado": 0.9,
+            "ciclone_bomba": 0.2
+          }
+        },
+        {
+          "text": "💣  O personagem que explode de raiva no capítulo 5 e some",
+          "points": {
+            "ciclone_bomba": 0.8,
+            "furacao_milton": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua relação com prazos e deadlines?",
+      "answers": [
+        {
+          "text": "🎲  Entrego tudo no último segundo, mas com estilo",
+          "points": {
+            "carreta_furacao": 0.7,
+            "sharknado": 0.3
+          }
+        },
+        {
+          "text": "📊  Me preparo com antecedência, mas na hora H travo",
+          "points": {
+            "hurricane_kane": 0.8,
+            "furacao_2000": 0.3
+          }
+        },
+        {
+          "text": "🌪️  Apareço de surpresa e entrego antes do previsto",
+          "points": {
+            "furacao_2000": 0.8,
+            "furacao_milton": 0.3
+          }
+        },
+        {
+          "text": "🌊  Cresço aos poucos e quando entrego, é um evento",
+          "points": {
+            "furacao_katrina": 0.7,
+            "furacao_milton": 0.4
+          }
+        },
+        {
+          "text": "🏟️  Levo a equipe inteira junto e entregamos no grito",
+          "points": {
+            "athletico_paranaense": 0.8,
+            "ciclone_bomba": 0.2
+          }
+        },
+        {
+          "text": "💣  Surjo do nada, entrego tudo de uma vez e desapareço",
+          "points": {
+            "ciclone_bomba": 0.8,
+            "sharknado": 0.3
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "carreta_furacao": {
+      "title": "Carreta Furacão",
+      "emoji": "🚛",
+      "subtitle": "O Fenômeno das Estradas",
+      "text": "Você é a Carreta Furacão! Desgovernado, barulhento e impossível de ignorar. Você entra em qualquer lugar causando o maior rebuliço — e nem sempre sabe explicar como chegou ali. Sua presença é tão marcante que virou meme nacional. Cuidado com as curvas fechadas da vida!"
+    },
+    "furacao_katrina": {
+      "title": "Furacão Katrina",
+      "emoji": "🌊",
+      "subtitle": "A Força da Natureza",
+      "text": "Você é o Furacão Katrina! Quando você decide agir, o mundo inteiro para para assistir. Você tem uma presença imensa, cresce rapidamente e deixa marcas profundas por onde passa. Não é à toa que seu nome entrou para a história. Só tente não levar tudo tão a sério assim, tá?"
+    },
+    "furacao_2000": {
+      "title": "Furacão 2000",
+      "emoji": "🌪️",
+      "subtitle": "O Clássico Nacional",
+      "text": "Você é o Furacão 2000! O furacão que ousou visitar o Brasil e virou lenda. Você é imprevisível, surge do nada e some antes que alguém entenda o que aconteceu. Um verdadeiro fenômeno raro — tipo você encontrando alguém que lembra dele sem ser no Trivial Pursuit."
+    },
+    "athletico_paranaense": {
+      "title": "Athletico Paranaense",
+      "emoji": "🏟️",
+      "subtitle": "O Furacão do Futebol",
+      "text": "Você é o Athletico Paranaense! O verdadeiro Furacão do futebol brasileiro. Determinado, veloz e com uma torcida que não desiste nunca. Você pode não ser o mais famoso de todos, mas quando chega na hora decisiva, todo mundo respeita. E sim, o nome é com dois T's — já se acostuma."
+    },
+    "ciclone_bomba": {
+      "title": "Ciclone Bomba",
+      "emoji": "💣",
+      "subtitle": "A Explosão Inesperada",
+      "text": "Você é o Ciclone Bomba! Um fenômeno que surge de forma repentina e explode com uma força impressionante. Ninguém vê você chegando, mas quando você aparece, é impossível ignorar. Você é o tipo de pessoa que transforma uma segunda-feira chata em um evento meteorológico histórico."
+    },
+    "hurricane_kane": {
+      "title": "Hurricane Kane",
+      "emoji": "⚽",
+      "subtitle": "O Artilheiro que Não Decide",
+      "text": "Você é o Hurricane Kane! Estatísticas impecáveis, gols de sobra na temporada regular, mas quando chega a hora de levantar a taça... aí o vento muda de direção. Você é talentoso, trabalhador e todo mundo torce por você — só falta aquele título pra confirmar que você é, de fato, um furacão de verdade. Um dia chega, prometo!"
+    },
+    "furacao_milton": {
+      "title": "Furacão Milton",
+      "emoji": "🌀",
+      "subtitle": "O Devastador Silencioso",
+      "text": "Você é o Furacão Milton! Não é o mais famoso da turma, mas quando você aparece, o estrago é monumental. Você é daqueles que prefere agir na surdina, crescendo aos poucos até o momento em que ninguém consegue mais te parar. Sua força é tão grande que até quem te subestimou acaba pedindo arrego."
+    },
+    "sharknado": {
+      "title": "Sharknado",
+      "emoji": "🦈",
+      "subtitle": "O Absurdo Perfeito",
+      "text": "Você é o Sharknado! Um furacão com tubarões voando no céu — porque um furacão normal é coisa demais pra você. Você não faz sentido, não segue regras e por isso mesmo é absolutamente inesquecível. Ninguém sabe explicar como você funciona, mas todo mundo para pra assistir. Você é a prova de que o absurdo também é arte."
+    }
+  }
+}
