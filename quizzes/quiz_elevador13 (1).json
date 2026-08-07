@@ -1,0 +1,2015 @@
+{
+  "title": "🛗 O Mistério do Elevador 13",
+  "subtitle": "Você entrou no elevador do seu prédio à meia-noite. O botão do 13º andar — que NÃO EXISTE — acendeu sozinho. O que você faz?",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "🌙 Meia-noite no prédio. O elevador antigo range. De repente, o botão do 13º andar — que NÃO EXISTE — acende em vermelho pulsante. O que você faz?",
+      "answers": [
+        {
+          "text": "🛑 Aperto o botão de emergência e tento sair",
+          "points": {
+            "cetico_escapou": 0.5,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q2a"
+        },
+        {
+          "text": "🔴 Aperto o botão 13, curioso",
+          "points": {
+            "explorador_corajoso": 0.8,
+            "viajante_tempo": 0.4,
+            "perdido_para_sempre": 0.2
+          },
+          "nextQuestion": "q2b"
+        },
+        {
+          "text": "📱 Tiro foto e mando no grupo do prédio",
+          "points": {
+            "observador_sabio": 0.7,
+            "cetico_escapou": 0.3
+          },
+          "nextQuestion": "q2c"
+        },
+        {
+          "text": "🧘 Fico parado, respirando fundo, observando",
+          "points": {
+            "observador_sabio": 0.9,
+            "mestre_enigmas": 0.4
+          },
+          "nextQuestion": "q2d"
+        }
+      ]
+    },
+    {
+      "id": "q2a",
+      "question": "⛔ O botão de emergência não funciona. A porta se fecha sozinha. O elevador começa a subir. Você sente o ar ficar gelado.",
+      "answers": [
+        {
+          "text": "🔨 Tento arrombar a porta com as mãos",
+          "points": {
+            "explorador_corajoso": 0.6,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q3a"
+        },
+        {
+          "text": "📢 Grito por ajuda",
+          "points": {
+            "perdido_para_sempre": 0.5,
+            "amigo_criaturas": 0.3
+          },
+          "nextQuestion": "q3b"
+        },
+        {
+          "text": "🔦 Acendo a lanterna do celular e inspeciono",
+          "points": {
+            "observador_sabio": 0.8,
+            "mestre_enigmas": 0.5
+          },
+          "nextQuestion": "q3c"
+        }
+      ]
+    },
+    {
+      "id": "q2b",
+      "question": "🔴 O botão 13 brilha intensamente. O elevador sobe rápido demais. Suas orelhas estalam. As luzes piscam e... param.",
+      "answers": [
+        {
+          "text": "🚪 Aperto o botão de abrir porta imediatamente",
+          "points": {
+            "explorador_corajoso": 0.9,
+            "perdido_para_sempre": 0.3
+          },
+          "nextQuestion": "q3d"
+        },
+        {
+          "text": "🪞 Olho no espelho do elevador — algo está diferente",
+          "points": {
+            "viajante_tempo": 0.8,
+            "mestre_enigmas": 0.6
+          },
+          "nextQuestion": "q3e"
+        },
+        {
+          "text": "📵 Desligo o celular, medo de interferência",
+          "points": {
+            "observador_sabio": 0.6,
+            "cetico_escapou": 0.4
+          },
+          "nextQuestion": "q3f"
+        }
+      ]
+    },
+    {
+      "id": "q2c",
+      "question": "📸 A foto sai tremida, mas algo aparece no reflexo do espelho do elevador — uma figura de capuz. Ninguém responde no grupo.",
+      "answers": [
+        {
+          "text": "🔍 Amplio a foto para ver melhor",
+          "points": {
+            "observador_sabio": 0.9,
+            "mestre_enigmas": 0.5
+          },
+          "nextQuestion": "q3g"
+        },
+        {
+          "text": "🏃 Corro para as escadas",
+          "points": {
+            "cetico_escapou": 0.9,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q3h"
+        },
+        {
+          "text": "💬 Mando 'Alguém aí?' no grupo",
+          "points": {
+            "amigo_criaturas": 0.7,
+            "perdido_para_sempre": 0.4
+          },
+          "nextQuestion": "q3i"
+        }
+      ]
+    },
+    {
+      "id": "q2d",
+      "question": "🧘 Você respira fundo. O elevador para. As portas se abrem lentamente. Um corredor iluminado por velas se estende à sua frente. Cheiro de incenso antigo.",
+      "answers": [
+        {
+          "text": "🕯️ Entro no corredor, fascinado",
+          "points": {
+            "explorador_corajoso": 0.8,
+            "viajante_tempo": 0.5
+          },
+          "nextQuestion": "q3j"
+        },
+        {
+          "text": "🦶 Dou um passo, mas fico na porta do elevador",
+          "points": {
+            "observador_sabio": 0.9,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q3k"
+        },
+        {
+          "text": "🗣️ Pergunto 'Tem alguém aí?'",
+          "points": {
+            "amigo_criaturas": 0.8,
+            "mestre_enigmas": 0.3
+          },
+          "nextQuestion": "q3l"
+        }
+      ]
+    },
+    {
+      "id": "q3a",
+      "question": "💥 Suas mãos doem. A porta não cede. Mas você nota um pequeno painel oculto ao lado dos botões, com símbolos estranhos.",
+      "answers": [
+        {
+          "text": "✨ Toco nos símbolos na ordem que eles brilham",
+          "points": {
+            "mestre_enigmas": 0.9,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q4a"
+        },
+        {
+          "text": "🦶 Chuto o painel de frustração",
+          "points": {
+            "heroi_relutante": 0.7,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q4b"
+        },
+        {
+          "text": "🤫 Fico em silêncio, esperando",
+          "points": {
+            "observador_sabio": 0.8,
+            "amigo_criaturas": 0.3
+          },
+          "nextQuestion": "q4c"
+        }
+      ]
+    },
+    {
+      "id": "q3b",
+      "question": "📢 Seu grito ecoa de formas impossíveis — como se o elevador fosse infinito. Algo responde: um sussurro vindo de baixo do chão.",
+      "answers": [
+        {
+          "text": "👂 Me abaixo e escuto atentamente",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "observador_sabio": 0.5
+          },
+          "nextQuestion": "q4d"
+        },
+        {
+          "text": "😤 Grito de volta 'Quem é você?!'",
+          "points": {
+            "heroi_relutante": 0.8,
+            "explorador_corajoso": 0.4
+          },
+          "nextQuestion": "q4e"
+        },
+        {
+          "text": "🪑 Sento no canto, cobrindo os ouvidos",
+          "points": {
+            "perdido_para_sempre": 0.7,
+            "cetico_escapou": 0.3
+          },
+          "nextQuestion": "q4f"
+        }
+      ]
+    },
+    {
+      "id": "q3c",
+      "question": "🔦 A luz do celular revela inscrições arranhadas nas paredes: 'NÃO OLHE PARA CIMA' — 'O 13 É O 1' — 'ELES ESTÃO ATRÁS DOS ESPELHOS'.",
+      "answers": [
+        {
+          "text": "👆 Olho para cima, desafiador",
+          "points": {
+            "explorador_corajoso": 0.9,
+            "perdido_para_sempre": 0.6
+          },
+          "nextQuestion": "q4g"
+        },
+        {
+          "text": "🪞 Examino o espelho com cuidado",
+          "points": {
+            "mestre_enigmas": 0.9,
+            "viajante_tempo": 0.6
+          },
+          "nextQuestion": "q4h"
+        },
+        {
+          "text": "🧮 Tento decifrar 'O 13 É O 1'",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "observador_sabio": 0.5
+          },
+          "nextQuestion": "q4i"
+        }
+      ]
+    },
+    {
+      "id": "q3d",
+      "question": "🚪 As portas se abrem. Você está no 13º andar. Um corredor circular com portas de madeira antiga. Cada porta tem um número romano. Uma delas está entreaberta.",
+      "answers": [
+        {
+          "text": "🚶 Entro na porta entreaberta",
+          "points": {
+            "explorador_corajoso": 0.9,
+            "viajante_tempo": 0.5
+          },
+          "nextQuestion": "q4j"
+        },
+        {
+          "text": "🔢 Leio os números das portas, procurando padrões",
+          "points": {
+            "mestre_enigmas": 0.9,
+            "observador_sabio": 0.5
+          },
+          "nextQuestion": "q4k"
+        },
+        {
+          "text": "🔔 Aperto a campainha da porta I",
+          "points": {
+            "amigo_criaturas": 0.8,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q4l"
+        }
+      ]
+    },
+    {
+      "id": "q3e",
+      "question": "🪞 No espelho, você não está sozinho. Sua imagem sorri — mas você não está sorrindo. Ela levanta a mão e escreve no vapor: 'VOCÊ É A CHAVE'.",
+      "answers": [
+        {
+          "text": "✋ Toco no espelho",
+          "points": {
+            "viajante_tempo": 0.9,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q4m"
+        },
+        {
+          "text": "🗣️ Pergunto 'Chave para quê?'",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "amigo_criaturas": 0.4
+          },
+          "nextQuestion": "q4n"
+        },
+        {
+          "text": "🙈 Fecho os olhos e viro de costas",
+          "points": {
+            "cetico_escapou": 0.7,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q4o"
+        }
+      ]
+    },
+    {
+      "id": "q3f",
+      "question": "📵 Com o celular desligado, o silêncio é absoluto. Você ouve o próprio coração. E então... uma batida suave na parede. Toc-toc. Pausa. Toc-toc-toc.",
+      "answers": [
+        {
+          "text": "👊 Respondo com a mesma batida",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "mestre_enigmas": 0.4
+          },
+          "nextQuestion": "q4p"
+        },
+        {
+          "text": "🛑 Fico imóvel, sem reagir",
+          "points": {
+            "observador_sabio": 0.8,
+            "cetico_escapou": 0.4
+          },
+          "nextQuestion": "q4q"
+        },
+        {
+          "text": "🔌 Ligo o celular de novo",
+          "points": {
+            "cetico_escapou": 0.7,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q4r"
+        }
+      ]
+    },
+    {
+      "id": "q3g",
+      "question": "🔍 Na foto ampliada, a figura de capuz segura um cartaz. Dá para ler: 'SEGUIR OU VOLTAR? A ESCOLHA É SUA. MAS O TEMPO NÃO É.'",
+      "answers": [
+        {
+          "text": "⏱️ Olho para o relógio do celular — está correndo ao contrário",
+          "points": {
+            "viajante_tempo": 0.9,
+            "mestre_enigmas": 0.5
+          },
+          "nextQuestion": "q4s"
+        },
+        {
+          "text": "📤 Compartilho a foto em todas as redes",
+          "points": {
+            "observador_sabio": 0.6,
+            "perdido_para_sempre": 0.4
+          },
+          "nextQuestion": "q4t"
+        },
+        {
+          "text": "🗑️ Apago a foto, assustado",
+          "points": {
+            "cetico_escapou": 0.7,
+            "perdido_para_sempre": 0.3
+          },
+          "nextQuestion": "q4u"
+        }
+      ]
+    },
+    {
+      "id": "q3h",
+      "question": "🏃 Você corre pelas escadas. Mas cada lance leva ao mesmo patamar. O número 13 está pintado em todas as paredes. Você está preso em um loop.",
+      "answers": [
+        {
+          "text": "🎨 Tento apagar o número 13 da parede",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "heroi_relutante": 0.5
+          },
+          "nextQuestion": "q4v"
+        },
+        {
+          "text": "🧘 Sento nas escadas e aceito a situação",
+          "points": {
+            "observador_sabio": 0.9,
+            "amigo_criaturas": 0.4
+          },
+          "nextQuestion": "q4w"
+        },
+        {
+          "text": "📉 Desço as escadas de costas",
+          "points": {
+            "explorador_corajoso": 0.7,
+            "viajante_tempo": 0.5
+          },
+          "nextQuestion": "q4x"
+        }
+      ]
+    },
+    {
+      "id": "q3i",
+      "question": "💬 Uma resposta aparece. De um número desconhecido: 'Olá, vizinho. Você finalmente notou o 13. Venha tomar chá. Apartamento 1301.'",
+      "answers": [
+        {
+          "text": "🫖 Respondo 'Estou indo'",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "explorador_corajoso": 0.4
+          },
+          "nextQuestion": "q4y"
+        },
+        {
+          "text": "❌ Bloqueio o número",
+          "points": {
+            "cetico_escapou": 0.8,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q4z"
+        },
+        {
+          "text": "📍 Compartilho minha localização com um amigo",
+          "points": {
+            "observador_sabio": 0.7,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q4aa"
+        }
+      ]
+    },
+    {
+      "id": "q3j",
+      "question": "🕯️ O corredor é infinito. As velas se acendem sozinhas à sua frente e se apagam atrás. Você está sendo guiado. Uma porta de cristal aparece ao final.",
+      "answers": [
+        {
+          "text": "💎 Empurro a porta de cristal",
+          "points": {
+            "explorador_corajoso": 0.9,
+            "viajante_tempo": 0.6
+          },
+          "nextQuestion": "q4ab"
+        },
+        {
+          "text": "🪞 Olho meu reflexo na porta antes de entrar",
+          "points": {
+            "observador_sabio": 0.8,
+            "mestre_enigmas": 0.5
+          },
+          "nextQuestion": "q4ac"
+        },
+        {
+          "text": "🍃 Sopro as velas ao redor",
+          "points": {
+            "amigo_criaturas": 0.7,
+            "perdido_para_sempre": 0.4
+          },
+          "nextQuestion": "q4ad"
+        }
+      ]
+    },
+    {
+      "id": "q3k",
+      "question": "🦶 Ficar na porta foi sábio. O elevador não fecha. Mas o corredor começa a se mover, trazendo algo em sua direção. Uma poltrona antiga, vazia, deslizando sozinha.",
+      "answers": [
+        {
+          "text": "🪑 Sento na poltrona",
+          "points": {
+            "viajante_tempo": 0.9,
+            "amigo_criaturas": 0.5
+          },
+          "nextQuestion": "q4ae"
+        },
+        {
+          "text": "🚫 Recuo para dentro do elevador",
+          "points": {
+            "cetico_escapou": 0.8,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q4af"
+        },
+        {
+          "text": "🦶 Chuto a poltrona para longe",
+          "points": {
+            "heroi_relutante": 0.8,
+            "explorador_corajoso": 0.3
+          },
+          "nextQuestion": "q4ag"
+        }
+      ]
+    },
+    {
+      "id": "q3l",
+      "question": "🗣️ Sua voz reverbera de formas impossíveis. A resposta vem de todas as direções: 'Você é o primeiro em dez anos a perguntar. Siga as marcas no chão.'",
+      "answers": [
+        {
+          "text": "👣 Sigo as marcas no chão",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q4ah"
+        },
+        {
+          "text": "🙏 Agradeço antes de seguir",
+          "points": {
+            "amigo_criaturas": 0.8,
+            "observador_sabio": 0.5
+          },
+          "nextQuestion": "q4ai"
+        },
+        {
+          "text": "❓ Pergunto 'Quem está falando?'",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q4aj"
+        }
+      ]
+    },
+    {
+      "id": "q4a",
+      "question": "✨ Ao tocar os símbolos na ordem certa, o painel se abre revelando um compartimento com um pergaminho antigo. Escrito em tinta que brilha no escuro.",
+      "answers": [
+        {
+          "text": "📜 Desenrolo e leio o pergaminho",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q5a"
+        },
+        {
+          "text": "🔥 O pergaminho começa a queimar sozinho",
+          "points": {
+            "perdido_para_sempre": 0.7,
+            "viajante_tempo": 0.4
+          },
+          "nextQuestion": "q5a"
+        },
+        {
+          "text": "📸 Fotografo rapidamente antes de queimar",
+          "points": {
+            "observador_sabio": 0.8,
+            "mestre_enigmas": 0.3
+          },
+          "nextQuestion": "q5a"
+        }
+      ]
+    },
+    {
+      "id": "q4b",
+      "question": "💥 O painel quebra. O elevador treme violentamente. Do buraco, algo se move — uma mão esquelética agarra sua perna.",
+      "answers": [
+        {
+          "text": "🦶 Chuto a mão com força",
+          "points": {
+            "heroi_relutante": 0.8,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q5b"
+        },
+        {
+          "text": "🤝 Seguro a mão, curioso",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q5b"
+        },
+        {
+          "text": "😱 Grito e tento me livrar",
+          "points": {
+            "cetico_escapou": 0.7,
+            "perdido_para_sempre": 0.4
+          },
+          "nextQuestion": "q5b"
+        }
+      ]
+    },
+    {
+      "id": "q4c",
+      "question": "🤫 No silêncio, o elevador para de se mover. Uma luz suave aparece no teto — um mapa estelar projetado. Você reconhece uma constelação.",
+      "answers": [
+        {
+          "text": "⭐ Toco a constelação que reconheço",
+          "points": {
+            "observador_sabio": 0.9,
+            "mestre_enigmas": 0.5
+          },
+          "nextQuestion": "q5c"
+        },
+        {
+          "text": "🌌 Fico observando o mapa, memorizando",
+          "points": {
+            "observador_sabio": 0.8,
+            "viajante_tempo": 0.5
+          },
+          "nextQuestion": "q5c"
+        },
+        {
+          "text": "📱 Tento fotografar o mapa",
+          "points": {
+            "cetico_escapou": 0.6,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q5c"
+        }
+      ]
+    },
+    {
+      "id": "q4d",
+      "question": "👂 Abaixado, você ouve claramente: 'Não somos inimigos. Somos os que ficaram. Os que o prédio engoliu. Ajude-nos a lembrar quem éramos.'",
+      "answers": [
+        {
+          "text": "💬 Pergunto 'Como posso ajudar?'",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5c"
+        },
+        {
+          "text": "📝 Anoto tudo que ouço",
+          "points": {
+            "observador_sabio": 0.8,
+            "mestre_enigmas": 0.4
+          },
+          "nextQuestion": "q5c"
+        },
+        {
+          "text": "🏃 Me levanto e recuo",
+          "points": {
+            "cetico_escapou": 0.7,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q5c"
+        }
+      ]
+    },
+    {
+      "id": "q4e",
+      "question": "😤 Seu grito reverbera. As paredes do elevador começam a sangrar. O sangue forma palavras: 'A RAIVA É A PORTA. PASSE POR ELA.'",
+      "answers": [
+        {
+          "text": "🚪 Empurro a parede que sangra",
+          "points": {
+            "explorador_corajoso": 0.9,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q5b"
+        },
+        {
+          "text": "🧘 Respiro fundo e me acalmo",
+          "points": {
+            "heroi_relutante": 0.8,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5b"
+        },
+        {
+          "text": "🙏 Peço desculpas pelo grito",
+          "points": {
+            "amigo_criaturas": 0.8,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q5b"
+        }
+      ]
+    },
+    {
+      "id": "q4f",
+      "question": "🪑 No canto, algo se materializa. Uma criança sentada, de costas, desenhando com giz no chão. Ela diz sem virar: 'Você não deveria ter vindo. Agora não pode ir embora.'",
+      "answers": [
+        {
+          "text": "🖍️ Olho o desenho dela — é um mapa do prédio",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5e"
+        },
+        {
+          "text": "👋 Toco no ombro dela",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q5e"
+        },
+        {
+          "text": "😰 Recuo até a parede",
+          "points": {
+            "perdido_para_sempre": 0.8,
+            "cetico_escapou": 0.4
+          },
+          "nextQuestion": "q5e"
+        }
+      ]
+    },
+    {
+      "id": "q4g",
+      "question": "👆 Olhando para cima, você vê o teto do elevador... não existe. É um céu noturno estrelado. E as estrelas formam rostos. Rostos familiares.",
+      "answers": [
+        {
+          "text": "👁️ Tento reconhecer os rostos",
+          "points": {
+            "viajante_tempo": 0.9,
+            "mestre_enigmas": 0.5
+          },
+          "nextQuestion": "q5j"
+        },
+        {
+          "text": "🌟 Estendo a mão para o céu",
+          "points": {
+            "explorador_corajoso": 0.8,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q5j"
+        },
+        {
+          "text": "😶 Baixo o olhar, assustado",
+          "points": {
+            "cetico_escapou": 0.7,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q5j"
+        }
+      ]
+    },
+    {
+      "id": "q4h",
+      "question": "🪞 No espelho, além do seu reflexo, há uma porta. Uma porta que não existe no elevador real. E ela está se abrindo.",
+      "answers": [
+        {
+          "text": "🚶 Tento atravessar o espelho",
+          "points": {
+            "viajante_tempo": 0.9,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q5d"
+        },
+        {
+          "text": "🔍 Examino a moldura do espelho",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5d"
+        },
+        {
+          "text": "🪞 Quebro o espelho",
+          "points": {
+            "heroi_relutante": 0.7,
+            "cetico_escapou": 0.4
+          },
+          "nextQuestion": "q5d"
+        }
+      ]
+    },
+    {
+      "id": "q4i",
+      "question": "🧮 'O 13 É O 1' — você percebe: 1+3=4, 4 é o número da morte em algumas culturas. Ou talvez... 13 em binário é 1101. O elevador para no andar 1101?",
+      "answers": [
+        {
+          "text": "🔢 Aperto os botões 1-1-0-1 em sequência",
+          "points": {
+            "mestre_enigmas": 0.9,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q5a"
+        },
+        {
+          "text": "🤔 Continuo pensando em outras interpretações",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5a"
+        },
+        {
+          "text": "🚫 Desisto do enigma",
+          "points": {
+            "cetico_escapou": 0.6,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q5a"
+        }
+      ]
+    },
+    {
+      "id": "q4j",
+      "question": "🚪 Dentro da porta entreaberta, um apartamento vitoriano. Uma mesa de jantar posta. Um jornal de 1923 aberto. E uma cadeira vazia, como se alguém acabasse de levantar.",
+      "answers": [
+        {
+          "text": "🍽️ Sento na cadeira vazia",
+          "points": {
+            "viajante_tempo": 0.9,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q5i"
+        },
+        {
+          "text": "📰 Leio o jornal de 1923",
+          "points": {
+            "observador_sabio": 0.8,
+            "mestre_enigmas": 0.5
+          },
+          "nextQuestion": "q5i"
+        },
+        {
+          "text": "🚪 Saio e fecho a porta",
+          "points": {
+            "cetico_escapou": 0.7,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q5i"
+        }
+      ]
+    },
+    {
+      "id": "q4k",
+      "question": "🔢 Os números romanos são: I, III, V, VIII, XIII, XXI. Sequência de Fibonacci! A próxima porta deveria ser XXXIV. Mas ela não existe. Ainda.",
+      "answers": [
+        {
+          "text": "🔨 Bato na parede onde deveria estar a porta XXXIV",
+          "points": {
+            "mestre_enigmas": 0.9,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q5a"
+        },
+        {
+          "text": "🧮 Desenho a sequência no chão com o pé",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q5a"
+        },
+        {
+          "text": "🚶 Volto para o elevador",
+          "points": {
+            "cetico_escapou": 0.6,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q5a"
+        }
+      ]
+    },
+    {
+      "id": "q4l",
+      "question": "🔔 A campainha toca uma melodia antiga — 'Asa Branca'. A porta se abre. Uma senhora idosa de óculos redondos: 'Ah, o novo inquilino. Entre, querido.'",
+      "answers": [
+        {
+          "text": "🫖 Entro e aceito o chá",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5f"
+        },
+        {
+          "text": "❓ Pergunto 'Quem é a senhora?'",
+          "points": {
+            "mestre_enigmas": 0.7,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q5f"
+        },
+        {
+          "text": "🚪 Recuso educadamente e saio",
+          "points": {
+            "heroi_relutante": 0.7,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q5f"
+        }
+      ]
+    },
+    {
+      "id": "q4m",
+      "question": "✋ Seu dedo atravessa o espelho como água. Do outro lado, outra mão segura a sua. Quente. Viva. Puxando suavemente.",
+      "answers": [
+        {
+          "text": "🤝 Deixo-me ser puxado",
+          "points": {
+            "viajante_tempo": 0.9,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q5d"
+        },
+        {
+          "text": "💪 Puxo de volta, curioso",
+          "points": {
+            "explorador_corajoso": 0.8,
+            "amigo_criaturas": 0.4
+          },
+          "nextQuestion": "q5d"
+        },
+        {
+          "text": "🛑 Solto e recuo",
+          "points": {
+            "cetico_escapou": 0.7,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q5d"
+        }
+      ]
+    },
+    {
+      "id": "q4n",
+      "question": "🗣️ Sua pergunta ecoa. O reflexo sorri e aponta para baixo — para o chão do elevador. Uma pequena chave de bronze apareceu lá. Brilhando.",
+      "answers": [
+        {
+          "text": "🗝️ Pego a chave",
+          "points": {
+            "explorador_corajoso": 0.8,
+            "mestre_enigmas": 0.5
+          },
+          "nextQuestion": "q5f"
+        },
+        {
+          "text": "🪞 Pergunto 'Para qual porta?'",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "amigo_criaturas": 0.4
+          },
+          "nextQuestion": "q5f"
+        },
+        {
+          "text": "🦶 Piso na chave, ignorando",
+          "points": {
+            "heroi_relutante": 0.6,
+            "cetico_escapou": 0.4
+          },
+          "nextQuestion": "q5f"
+        }
+      ]
+    },
+    {
+      "id": "q4o",
+      "question": "🙈 Com os olhos fechados, você sente algo tocar seu rosto. Suave. Como uma pena. Ou um dedo. Uma voz sussurra: 'Você é corajoso. Ou apenas curioso demais.'",
+      "answers": [
+        {
+          "text": "👀 Abro os olhos",
+          "points": {
+            "explorador_corajoso": 0.8,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q5e"
+        },
+        {
+          "text": "🙏 Mantenho fechados, rezando",
+          "points": {
+            "amigo_criaturas": 0.7,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5e"
+        },
+        {
+          "text": "🏃 Corro para a porta, olhos fechados",
+          "points": {
+            "cetico_escapou": 0.8,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q5e"
+        }
+      ]
+    },
+    {
+      "id": "q4p",
+      "question": "👊 Sua batida é respondida. Toc-toc-toc. Pausa. Toc-toc. É código Morse. Você decifra: 'AMIGO. AJUDE. PORTA. OESTE.'",
+      "answers": [
+        {
+          "text": "📍 Procuro a porta oeste no elevador",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "amigo_criaturas": 0.5
+          },
+          "nextQuestion": "q5f"
+        },
+        {
+          "text": "👊 Respondo em Morse: 'ESTOU INDO'",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "explorador_corajoso": 0.4
+          },
+          "nextQuestion": "q5f"
+        },
+        {
+          "text": "🛑 Paro de bater, desconfiado",
+          "points": {
+            "observador_sabio": 0.7,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q5f"
+        }
+      ]
+    },
+    {
+      "id": "q4q",
+      "question": "🛑 Sua imobilidade é notada. O elevador se enche de uma luz dourada suave. Uma voz antiga diz: 'A paciência é a verdadeira coragem. Você passou no primeiro teste.'",
+      "answers": [
+        {
+          "text": "🙏 Agradeço em silêncio",
+          "points": {
+            "observador_sabio": 0.9,
+            "amigo_criaturas": 0.4
+          },
+          "nextQuestion": "q5c"
+        },
+        {
+          "text": "❓ Pergunto 'Quantos testes existem?'",
+          "points": {
+            "mestre_enigmas": 0.7,
+            "explorador_corajoso": 0.4
+          },
+          "nextQuestion": "q5c"
+        },
+        {
+          "text": "🚪 A porta se abre sozinha. Saio",
+          "points": {
+            "explorador_corajoso": 0.6,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q5c"
+        }
+      ]
+    },
+    {
+      "id": "q4r",
+      "question": "📱 O celular liga. 47 mensagens não lidas. Todas do mesmo número desconhecido. Todas dizendo: 'NÃO OLHE PARA TRÁS. SAIA AGORA.'",
+      "answers": [
+        {
+          "text": "🏃 Saio correndo do elevador",
+          "points": {
+            "cetico_escapou": 0.9,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q5h"
+        },
+        {
+          "text": "👀 Olho para trás, desafiador",
+          "points": {
+            "explorador_corajoso": 0.8,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q5h"
+        },
+        {
+          "text": "📞 Ligo para o número desconhecido",
+          "points": {
+            "amigo_criaturas": 0.7,
+            "mestre_enigmas": 0.4
+          },
+          "nextQuestion": "q5h"
+        }
+      ]
+    },
+    {
+      "id": "q4s",
+      "question": "⏱️ O relógio corre ao contrário. 23:59... 23:58... Cada segundo reverso faz o elevador tremer. E então você vê: suas mãos estão envelhecendo. Ou rejuvenescendo.",
+      "answers": [
+        {
+          "text": "⏳ Aceito a transformação",
+          "points": {
+            "viajante_tempo": 0.9,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q5g"
+        },
+        {
+          "text": "🔋 Tiro a bateria do celular",
+          "points": {
+            "mestre_enigmas": 0.7,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q5g"
+        },
+        {
+          "text": "😱 Grito, desesperado",
+          "points": {
+            "cetico_escapou": 0.7,
+            "perdido_para_sempre": 0.4
+          },
+          "nextQuestion": "q5g"
+        }
+      ]
+    },
+    {
+      "id": "q4t",
+      "question": "📤 A foto viraliza instantaneamente. Milhares de curtidas. Mas nos comentários, uma única mensagem: 'Você abriu a porta. Agora ela não fecha mais. Olhe para sua janela.'",
+      "answers": [
+        {
+          "text": "🪟 Olho para a janela do elevador",
+          "points": {
+            "explorador_corajoso": 0.8,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q5h"
+        },
+        {
+          "text": "🗑️ Apago a postagem imediatamente",
+          "points": {
+            "cetico_escapou": 0.8,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q5h"
+        },
+        {
+          "text": "💬 Respondo 'Quem é você?'",
+          "points": {
+            "mestre_enigmas": 0.7,
+            "amigo_criaturas": 0.4
+          },
+          "nextQuestion": "q5h"
+        }
+      ]
+    },
+    {
+      "id": "q4u",
+      "question": "🗑️ A foto some. Mas o celular treme. Uma nova foto aparece sozinha na galeria: VOCÊ, dormindo, ontem à noite. Tirada de dentro do seu quarto.",
+      "answers": [
+        {
+          "text": "😰 Apago de novo, em pânico",
+          "points": {
+            "cetico_escapou": 0.7,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q5e"
+        },
+        {
+          "text": "🔍 Examino os metadados da foto",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5e"
+        },
+        {
+          "text": "🏠 Tento ligar para casa",
+          "points": {
+            "heroi_relutante": 0.7,
+            "cetico_escapou": 0.3
+          },
+          "nextQuestion": "q5e"
+        }
+      ]
+    },
+    {
+      "id": "q4v",
+      "question": "🎨 Ao apagar o 13, o número some. Mas o espaço vazio brilha. E dele, emerge uma porta. Uma porta que sempre existiu, mas ninguém conseguia ver.",
+      "answers": [
+        {
+          "text": "🚪 Abro a porta invisível",
+          "points": {
+            "mestre_enigmas": 0.9,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q5j"
+        },
+        {
+          "text": "🖌️ Desenho outro número no lugar",
+          "points": {
+            "mestre_enigmas": 0.7,
+            "viajante_tempo": 0.4
+          },
+          "nextQuestion": "q5j"
+        },
+        {
+          "text": "🚶 Continuo subindo as escadas normais",
+          "points": {
+            "observador_sabio": 0.6,
+            "cetico_escapou": 0.3
+          },
+          "nextQuestion": "q5j"
+        }
+      ]
+    },
+    {
+      "id": "q4w",
+      "question": "🧘 Ao aceitar, as escadas param de repetir. Você está no 13º andar. Mas ele parece... normal. Um corredor comum. Exceto por uma placa: 'Bem-vindo, Visitante Consciente.'",
+      "answers": [
+        {
+          "text": "🚶 Caminho pelo corredor, sereno",
+          "points": {
+            "observador_sabio": 0.9,
+            "amigo_criaturas": 0.4
+          },
+          "nextQuestion": "q5j"
+        },
+        {
+          "text": "📸 Tiro foto da placa",
+          "points": {
+            "observador_sabio": 0.7,
+            "cetico_escapou": 0.3
+          },
+          "nextQuestion": "q5j"
+        },
+        {
+          "text": "🗣️ Digo em voz alta 'Obrigado'",
+          "points": {
+            "amigo_criaturas": 0.8,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q5j"
+        }
+      ]
+    },
+    {
+      "id": "q4x",
+      "question": "📉 Descendo de costas, você vê o que nunca deveria ver: degraus que levam a lugares impossíveis. Um degrau para uma praia. Outro para um teatro vazio. Outro para... sua infância.",
+      "answers": [
+        {
+          "text": "🏖️ Piso no degrau da praia",
+          "points": {
+            "viajante_tempo": 0.9,
+            "explorador_corajoso": 0.4
+          },
+          "nextQuestion": "q5g"
+        },
+        {
+          "text": "🎭 Piso no degrau do teatro",
+          "points": {
+            "mestre_enigmas": 0.7,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5g"
+        },
+        {
+          "text": "👶 Piso no degrau da sua infância",
+          "points": {
+            "viajante_tempo": 0.9,
+            "amigo_criaturas": 0.3
+          },
+          "nextQuestion": "q5g"
+        }
+      ]
+    },
+    {
+      "id": "q4y",
+      "question": "🫖 A senhora serve chá de camomila. 'Eu morava aqui em 1923. O prédio cresceu em cima de mim. Mas não se preocupe — agora eu sou o prédio.'",
+      "answers": [
+        {
+          "text": "☕ Bebo o chá",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "viajante_tempo": 0.4
+          },
+          "nextQuestion": "q5f"
+        },
+        {
+          "text": "❓ Pergunto 'Como posso ajudá-la?'",
+          "points": {
+            "amigo_criaturas": 0.8,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5f"
+        },
+        {
+          "text": "🫖 Deixo o chá na mesa, sem beber",
+          "points": {
+            "heroi_relutante": 0.7,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q5f"
+        }
+      ]
+    },
+    {
+      "id": "q4z",
+      "question": "❌ O número é bloqueado. Mas uma nova mensagem chega. De OUTRO número: 'Você não pode bloquear o que mora no mesmo prédio. Olhe para o teto.'",
+      "answers": [
+        {
+          "text": "👆 Olho para o teto",
+          "points": {
+            "explorador_corajoso": 0.7,
+            "perdido_para_sempre": 0.5
+          },
+          "nextQuestion": "q5h"
+        },
+        {
+          "text": "📴 Desligo o celular de vez",
+          "points": {
+            "cetico_escapou": 0.8,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q5h"
+        },
+        {
+          "text": "🏃 Corro para a saída",
+          "points": {
+            "cetico_escapou": 0.9,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q5h"
+        }
+      ]
+    },
+    {
+      "id": "q4aa",
+      "question": "📍 Sua localização é enviada. Mas o app mostra: 'Você está em 13 lugares ao mesmo tempo.' Seu amigo responde: 'Isso é uma piada, né? Você não está no prédio. O prédio foi demolido em 1987.'",
+      "answers": [
+        {
+          "text": "😰 Verifico a data no celular — é 2026",
+          "points": {
+            "viajante_tempo": 0.9,
+            "mestre_enigmas": 0.5
+          },
+          "nextQuestion": "q5h"
+        },
+        {
+          "text": "🏃 Saio correndo, sem olhar para trás",
+          "points": {
+            "cetico_escapou": 0.9,
+            "heroi_relutante": 0.4
+          },
+          "nextQuestion": "q5h"
+        },
+        {
+          "text": "🤔 Fico pensando no que isso significa",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5h"
+        }
+      ]
+    },
+    {
+      "id": "q4ab",
+      "question": "💎 Atrás da porta de cristal, uma biblioteca infinita. Livros flutuam. Um deles desliza até você. A capa diz: 'A História de [SEU NOME]. Volume 1 de 13.'",
+      "answers": [
+        {
+          "text": "📖 Abro o livro na página marcada",
+          "points": {
+            "viajante_tempo": 0.9,
+            "observador_sabio": 0.5
+          },
+          "nextQuestion": "q5i"
+        },
+        {
+          "text": "🔍 Procuro outros volumes",
+          "points": {
+            "explorador_corajoso": 0.8,
+            "mestre_enigmas": 0.5
+          },
+          "nextQuestion": "q5i"
+        },
+        {
+          "text": "🚪 Fecho a porta de cristal",
+          "points": {
+            "heroi_relutante": 0.7,
+            "cetico_escapou": 0.4
+          },
+          "nextQuestion": "q5i"
+        }
+      ]
+    },
+    {
+      "id": "q4ac",
+      "question": "🪞 No reflexo da porta de cristal, você não está sozinho. Está acompanhado. Por uma versão mais velha de si mesmo. Que acena. E sorri.",
+      "answers": [
+        {
+          "text": "👋 Aceno de volta",
+          "points": {
+            "viajante_tempo": 0.9,
+            "amigo_criaturas": 0.4
+          },
+          "nextQuestion": "q5d"
+        },
+        {
+          "text": "🗣️ Pergunto 'Quem é você?'",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5d"
+        },
+        {
+          "text": "😰 Fecho os olhos",
+          "points": {
+            "cetico_escapou": 0.7,
+            "perdido_para_sempre": 0.4
+          },
+          "nextQuestion": "q5d"
+        }
+      ]
+    },
+    {
+      "id": "q4ad",
+      "question": "🍃 Ao soprar as velas, elas não se apagam. Em vez disso, crescem. E das chamas, vozes sussurram nomes. Nomes de todos que já moraram no prédio.",
+      "answers": [
+        {
+          "text": "👂 Escuto os nomes, tentando memorizar",
+          "points": {
+            "observador_sabio": 0.9,
+            "amigo_criaturas": 0.5
+          },
+          "nextQuestion": "q5k"
+        },
+        {
+          "text": "🗣️ Pronuncio meu próprio nome",
+          "points": {
+            "perdido_para_sempre": 0.8,
+            "explorador_corajoso": 0.4
+          },
+          "nextQuestion": "q5k"
+        },
+        {
+          "text": "💨 Sopro mais forte, tentando apagar tudo",
+          "points": {
+            "heroi_relutante": 0.7,
+            "cetico_escapou": 0.4
+          },
+          "nextQuestion": "q5k"
+        }
+      ]
+    },
+    {
+      "id": "q4ae",
+      "question": "🪑 Ao sentar, a poltrona desliza pelo corredor sozinha. Passando por portas, janelas, até que para em uma varanda. Uma varanda que não deveria existir no 13º andar. A vista é de outra cidade. De outra época.",
+      "answers": [
+        {
+          "text": "🌆 Observo a cidade desconhecida",
+          "points": {
+            "viajante_tempo": 0.9,
+            "observador_sabio": 0.5
+          },
+          "nextQuestion": "q5g"
+        },
+        {
+          "text": "📸 Tiro uma foto da vista",
+          "points": {
+            "observador_sabio": 0.7,
+            "cetico_escapou": 0.3
+          },
+          "nextQuestion": "q5g"
+        },
+        {
+          "text": "🪑 Levanto e volto para o elevador",
+          "points": {
+            "heroi_relutante": 0.7,
+            "cetico_escapou": 0.4
+          },
+          "nextQuestion": "q5g"
+        }
+      ]
+    },
+    {
+      "id": "q4af",
+      "question": "🚫 O elevador se fecha. Mas os botões mudaram. Agora há apenas três: 'PASSADO', 'PRESENTE', 'FUTURO'. E um bilhete: 'Escolha com sabedoria. Não há desfazer.'",
+      "answers": [
+        {
+          "text": "⬅️ Aperto PASSADO",
+          "points": {
+            "viajante_tempo": 0.8,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q5h"
+        },
+        {
+          "text": "⏺️ Aperto PRESENTE",
+          "points": {
+            "heroi_relutante": 0.8,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q5h"
+        },
+        {
+          "text": "➡️ Aperto FUTURO",
+          "points": {
+            "viajante_tempo": 0.9,
+            "explorador_corajoso": 0.4
+          },
+          "nextQuestion": "q5h"
+        }
+      ]
+    },
+    {
+      "id": "q4ag",
+      "question": "🦶 A poltrona explode em poeira dourada. E dela, emerge uma figura. Alta. De capuz. Com os olhos de duas cores diferentes. Ela diz: 'Você quebrou minha cadeira. Agora me deve uma história.'",
+      "answers": [
+        {
+          "text": "📖 Conto uma história inventada na hora",
+          "points": {
+            "mestre_enigmas": 0.8,
+            "amigo_criaturas": 0.5
+          },
+          "nextQuestion": "q5b"
+        },
+        {
+          "text": "🗡️ Me preparo para lutar",
+          "points": {
+            "heroi_relutante": 0.9,
+            "explorador_corajoso": 0.4
+          },
+          "nextQuestion": "q5b"
+        },
+        {
+          "text": "🙏 Peço desculpas",
+          "points": {
+            "amigo_criaturas": 0.7,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q5b"
+        }
+      ]
+    },
+    {
+      "id": "q4ah",
+      "question": "👣 As marcas levam a um porão que não existe nos planos do prédio. Lá, uma máquina antiga vibra. Uma placa diz: 'Elevador Temporal. Destino: A escolha do passageiro.'",
+      "answers": [
+        {
+          "text": "🕰️ Aperto o botão 'ORIGEM DO PRÉDIO'",
+          "points": {
+            "viajante_tempo": 0.9,
+            "explorador_corajoso": 0.4
+          },
+          "nextQuestion": "q5i"
+        },
+        {
+          "text": "🔮 Aperto o botão 'PRIMEIRO MORADOR'",
+          "points": {
+            "amigo_criaturas": 0.8,
+            "mestre_enigmas": 0.4
+          },
+          "nextQuestion": "q5i"
+        },
+        {
+          "text": "❌ Desisto e volto",
+          "points": {
+            "heroi_relutante": 0.7,
+            "cetico_escapou": 0.4
+          },
+          "nextQuestion": "q5i"
+        }
+      ]
+    },
+    {
+      "id": "q4ai",
+      "question": "🙏 Seu agradecimento reverbera. As paredes do corredor se tornam transparentes. Você vê o prédio por dentro — como se fosse feito de vidro. E vê algo no centro: um coração. Um coração de pedra. Batendo.",
+      "answers": [
+        {
+          "text": "❤️ Toco o coração de pedra",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "explorador_corajoso": 0.5
+          },
+          "nextQuestion": "q5j"
+        },
+        {
+          "text": "🔍 Examino as veias de cristal que saem dele",
+          "points": {
+            "observador_sabio": 0.9,
+            "mestre_enigmas": 0.4
+          },
+          "nextQuestion": "q5j"
+        },
+        {
+          "text": "🚶 Sigo em frente, sem tocar",
+          "points": {
+            "observador_sabio": 0.7,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q5j"
+        }
+      ]
+    },
+    {
+      "id": "q4aj",
+      "question": "❓ A voz responde: 'Sou o Eco. O que restou de todos que passaram por aqui. E você? Você é a primeira voz nova em décadas. Fale mais. Por favor.'",
+      "answers": [
+        {
+          "text": "🗣️ Conto sobre meu dia",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q5f"
+        },
+        {
+          "text": "🎵 Canto uma música",
+          "points": {
+            "amigo_criaturas": 0.8,
+            "perdido_para_sempre": 0.4
+          },
+          "nextQuestion": "q5f"
+        },
+        {
+          "text": "🤐 Fico em silêncio, pensando",
+          "points": {
+            "observador_sabio": 0.8,
+            "mestre_enigmas": 0.4
+          },
+          "nextQuestion": "q5f"
+        }
+      ]
+    },
+    {
+      "id": "q5a",
+      "question": "📜 O pergaminho se desenrola sozinho. A tinta brilhante forma uma última pergunta: 'Você entendeu tudo. Mas entender é o mesmo que aceitar?'",
+      "answers": [
+        {
+          "text": "🧩 Sim. Entender é o primeiro passo para dominar.",
+          "points": {
+            "mestre_enigmas": 0.9,
+            "explorador_corajoso": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🦉 Não. Entender é diferente de aceitar. E eu escolho aceitar.",
+          "points": {
+            "observador_sabio": 0.8,
+            "mestre_enigmas": 0.4
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🌑 Entendi demais. E agora sou parte do enigma.",
+          "points": {
+            "perdido_para_sempre": 0.9,
+            "mestre_enigmas": 0.3
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q5b",
+      "question": "⚔️ O confronto chega ao ápice. O que quer que você tenha desafiado — a mão no buraco, as paredes que sangram, a figura da poltrona — se revela. Não é um monstro. É um espelho. Você está lutando contra si mesmo. E a única saída é...",
+      "answers": [
+        {
+          "text": "🛡️ Parar de lutar. Recuar. E viver para contar.",
+          "points": {
+            "heroi_relutante": 0.9,
+            "cetico_escapou": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🗝️ Abraçar a luta. Vencer. E assumir o trono do 13º.",
+          "points": {
+            "explorador_corajoso": 0.9,
+            "perdido_para_sempre": 0.4
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🌑 Deixar a luta me consumir. Fundir-me com a escuridão.",
+          "points": {
+            "perdido_para_sempre": 0.9,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q5c",
+      "question": "🕯️ A luz dourada se intensifica. Os espíritos do prédio se materializam ao seu redor. Não para assustar. Para agradecer. Eles dizem: 'Você nos ouviu. O que deseja em troca?'",
+      "answers": [
+        {
+          "text": "🦉 Quero lembrar. Tudo. Para guardar com sabedoria.",
+          "points": {
+            "observador_sabio": 0.9,
+            "mestre_enigmas": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🌙 Quero ficar. Para ser a ponte entre os mundos.",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🏃 Quero esquecer. E voltar para minha vida.",
+          "points": {
+            "cetico_escapou": 0.8,
+            "observador_sabio": 0.2
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q5d",
+      "question": "🪞 Você atravessa o espelho. Do outro lado, não há corredor. Há um elevador. Mas não é o mesmo. Os botões são anos. 1923. 1987. 2026. 2089. Qual você aperta?",
+      "answers": [
+        {
+          "text": "⏳ 1923. Quero ver o prédio nascer.",
+          "points": {
+            "viajante_tempo": 0.9,
+            "explorador_corajoso": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "⏳ 2089. Quero ver o que virá.",
+          "points": {
+            "viajante_tempo": 0.9,
+            "mestre_enigmas": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "⏳ 2026. Quero voltar. Mas nunca mais serei o mesmo.",
+          "points": {
+            "viajante_tempo": 0.7,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q5e",
+      "question": "👁️ O medo se materializa. A criança se vira. Ou a escuridão dos olhos fechados se condensa. Ou a foto no celular ganha vida. Não importa de onde veio — agora há algo na sua frente. Sem rosto. Apenas um espelho onde deveria estar. E no espelho, você vê... não se vê. Vê o vazio. O vazio sorri.",
+      "answers": [
+        {
+          "text": "😰 Corro. Grito. Tento fugir do vazio.",
+          "points": {
+            "cetico_escapou": 0.9,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🌑 Entro no vazio. Deixo-me ser engolido.",
+          "points": {
+            "perdido_para_sempre": 0.9,
+            "explorador_corajoso": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🧘 Respiro. O vazio não é inimigo. É só... ausência.",
+          "points": {
+            "observador_sabio": 0.8,
+            "amigo_criaturas": 0.3
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q5f",
+      "question": "💬 A conexão se estabelece. Seja com a voz do Eco, a senhora do chá, a resposta em código Morse ou o segredo da chave — algo do outro lado finalmente fala com você. E agora, mil vozes se unem em uma única pergunta: 'Você ficará para nos ouvir?'",
+      "answers": [
+        {
+          "text": "🌙 Sim. Ficarei. Sempre que precisarem de uma voz.",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🦉 Ouvirei. Mas de longe. Guardando o segredo.",
+          "points": {
+            "observador_sabio": 0.9,
+            "amigo_criaturas": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🏃 Não posso. Sou do mundo de lá. Mas nunca esquecerei.",
+          "points": {
+            "cetico_escapou": 0.8,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q5g",
+      "question": "⏳ O tempo se desfaz ao seu redor. Você vê sua vida inteira em flashback — mas não linear. Veja o fim antes do começo. E percebe: o 13º andar existe FORA do tempo.",
+      "answers": [
+        {
+          "text": "🕰️ Explorarei cada época. Sou um andarilho agora.",
+          "points": {
+            "viajante_tempo": 0.9,
+            "explorador_corajoso": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🌑 O tempo não me importa mais. Sou eterno aqui.",
+          "points": {
+            "perdido_para_sempre": 0.9,
+            "viajante_tempo": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "📅 Quero voltar ao meu presente. Mas levando uma lembrança.",
+          "points": {
+            "viajante_tempo": 0.6,
+            "observador_sabio": 0.4
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q5h",
+      "question": "🏃 Você escolhe sair. Seja correndo pelas portas, apertando o botão do elevador, bloqueando o número ou simplesmente recuando — o caminho de volta se abre. O ar fresco bate no rosto. Você está livre. Mas sente algo no bolso — uma chave de bronze. Com o número 13 gravado.",
+      "answers": [
+        {
+          "text": "🗝️ Guardo a chave. Nunca sei quando precisarei.",
+          "points": {
+            "cetico_escapou": 0.8,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🚪 Jogo a chave no bueiro. Quero esquecer.",
+          "points": {
+            "cetico_escapou": 0.9,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🔴 Seguro a chave. E sinto... que um dia voltarei.",
+          "points": {
+            "explorador_corajoso": 0.7,
+            "perdido_para_sempre": 0.4
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q5i",
+      "question": "📖 O livro se abre sozinho. A última página está em branco. Mas uma frase aparece, escrita em tinta fresca: 'A história continua. Quem escreve o próximo capítulo?'",
+      "answers": [
+        {
+          "text": "✍️ Eu escrevo. Crio meu próprio destino.",
+          "points": {
+            "explorador_corajoso": 0.9,
+            "mestre_enigmas": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "📜 Deixo o livro escrever sozinho. Observo.",
+          "points": {
+            "observador_sabio": 0.9,
+            "viajante_tempo": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🔍 Fecho o livro. Algumas histórias são melhores inacabadas.",
+          "points": {
+            "observador_sabio": 0.7,
+            "heroi_relutante": 0.3
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q5j",
+      "question": "🧠 O coração de pedra pulsa uma última vez. Uma voz, vinda de dentro de você, diz: 'Você não encontrou o 13º andar. O 13º andar encontrou você. O que faz com esse conhecimento?'",
+      "answers": [
+        {
+          "text": "🦉 Guardo. Sabedoria é saber quando falar e quando calar.",
+          "points": {
+            "observador_sabio": 0.9,
+            "mestre_enigmas": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🌙 Compartilho. Com aqueles que estão prontos para ouvir.",
+          "points": {
+            "amigo_criaturas": 0.9,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🧩 Decodifico mais. Sempre há mais camadas.",
+          "points": {
+            "mestre_enigmas": 0.9,
+            "observador_sabio": 0.2
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q5k",
+      "question": "🔥 As chamas se unem em uma única vela gigante. E dela, emerge uma figura feita de fumaça e luz. 'Você ouviu todos os nossos nomes. Agora, qual é o SEU?'",
+      "answers": [
+        {
+          "text": "👂 Meu nome é o que os outros me chamam. E eu escuto.",
+          "points": {
+            "observador_sabio": 0.9,
+            "amigo_criaturas": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🌑 Meu nome não importa. Sou parte do fogo agora.",
+          "points": {
+            "perdido_para_sempre": 0.9,
+            "amigo_criaturas": 0.3
+          },
+          "nextQuestion": "q6"
+        },
+        {
+          "text": "🗝️ Meu nome é o que eu escolher. E hoje, escolho renascer.",
+          "points": {
+            "explorador_corajoso": 0.8,
+            "observador_sabio": 0.3
+          },
+          "nextQuestion": "q6"
+        }
+      ]
+    },
+    {
+      "id": "q6",
+      "question": "🌑 O elevador para. As portas se abrem. Você olha para trás — uma última vez. O 13º andar brilha ao longe. E então, a pergunta que ecoa em todos os mundos, todos os tempos, todas as escolhas: 'Você faria tudo de novo?'",
+      "answers": [
+        {
+          "text": "🗝️ Sim. Sem hesitar. Cada escolha me trouxe até aqui.",
+          "points": {
+            "explorador_corajoso": 0.6,
+            "viajante_tempo": 0.4,
+            "amigo_criaturas": 0.3
+          }
+        },
+        {
+          "text": "🦉 Talvez. Mas da próxima vez, observaria mais antes de agir.",
+          "points": {
+            "observador_sabio": 0.6,
+            "mestre_enigmas": 0.4,
+            "heroi_relutante": 0.3
+          }
+        },
+        {
+          "text": "🏃 Não. Algumas portas deveriam permanecer fechadas.",
+          "points": {
+            "cetico_escapou": 0.6,
+            "perdido_para_sempre": 0.4,
+            "heroi_relutante": 0.3
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "explorador_corajoso": {
+      "title": "O Explorador do 13º",
+      "emoji": "🗝️",
+      "subtitle": "Você desvendou o que ninguém ousou ver",
+      "text": "Você atravessou cada porta, tocou cada mistério e nunca recuou. O 13º andar não era uma armadilha — era um convite. E você foi o primeiro em décadas a aceitá-lo de coração aberto.\n\nAgora, você é o novo Porteiro do Entre-Lugar. Sua função? Receber os próximos curiosos que apertarem aquele botão vermelho. Você não está preso — está em casa. E à meia-noite, quando o elevador range, você sorri. Porque sabe: alguém novo está chegando.\n\n🗝️ Seu legado: O 13º andar agora tem um guia. E ele se parece com você."
+    },
+    "observador_sabio": {
+      "title": "O Guardião do Segredo",
+      "emoji": "🦉",
+      "subtitle": "Você viu tudo, mas contou nada",
+      "text": "Você não precisou tocar em tudo para entender tudo. Com olhos atentos e mente calma, você mapeou o impossível sem se perder nele. O 13º andar revelou seus segredos a você — e você, por sua vez, guardou-os com sabedoria.\n\nDe volta ao mundo comum, você vive uma vida aparentemente normal. Mas à noite, quando ninguém vê, você anota tudo em um caderno enigmático. O prédio nunca mais será o mesmo para você. E você nunca mais será o mesmo para o prédio.\n\n🦉 Seu legado: O segredo vive em você. E você vive nele."
+    },
+    "mestre_enigmas": {
+      "title": "O Decifrador de Mundos",
+      "emoji": "🧩",
+      "subtitle": "Você resolveu o que não deveria ser resolvido",
+      "text": "Números, padrões, sequências — para você, tudo fazia sentido. Até o que não deveria. Você decodificou o 13º andar como quem resolve um cubo mágico: peça por peça, até a imagem completa emergir.\n\nMas há um preço pela compreensão total. Agora você vê os padrões por toda parte: na chuva, no trânsito, nas conversas. O mundo inteiro é um enigma contínuo. E você? Você é a chave que nunca para de girar.\n\n🧩 Seu legado: Você entendeu demais. E o entendimento nunca mais o deixará."
+    },
+    "amigo_criaturas": {
+      "title": "O Embaixador das Sombras",
+      "emoji": "🌙",
+      "subtitle": "Você fez amizade com o que outros temem",
+      "text": "Enquanto outros fugiam ou lutavam, você estendeu a mão. Ouviu. Respeitou. E as criaturas do 13º andar — os Habitantes dos Intervalos — responderam com confiança. Você não conquistou o andar. Você foi recebido como família.\n\nAgora, você pode transitar entre os mundos. O elevador o reconhece. As portas se abrem para você. E quando alguém novo chegar assustado, será você quem dirá: 'Não tenha medo. Eles só querem ser ouvidos.'\n\n🌙 Seu legado: Duas realidades, um coração. Você é a ponte."
+    },
+    "viajante_tempo": {
+      "title": "O Andarilho Temporal",
+      "emoji": "⏳",
+      "subtitle": "Você dançou com o tempo e ele dançou de volta",
+      "text": "Você não apenas visitou o 13º andar — você visitou o ANTES e o DEPOIS dele. Viu o prédio sendo construído em 1923. Viu o mercado de rua que existia no lugar. Viu o futuro onde o prédio é ruínas cobertas de musgo.\n\nAgora, o tempo é seu playground. O elevador funciona como máquina do tempo para quem sabe apertar os botões certos. E você sabe. Você SEMPRE soube. A pergunta é: para onde irá a seguir?\n\n⏳ Seu legado: O passado e o futuro são seus vizinhos. E o presente? Apenas uma parada."
+    },
+    "heroi_relutante": {
+      "title": "O Herói que Recuou",
+      "emoji": "🛡️",
+      "subtitle": "Você lutou, mas também soube quando parar",
+      "text": "Você não entrou no 13º andar de braços abertos. Você resistiu. Questionou. Lutou contra o impossível com unhas e dentes. E no fim, quando a porta se abriu, você escolheu não entrar.\n\nMas essa escolha não foi derrota — foi sabedoria. Você provou que é possível enfrentar o desconhecido e ainda assim manter seus pés no chão. O prédio respeita isso. E às vezes, quando passa pelo hall, você sente que algo o observa com admiração.\n\n🛡️ Seu legado: Coragem não é ausência de medo. É escolher o próprio limite."
+    },
+    "cetico_escapou": {
+      "title": "O Cético que Fugiu",
+      "emoji": "🏃",
+      "subtitle": "Você sobreviveu. Mas será que esqueceu?",
+      "text": "Você fez o que qualquer pessoa sensata faria: correu. Apertou botões. Gritou. Encontrou a saída. E quando finalmente pisou no térreo, o ar nunca soube tão doce. Você jurou nunca mais entrar naquele elevador à noite.\n\nSó que... às vezes, quando fecha os olhos, vê o botão vermelho piscando. Às vezes, no meio da noite, o elevador range — e você sabe que não é defeito. Mas você escolhe não saber. E essa escolha é sua vitória.\n\n🏃 Seu legado: Você viveu para contar. Mesmo que ninguém acredite. Mesmo que você mesmo duvide."
+    },
+    "perdido_para_sempre": {
+      "title": "O Habitante do 13º",
+      "emoji": "🌑",
+      "subtitle": "Você entrou demais fundo. E não há volta.",
+      "text": "Você não apenas visitou o 13º andar. Você se fundiu com ele. Cada escolha ousada, cada passo além do limite, cada 'e se eu...?' o trouxe para mais perto. Até que, de repente, o corredor não era mais estranho. Era familiar. Era SEU.\n\nAgora, você é parte da arquitetura. Sua voz ecoa nos sussurros. Seu rosto aparece nos reflexos dos espelhos. E quando alguém novo aperta o botão 13, você sorri — porque finalmente, finalmente, você não está mais sozinho.\n\n🌑 Seu legado: Você não foi perdido. Você foi encontrado. Por algo que estava esperando há muito tempo."
+    }
+  }
+}
