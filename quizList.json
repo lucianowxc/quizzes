@@ -669,6 +669,11 @@
       "name": "🛗 O Mistério do Elevador 13",
       "file": "quizzes/quiz_elevador13.json",
       "description": "Você entrou no elevador do seu prédio à meia-noite. O botão do 13º andar — que NÃO EXISTE — acendeu sozinho. O que você faz?"
+    },
+    {
+      "name": "Qual Personagem do Castelo Rá-Tim-Bum Você É?",
+      "file": "quizzes/quizCastelo.json",
+      "description": "Descubra qual morador, visitante ou criatura do Castelo combina mais com o seu jeito de ser!"
     }
   ]
 }
