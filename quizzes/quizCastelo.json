@@ -8,30 +8,81 @@
         {
           "text": "🪄 Tento um feitiço e vejo no que dá.",
           "points": {
-            "nino": 0.8,
-            "etevaldo": 0.2
+            "nino": 0.1147,
+            "etevaldo": 0.1127,
+            "victor": 0.0058,
+            "morgana": 0.0066,
+            "biba": 0.0058,
+            "pedro": 0.0057,
+            "zequinha": 0.0068,
+            "caipora": 0.006,
+            "penelope": 0.0069,
+            "bongo": 0.007,
+            "celeste": 0.0081,
+            "mau": 0.0095,
+            "porteiro": 0.0076,
+            "ratinho": 0.0097
           }
         },
         {
           "text": "🔬 Primeiro observo todos os detalhes antes de tocar em qualquer coisa.",
           "points": {
-            "victor": 0.8
+            "victor": 0.1425,
+            "nino": 0.0049,
+            "morgana": 0.007,
+            "biba": 0.0062,
+            "pedro": 0.0061,
+            "zequinha": 0.0072,
+            "caipora": 0.0064,
+            "penelope": 0.0073,
+            "etevaldo": 0.0078,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0103,
+            "porteiro": 0.0082,
+            "ratinho": 0.0104
           }
         },
         {
           "text": "📚 Procuro alguém que conheça uma boa história sobre aquela porta.",
           "points": {
-            "morgana": 0.8
+            "morgana": 0.1613,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "biba": 0.0059,
+            "pedro": 0.0058,
+            "zequinha": 0.0069,
+            "caipora": 0.006,
+            "penelope": 0.007,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0082,
+            "mau": 0.0097,
+            "porteiro": 0.0077,
+            "ratinho": 0.0099
           }
         },
         {
           "text": "🎯 Abro logo. Alguém precisa tomar uma decisão por aqui!",
           "points": {
-            "biba": 0.8,
-            "porteiro": 0.2
+            "biba": 0.1403,
+            "porteiro": 0.1095,
+            "nino": 0.0045,
+            "victor": 0.0056,
+            "morgana": 0.0064,
+            "pedro": 0.0054,
+            "zequinha": 0.0065,
+            "caipora": 0.0057,
+            "penelope": 0.0066,
+            "etevaldo": 0.0069,
+            "bongo": 0.0067,
+            "celeste": 0.0077,
+            "mau": 0.0091,
+            "ratinho": 0.0091
           }
         }
-      ]
+      ],
+      "id": "q0"
     },
     {
       "question": "Se seus amigos estão discutindo, qual é o seu papel?",
@@ -39,29 +90,81 @@
         {
           "text": "🧩 Tento descobrir qual solução faz mais sentido.",
           "points": {
-            "pedro": 0.8
+            "pedro": 0.1369,
+            "nino": 0.0051,
+            "victor": 0.0064,
+            "morgana": 0.0073,
+            "biba": 0.0064,
+            "zequinha": 0.0075,
+            "caipora": 0.0065,
+            "penelope": 0.0075,
+            "etevaldo": 0.008,
+            "bongo": 0.0076,
+            "celeste": 0.0089,
+            "mau": 0.0104,
+            "porteiro": 0.0083,
+            "ratinho": 0.0106
           }
         },
         {
           "text": "🌪️ Faço mais umas vinte perguntas até entender o que aconteceu.",
           "points": {
-            "zequinha": 0.8
+            "zequinha": 0.1601,
+            "nino": 0.0046,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "caipora": 0.006,
+            "penelope": 0.007,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0083,
+            "mau": 0.0098,
+            "porteiro": 0.0077,
+            "ratinho": 0.0099
           }
         },
         {
           "text": "🌿 Tiro todo mundo da discussão e proponho uma aventura.",
           "points": {
-            "caipora": 0.8
+            "caipora": 0.1399,
+            "nino": 0.005,
+            "victor": 0.0063,
+            "morgana": 0.0072,
+            "biba": 0.0063,
+            "pedro": 0.0062,
+            "zequinha": 0.0074,
+            "penelope": 0.0074,
+            "etevaldo": 0.0079,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0104,
+            "porteiro": 0.0082,
+            "ratinho": 0.0105
           }
         },
         {
           "text": "💄 Resolvo a situação e ainda faço questão de sair bem na foto.",
           "points": {
-            "penelope": 0.8,
-            "biba": 0.2
+            "penelope": 0.1594,
+            "biba": 0.0871,
+            "nino": 0.0044,
+            "victor": 0.0056,
+            "morgana": 0.0064,
+            "pedro": 0.0055,
+            "zequinha": 0.0065,
+            "caipora": 0.0057,
+            "etevaldo": 0.007,
+            "bongo": 0.0067,
+            "celeste": 0.0077,
+            "mau": 0.0091,
+            "porteiro": 0.0073,
+            "ratinho": 0.0092
           }
         }
-      ]
+      ],
+      "id": "q1"
     },
     {
       "question": "Você recebe uma visita completamente inesperada. Sua reação?",
@@ -69,29 +172,81 @@
         {
           "text": "👽 Fico meio sem jeito, mas tento fazer amizade.",
           "points": {
-            "etevaldo": 0.8
+            "etevaldo": 0.1674,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "morgana": 0.0066,
+            "biba": 0.0058,
+            "pedro": 0.0058,
+            "zequinha": 0.0068,
+            "caipora": 0.006,
+            "penelope": 0.0069,
+            "bongo": 0.0069,
+            "celeste": 0.0081,
+            "mau": 0.0096,
+            "porteiro": 0.0076,
+            "ratinho": 0.0097
           }
         },
         {
           "text": "🍕 Dou as boas-vindas e tento deixar o clima mais alegre.",
           "points": {
-            "bongo": 0.8
+            "bongo": 0.1589,
+            "nino": 0.0047,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "zequinha": 0.0069,
+            "caipora": 0.0061,
+            "penelope": 0.0071,
+            "etevaldo": 0.0076,
+            "celeste": 0.0082,
+            "mau": 0.0098,
+            "porteiro": 0.0078,
+            "ratinho": 0.01
           }
         },
         {
           "text": "🐍 Faço um escândalo porque ninguém me avisou antes!",
           "points": {
-            "celeste": 0.8
+            "celeste": 0.1825,
+            "nino": 0.0044,
+            "victor": 0.0055,
+            "morgana": 0.0063,
+            "biba": 0.0056,
+            "pedro": 0.0055,
+            "zequinha": 0.0065,
+            "caipora": 0.0058,
+            "penelope": 0.0066,
+            "etevaldo": 0.007,
+            "bongo": 0.0067,
+            "mau": 0.0092,
+            "porteiro": 0.0073,
+            "ratinho": 0.0093
           }
         },
         {
           "text": "🟣 Pergunto o que a pessoa está fazendo aqui... de preferência com um enigma.",
           "points": {
-            "mau": 0.8,
-            "porteiro": 0.2
+            "mau": 0.2149,
+            "porteiro": 0.0972,
+            "nino": 0.0038,
+            "victor": 0.0049,
+            "morgana": 0.0055,
+            "biba": 0.0048,
+            "pedro": 0.0048,
+            "zequinha": 0.0056,
+            "caipora": 0.0049,
+            "penelope": 0.0057,
+            "etevaldo": 0.006,
+            "bongo": 0.0058,
+            "celeste": 0.0067,
+            "ratinho": 0.008
           }
         }
-      ]
+      ],
+      "id": "q2"
     },
     {
       "question": "Qual destas coisas mais provavelmente faria você perder a paciência?",
@@ -99,29 +254,81 @@
         {
           "text": "🚪 Alguém tentar entrar sem saber a senha.",
           "points": {
-            "porteiro": 0.8
+            "porteiro": 0.1704,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "morgana": 0.0066,
+            "biba": 0.0058,
+            "pedro": 0.0057,
+            "zequinha": 0.0068,
+            "caipora": 0.0059,
+            "penelope": 0.0068,
+            "etevaldo": 0.0073,
+            "bongo": 0.0069,
+            "celeste": 0.0081,
+            "mau": 0.0096,
+            "ratinho": 0.0096
           }
         },
         {
           "text": "🧼 Alguém deixar tudo sujo depois de você ter arrumado.",
           "points": {
-            "ratinho": 0.8
+            "ratinho": 0.2154,
+            "nino": 0.004,
+            "victor": 0.005,
+            "morgana": 0.0058,
+            "biba": 0.0051,
+            "pedro": 0.005,
+            "zequinha": 0.006,
+            "caipora": 0.0053,
+            "penelope": 0.006,
+            "etevaldo": 0.0064,
+            "bongo": 0.0061,
+            "celeste": 0.0071,
+            "mau": 0.0084,
+            "porteiro": 0.0067
           }
         },
         {
           "text": "❓ Alguém responder 'porque sim' quando você perguntou 'por quê?'.",
           "points": {
-            "zequinha": 0.8,
-            "pedro": 0.2
+            "zequinha": 0.1601,
+            "pedro": 0.0848,
+            "nino": 0.0045,
+            "victor": 0.0056,
+            "morgana": 0.0065,
+            "biba": 0.0057,
+            "caipora": 0.0057,
+            "penelope": 0.0065,
+            "etevaldo": 0.0069,
+            "bongo": 0.0066,
+            "celeste": 0.0077,
+            "mau": 0.0091,
+            "porteiro": 0.0073,
+            "ratinho": 0.0093
           }
         },
         {
           "text": "🌳 Alguém tratar a natureza como se não tivesse importância.",
           "points": {
-            "caipora": 0.8
+            "caipora": 0.1399,
+            "nino": 0.005,
+            "victor": 0.0063,
+            "morgana": 0.0072,
+            "biba": 0.0063,
+            "pedro": 0.0062,
+            "zequinha": 0.0074,
+            "penelope": 0.0074,
+            "etevaldo": 0.0079,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0104,
+            "porteiro": 0.0082,
+            "ratinho": 0.0105
           }
         }
-      ]
+      ],
+      "id": "q3"
     },
     {
       "question": "Você precisa aprender uma coisa completamente nova. Como prefere?",
@@ -129,29 +336,81 @@
         {
           "text": "📖 Ouvindo uma história cheia de exemplos.",
           "points": {
-            "morgana": 0.8
+            "morgana": 0.1613,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "biba": 0.0059,
+            "pedro": 0.0058,
+            "zequinha": 0.0069,
+            "caipora": 0.006,
+            "penelope": 0.007,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0082,
+            "mau": 0.0097,
+            "porteiro": 0.0077,
+            "ratinho": 0.0099
           }
         },
         {
           "text": "🧠 Estudando tudo até conseguir explicar para outra pessoa.",
           "points": {
-            "victor": 0.8,
-            "pedro": 0.2
+            "victor": 0.1425,
+            "pedro": 0.0872,
+            "nino": 0.0047,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "zequinha": 0.0067,
+            "caipora": 0.006,
+            "penelope": 0.0068,
+            "etevaldo": 0.0072,
+            "bongo": 0.0069,
+            "celeste": 0.008,
+            "mau": 0.0095,
+            "porteiro": 0.0075,
+            "ratinho": 0.0096
           }
         },
         {
           "text": "🎲 Experimentando na prática e inventando meu próprio jeito.",
           "points": {
-            "nino": 0.8
+            "nino": 0.1147,
+            "victor": 0.0067,
+            "morgana": 0.0078,
+            "biba": 0.0068,
+            "pedro": 0.0067,
+            "zequinha": 0.0079,
+            "caipora": 0.007,
+            "penelope": 0.0081,
+            "etevaldo": 0.0086,
+            "bongo": 0.0082,
+            "celeste": 0.0095,
+            "mau": 0.0112,
+            "porteiro": 0.0089,
+            "ratinho": 0.0112
           }
         },
         {
           "text": "🛸 Perguntando como isso funciona em outros lugares do universo.",
           "points": {
-            "etevaldo": 0.8
+            "etevaldo": 0.1674,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "morgana": 0.0066,
+            "biba": 0.0058,
+            "pedro": 0.0058,
+            "zequinha": 0.0068,
+            "caipora": 0.006,
+            "penelope": 0.0069,
+            "bongo": 0.0069,
+            "celeste": 0.0081,
+            "mau": 0.0096,
+            "porteiro": 0.0076,
+            "ratinho": 0.0097
           }
         }
-      ]
+      ],
+      "id": "q4"
     },
     {
       "question": "Seu fim de semana perfeito tem mais cara de...",
@@ -159,29 +418,81 @@
         {
           "text": "🌿 Uma trilha, uma descoberta e uma boa história para contar.",
           "points": {
-            "caipora": 0.8
+            "caipora": 0.1399,
+            "nino": 0.005,
+            "victor": 0.0063,
+            "morgana": 0.0072,
+            "biba": 0.0063,
+            "pedro": 0.0062,
+            "zequinha": 0.0074,
+            "penelope": 0.0074,
+            "etevaldo": 0.0079,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0104,
+            "porteiro": 0.0082,
+            "ratinho": 0.0105
           }
         },
         {
           "text": "🎭 Uma aventura maluca que ninguém planejou.",
           "points": {
-            "biba": 0.8,
-            "nino": 0.2
+            "biba": 0.1403,
+            "nino": 0.0749,
+            "victor": 0.006,
+            "morgana": 0.0069,
+            "pedro": 0.0059,
+            "zequinha": 0.007,
+            "caipora": 0.0061,
+            "penelope": 0.0071,
+            "etevaldo": 0.0075,
+            "bongo": 0.0072,
+            "celeste": 0.0083,
+            "mau": 0.0098,
+            "porteiro": 0.0078,
+            "ratinho": 0.01
           }
         },
         {
           "text": "🎶 Trabalho feito, música tocando e todo mundo de bom humor.",
           "points": {
-            "bongo": 0.8
+            "bongo": 0.1589,
+            "nino": 0.0047,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "zequinha": 0.0069,
+            "caipora": 0.0061,
+            "penelope": 0.0071,
+            "etevaldo": 0.0076,
+            "celeste": 0.0082,
+            "mau": 0.0098,
+            "porteiro": 0.0078,
+            "ratinho": 0.01
           }
         },
         {
           "text": "💅 Um lugar bonito, uma produção impecável e muita gente para ver.",
           "points": {
-            "penelope": 0.8
+            "penelope": 0.1594,
+            "nino": 0.0046,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "zequinha": 0.0069,
+            "caipora": 0.0061,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0083,
+            "mau": 0.0098,
+            "porteiro": 0.0078,
+            "ratinho": 0.01
           }
         }
-      ]
+      ],
+      "id": "q5"
     },
     {
       "question": "Quando alguém te desafia, você...",
@@ -189,29 +500,81 @@
         {
           "text": "🧙 Aceito o desafio e tento resolver de um jeito que ninguém imaginou.",
           "points": {
-            "nino": 0.8
+            "nino": 0.1147,
+            "victor": 0.0067,
+            "morgana": 0.0078,
+            "biba": 0.0068,
+            "pedro": 0.0067,
+            "zequinha": 0.0079,
+            "caipora": 0.007,
+            "penelope": 0.0081,
+            "etevaldo": 0.0086,
+            "bongo": 0.0082,
+            "celeste": 0.0095,
+            "mau": 0.0112,
+            "porteiro": 0.0089,
+            "ratinho": 0.0112
           }
         },
         {
           "text": "🧪 Analiso o problema antes de aceitar.",
           "points": {
-            "victor": 0.8
+            "victor": 0.1425,
+            "nino": 0.0049,
+            "morgana": 0.007,
+            "biba": 0.0062,
+            "pedro": 0.0061,
+            "zequinha": 0.0072,
+            "caipora": 0.0064,
+            "penelope": 0.0073,
+            "etevaldo": 0.0078,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0103,
+            "porteiro": 0.0082,
+            "ratinho": 0.0104
           }
         },
         {
           "text": "😏 Aceito — mas provavelmente vou transformar isso numa competição.",
           "points": {
-            "biba": 0.8
+            "biba": 0.1403,
+            "nino": 0.005,
+            "victor": 0.0063,
+            "morgana": 0.0072,
+            "pedro": 0.0061,
+            "zequinha": 0.0073,
+            "caipora": 0.0064,
+            "penelope": 0.0074,
+            "etevaldo": 0.0079,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0104,
+            "porteiro": 0.0082,
+            "ratinho": 0.0105
           }
         },
         {
           "text": "🌀 Crio um enigma ainda mais complicado para a outra pessoa.",
           "points": {
-            "mau": 0.8,
-            "porteiro": 0.2
+            "mau": 0.2149,
+            "porteiro": 0.0972,
+            "nino": 0.0038,
+            "victor": 0.0049,
+            "morgana": 0.0055,
+            "biba": 0.0048,
+            "pedro": 0.0048,
+            "zequinha": 0.0056,
+            "caipora": 0.0049,
+            "penelope": 0.0057,
+            "etevaldo": 0.006,
+            "bongo": 0.0058,
+            "celeste": 0.0067,
+            "ratinho": 0.008
           }
         }
-      ]
+      ],
+      "id": "q6"
     },
     {
       "question": "Qual frase poderia estar escrita na sua porta?",
@@ -219,28 +582,81 @@
         {
           "text": "🔎 'Antes de entrar, pense um pouco.'",
           "points": {
-            "pedro": 0.8
+            "pedro": 0.1369,
+            "nino": 0.0051,
+            "victor": 0.0064,
+            "morgana": 0.0073,
+            "biba": 0.0064,
+            "zequinha": 0.0075,
+            "caipora": 0.0065,
+            "penelope": 0.0075,
+            "etevaldo": 0.008,
+            "bongo": 0.0076,
+            "celeste": 0.0089,
+            "mau": 0.0104,
+            "porteiro": 0.0083,
+            "ratinho": 0.0106
           }
         },
         {
           "text": "❔ 'Mas por quê?'",
           "points": {
-            "zequinha": 0.8
+            "zequinha": 0.1601,
+            "nino": 0.0046,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "caipora": 0.006,
+            "penelope": 0.007,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0083,
+            "mau": 0.0098,
+            "porteiro": 0.0077,
+            "ratinho": 0.0099
           }
         },
         {
           "text": "📜 'Entre, que eu tenho uma história para contar.'",
           "points": {
-            "morgana": 0.8
+            "morgana": 0.1613,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "biba": 0.0059,
+            "pedro": 0.0058,
+            "zequinha": 0.0069,
+            "caipora": 0.006,
+            "penelope": 0.007,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0082,
+            "mau": 0.0097,
+            "porteiro": 0.0077,
+            "ratinho": 0.0099
           }
         },
         {
           "text": "🚪 'A senha é... se você descobrir, entra.'",
           "points": {
-            "porteiro": 0.8
+            "porteiro": 0.1704,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "morgana": 0.0066,
+            "biba": 0.0058,
+            "pedro": 0.0057,
+            "zequinha": 0.0068,
+            "caipora": 0.0059,
+            "penelope": 0.0068,
+            "etevaldo": 0.0073,
+            "bongo": 0.0069,
+            "celeste": 0.0081,
+            "mau": 0.0096,
+            "ratinho": 0.0096
           }
         }
-      ]
+      ],
+      "id": "q7"
     },
     {
       "question": "Qual dessas situações combina mais com você?",
@@ -248,30 +664,81 @@
         {
           "text": "🌱 Ensinar alguém a cuidar melhor do ambiente.",
           "points": {
-            "ratinho": 0.8,
-            "caipora": 0.2
+            "ratinho": 0.2154,
+            "caipora": 0.0807,
+            "nino": 0.0039,
+            "victor": 0.005,
+            "morgana": 0.0057,
+            "biba": 0.005,
+            "pedro": 0.0049,
+            "zequinha": 0.0058,
+            "penelope": 0.0058,
+            "etevaldo": 0.0062,
+            "bongo": 0.0059,
+            "celeste": 0.0069,
+            "mau": 0.0082,
+            "porteiro": 0.0065
           }
         },
         {
           "text": "💬 Contar uma história tão boa que todo mundo esquece da hora.",
           "points": {
-            "morgana": 0.8
+            "morgana": 0.1613,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "biba": 0.0059,
+            "pedro": 0.0058,
+            "zequinha": 0.0069,
+            "caipora": 0.006,
+            "penelope": 0.007,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0082,
+            "mau": 0.0097,
+            "porteiro": 0.0077,
+            "ratinho": 0.0099
           }
         },
         {
           "text": "📺 Descobrir uma informação interessante e contar para todo mundo.",
           "points": {
-            "penelope": 0.8
+            "penelope": 0.1594,
+            "nino": 0.0046,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "zequinha": 0.0069,
+            "caipora": 0.0061,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0083,
+            "mau": 0.0098,
+            "porteiro": 0.0078,
+            "ratinho": 0.01
           }
         },
         {
           "text": "🤭 Fazer uma brincadeira que começa inocente e termina em confusão.",
           "points": {
-            "zequinha": 0.8,
-            "biba": 0.2
+            "zequinha": 0.1601,
+            "biba": 0.087,
+            "nino": 0.0044,
+            "victor": 0.0055,
+            "morgana": 0.0064,
+            "pedro": 0.0055,
+            "caipora": 0.0057,
+            "penelope": 0.0066,
+            "etevaldo": 0.0069,
+            "bongo": 0.0067,
+            "celeste": 0.0077,
+            "mau": 0.0091,
+            "porteiro": 0.0072,
+            "ratinho": 0.0092
           }
         }
-      ]
+      ],
+      "id": "q8"
     },
     {
       "question": "Como você reage quando algo dá errado?",
@@ -279,29 +746,81 @@
         {
           "text": "🛠️ Tento entender o problema e encontrar uma solução.",
           "points": {
-            "victor": 0.8,
-            "pedro": 0.2
+            "victor": 0.1425,
+            "pedro": 0.0872,
+            "nino": 0.0047,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "zequinha": 0.0067,
+            "caipora": 0.006,
+            "penelope": 0.0068,
+            "etevaldo": 0.0072,
+            "bongo": 0.0069,
+            "celeste": 0.008,
+            "mau": 0.0095,
+            "porteiro": 0.0075,
+            "ratinho": 0.0096
           }
         },
         {
           "text": "😂 Dou risada e tento transformar o desastre em diversão.",
           "points": {
-            "bongo": 0.8
+            "bongo": 0.1589,
+            "nino": 0.0047,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "zequinha": 0.0069,
+            "caipora": 0.0061,
+            "penelope": 0.0071,
+            "etevaldo": 0.0076,
+            "celeste": 0.0082,
+            "mau": 0.0098,
+            "porteiro": 0.0078,
+            "ratinho": 0.01
           }
         },
         {
           "text": "😩 Reclamo bastante. Afinal, alguém precisa registrar a injustiça!",
           "points": {
-            "celeste": 0.8
+            "celeste": 0.1825,
+            "nino": 0.0044,
+            "victor": 0.0055,
+            "morgana": 0.0063,
+            "biba": 0.0056,
+            "pedro": 0.0055,
+            "zequinha": 0.0065,
+            "caipora": 0.0058,
+            "penelope": 0.0066,
+            "etevaldo": 0.007,
+            "bongo": 0.0067,
+            "mau": 0.0092,
+            "porteiro": 0.0073,
+            "ratinho": 0.0093
           }
         },
         {
           "text": "✨ Invento uma solução completamente inesperada.",
           "points": {
-            "nino": 0.8
+            "nino": 0.1147,
+            "victor": 0.0067,
+            "morgana": 0.0078,
+            "biba": 0.0068,
+            "pedro": 0.0067,
+            "zequinha": 0.0079,
+            "caipora": 0.007,
+            "penelope": 0.0081,
+            "etevaldo": 0.0086,
+            "bongo": 0.0082,
+            "celeste": 0.0095,
+            "mau": 0.0112,
+            "porteiro": 0.0089,
+            "ratinho": 0.0112
           }
         }
-      ]
+      ],
+      "id": "q9"
     },
     {
       "question": "Se pudesse passar um dia fora da Terra, você...",
@@ -309,29 +828,81 @@
         {
           "text": "👽 Ficaria curioso com absolutamente tudo.",
           "points": {
-            "etevaldo": 0.8
+            "etevaldo": 0.1674,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "morgana": 0.0066,
+            "biba": 0.0058,
+            "pedro": 0.0058,
+            "zequinha": 0.0068,
+            "caipora": 0.006,
+            "penelope": 0.0069,
+            "bongo": 0.0069,
+            "celeste": 0.0081,
+            "mau": 0.0096,
+            "porteiro": 0.0076,
+            "ratinho": 0.0097
           }
         },
         {
           "text": "🔭 Tentaria aprender tudo sobre o lugar.",
           "points": {
-            "victor": 0.8
+            "victor": 0.1425,
+            "nino": 0.0049,
+            "morgana": 0.007,
+            "biba": 0.0062,
+            "pedro": 0.0061,
+            "zequinha": 0.0072,
+            "caipora": 0.0064,
+            "penelope": 0.0073,
+            "etevaldo": 0.0078,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0103,
+            "porteiro": 0.0082,
+            "ratinho": 0.0104
           }
         },
         {
           "text": "🌌 Transformaria a viagem numa grande aventura.",
           "points": {
-            "nino": 0.8,
-            "caipora": 0.2
+            "nino": 0.1147,
+            "caipora": 0.0946,
+            "victor": 0.0061,
+            "morgana": 0.007,
+            "biba": 0.0061,
+            "pedro": 0.0061,
+            "zequinha": 0.0072,
+            "penelope": 0.0072,
+            "etevaldo": 0.0076,
+            "bongo": 0.0073,
+            "celeste": 0.0084,
+            "mau": 0.01,
+            "porteiro": 0.0079,
+            "ratinho": 0.0101
           }
         },
         {
           "text": "📸 Aproveitaria para produzir uma matéria inesquecível.",
           "points": {
-            "penelope": 0.8
+            "penelope": 0.1594,
+            "nino": 0.0046,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "zequinha": 0.0069,
+            "caipora": 0.0061,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0083,
+            "mau": 0.0098,
+            "porteiro": 0.0078,
+            "ratinho": 0.01
           }
         }
-      ]
+      ],
+      "id": "q10"
     },
     {
       "question": "O que você faria se ganhasse uma tarde completamente livre?",
@@ -339,28 +910,81 @@
         {
           "text": "🧹 Colocaria alguma coisa em ordem e ensinaria bons hábitos para alguém.",
           "points": {
-            "ratinho": 0.8
+            "ratinho": 0.2154,
+            "nino": 0.004,
+            "victor": 0.005,
+            "morgana": 0.0058,
+            "biba": 0.0051,
+            "pedro": 0.005,
+            "zequinha": 0.006,
+            "caipora": 0.0053,
+            "penelope": 0.006,
+            "etevaldo": 0.0064,
+            "bongo": 0.0061,
+            "celeste": 0.0071,
+            "mau": 0.0084,
+            "porteiro": 0.0067
           }
         },
         {
           "text": "🎨 Inventaria alguma coisa nova para fazer com os amigos.",
           "points": {
-            "biba": 0.8
+            "biba": 0.1403,
+            "nino": 0.005,
+            "victor": 0.0063,
+            "morgana": 0.0072,
+            "pedro": 0.0061,
+            "zequinha": 0.0073,
+            "caipora": 0.0064,
+            "penelope": 0.0074,
+            "etevaldo": 0.0079,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0104,
+            "porteiro": 0.0082,
+            "ratinho": 0.0105
           }
         },
         {
           "text": "🥁 Sairia por aí fazendo a alegria de quem encontrasse.",
           "points": {
-            "bongo": 0.8
+            "bongo": 0.1589,
+            "nino": 0.0047,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "zequinha": 0.0069,
+            "caipora": 0.0061,
+            "penelope": 0.0071,
+            "etevaldo": 0.0076,
+            "celeste": 0.0082,
+            "mau": 0.0098,
+            "porteiro": 0.0078,
+            "ratinho": 0.01
           }
         },
         {
           "text": "🐍 Ficaria quietinho... até alguma coisa me incomodar.",
           "points": {
-            "celeste": 0.8
+            "celeste": 0.1825,
+            "nino": 0.0044,
+            "victor": 0.0055,
+            "morgana": 0.0063,
+            "biba": 0.0056,
+            "pedro": 0.0055,
+            "zequinha": 0.0065,
+            "caipora": 0.0058,
+            "penelope": 0.0066,
+            "etevaldo": 0.007,
+            "bongo": 0.0067,
+            "mau": 0.0092,
+            "porteiro": 0.0073,
+            "ratinho": 0.0093
           }
         }
-      ]
+      ],
+      "id": "q11"
     },
     {
       "question": "Qual seria seu superpoder dentro do castelo?",
@@ -368,28 +992,81 @@
         {
           "text": "📚 Ter uma resposta sábia para praticamente qualquer situação.",
           "points": {
-            "morgana": 0.8
+            "morgana": 0.1613,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "biba": 0.0059,
+            "pedro": 0.0058,
+            "zequinha": 0.0069,
+            "caipora": 0.006,
+            "penelope": 0.007,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0082,
+            "mau": 0.0097,
+            "porteiro": 0.0077,
+            "ratinho": 0.0099
           }
         },
         {
           "text": "🧩 Resolver qualquer problema usando lógica.",
           "points": {
-            "pedro": 0.8
+            "pedro": 0.1369,
+            "nino": 0.0051,
+            "victor": 0.0064,
+            "morgana": 0.0073,
+            "biba": 0.0064,
+            "zequinha": 0.0075,
+            "caipora": 0.0065,
+            "penelope": 0.0075,
+            "etevaldo": 0.008,
+            "bongo": 0.0076,
+            "celeste": 0.0089,
+            "mau": 0.0104,
+            "porteiro": 0.0083,
+            "ratinho": 0.0106
           }
         },
         {
           "text": "🌳 Conversar com a natureza e encontrar caminhos secretos.",
           "points": {
-            "caipora": 0.8
+            "caipora": 0.1399,
+            "nino": 0.005,
+            "victor": 0.0063,
+            "morgana": 0.0072,
+            "biba": 0.0063,
+            "pedro": 0.0062,
+            "zequinha": 0.0074,
+            "penelope": 0.0074,
+            "etevaldo": 0.0079,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0104,
+            "porteiro": 0.0082,
+            "ratinho": 0.0105
           }
         },
         {
           "text": "🗝️ Decidir quem pode passar por cada porta.",
           "points": {
-            "porteiro": 0.8
+            "porteiro": 0.1704,
+            "nino": 0.0046,
+            "victor": 0.0058,
+            "morgana": 0.0066,
+            "biba": 0.0058,
+            "pedro": 0.0057,
+            "zequinha": 0.0068,
+            "caipora": 0.0059,
+            "penelope": 0.0068,
+            "etevaldo": 0.0073,
+            "bongo": 0.0069,
+            "celeste": 0.0081,
+            "mau": 0.0096,
+            "ratinho": 0.0096
           }
         }
-      ]
+      ],
+      "id": "q12"
     },
     {
       "question": "E quando alguém mexe com você sem motivo?",
@@ -397,29 +1074,81 @@
         {
           "text": "😤 Invento um desafio tão difícil que a pessoa vai se arrepender.",
           "points": {
-            "mau": 0.8
+            "mau": 0.2149,
+            "nino": 0.004,
+            "victor": 0.005,
+            "morgana": 0.0058,
+            "biba": 0.0051,
+            "pedro": 0.005,
+            "zequinha": 0.006,
+            "caipora": 0.0053,
+            "penelope": 0.006,
+            "etevaldo": 0.0064,
+            "bongo": 0.0061,
+            "celeste": 0.0071,
+            "porteiro": 0.0067,
+            "ratinho": 0.0085
           }
         },
         {
           "text": "💁 Mostro que comigo não é tão simples assim.",
           "points": {
-            "biba": 0.8
+            "biba": 0.1403,
+            "nino": 0.005,
+            "victor": 0.0063,
+            "morgana": 0.0072,
+            "pedro": 0.0061,
+            "zequinha": 0.0073,
+            "caipora": 0.0064,
+            "penelope": 0.0074,
+            "etevaldo": 0.0079,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0104,
+            "porteiro": 0.0082,
+            "ratinho": 0.0105
           }
         },
         {
           "text": "🥺 Reclamo dramaticamente, mas no fundo só queria que parassem.",
           "points": {
-            "celeste": 0.8
+            "celeste": 0.1825,
+            "nino": 0.0044,
+            "victor": 0.0055,
+            "morgana": 0.0063,
+            "biba": 0.0056,
+            "pedro": 0.0055,
+            "zequinha": 0.0065,
+            "caipora": 0.0058,
+            "penelope": 0.0066,
+            "etevaldo": 0.007,
+            "bongo": 0.0067,
+            "mau": 0.0092,
+            "porteiro": 0.0073,
+            "ratinho": 0.0093
           }
         },
         {
           "text": "🤝 Tento entender a situação e fazer as pazes.",
           "points": {
-            "etevaldo": 0.8,
-            "nino": 0.2
+            "etevaldo": 0.1674,
+            "nino": 0.0719,
+            "victor": 0.0057,
+            "morgana": 0.0065,
+            "biba": 0.0056,
+            "pedro": 0.0056,
+            "zequinha": 0.0066,
+            "caipora": 0.0058,
+            "penelope": 0.0067,
+            "bongo": 0.0067,
+            "celeste": 0.0078,
+            "mau": 0.0093,
+            "porteiro": 0.0074,
+            "ratinho": 0.0094
           }
         }
-      ]
+      ],
+      "id": "q13"
     },
     {
       "question": "Qual destas características seus amigos provavelmente diriam que é mais sua?",
@@ -427,29 +1156,81 @@
         {
           "text": "✨ Criatividade: sempre invento alguma coisa diferente.",
           "points": {
-            "nino": 0.8
+            "nino": 0.1147,
+            "victor": 0.0067,
+            "morgana": 0.0078,
+            "biba": 0.0068,
+            "pedro": 0.0067,
+            "zequinha": 0.0079,
+            "caipora": 0.007,
+            "penelope": 0.0081,
+            "etevaldo": 0.0086,
+            "bongo": 0.0082,
+            "celeste": 0.0095,
+            "mau": 0.0112,
+            "porteiro": 0.0089,
+            "ratinho": 0.0112
           }
         },
         {
           "text": "🧠 Inteligência: gosto de entender como as coisas funcionam.",
           "points": {
-            "victor": 0.8,
-            "pedro": 0.2
+            "victor": 0.1425,
+            "pedro": 0.0872,
+            "nino": 0.0047,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "zequinha": 0.0067,
+            "caipora": 0.006,
+            "penelope": 0.0068,
+            "etevaldo": 0.0072,
+            "bongo": 0.0069,
+            "celeste": 0.008,
+            "mau": 0.0095,
+            "porteiro": 0.0075,
+            "ratinho": 0.0096
           }
         },
         {
           "text": "🌿 Espírito livre: dificilmente alguém consegue me prender.",
           "points": {
-            "caipora": 0.8
+            "caipora": 0.1399,
+            "nino": 0.005,
+            "victor": 0.0063,
+            "morgana": 0.0072,
+            "biba": 0.0063,
+            "pedro": 0.0062,
+            "zequinha": 0.0074,
+            "penelope": 0.0074,
+            "etevaldo": 0.0079,
+            "bongo": 0.0075,
+            "celeste": 0.0087,
+            "mau": 0.0104,
+            "porteiro": 0.0082,
+            "ratinho": 0.0105
           }
         },
         {
           "text": "🎀 Estilo: mesmo numa situação absurda, eu continuo impecável.",
           "points": {
-            "penelope": 0.8
+            "penelope": 0.1594,
+            "nino": 0.0046,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "zequinha": 0.0069,
+            "caipora": 0.0061,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0083,
+            "mau": 0.0098,
+            "porteiro": 0.0078,
+            "ratinho": 0.01
           }
         }
-      ]
+      ],
+      "id": "q14"
     },
     {
       "question": "Última pergunta: qual seria seu papel numa grande aventura no Castelo?",
@@ -457,28 +1238,81 @@
         {
           "text": "🧙 O responsável por transformar a aventura em algo mágico.",
           "points": {
-            "nino": 0.8
+            "nino": 0.1147,
+            "victor": 0.0067,
+            "morgana": 0.0078,
+            "biba": 0.0068,
+            "pedro": 0.0067,
+            "zequinha": 0.0079,
+            "caipora": 0.007,
+            "penelope": 0.0081,
+            "etevaldo": 0.0086,
+            "bongo": 0.0082,
+            "celeste": 0.0095,
+            "mau": 0.0112,
+            "porteiro": 0.0089,
+            "ratinho": 0.0112
           }
         },
         {
           "text": "🗺️ O estrategista que pensa em cada passo.",
           "points": {
-            "pedro": 0.8
+            "pedro": 0.1369,
+            "nino": 0.0051,
+            "victor": 0.0064,
+            "morgana": 0.0073,
+            "biba": 0.0064,
+            "zequinha": 0.0075,
+            "caipora": 0.0065,
+            "penelope": 0.0075,
+            "etevaldo": 0.008,
+            "bongo": 0.0076,
+            "celeste": 0.0089,
+            "mau": 0.0104,
+            "porteiro": 0.0083,
+            "ratinho": 0.0106
           }
         },
         {
           "text": "❓ O especialista em fazer perguntas que ninguém mais pensou.",
           "points": {
-            "zequinha": 0.8
+            "zequinha": 0.1601,
+            "nino": 0.0046,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "caipora": 0.006,
+            "penelope": 0.007,
+            "etevaldo": 0.0074,
+            "bongo": 0.0071,
+            "celeste": 0.0083,
+            "mau": 0.0098,
+            "porteiro": 0.0077,
+            "ratinho": 0.0099
           }
         },
         {
           "text": "🍕 A pessoa que aparece com comida e mantém todo mundo de bom humor.",
           "points": {
-            "bongo": 0.8
+            "bongo": 0.1589,
+            "nino": 0.0047,
+            "victor": 0.0059,
+            "morgana": 0.0067,
+            "biba": 0.0059,
+            "pedro": 0.0059,
+            "zequinha": 0.0069,
+            "caipora": 0.0061,
+            "penelope": 0.0071,
+            "etevaldo": 0.0076,
+            "celeste": 0.0082,
+            "mau": 0.0098,
+            "porteiro": 0.0078,
+            "ratinho": 0.01
           }
         }
-      ]
+      ],
+      "id": "q15"
     }
   ],
   "descriptions": {
@@ -567,4 +1401,3 @@
       "text": "Você é simpático, educador e sempre cantarolando sobre bons hábitos - 'Tchau preguiça, tchau sujeira!' Seu Ratomóvel leva você por aventuras educativas, ensinando sobre higiene, reciclagem e cuidados. Sua missão é fazer o mundo mais limpo e feliz!"
     }
   }
-}
