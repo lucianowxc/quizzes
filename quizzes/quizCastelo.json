@@ -1,1 +1,570 @@
-
+{
+  "title": "Qual Personagem do Castelo Rá-Tim-Bum Você É?",
+  "subtitle": "Descubra qual morador, visitante ou criatura do Castelo combina mais com o seu jeito de ser!",
+  "questions": [
+    {
+      "question": "Você encontra uma porta misteriosa no castelo. O que faz?",
+      "answers": [
+        {
+          "text": "🪄 Tento um feitiço e vejo no que dá.",
+          "points": {
+            "nino": 0.8,
+            "etevaldo": 0.2
+          }
+        },
+        {
+          "text": "🔬 Primeiro observo todos os detalhes antes de tocar em qualquer coisa.",
+          "points": {
+            "victor": 0.8
+          }
+        },
+        {
+          "text": "📚 Procuro alguém que conheça uma boa história sobre aquela porta.",
+          "points": {
+            "morgana": 0.8
+          }
+        },
+        {
+          "text": "🎯 Abro logo. Alguém precisa tomar uma decisão por aqui!",
+          "points": {
+            "biba": 0.8,
+            "porteiro": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se seus amigos estão discutindo, qual é o seu papel?",
+      "answers": [
+        {
+          "text": "🧩 Tento descobrir qual solução faz mais sentido.",
+          "points": {
+            "pedro": 0.8
+          }
+        },
+        {
+          "text": "🌪️ Faço mais umas vinte perguntas até entender o que aconteceu.",
+          "points": {
+            "zequinha": 0.8
+          }
+        },
+        {
+          "text": "🌿 Tiro todo mundo da discussão e proponho uma aventura.",
+          "points": {
+            "caipora": 0.8
+          }
+        },
+        {
+          "text": "💄 Resolvo a situação e ainda faço questão de sair bem na foto.",
+          "points": {
+            "penelope": 0.8,
+            "biba": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você recebe uma visita completamente inesperada. Sua reação?",
+      "answers": [
+        {
+          "text": "👽 Fico meio sem jeito, mas tento fazer amizade.",
+          "points": {
+            "etevaldo": 0.8
+          }
+        },
+        {
+          "text": "🍕 Dou as boas-vindas e tento deixar o clima mais alegre.",
+          "points": {
+            "bongo": 0.8
+          }
+        },
+        {
+          "text": "🐍 Faço um escândalo porque ninguém me avisou antes!",
+          "points": {
+            "celeste": 0.8
+          }
+        },
+        {
+          "text": "🟣 Pergunto o que a pessoa está fazendo aqui... de preferência com um enigma.",
+          "points": {
+            "mau": 0.8,
+            "porteiro": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destas coisas mais provavelmente faria você perder a paciência?",
+      "answers": [
+        {
+          "text": "🚪 Alguém tentar entrar sem saber a senha.",
+          "points": {
+            "porteiro": 0.8
+          }
+        },
+        {
+          "text": "🧼 Alguém deixar tudo sujo depois de você ter arrumado.",
+          "points": {
+            "ratinho": 0.8
+          }
+        },
+        {
+          "text": "❓ Alguém responder 'porque sim' quando você perguntou 'por quê?'.",
+          "points": {
+            "zequinha": 0.8,
+            "pedro": 0.2
+          }
+        },
+        {
+          "text": "🌳 Alguém tratar a natureza como se não tivesse importância.",
+          "points": {
+            "caipora": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Você precisa aprender uma coisa completamente nova. Como prefere?",
+      "answers": [
+        {
+          "text": "📖 Ouvindo uma história cheia de exemplos.",
+          "points": {
+            "morgana": 0.8
+          }
+        },
+        {
+          "text": "🧠 Estudando tudo até conseguir explicar para outra pessoa.",
+          "points": {
+            "victor": 0.8,
+            "pedro": 0.2
+          }
+        },
+        {
+          "text": "🎲 Experimentando na prática e inventando meu próprio jeito.",
+          "points": {
+            "nino": 0.8
+          }
+        },
+        {
+          "text": "🛸 Perguntando como isso funciona em outros lugares do universo.",
+          "points": {
+            "etevaldo": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu fim de semana perfeito tem mais cara de...",
+      "answers": [
+        {
+          "text": "🌿 Uma trilha, uma descoberta e uma boa história para contar.",
+          "points": {
+            "caipora": 0.8
+          }
+        },
+        {
+          "text": "🎭 Uma aventura maluca que ninguém planejou.",
+          "points": {
+            "biba": 0.8,
+            "nino": 0.2
+          }
+        },
+        {
+          "text": "🎶 Trabalho feito, música tocando e todo mundo de bom humor.",
+          "points": {
+            "bongo": 0.8
+          }
+        },
+        {
+          "text": "💅 Um lugar bonito, uma produção impecável e muita gente para ver.",
+          "points": {
+            "penelope": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Quando alguém te desafia, você...",
+      "answers": [
+        {
+          "text": "🧙 Aceito o desafio e tento resolver de um jeito que ninguém imaginou.",
+          "points": {
+            "nino": 0.8
+          }
+        },
+        {
+          "text": "🧪 Analiso o problema antes de aceitar.",
+          "points": {
+            "victor": 0.8
+          }
+        },
+        {
+          "text": "😏 Aceito — mas provavelmente vou transformar isso numa competição.",
+          "points": {
+            "biba": 0.8
+          }
+        },
+        {
+          "text": "🌀 Crio um enigma ainda mais complicado para a outra pessoa.",
+          "points": {
+            "mau": 0.8,
+            "porteiro": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase poderia estar escrita na sua porta?",
+      "answers": [
+        {
+          "text": "🔎 'Antes de entrar, pense um pouco.'",
+          "points": {
+            "pedro": 0.8
+          }
+        },
+        {
+          "text": "❔ 'Mas por quê?'",
+          "points": {
+            "zequinha": 0.8
+          }
+        },
+        {
+          "text": "📜 'Entre, que eu tenho uma história para contar.'",
+          "points": {
+            "morgana": 0.8
+          }
+        },
+        {
+          "text": "🚪 'A senha é... se você descobrir, entra.'",
+          "points": {
+            "porteiro": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas situações combina mais com você?",
+      "answers": [
+        {
+          "text": "🌱 Ensinar alguém a cuidar melhor do ambiente.",
+          "points": {
+            "ratinho": 0.8,
+            "caipora": 0.2
+          }
+        },
+        {
+          "text": "💬 Contar uma história tão boa que todo mundo esquece da hora.",
+          "points": {
+            "morgana": 0.8
+          }
+        },
+        {
+          "text": "📺 Descobrir uma informação interessante e contar para todo mundo.",
+          "points": {
+            "penelope": 0.8
+          }
+        },
+        {
+          "text": "🤭 Fazer uma brincadeira que começa inocente e termina em confusão.",
+          "points": {
+            "zequinha": 0.8,
+            "biba": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você reage quando algo dá errado?",
+      "answers": [
+        {
+          "text": "🛠️ Tento entender o problema e encontrar uma solução.",
+          "points": {
+            "victor": 0.8,
+            "pedro": 0.2
+          }
+        },
+        {
+          "text": "😂 Dou risada e tento transformar o desastre em diversão.",
+          "points": {
+            "bongo": 0.8
+          }
+        },
+        {
+          "text": "😩 Reclamo bastante. Afinal, alguém precisa registrar a injustiça!",
+          "points": {
+            "celeste": 0.8
+          }
+        },
+        {
+          "text": "✨ Invento uma solução completamente inesperada.",
+          "points": {
+            "nino": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se pudesse passar um dia fora da Terra, você...",
+      "answers": [
+        {
+          "text": "👽 Ficaria curioso com absolutamente tudo.",
+          "points": {
+            "etevaldo": 0.8
+          }
+        },
+        {
+          "text": "🔭 Tentaria aprender tudo sobre o lugar.",
+          "points": {
+            "victor": 0.8
+          }
+        },
+        {
+          "text": "🌌 Transformaria a viagem numa grande aventura.",
+          "points": {
+            "nino": 0.8,
+            "caipora": 0.2
+          }
+        },
+        {
+          "text": "📸 Aproveitaria para produzir uma matéria inesquecível.",
+          "points": {
+            "penelope": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você faria se ganhasse uma tarde completamente livre?",
+      "answers": [
+        {
+          "text": "🧹 Colocaria alguma coisa em ordem e ensinaria bons hábitos para alguém.",
+          "points": {
+            "ratinho": 0.8
+          }
+        },
+        {
+          "text": "🎨 Inventaria alguma coisa nova para fazer com os amigos.",
+          "points": {
+            "biba": 0.8
+          }
+        },
+        {
+          "text": "🥁 Sairia por aí fazendo a alegria de quem encontrasse.",
+          "points": {
+            "bongo": 0.8
+          }
+        },
+        {
+          "text": "🐍 Ficaria quietinho... até alguma coisa me incomodar.",
+          "points": {
+            "celeste": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu superpoder dentro do castelo?",
+      "answers": [
+        {
+          "text": "📚 Ter uma resposta sábia para praticamente qualquer situação.",
+          "points": {
+            "morgana": 0.8
+          }
+        },
+        {
+          "text": "🧩 Resolver qualquer problema usando lógica.",
+          "points": {
+            "pedro": 0.8
+          }
+        },
+        {
+          "text": "🌳 Conversar com a natureza e encontrar caminhos secretos.",
+          "points": {
+            "caipora": 0.8
+          }
+        },
+        {
+          "text": "🗝️ Decidir quem pode passar por cada porta.",
+          "points": {
+            "porteiro": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "E quando alguém mexe com você sem motivo?",
+      "answers": [
+        {
+          "text": "😤 Invento um desafio tão difícil que a pessoa vai se arrepender.",
+          "points": {
+            "mau": 0.8
+          }
+        },
+        {
+          "text": "💁 Mostro que comigo não é tão simples assim.",
+          "points": {
+            "biba": 0.8
+          }
+        },
+        {
+          "text": "🥺 Reclamo dramaticamente, mas no fundo só queria que parassem.",
+          "points": {
+            "celeste": 0.8
+          }
+        },
+        {
+          "text": "🤝 Tento entender a situação e fazer as pazes.",
+          "points": {
+            "etevaldo": 0.8,
+            "nino": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual destas características seus amigos provavelmente diriam que é mais sua?",
+      "answers": [
+        {
+          "text": "✨ Criatividade: sempre invento alguma coisa diferente.",
+          "points": {
+            "nino": 0.8
+          }
+        },
+        {
+          "text": "🧠 Inteligência: gosto de entender como as coisas funcionam.",
+          "points": {
+            "victor": 0.8,
+            "pedro": 0.2
+          }
+        },
+        {
+          "text": "🌿 Espírito livre: dificilmente alguém consegue me prender.",
+          "points": {
+            "caipora": 0.8
+          }
+        },
+        {
+          "text": "🎀 Estilo: mesmo numa situação absurda, eu continuo impecável.",
+          "points": {
+            "penelope": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Última pergunta: qual seria seu papel numa grande aventura no Castelo?",
+      "answers": [
+        {
+          "text": "🧙 O responsável por transformar a aventura em algo mágico.",
+          "points": {
+            "nino": 0.8
+          }
+        },
+        {
+          "text": "🗺️ O estrategista que pensa em cada passo.",
+          "points": {
+            "pedro": 0.8
+          }
+        },
+        {
+          "text": "❓ O especialista em fazer perguntas que ninguém mais pensou.",
+          "points": {
+            "zequinha": 0.8
+          }
+        },
+        {
+          "text": "🍕 A pessoa que aparece com comida e mantém todo mundo de bom humor.",
+          "points": {
+            "bongo": 0.8
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "nino": {
+      "title": "Nino",
+      "emoji": "🧙‍♂️",
+      "subtitle": "O Aprendiz Criativo",
+      "text": "Você é criativo, gentil e sempre vê a magia nas coisas simples. Com 300 anos de idade (mas com alma de criança), você tem um toque mágico especial para resolver problemas de forma única. Seu coração é grande e você adora fazer novos amigos!"
+    },
+    "victor": {
+      "title": "Dr. Victor",
+      "emoji": "👨‍🔬",
+      "subtitle": "O Sábio Misterioso",
+      "text": "Você é observador, inteligente e tem um conhecimento profundo sobre praticamente tudo. Com mais de 6 mil anos de sabedoria, você combina ciência e magia de forma equilibrada. Seu toque misterioso e sua tranquilidade inspiram confiança nos outros."
+    },
+    "morgana": {
+      "title": "Morgana",
+      "emoji": "👵",
+      "subtitle": "A Contadora de Histórias",
+      "text": "Você é sábia, experiente e ama compartilhar conhecimento através de histórias encantadoras. Com séculos de memórias mágicas, você é a voz da razão que guia com carinho. Seu conhecimento ancestral é seu maior tesouro!"
+    },
+    "biba": {
+      "title": "Biba",
+      "emoji": "👧",
+      "subtitle": "A Líder Criativa",
+      "text": "Você é esperta, decidida e sempre tem ideias brilhantes para sair de confusões. Como a mais velha do grupo, você assume responsabilidades naturalmente e adora tirar uma vantagem dos meninos quando pode. Criatividade e liderança são seus superpoderes!"
+    },
+    "pedro": {
+      "title": "Pedro",
+      "emoji": "👦",
+      "subtitle": "O Pensador Lógico",
+      "text": "Você é racional, estudioso e o primeiro a propor soluções sensatas. Seu interesse genuíno pelo conhecimento faz você parceiro ideal para investigações científicas. Calmo e observador, você é a âncora lógica do grupo."
+    },
+    "zequinha": {
+      "title": "Zequinha",
+      "emoji": "🤨",
+      "subtitle": "O Questionador Sapeca",
+      "text": "Você é curioso, impulsivo e nunca deixa uma dúvida sem resposta... ou três... ou vinte! 'Por quê?' é sua pergunta favorita, e você testa a paciência de todos com seus 'porquês' infinitos. Mas é essa inocência questionadora que torna tudo especial!"
+    },
+    "caipora": {
+      "title": "Caipora",
+      "emoji": "🌿",
+      "subtitle": "A Aventureira das Matas",
+      "text": "Você é aventureira, conhecedora das histórias indígenas e protetora da natureza. Sempre que alguém assobia, você aparece pronta para uma aventura! Suas histórias encantadas e seu espírito livre conquistam todos ao seu redor."
+    },
+    "penelope": {
+      "title": "Penélope",
+      "emoji": "💄",
+      "subtitle": "A Fashionista Elegante",
+      "text": "Você é sofisticada, elegante e sempre impecável - tudo de rosa, é claro! Como repórter de sucesso, você combina beleza, inteligência e charm natural. Sua presença chama atenção e você sabe como se destacar!"
+    },
+    "etevaldo": {
+      "title": "Etevaldo",
+      "emoji": "👽",
+      "subtitle": "O Alien Tímido",
+      "text": "Você é tímido, amigável e incrivelmente inteligente (leu um dicionário inteiro!). Apesar de vir de outro planeta, você é sensível e se conecta genuinamente com as pessoas. Sua inocência e gentileza são seu maior charme!"
+    },
+    "bongo": {
+      "title": "Bongô",
+      "emoji": "🍕",
+      "subtitle": "O Alegre Trabalhador",
+      "text": "Você é otimista, trabalhador e sempre está cantarolando feliz pela vida. Como entregador de pizzas, você leva alegria para onde vai. Seu bom humor contagiante e sua disposição tornam até os dias difíceis mais leves!"
+    },
+    "celeste": {
+      "title": "Celeste",
+      "emoji": "🐍",
+      "subtitle": "A Cobra Dramática",
+      "text": "Você é sensível, dramática e não tem vergonha de reclamar - 'Sou só uma pobre cobra, sem pernas, nem pés, nem braços!' Mas por trás do dramatismo, há um coração gentil. Suas emoções são genuínas e você se importa profundamente!"
+    },
+    "mau": {
+      "title": "Mau",
+      "emoji": "🟣",
+      "subtitle": "O Rabugento Bondoso",
+      "text": "Você tenta parecer malvado com enigmas e trava-línguas, mas seu bom coração sempre aparece no final. Morando nos encanamentos, você é criativo em seus desafios. Sua natureza rabugenta esconde uma amizade genuína!"
+    },
+    "porteiro": {
+      "title": "Porteiro",
+      "emoji": "🚪",
+      "subtitle": "O Testador Criativo",
+      "text": "Você é irreverente, criativo e adora testar as pessoas com senhas inesperadas - 'Klift Kloft Still'! Sua responsabilidade é decidir quem entra ou não, e você faz isso com humor e criatividade. Ninguém passa por você sem um desafio!"
+    },
+    "ratinho": {
+      "title": "Ratinho",
+      "emoji": "🐭",
+      "subtitle": "O Educador Simpático",
+      "text": "Você é simpático, educador e sempre cantarolando sobre bons hábitos - 'Tchau preguiça, tchau sujeira!' Seu Ratomóvel leva você por aventuras educativas, ensinando sobre higiene, reciclagem e cuidados. Sua missão é fazer o mundo mais limpo e feliz!"
+    }
+  }
+}
