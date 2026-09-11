@@ -674,6 +674,11 @@
       "name": "Qual Personagem do Castelo Rá-Tim-Bum Você É?",
       "file": "quizzes/quizCastelo.json",
       "description": "Descubra qual morador, visitante ou criatura do Castelo combina mais com o seu jeito de ser!"
+    },
+    {
+      "name": "Qual Vídeo da Home do YouTube Mais Te Representa?",
+      "file": "quizzes/quizHomeYoutube.json",
+      "description": "O algoritmo já decidiu quem você é. Só falta você aceitar."
     }
   ]
 }
