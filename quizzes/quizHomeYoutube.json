@@ -8,29 +8,53 @@
         {
           "text": "🛋️  Acho o sofá mais confortável e viro parte da decoração",
           "points": {
-            "lofi_girl": 0.8
+            "lofi_girl": 0.1265,
+            "corte_podcast": 0.01,
+            "guru_dinheiro": 0.0078,
+            "live_sertanejo": 0.0107,
+            "short_receita": 0.0142,
+            "gameplay_generico": 0.0128,
+            "jornal_politica": 0.0129
           }
         },
         {
           "text": "📢  Em 5 minutos conheço todo mundo e já tenho opinião sobre tudo",
           "points": {
-            "corte_podcast": 0.7,
-            "jornal_politica": 0.2
+            "corte_podcast": 0.1536,
+            "jornal_politica": 0.145,
+            "lofi_girl": 0.0044,
+            "guru_dinheiro": 0.0048,
+            "live_sertanejo": 0.0066,
+            "short_receita": 0.0088,
+            "gameplay_generico": 0.0082
           }
         },
         {
           "text": "🧮  Passo a noite calculando quanto a festa custou por pessoa",
           "points": {
-            "guru_dinheiro": 0.9
+            "guru_dinheiro": 0.1529,
+            "lofi_girl": 0.0071,
+            "corte_podcast": 0.0099,
+            "live_sertanejo": 0.0106,
+            "short_receita": 0.0139,
+            "gameplay_generico": 0.0126,
+            "jornal_politica": 0.0128
           }
         },
         {
           "text": "🎲  Invento um jogo com o que tem na mesa",
           "points": {
-            "gameplay_generico": 0.9
+            "gameplay_generico": 0.2543,
+            "lofi_girl": 0.0049,
+            "corte_podcast": 0.0068,
+            "guru_dinheiro": 0.0053,
+            "live_sertanejo": 0.0074,
+            "short_receita": 0.0098,
+            "jornal_politica": 0.0093
           }
         }
-      ]
+      ],
+      "id": "q0"
     },
     {
       "question": "Seu chefe manda um áudio de 7 minutos às 22h. Você:",
@@ -38,29 +62,53 @@
         {
           "text": "🌧️  Ouço em velocidade 0.5 com som de chuva pra relaxar",
           "points": {
-            "lofi_girl": 0.8
+            "lofi_girl": 0.1265,
+            "corte_podcast": 0.01,
+            "guru_dinheiro": 0.0078,
+            "live_sertanejo": 0.0107,
+            "short_receita": 0.0142,
+            "gameplay_generico": 0.0128,
+            "jornal_politica": 0.0129
           }
         },
         {
           "text": "✂️  Respondo com um áudio de 30 segundos, cirúrgico",
           "points": {
-            "corte_podcast": 0.8
+            "corte_podcast": 0.1752,
+            "lofi_girl": 0.0059,
+            "guru_dinheiro": 0.0064,
+            "live_sertanejo": 0.0087,
+            "short_receita": 0.0116,
+            "gameplay_generico": 0.0107,
+            "jornal_politica": 0.0109
           }
         },
         {
           "text": "📊  Devolvo uma planilha de custo-benefício daquela demanda",
           "points": {
-            "guru_dinheiro": 0.9
+            "guru_dinheiro": 0.1529,
+            "lofi_girl": 0.0071,
+            "corte_podcast": 0.0099,
+            "live_sertanejo": 0.0106,
+            "short_receita": 0.0139,
+            "gameplay_generico": 0.0126,
+            "jornal_politica": 0.0128
           }
         },
         {
           "text": "🍜  Faço um miojo e finjo que amanhã eu resolvo",
           "points": {
-            "short_receita": 0.8,
-            "lofi_girl": 0.1
+            "short_receita": 0.2455,
+            "lofi_girl": 0.0423,
+            "corte_podcast": 0.0062,
+            "guru_dinheiro": 0.0049,
+            "live_sertanejo": 0.0068,
+            "gameplay_generico": 0.0083,
+            "jornal_politica": 0.0086
           }
         }
-      ]
+      ],
+      "id": "q1"
     },
     {
       "question": "Qual seria seu lema estampado numa camiseta?",
@@ -68,28 +116,53 @@
         {
           "text": "🍃  'Eu não decido nada, só acompanho o fluxo'",
           "points": {
-            "lofi_girl": 0.8
+            "lofi_girl": 0.1265,
+            "corte_podcast": 0.01,
+            "guru_dinheiro": 0.0078,
+            "live_sertanejo": 0.0107,
+            "short_receita": 0.0142,
+            "gameplay_generico": 0.0128,
+            "jornal_politica": 0.0129
           }
         },
         {
           "text": "🗯️  'Opinião é que nem podcast: todo mundo tem um'",
           "points": {
-            "corte_podcast": 0.8
+            "corte_podcast": 0.1752,
+            "lofi_girl": 0.0059,
+            "guru_dinheiro": 0.0064,
+            "live_sertanejo": 0.0087,
+            "short_receita": 0.0116,
+            "gameplay_generico": 0.0107,
+            "jornal_politica": 0.0109
           }
         },
         {
           "text": "🏦  'Riqueza é mindset'",
           "points": {
-            "guru_dinheiro": 0.9
+            "guru_dinheiro": 0.1529,
+            "lofi_girl": 0.0071,
+            "corte_podcast": 0.0099,
+            "live_sertanejo": 0.0106,
+            "short_receita": 0.0139,
+            "gameplay_generico": 0.0126,
+            "jornal_politica": 0.0128
           }
         },
         {
           "text": "💔  'Sentir demais é meu cardio'",
           "points": {
-            "live_sertanejo": 0.8
+            "live_sertanejo": 0.1861,
+            "lofi_girl": 0.0055,
+            "corte_podcast": 0.0078,
+            "guru_dinheiro": 0.0061,
+            "short_receita": 0.0112,
+            "gameplay_generico": 0.0103,
+            "jornal_politica": 0.0105
           }
         }
-      ]
+      ],
+      "id": "q2"
     },
     {
       "question": "Duas horas de espera numa fila de banco. Você:",
@@ -97,29 +170,53 @@
         {
           "text": "🕯️  Entra num estado de paz transcendental",
           "points": {
-            "lofi_girl": 0.9
+            "lofi_girl": 0.1421,
+            "corte_podcast": 0.0103,
+            "guru_dinheiro": 0.008,
+            "live_sertanejo": 0.0111,
+            "short_receita": 0.0145,
+            "gameplay_generico": 0.0131,
+            "jornal_politica": 0.0133
           }
         },
         {
           "text": "🥊  Puxa papo com o desconhecido da frente e sai no debate",
           "points": {
-            "jornal_politica": 0.7,
-            "corte_podcast": 0.2
+            "jornal_politica": 0.2037,
+            "corte_podcast": 0.0985,
+            "lofi_girl": 0.0043,
+            "guru_dinheiro": 0.0047,
+            "live_sertanejo": 0.0066,
+            "short_receita": 0.0087,
+            "gameplay_generico": 0.008
           }
         },
         {
           "text": "🧾  Aproveita pra revisar o planejamento financeiro do mês",
           "points": {
-            "guru_dinheiro": 0.9
+            "guru_dinheiro": 0.1529,
+            "lofi_girl": 0.0071,
+            "corte_podcast": 0.0099,
+            "live_sertanejo": 0.0106,
+            "short_receita": 0.0139,
+            "gameplay_generico": 0.0126,
+            "jornal_politica": 0.0128
           }
         },
         {
           "text": "🏆  Transforma a fila em campeonato e sai como se tivesse vencido",
           "points": {
-            "gameplay_generico": 0.9
+            "gameplay_generico": 0.2543,
+            "lofi_girl": 0.0049,
+            "corte_podcast": 0.0068,
+            "guru_dinheiro": 0.0053,
+            "live_sertanejo": 0.0074,
+            "short_receita": 0.0098,
+            "jornal_politica": 0.0093
           }
         }
-      ]
+      ],
+      "id": "q3"
     },
     {
       "question": "Escolhe um cheiro:",
@@ -127,29 +224,53 @@
         {
           "text": "🌦️  Chuva na janela",
           "points": {
-            "lofi_girl": 0.9
+            "lofi_girl": 0.1421,
+            "corte_podcast": 0.0103,
+            "guru_dinheiro": 0.008,
+            "live_sertanejo": 0.0111,
+            "short_receita": 0.0145,
+            "gameplay_generico": 0.0131,
+            "jornal_politica": 0.0133
           }
         },
         {
           "text": "☕  Café passando numa manhã fria",
           "points": {
-            "short_receita": 0.7,
-            "lofi_girl": 0.2
+            "short_receita": 0.2152,
+            "lofi_girl": 0.07,
+            "corte_podcast": 0.0063,
+            "guru_dinheiro": 0.0049,
+            "live_sertanejo": 0.0068,
+            "gameplay_generico": 0.0084,
+            "jornal_politica": 0.0087
           }
         },
         {
           "text": "🍖  Churrasco de domingo",
           "points": {
-            "live_sertanejo": 0.9
+            "live_sertanejo": 0.2091,
+            "lofi_girl": 0.0057,
+            "corte_podcast": 0.0079,
+            "guru_dinheiro": 0.0062,
+            "short_receita": 0.0114,
+            "gameplay_generico": 0.0104,
+            "jornal_politica": 0.0106
           }
         },
         {
           "text": "💵  Dinheiro novo saindo do caixa 24h",
           "points": {
-            "guru_dinheiro": 0.9
+            "guru_dinheiro": 0.1529,
+            "lofi_girl": 0.0071,
+            "corte_podcast": 0.0099,
+            "live_sertanejo": 0.0106,
+            "short_receita": 0.0139,
+            "gameplay_generico": 0.0126,
+            "jornal_politica": 0.0128
           }
         }
-      ]
+      ],
+      "id": "q4"
     },
     {
       "question": "Seu time perde a final do campeonato. Sua reação:",
@@ -157,29 +278,53 @@
         {
           "text": "😌  'A vida segue, amanhã tem outro jogo'",
           "points": {
-            "lofi_girl": 0.9
+            "lofi_girl": 0.1421,
+            "corte_podcast": 0.0103,
+            "guru_dinheiro": 0.008,
+            "live_sertanejo": 0.0111,
+            "short_receita": 0.0145,
+            "gameplay_generico": 0.0131,
+            "jornal_politica": 0.0133
           }
         },
         {
           "text": "🎤  Coloco um modão e choro até dormir",
           "points": {
-            "live_sertanejo": 0.9
+            "live_sertanejo": 0.2091,
+            "lofi_girl": 0.0057,
+            "corte_podcast": 0.0079,
+            "guru_dinheiro": 0.0062,
+            "short_receita": 0.0114,
+            "gameplay_generico": 0.0104,
+            "jornal_politica": 0.0106
           }
         },
         {
           "text": "📣  Ligo no pós-jogo pra concordar (gritando) com o comentarista",
           "points": {
-            "jornal_politica": 0.8,
-            "corte_podcast": 0.1
+            "jornal_politica": 0.2324,
+            "corte_podcast": 0.0604,
+            "lofi_girl": 0.0044,
+            "guru_dinheiro": 0.0048,
+            "live_sertanejo": 0.0067,
+            "short_receita": 0.009,
+            "gameplay_generico": 0.0083
           }
         },
         {
           "text": "🍕  Peço uma pizza e maratono qualquer coisa",
           "points": {
-            "short_receita": 0.9
+            "short_receita": 0.2759,
+            "lofi_girl": 0.0046,
+            "corte_podcast": 0.0064,
+            "guru_dinheiro": 0.005,
+            "live_sertanejo": 0.0069,
+            "gameplay_generico": 0.0085,
+            "jornal_politica": 0.0088
           }
         }
-      ]
+      ],
+      "id": "q5"
     },
     {
       "question": "Num jantar, a conversa morreu. Você salva a noite com:",
@@ -187,30 +332,53 @@
         {
           "text": "🔥  Uma história de superação com lição de vida no final",
           "points": {
-            "guru_dinheiro": 0.7,
-            "corte_podcast": 0.2
+            "guru_dinheiro": 0.1193,
+            "corte_podcast": 0.1167,
+            "lofi_girl": 0.0053,
+            "live_sertanejo": 0.0079,
+            "short_receita": 0.0105,
+            "gameplay_generico": 0.0097,
+            "jornal_politica": 0.01
           }
         },
         {
           "text": "🍿  Fofoca detalhada, com nome e sobrenome",
           "points": {
-            "jornal_politica": 0.7,
-            "corte_podcast": 0.2
+            "jornal_politica": 0.2037,
+            "corte_podcast": 0.0985,
+            "lofi_girl": 0.0043,
+            "guru_dinheiro": 0.0047,
+            "live_sertanejo": 0.0066,
+            "short_receita": 0.0087,
+            "gameplay_generico": 0.008
           }
         },
         {
           "text": "🃏  Um jogo de cartas ou de boteco",
           "points": {
-            "gameplay_generico": 0.9
+            "gameplay_generico": 0.2543,
+            "lofi_girl": 0.0049,
+            "corte_podcast": 0.0068,
+            "guru_dinheiro": 0.0053,
+            "live_sertanejo": 0.0074,
+            "short_receita": 0.0098,
+            "jornal_politica": 0.0093
           }
         },
         {
           "text": "🎵  Começo a cantarolar algo que todo mundo conhece",
           "points": {
-            "live_sertanejo": 0.9
+            "live_sertanejo": 0.2091,
+            "lofi_girl": 0.0057,
+            "corte_podcast": 0.0079,
+            "guru_dinheiro": 0.0062,
+            "short_receita": 0.0114,
+            "gameplay_generico": 0.0104,
+            "jornal_politica": 0.0106
           }
         }
-      ]
+      ],
+      "id": "q6"
     }
   ],
   "descriptions": {
