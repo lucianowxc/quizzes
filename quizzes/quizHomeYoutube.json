@@ -1,0 +1,260 @@
+{
+  "title": "Qual Vídeo da Home do YouTube Mais Te Representa?",
+  "subtitle": "O algoritmo já decidiu quem você é. Só falta você aceitar.",
+  "questions": [
+    {
+      "question": "Você chega numa festa onde não conhece ninguém. O que faz?",
+      "answers": [
+        {
+          "text": "🛋️  Acho o sofá mais confortável e viro parte da decoração",
+          "points": {
+            "lofi_girl": 0.8
+          }
+        },
+        {
+          "text": "📢  Em 5 minutos conheço todo mundo e já tenho opinião sobre tudo",
+          "points": {
+            "corte_podcast": 0.7,
+            "jornal_politica": 0.2
+          }
+        },
+        {
+          "text": "🧮  Passo a noite calculando quanto a festa custou por pessoa",
+          "points": {
+            "guru_dinheiro": 0.9
+          }
+        },
+        {
+          "text": "🎲  Invento um jogo com o que tem na mesa",
+          "points": {
+            "gameplay_generico": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu chefe manda um áudio de 7 minutos às 22h. Você:",
+      "answers": [
+        {
+          "text": "🌧️  Ouço em velocidade 0.5 com som de chuva pra relaxar",
+          "points": {
+            "lofi_girl": 0.8
+          }
+        },
+        {
+          "text": "✂️  Respondo com um áudio de 30 segundos, cirúrgico",
+          "points": {
+            "corte_podcast": 0.8
+          }
+        },
+        {
+          "text": "📊  Devolvo uma planilha de custo-benefício daquela demanda",
+          "points": {
+            "guru_dinheiro": 0.9
+          }
+        },
+        {
+          "text": "🍜  Faço um miojo e finjo que amanhã eu resolvo",
+          "points": {
+            "short_receita": 0.8,
+            "lofi_girl": 0.1
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual seria seu lema estampado numa camiseta?",
+      "answers": [
+        {
+          "text": "🍃  'Eu não decido nada, só acompanho o fluxo'",
+          "points": {
+            "lofi_girl": 0.8
+          }
+        },
+        {
+          "text": "🗯️  'Opinião é que nem podcast: todo mundo tem um'",
+          "points": {
+            "corte_podcast": 0.8
+          }
+        },
+        {
+          "text": "🏦  'Riqueza é mindset'",
+          "points": {
+            "guru_dinheiro": 0.9
+          }
+        },
+        {
+          "text": "💔  'Sentir demais é meu cardio'",
+          "points": {
+            "live_sertanejo": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Duas horas de espera numa fila de banco. Você:",
+      "answers": [
+        {
+          "text": "🕯️  Entra num estado de paz transcendental",
+          "points": {
+            "lofi_girl": 0.9
+          }
+        },
+        {
+          "text": "🥊  Puxa papo com o desconhecido da frente e sai no debate",
+          "points": {
+            "jornal_politica": 0.7,
+            "corte_podcast": 0.2
+          }
+        },
+        {
+          "text": "🧾  Aproveita pra revisar o planejamento financeiro do mês",
+          "points": {
+            "guru_dinheiro": 0.9
+          }
+        },
+        {
+          "text": "🏆  Transforma a fila em campeonato e sai como se tivesse vencido",
+          "points": {
+            "gameplay_generico": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Escolhe um cheiro:",
+      "answers": [
+        {
+          "text": "🌦️  Chuva na janela",
+          "points": {
+            "lofi_girl": 0.9
+          }
+        },
+        {
+          "text": "☕  Café passando numa manhã fria",
+          "points": {
+            "short_receita": 0.7,
+            "lofi_girl": 0.2
+          }
+        },
+        {
+          "text": "🍖  Churrasco de domingo",
+          "points": {
+            "live_sertanejo": 0.9
+          }
+        },
+        {
+          "text": "💵  Dinheiro novo saindo do caixa 24h",
+          "points": {
+            "guru_dinheiro": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu time perde a final do campeonato. Sua reação:",
+      "answers": [
+        {
+          "text": "😌  'A vida segue, amanhã tem outro jogo'",
+          "points": {
+            "lofi_girl": 0.9
+          }
+        },
+        {
+          "text": "🎤  Coloco um modão e choro até dormir",
+          "points": {
+            "live_sertanejo": 0.9
+          }
+        },
+        {
+          "text": "📣  Ligo no pós-jogo pra concordar (gritando) com o comentarista",
+          "points": {
+            "jornal_politica": 0.8,
+            "corte_podcast": 0.1
+          }
+        },
+        {
+          "text": "🍕  Peço uma pizza e maratono qualquer coisa",
+          "points": {
+            "short_receita": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Num jantar, a conversa morreu. Você salva a noite com:",
+      "answers": [
+        {
+          "text": "🔥  Uma história de superação com lição de vida no final",
+          "points": {
+            "guru_dinheiro": 0.7,
+            "corte_podcast": 0.2
+          }
+        },
+        {
+          "text": "🍿  Fofoca detalhada, com nome e sobrenome",
+          "points": {
+            "jornal_politica": 0.7,
+            "corte_podcast": 0.2
+          }
+        },
+        {
+          "text": "🃏  Um jogo de cartas ou de boteco",
+          "points": {
+            "gameplay_generico": 0.9
+          }
+        },
+        {
+          "text": "🎵  Começo a cantarolar algo que todo mundo conhece",
+          "points": {
+            "live_sertanejo": 0.9
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "lofi_girl": {
+      "title": "A Live Eterna da Lofi Girl",
+      "emoji": "🎧",
+      "subtitle": "Trilha sonora oficial da procrastinação",
+      "text": "Você é a live de lofi: milhões de horas de exibição e ninguém sabe o nome da música. Na prática, você abre o YouTube pra estudar e vira mobília da internet — mas pelo menos com chuva e um gato na janela."
+    },
+    "corte_podcast": {
+      "title": "O Corte em Cáps Lock",
+      "emoji": "🎙️",
+      "subtitle": "'ELE REVELOU TUDO' (com círculo vermelho)",
+      "text": "Você é o corte de podcast: 12 minutos de uma conversa de 3 horas, com título gritando e seta apontando pra nada. Seu talento é transformar qualquer assunto em opinião forte — e compartilhar no grupo da família."
+    },
+    "guru_dinheiro": {
+      "title": "O Guru da Liberdade Financeira",
+      "emoji": "💸",
+      "subtitle": "Clique no link da bio",
+      "text": "Você é o vídeo de investimento: promete enriquecer todo mundo e ganha dinheiro explicando como ganhar dinheiro. Sua frase favorita é 'o pobre pensa diferente' — dita de dentro de um coworking alugado."
+    },
+    "live_sertanejo": {
+      "title": "A Live do Modão",
+      "emoji": "🤠",
+      "subtitle": "3 horas gravadas em 2020, eternas na home",
+      "text": "Você é a live de sertanejo: emocional, longa demais e impossível de tirar da home. Você chora no copo, manda áudio de 7 minutos pro ex e considera 'Balada' do Gusttavo Lima uma obra conceitual."
+    },
+    "short_receita": {
+      "title": "O Short de Receita ASMR",
+      "emoji": "🍳",
+      "subtitle": "30 segundos, zero contexto, manteiga derretendo",
+      "text": "Você é o short de receita: satisfatório, rápido e completamente inútil na vida real. Ninguém que te assiste vai cozinhar aquilo — mas todo mundo vai ficar mais 40 minutos rolando, e a culpa nem é sua."
+    },
+    "gameplay_generico": {
+      "title": "O Gameplay Genérico às 3h da Manhã",
+      "emoji": "🎮",
+      "subtitle": "'Fala, tropa!' — disse ele, pela 400ª vez",
+      "text": "Você é o gameplay de Minecraft: grita 'FALA, TROPA' como se fosse reunião de condomínio e transforma qualquer jogo em novela mexicana. Às 3h da manhã, alguém está assistindo você fazer absolutamente nada por 4 horas."
+    },
+    "jornal_politica": {
+      "title": "O Corte da Mesa Redonda",
+      "emoji": "📺",
+      "subtitle": "Seis comentaristas, um microfone, zero paciência",
+      "text": "Você é o corte de programa de TV: seis pessoas gritando ao mesmo tempo sobre algo que começou às 9h da manhã. Você não assiste ao jornal — você entra pra brigar nos comentários, que é onde a verdadeira audiência mora."
+    }
+  }
+}
