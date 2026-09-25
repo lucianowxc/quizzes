@@ -8,29 +8,33 @@
         {
           "text": "⏰  Acordo ANTES do alarme, como um senhor das trevas pontual",
           "points": {
-            "castelo": 0.9
+            "castelo": 0.2361,
+            "vania": 0.0082
           }
         },
         {
           "text": "💀  O alarme é uma sugestão, não uma ordem",
           "points": {
-            "vania": 0.8
+            "vania": 0.1778,
+            "castelo": 0.0113
           }
         },
         {
           "text": "🌅  Odeio a luz da manhã e todos que a representam",
           "points": {
-            "castelo": 0.7,
-            "vania": 0.3
+            "castelo": 0.1842,
+            "vania": 0.143
           }
         },
         {
           "text": "🛏️  Acordo em cima da hora e me arrasto até o banho",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         }
-      ]
+      ],
+      "id": "q0"
     },
     {
       "question": "Como está sua casa no momento?",
@@ -38,29 +42,33 @@
         {
           "text": "🕯️  Tudo em seu lugar, estética sombria e velas aromáticas",
           "points": {
-            "castelo": 0.9
+            "castelo": 0.2361,
+            "vania": 0.0082
           }
         },
         {
           "text": "🌪️  Bagunça, mas é uma bagunça ORGANIZADA (confia)",
           "points": {
-            "vania": 0.8
+            "vania": 0.1778,
+            "castelo": 0.0113
           }
         },
         {
           "text": "🧹  Só limpo quando alguém avisa que vai visitar",
           "points": {
-            "vania": 0.9,
-            "castelo": 0.2
+            "vania": 0.1997,
+            "castelo": 0.1502
           }
         },
         {
           "text": "🗿  Nada se move sem a minha autorização expressa",
           "points": {
-            "castelo": 0.8
+            "castelo": 0.2102,
+            "vania": 0.0082
           }
         }
-      ]
+      ],
+      "id": "q1"
     },
     {
       "question": "Num churrasco de família, você é o(a)...",
@@ -68,29 +76,33 @@
         {
           "text": "🍷  O anfitrião imponente que serve vinho e faz discursos",
           "points": {
-            "castelo": 0.9
+            "castelo": 0.2361,
+            "vania": 0.0082
           }
         },
         {
           "text": "🥩  O que come a carne direto da tábua antes de todos chegarem",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         },
         {
           "text": "🍖  O que fica procurando carne escondida atrás da parede da piscina",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         },
         {
           "text": "🎻  O que escolheu a trilha sonora orquestral do churrasco",
           "points": {
-            "castelo": 0.7,
-            "vania": 0.3
+            "castelo": 0.1842,
+            "vania": 0.143
           }
         }
-      ]
+      ],
+      "id": "q2"
     },
     {
       "question": "Alguém manda \"oi, sumido(a)\". Você...",
@@ -98,29 +110,33 @@
         {
           "text": "🦇  Desapareço por mais 300 anos, é questão de princípio",
           "points": {
-            "castelo": 0.8
+            "castelo": 0.2102,
+            "vania": 0.0082
           }
         },
         {
           "text": "😅  Respondo 3 dias depois com um meme sem contexto",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         },
         {
           "text": "📜  Respondo com elegância, ainda que três semanas depois",
           "points": {
-            "castelo": 0.7,
-            "vania": 0.4
+            "castelo": 0.1842,
+            "vania": 0.173
           }
         },
         {
           "text": "🐶  Mando áudio de 7 minutos narrando minha vida",
           "points": {
-            "vania": 0.8
+            "vania": 0.1778,
+            "castelo": 0.0113
           }
         }
-      ]
+      ],
+      "id": "q3"
     },
     {
       "question": "Sua playlist ideal:",
@@ -128,30 +144,33 @@
         {
           "text": "🎻  Ópera, clássicos e coral gregoriano",
           "points": {
-            "castelo": 0.9
+            "castelo": 0.2361,
+            "vania": 0.0082
           }
         },
         {
           "text": "🎸  Metal sinfônico (ou seja: os dois lados brigando)",
           "points": {
-            "castelo": 0.5,
-            "vania": 0.5
+            "castelo": 0.1323,
+            "vania": 0.1815
           }
         },
         {
           "text": "🥁  Funk 150 BPM no volume máximo às 7h da manhã",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         },
         {
           "text": "🎲  Aleatória: Vivaldi seguido de paródia de anime",
           "points": {
-            "vania": 0.8,
-            "castelo": 0.3
+            "vania": 0.1778,
+            "castelo": 0.187
           }
         }
-      ]
+      ],
+      "id": "q4"
     },
     {
       "question": "Plano ideal de domingo:",
@@ -159,29 +178,33 @@
         {
           "text": "🏰  Ficar em casa, imponente, sem receber ninguém",
           "points": {
-            "castelo": 0.9
+            "castelo": 0.2361,
+            "vania": 0.0082
           }
         },
         {
           "text": "🛋️  Maratonar série horizontal no sofá até esquecer meu nome",
           "points": {
-            "vania": 0.8
+            "vania": 0.1778,
+            "castelo": 0.0113
           }
         },
         {
           "text": "🚶  Caminhada dramática ao pôr do sol, casaco esvoaçando",
           "points": {
-            "castelo": 0.8,
-            "vania": 0.3
+            "castelo": 0.2102,
+            "vania": 0.149
           }
         },
         {
           "text": "🍕  Ligar 5 vezes pra pizzaria mudando o pedido",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         }
-      ]
+      ],
+      "id": "q5"
     },
     {
       "question": "Recebe uma crítica. Primeira reação:",
@@ -189,29 +212,33 @@
         {
           "text": "⚔️  Desafio a pessoa para um duelo de honra ao amanhecer",
           "points": {
-            "castelo": 0.9
+            "castelo": 0.2361,
+            "vania": 0.0082
           }
         },
         {
           "text": "😂  Dou risada e esqueço em 4 minutos",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         },
         {
           "text": "📓  Registro mentalmente numa listinha para a eternidade",
           "points": {
-            "castelo": 0.8
+            "castelo": 0.2102,
+            "vania": 0.0082
           }
         },
         {
           "text": "🤪  Concordo e pioro o comportamento de propósito",
           "points": {
-            "vania": 0.9,
-            "castelo": 0.2
+            "vania": 0.1997,
+            "castelo": 0.1502
           }
         }
-      ]
+      ],
+      "id": "q6"
     },
     {
       "question": "Qual bicho te representa?",
@@ -219,29 +246,33 @@
         {
           "text": "🐈‍⬛  Gato preto: elegante, julga todos, aparece do nada",
           "points": {
-            "castelo": 0.9
+            "castelo": 0.2361,
+            "vania": 0.0082
           }
         },
         {
           "text": "🐕  Cachorro que derruba tudo e se arrepende de nada",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         },
         {
           "text": "🦇  Morcego: teoricamente os dois, na prática nenhum",
           "points": {
-            "castelo": 0.5,
-            "vania": 0.5
+            "castelo": 0.1323,
+            "vania": 0.1815
           }
         },
         {
           "text": "🐟  Peixe dourado: faço o que dá na telha, memória curta",
           "points": {
-            "vania": 0.8
+            "vania": 0.1778,
+            "castelo": 0.0113
           }
         }
-      ]
+      ],
+      "id": "q7"
     },
     {
       "question": "Como você chega numa festa?",
@@ -249,29 +280,33 @@
         {
           "text": "🚪  Entrada dramática, capa invisível esvoaçando",
           "points": {
-            "castelo": 0.9
+            "castelo": 0.2361,
+            "vania": 0.0082
           }
         },
         {
           "text": "🪟  Entro pela janela porque a porta era óbvia demais",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         },
         {
           "text": "🍽️  Vou direto na comida, socializar é opcional",
           "points": {
-            "vania": 0.8,
-            "castelo": 0.3
+            "vania": 0.1778,
+            "castelo": 0.187
           }
         },
         {
           "text": "👑  Cumprimento um a um com reverência imperial",
           "points": {
-            "castelo": 0.8
+            "castelo": 0.2102,
+            "vania": 0.0082
           }
         }
-      ]
+      ],
+      "id": "q8"
     },
     {
       "question": "Sua relação com regras:",
@@ -279,29 +314,33 @@
         {
           "text": "📜  As regras existem para me servir",
           "points": {
-            "castelo": 0.9
+            "castelo": 0.2361,
+            "vania": 0.0082
           }
         },
         {
           "text": "🚫  Regras são sugestões de pessoas sem imaginação",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         },
         {
           "text": "🗿  Respeito todas... enquanto julgo silenciosamente",
           "points": {
-            "castelo": 0.8,
-            "vania": 0.3
+            "castelo": 0.2102,
+            "vania": 0.149
           }
         },
         {
           "text": "🌀  Só descubro que existiam quando já quebrei todas",
           "points": {
-            "vania": 0.9
+            "vania": 0.1997,
+            "castelo": 0.0114
           }
         }
-      ]
+      ],
+      "id": "q9"
     }
   ],
   "descriptions": {
