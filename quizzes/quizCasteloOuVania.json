@@ -1,0 +1,321 @@
+{
+  "title": "Você é mais CASTELO ou mais VÂNIA?",
+  "subtitle": "40 anos de Castlevania e a única pergunta que importa: drama gótico ou caos absoluto? 🏰🦇",
+  "questions": [
+    {
+      "question": "Sua relação com o despertador:",
+      "answers": [
+        {
+          "text": "⏰  Acordo ANTES do alarme, como um senhor das trevas pontual",
+          "points": {
+            "castelo": 0.9
+          }
+        },
+        {
+          "text": "💀  O alarme é uma sugestão, não uma ordem",
+          "points": {
+            "vania": 0.8
+          }
+        },
+        {
+          "text": "🌅  Odeio a luz da manhã e todos que a representam",
+          "points": {
+            "castelo": 0.7,
+            "vania": 0.3
+          }
+        },
+        {
+          "text": "🛏️  Acordo em cima da hora e me arrasto até o banho",
+          "points": {
+            "vania": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como está sua casa no momento?",
+      "answers": [
+        {
+          "text": "🕯️  Tudo em seu lugar, estética sombria e velas aromáticas",
+          "points": {
+            "castelo": 0.9
+          }
+        },
+        {
+          "text": "🌪️  Bagunça, mas é uma bagunça ORGANIZADA (confia)",
+          "points": {
+            "vania": 0.8
+          }
+        },
+        {
+          "text": "🧹  Só limpo quando alguém avisa que vai visitar",
+          "points": {
+            "vania": 0.9,
+            "castelo": 0.2
+          }
+        },
+        {
+          "text": "🗿  Nada se move sem a minha autorização expressa",
+          "points": {
+            "castelo": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Num churrasco de família, você é o(a)...",
+      "answers": [
+        {
+          "text": "🍷  O anfitrião imponente que serve vinho e faz discursos",
+          "points": {
+            "castelo": 0.9
+          }
+        },
+        {
+          "text": "🥩  O que come a carne direto da tábua antes de todos chegarem",
+          "points": {
+            "vania": 0.9
+          }
+        },
+        {
+          "text": "🍖  O que fica procurando carne escondida atrás da parede da piscina",
+          "points": {
+            "vania": 0.9
+          }
+        },
+        {
+          "text": "🎻  O que escolheu a trilha sonora orquestral do churrasco",
+          "points": {
+            "castelo": 0.7,
+            "vania": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Alguém manda \"oi, sumido(a)\". Você...",
+      "answers": [
+        {
+          "text": "🦇  Desapareço por mais 300 anos, é questão de princípio",
+          "points": {
+            "castelo": 0.8
+          }
+        },
+        {
+          "text": "😅  Respondo 3 dias depois com um meme sem contexto",
+          "points": {
+            "vania": 0.9
+          }
+        },
+        {
+          "text": "📜  Respondo com elegância, ainda que três semanas depois",
+          "points": {
+            "castelo": 0.7,
+            "vania": 0.4
+          }
+        },
+        {
+          "text": "🐶  Mando áudio de 7 minutos narrando minha vida",
+          "points": {
+            "vania": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua playlist ideal:",
+      "answers": [
+        {
+          "text": "🎻  Ópera, clássicos e coral gregoriano",
+          "points": {
+            "castelo": 0.9
+          }
+        },
+        {
+          "text": "🎸  Metal sinfônico (ou seja: os dois lados brigando)",
+          "points": {
+            "castelo": 0.5,
+            "vania": 0.5
+          }
+        },
+        {
+          "text": "🥁  Funk 150 BPM no volume máximo às 7h da manhã",
+          "points": {
+            "vania": 0.9
+          }
+        },
+        {
+          "text": "🎲  Aleatória: Vivaldi seguido de paródia de anime",
+          "points": {
+            "vania": 0.8,
+            "castelo": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "Plano ideal de domingo:",
+      "answers": [
+        {
+          "text": "🏰  Ficar em casa, imponente, sem receber ninguém",
+          "points": {
+            "castelo": 0.9
+          }
+        },
+        {
+          "text": "🛋️  Maratonar série horizontal no sofá até esquecer meu nome",
+          "points": {
+            "vania": 0.8
+          }
+        },
+        {
+          "text": "🚶  Caminhada dramática ao pôr do sol, casaco esvoaçando",
+          "points": {
+            "castelo": 0.8,
+            "vania": 0.3
+          }
+        },
+        {
+          "text": "🍕  Ligar 5 vezes pra pizzaria mudando o pedido",
+          "points": {
+            "vania": 0.9
+          }
+        }
+      ]
+    },
+    {
+      "question": "Recebe uma crítica. Primeira reação:",
+      "answers": [
+        {
+          "text": "⚔️  Desafio a pessoa para um duelo de honra ao amanhecer",
+          "points": {
+            "castelo": 0.9
+          }
+        },
+        {
+          "text": "😂  Dou risada e esqueço em 4 minutos",
+          "points": {
+            "vania": 0.9
+          }
+        },
+        {
+          "text": "📓  Registro mentalmente numa listinha para a eternidade",
+          "points": {
+            "castelo": 0.8
+          }
+        },
+        {
+          "text": "🤪  Concordo e pioro o comportamento de propósito",
+          "points": {
+            "vania": 0.9,
+            "castelo": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual bicho te representa?",
+      "answers": [
+        {
+          "text": "🐈‍⬛  Gato preto: elegante, julga todos, aparece do nada",
+          "points": {
+            "castelo": 0.9
+          }
+        },
+        {
+          "text": "🐕  Cachorro que derruba tudo e se arrepende de nada",
+          "points": {
+            "vania": 0.9
+          }
+        },
+        {
+          "text": "🦇  Morcego: teoricamente os dois, na prática nenhum",
+          "points": {
+            "castelo": 0.5,
+            "vania": 0.5
+          }
+        },
+        {
+          "text": "🐟  Peixe dourado: faço o que dá na telha, memória curta",
+          "points": {
+            "vania": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você chega numa festa?",
+      "answers": [
+        {
+          "text": "🚪  Entrada dramática, capa invisível esvoaçando",
+          "points": {
+            "castelo": 0.9
+          }
+        },
+        {
+          "text": "🪟  Entro pela janela porque a porta era óbvia demais",
+          "points": {
+            "vania": 0.9
+          }
+        },
+        {
+          "text": "🍽️  Vou direto na comida, socializar é opcional",
+          "points": {
+            "vania": 0.8,
+            "castelo": 0.3
+          }
+        },
+        {
+          "text": "👑  Cumprimento um a um com reverência imperial",
+          "points": {
+            "castelo": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua relação com regras:",
+      "answers": [
+        {
+          "text": "📜  As regras existem para me servir",
+          "points": {
+            "castelo": 0.9
+          }
+        },
+        {
+          "text": "🚫  Regras são sugestões de pessoas sem imaginação",
+          "points": {
+            "vania": 0.9
+          }
+        },
+        {
+          "text": "🗿  Respeito todas... enquanto julgo silenciosamente",
+          "points": {
+            "castelo": 0.8,
+            "vania": 0.3
+          }
+        },
+        {
+          "text": "🌀  Só descubro que existiam quando já quebrei todas",
+          "points": {
+            "vania": 0.9
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "castelo": {
+      "title": "CASTELO 🏰",
+      "emoji": "🏰",
+      "subtitle": "Você é 100% Castelo",
+      "text": "Você não entra nos lugares — VOCÊ SE ERGE sobre eles. Dramático(a), elegante e imponente, você transforma ida ao mercado em cena de ópera. Suas velas são aromáticas, suas opiniões são fatos e sua entrada em qualquer grupo chat merece trilha sonora orquestral. Os outros te acham intenso(a). Os outros estão corretos. Que os deuses tenham piedade de quem te mandou um \"oi sumido\"."
+    },
+    "vania": {
+      "title": "VÂNIA 🦇",
+      "emoji": "🦇",
+      "subtitle": "Você é 100% Vânia",
+      "text": "Você é o caos que o Castelo tentou conter e desistiu. Caótico(a), imprevisível e absolutamente sem vergonha, você vive como se o jogo não tivesse save: come a carne da parede, responde meme em funeral e quebra regras que nem sabia que existiam. A sociedade te chama de desorganizado(a). Você chama de 'gameplay alternativo'. E no fundo, até o Dracula te respeita — de longe, por precaução."
+    }
+  }
+}
