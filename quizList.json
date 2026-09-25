@@ -679,6 +679,11 @@
       "name": "Qual Vídeo da Home do YouTube Mais Te Representa?",
       "file": "quizzes/quizHomeYoutube.json",
       "description": "O algoritmo já decidiu quem você é. Só falta você aceitar."
+    },
+    {
+      "name": "Você é mais CASTELO ou mais VÂNIA?",
+      "file": "quizzes/quizCasteloOuVania.json",
+      "description": "40 anos de Castlevania e a única pergunta que importa: drama gótico ou caos absoluto? 🏰🦇"
     }
   ]
 }
