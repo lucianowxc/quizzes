@@ -1,0 +1,317 @@
+{
+  "title": "Quem é você na seção eleitoral?",
+  "subtitle": "Descubra seu papel e personalidade no dia do primeiro turno",
+  "questions": [
+    {
+      "question": "Qual é seu papel no dia da eleição?",
+      "answers": [
+        {
+          "text": "🎖️ Sou mesário (trabalho na mesa)",
+          "points": {
+            "presidente": 0.8,
+            "primeiro_mesario": 0.7,
+            "segundo_mesario": 0.7,
+            "secretario": 0.7
+          }
+        },
+        {
+          "text": "👁️ Sou fiscal de corredor (observo)",
+          "points": {
+            "fiscal_corredor": 0.9
+          }
+        },
+        {
+          "text": "🗳️ Sou eleitor (vou votar)",
+          "points": {
+            "apressado": 0.3,
+            "questionador": 0.3,
+            "participativo": 0.3,
+            "influenciador": 0.3,
+            "ansioso": 0.3,
+            "problematico": 0.2
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você enfrenta situações de pressão ou responsabilidade?",
+      "answers": [
+        {
+          "text": "📋 Com rigor total — preciso fazer tudo certinho",
+          "points": {
+            "presidente": 0.8,
+            "primeiro_mesario": 0.8,
+            "fiscal_corredor": 0.6,
+            "ansioso": 0.7
+          }
+        },
+        {
+          "text": "😄 Com bom humor — deixo leve mas funciona",
+          "points": {
+            "segundo_mesario": 0.9,
+            "participativo": 0.7,
+            "influenciador": 0.5
+          }
+        },
+        {
+          "text": "⏱️ Com pressa — só quero terminar",
+          "points": {
+            "secretario": 0.9,
+            "apressado": 0.8
+          }
+        },
+        {
+          "text": "🤔 Questionando — preciso entender por quê",
+          "points": {
+            "questionador": 0.8,
+            "problematico": 0.5
+          }
+        },
+        {
+          "text": "📱 Documentando — vou registrar tudo",
+          "points": {
+            "influenciador": 0.8,
+            "fiscal_corredor": 0.3
+          }
+        }
+      ]
+    },
+    {
+      "question": "O que você mais se preocupa no dia da eleição?",
+      "answers": [
+        {
+          "text": "😰 Que tudo saia perfeito — a responsabilidade pesa",
+          "points": {
+            "presidente": 0.7,
+            "ansioso": 0.9,
+            "primeiro_mesario": 0.6
+          }
+        },
+        {
+          "text": "🔍 Que alguém tente furar as regras",
+          "points": {
+            "fiscal_corredor": 0.8,
+            "questionador": 0.5,
+            "problematico": 0.4
+          }
+        },
+        {
+          "text": "⏰ Que demore muito — tenho coisas a fazer",
+          "points": {
+            "apressado": 0.8,
+            "secretario": 0.7
+          }
+        },
+        {
+          "text": "🙂 De verdade? Com nada — deixa rolar",
+          "points": {
+            "segundo_mesario": 0.8,
+            "participativo": 0.6
+          }
+        },
+        {
+          "text": "💭 Com as consequências políticas — isso é importante",
+          "points": {
+            "questionador": 0.7,
+            "participativo": 0.7,
+            "influenciador": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com procedimentos, formulários e protocolos?",
+      "answers": [
+        {
+          "text": "📝 Respeito à risca — cada passo em ordem",
+          "points": {
+            "presidente": 0.7,
+            "primeiro_mesario": 0.8,
+            "fiscal_corredor": 0.7,
+            "ansioso": 0.5
+          }
+        },
+        {
+          "text": "😊 Sigo, mas com jogo de cintura",
+          "points": {
+            "segundo_mesario": 0.8,
+            "participativo": 0.7,
+            "influenciador": 0.4
+          }
+        },
+        {
+          "text": "🚀 Tomo atalhos quando possível — é mais rápido",
+          "points": {
+            "secretario": 0.8,
+            "apressado": 0.7
+          }
+        },
+        {
+          "text": "❓ Questiono se aquilo faz sentido",
+          "points": {
+            "questionador": 0.8,
+            "problematico": 0.7,
+            "fiscal_corredor": 0.3
+          }
+        },
+        {
+          "text": "📱 Documento cada detalhe — pode virar conteúdo",
+          "points": {
+            "influenciador": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual é seu nível de paciência quando alguém não entende na primeira?",
+      "answers": [
+        {
+          "text": "🙏 Infinita — explico quantas vezes for preciso",
+          "points": {
+            "presidente": 0.6,
+            "participativo": 0.8,
+            "segundo_mesario": 0.7
+          }
+        },
+        {
+          "text": "😐 Explico rápido e tchau — tem fila",
+          "points": {
+            "secretario": 0.8,
+            "apressado": 0.8,
+            "primeiro_mesario": 0.4
+          }
+        },
+        {
+          "text": "🔍 Ensino direitinho — é importante",
+          "points": {
+            "primeiro_mesario": 0.7,
+            "fiscal_corredor": 0.7,
+            "ansioso": 0.5
+          }
+        },
+        {
+          "text": "😤 Fico irritado — por que não presta atenção?",
+          "points": {
+            "problematico": 0.8,
+            "questionador": 0.3
+          }
+        },
+        {
+          "text": "📱 Deixo ele ver um vídeo meu explicando",
+          "points": {
+            "influenciador": 0.8
+          }
+        }
+      ]
+    },
+    {
+      "question": "Como você se sente vendo democracia acontecer de verdade?",
+      "answers": [
+        {
+          "text": "🇧🇷 Honrado/a — é uma responsabilidade sagrada",
+          "points": {
+            "presidente": 0.8,
+            "ansioso": 0.7,
+            "participativo": 0.6,
+            "fiscal_corredor": 0.5
+          }
+        },
+        {
+          "text": "😌 Satisfeito/a — fiz minha parte",
+          "points": {
+            "segundo_mesario": 0.8,
+            "apressado": 0.6,
+            "participativo": 0.7
+          }
+        },
+        {
+          "text": "😓 Cansado/a — que bom que vou descansar",
+          "points": {
+            "secretario": 0.8
+          }
+        },
+        {
+          "text": "⚡ Frustrado/a — tanta coisa poderia ser diferente",
+          "points": {
+            "problematico": 0.9,
+            "questionador": 0.7
+          }
+        },
+        {
+          "text": "📸 Feliz demais — isso vai bombar nas redes",
+          "points": {
+            "influenciador": 0.8
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "presidente": {
+      "title": "🎖️ Presidente da Mesa",
+      "emoji": "🎖️",
+      "subtitle": "O guardião das regras",
+      "text": "Você é responsável, meticuloso e leva a democracia muito a sério. Cada procedimento é executado à risca, cada formulário preenchido com precisão. Os eleitores podem reclamar da fila, mas podem confiar que o processo está nas melhores mãos. Você dorme tranquilo sabendo que fez seu dever com perfeição. A pressão é real, mas você foi feito para isso."
+    },
+    "primeiro_mesario": {
+      "title": "🎯 Primeiro Mesário",
+      "emoji": "🎯",
+      "subtitle": "O detalhista que faz acontecer",
+      "text": "Você é diligente, atencioso e conhece cada detalhe do processo eleitoral como ninguém. Enquanto o presidente supervisa, você é o executador que garante que nada passa em branco. Um eleitor tentou usar uma caneta errada? Você detectou. Uma assinatura fora do lugar? Seus olhos estão lá. Você é o braço direito do presidente e sente o peso disso — mas também orgulho de fazer tudo perfeito."
+    },
+    "segundo_mesario": {
+      "title": "😄 Segundo Mesário",
+      "emoji": "😄",
+      "subtitle": "O descontraído que agiliza",
+      "text": "Você sabe que o processo é importante, mas não deixa isso estragar o clima. Com bom humor e jogo de cintura, você torna a espera menos árida para os eleitores enquanto mantém tudo funcionando. Não é irresponsável — é só que entende que democracia também pode ser levinha. Seus colegas às vezes acham que você não leva a sério, mas você sempre entrega. Vocês trabalham bem juntos porque equilibra a tensão."
+    },
+    "secretario": {
+      "title": "⏱️ Secretário da Mesa",
+      "emoji": "⏱️",
+      "subtitle": "O que quer ir embora",
+      "text": "Você acordou cedo, deixou tudo em casa esperando por você, e quer terminar logo. Não é que não se importe — é que sua paciência tem limite. Cada minuto que passa é um minuto longe de casa. Você segue os protocolos, mas toma os atalhos permitidos. Os eleitores que chegam nos últimos 10 minutos podem ver um leve sinal de irritação nos seus olhos. Mas quando esse dia acaba, você dorme com a consciência tranquila e a certeza de que fez sua parte."
+    },
+    "fiscal_corredor": {
+      "title": "🔍 Fiscal de Corredor",
+      "emoji": "🔍",
+      "subtitle": "O vigia que conhece tudo",
+      "text": "Você está ali observando. Sabe cada regra, cada detalhe do protocolo, e ama cumpri-los. Se algo foge do script, seus olhos detectam. Você é imparcial, mas vigilante — não porque desconfie das pessoas, mas porque sabe que a integridade eleitoral depende justamente disso. Os mesários às vezes ficam incomodados com sua presença, mas no fundo sabem que você está ali para proteger a todos. Você é essencial, mesmo que invisível."
+    },
+    "apressado": {
+      "title": "🚀 Eleitor Apressado",
+      "emoji": "🚀",
+      "subtitle": "O que só quer ir embora",
+      "text": "Você chegou para votar, mas tem compromissos depois. Por favor, que a fila ande. Que os formulários sejam simples. Que ninguém faça perguntas. Você respeita o processo, mas não vai ficar ali admirando a democracia — já conhece. Entra, vota, sai. Rápido. Os mesários podem achar um pouco impaciente, mas você é gentil nessa pressa. Só quer cumprir seu direito sem esperar três horas pra isso."
+    },
+    "questionador": {
+      "title": "🤔 Eleitor Questionador",
+      "emoji": "🤔",
+      "subtitle": "O que sempre tem uma dúvida",
+      "text": "Você chegou para votar, mas tem perguntas. Por que aquele procedimento? Por que não pode usar caneta hidrocor? E se a urna travasse — como recupera o voto? Você não está sendo difícil — está genuinamente curioso e preocupado em entender. Os mesários alternam entre apreciar sua participação engajada e desejar que você votasse logo. Você nunca sairá dali 100% convencido de que tudo funcionou perfeitamente, mas vota mesmo assim."
+    },
+    "participativo": {
+      "title": "😊 Eleitor Participativo",
+      "emoji": "😊",
+      "subtitle": "O que entende e se importa",
+      "text": "Você chegou ciente de seu direito e seu dever. Observa o processo com respeito genuíno, segue as orientações e, se alguém fica perdido ao seu lado, ajuda sem ser pedido. Você sente o peso democrático dessa manhã — sabe que está participando de algo maior. Os mesários apreciam sua presença porque você torna o clima leve sem ser negligente. Você sai dali com a sensação de ter feito algo que importa."
+    },
+    "influenciador": {
+      "title": "📱 Eleitor Influenciador",
+      "emoji": "📱",
+      "subtitle": "O que documenta tudo",
+      "text": "Você não apenas votou — você documentou. Foto na fila, vídeo curto explicando o processo, selfie marcando como votante, registros de cada etapa. Não é para furar fila nem pra interferir — é porque acredita que mostrar democracia em ação é importante. Os mesários ficam um pouco incomodados com a câmera, mas você respeita as regras (áreas restritas, privacidade alheia). Sua audiência agora sabe exatamente como funciona uma seção eleitoral."
+    },
+    "ansioso": {
+      "title": "😰 Eleitor Ansioso",
+      "emoji": "😰",
+      "subtitle": "O que quer acertar",
+      "text": "Você chegou com a ansiedade a mil. E se errar o voto? E se a máquina não registrar? E se fizer algo errado sem querer? Você faz perguntas nervosas, dupla-verifica cada orientação, entra na cabine com o coração acelerado. Os mesários percebem isso e, geralmente, são pacientes — entendem o peso que essa decisão tem para você. Você sai dali aliviado, mas exaurido. Fez seu voto com honra, mas a ansiedade foi seu companheiro o tempo todo."
+    },
+    "problematico": {
+      "title": "⚡ Eleitor Problemático",
+      "emoji": "⚡",
+      "subtitle": "O que vem arranjar confusão",
+      "text": "Você chegou já com a intenção de causar — seja questionando agressivamente, seja duvidando de tudo, seja buscando um motivo para confronto. Pode ser frustração política genérica, desconfiança genuína nas instituições ou apenas um dia ruim multiplicado por muita gente. Os mesários estão cansados antes mesmo de você chegar. Você não é exatamente maligno, apenas explosivo. E seções eleitorais não são o lugar para esse tipo de energia. Fiscal e presidente já estão de olho em você."
+    }
+  }
+}
