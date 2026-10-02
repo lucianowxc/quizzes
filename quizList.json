@@ -684,6 +684,11 @@
       "name": "Você é mais CASTELO ou mais VÂNIA?",
       "file": "quizzes/quizCasteloOuVania.json",
       "description": "40 anos de Castlevania e a única pergunta que importa: drama gótico ou caos absoluto? 🏰🦇"
+    },
+    {
+      "name": "Quem é você na seção eleitoral?",
+      "file": "quizzes/secao_eleitoral_quiz.json",
+      "description": "Descubra seu papel e personalidade no dia do primeiro turno"
     }
   ]
 }
