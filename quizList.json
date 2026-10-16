@@ -689,6 +689,11 @@
       "name": "Quem é você na seção eleitoral?",
       "file": "quizzes/secao_eleitoral_quiz.json",
       "description": "Descubra seu papel e personalidade no dia do primeiro turno"
+    },
+    {
+      "name": "Qual lesão na coluna você seria?",
+      "file": "quizzes/quizQualLesaoColuna.json",
+      "description": "Dia Mundial da Coluna Vertebral: descubra seu vilão postural (e como despachá-lo)"
     }
   ]
 }
