@@ -5,92 +5,542 @@
     {
       "question": "Como você passa a maior parte do seu dia?",
       "answers": [
-        { "text": "Sentado de frente pro computador, virado numa estátua de escritório", "points": { "cervicalgia": 0.5, "hipercifose": 0.5 } },
-        { "text": "Em pé, carregando peso sempre do mesmo lado, como um carteiro de elite", "points": { "escoliose": 1 } },
-        { "text": "Correndo entre compromissos, a coluna pedindo socorro no caminho", "points": { "lombalgia": 0.5, "hernia": 0.5 } },
-        { "text": "Deitado no sofá, em modo maratona de série, sem levantar nem pra água", "points": { "hipercifose": 0.5, "lombalgia": 0.5 } }
-      ]
+        {
+          "text": "Sentado de frente pro computador, virado numa estátua de escritório",
+          "points": {
+            "cervicalgia": 0.104,
+            "hipercifose": 0.167,
+            "hernia": 0.0057,
+            "escoliose": 0.0068,
+            "lombalgia": 0.0056,
+            "estenose": 0.007,
+            "saudavel": 0.0045
+          }
+        },
+        {
+          "text": "Em pé, carregando peso sempre do mesmo lado, como um carteiro de elite",
+          "points": {
+            "escoliose": 0.2021,
+            "hernia": 0.0069,
+            "lombalgia": 0.0068,
+            "cervicalgia": 0.0087,
+            "hipercifose": 0.0081,
+            "estenose": 0.0086,
+            "saudavel": 0.0055
+          }
+        },
+        {
+          "text": "Correndo entre compromissos, a coluna pedindo socorro no caminho",
+          "points": {
+            "lombalgia": 0.0827,
+            "hernia": 0.1494,
+            "escoliose": 0.0077,
+            "cervicalgia": 0.0079,
+            "hipercifose": 0.0075,
+            "estenose": 0.008,
+            "saudavel": 0.005
+          }
+        },
+        {
+          "text": "Deitado no sofá, em modo maratona de série, sem levantar nem pra água",
+          "points": {
+            "hipercifose": 0.0976,
+            "lombalgia": 0.1431,
+            "hernia": 0.0063,
+            "escoliose": 0.0075,
+            "cervicalgia": 0.0077,
+            "estenose": 0.0077,
+            "saudavel": 0.0049
+          }
+        }
+      ],
+      "id": "q0"
     },
     {
       "question": "Onde o seu celular costuma ficar?",
       "answers": [
-        { "text": "Olhando pra baixo, com o queixo quase no peito, tipo um pinguim pensativo", "points": { "cervicalgia": 1 } },
-        { "text": "Na mão, em qualquer posição possível, até deitado de lado num ângulo de circo", "points": { "hipercifose": 0.5, "escoliose": 0.5 } },
-        { "text": "Sentado em cima dele sem perceber, e aí o celular vira o protagonista da dor", "points": { "lombalgia": 1 } },
-        { "text": "Longe, na mesa, e eu só levanto pra pegar quando toca. Respeito o aparelho", "points": { "saudavel": 1 } }
-      ]
+        {
+          "text": "Olhando pra baixo, com o queixo quase no peito, tipo um pinguim pensativo",
+          "points": {
+            "cervicalgia": 0.2061,
+            "hernia": 0.0069,
+            "escoliose": 0.0082,
+            "lombalgia": 0.0067,
+            "hipercifose": 0.0081,
+            "estenose": 0.0085,
+            "saudavel": 0.0055
+          }
+        },
+        {
+          "text": "Na mão, em qualquer posição possível, até deitado de lado num ângulo de circo",
+          "points": {
+            "hipercifose": 0.0976,
+            "escoliose": 0.1747,
+            "hernia": 0.0057,
+            "lombalgia": 0.0055,
+            "cervicalgia": 0.007,
+            "estenose": 0.007,
+            "saudavel": 0.0044
+          }
+        },
+        {
+          "text": "Sentado em cima dele sem perceber, e aí o celular vira o protagonista da dor",
+          "points": {
+            "lombalgia": 0.1638,
+            "hernia": 0.0081,
+            "escoliose": 0.0096,
+            "cervicalgia": 0.0099,
+            "hipercifose": 0.0093,
+            "estenose": 0.0099,
+            "saudavel": 0.0061
+          }
+        },
+        {
+          "text": "Longe, na mesa, e eu só levanto pra pegar quando toca. Respeito o aparelho",
+          "points": {
+            "saudavel": 0.1288,
+            "hernia": 0.0094,
+            "escoliose": 0.0113,
+            "lombalgia": 0.0091,
+            "cervicalgia": 0.0115,
+            "hipercifose": 0.0107,
+            "estenose": 0.0113
+          }
+        }
+      ],
+      "id": "q1"
     },
     {
       "question": "Como você pega uma caixa que caiu no chão?",
       "answers": [
-        { "text": "Dobro as costas e puxo com força, como se o chão tivesse me desafiado", "points": { "hernia": 1 } },
-        { "text": "Agacho, mantenho a coluna reta e levanto com as pernas, tipo atleta olímpico", "points": { "saudavel": 1 } },
-        { "text": "Pego com uma mão só, torcendo o tronco, como se fosse uma dança improvisada", "points": { "escoliose": 0.5, "hernia": 0.5 } },
-        { "text": "Peço pra alguém pegar, minha coluna tem um histórico de drama", "points": { "lombalgia": 0.5, "estenose": 0.5 } }
-      ]
+        {
+          "text": "Dobro as costas e puxo com força, como se o chão tivesse me desafiado",
+          "points": {
+            "hernia": 0.17,
+            "escoliose": 0.0095,
+            "lombalgia": 0.0076,
+            "cervicalgia": 0.0097,
+            "hipercifose": 0.0091,
+            "estenose": 0.0097,
+            "saudavel": 0.0061
+          }
+        },
+        {
+          "text": "Agacho, mantenho a coluna reta e levanto com as pernas, tipo atleta olímpico",
+          "points": {
+            "saudavel": 0.1288,
+            "hernia": 0.0094,
+            "escoliose": 0.0113,
+            "lombalgia": 0.0091,
+            "cervicalgia": 0.0115,
+            "hipercifose": 0.0107,
+            "estenose": 0.0113
+          }
+        },
+        {
+          "text": "Pego com uma mão só, torcendo o tronco, como se fosse uma dança improvisada",
+          "points": {
+            "escoliose": 0.102,
+            "hernia": 0.1452,
+            "lombalgia": 0.0059,
+            "cervicalgia": 0.0075,
+            "hipercifose": 0.007,
+            "estenose": 0.0075,
+            "saudavel": 0.0047
+          }
+        },
+        {
+          "text": "Peço pra alguém pegar, minha coluna tem um histórico de drama",
+          "points": {
+            "lombalgia": 0.0827,
+            "estenose": 0.1786,
+            "hernia": 0.0059,
+            "escoliose": 0.007,
+            "cervicalgia": 0.0072,
+            "hipercifose": 0.0068,
+            "saudavel": 0.0046
+          }
+        }
+      ],
+      "id": "q2"
     },
     {
       "question": "Quanto tempo você fica sem se mexer?",
       "answers": [
-        { "text": "Mais de quatro horas seguidas, já virei parte da cadeira", "points": { "hipercifose": 0.5, "cervicalgia": 0.5 } },
-        { "text": "Umas duas horas, mas eu me levanto pro café (e pra fingir que trabalho)", "points": { "saudavel": 0.5, "lombalgia": 0.5 } },
-        { "text": "Do despertar até dormir, sou uma estátua de museu sem visitação", "points": { "estenose": 0.5, "hipercifose": 0.5 } },
-        { "text": "Me levanto a cada 50 minutos, sou atleta oficial do alongamento", "points": { "saudavel": 1 } }
-      ]
+        {
+          "text": "Mais de quatro horas seguidas, já virei parte da cadeira",
+          "points": {
+            "hipercifose": 0.0976,
+            "cervicalgia": 0.1774,
+            "hernia": 0.0056,
+            "escoliose": 0.0067,
+            "lombalgia": 0.0056,
+            "estenose": 0.007,
+            "saudavel": 0.0045
+          }
+        },
+        {
+          "text": "Umas duas horas, mas eu me levanto pro café (e pra fingir que trabalho)",
+          "points": {
+            "saudavel": 0.0651,
+            "lombalgia": 0.1429,
+            "hernia": 0.0069,
+            "escoliose": 0.0085,
+            "cervicalgia": 0.0087,
+            "hipercifose": 0.0081,
+            "estenose": 0.0086
+          }
+        },
+        {
+          "text": "Do despertar até dormir, sou uma estátua de museu sem visitação",
+          "points": {
+            "estenose": 0.1031,
+            "hipercifose": 0.1674,
+            "hernia": 0.0057,
+            "escoliose": 0.0069,
+            "lombalgia": 0.0056,
+            "cervicalgia": 0.0071,
+            "saudavel": 0.0045
+          }
+        },
+        {
+          "text": "Me levanto a cada 50 minutos, sou atleta oficial do alongamento",
+          "points": {
+            "saudavel": 0.1288,
+            "hernia": 0.0094,
+            "escoliose": 0.0113,
+            "lombalgia": 0.0091,
+            "cervicalgia": 0.0115,
+            "hipercifose": 0.0107,
+            "estenose": 0.0113
+          }
+        }
+      ],
+      "id": "q3"
     },
     {
       "question": "Como você costuma dormir?",
       "answers": [
-        { "text": "De bruços, com um braço embaixo do travesseiro, em posição de nadador cansado", "points": { "cervicalgia": 1 } },
-        { "text": "De lado, com um travesseiro entre os joelhos, tipo príncipe do descanso", "points": { "saudavel": 1 } },
-        { "text": "De barriga pra cima, parecendo uma múmia de museu egípcio", "points": { "lombalgia": 0.5, "estenose": 0.5 } },
-        { "text": "Em qualquer lugar, geralmente torto no sofá, com a coluna em forma de letra S", "points": { "escoliose": 0.5, "hernia": 0.5 } }
-      ]
+        {
+          "text": "De bruços, com um braço embaixo do travesseiro, em posição de nadador cansado",
+          "points": {
+            "cervicalgia": 0.2061,
+            "hernia": 0.0069,
+            "escoliose": 0.0082,
+            "lombalgia": 0.0067,
+            "hipercifose": 0.0081,
+            "estenose": 0.0085,
+            "saudavel": 0.0055
+          }
+        },
+        {
+          "text": "De lado, com um travesseiro entre os joelhos, tipo príncipe do descanso",
+          "points": {
+            "saudavel": 0.1288,
+            "hernia": 0.0094,
+            "escoliose": 0.0113,
+            "lombalgia": 0.0091,
+            "cervicalgia": 0.0115,
+            "hipercifose": 0.0107,
+            "estenose": 0.0113
+          }
+        },
+        {
+          "text": "De barriga pra cima, parecendo uma múmia de museu egípcio",
+          "points": {
+            "lombalgia": 0.0827,
+            "estenose": 0.1786,
+            "hernia": 0.0059,
+            "escoliose": 0.007,
+            "cervicalgia": 0.0072,
+            "hipercifose": 0.0068,
+            "saudavel": 0.0046
+          }
+        },
+        {
+          "text": "Em qualquer lugar, geralmente torto no sofá, com a coluna em forma de letra S",
+          "points": {
+            "escoliose": 0.102,
+            "hernia": 0.1452,
+            "lombalgia": 0.0059,
+            "cervicalgia": 0.0075,
+            "hipercifose": 0.007,
+            "estenose": 0.0075,
+            "saudavel": 0.0047
+          }
+        }
+      ],
+      "id": "q4"
     },
     {
       "question": "Quantos anos tem o seu colchão?",
       "answers": [
-        { "text": "Herdei do meu avô, ele já tem mais histórias que a família toda", "points": { "estenose": 1 } },
-        { "text": "Comprei em 2011 e ainda acho que é novo, do jeito que a fé é novinha", "points": { "lombalgia": 0.5, "hernia": 0.5 } },
-        { "text": "Tem uma depressão no meio que parece um ninho de pássaro gigante", "points": { "escoliose": 0.5, "lombalgia": 0.5 } },
-        { "text": "Troquei no ano passado, sou prevenido e meu colchão é um atleta de elite", "points": { "saudavel": 1 } }
-      ]
+        {
+          "text": "Herdei do meu avô, ele já tem mais histórias que a família toda",
+          "points": {
+            "estenose": 0.2043,
+            "hernia": 0.0069,
+            "escoliose": 0.0083,
+            "lombalgia": 0.0067,
+            "cervicalgia": 0.0086,
+            "hipercifose": 0.0081,
+            "saudavel": 0.0055
+          }
+        },
+        {
+          "text": "Comprei em 2011 e ainda acho que é novo, do jeito que a fé é novinha",
+          "points": {
+            "lombalgia": 0.0827,
+            "hernia": 0.1494,
+            "escoliose": 0.0077,
+            "cervicalgia": 0.0079,
+            "hipercifose": 0.0075,
+            "estenose": 0.008,
+            "saudavel": 0.005
+          }
+        },
+        {
+          "text": "Tem uma depressão no meio que parece um ninho de pássaro gigante",
+          "points": {
+            "escoliose": 0.102,
+            "lombalgia": 0.141,
+            "hernia": 0.0063,
+            "cervicalgia": 0.0076,
+            "hipercifose": 0.0072,
+            "estenose": 0.0077,
+            "saudavel": 0.0049
+          }
+        },
+        {
+          "text": "Troquei no ano passado, sou prevenido e meu colchão é um atleta de elite",
+          "points": {
+            "saudavel": 0.1288,
+            "hernia": 0.0094,
+            "escoliose": 0.0113,
+            "lombalgia": 0.0091,
+            "cervicalgia": 0.0115,
+            "hipercifose": 0.0107,
+            "estenose": 0.0113
+          }
+        }
+      ],
+      "id": "q5"
     },
     {
       "question": "Quando a dor nas costas aparece, o que você faz?",
       "answers": [
-        { "text": "Tomo um analgésico e finjo que passou, como um grande ator", "points": { "lombalgia": 1 } },
-        { "text": "Deito no chão duro e espero o tempo resolver o que eu mesmo causei", "points": { "hernia": 0.5, "estenose": 0.5 } },
-        { "text": "Pesquiso no Google e já me diagnostico com três doenças raras", "points": { "hipercifose": 0.5, "cervicalgia": 0.5 } },
-        { "text": "Procuro um profissional e aprendo o que estou fazendo errado, sem drama", "points": { "saudavel": 1 } }
-      ]
+        {
+          "text": "Tomo um analgésico e finjo que passou, como um grande ator",
+          "points": {
+            "lombalgia": 0.1638,
+            "hernia": 0.0081,
+            "escoliose": 0.0096,
+            "cervicalgia": 0.0099,
+            "hipercifose": 0.0093,
+            "estenose": 0.0099,
+            "saudavel": 0.0061
+          }
+        },
+        {
+          "text": "Deito no chão duro e espero o tempo resolver o que eu mesmo causei",
+          "points": {
+            "hernia": 0.0858,
+            "estenose": 0.1817,
+            "escoliose": 0.0068,
+            "lombalgia": 0.0056,
+            "cervicalgia": 0.0071,
+            "hipercifose": 0.0067,
+            "saudavel": 0.0045
+          }
+        },
+        {
+          "text": "Pesquiso no Google e já me diagnostico com três doenças raras",
+          "points": {
+            "hipercifose": 0.0976,
+            "cervicalgia": 0.1774,
+            "hernia": 0.0056,
+            "escoliose": 0.0067,
+            "lombalgia": 0.0056,
+            "estenose": 0.007,
+            "saudavel": 0.0045
+          }
+        },
+        {
+          "text": "Procuro um profissional e aprendo o que estou fazendo errado, sem drama",
+          "points": {
+            "saudavel": 0.1288,
+            "hernia": 0.0094,
+            "escoliose": 0.0113,
+            "lombalgia": 0.0091,
+            "cervicalgia": 0.0115,
+            "hipercifose": 0.0107,
+            "estenose": 0.0113
+          }
+        }
+      ],
+      "id": "q6"
     },
     {
       "question": "E essa história de pilates ou natação?",
       "answers": [
-        { "text": "Já tentei, desisti na primeira aula, a coluna ainda me manda cartas", "points": { "hipercifose": 1 } },
-        { "text": "Faço pilates toda semana e adoro sentir o corpo alinhado como um prumo", "points": { "saudavel": 1 } },
-        { "text": "Acho que é coisa de quem já tem coluna ruim, eu sou só curioso", "points": { "escoliose": 0.5, "hernia": 0.5 } },
-        { "text": "Natação? Só se for com boia, cadeira de praia e um bom guarda-sol", "points": { "estenose": 1 } }
-      ]
+        {
+          "text": "Já tentei, desisti na primeira aula, a coluna ainda me manda cartas",
+          "points": {
+            "hipercifose": 0.1932,
+            "hernia": 0.0073,
+            "escoliose": 0.0086,
+            "lombalgia": 0.0071,
+            "cervicalgia": 0.0089,
+            "estenose": 0.0089,
+            "saudavel": 0.0057
+          }
+        },
+        {
+          "text": "Faço pilates toda semana e adoro sentir o corpo alinhado como um prumo",
+          "points": {
+            "saudavel": 0.1288,
+            "hernia": 0.0094,
+            "escoliose": 0.0113,
+            "lombalgia": 0.0091,
+            "cervicalgia": 0.0115,
+            "hipercifose": 0.0107,
+            "estenose": 0.0113
+          }
+        },
+        {
+          "text": "Acho que é coisa de quem já tem coluna ruim, eu sou só curioso",
+          "points": {
+            "escoliose": 0.102,
+            "hernia": 0.1452,
+            "lombalgia": 0.0059,
+            "cervicalgia": 0.0075,
+            "hipercifose": 0.007,
+            "estenose": 0.0075,
+            "saudavel": 0.0047
+          }
+        },
+        {
+          "text": "Natação? Só se for com boia, cadeira de praia e um bom guarda-sol",
+          "points": {
+            "estenose": 0.2043,
+            "hernia": 0.0069,
+            "escoliose": 0.0083,
+            "lombalgia": 0.0067,
+            "cervicalgia": 0.0086,
+            "hipercifose": 0.0081,
+            "saudavel": 0.0055
+          }
+        }
+      ],
+      "id": "q7"
     },
     {
       "question": "Se você olhar sua postura de lado no espelho, o que vê?",
       "answers": [
-        { "text": "Ombros pra frente e cabeça projetada pro monitor, tipo um tartaruga curiosa", "points": { "cervicalgia": 0.5, "hipercifose": 0.5 } },
-        { "text": "Um ombro mais alto que o outro, a balança do corpo tá desequilibrada", "points": { "escoliose": 1 } },
-        { "text": "Nunca olhei, mas tenho uma postura de sucesso (segundo a minha opinião)", "points": { "hernia": 0.5, "lombalgia": 0.5 } },
-        { "text": "Olho de vez em quando e corrijo na hora, como um mestre do espelho", "points": { "saudavel": 1 } }
-      ]
+        {
+          "text": "Ombros pra frente e cabeça projetada pro monitor, tipo um tartaruga curiosa",
+          "points": {
+            "cervicalgia": 0.104,
+            "hipercifose": 0.167,
+            "hernia": 0.0057,
+            "escoliose": 0.0068,
+            "lombalgia": 0.0056,
+            "estenose": 0.007,
+            "saudavel": 0.0045
+          }
+        },
+        {
+          "text": "Um ombro mais alto que o outro, a balança do corpo tá desequilibrada",
+          "points": {
+            "escoliose": 0.2021,
+            "hernia": 0.0069,
+            "lombalgia": 0.0068,
+            "cervicalgia": 0.0087,
+            "hipercifose": 0.0081,
+            "estenose": 0.0086,
+            "saudavel": 0.0055
+          }
+        },
+        {
+          "text": "Nunca olhei, mas tenho uma postura de sucesso (segundo a minha opinião)",
+          "points": {
+            "hernia": 0.0858,
+            "lombalgia": 0.1487,
+            "escoliose": 0.0076,
+            "cervicalgia": 0.0078,
+            "hipercifose": 0.0073,
+            "estenose": 0.0079,
+            "saudavel": 0.005
+          }
+        },
+        {
+          "text": "Olho de vez em quando e corrijo na hora, como um mestre do espelho",
+          "points": {
+            "saudavel": 0.1288,
+            "hernia": 0.0094,
+            "escoliose": 0.0113,
+            "lombalgia": 0.0091,
+            "cervicalgia": 0.0115,
+            "hipercifose": 0.0107,
+            "estenose": 0.0113
+          }
+        }
+      ],
+      "id": "q8"
     },
     {
       "question": "E hoje, Dia Mundial da Coluna Vertebral, o que você vai fazer?",
       "answers": [
-        { "text": "Marcar uma avaliação com o fisioterapeuta ou ortopedista, feito gente grande", "points": { "saudavel": 1 } },
-        { "text": "Compartilhar este quiz e fingir que não é comigo, com cara de inocente", "points": { "hipercifose": 0.5, "cervicalgia": 0.5 } },
-        { "text": "Pensar em começar a me cuidar amanhã, de novo, como todo ano", "points": { "estenose": 0.5, "hernia": 0.5 } },
-        { "text": "Me alongar agora mesmo, ainda sentado na cadeira, sem ninguém vendo", "points": { "saudavel": 0.5, "escoliose": 0.5 } }
-      ]
+        {
+          "text": "Marcar uma avaliação com o fisioterapeuta ou ortopedista, feito gente grande",
+          "points": {
+            "saudavel": 0.1288,
+            "hernia": 0.0094,
+            "escoliose": 0.0113,
+            "lombalgia": 0.0091,
+            "cervicalgia": 0.0115,
+            "hipercifose": 0.0107,
+            "estenose": 0.0113
+          }
+        },
+        {
+          "text": "Compartilhar este quiz e fingir que não é comigo, com cara de inocente",
+          "points": {
+            "hipercifose": 0.0976,
+            "cervicalgia": 0.1774,
+            "hernia": 0.0056,
+            "escoliose": 0.0067,
+            "lombalgia": 0.0056,
+            "estenose": 0.007,
+            "saudavel": 0.0045
+          }
+        },
+        {
+          "text": "Pensar em começar a me cuidar amanhã, de novo, como todo ano",
+          "points": {
+            "estenose": 0.1031,
+            "hernia": 0.1475,
+            "escoliose": 0.0072,
+            "lombalgia": 0.006,
+            "cervicalgia": 0.0075,
+            "hipercifose": 0.0071,
+            "saudavel": 0.0048
+          }
+        },
+        {
+          "text": "Me alongar agora mesmo, ainda sentado na cadeira, sem ninguém vendo",
+          "points": {
+            "saudavel": 0.0651,
+            "escoliose": 0.1759,
+            "hernia": 0.0062,
+            "lombalgia": 0.006,
+            "cervicalgia": 0.0077,
+            "hipercifose": 0.0072,
+            "estenose": 0.0077
+          }
+        }
+      ],
+      "id": "q9"
     }
   ],
   "descriptions": {
