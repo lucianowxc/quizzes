@@ -1,0 +1,140 @@
+{
+  "title": "Qual lesão na coluna você seria?",
+  "subtitle": "Dia Mundial da Coluna Vertebral: descubra seu vilão postural (e como despachá-lo)",
+  "questions": [
+    {
+      "question": "Como você passa a maior parte do seu dia?",
+      "answers": [
+        { "text": "Sentado de frente pro computador, virado numa estátua de escritório", "points": { "cervicalgia": 0.5, "hipercifose": 0.5 } },
+        { "text": "Em pé, carregando peso sempre do mesmo lado, como um carteiro de elite", "points": { "escoliose": 1 } },
+        { "text": "Correndo entre compromissos, a coluna pedindo socorro no caminho", "points": { "lombalgia": 0.5, "hernia": 0.5 } },
+        { "text": "Deitado no sofá, em modo maratona de série, sem levantar nem pra água", "points": { "hipercifose": 0.5, "lombalgia": 0.5 } }
+      ]
+    },
+    {
+      "question": "Onde o seu celular costuma ficar?",
+      "answers": [
+        { "text": "Olhando pra baixo, com o queixo quase no peito, tipo um pinguim pensativo", "points": { "cervicalgia": 1 } },
+        { "text": "Na mão, em qualquer posição possível, até deitado de lado num ângulo de circo", "points": { "hipercifose": 0.5, "escoliose": 0.5 } },
+        { "text": "Sentado em cima dele sem perceber, e aí o celular vira o protagonista da dor", "points": { "lombalgia": 1 } },
+        { "text": "Longe, na mesa, e eu só levanto pra pegar quando toca. Respeito o aparelho", "points": { "saudavel": 1 } }
+      ]
+    },
+    {
+      "question": "Como você pega uma caixa que caiu no chão?",
+      "answers": [
+        { "text": "Dobro as costas e puxo com força, como se o chão tivesse me desafiado", "points": { "hernia": 1 } },
+        { "text": "Agacho, mantenho a coluna reta e levanto com as pernas, tipo atleta olímpico", "points": { "saudavel": 1 } },
+        { "text": "Pego com uma mão só, torcendo o tronco, como se fosse uma dança improvisada", "points": { "escoliose": 0.5, "hernia": 0.5 } },
+        { "text": "Peço pra alguém pegar, minha coluna tem um histórico de drama", "points": { "lombalgia": 0.5, "estenose": 0.5 } }
+      ]
+    },
+    {
+      "question": "Quanto tempo você fica sem se mexer?",
+      "answers": [
+        { "text": "Mais de quatro horas seguidas, já virei parte da cadeira", "points": { "hipercifose": 0.5, "cervicalgia": 0.5 } },
+        { "text": "Umas duas horas, mas eu me levanto pro café (e pra fingir que trabalho)", "points": { "saudavel": 0.5, "lombalgia": 0.5 } },
+        { "text": "Do despertar até dormir, sou uma estátua de museu sem visitação", "points": { "estenose": 0.5, "hipercifose": 0.5 } },
+        { "text": "Me levanto a cada 50 minutos, sou atleta oficial do alongamento", "points": { "saudavel": 1 } }
+      ]
+    },
+    {
+      "question": "Como você costuma dormir?",
+      "answers": [
+        { "text": "De bruços, com um braço embaixo do travesseiro, em posição de nadador cansado", "points": { "cervicalgia": 1 } },
+        { "text": "De lado, com um travesseiro entre os joelhos, tipo príncipe do descanso", "points": { "saudavel": 1 } },
+        { "text": "De barriga pra cima, parecendo uma múmia de museu egípcio", "points": { "lombalgia": 0.5, "estenose": 0.5 } },
+        { "text": "Em qualquer lugar, geralmente torto no sofá, com a coluna em forma de letra S", "points": { "escoliose": 0.5, "hernia": 0.5 } }
+      ]
+    },
+    {
+      "question": "Quantos anos tem o seu colchão?",
+      "answers": [
+        { "text": "Herdei do meu avô, ele já tem mais histórias que a família toda", "points": { "estenose": 1 } },
+        { "text": "Comprei em 2011 e ainda acho que é novo, do jeito que a fé é novinha", "points": { "lombalgia": 0.5, "hernia": 0.5 } },
+        { "text": "Tem uma depressão no meio que parece um ninho de pássaro gigante", "points": { "escoliose": 0.5, "lombalgia": 0.5 } },
+        { "text": "Troquei no ano passado, sou prevenido e meu colchão é um atleta de elite", "points": { "saudavel": 1 } }
+      ]
+    },
+    {
+      "question": "Quando a dor nas costas aparece, o que você faz?",
+      "answers": [
+        { "text": "Tomo um analgésico e finjo que passou, como um grande ator", "points": { "lombalgia": 1 } },
+        { "text": "Deito no chão duro e espero o tempo resolver o que eu mesmo causei", "points": { "hernia": 0.5, "estenose": 0.5 } },
+        { "text": "Pesquiso no Google e já me diagnostico com três doenças raras", "points": { "hipercifose": 0.5, "cervicalgia": 0.5 } },
+        { "text": "Procuro um profissional e aprendo o que estou fazendo errado, sem drama", "points": { "saudavel": 1 } }
+      ]
+    },
+    {
+      "question": "E essa história de pilates ou natação?",
+      "answers": [
+        { "text": "Já tentei, desisti na primeira aula, a coluna ainda me manda cartas", "points": { "hipercifose": 1 } },
+        { "text": "Faço pilates toda semana e adoro sentir o corpo alinhado como um prumo", "points": { "saudavel": 1 } },
+        { "text": "Acho que é coisa de quem já tem coluna ruim, eu sou só curioso", "points": { "escoliose": 0.5, "hernia": 0.5 } },
+        { "text": "Natação? Só se for com boia, cadeira de praia e um bom guarda-sol", "points": { "estenose": 1 } }
+      ]
+    },
+    {
+      "question": "Se você olhar sua postura de lado no espelho, o que vê?",
+      "answers": [
+        { "text": "Ombros pra frente e cabeça projetada pro monitor, tipo um tartaruga curiosa", "points": { "cervicalgia": 0.5, "hipercifose": 0.5 } },
+        { "text": "Um ombro mais alto que o outro, a balança do corpo tá desequilibrada", "points": { "escoliose": 1 } },
+        { "text": "Nunca olhei, mas tenho uma postura de sucesso (segundo a minha opinião)", "points": { "hernia": 0.5, "lombalgia": 0.5 } },
+        { "text": "Olho de vez em quando e corrijo na hora, como um mestre do espelho", "points": { "saudavel": 1 } }
+      ]
+    },
+    {
+      "question": "E hoje, Dia Mundial da Coluna Vertebral, o que você vai fazer?",
+      "answers": [
+        { "text": "Marcar uma avaliação com o fisioterapeuta ou ortopedista, feito gente grande", "points": { "saudavel": 1 } },
+        { "text": "Compartilhar este quiz e fingir que não é comigo, com cara de inocente", "points": { "hipercifose": 0.5, "cervicalgia": 0.5 } },
+        { "text": "Pensar em começar a me cuidar amanhã, de novo, como todo ano", "points": { "estenose": 0.5, "hernia": 0.5 } },
+        { "text": "Me alongar agora mesmo, ainda sentado na cadeira, sem ninguém vendo", "points": { "saudavel": 0.5, "escoliose": 0.5 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "hernia": {
+      "title": "Hérnia de Disco",
+      "emoji": "🍩",
+      "subtitle": "Você é o bolo que decidiu sair da forma sem pedir licença",
+      "text": "Você levanta peso com as costas e acha que a coluna aguenta tudo, tipo um herói de filme de ação sem dublê. Só que a hérnia de disco acontece quando o disco entre as vértebras se desloca e pressiona um nervo, e aí a dor pode descer até a perna. O tratamento costuma começar com repouso relativo, analgésicos e fisioterapia, e muitas vezes melhora sem cirurgia. Dica de postura: para pegar algo do chão, agache dobrando joelhos e quadris e mantenha as costas retas. Perda de força na perna ou alteração na urina? Aí a piada acaba e você vai ao médico já."
+    },
+    "escoliose": {
+      "title": "Escoliose",
+      "emoji": "〰️",
+      "subtitle": "Você é a letra S que nunca foi ensinada na escola",
+      "text": "A escoliose é um desvio lateral da coluna que muitas vezes aparece na adolescência ou piora com o hábito de carregar peso sempre do mesmo lado, tipo um carteiro que nunca tirou a bolsa. Na maioria dos casos leves, fisioterapia, fortalecimento muscular e exercícios de correção postural fazem bastante diferença. Dica: divida o peso da mochila ou da bolsa entre os dois lados e prefira mochila com alças largas. Só um médico consegue dizer se o caso exige colete ou outra conduta."
+    },
+    "lombalgia": {
+      "title": "Lombalgia",
+      "emoji": "🔥",
+      "subtitle": "Você é o motivo de existir almofada lombar na farmácia",
+      "text": "A dor lombar é uma das queixas mais comuns do mundo e costuma vir de sobrecarga muscular, sedentarismo e má postura, e não necessariamente de uma lesão grave. A boa notícia: ficar ativo ajuda mais que ficar deitado esperando milagre. O tratamento envolve movimento, analgésicos sob orientação e fisioterapia para fortalecer o core, aquele conjunto de músculos que ninguém lembra que existe até doer. Dica: troque de posição a cada 30 minutos e use um apoio lombar ao sentar. Dor que dura mais de algumas semanas merece consulta."
+    },
+    "cervicalgia": {
+      "title": "Cervicalgia",
+      "emoji": "📱",
+      "subtitle": "Você é o pescoço de celular em forma de gente",
+      "text": "A dor no pescoço aparece muito com o uso prolongado de celular e computador, e a cabeça projetada pra frente aumenta a carga sobre a cervical, que já trabalha dura demais. O tratamento costuma ser fisioterapia, alongamentos suaves, fortalecimento da musculatura do pescoço e ajustes ergonômicos. Dica: eleve a tela até a altura dos olhos e aproxime o celular do rosto em vez de inclinar a cabeça como quem procura moeda no chão. Dor irradiando para o braço ou formigamento merece avaliação médica."
+    },
+    "hipercifose": {
+      "title": "Hipercifose",
+      "emoji": "🐢",
+      "subtitle": "Você é a tartaruga que decidiu morar no próprio casco",
+      "text": "A hipercifose é um aumento da curvatura natural da coluna torácica, o famoso 'corcunda' de sofá e de notebook. Além da questão estética, pode causar dor e cansaço nas costas. O tratamento inclui fortalecer as costas, alongar o peito e trabalhar a mobilidade da coluna, principalmente com fisioterapia. Dica: ao sentar, deixe os ombros relaxados para trás e os pés apoiados no chão, e pare de tentar se esconder do monitor. Se a curvatura parecer progressiva, procure um ortopedista."
+    },
+    "estenose": {
+      "title": "Estenose Espinhal",
+      "emoji": "🚪",
+      "subtitle": "Você é o corredor que foi ficando apertado com o tempo, igual sua calça de festa",
+      "text": "A estenose ocorre quando o canal por onde passam os nervos da coluna fica mais estreito, geralmente com o envelhecimento. Costuma causar dor ao ficar em pé por muito tempo, melhora ao sentar e pode dar formigamento nas pernas. Tratamentos incluem fisioterapia, anti-inflamatórios sob orientação médica e, em casos específicos, cirurgia. Dica: caminhada e bicicleta costumam ser mais tranquilas que ficar parado feito poste. Falta de força ou dormência progressiva pedem consulta."
+    },
+    "saudavel": {
+      "title": "A Coluna Intacta",
+      "emoji": "🦸",
+      "subtitle": "Você é a exceção que faz a fisioterapeuta sorrir de orelha a orelha",
+      "text": "Parabéns, sua coluna está do seu lado e provavelmente te manda flores no Dia Mundial! Você se movimenta, cuida da postura e sabe que prevenir é mais barato e menos dolorido que tratar. Continue assim: alterne posições, mantenha a musculatura ativa com pilates, natação ou musculação leve, e faça check-ups de rotina. Lembre-se que este quiz é só para diversão e não substitui uma avaliação médica. Se algum dia sentir dor persistente, procure um profissional de saúde."
+    }
+  }
+}
