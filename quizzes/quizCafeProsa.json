@@ -1,0 +1,203 @@
+{
+  "title": "Você é mais café ou mais prosa?",
+  "subtitle": "Descubra se você é o tipo que chega resolvendo ou o tipo que chega conversando",
+  "questions": [
+    {
+      "question": "É segunda-feira, 9h da manhã. Você chega no trabalho e…",
+      "answers": [
+        {
+          "text": "Vai direto na cafeteira, sem olhar ninguém",
+          "points": {
+            "cafe": 0.2202,
+            "prosa": 0.0673
+          }
+        },
+        {
+          "text": "Cumprimenta todo mundo antes de sentar",
+          "points": {
+            "prosa": 0.1756,
+            "cafe": 0.1264
+          }
+        },
+        {
+          "text": "Liga o PC enquanto alguém ainda diz 'bom dia'",
+          "points": {
+            "cafe": 0.1699,
+            "prosa": 0.142
+          }
+        },
+        {
+          "text": "Já chega puxando assunto na mesa do café",
+          "points": {
+            "prosa": 0.1693,
+            "cafe": 0.1387
+          }
+        }
+      ],
+      "id": "q0"
+    },
+    {
+      "question": "Uma reunião poderia ser um e-mail. Você:",
+      "answers": [
+        {
+          "text": "Fica quieto contando os minutos",
+          "points": {
+            "cafe": 0.1986,
+            "prosa": 0.1065
+          }
+        },
+        {
+          "text": "Aproveita pra fofocar no chat",
+          "points": {
+            "prosa": 0.1923,
+            "cafe": 0.0843
+          }
+        },
+        {
+          "text": "Participa do debate mesmo assim",
+          "points": {
+            "prosa": 0.1463,
+            "cafe": 0.1739
+          }
+        }
+      ],
+      "id": "q1"
+    },
+    {
+      "question": "Seu copo (ou caneca) ideal no escritório é:",
+      "answers": [
+        {
+          "text": "Café puro, quente e em silêncio",
+          "points": {
+            "cafe": 0.2202,
+            "prosa": 0.0673
+          }
+        },
+        {
+          "text": "Café, mas só de desculpa pra conversar",
+          "points": {
+            "prosa": 0.1903,
+            "cafe": 0.0905
+          }
+        },
+        {
+          "text": "Água mesmo, café é maratona demais",
+          "points": {
+            "cafe": 0.0741,
+            "prosa": 0.1546
+          }
+        },
+        {
+          "text": "Café com leite: firme, mas sociável",
+          "points": {
+            "cafe": 0.0934,
+            "prosa": 0.1919
+          }
+        }
+      ],
+      "id": "q2"
+    },
+    {
+      "question": "Alguém do RH convida você pra um evento 'descontraído' sobre carreira:",
+      "answers": [
+        {
+          "text": "Digo que tenho reunião (não tenho)",
+          "points": {
+            "cafe": 0.2202,
+            "prosa": 0.0673
+          }
+        },
+        {
+          "text": "Vou só pela foto do coffee break",
+          "points": {
+            "cafe": 0.1316,
+            "prosa": 0.1725
+          }
+        },
+        {
+          "text": "Topo na hora, adoro essas coisas",
+          "points": {
+            "prosa": 0.1756,
+            "cafe": 0.1264
+          }
+        },
+        {
+          "text": "Vou, mas passo o tempo no celular",
+          "points": {
+            "cafe": 0.1772,
+            "prosa": 0.1344
+          }
+        }
+      ],
+      "id": "q3"
+    },
+    {
+      "question": "Sexta-feira à tarde, o clima esquenta no escritório. Você:",
+      "answers": [
+        {
+          "text": "Só penso no encerramento do dia",
+          "points": {
+            "cafe": 0.201,
+            "prosa": 0.1028
+          }
+        },
+        {
+          "text": "Já tá na roda de prosa há 40 minutos",
+          "points": {
+            "prosa": 0.1923,
+            "cafe": 0.0843
+          }
+        },
+        {
+          "text": "Trabalho com um ouvido na conversa",
+          "points": {
+            "cafe": 0.1126,
+            "prosa": 0.1832
+          }
+        }
+      ],
+      "id": "q4"
+    },
+    {
+      "question": "Escolha uma frase que te representa:",
+      "answers": [
+        {
+          "text": "'Menos conversa, mais café'",
+          "points": {
+            "cafe": 0.2418,
+            "prosa": 0.0085
+          }
+        },
+        {
+          "text": "'O café é bom, mas a prosa é melhor'",
+          "points": {
+            "prosa": 0.2111,
+            "cafe": 0.0111
+          }
+        },
+        {
+          "text": "'Depende do dia… e da cafeteira'",
+          "points": {
+            "cafe": 0.1221,
+            "prosa": 0.1782
+          }
+        }
+      ],
+      "id": "q5"
+    }
+  ],
+  "descriptions": {
+    "cafe": {
+      "title": "Mais Café ☕",
+      "emoji": "☕",
+      "subtitle": "Direto ao ponto, sem enrolação",
+      "text": "Você é pura eficiência com cafeína. Chega, resolve e some. As pessoas podem até achar que você é antissocial, mas na verdade você só valoriza o próprio tempo (e o do café, que é sagrado). Seu lema: 'me fala o que precisa ser feito e me deixa trabalhar'."
+    },
+    "prosa": {
+      "title": "Mais Prosa 💬",
+      "emoji": "💬",
+      "subtitle": "A alma do corredor, o rei da fofoquinha",
+      "text": "Você é o aquecimento humano do escritório. Sabe tudo sobre todos, é o primeiro a saber de qualquer novidade e transforma qualquer pausa pro café em um podcast ao vivo. O trabalho até rola… mas a prosa é o que mantém a empresa de pé."
+    }
+  }
+}
