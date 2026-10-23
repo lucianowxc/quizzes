@@ -1,0 +1,318 @@
+{
+  "title": "Qual Política Pública dos Governos Lula é a Sua?",
+  "subtitle": "Descubra qual programa criado desde 2003 combina mais com a sua personalidade",
+  "questions": [
+    {
+      "question": "No fim do mês, o salário tá curto. Você:",
+      "answers": [
+        {
+          "text": "Divide o pouco que tem com quem precisa mais",
+          "points": {
+            "bolsa_familia": 0.62,
+            "fome_zero": 0.37
+          }
+        },
+        {
+          "text": "Corre atrás de um bico ou curso pra melhorar",
+          "points": {
+            "prouni": 0.406,
+            "pe_de_meia": 0.307,
+            "expansao_universidades": 0.287
+          }
+        },
+        {
+          "text": "Planeja cada centavo com planilha no Excel",
+          "points": {
+            "pe_de_meia": 0.546,
+            "minha_casa": 0.223,
+            "fim_6x1": 0.231
+          }
+        },
+        {
+          "text": "Prioriza a conta de luz e a comida de casa",
+          "points": {
+            "luz_para_todos": 0.47,
+            "fome_zero": 0.53
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu grupo de amigos te descreveria como:",
+      "answers": [
+        {
+          "text": "O que acolhe todo mundo, sem julgar",
+          "points": {
+            "bolsa_familia": 0.67,
+            "fome_zero": 0.33
+          }
+        },
+        {
+          "text": "O que ilumina o rolê onde chega",
+          "points": {
+            "luz_para_todos": 0.77,
+            "bolsa_familia": 0.23
+          }
+        },
+        {
+          "text": "O estudioso que vive com livro na mão",
+          "points": {
+            "prouni": 0.369,
+            "pe_de_meia": 0.256,
+            "expansao_universidades": 0.375
+          }
+        },
+        {
+          "text": "O que já tem a vida toda planejada",
+          "points": {
+            "minha_casa": 0.62,
+            "pe_de_meia": 0.37
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua casa dos sonhos tem:",
+      "answers": [
+        {
+          "text": "Mesa farta todo dia, sem exceção",
+          "points": {
+            "fome_zero": 0.71,
+            "bolsa_familia": 0.29
+          }
+        },
+        {
+          "text": "Energia barata e que nunca falta",
+          "points": {
+            "luz_para_todos": 1.0
+          }
+        },
+        {
+          "text": "Escritório cheio de diploma na parede",
+          "points": {
+            "prouni": 0.372,
+            "pe_de_meia": 0.183,
+            "expansao_universidades": 0.444
+          }
+        },
+        {
+          "text": "Cozinha própria, porta com chave e endereço",
+          "points": {
+            "minha_casa": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "question": "Na fila do açaí, a pessoa da frente não tem dinheiro pra pagar. Você:",
+      "answers": [
+        {
+          "text": "Pago o açaí dela, fome não se brinca",
+          "points": {
+            "fome_zero": 0.59,
+            "bolsa_familia": 0.41
+          }
+        },
+        {
+          "text": "Ofereço um plano de parcelamento criativo",
+          "points": {
+            "pe_de_meia": 0.714,
+            "fim_6x1": 0.286
+          }
+        },
+        {
+          "text": "Convido ela pra dividir o meu",
+          "points": {
+            "bolsa_familia": 0.75,
+            "luz_para_todos": 0.25
+          }
+        },
+        {
+          "text": "Penso que comida boa é direito, não favor",
+          "points": {
+            "fome_zero": 0.73,
+            "minha_casa": 0.27
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua frase de efeito no grupo da família é:",
+      "answers": [
+        {
+          "text": "'Estudar é o único caminho'",
+          "points": {
+            "prouni": 0.329,
+            "pe_de_meia": 0.259,
+            "expansao_universidades": 0.412
+          }
+        },
+        {
+          "text": "'Ninguém fica pra trás'",
+          "points": {
+            "bolsa_familia": 0.67,
+            "fome_zero": 0.33
+          }
+        },
+        {
+          "text": "'Fé que o futuro chega'",
+          "points": {
+            "luz_para_todos": 0.62,
+            "minha_casa": 0.38
+          }
+        },
+        {
+          "text": "'Casa própria, vida organizada'",
+          "points": {
+            "minha_casa": 0.71,
+            "pe_de_meia": 0.29
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse um super-herói, seu poder seria:",
+      "answers": [
+        {
+          "text": "Garantir que ninguém durma com fome",
+          "points": {
+            "fome_zero": 1.0
+          }
+        },
+        {
+          "text": "Transformar talento em diploma e emprego",
+          "points": {
+            "prouni": 0.346,
+            "pe_de_meia": 0.207,
+            "expansao_universidades": 0.447
+          }
+        },
+        {
+          "text": "Acender a luz onde todo mundo esqueceu",
+          "points": {
+            "luz_para_todos": 0.667,
+            "fim_6x1": 0.333
+          }
+        },
+        {
+          "text": "Multiplicar casas para quem nunca teve uma",
+          "points": {
+            "minha_casa": 0.71,
+            "bolsa_familia": 0.29
+          }
+        }
+      ]
+    },
+    {
+      "question": "Sua relação com trabalho e estudo é:",
+      "answers": [
+        {
+          "text": "Trabalho pra viver, não vivo pra trabalhar",
+          "points": {
+            "fim_6x1": 1.0
+          }
+        },
+        {
+          "text": "Quero estudo de qualidade perto de casa",
+          "points": {
+            "expansao_universidades": 0.769,
+            "prouni": 0.231
+          }
+        },
+        {
+          "text": "Bora pra faculdade particular de bolsa",
+          "points": {
+            "prouni": 0.714,
+            "pe_de_meia": 0.286
+          }
+        },
+        {
+          "text": "Trabalho duro, mas com recompensa no fim",
+          "points": {
+            "pe_de_meia": 0.692,
+            "minha_casa": 0.308
+          }
+        }
+      ]
+    },
+    {
+      "question": "No seu fim de semana ideal, você:",
+      "answers": [
+        {
+          "text": "Finalmente tenho DOIS dias só meus",
+          "points": {
+            "fim_6x1": 1.0
+          }
+        },
+        {
+          "text": "Visito um campi ou museu da cidadezinha",
+          "points": {
+            "expansao_universidades": 0.9
+          }
+        },
+        {
+          "text": "Recebo a família na minha casa própria",
+          "points": {
+            "minha_casa": 1.0
+          }
+        },
+        {
+          "text": "Reviso meus investimentos e metas",
+          "points": {
+            "pe_de_meia": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "bolsa_familia": {
+      "title": "Bolsa Família",
+      "emoji": "💛",
+      "subtitle": "O braço que ampara",
+      "text": "Você é o Bolsa Família! Criado em 2003, unificou programas anteriores e virou o maior programa de transferência de renda do mundo. Do mesmo jeito que ele tirou milhões da pobreza, você é a pessoa que segura o grupo quando o aperto aperta — sempre presente, sempre cuidando. Seu superpoder é nunca deixar ninguém pra trás."
+    },
+    "fome_zero": {
+      "title": "Fome Zero",
+      "emoji": "🍚",
+      "subtitle": "Prioridade número um",
+      "text": "Você é o Fome Zero! O carro-chefe do início do governo Lula em 2003, que colocou o combate à fome no centro da agenda e inspirou programas como o PAA e a merenda escolar. Você é o tipo que resolve primeiro o básico: ninguém conversa de estômago vazio perto de você. Sua missão na vida é garantir que todo mundo tenha o essencial."
+    },
+    "luz_para_todos": {
+      "title": "Luz para Todos",
+      "emoji": "💡",
+      "subtitle": "Energia pra iluminar o impossível",
+      "text": "Você é o Luz para Todos! Lançado em 2003, levou energia elétrica a milhões de brasileiros no campo e em comunidades isoladas. Você chega onde poucos chegam e transforma realidades que pareciam esquecidas. Seu talento é enxergar quem está no escuro — e acender a luz."
+    },
+    "minha_casa": {
+      "title": "Minha Casa, Minha Vida",
+      "emoji": "🏠",
+      "subtitle": "Fundação sólida",
+      "text": "Você é o Minha Casa, Minha Vida! Criado em 2009 e retomado em 2023, já ajudou milhões de famílias a saírem do aluguel e terem teto próprio. Você é o alicerce do seu grupo: estável, confiável e sempre pensando no longo prazo. Seu sonho? Dar raiz, segurança e um lugar de verdade pra quem você ama."
+    },
+    "prouni": {
+      "title": "Prouni",
+      "emoji": "🎓",
+      "subtitle": "Conhecimento que transforma",
+      "text": "Você é o Prouni! Criado em 2005, abriu as portas da universidade particular pra estudantes de baixa renda com bolsa integral e parcial. Você acredita que estudo muda destino — e vive disso: seja aprendendo algo novo ou ensinando os outros. Pra você, diploma não é papel, é passaporte."
+    },
+    "pe_de_meia": {
+      "title": "Pé-de-Meia",
+      "emoji": "🐢",
+      "subtitle": "Pouquinho em pouquinho",
+      "text": "Você é o Pé-de-Meia! Criado em 2024, paga uma poupança para estudantes do ensino médio da rede pública que têm boa frequência — juntando até R$ 9.200 ao fim da escola. Você é o mestre do passo a passo: sabe que grandes conquistas nascem de constância. Paciente e disciplinado, você transforma centavo em futuro."
+    },
+    "expansao_universidades": {
+      "title": "Expansão das Universidades Federais",
+      "emoji": "🏫",
+      "subtitle": "O campus que chega até você",
+      "text": "Você é a Expansão das Universidades Federais (REUNI)! Criado em 2007 no governo Lula, o programa ajudou a levar a universidade pública para o interior: foram 14 novas universidades federais e mais de 100 novos campi, dobrando as vagas de graduação. Você é o tipo que não espera as oportunidades chegarem: vai lá e constrói a estrutura. Onde você chega, o conhecimento chega junto."
+    },
+    "fim_6x1": {
+      "title": "Fim da Escala 6x1",
+      "emoji": "🏖️",
+      "subtitle": "Dois dias de folga e vida além do trabalho",
+      "text": "Você é o Fim da Escala 6x1! Aprovada pelo Congresso e promulgada em outubro de 2026 como vitória do governo Lula, a PEC acaba com a jornada de seis dias seguidos: 40 horas semanais e dois dias de descanso remunerado. Você acredita que trabalho é parte da vida — não a vida inteira. Seu lema: produtividade boa é a que sobra tempo pra viver."
+    }
+  }
+}
