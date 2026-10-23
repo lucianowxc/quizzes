@@ -699,6 +699,11 @@
       "name": "Você é mais café ou mais prosa?",
       "file": "quizzes/quizCafeProsa.json",
       "description": "Descubra se você é o tipo que chega resolvendo ou o tipo que chega conversando"
+    },
+    {
+      "name": "Qual Política Pública dos Governos Lula é a Sua?",
+      "file": "quizzes/quizLula.json",
+      "description": "Descubra qual programa criado desde 2003 combina mais com a sua personalidade"
     }
   ]
 }
