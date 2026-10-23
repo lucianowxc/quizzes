@@ -694,6 +694,11 @@
       "name": "Qual lesão na coluna você seria?",
       "file": "quizzes/quizQualLesaoColuna.json",
       "description": "Dia Mundial da Coluna Vertebral: descubra seu vilão postural (e como despachá-lo)"
+    },
+    {
+      "name": "Você é mais café ou mais prosa?",
+      "file": "quizzes/quizCafeProsa.json",
+      "description": "Descubra se você é o tipo que chega resolvendo ou o tipo que chega conversando"
     }
   ]
 }
