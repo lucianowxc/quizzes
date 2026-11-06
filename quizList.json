@@ -704,6 +704,11 @@
       "name": "Qual Política Pública dos Governos Lula é a Sua?",
       "file": "quizzes/quizLula.json",
       "description": "Descubra qual programa criado desde 2003 combina mais com a sua personalidade"
+    },
+    {
+      "name": "Que tipo de dívida técnica você é?",
+      "file": "quizzes/quizDividaTecnica.json",
+      "description": "Um vibe check pra descobrir qual caos técnico mora em você"
     }
   ]
 }
