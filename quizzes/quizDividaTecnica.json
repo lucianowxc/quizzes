@@ -1,0 +1,217 @@
+{
+  "title": "Que tipo de dívida técnica você é?",
+  "subtitle": "Um vibe check pra descobrir qual caos técnico mora em você",
+  "questions": [
+    {
+      "question": "Chega sexta à noite e alguém pede 'só uma mudancinha rápida'. Você...",
+      "answers": [
+        {
+          "text": "🍀 Sobe pra produção e reza",
+          "points": {
+            "deploy_sexta": 0.8
+          }
+        },
+        {
+          "text": "🧘 Escrevo o código e confio no universo",
+          "points": {
+            "vibe_coding": 0.7
+          }
+        },
+        {
+          "text": "🧹 Apago tudo e recomeço do zero",
+          "points": {
+            "delete_sem_where": 0.6,
+            "force_push_main": 0.2
+          }
+        },
+        {
+          "text": "🧑‍🤝‍🧑 Chamo a galera pra decidir junto",
+          "points": {
+            "merge_conflict": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu ambiente ideal pra codar:",
+      "answers": [
+        {
+          "text": "🛋️ No sofá, sem um único teste passando",
+          "points": {
+            "vibe_coding": 0.7
+          }
+        },
+        {
+          "text": "☕ Cafeteria barulhenta, 47 abas abertas",
+          "points": {
+            "merge_conflict": 0.6,
+            "vibe_coding": 0.2
+          }
+        },
+        {
+          "text": "🌃 Servidor de produção, de madrugada",
+          "points": {
+            "deploy_sexta": 0.8
+          }
+        },
+        {
+          "text": "🧊 Limpinho, controlado, imutável",
+          "points": {
+            "force_push_main": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Qual frase te define?",
+      "answers": [
+        {
+          "text": "“Funciona na minha máquina”",
+          "points": {
+            "vibe_coding": 0.8
+          }
+        },
+        {
+          "text": "“Sem tempo, irmão”",
+          "points": {
+            "deploy_sexta": 0.7
+          }
+        },
+        {
+          "text": "“O passado não importa”",
+          "points": {
+            "force_push_main": 0.8
+          }
+        },
+        {
+          "text": "“Tudo é temporário”",
+          "points": {
+            "delete_sem_where": 0.7
+          }
+        }
+      ]
+    },
+    {
+      "question": "Se você fosse uma tecla de teclado:",
+      "answers": [
+        {
+          "text": "⌫ Backspace — corrigir o passado",
+          "points": {
+            "force_push_main": 0.5,
+            "delete_sem_where": 0.3
+          }
+        },
+        {
+          "text": "⏎ Enter — manda ver e vê no que dá",
+          "points": {
+            "deploy_sexta": 0.6,
+            "vibe_coding": 0.2
+          }
+        },
+        {
+          "text": "🔤 Caps Lock — sempre no meu próprio ritmo",
+          "points": {
+            "vibe_coding": 0.5
+          }
+        },
+        {
+          "text": "🕸️ Tab — me encaixando em tudo ao mesmo tempo",
+          "points": {
+            "merge_conflict": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Seu histórico de commits é tipo...",
+      "answers": [
+        {
+          "text": "🌪️ Linear e lindo, reescrito 14 vezes",
+          "points": {
+            "force_push_main": 0.8
+          }
+        },
+        {
+          "text": "🗂️ Bagunça organizada que só eu entendo",
+          "points": {
+            "merge_conflict": 0.7
+          }
+        },
+        {
+          "text": "🗑️ Minimalista: se não usa, fora",
+          "points": {
+            "delete_sem_where": 0.7
+          }
+        },
+        {
+          "text": "🪁 Um rascunho que um dia vira projeto",
+          "points": {
+            "vibe_coding": 0.6
+          }
+        }
+      ]
+    },
+    {
+      "question": "Presente ideal pro seu setup:",
+      "answers": [
+        {
+          "text": "🧧 Um seguro pro servidor",
+          "points": {
+            "deploy_sexta": 0.7
+          }
+        },
+        {
+          "text": "🎁 Um reset de fábrica",
+          "points": {
+            "delete_sem_where": 0.7
+          }
+        },
+        {
+          "text": "🧠 Amnésia seletiva sobre commits antigos",
+          "points": {
+            "force_push_main": 0.7
+          }
+        },
+        {
+          "text": "🎨 Caneca escrito “confia no processo”",
+          "points": {
+            "vibe_coding": 0.6,
+            "merge_conflict": 0.5
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "merge_conflict": {
+      "title": "Merge Conflict",
+      "emoji": "🧩",
+      "subtitle": "O impasse elegante",
+      "text": "Você é o merge conflict! Duas versões do mesmo arquivo tentando coexistir — e você jura que ambas têm razão. Todo mundo te acha impossível de resolver, até conseguir... geralmente na segunda tentativa. Só cuidado pra não aceitar o lado errado na pressa."
+    },
+    "force_push_main": {
+      "title": "Force Push na Main",
+      "emoji": "💥",
+      "subtitle": "O revisionista radical",
+      "text": "Você é o force push na main! Reescrever o passado sem dó nem piedade é a sua praia. O git blame aponta pra ninguém — exatamente como você planejou. O problema de apagar o histórico? Alguém sempre acaba relembrando dele no pior momento possível."
+    },
+    "delete_sem_where": {
+      "title": "Delete Sem Where",
+      "emoji": "🗑️",
+      "subtitle": "O otimista irrestrito",
+      "text": "Você é o delete sem where! Por que se limitar quando dá pra resolver tudo de uma vez? Menos é mais — muito mais. O banco de dados discorda, o backup que você jurou ter feito discorda, mas a intenção era boa, e isso é o que importa."
+    },
+    "deploy_sexta": {
+      "title": "Deploy de Sexta",
+      "emoji": "🎰",
+      "subtitle": "O audacioso do fim do dia",
+      "text": "Você é o deploy de sexta! O fim de semana é só um conceito, e adrenalina é o seu combustível. Você não vive perigosamente — você sobe em produção às 17:59 e ainda sai mais cedo. O rollback? Um problema da segunda-feira, que felizmente não é você."
+    },
+    "vibe_coding": {
+      "title": "Vibe Coding",
+      "emoji": "🌀",
+      "subtitle": "O fluído intuitivo",
+      "text": "Você é o vibe coding! Código é arte, testes são sugestões e “funciona na minha máquina” é a sua assinatura estilística. Se quebrar em produção, foi o universo mandando um recado — e quem somos nós pra questionar o universo?"
+    }
+  }
+}
