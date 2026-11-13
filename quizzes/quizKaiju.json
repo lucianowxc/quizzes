@@ -1,0 +1,350 @@
+{
+  "title": "Qual Kaiju Você Seria?",
+  "subtitle": "Um monstro colossal habita em você. Descubra qual. 🦖",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "A cidade acorda e você tem 100 metros de altura. Primeira ordem do dia?",
+      "answers": [
+        {
+          "text": "🚶 Saio caminhando devagar, pra cidade apreciar minha sombra",
+          "points": {
+            "godzilla": 0.4
+          },
+          "nextQuestion": "q2a"
+        },
+        {
+          "text": "🌪️ Voo rasante, grito ensurdecedor, zero paciência",
+          "points": {
+            "ghidorah": 0.4
+          },
+          "nextQuestion": "q2b"
+        },
+        {
+          "text": "🥚 Antes de tudo, checo se os ovos no parque estão seguros",
+          "points": {
+            "mothra": 0.4
+          },
+          "nextQuestion": "q2c"
+        },
+        {
+          "text": "🗺️ Estudo o mapa e marco os pontos estratégicos",
+          "points": {
+            "mechagodzilla": 0.4
+          },
+          "nextQuestion": "q2d"
+        }
+      ]
+    },
+    {
+      "id": "q2a",
+      "question": "Um kaiju rival invade seu território. E agora?",
+      "answers": [
+        {
+          "text": "🥊 Encaro de frente. Título se discute no soco.",
+          "points": {
+            "godzilla": 0.8
+          },
+          "nextQuestion": "q3a"
+        },
+        {
+          "text": "🪓 Improviso uma arma com o que estiver por perto",
+          "points": {
+            "kong": 0.9
+          },
+          "nextQuestion": "q3a"
+        },
+        {
+          "text": "📣 Solto um rugido e espero geral voltar correndo",
+          "points": {
+            "godzilla": 0.6,
+            "kong": 0.4
+          },
+          "nextQuestion": "q3a"
+        }
+      ]
+    },
+    {
+      "id": "q3a",
+      "question": "Hora do golpe final. Como você termina a luta?",
+      "answers": [
+        {
+          "text": "☢️ Carrego o sopro atômico e deixo o céu azul",
+          "points": {
+            "godzilla": 0.9
+          },
+          "nextQuestion": "q_final"
+        },
+        {
+          "text": "🌋 Salto de uma montanha de cabeça no rival",
+          "points": {
+            "kong": 0.9
+          },
+          "nextQuestion": "q_final"
+        },
+        {
+          "text": "🧱 Uso o cenário a meu favor e viro o jogo",
+          "points": {
+            "godzilla": 0.5,
+            "kong": 0.5
+          },
+          "nextQuestion": "q_final"
+        }
+      ]
+    },
+    {
+      "id": "q2b",
+      "question": "Sexta à noite, versão kaiju. Qual é o plano?",
+      "answers": [
+        {
+          "text": "⚡ Transformo a noite numa tempestade de raios",
+          "points": {
+            "ghidorah": 0.9
+          },
+          "nextQuestion": "q3b"
+        },
+        {
+          "text": "🎢 Faço rasante quebrando a barreira do som",
+          "points": {
+            "rodan": 0.8
+          },
+          "nextQuestion": "q3b"
+        },
+        {
+          "text": "🎆 Destruo só o suficiente pra virar notícia",
+          "points": {
+            "ghidorah": 0.5,
+            "rodan": 0.5
+          },
+          "nextQuestion": "q3b"
+        }
+      ]
+    },
+    {
+      "id": "q3b",
+      "question": "Se você fosse um desastre natural, seria qual?",
+      "answers": [
+        {
+          "text": "🌩️ Furacão de três bocas discutindo entre si",
+          "points": {
+            "ghidorah": 0.9
+          },
+          "nextQuestion": "q_final"
+        },
+        {
+          "text": "💨 Jato de vento que nem para pra olhar",
+          "points": {
+            "rodan": 0.9
+          },
+          "nextQuestion": "q_final"
+        },
+        {
+          "text": "🌀 O redemoinho que some antes da conta chegar",
+          "points": {
+            "rodan": 0.6,
+            "ghidorah": 0.4
+          },
+          "nextQuestion": "q_final"
+        }
+      ]
+    },
+    {
+      "id": "q2c",
+      "question": "Você encontra uma criatura pequena em meio aos escombros.",
+      "answers": [
+        {
+          "text": "🛡️ Cubro com o corpo e pronto, tá protegida",
+          "points": {
+            "mothra": 0.9
+          },
+          "nextQuestion": "q3c"
+        },
+        {
+          "text": "🌱 Deixo florescer em mim até virar força",
+          "points": {
+            "biollante": 0.8
+          },
+          "nextQuestion": "q3c"
+        },
+        {
+          "text": "🧭 Guio pra longe do perigo, passo a passo",
+          "points": {
+            "mothra": 0.5,
+            "biollante": 0.6
+          },
+          "nextQuestion": "q3c"
+        }
+      ]
+    },
+    {
+      "id": "q3c",
+      "question": "Depois da batalha, como você ajuda o mundo a se recuperar?",
+      "answers": [
+        {
+          "text": "✨ Espalho poeira luminosa até tudo renascer",
+          "points": {
+            "mothra": 0.9
+          },
+          "nextQuestion": "q_final"
+        },
+        {
+          "text": "🌿 Florestas inteiras brotam onde eu piso",
+          "points": {
+            "biollante": 0.9
+          },
+          "nextQuestion": "q_final"
+        },
+        {
+          "text": "🍃 Planto sementes e saio de fininho",
+          "points": {
+            "biollante": 0.6
+          },
+          "nextQuestion": "q_final"
+        }
+      ]
+    },
+    {
+      "id": "q2d",
+      "question": "O exército humano ataca com tudo. Sua reação?",
+      "answers": [
+        {
+          "text": "🧮 Calculo a trajetória de cada míssil",
+          "points": {
+            "mechagodzilla": 0.9
+          },
+          "nextQuestion": "q3d"
+        },
+        {
+          "text": "🐢 Encolho, viro, e deixo tudo quicar no casco",
+          "points": {
+            "gamera": 0.8
+          },
+          "nextQuestion": "q3d"
+        },
+        {
+          "text": "🤝 Aceito a batalha, mas anoto cada erro deles",
+          "points": {
+            "mechagodzilla": 0.7
+          },
+          "nextQuestion": "q3d"
+        }
+      ]
+    },
+    {
+      "id": "q3d",
+      "question": "Sua maior vantagem num combate é...",
+      "answers": [
+        {
+          "text": "🖥️ Processador tático: margem de erro zero",
+          "points": {
+            "mechagodzilla": 0.9
+          },
+          "nextQuestion": "q_final"
+        },
+        {
+          "text": "⛰️ Aguentar porrada é meu cardio",
+          "points": {
+            "gamera": 0.9
+          },
+          "nextQuestion": "q_final"
+        },
+        {
+          "text": "🔄 Adapto o plano no meio do caos",
+          "points": {
+            "gamera": 0.6
+          },
+          "nextQuestion": "q_final"
+        }
+      ]
+    },
+    {
+      "id": "q_final",
+      "question": "No fim dos tempos, como você quer ser lembrado?",
+      "answers": [
+        {
+          "text": "👑 Como o rei que ninguém ousou desafiar",
+          "points": {
+            "godzilla": 0.4
+          }
+        },
+        {
+          "text": "🏆 Como o campeão que lutou até o último round",
+          "points": {
+            "kong": 0.4
+          }
+        },
+        {
+          "text": "💥 Como o caos que reorganizou o mundo",
+          "points": {
+            "ghidorah": 0.3,
+            "rodan": 0.3
+          }
+        },
+        {
+          "text": "🌅 Como a luz que apareceu quando tudo parecia perdido",
+          "points": {
+            "mothra": 0.3,
+            "biollante": 0.3
+          }
+        },
+        {
+          "text": "📐 Como o plano perfeito executado à risca",
+          "points": {
+            "mechagodzilla": 0.3,
+            "gamera": 0.3
+          }
+        }
+      ]
+    }
+  ],
+  "descriptions": {
+    "godzilla": {
+      "title": "Godzilla, o Rei dos Monstros",
+      "emoji": "🦖",
+      "subtitle": "O rei que não pede licença",
+      "text": "Você é o Godzilla! Autoridade em forma de escamas: você não entra em lugares — você é o motivo de todos saírem correndo. Sua presença resolve discussões que palavras não resolveriam. No fundo, só quer paz e quietude no seu oceano... e ninguém toca no seu oceano. Detalhe: sua definição de 'conversa' envolve sopro atômico."
+    },
+    "kong": {
+      "title": "King Kong, o Rei da Ilha Crânio",
+      "emoji": "🦍",
+      "subtitle": "O coração gigante por trás dos punhos",
+      "text": "Você é o King Kong! Brigão sim, mas com um código de honra que daria aula em qualquer dojo. Protege o seu com unhas, dentes e o que estiver pendurado num poste por perto — ou no seu machado, se estiver na Ilha Crânio. Sofre por dentro, soca por fora. Só não pede arrego: prefere pedir round adicional."
+    },
+    "ghidorah": {
+      "title": "King Ghidorah, o Falso Rei",
+      "emoji": "⚡",
+      "subtitle": "O caos com três opiniões",
+      "text": "Você é o King Ghidorah! Três cabeças, três planos, zero reuniões que chegam a um consenso. Dragão alienígena que caiu do céu achando que era dono do planeta — e quase foi. Onde você passa, o clima muda, literalmente, porque você traz o próprio clima. Ninguém nunca ganhou um argumento contra você. Nem as outras duas cabeças."
+    },
+    "rodan": {
+      "title": "Rodan, o Monstro Supersônico",
+      "emoji": "🌪️",
+      "subtitle": "Velocidade antes de qualquer coisa",
+      "text": "Você é o Rodan! Compromisso é coisa de quem anda. Você chega, estrondeia, quebra a barreira do som e já está na próxima cidade antes do primeiro boletim de ocorrência. Pterodáctilo com ego de caça e o som de um muro desabando. Detesta drama, adora zoeira e nunca ficou num lugar tempo suficiente pra pagar condomínio."
+    },
+    "mothra": {
+      "title": "Mothra, a Rainha dos Monstros",
+      "emoji": "🦋",
+      "subtitle": "A luz que protege o que ama",
+      "text": "Você é a Mothra! Delicada na aparência, apocalíptica na defesa do seu povo. Luta quando precisa, mas seu verdadeiro poder é fazer coisas renascerem depois da pancadaria — inclusive você, com direito a rebobinar a vida em forma de larva. Todo mundo subestima alguém com glitter no pó... até o glitter cair em cima deles."
+    },
+    "biollante": {
+      "title": "Biollante, a Flor do Apocalipse",
+      "emoji": "🌿",
+      "subtitle": "A natureza não está nem aí pra você",
+      "text": "Você é a Biollante! Metade planta, metade células de Godzilla, cem por cento problema. Você não destrói cidades — você as rebaixa a jardim botânico em três dias úteis. Paciente, silenciosa e absolutamente implacável: lembra que a natureza não tem pressa, mas nunca perde. Nasceu de uma rosa e virou pesadelo. Regar é opcional. Cuidado."
+    },
+    "mechagodzilla": {
+      "title": "Mechagodzilla, a Máquina Perfeita",
+      "emoji": "🤖",
+      "subtitle": "Precisão em escala colossal",
+      "text": "Você é o Mechagodzilla! Enquanto os outros monstros lutam com emoção, você luta com planilha. Réplica de metal do rei, construído por alguém que olhou pro Godzilla e pensou 'eu faço melhor'. Cada míssil desviado é um cálculo, cada passo é uma decisão de engenharia. Sua fraqueza? Ainda não consta no manual — e você mesmo escreveu o manual."
+    },
+    "gamera": {
+      "title": "Gamera, o Guardião de Fogo",
+      "emoji": "🛡️",
+      "subtitle": "O escudo que virou lenda",
+      "text": "Você é o Gamera! Tartaruga gigante, amiga de todas as crianças e pesadelo de todo monstro espacial. Lento pra ir, impossível de tirar: defende o planeta girando no meio do fogo como quem dá uma voltinha no quarteirão. Até tentaram te derrubar — a última tentativa virou peça de museu. Provérbio seu: 'não é fuga, é reposicionamento tático'."
+    }
+  }
+}
