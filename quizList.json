@@ -709,6 +709,11 @@
       "name": "Que tipo de dívida técnica você é?",
       "file": "quizzes/quizDividaTecnica.json",
       "description": "Um vibe check pra descobrir qual caos técnico mora em você"
+    },
+    {
+      "name": "Qual Kaiju Você Seria?",
+      "file": "quizzes/quizKaiju.json",
+      "description": "Um monstro colossal habita em você. Descubra qual. 🦖"
     }
   ]
 }
