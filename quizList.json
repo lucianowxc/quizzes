@@ -714,6 +714,11 @@
       "name": "Qual Kaiju Você Seria?",
       "file": "quizzes/quizKaiju.json",
       "description": "Um monstro colossal habita em você. Descubra qual. 🦖"
+    },
+    {
+      "name": "Qual das 16 personalidades do MBTI é você?",
+      "file": "quizzes/quizMBTI.json",
+      "description": "Descubra seu jeitinho de ser: um pouquinho de psicologia, muita brincadeira e algumas verdades inconvenientes."
     }
   ]
 }
