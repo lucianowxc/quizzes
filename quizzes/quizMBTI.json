@@ -1,0 +1,360 @@
+
+{
+  "title": "Qual das 16 personalidades do MBTI é você?",
+  "subtitle": "Descubra seu jeitinho de ser: um pouquinho de psicologia, muita brincadeira e algumas verdades inconvenientes.",
+  "questions": [
+    {
+      "question": "Você chega a uma festa onde conhece apenas uma pessoa. O que acontece?",
+      "answers": [
+        {
+          "text": "🎉 Em cinco minutos já conheço metade da festa.",
+          "points": {"entj":0.1,"entp":0.1,"enfj":0.1,"enfp":0.1,"estj":0.1,"esfj":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🐣 Fico perto de quem conheço até criar coragem.",
+          "points": {"intj":0.1,"intp":0.1,"infj":0.1,"infp":0.1,"istj":0.1,"isfj":0.1,"istp":0.1,"isfp":0.1}
+        },
+        {
+          "text": "🗣️ Começo uma conversa aleatória e vejo onde vai dar.",
+          "points": {"entj":0.1,"entp":0.1,"enfj":0.1,"enfp":0.1,"estj":0.1,"esfj":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🛋️ Procuro um cantinho confortável e observo o movimento.",
+          "points": {"intj":0.1,"intp":0.1,"infj":0.1,"infp":0.1,"istj":0.1,"isfj":0.1,"istp":0.1,"isfp":0.1}
+        }
+      ]
+    },
+    {
+      "question": "Depois de uma semana cansativa, seu sábado ideal é:",
+      "answers": [
+        {
+          "text": "🎡 Sair, encontrar pessoas e inventar alguma aventura.",
+          "points": {"entj":0.1,"entp":0.1,"enfj":0.1,"enfp":0.1,"estj":0.1,"esfj":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🧸 Ficar em casa, no meu mundinho, sem obrigações sociais.",
+          "points": {"intj":0.1,"intp":0.1,"infj":0.1,"infp":0.1,"istj":0.1,"isfj":0.1,"istp":0.1,"isfp":0.1}
+        },
+        {
+          "text": "🍕 Um passeio espontâneo com poucas pessoas queridas.",
+          "points": {"entj":0.1,"entp":0.1,"enfj":0.1,"enfp":0.1,"estj":0.1,"esfj":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🌙 Cancelar tudo e recuperar minha energia em silêncio.",
+          "points": {"intj":0.1,"intp":0.1,"infj":0.1,"infp":0.1,"istj":0.1,"isfj":0.1,"istp":0.1,"isfp":0.1}
+        }
+      ]
+    },
+    {
+      "question": "Quando surge um assunto interessante numa roda de conversa:",
+      "answers": [
+        {
+          "text": "🎤 Falo o que penso e vou elaborando enquanto converso.",
+          "points": {"entj":0.1,"entp":0.1,"enfj":0.1,"enfp":0.1,"estj":0.1,"esfj":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🧠 Primeiro organizo minhas ideias mentalmente.",
+          "points": {"intj":0.1,"intp":0.1,"infj":0.1,"infp":0.1,"istj":0.1,"isfj":0.1,"istp":0.1,"isfp":0.1}
+        },
+        {
+          "text": "🐿️ Faço várias associações e puxo assuntos relacionados.",
+          "points": {"entj":0.1,"entp":0.1,"enfj":0.1,"enfp":0.1,"estj":0.1,"esfj":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "👀 Escuto bastante e participo quando tenho algo a acrescentar.",
+          "points": {"intj":0.1,"intp":0.1,"infj":0.1,"infp":0.1,"istj":0.1,"isfj":0.1,"istp":0.1,"isfp":0.1}
+        }
+      ]
+    },
+
+    {
+      "question": "Você precisa montar um móvel sem conhecer o modelo. O que faz?",
+      "answers": [
+        {
+          "text": "📖 Leio o manual e sigo cada etapa.",
+          "points": {"istj":0.1,"isfj":0.1,"estj":0.1,"esfj":0.1,"istp":0.1,"isfp":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🧩 Observo as peças e tento entender como tudo se conecta.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1}
+        },
+        {
+          "text": "🔧 Começo a montar e descubro o caminho fazendo.",
+          "points": {"istj":0.1,"isfj":0.1,"estj":0.1,"esfj":0.1,"istp":0.1,"isfp":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "💭 Imagino como deveria funcionar e testo minhas teorias.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1}
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas frases combina mais com você?",
+      "answers": [
+        {
+          "text": "📍 Prefiro lidar com o que existe de verdade.",
+          "points": {"istj":0.1,"isfj":0.1,"estj":0.1,"esfj":0.1,"istp":0.1,"isfp":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🚀 Gosto de imaginar tudo que ainda pode existir.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1}
+        },
+        {
+          "text": "🪴 Pequenos detalhes fazem toda a diferença.",
+          "points": {"istj":0.1,"isfj":0.1,"estj":0.1,"esfj":0.1,"istp":0.1,"isfp":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🌌 Minha cabeça vive em lugares que ainda não existem.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1}
+        }
+      ]
+    },
+    {
+      "question": "Se alguém conta uma história muito confusa, você:",
+      "answers": [
+        {
+          "text": "🔎 Pergunta pelos detalhes para entender o que aconteceu.",
+          "points": {"istj":0.1,"isfj":0.1,"estj":0.1,"esfj":0.1,"istp":0.1,"isfp":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🌀 Tenta descobrir o significado por trás da história.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1}
+        },
+        {
+          "text": "📝 Organiza mentalmente os acontecimentos em ordem.",
+          "points": {"istj":0.1,"isfj":0.1,"estj":0.1,"esfj":0.1,"istp":0.1,"isfp":0.1,"estp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🔮 Cria três teorias diferentes sobre o que realmente aconteceu.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1}
+        }
+      ]
+    },
+
+    {
+      "question": "Seu amigo tomou uma decisão claramente duvidosa. Você:",
+      "answers": [
+        {
+          "text": "📊 Explica objetivamente por que aquilo não faz sentido.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"istj":0.1,"istp":0.1,"estj":0.1,"estp":0.1}
+        },
+        {
+          "text": "🫂 Tenta entender o que levou a pessoa a fazer aquilo.",
+          "points": {"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1,"isfj":0.1,"isfp":0.1,"esfj":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🧮 Apresenta os prós e contras, mesmo que doa.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"istj":0.1,"istp":0.1,"estj":0.1,"estp":0.1}
+        },
+        {
+          "text": "💗 Primeiro acolhe, depois pensa em como ajudar.",
+          "points": {"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1,"isfj":0.1,"isfp":0.1,"esfj":0.1,"esfp":0.1}
+        }
+      ]
+    },
+    {
+      "question": "Numa discussão, o que mais importa para você?",
+      "answers": [
+        {
+          "text": "⚖️ Chegar à conclusão mais lógica e coerente.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"istj":0.1,"istp":0.1,"estj":0.1,"estp":0.1}
+        },
+        {
+          "text": "🌷 Preservar as pessoas envolvidas e seus sentimentos.",
+          "points": {"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1,"isfj":0.1,"isfp":0.1,"esfj":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🧠 Identificar os argumentos mais consistentes.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"istj":0.1,"istp":0.1,"estj":0.1,"estp":0.1}
+        },
+        {
+          "text": "🤝 Encontrar uma solução que respeite todo mundo.",
+          "points": {"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1,"isfj":0.1,"isfp":0.1,"esfj":0.1,"esfp":0.1}
+        }
+      ]
+    },
+    {
+      "question": "Se você pudesse ter um superpoder, escolheria:",
+      "answers": [
+        {
+          "text": "🧊 Nunca tomar decisões por impulso.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"istj":0.1,"istp":0.1,"estj":0.1,"estp":0.1}
+        },
+        {
+          "text": "💞 Entender perfeitamente os sentimentos das pessoas.",
+          "points": {"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1,"isfj":0.1,"isfp":0.1,"esfj":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🎯 Sempre identificar a solução mais eficiente.",
+          "points": {"intj":0.1,"intp":0.1,"entj":0.1,"entp":0.1,"istj":0.1,"istp":0.1,"estj":0.1,"estp":0.1}
+        },
+        {
+          "text": "🦋 Fazer todo mundo se sentir compreendido.",
+          "points": {"infj":0.1,"infp":0.1,"enfj":0.1,"enfp":0.1,"isfj":0.1,"isfp":0.1,"esfj":0.1,"esfp":0.1}
+        }
+      ]
+    },
+    {
+      "question": "Você tem uma viagem marcada daqui a dois meses. Como está sua preparação?",
+      "answers": [
+        {
+          "text": "📅 Roteiro pronto, malas planejadas e horários definidos.",
+          "points": {"intj":0.1,"entj":0.1,"infj":0.1,"enfj":0.1,"istj":0.1,"estj":0.1,"isfj":0.1,"esfj":0.1}
+        },
+        {
+          "text": "🎒 Tenho o básico organizado e o resto resolvo depois.",
+          "points": {"intp":0.1,"entp":0.1,"infp":0.1,"enfp":0.1,"istp":0.1,"estp":0.1,"isfp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "📋 Já pesquisei tudo, inclusive restaurantes e previsão do tempo.",
+          "points": {"intj":0.1,"entj":0.1,"infj":0.1,"enfj":0.1,"istj":0.1,"estj":0.1,"isfj":0.1,"esfj":0.1}
+        },
+        {
+          "text": "🛫 Tenho passagem. O universo que lute pelo restante.",
+          "points": {"intp":0.1,"entp":0.1,"infp":0.1,"enfp":0.1,"istp":0.1,"estp":0.1,"isfp":0.1,"esfp":0.1}
+        }
+      ]
+    },
+    {
+      "question": "Quando recebe uma tarefa com prazo longo, você:",
+      "answers": [
+        {
+          "text": "⏳ Começa logo para não ter preocupação depois.",
+          "points": {"intj":0.1,"entj":0.1,"infj":0.1,"enfj":0.1,"istj":0.1,"estj":0.1,"isfj":0.1,"esfj":0.1}
+        },
+        {
+          "text": "🦥 Espera a inspiração chegar, geralmente perto do prazo.",
+          "points": {"intp":0.1,"entp":0.1,"infp":0.1,"enfp":0.1,"istp":0.1,"estp":0.1,"isfp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🗂️ Divide tudo em pequenas etapas e acompanha o progresso.",
+          "points": {"intj":0.1,"entj":0.1,"infj":0.1,"enfj":0.1,"istj":0.1,"estj":0.1,"isfj":0.1,"esfj":0.1}
+        },
+        {
+          "text": "🎢 Vai fazendo conforme a vontade e as circunstâncias.",
+          "points": {"intp":0.1,"entp":0.1,"infp":0.1,"enfp":0.1,"istp":0.1,"estp":0.1,"isfp":0.1,"esfp":0.1}
+        }
+      ]
+    },
+    {
+      "question": "Qual dessas situações mais parece sua vida?",
+      "answers": [
+        {
+          "text": "🧹 Minha vida tem listas, categorias e uma certa ordem.",
+          "points": {"intj":0.1,"entj":0.1,"infj":0.1,"enfj":0.1,"istj":0.1,"estj":0.1,"isfj":0.1,"esfj":0.1}
+        },
+        {
+          "text": "🎲 Meu planejamento é deixar espaço para o inesperado.",
+          "points": {"intp":0.1,"entp":0.1,"infp":0.1,"enfp":0.1,"istp":0.1,"estp":0.1,"isfp":0.1,"esfp":0.1}
+        },
+        {
+          "text": "🗓️ Gosto de saber o que vai acontecer e quando.",
+          "points": {"intj":0.1,"entj":0.1,"infj":0.1,"enfj":0.1,"istj":0.1,"estj":0.1,"isfj":0.1,"esfj":0.1}
+        },
+        {
+          "text": "🪁 Prefiro liberdade para mudar de ideia no meio do caminho.",
+          "points": {"intp":0.1,"entp":0.1,"infp":0.1,"enfp":0.1,"istp":0.1,"estp":0.1,"isfp":0.1,"esfp":0.1}
+        }
+      ]
+    }
+  ],
+
+  "descriptions": {
+    "intj": {
+      "title": "O Estrategista Misterioso",
+      "emoji": "🦉",
+      "subtitle": "Três passos à frente e zero paciência",
+      "text": "Você é uma corujinha estrategista que observa tudo em silêncio e já calculou 17 cenários possíveis antes de tomar uma decisão. Gosta de ter um plano, um plano B e um plano secreto que ninguém precisa conhecer. Seu maior desafio é lembrar que as outras pessoas não conseguem ler sua mente."
+    },
+    "intp": {
+      "title": "O Cientista das Abas Abertas",
+      "emoji": "🧪",
+      "subtitle": "Curiosidade em estado de emergência",
+      "text": "Sua cabeça é um laboratório onde ideias aleatórias se reproduzem sem supervisão. Você começa pesquisando uma coisa e, três horas depois, sabe tudo sobre a reprodução de polvos. É inteligente, curioso e cheio de teorias. Só falta terminar aquela tarefa que começou semana passada."
+    },
+    "entj": {
+      "title": "O CEO do Rolê",
+      "emoji": "📊",
+      "subtitle": "Se deixar, organiza até o caos",
+      "text": "Você nasceu para liderar, ou pelo menos é o que sua planilha acredita. Tem iniciativa, determinação e uma capacidade impressionante de transformar qualquer passeio em um projeto estratégico. Seu coração é grande, mas sua agenda é maior. Às vezes, as pessoas só querem comer pizza sem uma reunião de alinhamento."
+    },
+    "entp": {
+      "title": "O Advogado do Diabo",
+      "emoji": "😈",
+      "subtitle": "Discordar é praticamente um hobby",
+      "text": "Você não precisa acreditar em uma ideia para defendê-la com entusiasmo. Adora debates, provocações e descobrir até onde uma conversa pode chegar. Seu cérebro é uma máquina de possibilidades e sua boca nem sempre tem freio. Promete que vai deixar alguém ganhar uma discussão de vez em quando?"
+    },
+    "infj": {
+      "title": "O Oráculo Cansado",
+      "emoji": "🔮",
+      "subtitle": "Entende todo mundo, menos a própria vida",
+      "text": "Você percebe nuances, sentimentos e intenções que ninguém pediu para você investigar. Tem um radar emocional impressionante e vive tentando encontrar significado nas pequenas coisas. É aquela pessoa que dá conselhos maravilhosos e depois toma decisões questionáveis na própria vida. Um mistério acolhedor."
+    },
+    "infp": {
+      "title": "O Biscuit Emocional",
+      "emoji": "🍪",
+      "subtitle": "Um coração quentinho com trilha sonora triste",
+      "text": "Você é um coraçãozinho embrulhado em papel de presente, com uma playlist melancólica tocando ao fundo. Sente tudo intensamente, cria histórias na cabeça e provavelmente já sofreu por uma situação que nem aconteceu. Sua imaginação trabalha em período integral, mas sua vontade de responder mensagens tem horário reduzido."
+    },
+    "enfj": {
+      "title": "O Terapeuta Não Remunerado",
+      "emoji": "🫶",
+      "subtitle": "Todo mundo precisa de um abraço e de você",
+      "text": "Você tem talento para acolher pessoas e transformar qualquer conversa em uma sessão de desenvolvimento pessoal. Lembra dos problemas dos amigos, oferece apoio e ainda pergunta se a pessoa bebeu água. Só precisa aprender que não é responsável por consertar a humanidade inteira. Sua própria bateria também merece carregar."
+    },
+    "enfp": {
+      "title": "O Golden Retriever Hiperativo",
+      "emoji": "🐕",
+      "subtitle": "Mil ideias, três planos e nenhuma pausa",
+      "text": "Você é pura energia, entusiasmo e vontade de experimentar tudo ao mesmo tempo. Faz amizade na fila do mercado e já planeja uma viagem com alguém que conheceu há 12 minutos. Seu entusiasmo é contagiante, embora sua capacidade de manter o foco seja uma aventura à parte. Nunca perca essa luzinha."
+    },
+    "istj": {
+      "title": "O Fiscal do Procedimento",
+      "emoji": "📋",
+      "subtitle": "As regras existem por um motivo",
+      "text": "Você é a pessoa que leu as instruções antes de montar o móvel e ainda conferiu se sobraram parafusos. Confiável, responsável e organizado, gosta de saber exatamente o que está acontecendo. Seu maior pesadelo é alguém dizer 'vamos improvisar'. Respire: nem toda situação precisa de um manual."
+    },
+    "isfj": {
+      "title": "O Anjo do Grupo",
+      "emoji": "🧁",
+      "subtitle": "Cuida de todos e guarda os recibos",
+      "text": "Você lembra do aniversário de todo mundo, sabe quem não gosta de cebola e percebe quando alguém está quietinho demais. É gentil, dedicado e faz pequenas coisas que deixam o mundo mais acolhedor. Mas cuidado: ser bonzinho não significa aceitar tudo. Até anjos precisam colocar limites."
+    },
+    "estj": {
+      "title": "O Gerente Até nas Férias",
+      "emoji": "📁",
+      "subtitle": "Alguém precisa colocar ordem nisso",
+      "text": "Você vê uma situação desorganizada e imediatamente sente uma vontade inexplicável de assumir o controle. É prático, direto e sabe fazer as coisas acontecerem. Seu grupo de amigos provavelmente já recebeu um cronograma seu. Lembre-se: nem toda reunião precisa ter ata e nem todo mundo quer ser produtivo no domingo."
+    },
+    "esfj": {
+      "title": "A Mãe do Rolê",
+      "emoji": "🧸",
+      "subtitle": "Levou lanche, remédio e carregador",
+      "text": "Você é o coração social do grupo. Gosta de reunir pessoas, cuidar dos detalhes e garantir que ninguém fique de fora. Provavelmente já perguntou se todo mundo chegou bem em casa. Sua generosidade é linda, mas você não precisa organizar a felicidade de todos. Pode deixar alguém esquecer o próprio casaco uma vez."
+    },
+    "istp": {
+      "title": "O Faz-Tudo Antissocial",
+      "emoji": "🔧",
+      "subtitle": "Resolve o problema, dispensa o discurso",
+      "text": "Você prefere mostrar do que explicar. Enquanto todo mundo está discutindo o problema, você já abriu a caixa de ferramentas e resolveu metade da situação. Independente, observador e prático, gosta de liberdade. Só não desapareça por três dias depois de alguém perguntar como você está."
+    },
+    "isfp": {
+      "title": "O Artista em Modo Avião",
+      "emoji": "🎨",
+      "subtitle": "Sensibilidade, estética e sumiços",
+      "text": "Você enxerga beleza em detalhes que passam despercebidos e tem um jeito muito próprio de viver. Valoriza liberdade, autenticidade e pequenos momentos especiais. Pode passar horas escolhendo uma música para uma situação de 15 segundos. Não é indecisão: é curadoria artística."
+    },
+    "estp": {
+      "title": "O Agente do Caos",
+      "emoji": "🛹",
+      "subtitle": "Pensar demais estraga a aventura",
+      "text": "Você é a definição de 'depois a gente vê'. Corajoso, espontâneo e cheio de iniciativa, prefere viver a experiência e resolver os problemas no caminho. Sua vida rende boas histórias, algumas delas envolvendo decisões que talvez não devessem ter sido tomadas. Mas convenhamos: parado você não fica."
+    },
+    "esfp": {
+      "title": "O Evento em Pessoa",
+      "emoji": "🎉",
+      "subtitle": "Se tem música, você já está lá",
+      "text": "Você transforma qualquer ambiente em uma oportunidade de diversão. É expressivo, caloroso e tem uma habilidade natural para fazer as pessoas se sentirem incluídas. Não precisa de um grande evento: basta uma música boa e alguém disposto a acompanhar sua coreografia duvidosa. A vida fica mais colorida com você."
+    }
+  }
+}
