@@ -258,100 +258,99 @@
       ]
     }
   ],
-
   "descriptions": {
     "intj": {
-      "title": "O Estrategista Misterioso",
+      "title": "INTJ - O Estrategista Misterioso",
       "emoji": "🦉",
       "subtitle": "Três passos à frente e zero paciência",
       "text": "Você é uma corujinha estrategista que observa tudo em silêncio e já calculou 17 cenários possíveis antes de tomar uma decisão. Gosta de ter um plano, um plano B e um plano secreto que ninguém precisa conhecer. Seu maior desafio é lembrar que as outras pessoas não conseguem ler sua mente."
     },
     "intp": {
-      "title": "O Cientista das Abas Abertas",
+      "title": "INTP - O Cientista das Abas Abertas",
       "emoji": "🧪",
       "subtitle": "Curiosidade em estado de emergência",
       "text": "Sua cabeça é um laboratório onde ideias aleatórias se reproduzem sem supervisão. Você começa pesquisando uma coisa e, três horas depois, sabe tudo sobre a reprodução de polvos. É inteligente, curioso e cheio de teorias. Só falta terminar aquela tarefa que começou semana passada."
     },
     "entj": {
-      "title": "O CEO do Rolê",
+      "title": "ENTJ - O CEO do Rolê",
       "emoji": "📊",
       "subtitle": "Se deixar, organiza até o caos",
       "text": "Você nasceu para liderar, ou pelo menos é o que sua planilha acredita. Tem iniciativa, determinação e uma capacidade impressionante de transformar qualquer passeio em um projeto estratégico. Seu coração é grande, mas sua agenda é maior. Às vezes, as pessoas só querem comer pizza sem uma reunião de alinhamento."
     },
     "entp": {
-      "title": "O Advogado do Diabo",
+      "title": "ENTP - O Advogado do Diabo",
       "emoji": "😈",
       "subtitle": "Discordar é praticamente um hobby",
       "text": "Você não precisa acreditar em uma ideia para defendê-la com entusiasmo. Adora debates, provocações e descobrir até onde uma conversa pode chegar. Seu cérebro é uma máquina de possibilidades e sua boca nem sempre tem freio. Promete que vai deixar alguém ganhar uma discussão de vez em quando?"
     },
     "infj": {
-      "title": "O Oráculo Cansado",
+      "title": "INFJ - O Oráculo Cansado",
       "emoji": "🔮",
       "subtitle": "Entende todo mundo, menos a própria vida",
       "text": "Você percebe nuances, sentimentos e intenções que ninguém pediu para você investigar. Tem um radar emocional impressionante e vive tentando encontrar significado nas pequenas coisas. É aquela pessoa que dá conselhos maravilhosos e depois toma decisões questionáveis na própria vida. Um mistério acolhedor."
     },
     "infp": {
-      "title": "O Biscuit Emocional",
+      "title": "INFP - O Biscuit Emocional",
       "emoji": "🍪",
       "subtitle": "Um coração quentinho com trilha sonora triste",
       "text": "Você é um coraçãozinho embrulhado em papel de presente, com uma playlist melancólica tocando ao fundo. Sente tudo intensamente, cria histórias na cabeça e provavelmente já sofreu por uma situação que nem aconteceu. Sua imaginação trabalha em período integral, mas sua vontade de responder mensagens tem horário reduzido."
     },
     "enfj": {
-      "title": "O Terapeuta Não Remunerado",
+      "title": "ENFJ - O Terapeuta Não Remunerado",
       "emoji": "🫶",
       "subtitle": "Todo mundo precisa de um abraço e de você",
       "text": "Você tem talento para acolher pessoas e transformar qualquer conversa em uma sessão de desenvolvimento pessoal. Lembra dos problemas dos amigos, oferece apoio e ainda pergunta se a pessoa bebeu água. Só precisa aprender que não é responsável por consertar a humanidade inteira. Sua própria bateria também merece carregar."
     },
     "enfp": {
-      "title": "O Golden Retriever Hiperativo",
+      "title": "ENFP - O Golden Retriever Hiperativo",
       "emoji": "🐕",
       "subtitle": "Mil ideias, três planos e nenhuma pausa",
       "text": "Você é pura energia, entusiasmo e vontade de experimentar tudo ao mesmo tempo. Faz amizade na fila do mercado e já planeja uma viagem com alguém que conheceu há 12 minutos. Seu entusiasmo é contagiante, embora sua capacidade de manter o foco seja uma aventura à parte. Nunca perca essa luzinha."
     },
     "istj": {
-      "title": "O Fiscal do Procedimento",
+      "title": "ISTJ - O Fiscal do Procedimento",
       "emoji": "📋",
       "subtitle": "As regras existem por um motivo",
       "text": "Você é a pessoa que leu as instruções antes de montar o móvel e ainda conferiu se sobraram parafusos. Confiável, responsável e organizado, gosta de saber exatamente o que está acontecendo. Seu maior pesadelo é alguém dizer 'vamos improvisar'. Respire: nem toda situação precisa de um manual."
     },
     "isfj": {
-      "title": "O Anjo do Grupo",
+      "title": "ISFJ - O Anjo do Grupo",
       "emoji": "🧁",
       "subtitle": "Cuida de todos e guarda os recibos",
       "text": "Você lembra do aniversário de todo mundo, sabe quem não gosta de cebola e percebe quando alguém está quietinho demais. É gentil, dedicado e faz pequenas coisas que deixam o mundo mais acolhedor. Mas cuidado: ser bonzinho não significa aceitar tudo. Até anjos precisam colocar limites."
     },
     "estj": {
-      "title": "O Gerente Até nas Férias",
+      "title": "ESTJ - O Gerente Até nas Férias",
       "emoji": "📁",
       "subtitle": "Alguém precisa colocar ordem nisso",
       "text": "Você vê uma situação desorganizada e imediatamente sente uma vontade inexplicável de assumir o controle. É prático, direto e sabe fazer as coisas acontecerem. Seu grupo de amigos provavelmente já recebeu um cronograma seu. Lembre-se: nem toda reunião precisa ter ata e nem todo mundo quer ser produtivo no domingo."
     },
     "esfj": {
-      "title": "A Mãe do Rolê",
+      "title": "ESFJ - A Mãe do Rolê",
       "emoji": "🧸",
       "subtitle": "Levou lanche, remédio e carregador",
       "text": "Você é o coração social do grupo. Gosta de reunir pessoas, cuidar dos detalhes e garantir que ninguém fique de fora. Provavelmente já perguntou se todo mundo chegou bem em casa. Sua generosidade é linda, mas você não precisa organizar a felicidade de todos. Pode deixar alguém esquecer o próprio casaco uma vez."
     },
     "istp": {
-      "title": "O Faz-Tudo Antissocial",
+      "title": "ISTP - O Faz-Tudo Antissocial",
       "emoji": "🔧",
       "subtitle": "Resolve o problema, dispensa o discurso",
       "text": "Você prefere mostrar do que explicar. Enquanto todo mundo está discutindo o problema, você já abriu a caixa de ferramentas e resolveu metade da situação. Independente, observador e prático, gosta de liberdade. Só não desapareça por três dias depois de alguém perguntar como você está."
     },
     "isfp": {
-      "title": "O Artista em Modo Avião",
+      "title": "ISFP - O Artista em Modo Avião",
       "emoji": "🎨",
       "subtitle": "Sensibilidade, estética e sumiços",
       "text": "Você enxerga beleza em detalhes que passam despercebidos e tem um jeito muito próprio de viver. Valoriza liberdade, autenticidade e pequenos momentos especiais. Pode passar horas escolhendo uma música para uma situação de 15 segundos. Não é indecisão: é curadoria artística."
     },
     "estp": {
-      "title": "O Agente do Caos",
+      "title": "ESTP - O Agente do Caos",
       "emoji": "🛹",
       "subtitle": "Pensar demais estraga a aventura",
       "text": "Você é a definição de 'depois a gente vê'. Corajoso, espontâneo e cheio de iniciativa, prefere viver a experiência e resolver os problemas no caminho. Sua vida rende boas histórias, algumas delas envolvendo decisões que talvez não devessem ter sido tomadas. Mas convenhamos: parado você não fica."
     },
     "esfp": {
-      "title": "O Evento em Pessoa",
+      "title": "ESFP - O Evento em Pessoa",
       "emoji": "🎉",
       "subtitle": "Se tem música, você já está lá",
       "text": "Você transforma qualquer ambiente em uma oportunidade de diversão. É expressivo, caloroso e tem uma habilidade natural para fazer as pessoas se sentirem incluídas. Não precisa de um grande evento: basta uma música boa e alguém disposto a acompanhar sua coreografia duvidosa. A vida fica mais colorida com você."
