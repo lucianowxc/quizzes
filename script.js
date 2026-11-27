@@ -8,6 +8,7 @@ let currentQuizFile = ''; // Store the current quiz file name
 let selectedAnswers = []; // Track selected answers
 let questionHistory = []; // FASE 2: Histórico de perguntas respondidas
 let animationEnabled = true; // Track if animation is enabled
+let questionDirection = 'forward';
 let alternativeResultsEnabled = true;
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -29,7 +30,6 @@ document.addEventListener('DOMContentLoaded', () => {
     loadDarkModePreference();
     loadAnimationPreference();
     loadAlternativeResultsPreference();
-    updateAnimationStatus(); // Update animation status on page load
     updateDarkModeStatus(); // Update dark mode status on page load
 });
 
@@ -226,12 +226,34 @@ function getQuestionIndexById(id) {
 function showQuestion() {
     const questionContainer = document.getElementById('quiz');
     questionContainer.innerHTML = '';
+    questionContainer.classList.toggle('slide-reverse', questionDirection === 'backward');
+    questionDirection = 'forward';
 
     const progressElement = document.createElement('p');
     progressElement.id = 'progress';
     progressElement.className = 'progress-text';
     questionContainer.appendChild(progressElement);
-    updateProgress();
+    const questionNumber = updateProgress();
+
+    if (animationEnabled) {
+        const burstCount = 1 + Math.floor(Math.random() * 3);
+        const burstColors = ['#ffd84d', '#61c6ff', '#ff6b9a', '#8bd17c'];
+
+        for (let index = 0; index < burstCount; index++) {
+            const burst = document.createElement('span');
+            const number = document.createElement('span');
+            burst.className = 'quiz-burst';
+            burst.setAttribute('aria-hidden', 'true');
+            burst.style.left = `${8 + Math.random() * 72}%`;
+            burst.style.top = `${10 + Math.random() * 60}%`;
+            burst.style.width = `${72 + Math.random() * 40}px`;
+            burst.style.setProperty('--burst-color', burstColors[Math.floor(Math.random() * burstColors.length)]);
+            number.className = 'quiz-burst-number';
+            number.textContent = String(questionNumber);
+            burst.appendChild(number);
+            questionContainer.appendChild(burst);
+        }
+    }
 
     const questionElement = document.createElement('h2');
     questionElement.textContent = quizData.questions[currentQuestionIndex].question;
@@ -313,6 +335,7 @@ function previousQuestion() {
     if (questionHistory.length > 0) {
         currentQuestionIndex = questionHistory.pop();
         selectedAnswers[currentQuestionIndex] = undefined; // Limpar resposta anterior
+        questionDirection = 'backward';
         showQuestion();
     }
 }
@@ -357,23 +380,52 @@ function showResult() {
         </div>
     `;
 
+    if (animationEnabled) {
+        const celebration = document.createElement('div');
+        celebration.className = 'result-celebration';
+        celebration.setAttribute('aria-hidden', 'true');
+        celebration.innerHTML = `
+            <div class="result-balloons">
+                ${Array.from({ length: 6 }, () => '<span class="result-balloon"></span>').join('')}
+            </div>
+            <div class="result-confetti">
+                ${Array.from({ length: 14 }, () => '<span></span>').join('')}
+            </div>
+        `;
+        questionContainer.appendChild(celebration);
+    }
+
     questionContainer.appendChild(resultContainer);
 
     if (animationEnabled) {
+        const resultSubtitle = resultContainer.querySelector('#result-subtitle');
+        const resultDetails = resultContainer.querySelector('#result-details');
+        const celebrationLayer = questionContainer.querySelector('.result-celebration');
+
+        const finishResultReveal = event => {
+            if (event.target !== resultDetails || event.propertyName !== 'opacity') return;
+            celebrationLayer.classList.add('finished');
+            resultContainer.classList.add('settled');
+            resultDetails.removeEventListener('transitionend', finishResultReveal);
+        };
+
+        resultDetails.addEventListener('transitionend', finishResultReveal);
+
         // Trigger the transition effect
         setTimeout(() => {
+            if (!resultContainer.isConnected) return;
             resultContainer.classList.add('show');
             setTimeout(() => {
-                const resultSubtitle = document.getElementById('result-subtitle');
+                if (!resultContainer.isConnected) return;
                 resultSubtitle.style.opacity = '1';
                 resultSubtitle.classList.add('highlight');
                 setTimeout(() => {
-                    document.getElementById('result-details').style.opacity = '1';
+                    if (resultDetails.isConnected) resultDetails.style.opacity = '1';
                 }, 1500);
             }, 1500);
         }, 100);
     } else {
-        resultContainer.classList.add('show');
+        resultContainer.classList.add('show', 'settled');
         const resultSubtitle = document.getElementById('result-subtitle');
         resultSubtitle.style.opacity = '1';
         resultSubtitle.classList.add('highlight');
@@ -479,14 +531,18 @@ function sendSuggestion() {
 
 function updateProgress() {
     const progress = document.getElementById('progress');
+    const hasBranching = quizData.questions.some(question =>
+        question.answers.some(answer => answer.nextQuestion)
+    );
+    const questionNumber = hasBranching ? questionHistory.length + 1 : currentQuestionIndex + 1;
+
     if (progress) {
-        const hasBranching = quizData.questions.some(question =>
-            question.answers.some(answer => answer.nextQuestion)
-        );
         progress.textContent = hasBranching
-            ? `Pergunta ${questionHistory.length + 1} · ${questionHistory.length} respondidas`
-            : `Pergunta ${currentQuestionIndex + 1} de ${quizData.questions.length}`;
+            ? `Pergunta ${questionNumber} · ${questionHistory.length} respondidas`
+            : `Pergunta ${questionNumber} de ${quizData.questions.length}`;
     }
+
+    return questionNumber;
 }
 
 function toggleDarkMode() {
@@ -517,10 +573,10 @@ function updateDarkModeStyles() {
     });
 }
 
-function toggleAnimation() {
-    animationEnabled = !animationEnabled;
+function toggleAnimation(enabled) {
+    animationEnabled = enabled;
     localStorage.setItem('animationEnabled', animationEnabled);
-    updateAnimationStatus(); // Update animation status on toggle
+    document.body.classList.toggle('animations-enabled', animationEnabled);
 }
 
 function loadAnimationPreference() {
@@ -528,7 +584,11 @@ function loadAnimationPreference() {
     if (storedPreference !== null) {
         animationEnabled = storedPreference === 'true';
     }
-    updateAnimationStatus(); // Update animation status on load
+
+    const toggle = document.getElementById('animation-toggle');
+    toggle.checked = animationEnabled;
+    document.body.classList.toggle('animations-enabled', animationEnabled);
+    toggle.addEventListener('change', () => toggleAnimation(toggle.checked));
 }
 
 function loadAlternativeResultsPreference() {
@@ -543,15 +603,6 @@ function loadAlternativeResultsPreference() {
         alternativeResultsEnabled = toggle.checked;
         localStorage.setItem('alternativeResultsEnabled', alternativeResultsEnabled);
     });
-}
-
-function updateAnimationStatus() {
-    const statusElement = document.getElementById('animation-status');
-    if (animationEnabled) {
-        statusElement.textContent = '✅';
-    } else {
-        statusElement.textContent = '❌';
-    }
 }
 
 function updateDarkModeStatus() {
