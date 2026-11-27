@@ -729,6 +729,11 @@
       "name": "Qual é a sitcom da sua vida?",
       "file": "quizzes/quizSitcomDaSuaVida.json",
       "description": "Coincidências absurdas, vizinhos estranhos e situações impossíveis. Sua vida é um episódio de sitcom?"
+    },
+    {
+      "name": "Qual cor você é na Festa das Cores?",
+      "file": "quizzes/quizFestaDasCores.json",
+      "description": "Entre 100 tons improváveis, qual é o seu? Spoiler: nenhum deles é o que você imagina."
     }
   ]
 }
