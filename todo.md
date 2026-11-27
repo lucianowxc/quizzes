@@ -71,6 +71,11 @@
   - Campo de texto que filtra os cards em tempo real por nome ou descrição
   - Especialmente útil agora que o acervo está crescendo bastante
 
+- [ ] **Página de edição e criação de quizzes**
+  - Criar uma interface de autoria para montar e editar perguntas, respostas, pontuações e resultados
+  - Exportar no formato JSON atual para manter compatibilidade com os quizzes existentes
+  - Não armazenar resultados individuais dos participantes
+
 - [ ] **Tags por categoria nos quizzes**
   - Adicionar campo opcional `tags: ["mtg", "pop", "games"]` no JSON
   - Filtro por tag na listagem

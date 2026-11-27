@@ -3,12 +3,20 @@ let currentQuestionIndex = 0;
 let scores = {};
 let currentPage = 1;
 const quizzesPerPage = 14;
+let currentQuizSearch = '';
 let currentQuizFile = ''; // Store the current quiz file name
 let selectedAnswers = []; // Track selected answers
 let questionHistory = []; // FASE 2: Histórico de perguntas respondidas
 let animationEnabled = true; // Track if animation is enabled
+let alternativeResultsEnabled = true;
 
 document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('quiz-search').addEventListener('input', event => {
+        currentQuizSearch = event.target.value.trim().toLocaleLowerCase('pt-BR');
+        currentPage = 1;
+        displayQuizzes();
+    });
+
     const urlParams = new URLSearchParams(window.location.search);
     const quizFile = urlParams.get('quiz');
     if (quizFile) {
@@ -20,6 +28,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
     loadDarkModePreference();
     loadAnimationPreference();
+    loadAlternativeResultsPreference();
     updateAnimationStatus(); // Update animation status on page load
     updateDarkModeStatus(); // Update dark mode status on page load
 });
@@ -30,7 +39,7 @@ async function loadQuizList() {
         const response = await fetch('quizList.json');
         if (!response.ok) throw new Error('Network response was not ok');
         const data = await response.json();
-        window.quizzes = data.quizzes.reverse(); // Store quizzes globally in reverse order
+        window.quizzes = data.quizzes.slice().reverse(); // Store quizzes globally in reverse order
         displayQuizzes();
     } catch (error) {
         console.error('Erro ao carregar a lista de quizzes:', error);
@@ -44,9 +53,21 @@ function displayQuizzes() {
     const quizPostsContainer = document.getElementById('quiz-posts');
     quizPostsContainer.innerHTML = ''; // Reset posts
 
+    const filteredQuizzes = window.quizzes.filter(quiz =>
+        `${quiz.name} ${quiz.description}`.toLocaleLowerCase('pt-BR').includes(currentQuizSearch)
+    );
+    const totalPages = Math.ceil(filteredQuizzes.length / quizzesPerPage);
+    currentPage = Math.min(currentPage, Math.max(totalPages, 1));
     const startIndex = (currentPage - 1) * quizzesPerPage;
     const endIndex = startIndex + quizzesPerPage;
-    const quizzesToShow = window.quizzes.slice(startIndex, endIndex);
+    const quizzesToShow = filteredQuizzes.slice(startIndex, endIndex);
+
+    if (filteredQuizzes.length === 0) {
+        const emptyMessage = document.createElement('p');
+        emptyMessage.className = 'quiz-search-empty';
+        emptyMessage.textContent = 'Nenhum quiz encontrado.';
+        quizPostsContainer.appendChild(emptyMessage);
+    }
 
     quizzesToShow.forEach(quiz => {
         const post = document.createElement('div');
@@ -74,14 +95,16 @@ function displayQuizzes() {
     quizPostsContainer.appendChild(uploadPost);
 
     // Add pagination controls
-    const paginationControls = document.createElement('div');
-    paginationControls.className = 'pagination-controls';
-    paginationControls.innerHTML = `
-        <button onclick="prevPage()" ${currentPage === 1 ? 'disabled' : ''}>Anterior</button>
-        <span>Página ${currentPage} de ${Math.ceil(window.quizzes.length / quizzesPerPage)}</span>
-        <button onclick="nextPage()" ${endIndex >= window.quizzes.length ? 'disabled' : ''}>Próxima</button>
-    `;
-    quizPostsContainer.appendChild(paginationControls);
+    if (totalPages > 0) {
+        const paginationControls = document.createElement('div');
+        paginationControls.className = 'pagination-controls';
+        paginationControls.innerHTML = `
+            <button onclick="prevPage()" ${currentPage === 1 ? 'disabled' : ''}>Anterior</button>
+            <span>Página ${currentPage} de ${totalPages}</span>
+            <button onclick="nextPage()" ${currentPage >= totalPages ? 'disabled' : ''}>Próxima</button>
+        `;
+        quizPostsContainer.appendChild(paginationControls);
+    }
 
     updateDarkModeStyles(); // Ensure dark mode styles are applied
 }
@@ -94,7 +117,10 @@ function prevPage() {
 }
 
 function nextPage() {
-    if ((currentPage * quizzesPerPage) < window.quizzes.length) {
+    const filteredCount = window.quizzes.filter(quiz =>
+        `${quiz.name} ${quiz.description}`.toLocaleLowerCase('pt-BR').includes(currentQuizSearch)
+    ).length;
+    if ((currentPage * quizzesPerPage) < filteredCount) {
         currentPage++;
         displayQuizzes();
     }
@@ -124,16 +150,50 @@ function loadUploadedQuiz() {
     if (file) {
         const reader = new FileReader();
         reader.onload = function(event) {
-            quizData = JSON.parse(event.target.result);
-            currentQuizFile = file.name; // Store the current quiz file name
-            document.title = quizData.title || 'Quiz'; // Update page title
-            window.history.pushState({}, quizData.title, `?quiz=${file.name}`); // Update URL
-            initializeQuiz();
+            try {
+                quizData = parseQuizJson(event.target.result);
+                currentQuizFile = file.name; // Store the current quiz file name
+                document.title = quizData.title || 'Quiz'; // Update page title
+                window.history.pushState({}, quizData.title, `?quiz=${file.name}`); // Update URL
+                initializeQuiz();
+            } catch (error) {
+                alert(`Não foi possível carregar o quiz: ${error.message}`);
+            }
         };
+        reader.onerror = () => alert('Não foi possível ler o arquivo selecionado.');
         reader.readAsText(file);
     } else {
         alert('Por favor, selecione um arquivo JSON.');
     }
+}
+
+function parseQuizJson(contents) {
+    const data = JSON.parse(contents);
+    const descriptions = data?.descriptions;
+    const resultKeys = new Set(
+        descriptions && typeof descriptions === 'object' && !Array.isArray(descriptions)
+            ? Object.keys(descriptions)
+            : []
+    );
+    const validDescriptions = resultKeys.size > 0 && [...resultKeys].every(key =>
+        data.descriptions[key] && typeof data.descriptions[key].title === 'string'
+    );
+    const validQuestions = Array.isArray(data?.questions) && data.questions.length > 0 &&
+        data.questions.every(question =>
+            question && typeof question.question === 'string' && Array.isArray(question.answers) &&
+            question.answers.length > 0 && question.answers.every(answer =>
+                answer && typeof answer.text === 'string' && answer.points &&
+                typeof answer.points === 'object' && !Array.isArray(answer.points) &&
+                Object.entries(answer.points).every(([key, points]) =>
+                    resultKeys.has(key) && Number.isFinite(points)
+                )
+            )
+        );
+
+    if (!data || typeof data.title !== 'string' || !validDescriptions || !validQuestions) {
+        throw new Error('O arquivo não tem a estrutura esperada de um quiz.');
+    }
+    return data;
 }
 
 function initializeQuiz() {
@@ -146,6 +206,7 @@ function initializeQuiz() {
     selectedAnswers = []; // Reset selected answers
     questionHistory = []; // FASE 2: Reset histórico
     showQuestion();
+    document.getElementById('quiz-search-container').classList.add('hidden');
     document.getElementById('quiz-posts').classList.add('hidden'); // Hide quiz posts
 }
 
@@ -165,6 +226,12 @@ function getQuestionIndexById(id) {
 function showQuestion() {
     const questionContainer = document.getElementById('quiz');
     questionContainer.innerHTML = '';
+
+    const progressElement = document.createElement('p');
+    progressElement.id = 'progress';
+    progressElement.className = 'progress-text';
+    questionContainer.appendChild(progressElement);
+    updateProgress();
 
     const questionElement = document.createElement('h2');
     questionElement.textContent = quizData.questions[currentQuestionIndex].question;
@@ -213,6 +280,12 @@ function selectAnswer(answerIndex) {
     
     // FASE 2: Registrar no histórico antes de mudar
     questionHistory.push(currentQuestionIndex);
+    const activePath = new Set(questionHistory);
+    selectedAnswers.forEach((selectedAnswer, questionIndex) => {
+        if (selectedAnswer !== undefined && !activePath.has(questionIndex)) {
+            delete selectedAnswers[questionIndex];
+        }
+    });
     
     // ✨ FASE 2: Verificar nextQuestion
     const answer = quizData.questions[currentQuestionIndex].answers[answerIndex];
@@ -247,6 +320,7 @@ function previousQuestion() {
 function calculateScores() {
     scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
     selectedAnswers.forEach((answerIndex, questionIndex) => {
+        if (answerIndex === undefined) return;
         const points = quizData.questions[questionIndex].answers[answerIndex].points;
         for (const key in points) {
             scores[key] += points[key];
@@ -258,8 +332,16 @@ function showResult() {
     const questionContainer = document.getElementById('quiz');
     questionContainer.innerHTML = '';
 
-    const result = Object.keys(scores).reduce((a, b) => scores[a] > scores[b] ? a : b);
+    const rankedResults = Object.entries(scores).sort(([, scoreA], [, scoreB]) => scoreB - scoreA);
+    const result = rankedResults[0][0];
     const { emoji, title, subtitle, text } = quizData.descriptions[result];
+    const maxScore = rankedResults[0][1];
+    const otherResults = rankedResults.slice(1, 3);
+    const otherResultsMarkup = alternativeResultsEnabled && otherResults.length > 0 ? `
+        <p class="nearby-results">Outras possibilidades: ${otherResults.map(([key, score]) =>
+            `${quizData.descriptions[key].title} ${quizData.descriptions[key].emoji || ''} (${maxScore > 0 ? Math.round(score / maxScore * 100) : 0}%)`
+        ).join(' · ')}</p>
+    ` : '';
 
     const resultContainer = document.createElement('div');
     resultContainer.className = 'result-container';
@@ -268,6 +350,7 @@ function showResult() {
         <div id="result-details" style="opacity: 0;">
             <h3>${subtitle}</h3>
             <p>${text}</p>
+            ${otherResultsMarkup}
             <button onclick="restartQuiz()">Recomeçar</button>
             <button class="return-button" onclick="returnToQuizSelection()">Voltar à Seleção de Quiz</button>
             <button class="share-button" onclick="shareResult('${title}', '${emoji}')">🔗</button>
@@ -302,6 +385,8 @@ function showResult() {
 function restartQuiz() {
     currentQuestionIndex = 0;
     selectedAnswers = []; // Reset selected answers
+    questionHistory = [];
+    scores = Object.keys(quizData.descriptions).reduce((acc, key) => ({ ...acc, [key]: 0 }), {});
     showQuestion();
 }
 
@@ -310,7 +395,9 @@ function returnToQuizSelection() {
     document.getElementById('quiz').innerHTML = '<p>Escolha um dos quizzes abaixo para descobrir mais sobre você!</p>';
     currentQuizFile = ''; // Reset current quiz file
     currentPage = 1; // Reset current page
+    questionHistory = [];
     loadQuizList(); // Reload quiz list
+    document.getElementById('quiz-search-container').classList.remove('hidden');
     document.getElementById('quiz-posts').classList.remove('hidden'); // Show quiz posts
     window.history.replaceState({}, 'Quiz de Personalidade', window.location.pathname); // Clear URL parameters
     updateDarkModeStyles(); // Ensure dark mode styles are applied
@@ -393,7 +480,12 @@ function sendSuggestion() {
 function updateProgress() {
     const progress = document.getElementById('progress');
     if (progress) {
-        progress.textContent = `Pergunta ${currentQuestionIndex + 1} de ${quizData.questions.length}`;
+        const hasBranching = quizData.questions.some(question =>
+            question.answers.some(answer => answer.nextQuestion)
+        );
+        progress.textContent = hasBranching
+            ? `Pergunta ${questionHistory.length + 1} · ${questionHistory.length} respondidas`
+            : `Pergunta ${currentQuestionIndex + 1} de ${quizData.questions.length}`;
     }
 }
 
@@ -415,7 +507,7 @@ function loadDarkModePreference() {
 }
 
 function updateDarkModeStyles() {
-    const elements = document.querySelectorAll('.quiz-container, h2, h3, p, .quiz-post, input[type="file"], select');
+    const elements = document.querySelectorAll('.quiz-container, h2, h3, p, .quiz-post, input[type="file"], input[type="search"], select');
     elements.forEach(element => {
         if (document.body.classList.contains('dark-mode')) {
             element.classList.add('dark-mode');
@@ -437,6 +529,20 @@ function loadAnimationPreference() {
         animationEnabled = storedPreference === 'true';
     }
     updateAnimationStatus(); // Update animation status on load
+}
+
+function loadAlternativeResultsPreference() {
+    const storedPreference = localStorage.getItem('alternativeResultsEnabled');
+    if (storedPreference !== null) {
+        alternativeResultsEnabled = storedPreference === 'true';
+    }
+
+    const toggle = document.getElementById('alternative-results-toggle');
+    toggle.checked = alternativeResultsEnabled;
+    toggle.addEventListener('change', () => {
+        alternativeResultsEnabled = toggle.checked;
+        localStorage.setItem('alternativeResultsEnabled', alternativeResultsEnabled);
+    });
 }
 
 function updateAnimationStatus() {

@@ -7,7 +7,6 @@
     <meta name="keywords" content="quiz, personalidade, diversão">
     <title>Quiz de Personalidade</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="script.js"></script>
 </head>
 <body>
     <div class="quiz-container" role="main">
@@ -17,6 +16,10 @@
         <div id="quiz">
             <!-- Quiz content will be added dynamically -->
         </div>
+    </div>
+    <div class="quiz-search" id="quiz-search-container">
+        <label for="quiz-search">Buscar quizzes</label>
+        <input type="search" id="quiz-search" placeholder="Digite um tema ou título">
     </div>
     <div class="quiz-posts" id="quiz-posts">
         <!-- Quiz posts will be added dynamically -->
@@ -30,6 +33,7 @@
     <div class="settings" role="contentinfo">
         <p>
             <button onclick="toggleDarkMode()" style="background: none; border: none; color: inherit; cursor: pointer; text-decoration: underline;">Alternar Modo Escuro</button> <span id="dark-mode-status">❌</span> - <button onclick="toggleAnimation()" style="background: none; border: none; color: inherit; cursor: pointer; text-decoration: underline;">Alternar Animação de Resultados</button> <span id="animation-status">✅</span>
+            - <label class="settings-toggle"><input type="checkbox" id="alternative-results-toggle" checked> Mostrar resultados alternativos</label>
         </p>
     </div>
     <div class="footer" role="contentinfo">

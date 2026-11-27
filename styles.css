@@ -195,7 +195,7 @@ button:focus {
     margin-top: 20px;
 }
 
-input[type="file"], select {
+input[type="file"], input[type="search"], select {
     margin-top: 20px;
     padding: 10px;
     font-size: 16px;
@@ -207,7 +207,7 @@ input[type="file"], select {
     color: var(--input-font-color);
 }
 
-input[type="file"].dark-mode, select.dark-mode {
+input[type="file"].dark-mode, input[type="search"].dark-mode, select.dark-mode {
     background-color: var(--dark-background-color);
     color: var(--dark-font-color);
     border: 1px solid var(--dark-font-color);
@@ -330,6 +330,23 @@ select {
     width: 100%;
     box-sizing: border-box;
     justify-items: center;
+}
+
+.quiz-search {
+    width: calc(100% - 40px);
+    max-width: 1200px;
+    margin: 20px auto 0;
+}
+
+.quiz-search label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: bold;
+}
+
+.quiz-search-empty {
+    grid-column: 1 / -1;
+    text-align: center;
 }
 
 .quiz-post {
@@ -635,6 +652,32 @@ select {
 
 .result-container.show {
     opacity: 1;
+}
+
+.nearby-results {
+    max-width: 600px;
+    margin: 12px auto 0;
+    color: #777;
+    font-size: 0.85em;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.dark-mode .nearby-results {
+    color: var(--dark-font-color);
+}
+
+.settings-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    margin-left: 8px;
+}
+
+.settings-toggle input {
+    width: auto;
+    margin: 0;
+    accent-color: var(--primary-color);
 }
 
 #result-subtitle, #result-details {

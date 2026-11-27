@@ -2,6 +2,7 @@ const quizState = {
     currentQuestionIndex: 0,
     scores: {},
     selectedAnswers: [],
+    questionHistory: [],
     currentQuiz: null
 };
 
@@ -25,13 +26,47 @@ function handleFileUpload(event) {
     if (file) {
         const reader = new FileReader();
         reader.onload = function(event) {
-            const quizData = JSON.parse(event.target.result);
-            initializeQuiz(quizData);
+            try {
+                const quizData = parseQuizJson(event.target.result);
+                initializeQuiz(quizData);
+            } catch (error) {
+                alert(`Não foi possível carregar o quiz: ${error.message}`);
+            }
         };
+        reader.onerror = () => alert('Não foi possível ler o arquivo selecionado.');
         reader.readAsText(file);
     } else {
         alert('Por favor, selecione um arquivo JSON.');
     }
+}
+
+function parseQuizJson(contents) {
+    const data = JSON.parse(contents);
+    const descriptions = data?.descriptions;
+    const resultKeys = new Set(
+        descriptions && typeof descriptions === 'object' && !Array.isArray(descriptions)
+            ? Object.keys(descriptions)
+            : []
+    );
+    const validDescriptions = resultKeys.size > 0 && [...resultKeys].every(key =>
+        descriptions[key] && typeof descriptions[key].title === 'string'
+    );
+    const validQuestions = Array.isArray(data?.questions) && data.questions.length > 0 &&
+        data.questions.every(question =>
+            question && typeof question.question === 'string' && Array.isArray(question.answers) &&
+            question.answers.length > 0 && question.answers.every(answer =>
+                answer && typeof answer.text === 'string' && answer.points &&
+                typeof answer.points === 'object' && !Array.isArray(answer.points) &&
+                Object.entries(answer.points).every(([key, points]) =>
+                    resultKeys.has(key) && Number.isFinite(points)
+                )
+            )
+        );
+
+    if (!data || typeof data.title !== 'string' || !validDescriptions || !validQuestions) {
+        throw new Error('O arquivo não tem a estrutura esperada de um quiz.');
+    }
+    return data;
 }
 
 async function loadQuizList() {
@@ -73,6 +108,7 @@ function loadSelectedQuiz() {
         quizState.currentQuestionIndex = 0;
         quizState.scores = {};
         quizState.selectedAnswers = [];
+        quizState.questionHistory = [];
         quizState.currentQuiz = null;
 
         // Carregar o novo quiz
@@ -98,6 +134,7 @@ function initializeQuiz(quizData) {
     
     quizState.currentQuestionIndex = 0;
     quizState.selectedAnswers = [];
+    quizState.questionHistory = [];
     quizState.currentQuiz = quizData;
     quizState.scores = Object.keys(quizData.descriptions).reduce((acc, key) => {
         acc[key] = 0;
@@ -155,15 +192,22 @@ function showQuestion(quizData) {
     newQuestionContainer.className = 'question-container';
     
     // Prepare new question content
+    const hasBranching = quizData.questions.some(question =>
+        question.answers.some(answer => answer.nextQuestion)
+    );
+    const progressText = hasBranching
+        ? `Pergunta ${quizState.questionHistory.length + 1} · ${quizState.questionHistory.length} respondidas`
+        : `Pergunta ${quizState.currentQuestionIndex + 1} de ${quizData.questions.length}`;
+
     newQuestionContainer.innerHTML = `
-        <p class="progress-text">Pergunta ${quizState.currentQuestionIndex + 1} de ${quizData.questions.length}</p>
+        <p class="progress-text">${progressText}</p>
         <h2>${quizData.questions[quizState.currentQuestionIndex].question}</h2>
         <div class="buttons-container">
             ${quizData.questions[quizState.currentQuestionIndex].answers.map((answer, index) => `
                 <button class="option-button" onclick="selectAnswer(quizState.currentQuiz, ${index})">${answer.text}</button>
             `).join('')}
         </div>
-        ${quizState.currentQuestionIndex > 0 ? `
+        ${quizState.questionHistory.length > 0 ? `
             <div class="navigation-buttons">
                 <button class="previous-button" onclick="previousQuestion(quizState.currentQuiz)">Anterior</button>
             </div>
@@ -205,9 +249,9 @@ function showQuestion(quizData) {
 }
 
 function previousQuestion(quizData) {
-    if (quizState.currentQuestionIndex > 0) {
-        quizState.currentQuestionIndex--;
-        // Recalculate scores up to current question
+    if (quizState.questionHistory.length > 0) {
+        quizState.currentQuestionIndex = quizState.questionHistory.pop();
+        delete quizState.selectedAnswers[quizState.currentQuestionIndex];
         recalculateScores(quizData);
         showQuestion(quizData);
     }
@@ -220,29 +264,28 @@ function recalculateScores(quizData) {
         return acc;
     }, {});
 
-    // Recalculate scores up to current question
-    for (let i = 0; i < quizState.currentQuestionIndex; i++) {
-        const answerIndex = quizState.selectedAnswers[i];
-        const points = quizData.questions[i].answers[answerIndex].points;
+    quizState.questionHistory.forEach(questionIndex => {
+        const answerIndex = quizState.selectedAnswers[questionIndex];
+        if (answerIndex === undefined) return;
+        const points = quizData.questions[questionIndex].answers[answerIndex].points;
         for (const key in points) {
             quizState.scores[key] = (quizState.scores[key] || 0) + points[key];
         }
-    }
+    });
 
     updateScoreBars();
 }
 
 function selectAnswer(quizData, answerIndex) {
     quizState.selectedAnswers[quizState.currentQuestionIndex] = answerIndex;
-    const points = quizData.questions[quizState.currentQuestionIndex].answers[answerIndex].points;
-    
-    // Update scores
-    for (const key in points) {
-        quizState.scores[key] = (quizState.scores[key] || 0) + points[key];
-    }
-    
-    // Update score bars immediately after adding points
-    updateScoreBars();
+    quizState.questionHistory.push(quizState.currentQuestionIndex);
+    const activePath = new Set(quizState.questionHistory);
+    quizState.selectedAnswers.forEach((selectedAnswer, questionIndex) => {
+        if (selectedAnswer !== undefined && !activePath.has(questionIndex)) {
+            delete quizState.selectedAnswers[questionIndex];
+        }
+    });
+    recalculateScores(quizData);
     
     // ✨ FASE 2: Verificar nextQuestion
     const answer = quizData.questions[quizState.currentQuestionIndex].answers[answerIndex];
@@ -357,6 +400,7 @@ function resetQuiz() {
         // Reset do estado
         quizState.currentQuestionIndex = 0;
         quizState.selectedAnswers = [];
+        quizState.questionHistory = [];
         quizState.scores = Object.keys(quizState.currentQuiz.descriptions).reduce((acc, key) => {
             acc[key] = 0;
             return acc;
@@ -387,6 +431,7 @@ function returnToQuizSelection() {
     quizState.currentQuestionIndex = 0;
     quizState.scores = {};
     quizState.selectedAnswers = [];
+    quizState.questionHistory = [];
     quizState.currentQuiz = null;
 
     // Limpar cache de análise
