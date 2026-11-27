@@ -311,6 +311,7 @@ function selectAnswer(answerIndex) {
     
     // ✨ FASE 2: Verificar nextQuestion
     const answer = quizData.questions[currentQuestionIndex].answers[answerIndex];
+    const answerEmoji = getAnswerEmoji(answer);
     if (answer.nextQuestion) {
         const nextIndex = getQuestionIndexById(answer.nextQuestion);
         if (nextIndex !== -1) {
@@ -324,10 +325,57 @@ function selectAnswer(answerIndex) {
     
     if (currentQuestionIndex < quizData.questions.length) {
         showQuestion();
+        showSelectedAnswerEmojis(answerEmoji);
     } else {
         calculateScores();
         showResult();
     }
+}
+
+function getAnswerEmoji(answer) {
+    const explicitEmoji = typeof answer.emoji === 'string' ? answer.emoji.trim() : '';
+    if (explicitEmoji) return explicitEmoji;
+
+    const answerText = typeof answer.text === 'string' ? answer.text.trim() : '';
+    if (!answerText) return '';
+
+    const graphemes = typeof Intl.Segmenter === 'function'
+        ? Array.from(
+            new Intl.Segmenter(undefined, { granularity: 'grapheme' }).segment(answerText),
+            item => item.segment
+        )
+        : Array.from(answerText);
+    const emojiPattern = /[\p{Extended_Pictographic}\p{Regional_Indicator}\u20E3]/u;
+    const foundEmojis = graphemes.filter(grapheme => emojiPattern.test(grapheme));
+
+    return foundEmojis[foundEmojis.length - 1] || '';
+}
+
+function showSelectedAnswerEmojis(emoji) {
+    if (!animationEnabled || !emoji) return;
+
+    const emojiLayer = document.createElement('div');
+    const particleCount = 4;
+    let remainingParticles = particleCount;
+    emojiLayer.className = 'answer-emoji-layer';
+    emojiLayer.setAttribute('aria-hidden', 'true');
+
+    for (let index = 0; index < particleCount; index++) {
+        const particle = document.createElement('span');
+        particle.className = 'answer-emoji-particle';
+        particle.textContent = emoji;
+        particle.style.left = `${15 + Math.random() * 70}%`;
+        particle.style.top = `${22 + Math.random() * 58}%`;
+        particle.style.setProperty('--emoji-drift', `${Math.round(Math.random() * 80 - 40)}px`);
+        particle.style.setProperty('--emoji-delay', `${index * 55}ms`);
+        particle.addEventListener('animationend', () => {
+            remainingParticles--;
+            if (remainingParticles === 0) emojiLayer.remove();
+        }, { once: true });
+        emojiLayer.appendChild(particle);
+    }
+
+    document.getElementById('quiz').appendChild(emojiLayer);
 }
 
 function previousQuestion() {
@@ -354,10 +402,19 @@ function calculateScores() {
 function showResult() {
     const questionContainer = document.getElementById('quiz');
     questionContainer.innerHTML = '';
+    const selectedAnswerEmojis = questionHistory
+        .map(questionIndex => {
+            const answerIndex = selectedAnswers[questionIndex];
+            return answerIndex === undefined
+                ? ''
+                : getAnswerEmoji(quizData.questions[questionIndex].answers[answerIndex]);
+        })
+        .filter(Boolean);
 
     const rankedResults = Object.entries(scores).sort(([, scoreA], [, scoreB]) => scoreB - scoreA);
     const result = rankedResults[0][0];
     const { emoji, title, subtitle, text } = quizData.descriptions[result];
+    const resultEmojis = [...selectedAnswerEmojis, emoji].filter(Boolean).slice(-12);
     const maxScore = rankedResults[0][1];
     const otherResults = rankedResults.slice(1, 3);
     const otherResultsMarkup = alternativeResultsEnabled && otherResults.length > 0 ? `
@@ -392,6 +449,23 @@ function showResult() {
                 ${Array.from({ length: 14 }, () => '<span></span>').join('')}
             </div>
         `;
+        if (resultEmojis.length > 0) {
+            const answerEmojiLayer = document.createElement('div');
+            answerEmojiLayer.className = 'result-answer-emojis';
+            answerEmojiLayer.setAttribute('aria-hidden', 'true');
+
+            resultEmojis.forEach((selectedEmoji, index) => {
+                const particle = document.createElement('span');
+                particle.className = 'result-answer-emoji';
+                particle.textContent = selectedEmoji;
+                particle.style.left = `${6 + Math.random() * 88}%`;
+                particle.style.top = `${16 + Math.random() * 68}%`;
+                particle.style.setProperty('--emoji-delay', `${index * 65}ms`);
+                answerEmojiLayer.appendChild(particle);
+            });
+
+            celebration.appendChild(answerEmojiLayer);
+        }
         questionContainer.appendChild(celebration);
     }
 
