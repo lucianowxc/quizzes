@@ -1,0 +1,198 @@
+{
+  "title": "Qual cor você é na Festa das Cores?",
+  "subtitle": "Entre 100 tons improváveis, qual é o seu? Spoiler: nenhum deles é o que você imagina.",
+  "questions": [
+    {
+      "question": "Na Festa das Cores, o que você levou que ninguém vai esquecer?",
+      "answers": [
+        { "text": "🎈 Um balão que estourou no meio do discurso.", "points": { "c1": 0.9, "c5": 0.9, "c9": 0.9, "c13": 0.9, "c17": 0.9, "c21": 0.9, "c25": 0.9, "c29": 0.9, "c33": 0.9, "c37": 0.9, "c41": 0.9, "c45": 0.9, "c49": 0.9, "c53": 0.9, "c57": 0.9, "c61": 0.9, "c65": 0.9, "c69": 0.9, "c73": 0.9, "c77": 0.9, "c81": 0.9, "c85": 0.9, "c89": 0.9, "c93": 0.9, "c97": 0.9 } },
+        { "text": "🥂 Um espumante de cor duvidosa e muita coragem.", "points": { "c2": 0.9, "c6": 0.9, "c10": 0.9, "c14": 0.9, "c18": 0.9, "c22": 0.9, "c26": 0.9, "c30": 0.9, "c34": 0.9, "c38": 0.9, "c42": 0.9, "c46": 0.9, "c50": 0.9, "c54": 0.9, "c58": 0.9, "c62": 0.9, "c66": 0.9, "c70": 0.9, "c74": 0.9, "c78": 0.9, "c82": 0.9, "c86": 0.9, "c90": 0.9, "c94": 0.9, "c98": 0.9 } },
+        { "text": "🧁 Um bolo de cenoura com cobertura inesperada.", "points": { "c3": 0.9, "c7": 0.9, "c11": 0.9, "c15": 0.9, "c19": 0.9, "c23": 0.9, "c27": 0.9, "c31": 0.9, "c35": 0.9, "c39": 0.9, "c43": 0.9, "c47": 0.9, "c51": 0.9, "c55": 0.9, "c59": 0.9, "c63": 0.9, "c67": 0.9, "c71": 0.9, "c75": 0.9, "c79": 0.9, "c83": 0.9, "c87": 0.9, "c91": 0.9, "c95": 0.9, "c99": 0.9 } },
+        { "text": "🧳 Nada. Cheguei só para ver quem chegou.", "points": { "c4": 0.9, "c8": 0.9, "c12": 0.9, "c16": 0.9, "c20": 0.9, "c24": 0.9, "c28": 0.9, "c32": 0.9, "c36": 0.9, "c40": 0.9, "c44": 0.9, "c48": 0.9, "c52": 0.9, "c56": 0.9, "c60": 0.9, "c64": 0.9, "c68": 0.9, "c72": 0.9, "c76": 0.9, "c80": 0.9, "c84": 0.9, "c88": 0.9, "c92": 0.9, "c96": 0.9, "c100": 0.9 } }
+      ]
+    },
+    {
+      "question": "Alguém pergunta qual é a sua cor favorita. Você responde:",
+      "answers": [
+        { "text": "🌈 Todas, menos a que está pintada na parede da copa.", "points": { "c1": 0.9, "c2": 0.9, "c3": 0.9, "c4": 0.9, "c17": 0.9, "c18": 0.9, "c19": 0.9, "c20": 0.9, "c33": 0.9, "c34": 0.9, "c35": 0.9, "c36": 0.9, "c49": 0.9, "c50": 0.9, "c51": 0.9, "c52": 0.9, "c65": 0.9, "c66": 0.9, "c67": 0.9, "c68": 0.9, "c81": 0.9, "c82": 0.9, "c83": 0.9, "c84": 0.9, "c97": 0.9, "c98": 0.9, "c99": 0.9, "c100": 0.9 } },
+        { "text": "🪑 Cinza, mas com cara de quem toma decisões importantes.", "points": { "c5": 0.9, "c6": 0.9, "c7": 0.9, "c8": 0.9, "c21": 0.9, "c22": 0.9, "c23": 0.9, "c24": 0.9, "c37": 0.9, "c38": 0.9, "c39": 0.9, "c40": 0.9, "c53": 0.9, "c54": 0.9, "c55": 0.9, "c56": 0.9, "c69": 0.9, "c70": 0.9, "c71": 0.9, "c72": 0.9, "c85": 0.9, "c86": 0.9, "c87": 0.9, "c88": 0.9 } },
+        { "text": "🎀 Rosa bebê, e não aceito debate.", "points": { "c9": 0.9, "c10": 0.9, "c11": 0.9, "c12": 0.9, "c25": 0.9, "c26": 0.9, "c27": 0.9, "c28": 0.9, "c41": 0.9, "c42": 0.9, "c43": 0.9, "c44": 0.9, "c57": 0.9, "c58": 0.9, "c59": 0.9, "c60": 0.9, "c73": 0.9, "c74": 0.9, "c75": 0.9, "c76": 0.9, "c89": 0.9, "c90": 0.9, "c91": 0.9, "c92": 0.9 } },
+        { "text": "🌿 Verde, de uma planta que eu não consigo matar.", "points": { "c13": 0.9, "c14": 0.9, "c15": 0.9, "c16": 0.9, "c29": 0.9, "c30": 0.9, "c31": 0.9, "c32": 0.9, "c45": 0.9, "c46": 0.9, "c47": 0.9, "c48": 0.9, "c61": 0.9, "c62": 0.9, "c63": 0.9, "c64": 0.9, "c77": 0.9, "c78": 0.9, "c79": 0.9, "c80": 0.9, "c93": 0.9, "c94": 0.9, "c95": 0.9, "c96": 0.9 } }
+      ]
+    },
+    {
+      "question": "O DJ da festa toca uma música que todo mundo sabe de cor. Você:",
+      "answers": [
+        { "text": "💃 Começa a dançar sozinho no centro da pista.", "points": { "c1": 0.9, "c2": 0.9, "c3": 0.9, "c4": 0.9, "c5": 0.9, "c6": 0.9, "c7": 0.9, "c8": 0.9, "c9": 0.9, "c10": 0.9, "c11": 0.9, "c12": 0.9, "c13": 0.9, "c14": 0.9, "c15": 0.9, "c16": 0.9, "c65": 0.9, "c66": 0.9, "c67": 0.9, "c68": 0.9, "c69": 0.9, "c70": 0.9, "c71": 0.9, "c72": 0.9, "c73": 0.9, "c74": 0.9, "c75": 0.9, "c76": 0.9, "c77": 0.9, "c78": 0.9, "c79": 0.9, "c80": 0.9 } },
+        { "text": "🎤 Canta a letra inteira, errando de propósito.", "points": { "c17": 0.9, "c18": 0.9, "c19": 0.9, "c20": 0.9, "c21": 0.9, "c22": 0.9, "c23": 0.9, "c24": 0.9, "c25": 0.9, "c26": 0.9, "c27": 0.9, "c28": 0.9, "c29": 0.9, "c30": 0.9, "c31": 0.9, "c32": 0.9, "c81": 0.9, "c82": 0.9, "c83": 0.9, "c84": 0.9, "c85": 0.9, "c86": 0.9, "c87": 0.9, "c88": 0.9, "c89": 0.9, "c90": 0.9, "c91": 0.9, "c92": 0.9, "c93": 0.9, "c94": 0.9, "c95": 0.9, "c96": 0.9 } },
+        { "text": "🪩 Fica na beirada, observando tudo como um cronista.", "points": { "c33": 0.9, "c34": 0.9, "c35": 0.9, "c36": 0.9, "c37": 0.9, "c38": 0.9, "c39": 0.9, "c40": 0.9, "c41": 0.9, "c42": 0.9, "c43": 0.9, "c44": 0.9, "c45": 0.9, "c46": 0.9, "c47": 0.9, "c48": 0.9, "c97": 0.9, "c98": 0.9, "c99": 0.9, "c100": 0.9 } },
+        { "text": "🍕 Vai buscar pizza, porque essa é a verdadeira festa.", "points": { "c49": 0.9, "c50": 0.9, "c51": 0.9, "c52": 0.9, "c53": 0.9, "c54": 0.9, "c55": 0.9, "c56": 0.9, "c57": 0.9, "c58": 0.9, "c59": 0.9, "c60": 0.9, "c61": 0.9, "c62": 0.9, "c63": 0.9, "c64": 0.9 } }
+      ]
+    },
+    {
+      "question": "O RH pede para você escolher a cor da sala de reuniões. Você escolhe:",
+      "answers": [
+        { "text": "🟩 Verde-limão, para acordar a equipe na segunda-feira.", "points": { "c1": 0.9, "c5": 0.9, "c9": 0.9, "c13": 0.9, "c17": 0.9, "c21": 0.9, "c25": 0.9, "c29": 0.9, "c33": 0.9, "c37": 0.9, "c41": 0.9, "c45": 0.9, "c49": 0.9, "c53": 0.9, "c57": 0.9, "c61": 0.9, "c67": 0.9, "c71": 0.9, "c75": 0.9, "c79": 0.9, "c83": 0.9, "c87": 0.9, "c91": 0.9, "c95": 0.9, "c99": 0.9 } },
+        { "text": "🕯️ Um roxo de velório muito elegante.", "points": { "c2": 0.9, "c6": 0.9, "c10": 0.9, "c14": 0.9, "c18": 0.9, "c22": 0.9, "c26": 0.9, "c30": 0.9, "c34": 0.9, "c38": 0.9, "c42": 0.9, "c46": 0.9, "c50": 0.9, "c54": 0.9, "c58": 0.9, "c62": 0.9, "c68": 0.9, "c72": 0.9, "c76": 0.9, "c80": 0.9, "c84": 0.9, "c88": 0.9, "c92": 0.9, "c96": 0.9, "c100": 0.9 } },
+        { "text": "📦 Bege, porque ninguém nunca reclamou do bege.", "points": { "c3": 0.9, "c7": 0.9, "c11": 0.9, "c15": 0.9, "c19": 0.9, "c23": 0.9, "c27": 0.9, "c31": 0.9, "c35": 0.9, "c39": 0.9, "c43": 0.9, "c47": 0.9, "c51": 0.9, "c55": 0.9, "c59": 0.9, "c63": 0.9, "c65": 0.9, "c69": 0.9, "c73": 0.9, "c77": 0.9, "c81": 0.9, "c85": 0.9, "c89": 0.9, "c93": 0.9, "c97": 0.9 } },
+        { "text": "🌵 Verde-cacto, para ninguém encostar na parede.", "points": { "c4": 0.9, "c8": 0.9, "c12": 0.9, "c16": 0.9, "c20": 0.9, "c24": 0.9, "c28": 0.9, "c32": 0.9, "c36": 0.9, "c40": 0.9, "c44": 0.9, "c48": 0.9, "c52": 0.9, "c56": 0.9, "c60": 0.9, "c64": 0.9, "c66": 0.9, "c70": 0.9, "c74": 0.9, "c78": 0.9, "c82": 0.9, "c86": 0.9, "c90": 0.9, "c94": 0.9, "c98": 0.9 } }
+      ]
+    },
+    {
+      "question": "Qual é o seu sonho secreto de toda semana?",
+      "answers": [
+        { "text": "🛸 Ser abduzido por alguém que fala bem de você.", "points": { "c1": 0.9, "c5": 0.9, "c9": 0.9, "c13": 0.9, "c17": 0.9, "c21": 0.9, "c25": 0.9, "c29": 0.9, "c33": 0.9, "c37": 0.9, "c41": 0.9, "c45": 0.9, "c49": 0.9, "c53": 0.9, "c57": 0.9, "c61": 0.9, "c65": 0.9, "c69": 0.9, "c73": 0.9, "c77": 0.9, "c81": 0.9, "c85": 0.9, "c89": 0.9, "c93": 0.9, "c97": 0.9 } },
+        { "text": "🏖️ Um dia inteiro sem nenhuma notificação.", "points": { "c2": 0.9, "c6": 0.9, "c10": 0.9, "c14": 0.9, "c18": 0.9, "c22": 0.9, "c26": 0.9, "c30": 0.9, "c34": 0.9, "c38": 0.9, "c42": 0.9, "c46": 0.9, "c50": 0.9, "c54": 0.9, "c58": 0.9, "c62": 0.9, "c66": 0.9, "c70": 0.9, "c74": 0.9, "c78": 0.9, "c82": 0.9, "c86": 0.9, "c90": 0.9, "c94": 0.9, "c98": 0.9 } },
+        { "text": "📖 Escrever um livro que ninguém lê, mas todos citam.", "points": { "c3": 0.9, "c7": 0.9, "c11": 0.9, "c15": 0.9, "c19": 0.9, "c23": 0.9, "c27": 0.9, "c31": 0.9, "c35": 0.9, "c39": 0.9, "c43": 0.9, "c47": 0.9, "c51": 0.9, "c55": 0.9, "c59": 0.9, "c63": 0.9, "c67": 0.9, "c71": 0.9, "c75": 0.9, "c79": 0.9, "c83": 0.9, "c87": 0.9, "c91": 0.9, "c95": 0.9, "c99": 0.9 } },
+        { "text": "🥐 Um café da manhã que dure o dia inteiro.", "points": { "c4": 0.9, "c8": 0.9, "c12": 0.9, "c16": 0.9, "c20": 0.9, "c24": 0.9, "c28": 0.9, "c32": 0.9, "c36": 0.9, "c40": 0.9, "c44": 0.9, "c48": 0.9, "c52": 0.9, "c56": 0.9, "c60": 0.9, "c64": 0.9, "c68": 0.9, "c72": 0.9, "c76": 0.9, "c80": 0.9, "c84": 0.9, "c88": 0.9, "c92": 0.9, "c96": 0.9, "c100": 0.9 } }
+      ]
+    },
+    {
+      "question": "Você ganha um prêmio esquisito. Qual é?",
+      "answers": [
+        { "text": "🏆 Troféu de bronze que parece ouro, mas não é.", "points": { "c1": 0.9, "c2": 0.9, "c3": 0.9, "c4": 0.9, "c17": 0.9, "c18": 0.9, "c19": 0.9, "c20": 0.9, "c33": 0.9, "c34": 0.9, "c35": 0.9, "c36": 0.9, "c49": 0.9, "c50": 0.9, "c51": 0.9, "c52": 0.9, "c65": 0.9, "c66": 0.9, "c67": 0.9, "c68": 0.9, "c81": 0.9, "c82": 0.9, "c83": 0.9, "c84": 0.9, "c97": 0.9, "c98": 0.9, "c99": 0.9, "c100": 0.9 } },
+        { "text": "🎁 Um vale para uma cadeira de massagem que nunca liga.", "points": { "c5": 0.9, "c6": 0.9, "c7": 0.9, "c8": 0.9, "c21": 0.9, "c22": 0.9, "c23": 0.9, "c24": 0.9, "c37": 0.9, "c38": 0.9, "c39": 0.9, "c40": 0.9, "c53": 0.9, "c54": 0.9, "c55": 0.9, "c56": 0.9, "c69": 0.9, "c70": 0.9, "c71": 0.9, "c72": 0.9, "c85": 0.9, "c86": 0.9, "c87": 0.9, "c88": 0.9 } },
+        { "text": "🦄 Um certificado de Pessoa Mais Improvável do Ano.", "points": { "c9": 0.9, "c10": 0.9, "c11": 0.9, "c12": 0.9, "c25": 0.9, "c26": 0.9, "c27": 0.9, "c28": 0.9, "c41": 0.9, "c42": 0.9, "c43": 0.9, "c44": 0.9, "c57": 0.9, "c58": 0.9, "c59": 0.9, "c60": 0.9, "c73": 0.9, "c74": 0.9, "c75": 0.9, "c76": 0.9, "c89": 0.9, "c90": 0.9, "c91": 0.9, "c92": 0.9 } },
+        { "text": "🫖 Uma caneca com o seu nome escrito errado.", "points": { "c13": 0.9, "c14": 0.9, "c15": 0.9, "c16": 0.9, "c29": 0.9, "c30": 0.9, "c31": 0.9, "c32": 0.9, "c45": 0.9, "c46": 0.9, "c47": 0.9, "c48": 0.9, "c61": 0.9, "c62": 0.9, "c63": 0.9, "c64": 0.9, "c77": 0.9, "c78": 0.9, "c79": 0.9, "c80": 0.9, "c93": 0.9, "c94": 0.9, "c95": 0.9, "c96": 0.9 } }
+      ]
+    },
+    {
+      "question": "Num domingo chuvoso, você escolhe:",
+      "answers": [
+        { "text": "🍲 Sopa, cobertor e uma série antiga.", "points": { "c1": 0.9, "c2": 0.9, "c3": 0.9, "c4": 0.9, "c5": 0.9, "c6": 0.9, "c7": 0.9, "c8": 0.9, "c9": 0.9, "c10": 0.9, "c11": 0.9, "c12": 0.9, "c13": 0.9, "c14": 0.9, "c15": 0.9, "c16": 0.9, "c65": 0.9, "c66": 0.9, "c67": 0.9, "c68": 0.9, "c69": 0.9, "c70": 0.9, "c71": 0.9, "c72": 0.9, "c73": 0.9, "c74": 0.9, "c75": 0.9, "c76": 0.9, "c77": 0.9, "c78": 0.9, "c79": 0.9, "c80": 0.9 } },
+        { "text": "🎧 Uma playlist de chuva com fone de ouvido caro.", "points": { "c17": 0.9, "c18": 0.9, "c19": 0.9, "c20": 0.9, "c21": 0.9, "c22": 0.9, "c23": 0.9, "c24": 0.9, "c25": 0.9, "c26": 0.9, "c27": 0.9, "c28": 0.9, "c29": 0.9, "c30": 0.9, "c31": 0.9, "c32": 0.9, "c81": 0.9, "c82": 0.9, "c83": 0.9, "c84": 0.9, "c85": 0.9, "c86": 0.9, "c87": 0.9, "c88": 0.9, "c89": 0.9, "c90": 0.9, "c91": 0.9, "c92": 0.9, "c93": 0.9, "c94": 0.9, "c95": 0.9, "c96": 0.9 } },
+        { "text": "🧘 Não sair do lugar, e está tudo bem.", "points": { "c33": 0.9, "c34": 0.9, "c35": 0.9, "c36": 0.9, "c37": 0.9, "c38": 0.9, "c39": 0.9, "c40": 0.9, "c41": 0.9, "c42": 0.9, "c43": 0.9, "c44": 0.9, "c45": 0.9, "c46": 0.9, "c47": 0.9, "c48": 0.9, "c97": 0.9, "c98": 0.9, "c99": 0.9, "c100": 0.9 } },
+        { "text": "🪅 Organizar a festa de aniversário de outra pessoa.", "points": { "c49": 0.9, "c50": 0.9, "c51": 0.9, "c52": 0.9, "c53": 0.9, "c54": 0.9, "c55": 0.9, "c56": 0.9, "c57": 0.9, "c58": 0.9, "c59": 0.9, "c60": 0.9, "c61": 0.9, "c62": 0.9, "c63": 0.9, "c64": 0.9 } }
+      ]
+    },
+    {
+      "question": "Qual frase define você melhor?",
+      "answers": [
+        { "text": "✨ Eu brilho, mesmo sem querer.", "points": { "c1": 0.9, "c5": 0.9, "c9": 0.9, "c13": 0.9, "c17": 0.9, "c21": 0.9, "c25": 0.9, "c29": 0.9, "c33": 0.9, "c37": 0.9, "c41": 0.9, "c45": 0.9, "c49": 0.9, "c53": 0.9, "c57": 0.9, "c61": 0.9, "c67": 0.9, "c71": 0.9, "c75": 0.9, "c79": 0.9, "c83": 0.9, "c87": 0.9, "c91": 0.9, "c95": 0.9, "c99": 0.9 } },
+        { "text": "🎀 Sou fofo, e isso é um argumento.", "points": { "c2": 0.9, "c6": 0.9, "c10": 0.9, "c14": 0.9, "c18": 0.9, "c22": 0.9, "c26": 0.9, "c30": 0.9, "c34": 0.9, "c38": 0.9, "c42": 0.9, "c46": 0.9, "c50": 0.9, "c54": 0.9, "c58": 0.9, "c62": 0.9, "c68": 0.9, "c72": 0.9, "c76": 0.9, "c80": 0.9, "c84": 0.9, "c88": 0.9, "c92": 0.9, "c96": 0.9, "c100": 0.9 } },
+        { "text": "🌑 Fico quieto, mas não me esqueça.", "points": { "c3": 0.9, "c7": 0.9, "c11": 0.9, "c15": 0.9, "c19": 0.9, "c23": 0.9, "c27": 0.9, "c31": 0.9, "c35": 0.9, "c39": 0.9, "c43": 0.9, "c47": 0.9, "c51": 0.9, "c55": 0.9, "c59": 0.9, "c63": 0.9, "c65": 0.9, "c69": 0.9, "c73": 0.9, "c77": 0.9, "c81": 0.9, "c85": 0.9, "c89": 0.9, "c93": 0.9, "c97": 0.9 } },
+        { "text": "🌱 Cresço devagar, mas nunca desisto.", "points": { "c4": 0.9, "c8": 0.9, "c12": 0.9, "c16": 0.9, "c20": 0.9, "c24": 0.9, "c28": 0.9, "c32": 0.9, "c36": 0.9, "c40": 0.9, "c44": 0.9, "c48": 0.9, "c52": 0.9, "c56": 0.9, "c60": 0.9, "c64": 0.9, "c66": 0.9, "c70": 0.9, "c74": 0.9, "c78": 0.9, "c82": 0.9, "c86": 0.9, "c90": 0.9, "c94": 0.9, "c98": 0.9 } }
+      ]
+    },
+    {
+      "question": "Você acha um pote de tinta sem rótulo na garagem. Você:",
+      "answers": [
+        { "text": "🎨 Pinta a parede inteira com ele, sem medo.", "points": { "c1": 0.9, "c5": 0.9, "c9": 0.9, "c13": 0.9, "c17": 0.9, "c21": 0.9, "c25": 0.9, "c29": 0.9, "c33": 0.9, "c37": 0.9, "c41": 0.9, "c45": 0.9, "c49": 0.9, "c53": 0.9, "c57": 0.9, "c61": 0.9, "c65": 0.9, "c69": 0.9, "c73": 0.9, "c77": 0.9, "c81": 0.9, "c85": 0.9, "c89": 0.9, "c93": 0.9, "c97": 0.9 } },
+        { "text": "🧪 Testa num cantinho, com muito cuidado.", "points": { "c2": 0.9, "c6": 0.9, "c10": 0.9, "c14": 0.9, "c18": 0.9, "c22": 0.9, "c26": 0.9, "c30": 0.9, "c34": 0.9, "c38": 0.9, "c42": 0.9, "c46": 0.9, "c50": 0.9, "c54": 0.9, "c58": 0.9, "c62": 0.9, "c66": 0.9, "c70": 0.9, "c74": 0.9, "c78": 0.9, "c82": 0.9, "c86": 0.9, "c90": 0.9, "c94": 0.9, "c98": 0.9 } },
+        { "text": "🫠 Deixa ali e finge que não viu.", "points": { "c3": 0.9, "c7": 0.9, "c11": 0.9, "c15": 0.9, "c19": 0.9, "c23": 0.9, "c27": 0.9, "c31": 0.9, "c35": 0.9, "c39": 0.9, "c43": 0.9, "c47": 0.9, "c51": 0.9, "c55": 0.9, "c59": 0.9, "c63": 0.9, "c67": 0.9, "c71": 0.9, "c75": 0.9, "c79": 0.9, "c83": 0.9, "c87": 0.9, "c91": 0.9, "c95": 0.9, "c99": 0.9 } },
+        { "text": "🚿 Usa no banheiro, que é sempre o esquecido.", "points": { "c4": 0.9, "c8": 0.9, "c12": 0.9, "c16": 0.9, "c20": 0.9, "c24": 0.9, "c28": 0.9, "c32": 0.9, "c36": 0.9, "c40": 0.9, "c44": 0.9, "c48": 0.9, "c52": 0.9, "c56": 0.9, "c60": 0.9, "c64": 0.9, "c68": 0.9, "c72": 0.9, "c76": 0.9, "c80": 0.9, "c84": 0.9, "c88": 0.9, "c92": 0.9, "c96": 0.9, "c100": 0.9 } }
+      ]
+    },
+    {
+      "question": "Última pergunta: qual cor você levaria para uma ilha deserta?",
+      "answers": [
+        { "text": "🌋 Laranja pêssego, para lembrar do pôr do sol.", "points": { "c1": 0.9, "c2": 0.9, "c3": 0.9, "c4": 0.9, "c17": 0.9, "c18": 0.9, "c19": 0.9, "c20": 0.9, "c33": 0.9, "c34": 0.9, "c35": 0.9, "c36": 0.9, "c49": 0.9, "c50": 0.9, "c51": 0.9, "c52": 0.9, "c65": 0.9, "c66": 0.9, "c67": 0.9, "c68": 0.9, "c81": 0.9, "c82": 0.9, "c83": 0.9, "c84": 0.9, "c97": 0.9, "c98": 0.9, "c99": 0.9, "c100": 0.9 } },
+        { "text": "🌌 Roxo profundo, para ler as estrelas.", "points": { "c5": 0.9, "c6": 0.9, "c7": 0.9, "c8": 0.9, "c21": 0.9, "c22": 0.9, "c23": 0.9, "c24": 0.9, "c37": 0.9, "c38": 0.9, "c39": 0.9, "c40": 0.9, "c53": 0.9, "c54": 0.9, "c55": 0.9, "c56": 0.9, "c69": 0.9, "c70": 0.9, "c71": 0.9, "c72": 0.9, "c85": 0.9, "c86": 0.9, "c87": 0.9, "c88": 0.9 } },
+        { "text": "🪵 Marrom de madeira, para construir algo útil.", "points": { "c9": 0.9, "c10": 0.9, "c11": 0.9, "c12": 0.9, "c25": 0.9, "c26": 0.9, "c27": 0.9, "c28": 0.9, "c41": 0.9, "c42": 0.9, "c43": 0.9, "c44": 0.9, "c57": 0.9, "c58": 0.9, "c59": 0.9, "c60": 0.9, "c73": 0.9, "c74": 0.9, "c75": 0.9, "c76": 0.9, "c89": 0.9, "c90": 0.9, "c91": 0.9, "c92": 0.9 } },
+        { "text": "🌿 Verde-oliva, para se camuflar do grupo.", "points": { "c13": 0.9, "c14": 0.9, "c15": 0.9, "c16": 0.9, "c29": 0.9, "c30": 0.9, "c31": 0.9, "c32": 0.9, "c45": 0.9, "c46": 0.9, "c47": 0.9, "c48": 0.9, "c61": 0.9, "c62": 0.9, "c63": 0.9, "c64": 0.9, "c77": 0.9, "c78": 0.9, "c79": 0.9, "c80": 0.9, "c93": 0.9, "c94": 0.9, "c95": 0.9, "c96": 0.9 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "c1": { "title": "Verde Neon Radioativo", "emoji": "☢️", "subtitle": "#39FF14", "text": "Você é #39FF14, um verde que a natureza não aprovaria. Ninguém sabe de onde veio, mas todo mundo vê de longe." },
+    "c2": { "title": "Rosa Bebê de Metrô", "emoji": "🚇", "subtitle": "#F4C2C2", "text": "Você é #F4C2C2, um rosa que surgiu num banco de estação e se recusou a ir embora. Doce, mas com plano de carreira." },
+    "c3": { "title": "Índigo de Sala de Espera", "emoji": "🪄", "subtitle": "#4B0082", "text": "Você é #4B0082, um roxo que cochila no sofá do consultório e acorda discutindo filosofia." },
+    "c4": { "title": "Marrom Pão de Mel", "emoji": "🍯", "subtitle": "#7B3F00", "text": "Você é #7B3F00, um marrom que cheira a fim de tarde e a fornada esquecida. Aconchego garantido, nem que seja por acidente." },
+    "c5": { "title": "Verde Cacto Desconfiado", "emoji": "🌵", "subtitle": "#A4C639", "text": "Você é #A4C639, um verde que sobrevive a qualquer seca e ainda cobra pelo espaço que ocupa. Aguenta tudo, menos abraço." },
+    "c6": { "title": "Pêssego Suspeito", "emoji": "🍑", "subtitle": "#FF9966", "text": "Você é #FF9966, um laranja que parece amigável até você perceber que ele sabe o seu segredo." },
+    "c7": { "title": "Cinza Carvão de Churrasco", "emoji": "🔥", "subtitle": "#36454F", "text": "Você é #36454F, um cinza que passou a tarde no churrasco e ainda assim é o mais sério da mesa." },
+    "c8": { "title": "Mauve Observador", "emoji": "🔮", "subtitle": "#E0B0FF", "text": "Você é #E0B0FF, um lilás sem opinião sobre nada, mas com uma teoria sobre tudo. Ninguém entende, todo mundo comenta." },
+    "c9": { "title": "Magenta Sem Filtro", "emoji": "🎆", "subtitle": "#FF00FF", "text": "Você é #FF00FF, um magenta que não cabe na foto nem no grupo da firma. Visto de longe, ninguém esquece." },
+    "c10": { "title": "Turquesa de Piscina Pública", "emoji": "🏊", "subtitle": "#00CED1", "text": "Você é #00CED1, um turquesa que cheira a cloro e a férias mal planejadas. Refrescante, mas sempre com alguém pulando perto." },
+    "c11": { "title": "Bege de Repartição Pública", "emoji": "📎", "subtitle": "#F5F5DC", "text": "Você é #F5F5DC, um bege que sabe o número do protocolo de cor. Ninguém aprova, mas ninguém consegue viver sem você." },
+    "c12": { "title": "Bordô de Vinho Barato", "emoji": "🍷", "subtitle": "#800020", "text": "Você é #800020, um bordô que promete sofisticação e entrega uma noite inteira de histórias." },
+    "c13": { "title": "Amarelo Mostarda de Cachorro-Quente", "emoji": "🌭", "subtitle": "#FFDB58", "text": "Você é #FFDB58, um amarelo que aparece sem convite e sai com a camisa suja. Impossível de ignorar." },
+    "c14": { "title": "Prata de Panela Esquecida", "emoji": "🥄", "subtitle": "#C0C0C0", "text": "Você é #C0C0C0, um prata que brilha só quando alguém lembra de você. Paciente e um pouco rancoroso." },
+    "c15": { "title": "Violeta de Vitrine Cara", "emoji": "💎", "subtitle": "#8A2BE2", "text": "Você é #8A2BE2, um violeta que está na vitrine mas nunca foi comprado. Brilha de longe e cobra caro de perto." },
+    "c16": { "title": "Burlywood de Bolo Sem Açúcar", "emoji": "🎂", "subtitle": "#DEB887", "text": "Você é #DEB887, um tom de bolo sem açúcar que faz todo mundo comer um pedaço por educação." },
+    "c17": { "title": "Coral de Biscoito Quebrado", "emoji": "🍪", "subtitle": "#FF7F50", "text": "Você é #FF7F50, um coral que nunca foi inteiro, mas faz questão de ser o melhor pedaço do pacote." },
+    "c18": { "title": "Verde Mar de Aquário Abandonado", "emoji": "🐠", "subtitle": "#2E8B57", "text": "Você é #2E8B57, um verde que ainda guarda um peixe de estimação na memória. Melancólico, mas com boas recordações." },
+    "c19": { "title": "Peru de Mesa de Natal", "emoji": "🦃", "subtitle": "#CD853F", "text": "Você é #CD853F, um marrom dourado que todo mundo quer ver na mesa e ninguém quer servir." },
+    "c20": { "title": "Salmão de Sushi Vencido", "emoji": "🍣", "subtitle": "#FA8072", "text": "Você é #FA8072, um salmão que passou do ponto, mas ainda surpreende quem tem coragem." },
+    "c21": { "title": "Azul Aço de Ônibus Noturno", "emoji": "🚌", "subtitle": "#B0C4DE", "text": "Você é #B0C4DE, um azul que sempre chega atrasado e nunca reclama do caminho." },
+    "c22": { "title": "Azul Royal de Crachá", "emoji": "🪪", "subtitle": "#4169E1", "text": "Você é #4169E1, um azul que aparece com um crachá novo toda segunda e nunca lembra do próprio nome." },
+    "c23": { "title": "Aquamarina de Ar Condicionado", "emoji": "🌬️", "subtitle": "#7FFFD4", "text": "Você é #7FFFD4, um verde gelado que faz todo mundo perguntar de onde veio o frio." },
+    "c24": { "title": "Carmesim de Semáforo", "emoji": "🚦", "subtitle": "#DC143C", "text": "Você é #DC143C, um vermelho que para toda a equipe e nunca explica o motivo." },
+    "c25": { "title": "Ouro Velho de Brechó", "emoji": "🏺", "subtitle": "#DAA520", "text": "Você é #DAA520, um dourado que já foi precioso e agora é a peça que todo mundo tenta devolver." },
+    "c26": { "title": "Verde Musgo de Guarda-Chuva", "emoji": "☂️", "subtitle": "#556B2F", "text": "Você é #556B2F, um verde que esquece de si mesmo em qualquer ônibus, mas volta sempre que chove." },
+    "c27": { "title": "Caqui de Pote de Sorvete", "emoji": "🍨", "subtitle": "#BDB76B", "text": "Você é #BDB76B, um caqui que vive no fundo do freezer e aparece só quando ninguém está olhando." },
+    "c28": { "title": "Lilás de Unha Fake", "emoji": "💅", "subtitle": "#EE82EE", "text": "Você é #EE82EE, um lilás que parece perfeito de longe e cai na primeira briga." },
+    "c29": { "title": "Amarelo Caderno de Rascunho", "emoji": "📓", "subtitle": "#F0E68C", "text": "Você é #F0E68C, um amarelo com ideias escritas na margem que nunca viraram projeto." },
+    "c30": { "title": "Ardósia de Escola à Noite", "emoji": "🌙", "subtitle": "#708090", "text": "Você é #708090, um cinza que ainda escuta o sinal da escola tocando na cabeça." },
+    "c31": { "title": "Rosa Choque de Festa Infantil", "emoji": "🎉", "subtitle": "#FF1493", "text": "Você é #FF1493, um rosa que chega com balão e sai com o aniversário de outra pessoa." },
+    "c32": { "title": "Turquesa de Cartão de Banco", "emoji": "💳", "subtitle": "#40E0D0", "text": "Você é #40E0D0, um turquesa que promete limite e sempre aparece com a fatura errada." },
+    "c33": { "title": "Púrpura de Circo Antigo", "emoji": "🎪", "subtitle": "#9932CC", "text": "Você é #9932CC, um roxo que faz malabarismo com as próprias contradições e aplaude a si mesmo." },
+    "c34": { "title": "Laranja Ferrugem de Canivete", "emoji": "🛠️", "subtitle": "#CC5500", "text": "Você é #CC5500, um laranja enferrujado que resolve tudo com um canivete e um pouco de teimosia." },
+    "c35": { "title": "Verde Floresta de Trânsito", "emoji": "🌲", "subtitle": "#228B22", "text": "Você é #228B22, um verde que passa o dia preso no trânsito e acha que tem mata por dentro." },
+    "c36": { "title": "Lavanda de Sala de Dentista", "emoji": "🦷", "subtitle": "#E6E6FA", "text": "Você é #E6E6FA, um lavanda que espera a vez com um sorriso tenso e uma revista de três anos atrás." },
+    "c37": { "title": "Vermelho Pitanga Madura", "emoji": "🍒", "subtitle": "#8B0000", "text": "Você é #8B0000, um vermelho que amadureceu rápido demais e agora dá conselho para todo mundo." },
+    "c38": { "title": "Trigo de Pão de Forma", "emoji": "🍞", "subtitle": "#F5DEB3", "text": "Você é #F5DEB3, um trigo que é sempre o mesmo, mas nunca o mesmo pão de ontem." },
+    "c39": { "title": "Rosa Névoa de Crachá Novo", "emoji": "🌸", "subtitle": "#FFE4E1", "text": "Você é #FFE4E1, um rosa tão recém-chegado que ainda procura a copa e o banheiro certo." },
+    "c40": { "title": "Verde Escuro de Camiseta de Time", "emoji": "👕", "subtitle": "#006400", "text": "Você é #006400, um verde que veste a camisa do time até no churrasco de domingo e chora na prorrogação." },
+    "c41": { "title": "Azul Meia-Noite de Calendário", "emoji": "📅", "subtitle": "#191970", "text": "Você é #191970, um azul que marca tudo na agenda e esquece de marcar o próprio descanso." },
+    "c42": { "title": "Laranja de Cone de Obra", "emoji": "🚧", "subtitle": "#FFA500", "text": "Você é #FFA500, um laranja que sinaliza perigo e ainda assim todo mundo passa por você." },
+    "c43": { "title": "Sienna de Bolsa Velha", "emoji": "👜", "subtitle": "#A0522D", "text": "Você é #A0522D, um marrom que carrega tudo que a vida jogou nele e nunca reclama do peso." },
+    "c44": { "title": "Coral Claro de Fila do Banco", "emoji": "🏦", "subtitle": "#F08080", "text": "Você é #F08080, um coral que espera numa fila por horas e ainda acha que foi atendido rápido." },
+    "c45": { "title": "Verde Gramado de Estádio", "emoji": "🏟️", "subtitle": "#7CFC00", "text": "Você é #7CFC00, um verde que está sempre no centro da torcida e raramente no lance decisivo." },
+    "c46": { "title": "Vermelho Alaranjado de Alarme", "emoji": "🚨", "subtitle": "#FF4500", "text": "Você é #FF4500, um laranja que dispara sem aviso e depois pergunta quem foi." },
+    "c47": { "title": "Azul Aço de Piscina Cheia", "emoji": "🌊", "subtitle": "#4682B4", "text": "Você é #4682B4, um azul que aparece cheio de gente e some quando a música muda." },
+    "c48": { "title": "Tan de Papel Pardo", "emoji": "🧾", "subtitle": "#D2B48C", "text": "Você é #D2B48C, um bege que guarda nota fiscal de tudo, até do café de 2019." },
+    "c49": { "title": "Rosa Empoeirado de Gaveta", "emoji": "🗄️", "subtitle": "#BC8F8F", "text": "Você é #BC8F8F, um rosa que estava esquecido na gaveta e voltou a ser a estrela da reunião." },
+    "c50": { "title": "Salmão de Pôr do Sol de Segunda", "emoji": "🌅", "subtitle": "#E9967A", "text": "Você é #E9967A, um salmão que só aparece no fim do dia e ainda assim é o assunto da semana." },
+    "c51": { "title": "Orquídea de Cartório", "emoji": "📜", "subtitle": "#BA55D3", "text": "Você é #BA55D3, um roxo que carimba tudo com elegância e nunca lembra onde deixou a caneta." },
+    "c52": { "title": "Rosa Chiclete de Pulseira", "emoji": "🎀", "subtitle": "#FF69B4", "text": "Você é #FF69B4, um rosa que cola em todo mundo e ainda garante que ninguém sai do grupo." },
+    "c53": { "title": "Verde Primavera de Caixa Eletrônico", "emoji": "🏧", "subtitle": "#00FF7F", "text": "Você é #00FF7F, um verde que sai sempre na hora errada e tem muita fé no próximo saque." },
+    "c54": { "title": "Verde Ardósia de Porão", "emoji": "🕷️", "subtitle": "#2F4F4F", "text": "Você é #2F4F4F, um verde escuro que guarda coisas no porão e jura que não tem nenhum fantasma." },
+    "c55": { "title": "Cardo de Fila de Pão", "emoji": "🥖", "subtitle": "#D8BFD8", "text": "Você é #D8BFD8, um lilás que aguenta a fila do pão com paciência de monge e cara de ofendido." },
+    "c56": { "title": "Dourado Escuro de Frigideira", "emoji": "🥘", "subtitle": "#B8860B", "text": "Você é #B8860B, um dourado que queimou um pouco na borda e ainda é o melhor pedaço da panela." },
+    "c57": { "title": "Creme de Papelaria Esquecida", "emoji": "🖍️", "subtitle": "#FFEFD5", "text": "Você é #FFEFD5, um creme que estava na prateleira de trás e ainda assim ganhou o prêmio de melhor cor." },
+    "c58": { "title": "Ardósia Azul de Elevador", "emoji": "🛗", "subtitle": "#483D8B", "text": "Você é #483D8B, um azul que fica preso entre dois andares e ainda faz amizade com todo mundo." },
+    "c59": { "title": "Magenta Sem Freio de Carnaval", "emoji": "🎭", "subtitle": "#C71585", "text": "Você é #C71585, um magenta que começa a festa e termina cantando a música do próximo bloco." },
+    "c60": { "title": "Verde Pálido de Sala de Espera", "emoji": "🪴", "subtitle": "#98FB98", "text": "Você é #98FB98, um verde tão pálido que ninguém sabe se está vivo, mas sempre está de plantão." },
+    "c61": { "title": "Verde Mar Velho de Pescador", "emoji": "🎣", "subtitle": "#8FBC8F", "text": "Você é #8FBC8F, um verde que sempre conta o peixe que não pegou e lembra de todos os detalhes." },
+    "c62": { "title": "Marrom Tijolo de Obra Parada", "emoji": "🧱", "subtitle": "#A52A2A", "text": "Você é #A52A2A, um marrom que construiu muita coisa e ainda não sabe onde colocar a última parede." },
+    "c63": { "title": "Rosa Claro de Chá de Bebê", "emoji": "🍼", "subtitle": "#FFB6C1", "text": "Você é #FFB6C1, um rosa que aparece com um presente tímido e sai com uma montanha de fraldas." },
+    "c64": { "title": "Verde Exército de Pé-de-Meia", "emoji": "💰", "subtitle": "#4B5320", "text": "Você é #4B5320, um verde que guarda dinheiro em cada bolso e ainda acha que é pouco." },
+    "c65": { "title": "Amarelo Limão de Velório Alegre", "emoji": "🍋", "subtitle": "#FFFACD", "text": "Você é #FFFACD, um amarelo que anima a sala mais triste e ainda leva a bronca do cerimonial." },
+    "c66": { "title": "Marfim de Pombo Urbano", "emoji": "🕊️", "subtitle": "#FFFFF0", "text": "Você é #FFFFF0, um marfim que está em toda praça e nunca sabe o que fazer com o pão." },
+    "c67": { "title": "Cinza Ardósia de Tela Azul", "emoji": "📺", "subtitle": "#778899", "text": "Você é #778899, um cinza que passa a noite em frente à tela e acha que é a tela quem está assistindo." },
+    "c68": { "title": "Vermelho Indiano de Cardápio", "emoji": "📋", "subtitle": "#CD5C5C", "text": "Você é #CD5C5C, um vermelho que lê o cardápio três vezes e pede sempre o mesmo prato." },
+    "c69": { "title": "Ciano Claro de Carro Alugado", "emoji": "🚗", "subtitle": "#E0FFFF", "text": "Você é #E0FFFF, um ciano que não é seu, mas dirige como se fosse dono do asfalto." },
+    "c70": { "title": "Roxo Médio de Fone Ruim", "emoji": "🎧", "subtitle": "#9370DB", "text": "Você é #9370DB, um roxo que ouve tudo no volume errado e acha que está em um show." },
+    "c71": { "title": "Preto de Caneta Acabando", "emoji": "🖊️", "subtitle": "#2B2B2B", "text": "Você é #2B2B2B, um preto que está sempre quase sem tinta e ainda assina o contrato com estilo." },
+    "c72": { "title": "Tomate de Salada de Quinta", "emoji": "🥗", "subtitle": "#FF6347", "text": "Você é #FF6347, um vermelho que aparece em todo prato saudável e nunca é o protagonista." },
+    "c73": { "title": "Dourado de Medalha de Chocolate", "emoji": "🥇", "subtitle": "#FFD700", "text": "Você é #FFD700, um dourado que ganha o pódio da festa e derrete na mão antes da foto." },
+    "c74": { "title": "Azul Dodger de Notificação", "emoji": "🔔", "subtitle": "#1E90FF", "text": "Você é #1E90FF, um azul que avisa tudo e ninguém sabe o que está avisando." },
+    "c75": { "title": "Laranja Escuro de Pedágio", "emoji": "🛣️", "subtitle": "#FF8C00", "text": "Você é #FF8C00, um laranja que cobra caro pela passagem e ainda oferece um cafezinho." },
+    "c76": { "title": "Azul Ardósia de Grupo de WhatsApp", "emoji": "📱", "subtitle": "#6A5ACD", "text": "Você é #6A5ACD, um azul que está em todos os grupos e nunca responde nenhum." },
+    "c77": { "title": "Rosa Antigo de Cartão-Postal", "emoji": "🖼️", "subtitle": "#E6A8D7", "text": "Você é #E6A8D7, um rosa que vem de uma viagem que ninguém lembra e ainda manda lembrança." },
+    "c78": { "title": "Verde Lima de Festa Surpresa", "emoji": "🥳", "subtitle": "#BADA55", "text": "Você é #BADA55, um verde que aparece de repente, grita parabéns e é o único que sabe quem é o aniversariante." },
+    "c79": { "title": "Bege Areia de Caixa de Sapato", "emoji": "👟", "subtitle": "#C2B280", "text": "Você é #C2B280, um bege que guarda os melhores tênis e nunca usa nenhum deles." },
+    "c80": { "title": "Azul Marinho Ferroviário", "emoji": "🚂", "subtitle": "#36648B", "text": "Você é #36648B, um azul que pega o trem certo na hora errada e ainda assim chega no destino." },
+    "c81": { "title": "Ameixa de Torta Esquecida", "emoji": "🥧", "subtitle": "#8E4585", "text": "Você é #8E4585, um roxo que estava no forno da casa da avó e ninguém lembra de ter pedido." },
+    "c82": { "title": "Rosa Marrom de Vaso Esquecido", "emoji": "🌷", "subtitle": "#B03060", "text": "Você é #B03060, um vinho que está na varanda esquecido e ainda floresce quando ninguém olha." },
+    "c83": { "title": "Vermelho Ouriço de Ideia Ruim", "emoji": "🦔", "subtitle": "#FF6B6B", "text": "Você é #FF6B6B, um vermelho que se encolhe quando é criticado e solta espinhos quando é elogiado." },
+    "c84": { "title": "Verde Água de Cadeira de Praia", "emoji": "🏝️", "subtitle": "#20B2AA", "text": "Você é #20B2AA, um verde que ocupa a cadeira de praia e ainda reclama que o sol não é seu." },
+    "c85": { "title": "Ameixa Clara de Pijama", "emoji": "🛌", "subtitle": "#DDA0DD", "text": "Você é #DDA0DD, um lilás que aparece de pijama na reunião e alega que estava em modo foco." },
+    "c86": { "title": "Cinza Escuro de Fila do Mercado", "emoji": "🛒", "subtitle": "#A9A9A9", "text": "Você é #A9A9A9, um cinza que espera o caixa com a cesta cheia e comenta cada item da frente." },
+    "c87": { "title": "Branco Neve de Hotel Barato", "emoji": "🏨", "subtitle": "#F5FFFA", "text": "Você é #F5FFFA, um branco que parece limpo de longe e revela manchas de perto." },
+    "c88": { "title": "Castanho de Couro Sintético", "emoji": "🥾", "subtitle": "#8B4513", "text": "Você é #8B4513, um marrom que parece resistente, mas racha na primeira caminhada." },
+    "c89": { "title": "Azul Céu de Alarme Matinal", "emoji": "⏰", "subtitle": "#00BFFF", "text": "Você é #00BFFF, um azul que acorda todo mundo e depois volta a dormir no sofá." },
+    "c90": { "title": "Verde Orvalho de Geladeira", "emoji": "🧊", "subtitle": "#F0FFF0", "text": "Você é #F0FFF0, um verde que fica no fundo da geladeira e sobrevive a qualquer festa." },
+    "c91": { "title": "Rosa Pastel de Confete", "emoji": "🍬", "subtitle": "#FFC0CB", "text": "Você é #FFC0CB, um rosa que aparece em cada canto da festa e ainda assim ninguém lembra de você." },
+    "c92": { "title": "Ardósia de Gerência", "emoji": "📊", "subtitle": "#556677", "text": "Você é #556677, um cinza que faz planilha para tudo, até para escolher a cor da própria planilha." },
+    "c93": { "title": "Verde Médio de Jardim Público", "emoji": "🌿", "subtitle": "#3CB371", "text": "Você é #3CB371, um verde que passa a tarde no banco da praça e conhece todo mundo pelo nome do cachorro." },
+    "c94": { "title": "Sépia de Foto de Formatura", "emoji": "📸", "subtitle": "#DAA06D", "text": "Você é #DAA06D, um marrom antigo que só aparece em foto e sempre com um sorriso desconfiado." },
+    "c95": { "title": "Pink Chiclete de Balada", "emoji": "🪩", "subtitle": "#FF00AA", "text": "Você é #FF00AA, um pink que começa a noite na pista e termina tentando achar o carro." },
+    "c96": { "title": "Khaki de Mochila Velha", "emoji": "🎒", "subtitle": "#C3B091", "text": "Você é #C3B091, um bege que carrega todo o material da escola até hoje e nunca abre o zíper." },
+    "c97": { "title": "Violeta Elétrico de Painel", "emoji": "🎛️", "subtitle": "#7F00FF", "text": "Você é #7F00FF, um roxo que tem muitos botões e ninguém sabe o que cada um faz." },
+    "c98": { "title": "Terracota de Tijolo Quente", "emoji": "🧡", "subtitle": "#E2725B", "text": "Você é #E2725B, um laranja que aquece a casa e ainda assim pede para abrir a janela." },
+    "c99": { "title": "Safira de Porta-Joias", "emoji": "💠", "subtitle": "#0F52BA", "text": "Você é #0F52BA, um azul guardado na caixinha que só sai em ocasiões muito especiais." },
+    "c100": { "title": "Creme de Bolo de Aniversário", "emoji": "🍰", "subtitle": "#F3E5AB", "text": "Você é #F3E5AB, um creme que aparece só no último pedaço e ainda assim é o mais disputado." }
+  }
+}
