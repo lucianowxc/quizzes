@@ -1,0 +1,155 @@
+{
+  "title": "Qual é a sitcom da sua vida?",
+  "subtitle": "Coincidências absurdas, vizinhos estranhos e situações impossíveis. Sua vida é um episódio de sitcom?",
+  "questions": [
+    {
+      "question": "Você chega em casa atrasado e o elevador quebra justo com seu vizinho mais estranho dentro. O que acontece?",
+      "answers": [
+        { "text": "☕ Ele me convida para um café e a conversa vira um evento social.", "points": { "friends": 0.8, "himym": 0.3 } },
+        { "text": "🏢 Descubro que ele é o meu chefe disfarçado de vizinho.", "points": { "office": 0.9 } },
+        { "text": "🧐 Reparo em cada detalhe do caminho: nada de especial, mas tudo importa.", "points": { "seinfeld": 0.8 } },
+        { "text": "📚 Ele me conta a história da vida dele, andar por andar, sem que eu peça.", "points": { "himym": 0.7, "grandeFamilia": 0.2 } }
+      ]
+    },
+    {
+      "question": "Você encontra seu ex no mesmo supermercado pela terceira vez na semana. Você:",
+      "answers": [
+        { "text": "🛒 Finjo que estou lendo o rótulo de um pote de maionese.", "points": { "chaves": 0.9, "seinfeld": 0.5 } },
+        { "text": "🔬 Calculo a probabilidade estatística disso e comunico aos amigos.", "points": { "bigBang": 0.9 } },
+        { "text": "🚔 Desconfio que ele me segue e começo uma investigação.", "points": { "b99": 0.9 } },
+        { "text": "🤍 Pergunto se ele quer dividir o carrinho e tomar um café.", "points": { "friends": 0.7, "himym": 0.4 } }
+      ]
+    },
+    {
+      "question": "Você esquece a chave de casa do lado de fora e o dia vira uma aventura. Qual é o próximo passo?",
+      "answers": [
+        { "text": "🛢️ Vou morar num barril improvisado até alguém perceber.", "points": { "chaves": 0.9 } },
+        { "text": "🔑 Peço a chave reserva para a família, que me chama de desastre.", "points": { "grandeFamilia": 0.8 } },
+        { "text": "🧠 Analiso o problema como um quebra-cabeça e encontro outra saída.", "points": { "bigBang": 0.7, "b99": 0.5 } },
+        { "text": "🎭 Transformo a situação num drama em que todo mundo tem uma opinião.", "points": { "office": 0.7, "friends": 0.3 } }
+      ]
+    },
+    {
+      "question": "Você vai ao show de uma banda local e descobre que seu chefe é o baterista. A banda é péssima. Você:",
+      "answers": [
+        { "text": "🥁 Aplaudo de pé, afinal é o chefe.", "points": { "office": 0.8 } },
+        { "text": "🎸 Subo no palco para tentar salvar a apresentação.", "points": { "b99": 0.7, "friends": 0.3 } },
+        { "text": "🍻 Vou ao bar e conto essa história para todo mundo que encontrar.", "points": { "himym": 0.8 } },
+        { "text": "🤨 Fico analisando a afinação em silêncio, sem entender nada.", "points": { "seinfeld": 0.7, "bigBang": 0.3 } }
+      ]
+    },
+    {
+      "question": "Seu celular toca com um número desconhecido. Quem atende?",
+      "answers": [
+        { "text": "📞 Um tio querendo saber se você está comendo direito.", "points": { "grandeFamilia": 0.9 } },
+        { "text": "🎙️ Alguém que fez uma entrevista de emprego por engano e quer um feedback.", "points": { "office": 0.6, "b99": 0.3 } },
+        { "text": "🦠 Um pesquisador que quer saber sobre minha rotina e minhas alergias.", "points": { "bigBang": 0.8 } },
+        { "text": "🚨 A delegacia, mas eles pedem o meu café preferido antes de tudo.", "points": { "b99": 0.8, "seinfeld": 0.2 } }
+      ]
+    },
+    {
+      "question": "Você tem uma reunião importante e só pode levar um item. Qual?",
+      "answers": [
+        { "text": "🍕 Uma pizza, porque ninguém resiste a uma pizza.", "points": { "friends": 0.8 } },
+        { "text": "📝 Uma pasta com a sua 'grande ideia'. Ninguém vai ler.", "points": { "office": 0.8 } },
+        { "text": "🎟️ O ingresso de um show que ninguém sabe se existe.", "points": { "himym": 0.8 } },
+        { "text": "🪑 Uma cadeira portátil, para sentar onde quer que esteja.", "points": { "chaves": 0.8, "seinfeld": 0.3 } }
+      ]
+    },
+    {
+      "question": "Alguém comenta: 'Isso aconteceu comigo também!' Você:",
+      "answers": [
+        { "text": "🫂 Abraço a pessoa e proponho um plano de vida em grupo.", "points": { "friends": 0.7 } },
+        { "text": "🥸 Desconfio e peço a prova da história.", "points": { "b99": 0.6 } },
+        { "text": "🎂 Digo que a minha família tem uma tradição parecida, e é bem pior.", "points": { "grandeFamilia": 0.9 } },
+        { "text": "🧬 Explico, com um gráfico, por que isso é só coincidência estatística.", "points": { "bigBang": 0.9 } }
+      ]
+    },
+    {
+      "question": "Um colega sai da empresa e, na semana seguinte, entra uma funcionária com nome quase igual ao dele e o mesmo aniversário. Você:",
+      "answers": [
+        { "text": "🪑 Pergunto se a mesa dele agora é minha.", "points": { "office": 0.8 } },
+        { "text": "🤨 Acho que é coincidência, mas passo a tarde inteira discutindo isso.", "points": { "seinfeld": 0.7 } },
+        { "text": "💬 Mando mensagem para o grupo: 'vocês viram isso?'", "points": { "friends": 0.9 } },
+        { "text": "🧾 Faço um relatório detalhado da mudança, com notas de rodapé.", "points": { "bigBang": 0.5, "b99": 0.5 } }
+      ]
+    },
+    {
+      "question": "Todo dia alguém traz um bolo para o trabalho. Você:",
+      "answers": [
+        { "text": "🎂 Pego um pedaço e pergunto de quem é o aniversário.", "points": { "office": 0.8 } },
+        { "text": "🍰 Divido com todo mundo e vira um café da tarde improvisado.", "points": { "friends": 0.9 } },
+        { "text": "🧁 Descubro que a autora é minha tia, e ela não aceita 'não' como resposta.", "points": { "grandeFamilia": 0.8 } },
+        { "text": "🚫 Recuso, porque deve ser uma armadilha do RH.", "points": { "b99": 0.6, "seinfeld": 0.3 } }
+      ]
+    },
+    {
+      "question": "Como você define a sua vida?",
+      "answers": [
+        { "text": "📺 Um episódio sobre o nada, com personagens sem graça.", "points": { "seinfeld": 0.9 } },
+        { "text": "🎢 Um roteiro cheio de reviravoltas, com final feliz.", "points": { "b99": 0.6, "friends": 0.4 } },
+        { "text": "🧪 Um experimento que deu errado, mas ainda assim deu certo.", "points": { "bigBang": 0.8 } },
+        { "text": "🏡 Uma série de família, com briga às sete da noite.", "points": { "grandeFamilia": 0.8 } }
+      ]
+    },
+    {
+      "question": "No final do mês, o vale alimentação acaba. O que você decide comer?",
+      "answers": [
+        { "text": "🥪 Um sanduíche de presunto, como sempre.", "points": { "chaves": 0.9, "seinfeld": 0.2 } },
+        { "text": "🍲 Vou até a casa da família, que sempre tem comida sobrando.", "points": { "grandeFamilia": 0.9 } },
+        { "text": "🧾 Monto uma planilha de gastos e como o que sobrou.", "points": { "bigBang": 0.6, "office": 0.4 } },
+        { "text": "🍻 Vou ao bar da esquina, porque lá alguém sempre paga a próxima.", "points": { "himym": 0.8 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "friends": {
+      "title": "Friends",
+      "emoji": "🍕",
+      "subtitle": "Seu grupo é a sua família, e o café é o quartel-general.",
+      "text": "Você é Friends: a vida gira em torno do sofá, do café e de um grupo que conversa sobre tudo o tempo todo. Sempre tem alguém com um problema amoroso, e sempre tem um plano para resolvê-lo juntos."
+    },
+    "office": {
+      "title": "The Office",
+      "emoji": "📋",
+      "subtitle": "Seu trabalho é uma novela, e o RH é o vilão.",
+      "text": "Você é The Office: cada reunião vira um espetáculo constrangedor, cada colega é um personagem e a câmera está sempre no lugar errado. Você tenta ser profissional, mas a empresa tem outros planos."
+    },
+    "seinfeld": {
+      "title": "Seinfeld",
+      "emoji": "📺",
+      "subtitle": "Uma série sobre nada, em que o nada é tudo.",
+      "text": "Você é Seinfeld: o mundo gira em torno de pequenas irritações, filas, roupas e regras sociais que ninguém explicou. Você observa tudo com ironia e transforma o cotidiano em piada."
+    },
+    "himym": {
+      "title": "How I Met Your Mother",
+      "emoji": "🍻",
+      "subtitle": "Você conta a história para os filhos, e ela sempre tem um atalho.",
+      "text": "Você é How I Met Your Mother: cada conversa tem um flashback, cada bar tem uma história e cada pessoa aparece no momento certo, mesmo que você demore a perceber. Sua memória é uma narração longa e cheia de promessas."
+    },
+    "b99": {
+      "title": "Brooklyn Nine-Nine",
+      "emoji": "🚨",
+      "subtitle": "Até a rotina de trabalho tem reviravoltas e piadas internas.",
+      "text": "Você é Brooklyn Nine-Nine: leva a sério o trabalho, mas nunca a sério demais. Sempre tem um caso absurdo, um colega competitivo e um final em que o time salva o dia com uma piada."
+    },
+    "bigBang": {
+      "title": "The Big Bang Theory",
+      "emoji": "🧪",
+      "subtitle": "Cada coincidência é um experimento, e cada experimento tem um gráfico.",
+      "text": "Você é The Big Bang Theory: transforma qualquer situação em uma análise científica e não consegue deixar um detalhe passar. Sua lógica é impecável, mas sua vida social precisa de um manual de instruções."
+    },
+    "chaves": {
+      "title": "Chaves",
+      "emoji": "🛢️",
+      "subtitle": "Vive de improviso, de barril e de confusão com o vizinho.",
+      "text": "Você é Chaves: sempre improvisa uma solução para cada problema, mesmo que ela termine em briga na vila. Ninguém entende direito como você chegou até ali, mas todo mundo sabe que você não perde a esperança."
+    },
+    "grandeFamilia": {
+      "title": "A Grande Família",
+      "emoji": "🏡",
+      "subtitle": "O jantar de domingo sempre termina em discussão e em amor.",
+      "text": "Você é A Grande Família: vive cercado de parentes que opinam sobre tudo, em uma casa onde o barulho nunca acaba. A confusão é grande, mas no fim do dia todo mundo se reúne à mesa."
+    }
+  }
+}

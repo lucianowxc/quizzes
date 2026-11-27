@@ -724,6 +724,11 @@
       "name": "Quem é você no ônibus de viagem da firma?",
       "file": "quizzes/quizOnibusViagem.json",
       "description": "Pijama, playlist ou microfone? Descubra qual personagem você seria no ônibus rumo à festa!"
+    },
+    {
+      "name": "Qual é a sitcom da sua vida?",
+      "file": "quizzes/quizSitcomDaSuaVida.json",
+      "description": "Coincidências absurdas, vizinhos estranhos e situações impossíveis. Sua vida é um episódio de sitcom?"
     }
   ]
 }
