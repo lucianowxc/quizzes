@@ -719,6 +719,11 @@
       "name": "Qual das 16 personalidades do MBTI é você?",
       "file": "quizzes/quizMBTI.json",
       "description": "Descubra seu jeitinho de ser: um pouquinho de psicologia, muita brincadeira e algumas verdades inconvenientes."
+    },
+    {
+      "name": "Quem é você no ônibus de viagem da firma?",
+      "file": "quizzes/quizOnibusViagem.json",
+      "description": "Pijama, playlist ou microfone? Descubra qual personagem você seria no ônibus rumo à festa!"
     }
   ]
 }

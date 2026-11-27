@@ -1,0 +1,146 @@
+{
+  "title": "Quem é você no ônibus de viagem da firma?",
+  "subtitle": "Pijama, playlist ou microfone? Descubra qual personagem você seria no ônibus rumo à festa de fim de ano!",
+  "questions": [
+    {
+      "question": "O ônibus sai às 6h da manhã de sábado. Qual é a sua vibe?",
+      "answers": [
+        { "text": "🌙 Pijama, travesseiro de pescoço e zero contato com a humanidade até o destino.", "points": { "dorminhoca": 0.9, "sumida": 0.2 } },
+        { "text": "🎵 Playlist própria já pronta para ser compartilhada com todo mundo.", "points": { "dj": 0.9, "guia": 0.3 } },
+        { "text": "🥖 Chego cedo, escolho o lugar e já levo lanche para a viagem inteira.", "points": { "guia": 0.5, "quintaSerie": 0.3 } },
+        { "text": "🎒 Chego com a mochila de quem vai para a excursão da escola.", "points": { "quintaSerie": 0.9, "paparazza": 0.4 } }
+      ]
+    },
+    {
+      "question": "Alguém começa a cantar no fundo do ônibus. Você:",
+      "answers": [
+        { "text": "🎤 Entro no coro sem nem pensar duas vezes.", "points": { "quintaSerie": 0.8, "dj": 0.4 } },
+        { "text": "🫥 Finjo que sou apenas mais um assento.", "points": { "dorminhoca": 0.6, "sumida": 0.5 } },
+        { "text": "📸 Filmo tudo para postar com uma legenda irônica.", "points": { "paparazza": 0.9 } },
+        { "text": "🤢 Sinto a ressaca subindo junto com o refrão.", "points": { "ressaca": 0.7, "suspeito": 0.2 } }
+      ]
+    },
+    {
+      "question": "Parada para o café na estrada. O que você faz?",
+      "answers": [
+        { "text": "🚽 Vou ao banheiro e... demoro um pouquinho.", "points": { "sumida": 0.9, "ressaca": 0.2 } },
+        { "text": "🥤 Compro a bebida mais barulhenta que encontrar.", "points": { "ressaca": 0.5, "quintaSerie": 0.6 } },
+        { "text": "🍔 Como como se fosse a última refeição da vida.", "points": { "suspeito": 0.7, "dorminhoca": 0.3 } },
+        { "text": "📢 Começo a narrar cada placa da estrada para todo mundo ouvir.", "points": { "guia": 0.9 } }
+      ]
+    },
+    {
+      "question": "Qual é a sua relação com o ar-condicionado do ônibus?",
+      "answers": [
+        { "text": "❄️ Quero frio. Ninguém tira minha cobertinha.", "points": { "dorminhoca": 0.6 } },
+        { "text": "🌬️ Abro todas as saídas de ar e torço para ninguém perceber nada.", "points": { "suspeito": 0.8, "paparazza": 0.1 } },
+        { "text": "🪟 Abro a janela e declaro que o ônibus agora é meu.", "points": { "guia": 0.3, "dj": 0.4 } },
+        { "text": "🧊 Peço para aumentar o ar, porque estou passando mal.", "points": { "ressaca": 0.9 } }
+      ]
+    },
+    {
+      "question": "Você sobe no ônibus e o assento ao seu lado está vazio. Você:",
+      "answers": [
+        { "text": "🧳 Coloco a mochila ali e fingo que está ocupado.", "points": { "sumida": 0.4, "dorminhoca": 0.5 } },
+        { "text": "🤝 Convido o primeiro colega que passar. Quanto mais gente, melhor.", "points": { "quintaSerie": 0.6, "guia": 0.4 } },
+        { "text": "🎧 Sento com o fone no ouvido, mas deixo o som vazar um pouco.", "points": { "dj": 0.9 } },
+        { "text": "🫠 Sento e já aviso que vou ao banheiro daqui a pouco.", "points": { "sumida": 0.6, "suspeito": 0.3 } }
+      ]
+    },
+    {
+      "question": "Pergunta existencial: o que é uma viagem de firma?",
+      "answers": [
+        { "text": "🧠 Uma chance de descobrir quem eu sou de verdade, longe do Slack.", "points": { "guia": 0.5, "sumida": 0.4 } },
+        { "text": "🕳️ Um portal onde o tempo deixa de existir.", "points": { "dorminhoca": 0.9 } },
+        { "text": "🥂 Um teste de como não ser demitido em público.", "points": { "ressaca": 0.3, "quintaSerie": 0.5 } },
+        { "text": "🍕 Um churrasco que se move a 80 km/h.", "points": { "suspeito": 0.4, "paparazza": 0.4 } }
+      ]
+    },
+    {
+      "question": "Já faz uma hora de estrada e o ônibus está em silêncio total. Você:",
+      "answers": [
+        { "text": "🔊 Tento puxar um cântico sozinho.", "points": { "quintaSerie": 0.7, "dj": 0.3 } },
+        { "text": "📷 Tiro uma foto do ônibus inteiro adormecido.", "points": { "paparazza": 0.8, "dorminhoca": 0.2 } },
+        { "text": "🫣 Digo 'foi o ar-condicionado' e torço para não ser eu.", "points": { "suspeito": 0.9 } },
+        { "text": "🗺️ Abro o mapa e explico a rota para quem perguntou ou não.", "points": { "guia": 0.8 } }
+      ]
+    },
+    {
+      "question": "Quando o ônibus chega ao destino, qual é a sua cara?",
+      "answers": [
+        { "text": "😵 Inteiro, mas com a alma ainda em outro estado.", "points": { "ressaca": 0.8, "dorminhoca": 0.2 } },
+        { "text": "✨ Pronto para ser o centro das atenções no hotel.", "points": { "dj": 0.5, "quintaSerie": 0.5 } },
+        { "text": "🌫️ Ninguém sabe onde eu estava, mas eu voltei.", "points": { "sumida": 0.9 } },
+        { "text": "📸 Stories, reels e fotos do hotel, tudo em dois minutos.", "points": { "paparazza": 0.7, "guia": 0.3 } }
+      ]
+    },
+    {
+      "question": "Escolha a trilha sonora da viagem:",
+      "answers": [
+        { "text": "🎶 Sertanejo universitário em repeat.", "points": { "quintaSerie": 0.6, "ressaca": 0.3 } },
+        { "text": "🎹 Um podcast de história bem detalhado.", "points": { "guia": 0.7, "dorminhoca": 0.3 } },
+        { "text": "🔇 Silêncio total. Só quero um cantinho para cochilar.", "points": { "dorminhoca": 0.7 } },
+        { "text": "🎧 Minha playlist, e ninguém pediu.", "points": { "dj": 0.9 } }
+      ]
+    },
+    {
+      "question": "Qual frase define sua participação no ônibus?",
+      "answers": [
+        { "text": "🫡 Chego, faço meu papel e saio sem ninguém perceber.", "points": { "sumida": 0.7, "dorminhoca": 0.3 } },
+        { "text": "🎈 Fui o motivo de metade das risadas e do constrangimento.", "points": { "suspeito": 0.6, "quintaSerie": 0.4 } },
+        { "text": "🍻 Sobrevivi à ida; a volta vai ser pior.", "points": { "ressaca": 0.8 } },
+        { "text": "📣 Se algo acontecer, eu já tinha avisado.", "points": { "guia": 0.8 } }
+      ]
+    }
+  ],
+  "descriptions": {
+    "dorminhoca": {
+      "title": "A Dorminhoca",
+      "emoji": "😴",
+      "subtitle": "Você chegou à viagem em modo soneca permanente.",
+      "text": "Você é a dorminhoca que entrou no ônibus e saiu de lá só no destino, com o travesseiro ainda no pescoço. Para você, a viagem é só um intervalo entre dois cochilos, e acordar é um detalhe opcional."
+    },
+    "dj": {
+      "title": "O DJ do Pen Drive",
+      "emoji": "🎧",
+      "subtitle": "A playlist é sua, e ninguém pediu, mas todos ouviram.",
+      "text": "Você é o DJ que transformou o ônibus numa pista de dança com um pen drive e uma playlist de 400 músicas. Ninguém pediu, mas a trilha sonora da firma agora tem a sua assinatura."
+    },
+    "guia": {
+      "title": "O Guia Turístico Não Pedido",
+      "emoji": "📢",
+      "subtitle": "Você narra a estrada mesmo quando ninguém está ouvindo.",
+      "text": "Você é o guia que descreve cada placa, cada curva e cada curiosidade histórica da rodovia. Ninguém pediu o tour, mas a estrada ficou mais informativa com você no microfone."
+    },
+    "quintaSerie": {
+      "title": "A Quinta Série",
+      "emoji": "🎒",
+      "subtitle": "A excursão da escola nunca acabou para você.",
+      "text": "Você é a alma da excursão da quinta série: fala alto, puxa cântico, troca de lugar a cada curva e transforma qualquer ônibus em recreio. A bagunça é sua, e você nem se arrepende."
+    },
+    "paparazza": {
+      "title": "A Paparazza do Ônibus",
+      "emoji": "📸",
+      "subtitle": "Se não foi postado, a viagem não aconteceu.",
+      "text": "Você é a paparazza da firma: registra cada soneca, cada sorriso forçado e cada foto torta. Seu feed vai ter mais conteúdo da viagem do que a própria viagem teve."
+    },
+    "ressaca": {
+      "title": "A Ressaca Ambulante",
+      "emoji": "🤢",
+      "subtitle": "A festa começou antes do ônibus sair e cobrou a conta na volta.",
+      "text": "Você é a ressaca ambulante que exagerou na bebida, ficou verde na curva e pediu para o ar-condicionado aumentar. Sobreviveu à ida, mas a volta promete ser um teste de resistência."
+    },
+    "sumida": {
+      "title": "A Sumida do Pit Stop",
+      "emoji": "🚽",
+      "subtitle": "Entrou na parada e reapareceu quando o ônibus já estava partindo.",
+      "text": "Você é a sumida que entrou no banheiro da parada e voltou só quando o motorista buzinou. Ninguém sabe exatamente onde você estava, e você prefere manter o mistério."
+    },
+    "suspeito": {
+      "title": "O Suspeito Número Um",
+      "emoji": "💨",
+      "subtitle": "Ninguém comprova nada, mas todo mundo olha para você.",
+      "text": "Você é o suspeito número um de qualquer mistério do ônibus, especialmente quando o ar-condicionado está ligado. Sua defesa é sempre a mesma: 'não fui eu, foi a estrada'."
+    }
+  }
+}
